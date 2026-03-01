@@ -9,7 +9,6 @@ Output: data/leads.json
 """
 
 import json
-import re
 import time
 import xml.etree.ElementTree as ET
 from datetime import date, datetime, timedelta
@@ -18,35 +17,32 @@ from pathlib import Path
 import requests
 
 # ── Config ────────────────────────────────────────────────────────────────────
-CONTACT_EMAIL = "hello@youragency.com"  # Required by SEC fair-use policy
+CONTACT_EMAIL = "something123@gmail.com"  # Required by SEC fair-use policy
 USER_AGENT = f"DesignAgencyLeadGen/1.0 ({CONTACT_EMAIL})"
 EDGAR_BASE = "https://www.sec.gov"
 LOOKBACK_DAYS = 60
 RATE_LIMIT_SLEEP = 0.12  # seconds between XML fetches (SEC limit: 10 req/s)
 OUTPUT_PATH = Path("data/leads.json")
+MAX_CANDIDATES = 600  # cap XML fetches per run to keep job under ~2 min
 
-# ── Industry / company name keyword filters ────────────────────────────────────
-NAME_KEYWORDS = re.compile(
-    r"\b(ai|a\.i|artificial intelligence|tech|software|saas|crypto|blockchain|"
-    r"chain|web3|defi|nft|dao|protocol|labs|studio|digital|data|cloud|platform|"
-    r"network|analytics|intelligence|autonomous|robotics|fintech|healthtech|"
-    r"edtech|proptech|insurtech|legaltech|biotech|medtech|cybersec|security)\b",
-    re.IGNORECASE,
-)
-
-SKIP_INDUSTRY_KEYWORDS = re.compile(
-    r"real estate|mortgage|oil|gas|mining|agriculture|restaurant|hospitality|"
-    r"entertainment|film|music|sports|retail|fashion",
-    re.IGNORECASE,
-)
-
-TECH_INDUSTRY_TYPES = {
-    "Technology",
-    "Computers",
-    "Telecommunications",
-    "Biotechnology",
-    "Health Sciences",
-    "Finance",  # captures fintech
+# ── Industry filters (applied at XML level, not name level) ───────────────────
+# Skip these EDGAR industryGroupType values — they are definitively non-tech
+SKIP_INDUSTRIES = {
+    "Pooled Investment Fund",
+    "Real Estate",
+    "Oil and Gas",
+    "Mining",
+    "Agriculture",
+    "Restaurants",
+    "Hotels and Motels",
+    "Amusement and Recreation",
+    "Motion Picture",
+    "Broadcasting",
+    "Retail",
+    "Construction",
+    "Printing and Publishing",
+    "Insurance",
+    "Other Banking & Financial Services",
 }
 
 # Amount range: $100K – $15M
@@ -114,8 +110,6 @@ def parse_form_idx(raw: str, cutoff: date) -> list[dict]:
         except ValueError:
             continue
         if filed_date < cutoff:
-            continue
-        if not NAME_KEYWORDS.search(company):
             continue
         candidates.append(
             {
@@ -198,12 +192,8 @@ def parse_xml(xml_text: str, cik: str, accession: str, filed_date: str) -> dict 
 
     # ── Industry filter ───────────────────────────────────────────────────────
     industry = desc_text("industryGroupType")
-    if industry and SKIP_INDUSTRY_KEYWORDS.search(industry):
+    if industry in SKIP_INDUSTRIES:
         return None
-    # Accept if industry matches tech list OR is empty (we'll rely on name filter)
-    if industry and not any(t.lower() in industry.lower() for t in TECH_INDUSTRY_TYPES):
-        # Still allow if company name had keyword match (already filtered upstream)
-        pass
 
     # ── Entity type filter ────────────────────────────────────────────────────
     entity_type = desc_text("entityType")
@@ -315,7 +305,7 @@ def main():
             print(f"  Warning: could not fetch {year}/{quarter}: {e}")
             continue
         entries = parse_form_idx(raw, cutoff)
-        print(f"  {year}/{quarter}: {len(entries)} Form D candidates after name filter")
+        print(f"  {year}/{quarter}: {len(entries)} Form D entries in window")
         raw_candidates.extend(entries)
 
     # Deduplicate by CIK + accession
@@ -329,7 +319,9 @@ def main():
             c["accession"] = acc
             unique_candidates.append(c)
 
-    print(f"\nTotal unique candidates: {len(unique_candidates)}")
+    # Cap to most recent MAX_CANDIDATES to keep run time predictable
+    unique_candidates = unique_candidates[:MAX_CANDIDATES]
+    print(f"\nTotal candidates to process: {len(unique_candidates)} (cap: {MAX_CANDIDATES})")
 
     # ── Step 2: Fetch and parse XML for each candidate ────────────────────────
     leads = []
