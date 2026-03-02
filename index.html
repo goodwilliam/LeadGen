@@ -86,6 +86,23 @@
     color: var(--text-muted);
   }
 
+  select {
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    color: var(--text);
+    border-radius: 6px;
+    padding: 5px 28px 5px 10px;
+    font-size: 13px;
+    outline: none;
+    cursor: pointer;
+    appearance: none;
+    -webkit-appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%237d8590' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 8px center;
+  }
+  select:focus { border-color: var(--accent); }
+
   .filter-group {
     display: flex;
     align-items: center;
@@ -274,6 +291,13 @@
       <button data-amount="large">$3M–$15M</button>
     </div>
   </div>
+
+  <div class="filter-group">
+    <label>Industry</label>
+    <select id="industry-filter">
+      <option value="">All industries</option>
+    </select>
+  </div>
 </div>
 
 <div class="main">
@@ -311,6 +335,7 @@ let sortCol = "filed_date";
 let sortAsc = false;
 let filterDays = 30;
 let filterAmount = "all";
+let filterIndustry = "";
 let searchText = "";
 const today = new Date();
 today.setHours(0, 0, 0, 0);
@@ -362,6 +387,8 @@ function applyFilters() {
     if (filterAmount === "small" && lead.amount >= 500_000) return false;
     if (filterAmount === "mid"   && (lead.amount < 500_000 || lead.amount > 3_000_000)) return false;
     if (filterAmount === "large" && (lead.amount < 3_000_000 || lead.amount > 15_000_000)) return false;
+
+    if (filterIndustry && (lead.industry || "") !== filterIndustry) return false;
 
     if (searchText) {
       const hay = [
@@ -481,6 +508,23 @@ document.getElementById("amount-filter").addEventListener("click", e => {
   render();
 });
 
+// ── Industry filter ───────────────────────────────────────────────────────────
+document.getElementById("industry-filter").addEventListener("change", e => {
+  filterIndustry = e.target.value;
+  render();
+});
+
+function populateIndustryDropdown() {
+  const industries = [...new Set(allLeads.map(l => l.industry || "").filter(Boolean))].sort();
+  const sel = document.getElementById("industry-filter");
+  industries.forEach(ind => {
+    const opt = document.createElement("option");
+    opt.value = ind;
+    opt.textContent = ind;
+    sel.appendChild(opt);
+  });
+}
+
 // ── Search ────────────────────────────────────────────────────────────────────
 document.getElementById("search").addEventListener("input", e => {
   searchText = e.target.value.toLowerCase().trim();
@@ -502,6 +546,7 @@ async function loadData() {
       `${data.count} leads · updated ${genAt}`;
 
     document.getElementById("loading").style.display = "none";
+    populateIndustryDropdown();
     render();
   } catch (err) {
     document.getElementById("loading").innerHTML =
