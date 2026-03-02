@@ -285,15 +285,42 @@ def fetch_xml(url: str) -> str | None:
         return None
 
 
+def load_existing_leads() -> tuple[list[dict], set[tuple], str | None]:
+    """Load existing leads.json. Returns (leads, seen_keys, last_filed_date)."""
+    if not OUTPUT_PATH.exists():
+        return [], set(), None
+    try:
+        with open(OUTPUT_PATH) as f:
+            data = json.load(f)
+        leads = data.get("leads", [])
+        seen = {(l["cik"], l["accession"]) for l in leads}
+        last_date = max((l["filed_date"] for l in leads), default=None)
+        return leads, seen, last_date
+    except Exception:
+        return [], set(), None
+
+
 def main():
     today = date.today()
     cutoff = today - timedelta(days=LOOKBACK_DAYS)
-    print(f"Fetching Form D leads filed {cutoff} → {today}")
+
+    # ── Load existing data ────────────────────────────────────────────────────
+    existing_leads, existing_keys, last_filed_date = load_existing_leads()
+
+    # Incremental mode: only fetch filings newer than what we already have
+    # Full mode: no existing data, rebuild from scratch
+    if last_filed_date:
+        incremental_cutoff = date.fromisoformat(last_filed_date)
+        print(f"Incremental mode: fetching filings after {incremental_cutoff} (have {len(existing_leads)} existing leads)")
+        fetch_cutoff = incremental_cutoff
+    else:
+        print(f"Full mode: fetching Form D leads filed {cutoff} → {today}")
+        fetch_cutoff = cutoff
 
     quarters = get_quarters_to_fetch()
     print(f"Quarters to scan: {quarters}")
 
-    # ── Step 1: Collect candidates from form.idx ──────────────────────────────
+    # ── Step 1: Collect NEW candidates from form.idx ──────────────────────────
     raw_candidates: list[dict] = []
     for year, quarter in quarters:
         try:
@@ -301,55 +328,66 @@ def main():
         except requests.RequestException as e:
             print(f"  Warning: could not fetch {year}/{quarter}: {e}")
             continue
-        entries = parse_form_idx(raw, cutoff)
-        print(f"  {year}/{quarter}: {len(entries)} Form D entries in window")
+        entries = parse_form_idx(raw, fetch_cutoff)
+        print(f"  {year}/{quarter}: {len(entries)} Form D entries since {fetch_cutoff}")
         raw_candidates.extend(entries)
 
-    # Deduplicate by CIK + accession
-    seen = set()
-    unique_candidates = []
+    # Deduplicate and skip already-known filings
+    seen_now = set(existing_keys)
+    new_candidates = []
     for c in raw_candidates:
         acc = accession_from_filename(c["filename"])
         key = (c["cik"], acc)
-        if key not in seen:
-            seen.add(key)
+        if key not in seen_now:
+            seen_now.add(key)
             c["accession"] = acc
-            unique_candidates.append(c)
+            new_candidates.append(c)
 
-    # Sort newest-first then cap so we always process the freshest filings
-    unique_candidates.sort(key=lambda x: x["filed_date"], reverse=True)
-    unique_candidates = unique_candidates[:MAX_CANDIDATES]
-    print(f"\nTotal candidates to process: {len(unique_candidates)} (cap: {MAX_CANDIDATES})")
+    new_candidates.sort(key=lambda x: x["filed_date"], reverse=True)
+    new_candidates = new_candidates[:MAX_CANDIDATES]
+    print(f"\nNew candidates to fetch: {len(new_candidates)}")
 
-    # ── Step 2: Fetch and parse XML for each candidate ────────────────────────
-    leads = []
-    for i, candidate in enumerate(unique_candidates, 1):
+    if not new_candidates:
+        print("Nothing new — leads.json is already up to date.")
+        # Still rewrite to update generated_at timestamp
+        OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
+        with open(OUTPUT_PATH, "w") as f:
+            json.dump({
+                "generated_at": datetime.utcnow().isoformat() + "Z",
+                "cutoff_date": cutoff.isoformat(),
+                "count": len(existing_leads),
+                "leads": existing_leads,
+            }, f, indent=2)
+        return
+
+    # ── Step 2: Fetch XML only for new candidates ─────────────────────────────
+    new_leads = []
+    for i, candidate in enumerate(new_candidates, 1):
         cik = candidate["cik"]
         acc = candidate["accession"]
         xml_url = build_xml_url(cik, acc)
 
-        print(f"  [{i}/{len(unique_candidates)}] {candidate['company']} — {xml_url}")
+        print(f"  [{i}/{len(new_candidates)}] {candidate['company']}")
         xml_text = fetch_xml(xml_url)
         time.sleep(RATE_LIMIT_SLEEP)
 
         if not xml_text:
-            print(f"    Skipped: no XML")
             continue
 
         lead = parse_xml(xml_text, cik, acc, candidate["filed_date"])
         if lead is None:
-            print(f"    Skipped: filtered out")
             continue
 
-        # Use name from index if XML didn't provide one
         if not lead["company"]:
             lead["company"] = candidate["company"]
 
-        leads.append(lead)
+        new_leads.append(lead)
         print(f"    Added: {lead['company']} | ${lead['amount']:,.0f} | {lead['industry']}")
 
-    # ── Step 3: Sort and write output ─────────────────────────────────────────
-    leads.sort(key=lambda x: x["filed_date"], reverse=True)
+    # ── Step 3: Merge new + existing, drop anything older than cutoff ─────────
+    all_leads = new_leads + existing_leads
+    all_leads = [l for l in all_leads if l["filed_date"] >= cutoff.isoformat()]
+    all_leads.sort(key=lambda x: x["filed_date"], reverse=True)
 
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     with open(OUTPUT_PATH, "w") as f:
@@ -357,14 +395,14 @@ def main():
             {
                 "generated_at": datetime.utcnow().isoformat() + "Z",
                 "cutoff_date": cutoff.isoformat(),
-                "count": len(leads),
-                "leads": leads,
+                "count": len(all_leads),
+                "leads": all_leads,
             },
             f,
             indent=2,
         )
 
-    print(f"\nDone. {len(leads)} leads written to {OUTPUT_PATH}")
+    print(f"\nDone. +{len(new_leads)} new leads, {len(all_leads)} total in leads.json")
 
 
 if __name__ == "__main__":
