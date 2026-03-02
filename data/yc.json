@@ -1,0 +1,1245 @@
+{
+  "generated_at": "2026-03-02T22:26:56.464519Z",
+  "count": 60,
+  "companies": [
+    {
+      "name": "Mercura",
+      "batch": "W25",
+      "website": "https://www.mercura.ai",
+      "one_liner": "AI Quote and Order Automation for Distributors & Manufacturers",
+      "industries": [
+        "B2B",
+        "Sales"
+      ],
+      "tags": [],
+      "team_size": 14,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/mercura",
+      "regions": []
+    },
+    {
+      "name": "Mentra",
+      "batch": "W25",
+      "website": "https://mentra.glass",
+      "one_liner": "Building the open source smart glasses operating system.",
+      "industries": [
+        "Consumer",
+        "Virtual and Augmented Reality"
+      ],
+      "tags": [
+        "Artificial Intelligence",
+        "Hardware",
+        "Consumer",
+        "Open Source",
+        "AR"
+      ],
+      "team_size": 12,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/mentra",
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ]
+    },
+    {
+      "name": "SAMMY Labs",
+      "batch": "W25",
+      "website": "https://www.sammylabs.com",
+      "one_liner": "SAMMY Labs, the knowledge layer for your people and AI",
+      "industries": [
+        "B2B"
+      ],
+      "tags": [],
+      "team_size": 10,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/sammy-labs",
+      "regions": []
+    },
+    {
+      "name": "BlindPay",
+      "batch": "W25",
+      "website": "https://blindpay.com/",
+      "one_liner": "Stablecoin API for global payments",
+      "industries": [
+        "Fintech",
+        "Payments"
+      ],
+      "tags": [
+        "Fintech",
+        "Crypto / Web3",
+        "Payments",
+        "API"
+      ],
+      "team_size": 9,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/blindpay",
+      "regions": []
+    },
+    {
+      "name": "Browser Use",
+      "batch": "W25",
+      "website": "https://browser-use.com",
+      "one_liner": "Leading open-source web agent project with 50k stars in 3 months",
+      "industries": [
+        "B2B"
+      ],
+      "tags": [
+        "Open Source",
+        "Automation"
+      ],
+      "team_size": 7,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/browser-use",
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ]
+    },
+    {
+      "name": "TrainLoop",
+      "batch": "W25",
+      "website": "http://trainloop.ai",
+      "one_liner": "Reasoning Fine-Tuning",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "tags": [
+        "Developer Tools",
+        "Generative AI",
+        "Reinforcement Learning"
+      ],
+      "team_size": 6,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/trainloop",
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ]
+    },
+    {
+      "name": "Red Barn Robotics",
+      "batch": "W25",
+      "website": "https://www.redbarnrobotics.com",
+      "one_liner": "A Roomba for weeds on a farm. ",
+      "industries": [
+        "Industrials",
+        "Agriculture"
+      ],
+      "tags": [],
+      "team_size": 5,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/red-barn-robotics",
+      "regions": []
+    },
+    {
+      "name": "Vantel",
+      "batch": "W25",
+      "website": "https://vantel.com/",
+      "one_liner": "AI Platform for Commercial Insurance Brokerages",
+      "industries": [
+        "Fintech",
+        "Insurance"
+      ],
+      "tags": [
+        "Documents",
+        "Insurance",
+        "CRM"
+      ],
+      "team_size": 4,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/vantel",
+      "regions": []
+    },
+    {
+      "name": "Fira",
+      "batch": "W25",
+      "website": "https://firaresearch.com/",
+      "one_liner": "Financial research platform for investment firms",
+      "industries": [
+        "B2B",
+        "Finance and Accounting"
+      ],
+      "tags": [],
+      "team_size": 4,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/fira",
+      "regions": []
+    },
+    {
+      "name": "Instinct",
+      "batch": "W25",
+      "website": "https://www.instinct-space.com/",
+      "one_liner": "Building lunar landers",
+      "industries": [
+        "Industrials",
+        "Aviation and Space"
+      ],
+      "tags": [],
+      "team_size": 4,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/instinct",
+      "regions": []
+    },
+    {
+      "name": "assistant-ui",
+      "batch": "W25",
+      "website": "https://assistant-ui.com",
+      "one_liner": "Open Source React.js Library for AI Chat",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "tags": [
+        "Developer Tools",
+        "Generative AI",
+        "Chat",
+        "Web Development",
+        "AI Assistant"
+      ],
+      "team_size": 3,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/assistant-ui",
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ]
+    },
+    {
+      "name": "Artifact",
+      "batch": "W25",
+      "website": "https://www.artifact.engineer/",
+      "one_liner": "An Collaborative, AI-native IDE for Hardware Engineers",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "tags": [],
+      "team_size": 3,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/artifact-2",
+      "regions": []
+    },
+    {
+      "name": "Axal",
+      "batch": "W25",
+      "website": "https://www.axal.ai/",
+      "one_liner": "Automate Data Entry From Inbox to ERP",
+      "industries": [
+        "B2B"
+      ],
+      "tags": [
+        "Manufacturing",
+        "Enterprise Software",
+        "Automation"
+      ],
+      "team_size": 2,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/axal",
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ]
+    },
+    {
+      "name": "Dex",
+      "batch": "W25",
+      "website": "https://joindex.com",
+      "one_liner": "The AI Coworker in Chrome",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "tags": [
+        "Artificial Intelligence",
+        "Productivity",
+        "Consumer Products",
+        "AI"
+      ],
+      "team_size": 2,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/joindex",
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ]
+    },
+    {
+      "name": "Candid",
+      "batch": "W25",
+      "website": "https://trycandid.com",
+      "one_liner": "The hiring platform for exceptional talent",
+      "industries": [
+        "B2B"
+      ],
+      "tags": [],
+      "team_size": 2,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/trycandid",
+      "regions": []
+    },
+    {
+      "name": "Lightbox",
+      "batch": "W25",
+      "website": "https://www.lightbox.sh/",
+      "one_liner": "Cursor for Content Creation",
+      "industries": [
+        "Consumer"
+      ],
+      "tags": [
+        "Artificial Intelligence",
+        "Design",
+        "Design Tools"
+      ],
+      "team_size": 2,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/lightbox",
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ]
+    },
+    {
+      "name": "Cedar",
+      "batch": "W25",
+      "website": "https://www.cedarcopilot.com",
+      "one_liner": "The open source copilot for any app",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "tags": [],
+      "team_size": 2,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/cedar",
+      "regions": []
+    },
+    {
+      "name": "TamLabs",
+      "batch": "W25",
+      "website": "https://tamlabs.ai",
+      "one_liner": "Cursor for Microsoft Word",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "tags": [
+        "Finance",
+        "Productivity",
+        "Legal",
+        "AI",
+        "AI Assistant"
+      ],
+      "team_size": 2,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/tamlabs",
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ]
+    },
+    {
+      "name": "CopyCat",
+      "batch": "W25",
+      "website": "https://runcopycat.com",
+      "one_liner": "AI-Powered Automation to Transform Your Back Office",
+      "industries": [
+        "B2B",
+        "Operations"
+      ],
+      "tags": [
+        "Artificial Intelligence",
+        "B2B",
+        "Logistics",
+        "Healthcare",
+        "Operations"
+      ],
+      "team_size": 2,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/copycat",
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ]
+    },
+    {
+      "name": "Ergo",
+      "batch": "W25",
+      "website": "https://joinergo.com",
+      "one_liner": "AI Agents for Revenue Teams",
+      "industries": [
+        "B2B",
+        "Sales"
+      ],
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "B2B",
+        "Sales"
+      ],
+      "team_size": 0,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/ergo",
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ]
+    },
+    {
+      "name": "Merlin AI",
+      "batch": "S24",
+      "website": "https://www.merlinai.co",
+      "one_liner": "AI powered ERP for Construction",
+      "industries": [
+        "B2B"
+      ],
+      "tags": [
+        "SaaS",
+        "Construction",
+        "B2B",
+        "Enterprise Software",
+        "AI"
+      ],
+      "team_size": 28,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/merlin-ai",
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ]
+    },
+    {
+      "name": "Arva AI",
+      "batch": "S24",
+      "website": "https://www.arva.ai",
+      "one_liner": "AI Agents to scale AML, KYB and KYC operations",
+      "industries": [
+        "B2B"
+      ],
+      "tags": [
+        "Fintech",
+        "B2B",
+        "Compliance",
+        "Regtech",
+        "AI"
+      ],
+      "team_size": 14,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/arva-ai",
+      "regions": []
+    },
+    {
+      "name": "Capitol AI",
+      "batch": "S24",
+      "website": "https://www.capitol.ai/",
+      "one_liner": "Model-agnostic AI for enterprises: governed, embedded, decision-grade.",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "tags": [
+        "AI-Enhanced Learning",
+        "Artificial Intelligence",
+        "Workflow Automation",
+        "Analytics",
+        "Media"
+      ],
+      "team_size": 11,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/capitol-ai",
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ]
+    },
+    {
+      "name": "Syntra",
+      "batch": "S24",
+      "website": "https://www.syntra.com",
+      "one_liner": "AI chart review for speciality medical clinics.",
+      "industries": [
+        "Healthcare",
+        "Healthcare IT"
+      ],
+      "tags": [
+        "Healthcare IT",
+        "Billing",
+        "AI"
+      ],
+      "team_size": 9,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/syntra",
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ]
+    },
+    {
+      "name": "SimCare",
+      "batch": "S24",
+      "website": "https://simcare.ai",
+      "one_liner": "AI avatars to scale healthcare training.",
+      "industries": [
+        "Healthcare"
+      ],
+      "tags": [
+        "AI-Enhanced Learning",
+        "Education",
+        "Healthcare",
+        "Edtech"
+      ],
+      "team_size": 7,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/simcare",
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ]
+    },
+    {
+      "name": "Overlap",
+      "batch": "S24",
+      "website": "https://www.overlap.ai",
+      "one_liner": "Multimodal AI agents for video",
+      "industries": [
+        "Consumer",
+        "Content"
+      ],
+      "tags": [
+        "Artificial Intelligence",
+        "Consumer",
+        "Media",
+        "Podcasts"
+      ],
+      "team_size": 6,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/overlap",
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ]
+    },
+    {
+      "name": "Freestyle",
+      "batch": "S24",
+      "website": "https://www.freestyle.sh",
+      "one_liner": "We run and deploy code your AI wrote",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "tags": [
+        "Developer Tools",
+        "Open Source",
+        "Web Development",
+        "Cloud Computing"
+      ],
+      "team_size": 5,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/freestyle",
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ]
+    },
+    {
+      "name": "Outerport",
+      "batch": "S24",
+      "website": "https://outerport.com",
+      "one_liner": "Turn diagrams, technical documents, and CAD into structured data",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "tags": [],
+      "team_size": 4,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/outerport",
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ]
+    },
+    {
+      "name": "Conductor",
+      "batch": "S24",
+      "website": "https://conductor.build",
+      "one_liner": "Run a team of coding agents on your Mac",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools"
+      ],
+      "team_size": 4,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/conductor",
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ]
+    },
+    {
+      "name": "Affil.ai",
+      "batch": "S24",
+      "website": "https://affil.ai/",
+      "one_liner": "AI Affiliate Network For Financial Companies",
+      "industries": [
+        "B2B",
+        "Marketing"
+      ],
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "B2B",
+        "Compliance",
+        "Marketing"
+      ],
+      "team_size": 4,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/affil-ai",
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ]
+    },
+    {
+      "name": "Patched",
+      "batch": "S24",
+      "website": "https://patched.codes",
+      "one_liner": "Agentic workflows for Enterprise IT and Ops teams",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "tags": [],
+      "team_size": 4,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/patched",
+      "regions": []
+    },
+    {
+      "name": "PathPilot",
+      "batch": "S24",
+      "website": "https://www.getpathpilot.com/",
+      "one_liner": "AI Agents for Lending Operations",
+      "industries": [
+        "B2B"
+      ],
+      "tags": [
+        "Artificial Intelligence",
+        "Finance",
+        "B2B",
+        "Lending"
+      ],
+      "team_size": 3,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/pathpilot",
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ]
+    },
+    {
+      "name": "Bits to Atoms",
+      "batch": "S24",
+      "website": "https://bitstoatoms.com/",
+      "one_liner": "Match job seekers to roles at deep technology startups.",
+      "industries": [
+        "Consumer",
+        "Job and Career Services"
+      ],
+      "tags": [],
+      "team_size": 3,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/bits-to-atoms",
+      "regions": []
+    },
+    {
+      "name": "Midship",
+      "batch": "S24",
+      "website": "https://midship.ai/",
+      "one_liner": "AI for SOX testing",
+      "industries": [
+        "B2B",
+        "Finance and Accounting"
+      ],
+      "tags": [],
+      "team_size": 3,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/midship",
+      "regions": []
+    },
+    {
+      "name": "Mica AI",
+      "batch": "S24",
+      "website": "https://usemica.com/",
+      "one_liner": "Replace the humans fixing bad data",
+      "industries": [
+        "B2B",
+        "Operations"
+      ],
+      "tags": [
+        "Data Science",
+        "Data Engineering",
+        "Enterprise Software"
+      ],
+      "team_size": 3,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/mica-ai",
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ]
+    },
+    {
+      "name": "DreamRP",
+      "batch": "S24",
+      "website": "https://www.dreamrp.com/",
+      "one_liner": "Tech and platforms for human creators and the entertainment industry",
+      "industries": [
+        "Consumer"
+      ],
+      "tags": [
+        "Artificial Intelligence",
+        "Generative AI",
+        "Consumer",
+        "Entertainment",
+        "AI"
+      ],
+      "team_size": 2,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/dreamrp",
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ]
+    },
+    {
+      "name": "OrgOrg",
+      "batch": "S24",
+      "website": "https://orgorg.com",
+      "one_liner": "Organizational productivity suite for companies",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "tags": [
+        "B2B",
+        "Productivity",
+        "Collaboration",
+        "Operations"
+      ],
+      "team_size": 2,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/orgorg",
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ]
+    },
+    {
+      "name": "Village Labs",
+      "batch": "S24",
+      "website": "https://villagelabs.app/",
+      "one_liner": "Helping America's businesses become employee owned",
+      "industries": [
+        "B2B",
+        "Human Resources"
+      ],
+      "tags": [
+        "Fintech",
+        "Human Resources"
+      ],
+      "team_size": 2,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/village-labs",
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ]
+    },
+    {
+      "name": "Formula Insight",
+      "batch": "S24",
+      "website": "https://www.formulainsight.io/",
+      "one_liner": "Help Institutional Investors manage, track & query their Excel models",
+      "industries": [
+        "B2B"
+      ],
+      "tags": [
+        "Fintech",
+        "SaaS",
+        "B2B",
+        "Workflow Automation",
+        "Enterprise Software"
+      ],
+      "team_size": 2,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/formula-insight",
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ]
+    },
+    {
+      "name": "Void",
+      "batch": "S24",
+      "website": "https://useglass.ai",
+      "one_liner": "The open source Cursor alternative",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "tags": [
+        "Artificial Intelligence",
+        "Developer Tools"
+      ],
+      "team_size": 2,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/void",
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ]
+    },
+    {
+      "name": "RetailReady",
+      "batch": "W24",
+      "website": "https://www.retailreadyai.com/",
+      "one_liner": "An AI-powered supply chain compliance engine",
+      "industries": [
+        "B2B",
+        "Supply Chain and Logistics"
+      ],
+      "tags": [
+        "B2B",
+        "Compliance",
+        "Logistics",
+        "Supply Chain",
+        "AI"
+      ],
+      "team_size": 12,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/retailready",
+      "regions": []
+    },
+    {
+      "name": "K-Scale Labs",
+      "batch": "W24",
+      "website": "https://kscale.dev/",
+      "one_liner": "Open-source humanoid robots",
+      "industries": [
+        "Consumer",
+        "Consumer Electronics"
+      ],
+      "tags": [
+        "Machine Learning",
+        "Robotics",
+        "Consumer",
+        "AI"
+      ],
+      "team_size": 10,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/k-scale-labs",
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ]
+    },
+    {
+      "name": "Marr Labs",
+      "batch": "W24",
+      "website": "https://www.marrlabs.com/",
+      "one_liner": "AI-voice agents that are indistinguishable from humans.",
+      "industries": [
+        "B2B"
+      ],
+      "tags": [
+        "Artificial Intelligence",
+        "Conversational AI",
+        "AI Assistant"
+      ],
+      "team_size": 9,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/marr-labs",
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ]
+    },
+    {
+      "name": "GetCrux",
+      "batch": "W24",
+      "website": "http://getcrux.ai/",
+      "one_liner": "AI Creative Strategist",
+      "industries": [
+        "B2B",
+        "Analytics"
+      ],
+      "tags": [
+        "Artificial Intelligence",
+        "SaaS",
+        "Analytics",
+        "Marketing",
+        "Automation"
+      ],
+      "team_size": 9,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/getcrux",
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ]
+    },
+    {
+      "name": "CrowdVolt",
+      "batch": "W24",
+      "website": "https://crowdvolt.com/",
+      "one_liner": "The integration layer for live events infrastructure ",
+      "industries": [
+        "Consumer"
+      ],
+      "tags": [
+        "Marketplace",
+        "Entertainment",
+        "Social Network",
+        "Music",
+        "Infrastructure"
+      ],
+      "team_size": 8,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/crowdvolt",
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ]
+    },
+    {
+      "name": "Indemni",
+      "batch": "W24",
+      "website": "http://www.indemni.com",
+      "one_liner": "Cargo Theft and Fraud Prevention Platform",
+      "industries": [
+        "B2B",
+        "Supply Chain and Logistics"
+      ],
+      "tags": [
+        "Identity",
+        "Logistics",
+        "Supply Chain",
+        "Fraud Prevention",
+        "Fraud Detection"
+      ],
+      "team_size": 7,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/indemni",
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ]
+    },
+    {
+      "name": "Yarn",
+      "batch": "W24",
+      "website": "https://www.yarn.so",
+      "one_liner": "Make sales and marketing videos with AI.",
+      "industries": [
+        "B2B"
+      ],
+      "tags": [
+        "B2B",
+        "Sales",
+        "Video",
+        "Marketing",
+        "AI"
+      ],
+      "team_size": 6,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/yarn-2",
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ]
+    },
+    {
+      "name": "ParcelBio",
+      "batch": "W24",
+      "website": "https://parcelbio.com/",
+      "one_liner": "Next-generation mRNA medicines",
+      "industries": [
+        "Healthcare",
+        "Therapeutics"
+      ],
+      "tags": [],
+      "team_size": 5,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/parcelbio",
+      "regions": []
+    },
+    {
+      "name": "Same",
+      "batch": "W24",
+      "website": "https://same.new",
+      "one_liner": "Build products without coding",
+      "industries": [
+        "Consumer",
+        "Content"
+      ],
+      "tags": [
+        "Artificial Intelligence"
+      ],
+      "team_size": 5,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/same",
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ]
+    },
+    {
+      "name": "Mathos",
+      "batch": "W24",
+      "website": "https://info.mathos.ai/",
+      "one_liner": "Ultimate AI Math Problem Solver to Revolutionize Personalized Learning",
+      "industries": [
+        "Education"
+      ],
+      "tags": [
+        "AI-Enhanced Learning",
+        "Education",
+        "Generative AI",
+        "Edtech",
+        "AI"
+      ],
+      "team_size": 5,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/mathos",
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Partly Remote"
+      ]
+    },
+    {
+      "name": "Quivr",
+      "batch": "W24",
+      "website": "https://www.quivr.app/",
+      "one_liner": "AI-powered auto-resolutions and reply suggestions for customer\u2026",
+      "industries": [
+        "B2B",
+        "Productivity"
+      ],
+      "tags": [],
+      "team_size": 5,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/quivr",
+      "regions": [
+        "France",
+        "Europe",
+        "Remote",
+        "Partly Remote"
+      ]
+    },
+    {
+      "name": "Reprompt",
+      "batch": "W24",
+      "website": "https://repromptai.com",
+      "one_liner": "AI Agents for Location",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "tags": [],
+      "team_size": 3,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/reprompt",
+      "regions": []
+    },
+    {
+      "name": "InspectMind AI",
+      "batch": "W24",
+      "website": "https://www.inspectmind.ai",
+      "one_liner": "AI agent for construction drawings review",
+      "industries": [
+        "Real Estate and Construction",
+        "Construction"
+      ],
+      "tags": [
+        "Artificial Intelligence",
+        "Construction",
+        "B2B",
+        "Proptech",
+        "AI"
+      ],
+      "team_size": 3,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/inspectmind-ai",
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ]
+    },
+    {
+      "name": "Blacksmith",
+      "batch": "W24",
+      "website": "https://blacksmith.sh/",
+      "one_liner": "The fastest way to run your GitHub Actions",
+      "industries": [
+        "B2B",
+        "Infrastructure"
+      ],
+      "tags": [],
+      "team_size": 3,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/blacksmith",
+      "regions": []
+    },
+    {
+      "name": "kater.ai",
+      "batch": "W24",
+      "website": "https://www.kater.ai",
+      "one_liner": "Deliver complete data analysis from a single question",
+      "industries": [
+        "B2B",
+        "Analytics"
+      ],
+      "tags": [
+        "Artificial Intelligence",
+        "Analytics",
+        "Data Engineering"
+      ],
+      "team_size": 3,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/kater-ai",
+      "regions": [
+        "United States of America",
+        "America / Canada",
+        "Remote",
+        "Fully Remote"
+      ]
+    },
+    {
+      "name": "Forge Rewards",
+      "batch": "W24",
+      "website": "https://www.joinforge.app/",
+      "one_liner": "Starbucks app for restaurants",
+      "industries": [
+        "B2B"
+      ],
+      "tags": [
+        "Artificial Intelligence",
+        "Fintech",
+        "Food Tech"
+      ],
+      "team_size": 2,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/forge-rewards",
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ]
+    },
+    {
+      "name": "Dropback",
+      "batch": "W24",
+      "website": "https://www.dropback.com",
+      "one_liner": "The front office software suite for college sports",
+      "industries": [
+        "Fintech"
+      ],
+      "tags": [],
+      "team_size": 2,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/dropback",
+      "regions": [
+        "Remote",
+        "Fully Remote"
+      ]
+    },
+    {
+      "name": "Tower",
+      "batch": "W24",
+      "website": "https://withtower.com",
+      "one_liner": "M&A due diligence platform powered by AI",
+      "industries": [
+        "B2B",
+        "Legal"
+      ],
+      "tags": [
+        "Workflow Automation",
+        "Legal",
+        "LegalTech",
+        "AI",
+        "AI Assistant"
+      ],
+      "team_size": 2,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/tower",
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ]
+    },
+    {
+      "name": "Dragoneye",
+      "batch": "W24",
+      "website": "https://dragoneye.ai/",
+      "one_liner": "Custom video detection models in less than 5 minutes",
+      "industries": [
+        "B2B",
+        "Engineering, Product and Design"
+      ],
+      "tags": [
+        "Developer Tools",
+        "Computer Vision",
+        "AI",
+        "ML"
+      ],
+      "team_size": 2,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/dragoneye",
+      "regions": [
+        "United States of America",
+        "America / Canada"
+      ]
+    },
+    {
+      "name": "NowHouse",
+      "batch": "W24",
+      "website": "https://www.nowhouse.io",
+      "one_liner": "NowHouse helps stock brokerages settle trades instantly.",
+      "industries": [
+        "Fintech"
+      ],
+      "tags": [
+        "Fintech",
+        "SaaS",
+        "Enterprise",
+        "Infrastructure",
+        "AI"
+      ],
+      "team_size": 0,
+      "status": "Active",
+      "yc_url": "https://www.ycombinator.com/companies/nowhouse",
+      "regions": []
+    }
+  ]
+}
