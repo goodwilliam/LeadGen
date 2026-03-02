@@ -24,7 +24,7 @@ EDGAR_BASE = "https://www.sec.gov"
 LOOKBACK_DAYS = 60
 RATE_LIMIT_SLEEP = 0.12  # seconds between XML fetches (SEC limit: 10 req/s)
 OUTPUT_PATH = Path("data/leads.json")
-MAX_CANDIDATES = 600  # cap XML fetches per run to keep job under ~2 min
+MAX_CANDIDATES = 10_000  # process up to 10k filings (public repo = free unlimited Actions minutes)
 
 # ── Industry filters (applied at XML level, not name level) ───────────────────
 # Only accept these EDGAR industryGroupType values. Empty/missing = keep (many
@@ -41,8 +41,8 @@ KEEP_INDUSTRIES = {
     "",  # blank = keep
 }
 
-# Amount range: $100K – $15M
-MIN_AMOUNT = 100_000
+# Amount range: $0 – $15M (no floor — early stage companies often file tiny rounds)
+MIN_AMOUNT = 0
 MAX_AMOUNT = 15_000_000
 
 # Skip these entity types (funds, etc.)
