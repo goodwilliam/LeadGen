@@ -21,10 +21,10 @@ import requests
 CONTACT_EMAIL = "something123@gmail.com"  # Required by SEC fair-use policy
 USER_AGENT = f"DesignAgencyLeadGen/1.0 ({CONTACT_EMAIL})"
 EDGAR_BASE = "https://www.sec.gov"
-LOOKBACK_DAYS = 60
-RATE_LIMIT_SLEEP = 0.12  # seconds between XML fetches (SEC limit: 10 req/s)
+LOOKBACK_DAYS = 30
+RATE_LIMIT_SLEEP = 0.11  # seconds between XML fetches (SEC limit: 10 req/s)
 OUTPUT_PATH = Path("data/leads.json")
-MAX_CANDIDATES = 10_000  # process up to 10k filings (public repo = free unlimited Actions minutes)
+MAX_CANDIDATES = 3_000  # most recent 3k filings — ~6 min runtime, freshest leads
 
 # ── Industry filters (applied at XML level, not name level) ───────────────────
 # Only accept these EDGAR industryGroupType values. Empty/missing = keep (many
