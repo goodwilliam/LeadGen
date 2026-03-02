@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Form D Lead Gen — Design Agency</title>
+<title>Lead Gen — Design Agency</title>
 <style>
   :root {
     --bg: #0d1117;
@@ -18,6 +18,7 @@
     --orange: #f0883e;
     --gray: #6e7681;
     --red: #f85149;
+    --purple: #bc8cff;
   }
 
   * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -25,49 +26,77 @@
   body {
     background: var(--bg);
     color: var(--text);
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
     font-size: 14px;
     line-height: 1.5;
     min-height: 100vh;
   }
 
+  /* ── Header ── */
   header {
     background: var(--bg2);
     border-bottom: 1px solid var(--border);
-    padding: 16px 24px;
+    padding: 14px 24px;
     display: flex;
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
-    gap: 12px;
+    gap: 10px;
   }
+  header h1 { font-size: 17px; font-weight: 600; }
+  header .meta { font-size: 12px; color: var(--text-muted); }
 
-  header h1 {
-    font-size: 18px;
-    font-weight: 600;
-    color: var(--text);
+  /* ── Tabs ── */
+  .tab-nav {
+    background: var(--bg2);
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    padding: 0 24px;
+    gap: 4px;
   }
-
-  header .meta {
-    font-size: 12px;
+  .tab-btn {
+    padding: 10px 16px;
+    background: none;
+    border: none;
+    border-bottom: 2px solid transparent;
+    color: var(--text-muted);
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+    margin-bottom: -1px;
+    transition: color 0.15s;
+    white-space: nowrap;
+  }
+  .tab-btn:hover { color: var(--text); }
+  .tab-btn.active { color: var(--text); border-bottom-color: var(--accent); }
+  .tab-count {
+    display: inline-block;
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    font-size: 11px;
+    padding: 0 6px;
+    margin-left: 6px;
     color: var(--text-muted);
   }
+  .tab-btn.active .tab-count { color: var(--text); }
 
+  /* ── Tab content ── */
+  .tab-content { display: none; }
+  .tab-content.active { display: block; }
+
+  /* ── Filters ── */
   .filters {
     background: var(--bg2);
     border-bottom: 1px solid var(--border);
-    padding: 12px 24px;
+    padding: 10px 24px;
     display: flex;
     gap: 12px;
     flex-wrap: wrap;
     align-items: center;
   }
-
-  .filters label {
-    font-size: 12px;
-    color: var(--text-muted);
-    margin-right: 4px;
-  }
+  .filters label { font-size: 12px; color: var(--text-muted); }
+  .filter-group { display: flex; align-items: center; gap: 6px; }
 
   .filters input[type="text"] {
     background: var(--bg3);
@@ -76,15 +105,11 @@
     border-radius: 6px;
     padding: 5px 10px;
     font-size: 13px;
-    width: 220px;
+    width: 200px;
     outline: none;
   }
-  .filters input[type="text"]:focus {
-    border-color: var(--accent);
-  }
-  .filters input[type="text"]::placeholder {
-    color: var(--text-muted);
-  }
+  .filters input[type="text"]:focus { border-color: var(--accent); }
+  .filters input[type="text"]::placeholder { color: var(--text-muted); }
 
   select {
     background: var(--bg3);
@@ -103,24 +128,17 @@
   }
   select:focus { border-color: var(--accent); }
 
-  .filter-group {
-    display: flex;
-    align-items: center;
-    gap: 6px;
-  }
-
   .btn-group {
     display: flex;
     border: 1px solid var(--border);
     border-radius: 6px;
     overflow: hidden;
   }
-
   .btn-group button {
     background: var(--bg3);
     border: none;
     color: var(--text-muted);
-    padding: 5px 12px;
+    padding: 5px 11px;
     font-size: 12px;
     cursor: pointer;
     border-right: 1px solid var(--border);
@@ -128,37 +146,24 @@
   }
   .btn-group button:last-child { border-right: none; }
   .btn-group button:hover { background: var(--border); color: var(--text); }
-  .btn-group button.active {
-    background: var(--accent);
-    color: #0d1117;
-    font-weight: 600;
-  }
+  .btn-group button.active { background: var(--accent); color: #0d1117; font-weight: 600; }
 
-  .main { padding: 20px 24px; }
-
-  .stats {
-    margin-bottom: 16px;
-    font-size: 12px;
-    color: var(--text-muted);
-  }
+  /* ── Main content ── */
+  .main { padding: 18px 24px; }
+  .stats { margin-bottom: 14px; font-size: 12px; color: var(--text-muted); }
   .stats span { color: var(--text); font-weight: 600; }
 
+  /* ── Table ── */
   .table-wrap {
     overflow-x: auto;
     border: 1px solid var(--border);
     border-radius: 8px;
   }
-
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    font-size: 13px;
-  }
-
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
   thead th {
     background: var(--bg2);
     border-bottom: 1px solid var(--border);
-    padding: 10px 14px;
+    padding: 9px 13px;
     text-align: left;
     font-weight: 600;
     color: var(--text-muted);
@@ -167,61 +172,26 @@
     user-select: none;
   }
   thead th:hover { color: var(--text); }
-  thead th .sort-icon { margin-left: 4px; opacity: 0.4; font-size: 10px; }
-  thead th.sorted .sort-icon { opacity: 1; color: var(--accent); }
-
-  tbody tr {
-    border-bottom: 1px solid var(--border);
-    transition: background 0.1s;
-  }
+  thead th .si { margin-left: 4px; opacity: 0.4; font-size: 10px; }
+  thead th.sorted .si { opacity: 1; color: var(--accent); }
+  tbody tr { border-bottom: 1px solid var(--border); transition: background 0.1s; }
   tbody tr:last-child { border-bottom: none; }
   tbody tr:hover { background: var(--bg2); }
+  td { padding: 9px 13px; vertical-align: top; }
 
-  td {
-    padding: 10px 14px;
-    vertical-align: top;
-  }
+  /* ── Common cell styles ── */
+  .link-name { font-weight: 600; color: var(--accent); text-decoration: none; }
+  .link-name:hover { text-decoration: underline; }
 
-  .company-name {
-    font-weight: 600;
-    color: var(--accent);
-    text-decoration: none;
-  }
-  .company-name:hover { text-decoration: underline; }
-
-  .badge {
-    display: inline-block;
-    padding: 2px 8px;
-    border-radius: 12px;
-    font-size: 11px;
-    font-weight: 600;
-    white-space: nowrap;
-  }
-  .badge-green  { background: rgba(63,185,80,.15);  color: var(--green); }
-  .badge-yellow { background: rgba(210,153,34,.15); color: var(--yellow); }
-  .badge-orange { background: rgba(240,136,62,.15); color: var(--orange); }
+  .badge { display: inline-block; padding: 2px 8px; border-radius: 12px; font-size: 11px; font-weight: 600; white-space: nowrap; }
+  .badge-green  { background: rgba(63,185,80,.15);   color: var(--green); }
+  .badge-yellow { background: rgba(210,153,34,.15);  color: var(--yellow); }
+  .badge-orange { background: rgba(240,136,62,.15);  color: var(--orange); }
   .badge-gray   { background: rgba(110,118,129,.15); color: var(--gray); }
+  .badge-purple { background: rgba(188,140,255,.15); color: var(--purple); }
+  .badge-blue   { background: rgba(88,166,255,.15);  color: var(--accent); }
 
-  .amount { font-variant-numeric: tabular-nums; white-space: nowrap; }
-
-  .location { color: var(--text-muted); white-space: nowrap; }
-
-  .founders-list { display: flex; flex-direction: column; gap: 4px; }
-  .founder-row   { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
-  .founder-name  { font-weight: 500; }
-  .founder-links { display: flex; gap: 4px; }
-  .founder-link  {
-    font-size: 11px;
-    padding: 1px 6px;
-    border-radius: 4px;
-    border: 1px solid var(--border);
-    color: var(--text-muted);
-    text-decoration: none;
-    white-space: nowrap;
-  }
-  .founder-link:hover { color: var(--text); border-color: var(--accent); }
-
-  .industry-chip {
+  .chip {
     display: inline-block;
     font-size: 11px;
     padding: 2px 7px;
@@ -229,333 +199,593 @@
     background: var(--bg3);
     color: var(--text-muted);
     border: 1px solid var(--border);
-    max-width: 140px;
-    overflow: hidden;
-    text-overflow: ellipsis;
     white-space: nowrap;
   }
+  .chip-list { display: flex; flex-wrap: wrap; gap: 4px; }
 
-  .empty-state {
-    text-align: center;
-    padding: 60px 20px;
-    color: var(--text-muted);
-  }
-  .empty-state h2 { font-size: 16px; margin-bottom: 8px; color: var(--text); }
+  .muted { color: var(--text-muted); }
+  .num   { font-variant-numeric: tabular-nums; white-space: nowrap; }
 
-  .loading {
-    text-align: center;
-    padding: 60px;
+  .action-links { display: flex; gap: 4px; flex-wrap: wrap; }
+  .action-link {
+    font-size: 11px;
+    padding: 2px 7px;
+    border-radius: 4px;
+    border: 1px solid var(--border);
     color: var(--text-muted);
+    text-decoration: none;
+    white-space: nowrap;
   }
-  .loading-dot {
-    display: inline-block;
-    animation: pulse 1.4s ease-in-out infinite;
-  }
+  .action-link:hover { color: var(--text); border-color: var(--accent); }
+
+  .founder-row { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; margin-bottom: 3px; }
+
+  .up   { color: var(--green); font-weight: 600; }
+  .down { color: var(--red); font-weight: 600; }
+
+  /* ── Empty / loading ── */
+  .empty-state { text-align: center; padding: 60px 20px; color: var(--text-muted); }
+  .empty-state h2 { font-size: 15px; margin-bottom: 8px; color: var(--text); }
+  .loading { text-align: center; padding: 60px; color: var(--text-muted); }
+  .loading-dot { display: inline-block; animation: pulse 1.4s ease-in-out infinite; }
   @keyframes pulse { 0%,100%{opacity:.2} 50%{opacity:1} }
 
   @media (max-width: 700px) {
     .filters { flex-direction: column; align-items: flex-start; }
     .filters input[type="text"] { width: 100%; }
     .main { padding: 12px; }
+    .tab-btn { padding: 10px 10px; font-size: 12px; }
   }
 </style>
 </head>
 <body>
 
 <header>
-  <h1>Form D Lead Gen</h1>
-  <div class="meta" id="meta">Loading…</div>
+  <h1>Lead Gen</h1>
+  <div class="meta" id="header-meta">Loading…</div>
 </header>
 
-<div class="filters">
-  <div class="filter-group">
-    <input type="text" id="search" placeholder="Search company or founder…" autocomplete="off">
-  </div>
+<!-- ── Tab nav ── -->
+<nav class="tab-nav">
+  <button class="tab-btn active" data-tab="formd">
+    Form D <span class="tab-count" id="count-formd">—</span>
+  </button>
+  <button class="tab-btn" data-tab="yc">
+    YC Companies <span class="tab-count" id="count-yc">—</span>
+  </button>
+  <button class="tab-btn" data-tab="crypto">
+    Crypto Signals <span class="tab-count" id="count-crypto">—</span>
+  </button>
+</nav>
 
-  <div class="filter-group">
-    <label>Filed within</label>
-    <div class="btn-group" id="days-filter">
-      <button data-days="7">7d</button>
-      <button data-days="14">14d</button>
-      <button data-days="30" class="active">30d</button>
-      <button data-days="60">60d</button>
+<!-- ════════════════════════════════════════════════════════
+     TAB 1 — Form D
+════════════════════════════════════════════════════════ -->
+<div id="tab-formd" class="tab-content active">
+  <div class="filters">
+    <div class="filter-group">
+      <input type="text" id="fd-search" placeholder="Search company or founder…" autocomplete="off">
+    </div>
+    <div class="filter-group">
+      <label>Filed within</label>
+      <div class="btn-group" id="fd-days">
+        <button data-days="7">7d</button>
+        <button data-days="14">14d</button>
+        <button data-days="30" class="active">30d</button>
+        <button data-days="60">60d</button>
+      </div>
+    </div>
+    <div class="filter-group">
+      <label>Raise</label>
+      <div class="btn-group" id="fd-amount">
+        <button data-amount="all" class="active">All</button>
+        <button data-amount="small">&lt;$500K</button>
+        <button data-amount="mid">$500K–$3M</button>
+        <button data-amount="large">$3M–$15M</button>
+      </div>
+    </div>
+    <div class="filter-group">
+      <label>Industry</label>
+      <select id="fd-industry"><option value="">All industries</option></select>
     </div>
   </div>
-
-  <div class="filter-group">
-    <label>Raise size</label>
-    <div class="btn-group" id="amount-filter">
-      <button data-amount="all" class="active">All</button>
-      <button data-amount="small">&lt;$500K</button>
-      <button data-amount="mid">$500K–$3M</button>
-      <button data-amount="large">$3M–$15M</button>
+  <div class="main">
+    <div class="stats" id="fd-stats"></div>
+    <div class="table-wrap">
+      <div class="loading" id="fd-loading">
+        <span class="loading-dot">●</span>
+        <span class="loading-dot" style="animation-delay:.2s">●</span>
+        <span class="loading-dot" style="animation-delay:.4s">●</span>
+      </div>
+      <table id="fd-table" style="display:none">
+        <thead><tr>
+          <th data-col="company">Company <span class="si">↕</span></th>
+          <th data-col="filed_date" class="sorted">Filed <span class="si">↓</span></th>
+          <th data-col="amount">Amount <span class="si">↕</span></th>
+          <th data-col="industry">Industry <span class="si">↕</span></th>
+          <th data-col="location">Location <span class="si">↕</span></th>
+          <th>Founders</th>
+        </tr></thead>
+        <tbody id="fd-tbody"></tbody>
+      </table>
+      <div class="empty-state" id="fd-empty" style="display:none">
+        <h2>No leads match your filters</h2>
+        <p>Try widening the date range or clearing the search.</p>
+      </div>
     </div>
-  </div>
-
-  <div class="filter-group">
-    <label>Industry</label>
-    <select id="industry-filter">
-      <option value="">All industries</option>
-    </select>
   </div>
 </div>
 
-<div class="main">
-  <div class="stats" id="stats"></div>
-  <div class="table-wrap">
-    <div class="loading" id="loading">
-      <span class="loading-dot">●</span>
-      <span class="loading-dot" style="animation-delay:.2s">●</span>
-      <span class="loading-dot" style="animation-delay:.4s">●</span>
+<!-- ════════════════════════════════════════════════════════
+     TAB 2 — YC Companies
+════════════════════════════════════════════════════════ -->
+<div id="tab-yc" class="tab-content">
+  <div class="filters">
+    <div class="filter-group">
+      <input type="text" id="yc-search" placeholder="Search company or description…" autocomplete="off">
     </div>
-    <table id="leads-table" style="display:none">
-      <thead>
-        <tr>
-          <th data-col="company">Company <span class="sort-icon">↕</span></th>
-          <th data-col="filed_date" class="sorted">Filed <span class="sort-icon">↓</span></th>
-          <th data-col="amount">Amount <span class="sort-icon">↕</span></th>
-          <th data-col="industry">Industry <span class="sort-icon">↕</span></th>
-          <th data-col="location">Location <span class="sort-icon">↕</span></th>
-          <th>Founders</th>
-        </tr>
-      </thead>
-      <tbody id="tbody"></tbody>
-    </table>
-    <div class="empty-state" id="empty" style="display:none">
-      <h2>No leads match your filters</h2>
-      <p>Try widening the date range or clearing the search.</p>
+    <div class="filter-group">
+      <label>Batch</label>
+      <div class="btn-group" id="yc-batch">
+        <button data-batch="all" class="active">All</button>
+        <button data-batch="W25">W25</button>
+        <button data-batch="S24">S24</button>
+        <button data-batch="W24">W24</button>
+      </div>
+    </div>
+    <div class="filter-group">
+      <label>Industry</label>
+      <select id="yc-industry"><option value="">All industries</option></select>
+    </div>
+  </div>
+  <div class="main">
+    <div class="stats" id="yc-stats"></div>
+    <div class="table-wrap">
+      <div class="loading" id="yc-loading">
+        <span class="loading-dot">●</span>
+        <span class="loading-dot" style="animation-delay:.2s">●</span>
+        <span class="loading-dot" style="animation-delay:.4s">●</span>
+      </div>
+      <table id="yc-table" style="display:none">
+        <thead><tr>
+          <th data-col="name">Company <span class="si">↕</span></th>
+          <th data-col="batch">Batch <span class="si">↕</span></th>
+          <th data-col="industries">Industry <span class="si">↕</span></th>
+          <th>Description</th>
+          <th data-col="team_size">Team <span class="si">↕</span></th>
+          <th>Links</th>
+        </tr></thead>
+        <tbody id="yc-tbody"></tbody>
+      </table>
+      <div class="empty-state" id="yc-empty" style="display:none">
+        <h2>No companies match your filters</h2>
+        <p>Try a different batch or clear the search.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════════════════════
+     TAB 3 — Crypto Signals
+════════════════════════════════════════════════════════ -->
+<div id="tab-crypto" class="tab-content">
+  <div class="filters">
+    <div class="filter-group">
+      <input type="text" id="cr-search" placeholder="Search protocol or coin…" autocomplete="off">
+    </div>
+    <div class="filter-group">
+      <label>Source</label>
+      <div class="btn-group" id="cr-source">
+        <button data-source="all" class="active">All</button>
+        <button data-source="defillama">DeFiLlama</button>
+        <button data-source="coingecko">Trending</button>
+      </div>
+    </div>
+    <div class="filter-group">
+      <label>Min TVL</label>
+      <div class="btn-group" id="cr-tvl">
+        <button data-tvl="0" class="active">All</button>
+        <button data-tvl="1000000">$1M+</button>
+        <button data-tvl="10000000">$10M+</button>
+        <button data-tvl="100000000">$100M+</button>
+      </div>
+    </div>
+  </div>
+  <div class="main">
+    <div class="stats" id="cr-stats"></div>
+    <div class="table-wrap">
+      <div class="loading" id="cr-loading">
+        <span class="loading-dot">●</span>
+        <span class="loading-dot" style="animation-delay:.2s">●</span>
+        <span class="loading-dot" style="animation-delay:.4s">●</span>
+      </div>
+      <table id="cr-table" style="display:none">
+        <thead><tr>
+          <th data-col="name">Name <span class="si">↕</span></th>
+          <th data-col="source">Signal <span class="si">↕</span></th>
+          <th data-col="category">Category <span class="si">↕</span></th>
+          <th data-col="tvl">TVL <span class="si">↕</span></th>
+          <th data-col="change_7d">7d Growth <span class="si">↕</span></th>
+          <th>Links</th>
+        </tr></thead>
+        <tbody id="cr-tbody"></tbody>
+      </table>
+      <div class="empty-state" id="cr-empty" style="display:none">
+        <h2>No signals match your filters</h2>
+        <p>Try adjusting the source or TVL filter.</p>
+      </div>
     </div>
   </div>
 </div>
 
 <script>
-// ── State ─────────────────────────────────────────────────────────────────────
-let allLeads = [];
-let sortCol = "filed_date";
-let sortAsc = false;
-let filterDays = 30;
-let filterAmount = "all";
-let filterIndustry = "";
-let searchText = "";
-const today = new Date();
-today.setHours(0, 0, 0, 0);
+// ════════════════════════════════════════════════════════
+// Shared helpers
+// ════════════════════════════════════════════════════════
+const today = new Date(); today.setHours(0,0,0,0);
 
-// ── Helpers ───────────────────────────────────────────────────────────────────
 function daysAgo(dateStr) {
-  const d = new Date(dateStr + "T00:00:00");
-  return Math.floor((today - d) / 86400000);
+  return Math.floor((today - new Date(dateStr + "T00:00:00")) / 86400000);
 }
-
 function urgencyBadge(days) {
   if (days <= 7)  return `<span class="badge badge-green">${days}d ago</span>`;
   if (days <= 14) return `<span class="badge badge-yellow">${days}d ago</span>`;
   if (days <= 30) return `<span class="badge badge-orange">${days}d ago</span>`;
   return `<span class="badge badge-gray">${days}d ago</span>`;
 }
-
-function fmtAmount(n) {
-  if (!n || n === 0) return '<span style="color:var(--text-muted)">—</span>';
-  if (n >= 1_000_000) return `$${(n / 1_000_000).toFixed(1)}M`;
-  if (n >= 1_000)     return `$${(n / 1_000).toFixed(0)}K`;
+function fmtMoney(n) {
+  if (!n) return '<span class="muted">—</span>';
+  if (n >= 1e9)  return `$${(n/1e9).toFixed(1)}B`;
+  if (n >= 1e6)  return `$${(n/1e6).toFixed(1)}M`;
+  if (n >= 1e3)  return `$${(n/1e3).toFixed(0)}K`;
   return `$${n.toLocaleString()}`;
 }
-
-function liLink(name) {
-  const q = encodeURIComponent(name + " founder");
-  return `https://www.linkedin.com/search/results/all/?keywords=${q}`;
+function fmtPct(n) {
+  if (n == null || n === 0) return '<span class="muted">—</span>';
+  const cls = n > 0 ? "up" : "down";
+  return `<span class="${cls}">${n > 0 ? "+" : ""}${n.toFixed(1)}%</span>`;
+}
+function esc(s) {
+  return String(s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+}
+function liSearch(q) {
+  return `https://www.linkedin.com/search/results/all/?keywords=${encodeURIComponent(q)}`;
+}
+function gSearch(q) {
+  return `https://www.google.com/search?q=${encodeURIComponent(q)}`;
 }
 
-function googleLink(name, company) {
-  const q = encodeURIComponent(`"${name}" "${company}"`);
-  return `https://www.google.com/search?q=${q}`;
-}
+// ── Tab switching ─────────────────────────────────────────
+document.querySelectorAll(".tab-btn").forEach(btn => {
+  btn.addEventListener("click", () => {
+    document.querySelectorAll(".tab-btn").forEach(b => b.classList.remove("active"));
+    document.querySelectorAll(".tab-content").forEach(c => c.classList.remove("active"));
+    btn.classList.add("active");
+    document.getElementById("tab-" + btn.dataset.tab).classList.add("active");
+  });
+});
 
-function escapeHtml(s) {
-  return String(s)
-    .replace(/&/g, "&amp;")
-    .replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;")
-    .replace(/"/g, "&quot;");
-}
-
-// ── Filtering & Sorting ───────────────────────────────────────────────────────
-function applyFilters() {
-  return allLeads.filter(lead => {
-    const days = daysAgo(lead.filed_date);
-    if (days > filterDays) return false;
-
-    if (filterAmount === "small" && lead.amount >= 500_000) return false;
-    if (filterAmount === "mid"   && (lead.amount < 500_000 || lead.amount > 3_000_000)) return false;
-    if (filterAmount === "large" && (lead.amount < 3_000_000 || lead.amount > 15_000_000)) return false;
-
-    if (filterIndustry && (lead.industry || "") !== filterIndustry) return false;
-
-    if (searchText) {
-      const hay = [
-        lead.company,
-        lead.industry,
-        lead.city,
-        lead.state,
-        ...(lead.founders || []).map(f => f.name),
-      ].join(" ").toLowerCase();
-      if (!hay.includes(searchText)) return false;
-    }
-
-    return true;
+// ── Sort helper factory ───────────────────────────────────
+function makeSorter(tableId, getState, setState, renderFn) {
+  document.querySelectorAll(`#${tableId} thead th[data-col]`).forEach(th => {
+    th.addEventListener("click", () => {
+      const { col, asc } = getState();
+      const newCol = th.dataset.col;
+      const newAsc = newCol === col ? !asc : (newCol !== "filed_date" && newCol !== "change_7d" && newCol !== "tvl");
+      setState(newCol, newAsc);
+      document.querySelectorAll(`#${tableId} thead th`).forEach(t => {
+        t.classList.remove("sorted");
+        const si = t.querySelector(".si"); if (si) si.textContent = "↕";
+      });
+      th.classList.add("sorted");
+      const si = th.querySelector(".si"); if (si) si.textContent = newAsc ? "↑" : "↓";
+      renderFn();
+    });
   });
 }
 
-function sortLeads(arr) {
-  return [...arr].sort((a, b) => {
-    let av = a[sortCol] ?? "";
-    let bv = b[sortCol] ?? "";
-    if (sortCol === "amount") { av = av || 0; bv = bv || 0; }
-    if (sortCol === "location") { av = `${a.city} ${a.state}`; bv = `${b.city} ${b.state}`; }
-    if (av < bv) return sortAsc ? -1 : 1;
-    if (av > bv) return sortAsc ? 1 : -1;
+function showTable(tableId, loadingId, emptyId, tbodyId, rows) {
+  document.getElementById(loadingId).style.display = "none";
+  if (rows.length === 0) {
+    document.getElementById(tableId).style.display = "none";
+    document.getElementById(emptyId).style.display = "block";
+  } else {
+    document.getElementById(tableId).style.display = "table";
+    document.getElementById(emptyId).style.display = "none";
+    document.getElementById(tbodyId).innerHTML = rows.join("");
+  }
+}
+
+// ════════════════════════════════════════════════════════
+// TAB 1 — Form D
+// ════════════════════════════════════════════════════════
+let fdLeads = [], fdSortCol = "filed_date", fdSortAsc = false;
+let fdDays = 30, fdAmount = "all", fdIndustry = "", fdSearch = "";
+
+function fdFilter() {
+  return fdLeads.filter(l => {
+    if (daysAgo(l.filed_date) > fdDays) return false;
+    if (fdAmount === "small" && l.amount >= 500000) return false;
+    if (fdAmount === "mid"   && (l.amount < 500000 || l.amount > 3000000)) return false;
+    if (fdAmount === "large" && (l.amount < 3000000 || l.amount > 15000000)) return false;
+    if (fdIndustry && (l.industry || "") !== fdIndustry) return false;
+    if (fdSearch) {
+      const hay = [l.company, l.industry, l.city, l.state, ...(l.founders||[]).map(f=>f.name)].join(" ").toLowerCase();
+      if (!hay.includes(fdSearch)) return false;
+    }
+    return true;
+  }).sort((a, b) => {
+    let av = a[fdSortCol] ?? "", bv = b[fdSortCol] ?? "";
+    if (fdSortCol === "amount") { av = av||0; bv = bv||0; }
+    if (fdSortCol === "location") { av = `${a.city}${a.state}`; bv = `${b.city}${b.state}`; }
+    if (av < bv) return fdSortAsc ? -1 : 1;
+    if (av > bv) return fdSortAsc ? 1 : -1;
     return 0;
   });
 }
 
-// ── Rendering ─────────────────────────────────────────────────────────────────
-function renderRow(lead) {
-  const days = daysAgo(lead.filed_date);
-  const location = [lead.city, lead.state].filter(Boolean).join(", ") || "—";
-
-  const foundersHtml = (lead.founders || []).slice(0, 3).map(f => {
+function fdRenderRow(l) {
+  const days = daysAgo(l.filed_date);
+  const loc = [l.city, l.state].filter(Boolean).join(", ") || "—";
+  const founders = (l.founders||[]).slice(0,3).map(f => {
     if (!f.name) return "";
-    const name = escapeHtml(f.name);
-    const company = escapeHtml(lead.company);
     return `<div class="founder-row">
-      <span class="founder-name">${name}</span>
-      <div class="founder-links">
-        <a class="founder-link" href="${liLink(f.name)}" target="_blank" rel="noopener">LI</a>
-        <a class="founder-link" href="${googleLink(f.name, lead.company)}" target="_blank" rel="noopener">G</a>
-      </div>
+      <span>${esc(f.name)}</span>
+      <span class="action-links">
+        <a class="action-link" href="${liSearch(f.name+" "+l.company)}" target="_blank" rel="noopener">LI</a>
+        <a class="action-link" href="${gSearch('"'+f.name+'" "'+l.company+'"')}" target="_blank" rel="noopener">G</a>
+      </span>
     </div>`;
   }).join("");
-
-  const edgarUrl = escapeHtml(lead.filing_url || `https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=${lead.cik}&type=D`);
-
+  const edgar = esc(l.filing_url || `https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=${l.cik}&type=D`);
   return `<tr>
-    <td><a class="company-name" href="${edgarUrl}" target="_blank" rel="noopener">${escapeHtml(lead.company || "—")}</a></td>
+    <td><a class="link-name" href="${edgar}" target="_blank" rel="noopener">${esc(l.company||"—")}</a></td>
     <td>${urgencyBadge(days)}</td>
-    <td class="amount">${fmtAmount(lead.amount)}</td>
-    <td><span class="industry-chip" title="${escapeHtml(lead.industry || "")}">${escapeHtml(lead.industry || "—")}</span></td>
-    <td class="location">${escapeHtml(location)}</td>
-    <td><div class="founders-list">${foundersHtml || '<span style="color:var(--text-muted)">—</span>'}</div></td>
+    <td class="num">${fmtMoney(l.amount)}</td>
+    <td><span class="chip">${esc(l.industry||"—")}</span></td>
+    <td class="muted" style="white-space:nowrap">${esc(loc)}</td>
+    <td>${founders || '<span class="muted">—</span>'}</td>
   </tr>`;
 }
 
-function render() {
-  const filtered = sortLeads(applyFilters());
-  const tbody = document.getElementById("tbody");
-  const table = document.getElementById("leads-table");
-  const empty = document.getElementById("empty");
-
-  document.getElementById("stats").innerHTML =
-    `Showing <span>${filtered.length}</span> of <span>${allLeads.length}</span> leads`;
-
-  if (filtered.length === 0) {
-    table.style.display = "none";
-    empty.style.display = "block";
-    return;
-  }
-
-  table.style.display = "table";
-  empty.style.display = "none";
-  tbody.innerHTML = filtered.map(renderRow).join("");
+function fdRender() {
+  const rows = fdFilter();
+  document.getElementById("fd-stats").innerHTML =
+    `Showing <span>${rows.length}</span> of <span>${fdLeads.length}</span> leads`;
+  showTable("fd-table","fd-loading","fd-empty","fd-tbody", rows.map(fdRenderRow));
 }
 
-// ── Sort headers ──────────────────────────────────────────────────────────────
-document.querySelectorAll("thead th[data-col]").forEach(th => {
-  th.addEventListener("click", () => {
-    const col = th.dataset.col;
-    if (sortCol === col) {
-      sortAsc = !sortAsc;
-    } else {
-      sortCol = col;
-      sortAsc = col !== "filed_date"; // dates default desc
+makeSorter("fd-table",
+  () => ({ col: fdSortCol, asc: fdSortAsc }),
+  (c, a) => { fdSortCol = c; fdSortAsc = a; },
+  fdRender
+);
+
+document.getElementById("fd-days").addEventListener("click", e => {
+  const b = e.target.closest("button"); if (!b) return;
+  fdDays = +b.dataset.days;
+  document.querySelectorAll("#fd-days button").forEach(x => x.classList.remove("active"));
+  b.classList.add("active"); fdRender();
+});
+document.getElementById("fd-amount").addEventListener("click", e => {
+  const b = e.target.closest("button"); if (!b) return;
+  fdAmount = b.dataset.amount;
+  document.querySelectorAll("#fd-amount button").forEach(x => x.classList.remove("active"));
+  b.classList.add("active"); fdRender();
+});
+document.getElementById("fd-industry").addEventListener("change", e => { fdIndustry = e.target.value; fdRender(); });
+document.getElementById("fd-search").addEventListener("input", e => { fdSearch = e.target.value.toLowerCase().trim(); fdRender(); });
+
+// ════════════════════════════════════════════════════════
+// TAB 2 — YC Companies
+// ════════════════════════════════════════════════════════
+let ycCompanies = [], ycSortCol = "batch", ycSortAsc = true;
+let ycBatch = "all", ycIndustry = "", ycSearch = "";
+
+function ycFilter() {
+  return ycCompanies.filter(c => {
+    if (ycBatch !== "all" && c.batch !== ycBatch) return false;
+    if (ycIndustry && !(c.industries||[]).includes(ycIndustry)) return false;
+    if (ycSearch) {
+      const hay = [c.name, c.one_liner, ...(c.industries||[]), ...(c.tags||[])].join(" ").toLowerCase();
+      if (!hay.includes(ycSearch)) return false;
     }
-    document.querySelectorAll("thead th").forEach(t => {
-      t.classList.remove("sorted");
-      const icon = t.querySelector(".sort-icon");
-      if (icon) icon.textContent = "↕";
-    });
-    th.classList.add("sorted");
-    const icon = th.querySelector(".sort-icon");
-    if (icon) icon.textContent = sortAsc ? "↑" : "↓";
-    render();
-  });
-});
-
-// ── Filter buttons ────────────────────────────────────────────────────────────
-document.getElementById("days-filter").addEventListener("click", e => {
-  const btn = e.target.closest("button");
-  if (!btn) return;
-  filterDays = parseInt(btn.dataset.days);
-  document.querySelectorAll("#days-filter button").forEach(b => b.classList.remove("active"));
-  btn.classList.add("active");
-  render();
-});
-
-document.getElementById("amount-filter").addEventListener("click", e => {
-  const btn = e.target.closest("button");
-  if (!btn) return;
-  filterAmount = btn.dataset.amount;
-  document.querySelectorAll("#amount-filter button").forEach(b => b.classList.remove("active"));
-  btn.classList.add("active");
-  render();
-});
-
-// ── Industry filter ───────────────────────────────────────────────────────────
-document.getElementById("industry-filter").addEventListener("change", e => {
-  filterIndustry = e.target.value;
-  render();
-});
-
-function populateIndustryDropdown() {
-  const industries = [...new Set(allLeads.map(l => l.industry || "").filter(Boolean))].sort();
-  const sel = document.getElementById("industry-filter");
-  industries.forEach(ind => {
-    const opt = document.createElement("option");
-    opt.value = ind;
-    opt.textContent = ind;
-    sel.appendChild(opt);
+    return true;
+  }).sort((a, b) => {
+    let av = a[ycSortCol] ?? "", bv = b[ycSortCol] ?? "";
+    if (ycSortCol === "industries") { av = (a.industries||[])[0]||""; bv = (b.industries||[])[0]||""; }
+    if (ycSortCol === "team_size") { av = a.team_size||0; bv = b.team_size||0; }
+    if (av < bv) return ycSortAsc ? -1 : 1;
+    if (av > bv) return ycSortAsc ? 1 : -1;
+    return 0;
   });
 }
 
-// ── Search ────────────────────────────────────────────────────────────────────
-document.getElementById("search").addEventListener("input", e => {
-  searchText = e.target.value.toLowerCase().trim();
-  render();
+const BATCH_COLOR = { W25: "badge-green", S24: "badge-blue", W24: "badge-purple" };
+
+function ycRenderRow(c) {
+  const batchCls = BATCH_COLOR[c.batch] || "badge-gray";
+  const industries = (c.industries||[]).slice(0,2).map(i => `<span class="chip">${esc(i)}</span>`).join(" ");
+  const site = c.website ? `<a class="action-link" href="${esc(c.website)}" target="_blank" rel="noopener">Site</a>` : "";
+  const yc  = c.yc_url  ? `<a class="action-link" href="${esc(c.yc_url)}" target="_blank" rel="noopener">YC</a>` : "";
+  const li  = `<a class="action-link" href="${liSearch(c.name)}" target="_blank" rel="noopener">LI</a>`;
+  return `<tr>
+    <td><a class="link-name" href="${esc(c.website||c.yc_url||"#")}" target="_blank" rel="noopener">${esc(c.name||"—")}</a></td>
+    <td><span class="badge ${batchCls}">${esc(c.batch)}</span></td>
+    <td><div class="chip-list">${industries||'<span class="muted">—</span>'}</div></td>
+    <td style="max-width:280px;color:var(--text-muted);font-size:12px">${esc(c.one_liner||"—")}</td>
+    <td class="num muted">${c.team_size||"—"}</td>
+    <td><span class="action-links">${site}${yc}${li}</span></td>
+  </tr>`;
+}
+
+function ycRender() {
+  const rows = ycFilter();
+  document.getElementById("yc-stats").innerHTML =
+    `Showing <span>${rows.length}</span> of <span>${ycCompanies.length}</span> companies`;
+  showTable("yc-table","yc-loading","yc-empty","yc-tbody", rows.map(ycRenderRow));
+}
+
+makeSorter("yc-table",
+  () => ({ col: ycSortCol, asc: ycSortAsc }),
+  (c, a) => { ycSortCol = c; ycSortAsc = a; },
+  ycRender
+);
+
+document.getElementById("yc-batch").addEventListener("click", e => {
+  const b = e.target.closest("button"); if (!b) return;
+  ycBatch = b.dataset.batch;
+  document.querySelectorAll("#yc-batch button").forEach(x => x.classList.remove("active"));
+  b.classList.add("active"); ycRender();
 });
+document.getElementById("yc-industry").addEventListener("change", e => { ycIndustry = e.target.value; ycRender(); });
+document.getElementById("yc-search").addEventListener("input", e => { ycSearch = e.target.value.toLowerCase().trim(); ycRender(); });
 
-// ── Load data ─────────────────────────────────────────────────────────────────
-async function loadData() {
-  try {
-    const res = await fetch("./data/leads.json");
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const data = await res.json();
-    allLeads = data.leads || [];
+// ════════════════════════════════════════════════════════
+// TAB 3 — Crypto
+// ════════════════════════════════════════════════════════
+let crItems = [], crSortCol = "change_7d", crSortAsc = false;
+let crSource = "all", crMinTvl = 0, crSearch = "";
 
-    const genAt = data.generated_at
-      ? new Date(data.generated_at).toLocaleString()
-      : "unknown";
-    document.getElementById("meta").textContent =
-      `${data.count} leads · updated ${genAt}`;
+function crFilter() {
+  return crItems.filter(x => {
+    if (crSource !== "all" && x.source !== crSource &&
+        !(crSource === "coingecko" && x.source === "coingecko")) return false;
+    if (crSource === "defillama" && x.source !== "defillama") return false;
+    if (crSource === "coingecko" && x.source !== "coingecko") return false;
+    if (crMinTvl > 0 && (x.tvl||0) < crMinTvl) return false;
+    if (crSearch) {
+      const hay = [x.name, x.category, x.chain, x.symbol].filter(Boolean).join(" ").toLowerCase();
+      if (!hay.includes(crSearch)) return false;
+    }
+    return true;
+  }).sort((a, b) => {
+    let av = a[crSortCol] ?? 0, bv = b[crSortCol] ?? 0;
+    if (crSortCol === "name" || crSortCol === "category" || crSortCol === "source") {
+      av = String(av); bv = String(bv);
+    }
+    if (av < bv) return crSortAsc ? -1 : 1;
+    if (av > bv) return crSortAsc ? 1 : -1;
+    return 0;
+  });
+}
 
-    document.getElementById("loading").style.display = "none";
-    populateIndustryDropdown();
-    render();
-  } catch (err) {
-    document.getElementById("loading").innerHTML =
-      `<div style="color:var(--red)">Failed to load leads.json: ${err.message}<br>
-      <small style="color:var(--text-muted)">Run <code>python fetch_leads.py</code> to generate data, then serve with <code>python -m http.server</code></small></div>`;
+function crRenderRow(x) {
+  const signalBadge = x.source === "defillama"
+    ? `<span class="badge badge-green">TVL Growth</span>`
+    : `<span class="badge badge-orange">Trending</span>`;
+  const cat   = x.category ? `<span class="chip">${esc(x.category)}</span>` : '<span class="muted">—</span>';
+  const tvl   = x.tvl ? fmtMoney(x.tvl) : '<span class="muted">—</span>';
+  const grow  = x.change_7d != null ? fmtPct(x.change_7d) : (x.change_24h != null ? fmtPct(x.change_24h) : '<span class="muted">—</span>');
+
+  const siteLink = x.url ? `<a class="action-link" href="${esc(x.url)}" target="_blank" rel="noopener">Site</a>` : "";
+  const twitterLink = x.twitter_url ? `<a class="action-link" href="${esc(x.twitter_url)}" target="_blank" rel="noopener">X</a>` : "";
+  const liLink2 = `<a class="action-link" href="${liSearch(x.name+" crypto")}" target="_blank" rel="noopener">LI</a>`;
+
+  const displayName = x.symbol ? `${esc(x.name)} <span class="muted" style="font-size:11px">${esc(x.symbol)}</span>` : esc(x.name||"—");
+
+  return `<tr>
+    <td><span class="link-name" style="cursor:default">${displayName}</span></td>
+    <td>${signalBadge}</td>
+    <td>${cat}</td>
+    <td class="num">${tvl}</td>
+    <td class="num">${grow}</td>
+    <td><span class="action-links">${siteLink}${twitterLink}${liLink2}</span></td>
+  </tr>`;
+}
+
+function crRender() {
+  const rows = crFilter();
+  document.getElementById("cr-stats").innerHTML =
+    `Showing <span>${rows.length}</span> of <span>${crItems.length}</span> signals`;
+  showTable("cr-table","cr-loading","cr-empty","cr-tbody", rows.map(crRenderRow));
+}
+
+makeSorter("cr-table",
+  () => ({ col: crSortCol, asc: crSortAsc }),
+  (c, a) => { crSortCol = c; crSortAsc = a; },
+  crRender
+);
+
+document.getElementById("cr-source").addEventListener("click", e => {
+  const b = e.target.closest("button"); if (!b) return;
+  crSource = b.dataset.source;
+  document.querySelectorAll("#cr-source button").forEach(x => x.classList.remove("active"));
+  b.classList.add("active"); crRender();
+});
+document.getElementById("cr-tvl").addEventListener("click", e => {
+  const b = e.target.closest("button"); if (!b) return;
+  crMinTvl = +b.dataset.tvl;
+  document.querySelectorAll("#cr-tvl button").forEach(x => x.classList.remove("active"));
+  b.classList.add("active"); crRender();
+});
+document.getElementById("cr-search").addEventListener("input", e => { crSearch = e.target.value.toLowerCase().trim(); crRender(); });
+
+// ════════════════════════════════════════════════════════
+// Data loading
+// ════════════════════════════════════════════════════════
+function setCount(id, n) {
+  document.getElementById(id).textContent = n != null ? n : "—";
+}
+
+async function loadAll() {
+  // Load all three in parallel
+  const [fdRes, ycRes, crRes] = await Promise.allSettled([
+    fetch("./data/leads.json").then(r => r.json()),
+    fetch("./data/yc.json").then(r => r.json()),
+    fetch("./data/crypto.json").then(r => r.json()),
+  ]);
+
+  // ── Form D ────────────────────────────────────────────
+  if (fdRes.status === "fulfilled") {
+    const data = fdRes.value;
+    fdLeads = data.leads || [];
+    setCount("count-formd", fdLeads.length);
+    document.getElementById("fd-loading").style.display = "none";
+    // Populate industry dropdown
+    const industries = [...new Set(fdLeads.map(l => l.industry||"").filter(Boolean))].sort();
+    const sel = document.getElementById("fd-industry");
+    industries.forEach(i => { const o = document.createElement("option"); o.value = i; o.textContent = i; sel.appendChild(o); });
+    fdRender();
+  } else {
+    document.getElementById("fd-loading").innerHTML = `<span style="color:var(--red)">Failed to load Form D data</span>`;
   }
+
+  // ── YC ────────────────────────────────────────────────
+  if (ycRes.status === "fulfilled") {
+    const data = ycRes.value;
+    ycCompanies = data.companies || [];
+    setCount("count-yc", ycCompanies.length);
+    document.getElementById("yc-loading").style.display = "none";
+    // Populate YC industry dropdown
+    const inds = [...new Set(ycCompanies.flatMap(c => c.industries||[]).filter(Boolean))].sort();
+    const ySel = document.getElementById("yc-industry");
+    inds.forEach(i => { const o = document.createElement("option"); o.value = i; o.textContent = i; ySel.appendChild(o); });
+    ycRender();
+  } else {
+    document.getElementById("yc-loading").innerHTML = `<span style="color:var(--red)">Failed to load YC data — run fetch_yc.py</span>`;
+  }
+
+  // ── Crypto ────────────────────────────────────────────
+  if (crRes.status === "fulfilled") {
+    const data = crRes.value;
+    const defi = (data.defi_protocols || []).map(p => ({ ...p, source: "defillama" }));
+    const trending = (data.trending_coins || []).map(c => ({ ...c, source: "coingecko" }));
+    crItems = [...defi, ...trending];
+    setCount("count-crypto", crItems.length);
+    document.getElementById("cr-loading").style.display = "none";
+    crRender();
+  } else {
+    document.getElementById("cr-loading").innerHTML = `<span style="color:var(--red)">Failed to load crypto data — run fetch_crypto.py</span>`;
+  }
+
+  // ── Header meta ───────────────────────────────────────
+  const genAt = fdRes.status === "fulfilled" && fdRes.value.generated_at
+    ? new Date(fdRes.value.generated_at).toLocaleString() : "unknown";
+  document.getElementById("header-meta").textContent = `Updated ${genAt}`;
 }
 
-loadData();
+loadAll();
 </script>
 </body>
 </html>
