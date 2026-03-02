@@ -84,12 +84,13 @@ def parse_form_idx(raw: str, cutoff: date) -> list[dict]:
     """
     Parse fixed-width form.idx and return Form D entries filed after cutoff.
 
-    Columns (0-indexed character positions):
-      Company:   0–61
-      Form Type: 62–73
-      CIK:       74–85
-      Date Filed: 86–97
-      Filename:  98+
+    Actual column positions (verified from raw data — form type field is 17
+    chars wide in data, 5 more than the header text implies):
+      Form Type:  0–16
+      Company:    17–78
+      CIK:        79–90
+      Date Filed: 91–100
+      Filename:   103+
     """
     candidates = []
     in_data = False
@@ -97,15 +98,15 @@ def parse_form_idx(raw: str, cutoff: date) -> list[dict]:
         if line.startswith("---"):
             in_data = True
             continue
-        if not in_data or len(line) < 98:
+        if not in_data or len(line) < 103:
             continue
-        form_type = line[62:74].strip()
+        form_type = line[0:17].strip()
         if form_type not in ("D", "D/A"):
             continue
-        company = line[0:62].strip()
-        cik = line[74:86].strip()
-        date_str = line[86:98].strip()
-        filename = line[98:].strip()
+        company = line[17:79].strip()
+        cik = line[79:91].strip()
+        date_str = line[91:101].strip()
+        filename = line[103:].strip()
         try:
             filed_date = datetime.strptime(date_str, "%Y-%m-%d").date()
         except ValueError:
@@ -320,7 +321,8 @@ def main():
             c["accession"] = acc
             unique_candidates.append(c)
 
-    # Cap to most recent MAX_CANDIDATES to keep run time predictable
+    # Sort newest-first then cap so we always process the freshest filings
+    unique_candidates.sort(key=lambda x: x["filed_date"], reverse=True)
     unique_candidates = unique_candidates[:MAX_CANDIDATES]
     print(f"\nTotal candidates to process: {len(unique_candidates)} (cap: {MAX_CANDIDATES})")
 
