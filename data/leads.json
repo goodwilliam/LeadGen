@@ -1,6 +1,3628 @@
 {
-  "generated_at": "2026-03-02T09:58:14.257309Z",
+  "generated_at": "2026-03-02T17:55:32.940291Z",
   "cutoff_date": "2026-01-01",
-  "count": 0,
-  "leads": []
+  "count": 98,
+  "leads": [
+    {
+      "company": "716 Sports Complex LLC",
+      "cik": "2113666",
+      "accession": "000211366626000001",
+      "filed_date": "2026-02-27",
+      "industry": "Other",
+      "entity_type": "Limited Liability Company",
+      "amount": 7400000.0,
+      "city": "BUFFALO",
+      "state": "NY",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Brian McGrath",
+          "title": "",
+          "relationships": [
+            "Promoter"
+          ]
+        },
+        {
+          "name": "Marc Fineberg",
+          "title": "",
+          "relationships": [
+            "Promoter"
+          ]
+        },
+        {
+          "name": "N/A 716 Sports Manager, LLC",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2113666&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "BC Income Fund 1, LP",
+      "cik": "2114383",
+      "accession": "000211438326000001",
+      "filed_date": "2026-02-27",
+      "industry": "Residential",
+      "entity_type": "Limited Partnership",
+      "amount": 0.0,
+      "city": "PROSPER",
+      "state": "TX",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Nicole Knibbs",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2114383&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "BIOMECH HOLDINGS, LLC",
+      "cik": "1712840",
+      "accession": "000171284026000003",
+      "filed_date": "2026-02-27",
+      "industry": "Other Technology",
+      "entity_type": "Limited Liability Company",
+      "amount": 345000.0,
+      "city": "MIDLOTHIAN",
+      "state": "VA",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Frank Fornari",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Dan Neuwirth",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Daniel Ferens",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "John Cunningham",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Gwen Bauer",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1712840&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Burleson Small Bay Industrial 112 DST",
+      "cik": "2113781",
+      "accession": "000211378126000001",
+      "filed_date": "2026-02-27",
+      "industry": "Commercial",
+      "entity_type": "Other",
+      "amount": 6846815.0,
+      "city": "TORRANCE",
+      "state": "CA",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "N/A Cove Capital Investments, LLC",
+          "title": "",
+          "relationships": [
+            "Promoter"
+          ]
+        },
+        {
+          "name": "Dwight Kay",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Chay Lapin",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2113781&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Caliza Financial Technologies, Inc.",
+      "cik": "1879358",
+      "accession": "000187935826000001",
+      "filed_date": "2026-02-27",
+      "industry": "Other Technology",
+      "entity_type": "Corporation",
+      "amount": 2250000.0,
+      "city": "MIAMI",
+      "state": "FL",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Ezra Kebrab",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1879358&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Crumbly Aaron B Bey",
+      "cik": "2112025",
+      "accession": "000211202526000001",
+      "filed_date": "2026-02-27",
+      "industry": "Investment Banking",
+      "entity_type": "Corporation",
+      "amount": 2000000.0,
+      "city": "Tampa",
+      "state": "FL",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Aaron Crumbly",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2112025&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Duett, LLC",
+      "cik": "1774286",
+      "accession": "000177428626000004",
+      "filed_date": "2026-02-27",
+      "industry": "Other Technology",
+      "entity_type": "Limited Liability Company",
+      "amount": 150000.0,
+      "city": "Flowood",
+      "state": "MS",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Tyler Anthony",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1774286&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "EB5 Investors LP",
+      "cik": "2113059",
+      "accession": "000211305926000001",
+      "filed_date": "2026-02-27",
+      "industry": "Other Real Estate",
+      "entity_type": "Limited Partnership",
+      "amount": 800000.0,
+      "city": "GREENWOOD",
+      "state": "IN",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Chintu Patel",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2113059&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "FRED-Gurnee, LLC",
+      "cik": "2112561",
+      "accession": "000211256126000001",
+      "filed_date": "2026-02-27",
+      "industry": "Commercial",
+      "entity_type": "Limited Liability Company",
+      "amount": 11520000.0,
+      "city": "MILWAUKEE",
+      "state": "WI",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Steven Bersell",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Brett Miller",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Austin Mautz",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2112561&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "FairBorrow.Ai, LLC",
+      "cik": "2112095",
+      "accession": "000211209526000001",
+      "filed_date": "2026-02-27",
+      "industry": "Other Technology",
+      "entity_type": "Limited Liability Company",
+      "amount": 750000.0,
+      "city": "FRISCO",
+      "state": "TX",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Praful Mainker",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Tory Haggerty",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2112095&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Golden Rochester LLC",
+      "cik": "2105364",
+      "accession": "000210536426000002",
+      "filed_date": "2026-02-27",
+      "industry": "Commercial",
+      "entity_type": "Limited Liability Company",
+      "amount": 8182540.0,
+      "city": "BOSTON",
+      "state": "MA",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Daniel Botwinik",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2105364&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "HH CA Kings Eye LLC",
+      "cik": "2113136",
+      "accession": "000211313626000001",
+      "filed_date": "2026-02-27",
+      "industry": "Commercial",
+      "entity_type": "Limited Liability Company",
+      "amount": 1125000.0,
+      "city": "SACRAMENTO",
+      "state": "CA",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Pujan Bhatt",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Sarvadaman Chaudhari",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2113136&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "IMAGEAID, INC.",
+      "cik": "2113280",
+      "accession": "000211328026000001",
+      "filed_date": "2026-02-27",
+      "industry": "Other Health Care",
+      "entity_type": "Corporation",
+      "amount": 200000.0,
+      "city": "SCOTTSDALE",
+      "state": "AZ",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Joshua Hanson",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director",
+            "Promoter"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2113280&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Imagen Smile Crafters Support Services, LLC",
+      "cik": "1819319",
+      "accession": "000211441226000001",
+      "filed_date": "2026-02-27",
+      "industry": "Other Health Care",
+      "entity_type": "Limited Liability Company",
+      "amount": 309197.0,
+      "city": "SCOTTSDALE",
+      "state": "AZ",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Rezwan Manji",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Michael Augins",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1819319&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Imagen Smile Crafters Support Services, LLC",
+      "cik": "2114412",
+      "accession": "000211441226000001",
+      "filed_date": "2026-02-27",
+      "industry": "Other Health Care",
+      "entity_type": "Limited Liability Company",
+      "amount": 309197.0,
+      "city": "SCOTTSDALE",
+      "state": "AZ",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Rezwan Manji",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Michael Augins",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2114412&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "KEYS INC. (NV)",
+      "cik": "2067470",
+      "accession": "000109690626000267",
+      "filed_date": "2026-02-27",
+      "industry": "Other Technology",
+      "entity_type": "Corporation",
+      "amount": 5000000.0,
+      "city": "TUCSON",
+      "state": "AZ",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Loay Alyousfi",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2067470&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Krupalu EB-5 Fund, LP",
+      "cik": "2114235",
+      "accession": "000211423526000001",
+      "filed_date": "2026-02-27",
+      "industry": "Other Real Estate",
+      "entity_type": "Limited Partnership",
+      "amount": 1600000.0,
+      "city": "CLINT",
+      "state": "TX",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Kishor Koladia",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2114235&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Lakeview Property Holding LLC",
+      "cik": "2112820",
+      "accession": "000104303926000012",
+      "filed_date": "2026-02-27",
+      "industry": "Residential",
+      "entity_type": "Limited Liability Company",
+      "amount": 1154200.0,
+      "city": "Oviedo",
+      "state": "FL",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Andrew Keel",
+          "title": "",
+          "relationships": [
+            "Director",
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2112820&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Linnaeus Therapeutics, Inc.",
+      "cik": "1752026",
+      "accession": "000175202626000004",
+      "filed_date": "2026-02-27",
+      "industry": "Biotechnology",
+      "entity_type": "Corporation",
+      "amount": 4475000.0,
+      "city": "HADDONFIELD",
+      "state": "NJ",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Patrick Mooney",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "James Demetriades",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Michael Poisel",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Chris Arendt",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Todd Thomson",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "John Lepping",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1752026&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "MEDICAL EXERCISE INC.",
+      "cik": "2001249",
+      "accession": "000121390026021343",
+      "filed_date": "2026-02-27",
+      "industry": "Other Health Care",
+      "entity_type": "Corporation",
+      "amount": 11050000.0,
+      "city": "NORTH PALM BEACH",
+      "state": "FL",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "MATTHEW DEGELMAN",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director",
+            "Promoter"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2001249&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Marvix AI, Inc.",
+      "cik": "2113219",
+      "accession": "000211321926000001",
+      "filed_date": "2026-02-27",
+      "industry": "Computers",
+      "entity_type": "Corporation",
+      "amount": 2800000.0,
+      "city": "BOSTON",
+      "state": "MA",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Rashie Jain",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Kshitij Saxena",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2113219&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "MasteryPrep Holdings, Inc.",
+      "cik": "1957957",
+      "accession": "000195795726000001",
+      "filed_date": "2026-02-27",
+      "industry": "Other",
+      "entity_type": "Corporation",
+      "amount": 2000000.0,
+      "city": "NEW YORK",
+      "state": "NY",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Troy Williams",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Gordon Xu",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Craig Gehring",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Cheryl Vedoe",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Paul McGown",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Jeremy Friedman",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1957957&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Maxwell Labs Inc.",
+      "cik": "1924821",
+      "accession": "000192482126000001",
+      "filed_date": "2026-02-27",
+      "industry": "Other Technology",
+      "entity_type": "Corporation",
+      "amount": 7933180.0,
+      "city": "LITTLE CANADA",
+      "state": "MN",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Jacob Balma",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director",
+            "Promoter"
+          ]
+        },
+        {
+          "name": "Gary Burandt",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Peter Chidyllo",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Nick Swenson",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Norman Troullier",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Michael Karpe",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Alejandro Rodriguez",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1924821&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Merit Holdings, LLC/DE",
+      "cik": "2113686",
+      "accession": "000211368626000001",
+      "filed_date": "2026-02-27",
+      "industry": "Investing",
+      "entity_type": "Limited Liability Company",
+      "amount": 1765000.0,
+      "city": "ALPHARETTA",
+      "state": "GA",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "N/A Merit Financial Group, LLC",
+          "title": "",
+          "relationships": [
+            "Promoter"
+          ]
+        },
+        {
+          "name": "Rick Kent",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Kay Mayhue",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Chrissy Lee",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Douglas Baxley",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2113686&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Nashville UPSHOT LLC",
+      "cik": "2109400",
+      "accession": "000210940026000001",
+      "filed_date": "2026-02-27",
+      "industry": "Other",
+      "entity_type": "Limited Liability Company",
+      "amount": 4441250.0,
+      "city": "NAPLES",
+      "state": "FL",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Mark Walsh",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2109400&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Noah's Business Development, LLC",
+      "cik": "2113381",
+      "accession": "000211338126000001",
+      "filed_date": "2026-02-27",
+      "industry": "Commercial",
+      "entity_type": "Limited Liability Company",
+      "amount": 525000.0,
+      "city": "NOBLESVILLE",
+      "state": "IN",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Scott Meyers",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Mary Parham",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2113381&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "One Dosh Inc.",
+      "cik": "2113647",
+      "accession": "000211364726000001",
+      "filed_date": "2026-02-27",
+      "industry": "Other Technology",
+      "entity_type": "Corporation",
+      "amount": 2400000.0,
+      "city": "NEW YORK",
+      "state": "NY",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Jackson Ukeuvo",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Godwin Okoye",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2113647&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Online Camps Inc.",
+      "cik": "2114062",
+      "accession": "000121465926002593",
+      "filed_date": "2026-02-27",
+      "industry": "Other",
+      "entity_type": "Corporation",
+      "amount": 110000.0,
+      "city": "STATESBORO",
+      "state": "GA",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Philip Tozer",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Christopher Gatto",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2114062&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Pyran, Inc.",
+      "cik": "1967994",
+      "accession": "000090883426000116",
+      "filed_date": "2026-02-27",
+      "industry": "Manufacturing",
+      "entity_type": "Corporation",
+      "amount": 217000.0,
+      "city": "MADISON",
+      "state": "WI",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "MELVIN LUETKENS JR.",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "KEVIN BARNETT",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "WILLIAM BANHOLZER",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "ANDREW SHAFER",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "PETER CHIDYLLO",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "GEORGE HUBER",
+          "title": "",
+          "relationships": [
+            "Promoter"
+          ]
+        },
+        {
+          "name": "KEFENG HUANG",
+          "title": "",
+          "relationships": [
+            "Promoter"
+          ]
+        },
+        {
+          "name": "JAMES DUMESIC",
+          "title": "",
+          "relationships": [
+            "Promoter"
+          ]
+        },
+        {
+          "name": "THIERRY CASIEZ",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1967994&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "SRD 009 LLC",
+      "cik": "2113868",
+      "accession": "000211386826000001",
+      "filed_date": "2026-02-27",
+      "industry": "Other",
+      "entity_type": "Limited Liability Company",
+      "amount": 1063750.0,
+      "city": "CARSON CITY",
+      "state": "NV",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Sandeep Koduri",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2113868&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Tanos Capital - VC - Avondale Commons LLC",
+      "cik": "2091138",
+      "accession": "000209113826000001",
+      "filed_date": "2026-02-27",
+      "industry": "Other Real Estate",
+      "entity_type": "Limited Liability Company",
+      "amount": 518000.0,
+      "city": "FAYETTEVILLE",
+      "state": "NC",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Jason Taniguchi",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2091138&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "TetraScience, Inc.",
+      "cik": "1855742",
+      "accession": "000185574226000003",
+      "filed_date": "2026-02-27",
+      "industry": "Other",
+      "entity_type": "Corporation",
+      "amount": 14999985.0,
+      "city": "Boston",
+      "state": "MA",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Siping Wang",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Patrick Grady",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "James Orsillo",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Christopher Lynch",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Remy Evard",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Deven Parekh",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1855742&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Washington Avenue Commerce Center LLC",
+      "cik": "2113983",
+      "accession": "000211398326000001",
+      "filed_date": "2026-02-27",
+      "industry": "Commercial",
+      "entity_type": "Limited Liability Company",
+      "amount": 4162500.0,
+      "city": "SCARBOROUGH",
+      "state": "ME",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Howard Goldenfarb",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director",
+            "Promoter"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2113983&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "White Horse Stable, LLC",
+      "cik": "2114443",
+      "accession": "000211444326000001",
+      "filed_date": "2026-02-27",
+      "industry": "Other",
+      "entity_type": "Limited Liability Company",
+      "amount": 625000.0,
+      "city": "BLACK MOUNTAIN",
+      "state": "NC",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Zachary Hinkle",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Alison Kinnear",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2114443&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Auxilia, Inc.",
+      "cik": "1866380",
+      "accession": "000186638026000001",
+      "filed_date": "2026-02-27",
+      "industry": "Business Services",
+      "entity_type": "Corporation",
+      "amount": 1383000.0,
+      "city": "Cleveland",
+      "state": "OH",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Steve Palek",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1866380&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Bluepine Co",
+      "cik": "2013811",
+      "accession": "000201381126000003",
+      "filed_date": "2026-02-27",
+      "industry": "Other Technology",
+      "entity_type": "Corporation",
+      "amount": 2206500.0,
+      "city": "Lake Bluff",
+      "state": "IL",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Jonathan Cobin",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Scott Rice",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Ronald Rother",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2013811&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "CARIBBEAN SUSTAINABLE FISHERIES CORP",
+      "cik": "1353353",
+      "accession": "000135335326000001",
+      "filed_date": "2026-02-27",
+      "industry": "Other",
+      "entity_type": "Corporation",
+      "amount": 10007276.0,
+      "city": "ROAD TOWN, TORTOLA",
+      "state": "D8",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "GILES CADMAN",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "GRAHAM FARINHA",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1353353&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Racho, LLC",
+      "cik": "1998191",
+      "accession": "000199819126000003",
+      "filed_date": "2026-02-27",
+      "industry": "Other",
+      "entity_type": "Limited Liability Company",
+      "amount": 252500.0,
+      "city": "DALLAS",
+      "state": "TX",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Matt Ornstein",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1998191&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Raveum Inc.",
+      "cik": "2091716",
+      "accession": "000209171626000001",
+      "filed_date": "2026-02-27",
+      "industry": "Other Banking and Financial Services",
+      "entity_type": "Corporation",
+      "amount": 1345001.0,
+      "city": "AUSTIN",
+      "state": "TX",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Kabir Israni",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Ayush Dinesh Shenvi Pissurlenkar",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Hitesh Israni",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Glenn Hanson",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Chintan Ghedia",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "MANISHA ISRANI",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2091716&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Star Shuttle LLC",
+      "cik": "2112680",
+      "accession": "000211268026000002",
+      "filed_date": "2026-02-27",
+      "industry": "Investing",
+      "entity_type": "Limited Liability Company",
+      "amount": 200000.0,
+      "city": "ROSLYN",
+      "state": "NY",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Daorong Huang",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2112680&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "ZettaConn, LLC",
+      "cik": "2077255",
+      "accession": "000207725526000001",
+      "filed_date": "2026-02-27",
+      "industry": "Other Energy",
+      "entity_type": "Limited Liability Company",
+      "amount": 500000.0,
+      "city": "DOVER",
+      "state": "DE",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Robert Houvener",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2077255&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "132 Tide Mill Associates, LLC",
+      "cik": "2110087",
+      "accession": "000211008726000001",
+      "filed_date": "2026-02-26",
+      "industry": "Commercial",
+      "entity_type": "Limited Liability Company",
+      "amount": 5410000.0,
+      "city": "NEWPORT NEWS",
+      "state": "VA",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "George Hankins, III",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Gateway Virginia Group LLC",
+          "title": "",
+          "relationships": [
+            "Promoter"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2110087&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "168 Realty Group VII, LLC",
+      "cik": "2113032",
+      "accession": "000211303226000001",
+      "filed_date": "2026-02-26",
+      "industry": "Commercial",
+      "entity_type": "Limited Liability Company",
+      "amount": 9350000.0,
+      "city": "PLANO",
+      "state": "TX",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Charles Ho",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2113032&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "200 IRVING HILL LLC",
+      "cik": "2107958",
+      "accession": "000210795826000001",
+      "filed_date": "2026-02-26",
+      "industry": "Commercial",
+      "entity_type": "Limited Liability Company",
+      "amount": 2250000.0,
+      "city": "WHITE PLAINS",
+      "state": "NY",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Tariq Bsharat",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Dan Bsharat",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2107958&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "ALEMIF V Feeder V LP",
+      "cik": "2110431",
+      "accession": "000211043126000001",
+      "filed_date": "2026-02-26",
+      "industry": "Other Real Estate",
+      "entity_type": "Limited Partnership",
+      "amount": 14600000.0,
+      "city": "LAKE PARK",
+      "state": "FL",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Joseph Lubeck",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Jim Miller",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Christine DeFilippis",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2110431&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Aragorn Holding Parent Corp",
+      "cik": "1820684",
+      "accession": "000182068426000002",
+      "filed_date": "2026-02-26",
+      "industry": "Other",
+      "entity_type": "Corporation",
+      "amount": 0.0,
+      "city": "CLEVELAND",
+      "state": "OH",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Steven Potash",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Gregory Farmer",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Richard Sarnoff",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Chresten Knaff",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Milena Alberti",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Sari Feldman",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Ted Oberwager",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1820684&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Aveera Medical Inc.",
+      "cik": "2018044",
+      "accession": "000090679126000047",
+      "filed_date": "2026-02-26",
+      "industry": "Other Technology",
+      "entity_type": "Corporation",
+      "amount": 5351737.0,
+      "city": "SAN CLEMENTE",
+      "state": "CA",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Jeffrey Hull",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Mark Ritchart",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Steve Parker",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Ed Chang",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Joseph Steele",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director",
+            "Promoter"
+          ]
+        },
+        {
+          "name": "Brian Driscoll",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2018044&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Bizly, Inc.",
+      "cik": "1665470",
+      "accession": "000166547026000003",
+      "filed_date": "2026-02-26",
+      "industry": "Other Technology",
+      "entity_type": "Corporation",
+      "amount": 1764955.0,
+      "city": "Palo Alto",
+      "state": "CA",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Ron Shah",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Ryan Chou",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1665470&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Brush Creek Assisted Living RE II LLC",
+      "cik": "2114199",
+      "accession": "000211419926000001",
+      "filed_date": "2026-02-26",
+      "industry": "Other",
+      "entity_type": "Limited Liability Company",
+      "amount": 350000.0,
+      "city": "SANTA ROSA",
+      "state": "CA",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Guadalupe Arroyo",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Savannah Arroyo",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2114199&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "CASI Pharmaceuticals, Inc.",
+      "cik": "1962738",
+      "accession": "000196273826000003",
+      "filed_date": "2026-02-26",
+      "industry": "Pharmaceuticals",
+      "entity_type": "Other",
+      "amount": 5000000.0,
+      "city": "BEIJING",
+      "state": "F4",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Wei-Wu He",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Zhenbo Su",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Thomas Folinsbee",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Alexander Wu",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Xuebo Zeng",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Wei Gao",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Kun Qian",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Chunhua Wang",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Hai Huang",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Wei (Larry) Zhang",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Alexander Zukiwski",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "David Cory",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "James Huang",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Barbara Krebs-Pohl",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1962738&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "CoRegen, Inc.",
+      "cik": "2012886",
+      "accession": "000201288626000003",
+      "filed_date": "2026-02-26",
+      "industry": "Biotechnology",
+      "entity_type": "Corporation",
+      "amount": 13500000.0,
+      "city": "HOUSTON",
+      "state": "TX",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Steve Gorlin",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Sonal Gupta",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Sonja Nelson",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Bert O'Malley",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Edward Benz, Jr.",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Suneet Varma",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Lee Fleisher",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "William Haseltine, PhD.",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Jonathan Simons",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Peter Gelinas",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2012886&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Copper Giant Resources Corp.",
+      "cik": "1580110",
+      "accession": "000206483526000025",
+      "filed_date": "2026-02-26",
+      "industry": "Other",
+      "entity_type": "Corporation",
+      "amount": 783653.0,
+      "city": "VANCOUVER",
+      "state": "A1",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Ian Harris",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Aaron Triplett",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Ernest Mast",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Jay Sujir",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Robert Van Egmond",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Mark Gibson",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1580110&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Creto IRRX PIPE Investment, LLC",
+      "cik": "2112523",
+      "accession": "000211252326000001",
+      "filed_date": "2026-02-26",
+      "industry": "Other",
+      "entity_type": "Limited Liability Company",
+      "amount": 5300000.0,
+      "city": "WINTER PARK",
+      "state": "FL",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Zane Beadles",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Eric Olsen",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2112523&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Definition Opportunity IA LLC",
+      "cik": "1891366",
+      "accession": "000189136626000004",
+      "filed_date": "2026-02-26",
+      "industry": "Other",
+      "entity_type": "Limited Liability Company",
+      "amount": 2030000.0,
+      "city": "NEW YORK",
+      "state": "NY",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Weston Reynolds",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1891366&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Definition Opportunity IA LLC",
+      "cik": "1891366",
+      "accession": "000189136626000005",
+      "filed_date": "2026-02-26",
+      "industry": "Other",
+      "entity_type": "Limited Liability Company",
+      "amount": 9997343.0,
+      "city": "NEW YORK",
+      "state": "NY",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Weston Reynolds",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1891366&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Ecovia Renewables Inc.",
+      "cik": "1734989",
+      "accession": "000173498926000003",
+      "filed_date": "2026-02-26",
+      "industry": "Other Technology",
+      "entity_type": "Corporation",
+      "amount": 1500000.0,
+      "city": "Livonia",
+      "state": "MI",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Kousay Said",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "James Agley",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Jeremy Minty",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1734989&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Emergent Holdings, LLC",
+      "cik": "2113336",
+      "accession": "000211333626000001",
+      "filed_date": "2026-02-26",
+      "industry": "Manufacturing",
+      "entity_type": "Limited Liability Company",
+      "amount": 7999997.0,
+      "city": "NAPLES",
+      "state": "FL",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "LeNoir Zaiser, IV",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2113336&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "FC Silver View Farm JV, LLC",
+      "cik": "2111786",
+      "accession": "000181455426000041",
+      "filed_date": "2026-02-26",
+      "industry": "Commercial",
+      "entity_type": "Limited Liability Company",
+      "amount": 10074295.0,
+      "city": "DELRAY BEACH",
+      "state": "FL",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Benjamin Jacobson",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2111786&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "FTW Vickery Lodging Associates, LLC",
+      "cik": "2110434",
+      "accession": "000089271226000153",
+      "filed_date": "2026-02-26",
+      "industry": "Lodging and Conventions",
+      "entity_type": "Limited Liability Company",
+      "amount": 225000.0,
+      "city": "MADISON",
+      "state": "WI",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": ". Raymond Management Company, Inc.",
+          "title": "",
+          "relationships": [
+            "Director",
+            "Promoter"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2110434&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Fancypants Baking Co.",
+      "cik": "1655126",
+      "accession": "000165512626000003",
+      "filed_date": "2026-02-26",
+      "industry": "Retailing",
+      "entity_type": "Corporation",
+      "amount": 750000.0,
+      "city": "WALPOLE",
+      "state": "MA",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Maura Duggan",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Justin Housman",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1655126&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Fusion Fuel Green PLC",
+      "cik": "1819794",
+      "accession": "000181979426000001",
+      "filed_date": "2026-02-26",
+      "industry": "Other Energy",
+      "entity_type": "Corporation",
+      "amount": 2600000.0,
+      "city": "DUBLIN",
+      "state": "L2",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Frederico Figueira de Chaves",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Pierce Crosby",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Steven Gold",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "John-Paul Backwell",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Luisa Ingargiola",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1819794&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Grove Creek Investments LLC",
+      "cik": "2113015",
+      "accession": "000211301526000001",
+      "filed_date": "2026-02-26",
+      "industry": "Other Real Estate",
+      "entity_type": "Limited Liability Company",
+      "amount": 6209827.0,
+      "city": "JERICHO",
+      "state": "NY",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Michael Packman",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2113015&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "James & James Group, Inc.",
+      "cik": "2113130",
+      "accession": "000211313026000001",
+      "filed_date": "2026-02-26",
+      "industry": "Manufacturing",
+      "entity_type": "Corporation",
+      "amount": 1350000.0,
+      "city": "SPRINGDALE",
+      "state": "AR",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Charles Morgan",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "James Pike",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Kenneth Lee",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Doreen Brock",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2113130&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "LMCA, Inc.",
+      "cik": "1937591",
+      "accession": "000193759126000003",
+      "filed_date": "2026-02-26",
+      "industry": "Other Technology",
+      "entity_type": "Corporation",
+      "amount": 1000000.0,
+      "city": "BERKELEY",
+      "state": "CA",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Laura Cain",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1937591&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "LXMI Las Colinas Holdings, LLC",
+      "cik": "2108857",
+      "accession": "000168316826001317",
+      "filed_date": "2026-02-26",
+      "industry": "Commercial",
+      "entity_type": "Limited Liability Company",
+      "amount": 5055000.0,
+      "city": "AUSTIN",
+      "state": "TX",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Anthony Gupta",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2108857&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "LainaHealth Inc.",
+      "cik": "1547741",
+      "accession": "000154774126000004",
+      "filed_date": "2026-02-26",
+      "industry": "Other Health Care",
+      "entity_type": "Corporation",
+      "amount": 5000000.0,
+      "city": "DUBLIN",
+      "state": "OH",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "J. Eder",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Mike Venerable",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Mark Shary",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Grant Koster",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Mike Louge",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1547741&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Learner Driven Investments, LLC",
+      "cik": "2074221",
+      "accession": "000207422126000001",
+      "filed_date": "2026-02-26",
+      "industry": "Other",
+      "entity_type": "Limited Liability Company",
+      "amount": 0.0,
+      "city": "GRANBURY",
+      "state": "TX",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Natasha Skeen-Richard",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2074221&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Malama Health, Inc.",
+      "cik": "2113045",
+      "accession": "000211304526000001",
+      "filed_date": "2026-02-26",
+      "industry": "Other Health Care",
+      "entity_type": "Corporation",
+      "amount": 5315000.0,
+      "city": "SAN FRANCISCO",
+      "state": "CA",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Meihua Eddy",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Zongsheng Li",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Veenu Aulakh",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2113045&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "North Chestnut Hill LLC",
+      "cik": "2107863",
+      "accession": "000210786326000001",
+      "filed_date": "2026-02-26",
+      "industry": "Commercial",
+      "entity_type": "Limited Liability Company",
+      "amount": 1350000.0,
+      "city": "WHITE PLAINS",
+      "state": "NY",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Tariq Bsharat",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Dan Bsharat",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2107863&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "ORP SOUTHWINDS SIDECAR, LLC",
+      "cik": "2110582",
+      "accession": "000211058226000002",
+      "filed_date": "2026-02-26",
+      "industry": "Other Real Estate",
+      "entity_type": "Limited Liability Company",
+      "amount": 4000000.0,
+      "city": "DEERFIELD",
+      "state": "IL",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "* ORP SOUTHWINDS MANAGER, LLC",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Promoter"
+          ]
+        },
+        {
+          "name": "* ORP MANAGER HOLDINGS, LLC",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Promoter"
+          ]
+        },
+        {
+          "name": "ADAM LEVINE",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director",
+            "Promoter"
+          ]
+        },
+        {
+          "name": "RICHARD WISE",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director",
+            "Promoter"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2110582&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Onyx Bio, Inc.",
+      "cik": "1915234",
+      "accession": "000191523426000003",
+      "filed_date": "2026-02-26",
+      "industry": "Other Technology",
+      "entity_type": "Corporation",
+      "amount": 7999999.0,
+      "city": "BERKELEY",
+      "state": "CA",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Roger Chen",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Amit Lakhani",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1915234&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "PSV Fitness, LLC",
+      "cik": "2113906",
+      "accession": "000211390626000001",
+      "filed_date": "2026-02-26",
+      "industry": "Other",
+      "entity_type": "Limited Liability Company",
+      "amount": 1760000.0,
+      "city": "NEWPORT BEACH",
+      "state": "CA",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Brent Leffel",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Nick Orzano",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2113906&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "PostProcess Technologies, Inc.",
+      "cik": "1728198",
+      "accession": "000172819826000003",
+      "filed_date": "2026-02-26",
+      "industry": "Other Technology",
+      "entity_type": "Corporation",
+      "amount": 3100000.0,
+      "city": "BUFFALO",
+      "state": "NY",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Jeff Mize",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Charles Lannon",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Dan DiPofi",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Sam Heleba",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1728198&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Project Zero LLC",
+      "cik": "2104989",
+      "accession": "000210498926000001",
+      "filed_date": "2026-02-26",
+      "industry": "Residential",
+      "entity_type": "Limited Liability Company",
+      "amount": 2035000.0,
+      "city": "OAKLAND",
+      "state": "CA",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Eric Manou",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2104989&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Quantelya Capital",
+      "cik": "2112906",
+      "accession": "000211290626000001",
+      "filed_date": "2026-02-26",
+      "industry": "Other Banking and Financial Services",
+      "entity_type": "Corporation",
+      "amount": 100000.0,
+      "city": "DENVER",
+      "state": "CO",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "BENEDICT WILLIAM SCHMIDT",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2112906&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "R3 ONEBOX HOLDCO, LLC",
+      "cik": "2114063",
+      "accession": "000211406326000001",
+      "filed_date": "2026-02-26",
+      "industry": "Other",
+      "entity_type": "Limited Liability Company",
+      "amount": 2700000.0,
+      "city": "DOVER",
+      "state": "DE",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Conor Markins",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2114063&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "RV Help, Inc.",
+      "cik": "2113101",
+      "accession": "000211310126000001",
+      "filed_date": "2026-02-26",
+      "industry": "Other Technology",
+      "entity_type": "Corporation",
+      "amount": 1007500.0,
+      "city": "MONTROSE",
+      "state": "CO",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Heath Padgett",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director",
+            "Promoter"
+          ]
+        },
+        {
+          "name": "Josiah Mann",
+          "title": "",
+          "relationships": [
+            "Director",
+            "Promoter"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2113101&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Synteq Digital, Inc.",
+      "cik": "2113976",
+      "accession": "000211397626000001",
+      "filed_date": "2026-02-26",
+      "industry": "Other Technology",
+      "entity_type": "Corporation",
+      "amount": 8539367.0,
+      "city": "MIDDLETOWN",
+      "state": "DE",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Taras Kulyk",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Joseph Stefanelli",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Manash Goswami",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Patricia Stefanelli",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Wei Wang",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Robert Fedrock",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Jaime Leverton",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2113976&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "THIRD STEP CAPITAL, LLC",
+      "cik": "2112413",
+      "accession": "000211241326000001",
+      "filed_date": "2026-02-26",
+      "industry": "Investing",
+      "entity_type": "Limited Liability Company",
+      "amount": 480000.0,
+      "city": "CHESTERFIELD",
+      "state": "MO",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Shawn Intagliata",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2112413&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "TRC Cypress Holdings, LLC",
+      "cik": "2114171",
+      "accession": "000211417126000001",
+      "filed_date": "2026-02-26",
+      "industry": "Other Real Estate",
+      "entity_type": "Limited Liability Company",
+      "amount": 0.0,
+      "city": "DRAPER",
+      "state": "UT",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Russ Walker",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Jared Walker",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2114171&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "TRC High Point Holdings, LLC",
+      "cik": "2109858",
+      "accession": "000210985826000001",
+      "filed_date": "2026-02-26",
+      "industry": "Other Real Estate",
+      "entity_type": "Limited Liability Company",
+      "amount": 0.0,
+      "city": "DRAPER",
+      "state": "UT",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Russ Walker",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Jared Walker",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2109858&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "TiGR, LLC",
+      "cik": "2112372",
+      "accession": "000211237226000001",
+      "filed_date": "2026-02-26",
+      "industry": "Other",
+      "entity_type": "Limited Liability Company",
+      "amount": 1250000.0,
+      "city": "WILMINGTON",
+      "state": "DE",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Pamela Pyle",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director",
+            "Promoter"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2112372&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "ULINK INC",
+      "cik": "2113642",
+      "accession": "000211364226000001",
+      "filed_date": "2026-02-26",
+      "industry": "Other Technology",
+      "entity_type": "Corporation",
+      "amount": 5000000.0,
+      "city": "SEATTLE",
+      "state": "WA",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "TIANTIAN ZHOU",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2113642&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "cliexa, Inc.",
+      "cik": "2050484",
+      "accession": "000205048426000002",
+      "filed_date": "2026-02-26",
+      "industry": "Other Technology",
+      "entity_type": "Corporation",
+      "amount": 3333500.0,
+      "city": "DENVER",
+      "state": "CO",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Mehmet Kazgan",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Haluk Yilmazturk",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Jae Lee",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2050484&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "iPosi, Inc.",
+      "cik": "1564268",
+      "accession": "000156426826000003",
+      "filed_date": "2026-02-26",
+      "industry": "Other Technology",
+      "entity_type": "Corporation",
+      "amount": 150000.0,
+      "city": "DENVER",
+      "state": "CO",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Richard Lee",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1564268&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Atmos Forces Corp.",
+      "cik": "2083440",
+      "accession": "000208344026000001",
+      "filed_date": "2026-02-26",
+      "industry": "Other",
+      "entity_type": "Corporation",
+      "amount": 100000.0,
+      "city": "LAS VEGAS",
+      "state": "NV",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "David Gleason",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2083440&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "BRANDRANK.AI INC.",
+      "cik": "2030592",
+      "accession": "000203059226000003",
+      "filed_date": "2026-02-26",
+      "industry": "Other Technology",
+      "entity_type": "Corporation",
+      "amount": 965000.0,
+      "city": "CINCINNATI",
+      "state": "OH",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Peter Blackshaw",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Joseph Hudepohl",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2030592&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Brij Medical, Inc.",
+      "cik": "1872429",
+      "accession": "000114036126006987",
+      "filed_date": "2026-02-26",
+      "industry": "Other Health Care",
+      "entity_type": "Corporation",
+      "amount": 1200000.0,
+      "city": "MARIETTA",
+      "state": "GA",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Timothy Gleeson",
+          "title": "",
+          "relationships": [
+            "Director",
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "John Grottling",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Felmont Eaves, III, M.D.",
+          "title": "",
+          "relationships": [
+            "Director",
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Robert Kukuljan",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "James Hinrichs",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Robert Zollars",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1872429&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Coast Fibers, Inc.",
+      "cik": "2090514",
+      "accession": "000209051426000001",
+      "filed_date": "2026-02-26",
+      "industry": "Other",
+      "entity_type": "Corporation",
+      "amount": 1235000.0,
+      "city": "SAN FRANCISCO",
+      "state": "CA",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "William Altschwager",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2090514&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Definition Opportunity IA LLC",
+      "cik": "1891366",
+      "accession": "000189136626000003",
+      "filed_date": "2026-02-26",
+      "industry": "Other",
+      "entity_type": "Limited Liability Company",
+      "amount": 3983875.0,
+      "city": "NEW YORK",
+      "state": "NY",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Weston Reynolds",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1891366&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "GW Ontario LLC",
+      "cik": "2078354",
+      "accession": "000207835426000003",
+      "filed_date": "2026-02-26",
+      "industry": "Commercial",
+      "entity_type": "Limited Liability Company",
+      "amount": 3825000.0,
+      "city": "WESTON",
+      "state": "FL",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Juan Arango Giraldo",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Juan Mejia Toro",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2078354&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Mikos Partners, LP",
+      "cik": "2027734",
+      "accession": "000202773426000002",
+      "filed_date": "2026-02-26",
+      "industry": "Investing",
+      "entity_type": "Limited Partnership",
+      "amount": 11383000.0,
+      "city": "DALLAS",
+      "state": "TX",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Jason Hill",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2027734&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "P/E Capital DAO LLC",
+      "cik": "1954925",
+      "accession": "000195492526000001",
+      "filed_date": "2026-02-26",
+      "industry": "Other",
+      "entity_type": "Limited Liability Company",
+      "amount": 10000000.0,
+      "city": "JACKSON",
+      "state": "WY",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Eliseo Jojo Prisno",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1954925&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "P/E Capital DAO LLC",
+      "cik": "1954925",
+      "accession": "000195492526000002",
+      "filed_date": "2026-02-26",
+      "industry": "Other",
+      "entity_type": "Limited Liability Company",
+      "amount": 10000000.0,
+      "city": "JACKSON",
+      "state": "WY",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Eliseo Jojo Prisno",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1954925&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "PG Austin Investors RC, LLC",
+      "cik": "2095809",
+      "accession": "000209580926000002",
+      "filed_date": "2026-02-26",
+      "industry": "Other Real Estate",
+      "entity_type": "Limited Liability Company",
+      "amount": 755000.0,
+      "city": "ATLANTA",
+      "state": "GA",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "-- Peachtree Hotel Group II, LLC",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Gregory Friedman",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Jatin Desai",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Mitul Patel",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Brian Waldman",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Kevin Cadin",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2095809&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "PG Austin Investors, LLC",
+      "cik": "2085101",
+      "accession": "000208510126000004",
+      "filed_date": "2026-02-26",
+      "industry": "Other Real Estate",
+      "entity_type": "Limited Liability Company",
+      "amount": 7734197.0,
+      "city": "ATLANTA",
+      "state": "GA",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "-- Peachtree Hotel Group II, LLC",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Gregory Friedman",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Jatin Desai",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Mitul Patel",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Brian Waldman",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Kevin Cadin",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2085101&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Peachtree Special Situations Fund I A, LP",
+      "cik": "2106388",
+      "accession": "000210638826000006",
+      "filed_date": "2026-02-26",
+      "industry": "Other Real Estate",
+      "entity_type": "Limited Partnership",
+      "amount": 700000.0,
+      "city": "ATLANTA",
+      "state": "GA",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "-- Peachtree Hotel Group II, LLC",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Gregory Friedman",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Jatin Desai",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Mitul Patel",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Kevin Cadin",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Brian Waldman",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Daniel Siegel",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Michael Harper",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "-- PSSF I General Partner, LLC",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2106388&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Peritas AI Inc.",
+      "cik": "2102647",
+      "accession": "000210264726000002",
+      "filed_date": "2026-02-26",
+      "industry": "Other Technology",
+      "entity_type": "Corporation",
+      "amount": 3829968.0,
+      "city": "BRANDON",
+      "state": "FL",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Cortney Knoll",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Martin Roche, M.D.",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Rony Abovitz",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2102647&type=D&dateb=&owner=include&count=10"
+    }
+  ]
 }
