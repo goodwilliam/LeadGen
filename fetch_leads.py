@@ -27,23 +27,18 @@ OUTPUT_PATH = Path("data/leads.json")
 MAX_CANDIDATES = 600  # cap XML fetches per run to keep job under ~2 min
 
 # ── Industry filters (applied at XML level, not name level) ───────────────────
-# Skip these EDGAR industryGroupType values — they are definitively non-tech
-SKIP_INDUSTRIES = {
-    "Pooled Investment Fund",
-    "Real Estate",
-    "Oil and Gas",
-    "Mining",
-    "Agriculture",
-    "Restaurants",
-    "Hotels and Motels",
-    "Amusement and Recreation",
-    "Motion Picture",
-    "Broadcasting",
-    "Retail",
-    "Construction",
-    "Printing and Publishing",
-    "Insurance",
-    "Other Banking & Financial Services",
+# Only accept these EDGAR industryGroupType values. Empty/missing = keep (many
+# legit startups leave it blank or pick "Other").
+KEEP_INDUSTRIES = {
+    "Technology",
+    "Computers",
+    "Telecommunications",
+    "Biotechnology",
+    "Health Sciences",
+    "Finance",
+    "Business Services",
+    "Other",
+    "",  # blank = keep
 }
 
 # Amount range: $100K – $15M
@@ -194,7 +189,7 @@ def parse_xml(xml_text: str, cik: str, accession: str, filed_date: str) -> dict 
 
     # ── Industry filter ───────────────────────────────────────────────────────
     industry = desc_text("industryGroupType")
-    if industry in SKIP_INDUSTRIES:
+    if industry not in KEEP_INDUSTRIES:
         return None
 
     # ── Entity type filter ────────────────────────────────────────────────────
