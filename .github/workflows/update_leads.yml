@@ -39,9 +39,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/yc.json data/crypto.json data/crypto_enrichment_cache.json \
-                  data/crypto_top.json data/crypto_top_enrichment_cache.json \
-                  data/seed.json data/seed_enrichment_cache.json
+          git add data/
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
