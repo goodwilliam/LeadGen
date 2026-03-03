@@ -1,0 +1,1802 @@
+{
+  "bitcoin": {
+    "website": "http://www.bitcoin.org",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "ethereum": {
+    "website": "https://www.ethereum.org/",
+    "linkedin_url": "https://linkedin.com/company/ethereum-foundation",
+    "contact_email": "press@ethereum.org",
+    "twitter_url": "https://x.com/ethereumfndn"
+  },
+  "tether": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "binancecoin": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "ripple": {
+    "website": "https://ripple.com/currency/",
+    "linkedin_url": "https://linkedin.com/company/rippleofficial",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Ripple"
+  },
+  "usd-coin": {
+    "website": "https://www.circle.com/en/usdc",
+    "linkedin_url": "https://linkedin.com/company/circle-internet-financial",
+    "contact_email": "",
+    "twitter_url": "https://x.com/circle"
+  },
+  "solana": {
+    "website": "https://solana.com/",
+    "linkedin_url": "",
+    "contact_email": "operations@solana.com",
+    "twitter_url": "https://x.com/0xDesigner"
+  },
+  "tron": {
+    "website": "https://tron.network",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "figure-heloc": {
+    "website": "https://www.figure.com",
+    "linkedin_url": "https://linkedin.com/company/figuretechnologies",
+    "contact_email": "",
+    "twitter_url": "https://x.com/figure"
+  },
+  "dogecoin": {
+    "website": "http://dogecoin.com/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/dogecoin"
+  },
+  "whitebit": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "usds": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "cardano": {
+    "website": "https://cardano.org/",
+    "linkedin_url": "https://linkedin.com/company/cardano-community",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Cardano"
+  },
+  "bitcoin-cash": {
+    "website": "https://bch.info/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "leo-token": {
+    "website": "https://www.bitfinex.com/",
+    "linkedin_url": "https://linkedin.com/company/bitfinex",
+    "contact_email": "",
+    "twitter_url": "https://x.com/images"
+  },
+  "hyperliquid": {
+    "website": "https://hyperliquid.xyz/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "monero": {
+    "website": "https://www.getmonero.org/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "chainlink": {
+    "website": "https://chain.link/",
+    "linkedin_url": "https://linkedin.com/company/chainlink-labs",
+    "contact_email": "press@chain.link",
+    "twitter_url": "https://x.com/chainlink"
+  },
+  "ethena-usde": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "canton-network": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "stellar": {
+    "website": "https://www.stellar.org/",
+    "linkedin_url": "https://linkedin.com/company/stellar-development-foundation",
+    "contact_email": "john@doe.com",
+    "twitter_url": "https://x.com/StellarOrg"
+  },
+  "usd1-wlfi": {
+    "website": "https://www.worldlibertyfinancial.com/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "rain": {
+    "website": "https://rain.one",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "dai": {
+    "website": "https://makerdao.com/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "litecoin": {
+    "website": "http://litecoin.org",
+    "linkedin_url": "",
+    "contact_email": "you@youremail.com",
+    "twitter_url": "https://x.com/LitecoinProject"
+  },
+  "paypal-usd": {
+    "website": "https://www.paypal.com/us/digital-wallet/manage-money/crypto/pyusd",
+    "linkedin_url": "",
+    "contact_email": "pyusd@paypal.com",
+    "twitter_url": ""
+  },
+  "hedera-hashgraph": {
+    "website": "https://www.hedera.com/",
+    "linkedin_url": "https://linkedin.com/company/hashgraph",
+    "contact_email": "",
+    "twitter_url": "https://x.com/hedera"
+  },
+  "avalanche-2": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "zcash": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "sui": {
+    "website": "https://sui.io/",
+    "linkedin_url": "https://linkedin.com/company/sui-foundation",
+    "contact_email": "",
+    "twitter_url": "https://x.com/SuiNetwork"
+  },
+  "shiba-inu": {
+    "website": "https://shibatoken.com/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "crypto-com-chain": {
+    "website": "https://cronos.org/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "the-open-network": {
+    "website": "https://ton.org/",
+    "linkedin_url": "https://linkedin.com/company/ton-blockchain",
+    "contact_email": "contact@ton.org",
+    "twitter_url": "https://x.com/ton_blockchain"
+  },
+  "world-liberty-financial": {
+    "website": "https://www.worldlibertyfinancial.com/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "tether-gold": {
+    "website": "https://gold.tether.to/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "polkadot": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "pax-gold": {
+    "website": "https://www.paxos.com/paxgold/",
+    "linkedin_url": "https://linkedin.com/company/paxos",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Paxos"
+  },
+  "uniswap": {
+    "website": "https://uniswap.org/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "memecore": {
+    "website": "https://memecore.com/",
+    "linkedin_url": "https://linkedin.com/company/memecore",
+    "contact_email": "contact@memecore.com",
+    "twitter_url": ""
+  },
+  "mantle": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "blackrock-usd-institutional-digital-liquidity-fund": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "hashnote-usyc": {
+    "website": "https://usyc.hashnote.com/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "global-dollar": {
+    "website": "https://globaldollar.com",
+    "linkedin_url": "https://linkedin.com/company/globaldollar",
+    "contact_email": "",
+    "twitter_url": "https://x.com/global_dollar"
+  },
+  "near": {
+    "website": "https://near.org/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/nearprotocol"
+  },
+  "bittensor": {
+    "website": "https://bittensor.com/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "falcon-finance": {
+    "website": "https://falcon.finance/",
+    "linkedin_url": "https://linkedin.com/company/falconstable",
+    "contact_email": "",
+    "twitter_url": "https://x.com/falconfinance"
+  },
+  "aster-2": {
+    "website": "https://www.asterdex.com/en",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Aster_DEX"
+  },
+  "aave": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "sky": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "pi-network": {
+    "website": "https://minepi.com/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/PiCoreTeam"
+  },
+  "okb": {
+    "website": "https://www.okx.com/okb",
+    "linkedin_url": "https://linkedin.com/company/xlayer-official",
+    "contact_email": "",
+    "twitter_url": "https://x.com/xlayer"
+  },
+  "ripple-usd": {
+    "website": "https://ripple.com/solutions/stablecoin/",
+    "linkedin_url": "https://linkedin.com/company/rippleofficial",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Ripple"
+  },
+  "bitget-token": {
+    "website": "https://partner.bitget.com/bg/2LAE9K",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "htx-dao": {
+    "website": "http://www.htxdao.com/en-us/",
+    "linkedin_url": "",
+    "contact_email": "institution_AM@huobi.com",
+    "twitter_url": ""
+  },
+  "pepe": {
+    "website": "https://www.pepe.vip/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/pepecoineth"
+  },
+  "internet-computer": {
+    "website": "https://internetcomputer.org/",
+    "linkedin_url": "",
+    "contact_email": "partnership@dfinity.org",
+    "twitter_url": "https://x.com/dfinity"
+  },
+  "ethereum-classic": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "bfusd": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "ondo-finance": {
+    "website": "https://ondo.foundation/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "superstate-short-duration-us-government-securities-fund-ustb": {
+    "website": "https://superstate.co/",
+    "linkedin_url": "https://linkedin.com/company/superstate",
+    "contact_email": "",
+    "twitter_url": "https://x.com/superstateinc"
+  },
+  "worldcoin-wld": {
+    "website": "https://worldcoin.org/",
+    "linkedin_url": "https://linkedin.com/company/worldofficial",
+    "contact_email": "",
+    "twitter_url": "https://x.com/worldcoin"
+  },
+  "gatechain-token": {
+    "website": "https://gatechain.io/gatelayer",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/GateLayer"
+  },
+  "pump-fun": {
+    "website": "https://pump.fun/board",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "morpho": {
+    "website": "https://morpho.org/",
+    "linkedin_url": "https://linkedin.com/company/morpho-labs",
+    "contact_email": "security@morpho.org",
+    "twitter_url": "https://x.com/Morpho"
+  },
+  "polygon-ecosystem-token": {
+    "website": "https://polygon.technology/",
+    "linkedin_url": "https://linkedin.com/company/polygonlabs",
+    "contact_email": "",
+    "twitter_url": "https://x.com/0xPolygon"
+  },
+  "kucoin-shares": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "midnight-3": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "ondo-us-dollar-yield": {
+    "website": "https://ondo.finance/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "quant-network": {
+    "website": "https://www.quant.network",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "ethena": {
+    "website": "https://www.ethena.fi/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ethena"
+  },
+  "cosmos": {
+    "website": "http://cosmos.network/",
+    "linkedin_url": "https://linkedin.com/company/cosmosblockchain",
+    "contact_email": "press@cosmos.networ",
+    "twitter_url": "https://x.com/cosmoslabs_io"
+  },
+  "hash-2": {
+    "website": "https://www.provenance.io/",
+    "linkedin_url": "https://linkedin.com/company/provenance-blockchain",
+    "contact_email": "",
+    "twitter_url": "https://x.com/provenancefdn"
+  },
+  "nexo": {
+    "website": "https://nexo.com/",
+    "linkedin_url": "",
+    "contact_email": "support@nexo.com",
+    "twitter_url": "https://x.com/Nexo"
+  },
+  "usdtb": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "kaspa": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "eutbl": {
+    "website": "https://www.spiko.xyz",
+    "linkedin_url": "https://linkedin.com/company/spiko-tech",
+    "contact_email": "contact@spiko.io",
+    "twitter_url": ""
+  },
+  "official-trump": {
+    "website": "https://gettrumpmemes.com/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/GetTrumpMemes"
+  },
+  "flare-networks": {
+    "website": "https://flare.network/",
+    "linkedin_url": "https://linkedin.com/company/flarenetwork",
+    "contact_email": "jun.chung@flare.networ",
+    "twitter_url": "https://x.com/FlareNetworks"
+  },
+  "aptos": {
+    "website": "https://aptosfoundation.org",
+    "linkedin_url": "https://linkedin.com/company/aptos-foundation",
+    "contact_email": "",
+    "twitter_url": "https://x.com/aptos"
+  },
+  "algorand": {
+    "website": "https://algorand.foundation/",
+    "linkedin_url": "https://linkedin.com/company/algorandfoundation",
+    "contact_email": "",
+    "twitter_url": "https://x.com/AlgoFoundation"
+  },
+  "filecoin": {
+    "website": "https://filecoin.io/",
+    "linkedin_url": "https://linkedin.com/company/filecoin",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Filecoin"
+  },
+  "ousg": {
+    "website": "https://ondo.finance/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "janus-henderson-anemoy-aaa-clo-fund": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "xdce-crowd-sale": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "usdd": {
+    "website": "https://usdd.io/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "render-token": {
+    "website": "http://renderfoundation.com",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "jupiter-exchange-solana": {
+    "website": "https://jup.ag/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/JupiterExchange"
+  },
+  "vechain": {
+    "website": "https://www.vechain.org",
+    "linkedin_url": "https://linkedin.com/company/vechain-foundation",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "stable-2": {
+    "website": "https://www.stable.xyz/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "arbitrum": {
+    "website": "https://arbitrum.io/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "beldex": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "ylds": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "janus-henderson-anemoy-treasury-fund": {
+    "website": "https://www.anemoy.io/",
+    "linkedin_url": "https://linkedin.com/company/98390352",
+    "contact_email": "",
+    "twitter_url": "https://x.com/anemoycapital"
+  },
+  "usual-usd": {
+    "website": "https://usual.money",
+    "linkedin_url": "https://linkedin.com/company/usualmoney",
+    "contact_email": "",
+    "twitter_url": "https://x.com/usualmoney"
+  },
+  "gho": {
+    "website": "https://gho.xyz/",
+    "linkedin_url": "https://linkedin.com/company/aavelabs",
+    "contact_email": "",
+    "twitter_url": "https://x.com/aave"
+  },
+  "bonk": {
+    "website": "https://www.bonkcoin.com/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "decred": {
+    "website": "https://decred.org/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/decredproject"
+  },
+  "a7a5": {
+    "website": "https://a7a5.io/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "true-usd": {
+    "website": "https://tusd.io/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/tusdio"
+  },
+  "virtual-protocol": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "fasttoken": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "blockstack": {
+    "website": "http://stacks.co/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Stacks"
+  },
+  "euro-coin": {
+    "website": "https://www.circle.com",
+    "linkedin_url": "https://linkedin.com/company/circle-internet-financial",
+    "contact_email": "",
+    "twitter_url": "https://x.com/circle"
+  },
+  "usdai": {
+    "website": "https://usd.ai",
+    "linkedin_url": "",
+    "contact_email": "hello@usd.ai",
+    "twitter_url": "https://x.com/USDai_Official"
+  },
+  "sei-network": {
+    "website": "https://www.sei.io",
+    "linkedin_url": "https://linkedin.com/company/sei-protocol",
+    "contact_email": "contact.us@seifdn.org",
+    "twitter_url": ""
+  },
+  "pancakeswap-token": {
+    "website": "https://pancakeswap.finance/affiliates-program",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "pudgy-penguins": {
+    "website": "https://pengu.pudgypenguins.com/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "just": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "dash": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "kite-2": {
+    "website": "https://gokite.ai/",
+    "linkedin_url": "https://linkedin.com/company/gokiteai",
+    "contact_email": "",
+    "twitter_url": "https://x.com/GoKiteAI"
+  },
+  "tezos": {
+    "website": "https://www.tezos.com/",
+    "linkedin_url": "",
+    "contact_email": "communications@tezos.founda",
+    "twitter_url": "https://x.com/tezos"
+  },
+  "pippin": {
+    "website": "https://pippin.love",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/pippinlovesyou"
+  },
+  "kinesis-gold": {
+    "website": "https://kinesis.money/",
+    "linkedin_url": "https://linkedin.com/company/kinesismoney",
+    "contact_email": "support@kinesis.money",
+    "twitter_url": "https://x.com/KinesisMonetary"
+  },
+  "ether-fi": {
+    "website": "https://www.ether.fi/",
+    "linkedin_url": "https://linkedin.com/company/etherfi",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ether_fi"
+  },
+  "chiliz": {
+    "website": "https://www.chiliz.com/",
+    "linkedin_url": "https://linkedin.com/company/chilizdotcom",
+    "contact_email": "",
+    "twitter_url": "https://x.com/chiliz"
+  },
+  "layerzero": {
+    "website": "https://layerzero.network/",
+    "linkedin_url": "https://linkedin.com/company/layerzerolabs",
+    "contact_email": "",
+    "twitter_url": "https://x.com/LayerZero_Core"
+  },
+  "river": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "first-digital-usd": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "curve-dao-token": {
+    "website": "https://curve.finance",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "usx": {
+    "website": "https://solstice.finance/",
+    "linkedin_url": "https://linkedin.com/company/solsticelabs",
+    "contact_email": "",
+    "twitter_url": "https://x.com/solsticefi"
+  },
+  "c8ntinuum": {
+    "website": "https://c8ntinuum.com/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "gnosis": {
+    "website": "https://www.gnosis.io/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/gnosisapp"
+  },
+  "fetch-ai": {
+    "website": "https://www.superintelligence.io/",
+    "linkedin_url": "https://linkedin.com/company/artificial-superintelligence-alliance",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ASI_Alliance"
+  },
+  "apenft": {
+    "website": "https://ainft.com/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "hastra-prime": {
+    "website": "https://hastra.io/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "lighter": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "bittorrent": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "aerodrome-finance": {
+    "website": "https://aerodrome.finance/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "kaia": {
+    "website": "https://kaia.io/",
+    "linkedin_url": "https://linkedin.com/company/kaiachain",
+    "contact_email": "",
+    "twitter_url": "https://x.com/kaiachain"
+  },
+  "adi-token": {
+    "website": "https://token.adi.foundation/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ADIFoundation"
+  },
+  "mantra-dao": {
+    "website": "https://www.mantrachain.io/",
+    "linkedin_url": "https://linkedin.com/company/mantrachain",
+    "contact_email": "marketing@mantrachain.io",
+    "twitter_url": "https://x.com/MANTRA_Chain"
+  },
+  "sun-token": {
+    "website": "https://sun.io/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "injective-protocol": {
+    "website": "https://injective.com",
+    "linkedin_url": "https://linkedin.com/company/injective-labs",
+    "contact_email": "bg-snow-slice@1x.webp",
+    "twitter_url": "https://x.com/Injective"
+  },
+  "spx6900": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "bitcoin-cash-sv": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "story-2": {
+    "website": "https://www.story.foundation/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/StoryProtocol"
+  },
+  "siren-2": {
+    "website": "https://sirenai.me/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "celestia": {
+    "website": "https://celestia.org/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "crvusd": {
+    "website": "https://curve.finance",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "iota": {
+    "website": "https://iota.org/",
+    "linkedin_url": "https://linkedin.com/company/iotafoundation",
+    "contact_email": "",
+    "twitter_url": "https://x.com/iota"
+  },
+  "the-graph": {
+    "website": "https://thegraph.com/",
+    "linkedin_url": "https://linkedin.com/company/thegraph",
+    "contact_email": "",
+    "twitter_url": "https://x.com/graphprotocol"
+  },
+  "pyth-network": {
+    "website": "https://pyth.network/",
+    "linkedin_url": "https://linkedin.com/company/pyth-network",
+    "contact_email": "",
+    "twitter_url": "https://x.com/PythNetwork"
+  },
+  "jasmycoin": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "frax": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "venice-token": {
+    "website": "https://venice.ai/home",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/askvenice"
+  },
+  "floki": {
+    "website": "https://www.floki.com/",
+    "linkedin_url": "",
+    "contact_email": "hi@floki.com",
+    "twitter_url": "https://x.com/ValhallaP2E"
+  },
+  "optimism": {
+    "website": "https://www.optimism.io",
+    "linkedin_url": "https://linkedin.com/company/optimism-foundation",
+    "contact_email": "",
+    "twitter_url": "https://x.com/optimism"
+  },
+  "olympus": {
+    "website": "https://olympusdao.finance/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/OlympusDAO"
+  },
+  "syrup": {
+    "website": "https://maple.finance/",
+    "linkedin_url": "https://linkedin.com/company/maplefinance",
+    "contact_email": "contact@maple.financ",
+    "twitter_url": "https://x.com/maplefinance"
+  },
+  "lido-dao": {
+    "website": "https://stake.lido.fi/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "plasma": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "btse-token": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "doublezero": {
+    "website": "https://doublezero.xyz/",
+    "linkedin_url": "",
+    "contact_email": "right-mobile@x2.webp",
+    "twitter_url": ""
+  },
+  "conflux-token": {
+    "website": "https://confluxnetwork.org/",
+    "linkedin_url": "",
+    "contact_email": "hello@confluxnetwork.org",
+    "twitter_url": "https://x.com/Conflux_Network"
+  },
+  "telcoin": {
+    "website": "http://www.telco.in",
+    "linkedin_url": "https://linkedin.com/company/telcoin",
+    "contact_email": "support@telco.in",
+    "twitter_url": "https://x.com/telcoin"
+  },
+  "lombard-protocol": {
+    "website": "https://www.lombard.finance/",
+    "linkedin_url": "",
+    "contact_email": "hal.finney@email.com",
+    "twitter_url": "https://x.com/lombard_finance"
+  },
+  "terra-luna": {
+    "website": "https://www.terra-classic.io",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/pixel_pengs"
+  },
+  "newton-project": {
+    "website": "https://ab.org/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "helium": {
+    "website": "https://www.helium.com/",
+    "linkedin_url": "https://linkedin.com/company/heliuminc",
+    "contact_email": "",
+    "twitter_url": "https://x.com/helium"
+  },
+  "undeads-games": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "ethereum-name-service": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "humanity": {
+    "website": "https://www.humanity.org/",
+    "linkedin_url": "https://linkedin.com/company/humanityprot",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Humanityprot"
+  },
+  "nusd-2": {
+    "website": "https://www.neutrl.fi/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "the-sandbox": {
+    "website": "https://www.sandbox.game/en/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "monad": {
+    "website": "https://www.monad.xyz/",
+    "linkedin_url": "https://linkedin.com/company/monad-foundation",
+    "contact_email": "",
+    "twitter_url": "https://x.com/pipeline_xyz"
+  },
+  "starknet": {
+    "website": "https://starknet.io/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Starknet"
+  },
+  "usda-2": {
+    "website": "https://www.avalonfinance.xyz/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/avalonfinance_"
+  },
+  "ape-and-pepe": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "agora-dollar": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "spiko-us-t-bills-money-market-fund": {
+    "website": "https://www.spiko.xyz",
+    "linkedin_url": "https://linkedin.com/company/spiko-tech",
+    "contact_email": "contact@spiko.io",
+    "twitter_url": ""
+  },
+  "pendle": {
+    "website": "https://pendle.finance/",
+    "linkedin_url": "",
+    "contact_email": "4c5851fdab5cb2f4cd210afa98b8954c@o1048108.ingest.us.sentry.io",
+    "twitter_url": "https://x.com/pendle_fi"
+  },
+  "axie-infinity": {
+    "website": "https://axieinfinity.com/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "blockchain-capital": {
+    "website": "https://www.blockchaincapital.com/",
+    "linkedin_url": "https://linkedin.com/company/crypto-currency-partners-lp",
+    "contact_email": "",
+    "twitter_url": "https://x.com/blockchaincap"
+  },
+  "trust-wallet-token": {
+    "website": "https://trustwallet.com/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "dogwifcoin": {
+    "website": "https://dogwifcoin.org",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "zebec-network": {
+    "website": "https://zebec.io/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Zebec_HQ"
+  },
+  "build-on": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "theta-token": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "flying-tulip": {
+    "website": "https://flyingtulip.com/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "tradable-na-rent-financing-platform-sstn": {
+    "website": "https://www.tradable.xyz/",
+    "linkedin_url": "https://linkedin.com/company/tradable-financial",
+    "contact_email": "",
+    "twitter_url": "https://x.com/tradable_xyz"
+  },
+  "vision-3": {
+    "website": "https://vision.now/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/vsntoken"
+  },
+  "decentraland": {
+    "website": "https://decentraland.org/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "swissborg": {
+    "website": "https://swissborg.com/en/",
+    "linkedin_url": "https://linkedin.com/company/11040884",
+    "contact_email": "media@swissborg.com",
+    "twitter_url": "https://x.com/swissborg"
+  },
+  "ultima": {
+    "website": "https://ultima.io/en/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "neo": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "ribbita-by-virtuals": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "fidelity-digital-interest-token": {
+    "website": "https://www.fidelity.com/",
+    "linkedin_url": "https://linkedin.com/company/fidelity-investments",
+    "contact_email": "",
+    "twitter_url": "https://x.com/fidelity"
+  },
+  "walrus-2": {
+    "website": "https://www.walrus.xyz/",
+    "linkedin_url": "https://linkedin.com/company/walrus-foundation",
+    "contact_email": "",
+    "twitter_url": "https://x.com/walrusprotocol"
+  },
+  "falcon-finance-ff": {
+    "website": "https://app.falcon.finance/swap/mint",
+    "linkedin_url": "https://linkedin.com/company/falconstable",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "chain-2": {
+    "website": "http://www.onyx.org",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "reallink": {
+    "website": "https://www.reallink.vip/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "the9bit": {
+    "website": "https://the9bit.com/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "zksync": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "instadapp": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "infinifi-usd": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "gala": {
+    "website": "https://gala.com/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "compound-governance-token": {
+    "website": "https://compound.finance/governance/comp",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "mx-token": {
+    "website": "https://www.mexc.com/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "grass": {
+    "website": "https://grass.io/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/grass"
+  },
+  "dexe": {
+    "website": "https://dexe.network/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/DexeNetwork"
+  },
+  "wefi": {
+    "website": "https://wefi.co/",
+    "linkedin_url": "",
+    "contact_email": "support@wefi.co",
+    "twitter_url": ""
+  },
+  "convex-finance": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "bnb48-club-token": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "fartcoin": {
+    "website": "https://www.infinitebackrooms.com/dreams/conversation-1721540624-scenario-terminal-of-truths-txt",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "raydium": {
+    "website": "https://raydium.io/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "satoshi-stablecoin": {
+    "website": "https://river.inc",
+    "linkedin_url": "https://linkedin.com/company/satoshi-protocol",
+    "contact_email": "",
+    "twitter_url": "https://x.com/riverdotinc"
+  },
+  "sonic-3": {
+    "website": "https://soniclabs.com",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/SonicLabs"
+  },
+  "basic-attention-token": {
+    "website": "https://basicattentiontoken.org/",
+    "linkedin_url": "",
+    "contact_email": "press@basicattentiontoken.org",
+    "twitter_url": "https://x.com/brendaneich"
+  },
+  "stasis-eurs": {
+    "website": "https://stasis.net/",
+    "linkedin_url": "https://linkedin.com/company/stasisnet",
+    "contact_email": "",
+    "twitter_url": "https://x.com/stasisnet"
+  },
+  "sentient": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "gusd": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "thorchain": {
+    "website": "https://thorchain.org/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/thorchain_org"
+  },
+  "coco-2": {
+    "website": "https://cocobnb.meme/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/COCO_DOG"
+  },
+  "astherus-usdf": {
+    "website": "https://www.asterdex.com/en/usdf",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/en"
+  },
+  "origintrail": {
+    "website": "https://origintrail.io/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "ecash": {
+    "website": "https://e.cash/",
+    "linkedin_url": "https://linkedin.com/company/ecashofficial",
+    "contact_email": "contact@e.cash",
+    "twitter_url": "https://x.com/eCash"
+  },
+  "safepal": {
+    "website": "https://www.safepal.com/",
+    "linkedin_url": "https://linkedin.com/company/14504410",
+    "contact_email": "Marketing@safepal.com",
+    "twitter_url": "https://x.com/SafePal"
+  },
+  "wemix-token": {
+    "website": "https://www.wemix.com/en",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/assets"
+  },
+  "immutable-x": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "theo-short-duration-us-treasury-fund": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "rollbit-coin": {
+    "website": "https://rollbit.com/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "1inch": {
+    "website": "https://1inch.com/",
+    "linkedin_url": "https://linkedin.com/company/1inchcom",
+    "contact_email": "compliance@1inch.com",
+    "twitter_url": "https://x.com/1inch"
+  },
+  "zero-gravity": {
+    "website": "https://www.0gfoundation.ai/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/0G_labs"
+  },
+  "apollo-diversified-credit-securitize-fund": {
+    "website": "https://securitize.io/primary-market/apollo-diversified-credit-securitize-fund",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "berachain-bera": {
+    "website": "https://berachain.com/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "golem": {
+    "website": "https://golem.network/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/trade"
+  },
+  "seeker": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "vaulta": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "cow-protocol": {
+    "website": "https://cow.fi",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/CoWSwap"
+  },
+  "elrond-erd-2": {
+    "website": "https://multiversx.com/",
+    "linkedin_url": "https://linkedin.com/company/multiversx",
+    "contact_email": "",
+    "twitter_url": "https://x.com/webflow"
+  },
+  "ozone-chain": {
+    "website": "https://ozonechain.io/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Ozone_chain"
+  },
+  "keeta": {
+    "website": "https://keeta.com",
+    "linkedin_url": "",
+    "contact_email": "general@keeta.com",
+    "twitter_url": "https://x.com/keetanetwork"
+  },
+  "gmt-token": {
+    "website": "https://gomining.com/",
+    "linkedin_url": "https://linkedin.com/company/gmtio",
+    "contact_email": "",
+    "twitter_url": "https://x.com/trade"
+  },
+  "mimblewimblecoin": {
+    "website": "https://www.mwc.mw/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "eigenlayer": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "jito-governance-token": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "onyc": {
+    "website": "https://onre.finance",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "pleasing-usd": {
+    "website": "https://www.pleasinggold.com/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "four": {
+    "website": "https://linktr.ee/Four_FORM_",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Four_FORM_"
+  },
+  "amp-token": {
+    "website": "https://www.amp.xyz",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "sosovalue": {
+    "website": "https://sosovalue.com/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "resolv-usr": {
+    "website": "https://www.resolv.xyz/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ResolvLabs"
+  },
+  "loaded-lions": {
+    "website": "https://loadedlions.com/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "livepeer": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "pieverse": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "frax-usd": {
+    "website": "https://frax.com",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "avant-usd": {
+    "website": "https://www.avantprotocol.com/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/avantprotocol"
+  },
+  "cap-usd": {
+    "website": "https://cap.app/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "re-protocol-reusd": {
+    "website": "https://re.xyz",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/re"
+  },
+  "precious-metals-usd": {
+    "website": "https://raac.io/",
+    "linkedin_url": "https://linkedin.com/company/raac-io",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Raacfi"
+  },
+  "robo-token-2": {
+    "website": "https://fabric.foundation/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/FabricFND"
+  },
+  "comedian": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "arweave": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "aethir": {
+    "website": "https://www.aethir.com/",
+    "linkedin_url": "https://linkedin.com/company/aethir-limited",
+    "contact_email": "",
+    "twitter_url": "https://x.com/AethirCloud"
+  },
+  "cheems-token": {
+    "website": "https://www.cheems.pet/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "quantum-resistant-ledger": {
+    "website": "https://www.theqrl.org",
+    "linkedin_url": "https://linkedin.com/company/the-quantum-resistant-ledger",
+    "contact_email": "info@theqrl.org",
+    "twitter_url": "https://x.com/qrledger"
+  },
+  "bitmart-token": {
+    "website": "https://www.bitmart.com/trade/en",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "tokenize-xchange": {
+    "website": "https://tokenize.exchange/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "cash-4": {
+    "website": "https://www.usecash.xyz/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/usecash"
+  },
+  "securitize-tokenized-aaa-clo-fund": {
+    "website": "https://www.bny.com/corporate/global/en/about-us/newsroom/company-news/securitize-launches-tokenized-aaa-clo-fund-with-services-provided-by-bny-bringing-institutional-structured-credit-on-chain.html",
+    "linkedin_url": "https://linkedin.com/company/bnyglobal",
+    "contact_email": "Jessica.greaney@bny.com",
+    "twitter_url": "https://x.com/grovedotfinance"
+  },
+  "havven": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "midas-mf-one": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "gas": {
+    "website": "https://neo.org/",
+    "linkedin_url": "",
+    "contact_email": "dev@neo.org",
+    "twitter_url": "https://x.com/NEO_Blockchain"
+  },
+  "melania-meme": {
+    "website": "https://melaniameme.com/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "standx-dusd": {
+    "website": "https://standx.com/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/standx_official"
+  },
+  "wormhole": {
+    "website": "https://wormhole.com/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/wormhole"
+  },
+  "tradable-singapore-fintech-ssl-2": {
+    "website": "https://www.tradable.xyz/",
+    "linkedin_url": "https://linkedin.com/company/tradable-financial",
+    "contact_email": "",
+    "twitter_url": "https://x.com/tradable_xyz"
+  },
+  "mnee-usd-stablecoin": {
+    "website": "https://www.mnee.io/",
+    "linkedin_url": "https://linkedin.com/company/mnee",
+    "contact_email": "contact@mnee.io",
+    "twitter_url": "https://x.com/MNEE_cash"
+  },
+  "kamino": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "quack-ai": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "ring-usd": {
+    "website": "https://ring.exchange/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "pleasing-gold": {
+    "website": "https://www.pleasinggold.com/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "apecoin": {
+    "website": "https://apechain.com/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/apecoin"
+  },
+  "zencash": {
+    "website": "https://www.horizen.io",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/horizenglobal"
+  },
+  "beam-2": {
+    "website": "https://onbeam.com",
+    "linkedin_url": "",
+    "contact_email": "hello@onbeam.com",
+    "twitter_url": "https://x.com/BuildOnBeam"
+  },
+  "theta-fuel": {
+    "website": "https://www.thetatoken.org/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "stp-network": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "home": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "qtum": {
+    "website": "https://qtum.org/en/",
+    "linkedin_url": "",
+    "contact_email": "support@qtum.org",
+    "twitter_url": "https://x.com/qtum"
+  },
+  "zano": {
+    "website": "https://zano.org",
+    "linkedin_url": "",
+    "contact_email": "support@zano.org",
+    "twitter_url": "https://x.com/zano_project"
+  },
+  "nxm": {
+    "website": "https://nexusmutual.io/",
+    "linkedin_url": "https://linkedin.com/company/nexus-mutual",
+    "contact_email": "alex@nexusmutual.io",
+    "twitter_url": "https://x.com/NexusMutual"
+  },
+  "shuffle-2": {
+    "website": "https://shuffle.com",
+    "linkedin_url": "https://linkedin.com/company/shuffledotcom",
+    "contact_email": "support@shuffle.com",
+    "twitter_url": "https://x.com/noahdummett"
+  },
+  "akash-network": {
+    "website": "https://akash.network",
+    "linkedin_url": "https://linkedin.com/company/akash-network",
+    "contact_email": "hello@filebase.com",
+    "twitter_url": "https://x.com/akashnet"
+  },
+  "reserve-rights-token": {
+    "website": "https://reserve.org/",
+    "linkedin_url": "",
+    "contact_email": "contact@reserve.org",
+    "twitter_url": "https://x.com/reserveprotocol"
+  },
+  "yearn-finance": {
+    "website": "https://yearn.fi/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "meta-2-2": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "xdai": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "anzen-usdz": {
+    "website": "https://anzen.finance/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/anzenfinance"
+  },
+  "societe-generale-forge-eurcv": {
+    "website": "https://www.sgforge.com/product/coinvertible/",
+    "linkedin_url": "https://linkedin.com/company/18818506",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "impossible-cloud-network-token": {
+    "website": "https://www.icn.global/",
+    "linkedin_url": "https://linkedin.com/company/icnprotocol",
+    "contact_email": "info@icn.global",
+    "twitter_url": ""
+  },
+  "sahara-ai": {
+    "website": "https://saharaai.com",
+    "linkedin_url": "https://linkedin.com/company/saharalabs-ai",
+    "contact_email": "integrations-styles.js@0.2.69CNsy5l.mjs",
+    "twitter_url": "https://x.com/SaharaLabsAI"
+  },
+  "verge": {
+    "website": "http://vergecurrency.com/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/vergecurrency"
+  },
+  "ravencoin": {
+    "website": "https://ravencoin.org/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ravencoin"
+  },
+  "oasis-network": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "usda-3": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "fogo": {
+    "website": "https://www.fogo.io/",
+    "linkedin_url": "https://linkedin.com/company/fogochain",
+    "contact_email": "",
+    "twitter_url": "https://x.com/fogo"
+  },
+  "0x": {
+    "website": "https://www.0xprotocol.org/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/zeroexprotocol"
+  },
+  "coredaoorg": {
+    "website": "https://coredao.org",
+    "linkedin_url": "https://linkedin.com/company/core-dao",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Coredao_Org"
+  },
+  "luxxcoin": {
+    "website": "https://www.luxxcoin.io/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Luxx_Coin"
+  },
+  "meteora": {
+    "website": "https://www.meteora.ag/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  }
+}

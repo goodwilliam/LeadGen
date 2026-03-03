@@ -503,5 +503,45 @@
     "linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "pumpspace-v2": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "sierra-protocol": {
+    "linkedin_url": "https://linkedin.com/company/sierramoney",
+    "contact_email": "info@sierralabs.xyz",
+    "twitter_url": "https://x.com/SierraIsMoney"
+  },
+  "aurora-plus": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "altitude.fi": {
+    "linkedin_url": "https://linkedin.com/company/altitude-labs-defi",
+    "contact_email": "",
+    "twitter_url": "https://x.com/AltitudeFi_"
+  },
+  "bifrost-liquid-staking": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Bifrost"
+  },
+  "manifest-trade": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "boros": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "bedrock-uniiotx": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
