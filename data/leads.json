@@ -1,8 +1,717 @@
 {
-  "generated_at": "2026-03-02T22:26:54.525127Z",
-  "cutoff_date": "2026-01-31",
-  "count": 234,
+  "generated_at": "2026-03-03T09:53:52.264775Z",
+  "cutoff_date": "2026-02-01",
+  "count": 255,
   "leads": [
+    {
+      "company": "40 Forty Padel LLC",
+      "cik": "2113135",
+      "accession": "000211313526000001",
+      "filed_date": "2026-03-02",
+      "industry": "Other",
+      "entity_type": "Limited Liability Company",
+      "amount": 600000.0,
+      "city": "GREENVILLE",
+      "state": "SC",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Daniel Fitzgerald",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": ". Ayampe, LLC",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2113135&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Beyond Compute I, a series of Wefunds LLC",
+      "cik": "2114330",
+      "accession": "000211433026000001",
+      "filed_date": "2026-03-02",
+      "industry": "Other",
+      "entity_type": "Limited Liability Company",
+      "amount": 726000.0,
+      "city": "HENDERSON",
+      "state": "NV",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Nicholas Tommarello",
+          "title": "",
+          "relationships": [
+            "Promoter"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2114330&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Eat the Change, Inc.",
+      "cik": "1846954",
+      "accession": "000184695426000001",
+      "filed_date": "2026-03-02",
+      "industry": "Other",
+      "entity_type": "Corporation",
+      "amount": 9000000.0,
+      "city": "BETHESDA",
+      "state": "MD",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Seth Goldman",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Evangelos Mendelsohn",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Barry Nalebuff",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Margarita Herdocia",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Melissa Bradley",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "Robert Trone",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1846954&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "FLYOVER LLC",
+      "cik": "2013445",
+      "accession": "000201344526000003",
+      "filed_date": "2026-03-02",
+      "industry": "Other",
+      "entity_type": "Limited Liability Company",
+      "amount": 200000.0,
+      "city": "PALMYRA",
+      "state": "MO",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Brian White",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Eric Colonna",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "ANTHONY LUCIDO",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2013445&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Gale Payments, Inc.",
+      "cik": "2059048",
+      "accession": "000205904826000002",
+      "filed_date": "2026-03-02",
+      "industry": "Other",
+      "entity_type": "Corporation",
+      "amount": 79000.0,
+      "city": "AUSTIN",
+      "state": "TX",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Thomas Griffiths",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Qadeer Khan",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2059048&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Haku Bio, Inc.",
+      "cik": "2114425",
+      "accession": "000211442526000001",
+      "filed_date": "2026-03-02",
+      "industry": "Biotechnology",
+      "entity_type": "Corporation",
+      "amount": 210000.0,
+      "city": "ARLINGTON",
+      "state": "MA",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Sandy Mong",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Bill Lundberg",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2114425&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "MHG Maine Fund 2 LLC",
+      "cik": "2114570",
+      "accession": "000211457026000001",
+      "filed_date": "2026-03-02",
+      "industry": "Other",
+      "entity_type": "Limited Liability Company",
+      "amount": 6000000.0,
+      "city": "LOWELL",
+      "state": "MA",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Jonathan Bombaci",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Matthew Perimian",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Douglas Mercurio",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Matthew Langone",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2114570&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "MultiValent Biotherapies, Inc.",
+      "cik": "2107846",
+      "accession": "000210784626000002",
+      "filed_date": "2026-03-02",
+      "industry": "Biotechnology",
+      "entity_type": "Corporation",
+      "amount": 10012500.0,
+      "city": "LOS ALTOS",
+      "state": "CA",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Fred Schwarzer",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director",
+            "Promoter"
+          ]
+        },
+        {
+          "name": "Stephen Snowdy",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director",
+            "Promoter"
+          ]
+        },
+        {
+          "name": "Bruce Keyt",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director",
+            "Promoter"
+          ]
+        },
+        {
+          "name": "Deborah Schwarzer",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director",
+            "Promoter"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2107846&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Nothing I, a series of Capitalize Investments LLC",
+      "cik": "2114353",
+      "accession": "000211435326000001",
+      "filed_date": "2026-03-02",
+      "industry": "Other",
+      "entity_type": "Limited Liability Company",
+      "amount": 726300.0,
+      "city": "HENDERSON",
+      "state": "TX",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Nicholas Tommarello",
+          "title": "",
+          "relationships": [
+            "Promoter"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2114353&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Nothing QP I, a series of Capitalize Investments LLC",
+      "cik": "2114324",
+      "accession": "000211432426000001",
+      "filed_date": "2026-03-02",
+      "industry": "Other",
+      "entity_type": "Limited Liability Company",
+      "amount": 404733.0,
+      "city": "HENDERSON",
+      "state": "NV",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Nicholas Tommarello",
+          "title": "",
+          "relationships": [
+            "Promoter"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2114324&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Pathfinder Growth Partners, LLC",
+      "cik": "2108424",
+      "accession": "000210842426000001",
+      "filed_date": "2026-03-02",
+      "industry": "Other",
+      "entity_type": "Limited Liability Company",
+      "amount": 600000.0,
+      "city": "AUSTIN",
+      "state": "TX",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Mark Guerra",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2108424&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Rebar I, a series of Capitalize Investments LLC",
+      "cik": "2114328",
+      "accession": "000211432826000001",
+      "filed_date": "2026-03-02",
+      "industry": "Other",
+      "entity_type": "Limited Liability Company",
+      "amount": 111112.0,
+      "city": "HENDERSON",
+      "state": "NV",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Nicholas Tommarello",
+          "title": "",
+          "relationships": [
+            "Promoter"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2114328&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Replicant I, a series of Wefunds LLC",
+      "cik": "2114386",
+      "accession": "000211438626000001",
+      "filed_date": "2026-03-02",
+      "industry": "Other",
+      "entity_type": "Limited Liability Company",
+      "amount": 582008.0,
+      "city": "HENDERSON",
+      "state": "NV",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Nicholas Tommarello",
+          "title": "",
+          "relationships": [
+            "Promoter"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2114386&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Savvyspark Inc.",
+      "cik": "2113614",
+      "accession": "000211361426000001",
+      "filed_date": "2026-03-02",
+      "industry": "Computers",
+      "entity_type": "Corporation",
+      "amount": 6133.0,
+      "city": "AUSTIN",
+      "state": "TX",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Peter Yoder",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Chris Hearn",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2113614&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "South School QOZF, LLC",
+      "cik": "2114930",
+      "accession": "000211493026000001",
+      "filed_date": "2026-03-02",
+      "industry": "Other",
+      "entity_type": "Limited Liability Company",
+      "amount": 2300000.0,
+      "city": "FAYETTEVILLE",
+      "state": "AR",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Cameron Clark",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2114930&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Valor Mineral Management LLC",
+      "cik": "2093996",
+      "accession": "000209399626000002",
+      "filed_date": "2026-03-02",
+      "industry": "Business Services",
+      "entity_type": "Limited Liability Company",
+      "amount": 100000.0,
+      "city": "FORT WORTH",
+      "state": "TX",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Clifton DuBose, Jr.",
+          "title": "",
+          "relationships": [
+            "Director",
+            "Promoter"
+          ]
+        },
+        {
+          "name": "N/A Avodah 2514, LLC",
+          "title": "",
+          "relationships": [
+            "Director",
+            "Promoter"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2093996&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "AP Mortgage LLC",
+      "cik": "2109284",
+      "accession": "000210928426000002",
+      "filed_date": "2026-03-02",
+      "industry": "Other",
+      "entity_type": "Limited Liability Company",
+      "amount": 117600.0,
+      "city": "DULUTH",
+      "state": "GA",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Bryan Fair",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2109284&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Keep Marching Ltd Liability Co",
+      "cik": "2055342",
+      "accession": "000205534226000001",
+      "filed_date": "2026-03-02",
+      "industry": "Other",
+      "entity_type": "Limited Liability Company",
+      "amount": 5500000.0,
+      "city": "NEW YORK",
+      "state": "NY",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Jill Furman",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "Rachel Sussman",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2055342&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "NovaCore Core Assets INC.",
+      "cik": "2111970",
+      "accession": "000211197026000002",
+      "filed_date": "2026-03-02",
+      "industry": "Business Services",
+      "entity_type": "Limited Liability Company",
+      "amount": 57500.0,
+      "city": "LAKEWOOD",
+      "state": "CO",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "MARC WERNER BARTMANN",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2111970&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "Transparent Musical, Ltd Liability Co",
+      "cik": "1973128",
+      "accession": "000197312826000001",
+      "filed_date": "2026-03-02",
+      "industry": "Other",
+      "entity_type": "Limited Liability Company",
+      "amount": 1562500.0,
+      "city": "NEW YORK",
+      "state": "NY",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "Eva Price",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "Productions LLC Maximum Entertainment",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1973128&type=D&dateb=&owner=include&count=10"
+    },
+    {
+      "company": "West Point Gold Corp.",
+      "cik": "1404353",
+      "accession": "000140435326000001",
+      "filed_date": "2026-03-02",
+      "industry": "Other",
+      "entity_type": "Corporation",
+      "amount": 8052381.0,
+      "city": "VANCOUVER",
+      "state": "A1",
+      "state_of_inc": "",
+      "date_first_sale": "",
+      "founders": [
+        {
+          "name": "JOHN MCNEICE",
+          "title": "",
+          "relationships": [
+            "Executive Officer"
+          ]
+        },
+        {
+          "name": "ROBERT JOHANSING",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "DEREK MACPHERSON",
+          "title": "",
+          "relationships": [
+            "Executive Officer",
+            "Director"
+          ]
+        },
+        {
+          "name": "ANTHONY PATERSON",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "BRODIE SUTHERLAND",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "CONRAD NEST",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        },
+        {
+          "name": "ANDREW BOWERING",
+          "title": "",
+          "relationships": [
+            "Director"
+          ]
+        }
+      ],
+      "exemptions": [],
+      "filing_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1404353&type=D&dateb=&owner=include&count=10"
+    },
     {
       "company": "716 Sports Complex LLC",
       "cik": "2113666",

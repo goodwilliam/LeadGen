@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T22:26:58.527551Z",
-  "defi_count": 114,
+  "generated_at": "2026-03-03T09:53:55.496822Z",
+  "defi_count": 103,
   "trending_count": 15,
   "defi_protocols": [
     {
@@ -15,9 +15,9 @@
         "Ethereum",
         "Arbitrum"
       ],
-      "tvl": 870573.6004897521,
-      "change_1d": 2.31,
-      "change_7d": 14215689.82,
+      "tvl": 858239.5480937446,
+      "change_1d": 0.56,
+      "change_7d": 14018895.06,
       "slug": "alphax",
       "defillama_url": "https://defillama.com/protocol/alphax"
     },
@@ -31,9 +31,9 @@
       "chains": [
         "Ethereum"
       ],
-      "tvl": 3604201.511388899,
-      "change_1d": 60.06,
-      "change_7d": 401670.8,
+      "tvl": 3612934.3028845964,
+      "change_1d": 0.28,
+      "change_7d": 402644.27,
       "slug": "avalon-superearn",
       "defillama_url": "https://defillama.com/protocol/avalon-superearn"
     },
@@ -47,9 +47,9 @@
       "chains": [
         "Shibarium"
       ],
-      "tvl": 762668.908078809,
-      "change_1d": 7990.92,
-      "change_7d": 4328.64,
+      "tvl": 763537.6774271477,
+      "change_1d": 7829.03,
+      "change_7d": 7295.86,
       "slug": "woofswap-shibarium",
       "defillama_url": "https://defillama.com/protocol/woofswap-shibarium"
     },
@@ -65,10 +65,10 @@
         "Binance",
         "Bitlayer",
         "BOB",
-        "BSquared",
         "Ethereum",
         "CORE",
         "IoTeX",
+        "BSquared",
         "Merlin",
         "RSK",
         "Arbitrum",
@@ -76,15 +76,15 @@
         "Base",
         "ZetaChain",
         "AILayer",
-        "Goat",
         "Hemi",
+        "Goat",
         "HashKey Chain",
         "BEVM",
         "Scroll"
       ],
-      "tvl": 14068207.958231933,
-      "change_1d": 26.11,
-      "change_7d": 3555.08,
+      "tvl": 15590504.828527007,
+      "change_1d": 23.2,
+      "change_7d": 4025.17,
       "slug": "pell-network",
       "defillama_url": "https://defillama.com/protocol/pell-network"
     },
@@ -98,37 +98,11 @@
       "chains": [
         "Ethereum"
       ],
-      "tvl": 731033.2032617559,
-      "change_1d": -3.27,
-      "change_7d": 1962.85,
+      "tvl": 729646.734096506,
+      "change_1d": 0.08,
+      "change_7d": 1995.15,
       "slug": "zkcandy-bridge",
       "defillama_url": "https://defillama.com/protocol/zkcandy-bridge"
-    },
-    {
-      "source": "defillama",
-      "name": "ZeroLend Lending",
-      "url": "https://zerolend.xyz/",
-      "twitter_url": "https://twitter.com/zerolendxyz",
-      "category": "Lending",
-      "chain": "Multi-Chain",
-      "chains": [
-        "Linea",
-        "zkSync Era",
-        "Blast",
-        "Ethereum",
-        "Manta",
-        "Base",
-        "Abstract",
-        "X Layer",
-        "Corn",
-        "Hemi",
-        "Zircuit"
-      ],
-      "tvl": 34118919.6102187,
-      "change_1d": 710.13,
-      "change_7d": 718.17,
-      "slug": "zerolend-lending",
-      "defillama_url": "https://defillama.com/protocol/zerolend-lending"
     },
     {
       "source": "defillama",
@@ -144,9 +118,9 @@
         "Optimism",
         "Polygon"
       ],
-      "tvl": 1997519.4088664115,
-      "change_1d": 0.14,
-      "change_7d": 632.9,
+      "tvl": 1996769.11974144,
+      "change_1d": 0.09,
+      "change_7d": 639.97,
       "slug": "hinkal",
       "defillama_url": "https://defillama.com/protocol/hinkal"
     },
@@ -160,9 +134,9 @@
       "chains": [
         "Solana"
       ],
-      "tvl": 57485165.38877318,
-      "change_1d": 0.1,
-      "change_7d": 510.75,
+      "tvl": 57545573.9612816,
+      "change_1d": 0.2,
+      "change_7d": 514.07,
       "slug": "jupusd",
       "defillama_url": "https://defillama.com/protocol/jupusd"
     },
@@ -176,9 +150,9 @@
       "chains": [
         "Cardano"
       ],
-      "tvl": 2250171.7577167707,
-      "change_1d": 3.1,
-      "change_7d": 460.61,
+      "tvl": 2148479.1838342026,
+      "change_1d": -1.22,
+      "change_7d": 442.75,
       "slug": "clarity",
       "defillama_url": "https://defillama.com/protocol/clarity"
     },
@@ -192,9 +166,9 @@
       "chains": [
         "Flare"
       ],
-      "tvl": 5138343.588966079,
-      "change_1d": 6.75,
-      "change_7d": 174.7,
+      "tvl": 5142507.16081245,
+      "change_1d": 5.28,
+      "change_7d": 179.21,
       "slug": "sparkdex-v4",
       "defillama_url": "https://defillama.com/protocol/sparkdex-v4"
     },
@@ -212,55 +186,29 @@
         "Base",
         "Polygon"
       ],
-      "tvl": 12103235.734223563,
-      "change_1d": -0.47,
-      "change_7d": 167.94,
+      "tvl": 12125161.356891233,
+      "change_1d": 0.27,
+      "change_7d": 163.25,
       "slug": "reya-bridge",
       "defillama_url": "https://defillama.com/protocol/reya-bridge"
     },
     {
       "source": "defillama",
-      "name": "Mitosis",
-      "url": "https://mitosis.org",
-      "twitter_url": "https://twitter.com/MitosisOrg",
-      "category": "Onchain Capital Allocator",
+      "name": "PICWE",
+      "url": "https://www.picwe.org/en",
+      "twitter_url": "https://twitter.com/PicWeGlobal",
+      "category": "Dexs",
       "chain": "Multi-Chain",
       "chains": [
-        "Linea",
         "Binance",
         "Arbitrum",
-        "Ethereum",
-        "Base",
-        "Morph",
-        "Manta",
-        "Optimism",
-        "Scroll",
-        "Blast",
-        "Mantle",
-        "Mode"
+        "Base"
       ],
-      "tvl": 6172897.528310763,
-      "change_1d": 133.02,
-      "change_7d": 156.46,
-      "slug": "mitosis",
-      "defillama_url": "https://defillama.com/protocol/mitosis"
-    },
-    {
-      "source": "defillama",
-      "name": "Accountable",
-      "url": "https://accountable.capital/",
-      "twitter_url": "https://twitter.com/AccountableData",
-      "category": "Uncollateralized Lending",
-      "chain": "Multi-Chain",
-      "chains": [
-        "Monad",
-        "Ethereum"
-      ],
-      "tvl": 709351.3003004988,
-      "change_1d": 3.04,
-      "change_7d": 130.84,
-      "slug": "accountable",
-      "defillama_url": "https://defillama.com/protocol/accountable"
+      "tvl": 1150006.7190747063,
+      "change_1d": 144.73,
+      "change_7d": 143.6,
+      "slug": "picwe",
+      "defillama_url": "https://defillama.com/protocol/picwe"
     },
     {
       "source": "defillama",
@@ -272,9 +220,9 @@
       "chains": [
         "Stacks"
       ],
-      "tvl": 27051209.94372351,
-      "change_1d": 3.09,
-      "change_7d": 115.73,
+      "tvl": 26789146.923090342,
+      "change_1d": 1.59,
+      "change_7d": 116.94,
       "slug": "granite",
       "defillama_url": "https://defillama.com/protocol/granite"
     },
@@ -288,9 +236,9 @@
       "chains": [
         "Cardano"
       ],
-      "tvl": 11250028.193640005,
-      "change_1d": 1.53,
-      "change_7d": 91.91,
+      "tvl": 11091028.117598498,
+      "change_1d": -0.29,
+      "change_7d": 93.46,
       "slug": "sundaeswap-v3",
       "defillama_url": "https://defillama.com/protocol/sundaeswap-v3"
     },
@@ -304,9 +252,9 @@
       "chains": [
         "ZIGChain"
       ],
-      "tvl": 2312507.6171900057,
-      "change_1d": 0.58,
-      "change_7d": 88.21,
+      "tvl": 2308138.2573007615,
+      "change_1d": 1.76,
+      "change_7d": 88.58,
       "slug": "permapod",
       "defillama_url": "https://defillama.com/protocol/permapod"
     },
@@ -320,11 +268,43 @@
       "chains": [
         "Ethereum"
       ],
-      "tvl": 13605491.846101107,
-      "change_1d": -0.27,
-      "change_7d": 79.68,
+      "tvl": 13626922.584310273,
+      "change_1d": 0.2,
+      "change_7d": 84.35,
       "slug": "piku",
       "defillama_url": "https://defillama.com/protocol/piku"
+    },
+    {
+      "source": "defillama",
+      "name": "Synatra",
+      "url": "https://synatra.xyz",
+      "twitter_url": "https://twitter.com/synatraxyz",
+      "category": "Yield Aggregator",
+      "chain": "Solana",
+      "chains": [
+        "Solana"
+      ],
+      "tvl": 5874452.74904164,
+      "change_1d": 84.85,
+      "change_7d": 78.87,
+      "slug": "synatra",
+      "defillama_url": "https://defillama.com/protocol/synatra"
+    },
+    {
+      "source": "defillama",
+      "name": "Vault Bridge",
+      "url": "https://www.agglayer.dev/",
+      "twitter_url": "https://twitter.com/Agglayer",
+      "category": "Risk Curators",
+      "chain": "Ethereum",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 224846091.23648965,
+      "change_1d": 55.98,
+      "change_7d": 78.15,
+      "slug": "vault-bridge",
+      "defillama_url": "https://defillama.com/protocol/vault-bridge"
     },
     {
       "source": "defillama",
@@ -336,44 +316,11 @@
       "chains": [
         "Sui"
       ],
-      "tvl": 2099685.977463969,
-      "change_1d": 5.69,
-      "change_7d": 75.89,
+      "tvl": 2044864.3720649206,
+      "change_1d": 1.9,
+      "change_7d": 73.38,
       "slug": "sudo-perps",
       "defillama_url": "https://defillama.com/protocol/sudo-perps"
-    },
-    {
-      "source": "defillama",
-      "name": "Aegis Markets",
-      "url": "https://aegis.markets/",
-      "twitter_url": "https://twitter.com/AegisMarkets",
-      "category": "Liquidity manager",
-      "chain": "Multi-Chain",
-      "chains": [
-        "Unichain",
-        "Base"
-      ],
-      "tvl": 5245845.88952217,
-      "change_1d": 6.58,
-      "change_7d": 70.19,
-      "slug": "aegis-markets",
-      "defillama_url": "https://defillama.com/protocol/aegis-markets"
-    },
-    {
-      "source": "defillama",
-      "name": "Bitflow",
-      "url": "https://www.bitflow.finance/",
-      "twitter_url": "https://twitter.com/Bitflow_Finance",
-      "category": "Dexs",
-      "chain": "Stacks",
-      "chains": [
-        "Stacks"
-      ],
-      "tvl": 6299107.037762291,
-      "change_1d": 2.02,
-      "change_7d": 69.91,
-      "slug": "bitflow",
-      "defillama_url": "https://defillama.com/protocol/bitflow"
     },
     {
       "source": "defillama",
@@ -385,11 +332,27 @@
       "chains": [
         "Ethereum"
       ],
-      "tvl": 13526864.80488115,
-      "change_1d": 27.03,
-      "change_7d": 69.64,
+      "tvl": 13082684.169566778,
+      "change_1d": 14.5,
+      "change_7d": 72.01,
       "slug": "wildcat-protocol",
       "defillama_url": "https://defillama.com/protocol/wildcat-protocol"
+    },
+    {
+      "source": "defillama",
+      "name": "Bitflow",
+      "url": "https://www.bitflow.finance/",
+      "twitter_url": "https://twitter.com/Bitflow_Finance",
+      "category": "Dexs",
+      "chain": "Stacks",
+      "chains": [
+        "Stacks"
+      ],
+      "tvl": 6261404.721594025,
+      "change_1d": 1.35,
+      "change_7d": 69.12,
+      "slug": "bitflow",
+      "defillama_url": "https://defillama.com/protocol/bitflow"
     },
     {
       "source": "defillama",
@@ -410,27 +373,11 @@
         "Unichain",
         "Polygon"
       ],
-      "tvl": 106496064.18712766,
-      "change_1d": 44.06,
-      "change_7d": 66.21,
+      "tvl": 106328287.829215,
+      "change_1d": 34.72,
+      "change_7d": 66.22,
       "slug": "clearstar",
       "defillama_url": "https://defillama.com/protocol/clearstar"
-    },
-    {
-      "source": "defillama",
-      "name": "Puzzle Lend",
-      "url": "https://lend.puzzleswap.org/",
-      "twitter_url": "https://twitter.com/puzzle_lend",
-      "category": "Lending",
-      "chain": "Waves",
-      "chains": [
-        "Waves"
-      ],
-      "tvl": 1115627.052437214,
-      "change_1d": -6.08,
-      "change_7d": 63.38,
-      "slug": "puzzle-lend",
-      "defillama_url": "https://defillama.com/protocol/puzzle-lend"
     },
     {
       "source": "defillama",
@@ -442,11 +389,27 @@
       "chains": [
         "Hedera"
       ],
-      "tvl": 3410984,
-      "change_1d": -1.58,
-      "change_7d": 62.25,
+      "tvl": 3380382,
+      "change_1d": -4.02,
+      "change_7d": 64.31,
       "slug": "hbarsuite",
       "defillama_url": "https://defillama.com/protocol/hbarsuite"
+    },
+    {
+      "source": "defillama",
+      "name": "Puzzle Lend",
+      "url": "https://lend.puzzleswap.org/",
+      "twitter_url": "https://twitter.com/puzzle_lend",
+      "category": "Lending",
+      "chain": "Waves",
+      "chains": [
+        "Waves"
+      ],
+      "tvl": 1100396.166094718,
+      "change_1d": -1.69,
+      "change_7d": 62.05,
+      "slug": "puzzle-lend",
+      "defillama_url": "https://defillama.com/protocol/puzzle-lend"
     },
     {
       "source": "defillama",
@@ -461,9 +424,9 @@
         "Avalanche",
         "Base"
       ],
-      "tvl": 1936016.7691891657,
-      "change_1d": 6.55,
-      "change_7d": 61.56,
+      "tvl": 1887482.2268859542,
+      "change_1d": 2.71,
+      "change_7d": 60.6,
       "slug": "termfinance-lend",
       "defillama_url": "https://defillama.com/protocol/termfinance-lend"
     },
@@ -478,27 +441,27 @@
         "Flare",
         "Songbird"
       ],
-      "tvl": 11429040.92081347,
-      "change_1d": 1.26,
-      "change_7d": 52.11,
+      "tvl": 11605201.04485351,
+      "change_1d": 2.29,
+      "change_7d": 55.85,
       "slug": "enosys-amm-v3",
       "defillama_url": "https://defillama.com/protocol/enosys-amm-v3"
     },
     {
       "source": "defillama",
-      "name": "Cetus DLMM",
-      "url": "https://www.cetus.zone",
-      "twitter_url": "https://twitter.com/CetusProtocol",
+      "name": "Magma",
+      "url": "https://magmafinance.io/",
+      "twitter_url": "https://twitter.com/Magma_Finance",
       "category": "Dexs",
       "chain": "Sui",
       "chains": [
         "Sui"
       ],
-      "tvl": 1158115.2011603096,
-      "change_1d": 3.85,
-      "change_7d": 48.44,
-      "slug": "cetus-dlmm",
-      "defillama_url": "https://defillama.com/protocol/cetus-dlmm"
+      "tvl": 4773107.486578679,
+      "change_1d": 49.33,
+      "change_7d": 54.2,
+      "slug": "magma",
+      "defillama_url": "https://defillama.com/protocol/magma"
     },
     {
       "source": "defillama",
@@ -510,59 +473,27 @@
       "chains": [
         "Near"
       ],
-      "tvl": 624179.1135138039,
-      "change_1d": 23.29,
-      "change_7d": 44.89,
+      "tvl": 630878.842467171,
+      "change_1d": 14.96,
+      "change_7d": 46.64,
       "slug": "here-wallet-staking",
       "defillama_url": "https://defillama.com/protocol/here-wallet-staking"
     },
     {
       "source": "defillama",
-      "name": "Avant avETH",
-      "url": "https://app.avantprotocol.com/rewards?ref=defillama",
-      "twitter_url": "https://twitter.com/avantprotocol",
-      "category": "Onchain Capital Allocator",
-      "chain": "Ethereum",
+      "name": "LiNEAR Protocol",
+      "url": "https://linearprotocol.org",
+      "twitter_url": "https://twitter.com/LinearProtocol",
+      "category": "Liquid Staking",
+      "chain": "Near",
       "chains": [
-        "Ethereum"
+        "Near"
       ],
-      "tvl": 9173267.267371438,
-      "change_1d": 20.2,
-      "change_7d": 44.3,
-      "slug": "avant-aveth",
-      "defillama_url": "https://defillama.com/protocol/avant-aveth"
-    },
-    {
-      "source": "defillama",
-      "name": "Splash Protocol",
-      "url": "https://www.splash.trade",
-      "twitter_url": "https://twitter.com/splashprotocol",
-      "category": "Dexs",
-      "chain": "Cardano",
-      "chains": [
-        "Cardano"
-      ],
-      "tvl": 6690064.302602177,
-      "change_1d": 3.02,
-      "change_7d": 44.08,
-      "slug": "splash-protocol",
-      "defillama_url": "https://defillama.com/protocol/splash-protocol"
-    },
-    {
-      "source": "defillama",
-      "name": "Salvor",
-      "url": "https://salvor.io",
-      "twitter_url": "https://twitter.com/salvor_io",
-      "category": "NFT Marketplace",
-      "chain": "Avalanche",
-      "chains": [
-        "Avalanche"
-      ],
-      "tvl": 500890.43918205076,
-      "change_1d": 3.7,
-      "change_7d": 40.94,
-      "slug": "salvor",
-      "defillama_url": "https://defillama.com/protocol/salvor"
+      "tvl": 40864824.677281596,
+      "change_1d": 18.63,
+      "change_7d": 43.45,
+      "slug": "linear-protocol",
+      "defillama_url": "https://defillama.com/protocol/linear-protocol"
     },
     {
       "source": "defillama",
@@ -575,11 +506,75 @@
         "Solana",
         "Binance"
       ],
-      "tvl": 13130379.124105996,
-      "change_1d": 44.62,
-      "change_7d": 40.02,
+      "tvl": 12941890.337745262,
+      "change_1d": 41.44,
+      "change_7d": 41.15,
       "slug": "ratex-dex",
       "defillama_url": "https://defillama.com/protocol/ratex-dex"
+    },
+    {
+      "source": "defillama",
+      "name": "Avant avETH",
+      "url": "https://app.avantprotocol.com/rewards?ref=defillama",
+      "twitter_url": "https://twitter.com/avantprotocol",
+      "category": "Onchain Capital Allocator",
+      "chain": "Ethereum",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 8799747.486592345,
+      "change_1d": 14.02,
+      "change_7d": 40.97,
+      "slug": "avant-aveth",
+      "defillama_url": "https://defillama.com/protocol/avant-aveth"
+    },
+    {
+      "source": "defillama",
+      "name": "RHEA LST",
+      "url": "https://www.rhea.finance/",
+      "twitter_url": "https://twitter.com/rhea_finance",
+      "category": "Liquid Staking",
+      "chain": "Near",
+      "chains": [
+        "Near"
+      ],
+      "tvl": 16256597.504159788,
+      "change_1d": 11.18,
+      "change_7d": 40.07,
+      "slug": "rhea-lst",
+      "defillama_url": "https://defillama.com/protocol/rhea-lst"
+    },
+    {
+      "source": "defillama",
+      "name": "NAVI Lending",
+      "url": "https://www.naviprotocol.io/",
+      "twitter_url": "https://twitter.com/navi_protocol",
+      "category": "Lending",
+      "chain": "Sui",
+      "chains": [
+        "Sui"
+      ],
+      "tvl": 194127006.13025972,
+      "change_1d": 38.34,
+      "change_7d": 39.71,
+      "slug": "navi-lending",
+      "defillama_url": "https://defillama.com/protocol/navi-lending"
+    },
+    {
+      "source": "defillama",
+      "name": "Enosys Loans",
+      "url": "https://enosys.global/products/loans",
+      "twitter_url": "https://twitter.com/enosys_global",
+      "category": "CDP",
+      "chain": "Flare",
+      "chains": [
+        "Flare"
+      ],
+      "tvl": 11855231.758822367,
+      "change_1d": 0.07,
+      "change_7d": 38.42,
+      "slug": "enosys-loans",
+      "defillama_url": "https://defillama.com/protocol/enosys-loans"
     },
     {
       "source": "defillama",
@@ -592,9 +587,9 @@
         "Near",
         "Aurora"
       ],
-      "tvl": 38447016.10208822,
-      "change_1d": 22.17,
-      "change_7d": 39.97,
+      "tvl": 37570639.633521184,
+      "change_1d": 13.47,
+      "change_7d": 37.67,
       "slug": "meta-pool-near",
       "defillama_url": "https://defillama.com/protocol/meta-pool-near"
     },
@@ -608,76 +603,94 @@
       "chains": [
         "Avalanche"
       ],
-      "tvl": 996150.3547140178,
-      "change_1d": -13.0,
-      "change_7d": 39.63,
+      "tvl": 976863.7810725865,
+      "change_1d": -13.11,
+      "change_7d": 37.24,
       "slug": "aquabank",
       "defillama_url": "https://defillama.com/protocol/aquabank"
     },
     {
       "source": "defillama",
-      "name": "RHEA LST",
-      "url": "https://www.rhea.finance/",
-      "twitter_url": "https://twitter.com/rhea_finance",
-      "category": "Liquid Staking",
-      "chain": "Near",
+      "name": "Shadow Exchange CLMM",
+      "url": "https://www.shadow.so",
+      "twitter_url": "https://twitter.com/ShadowOnSonic",
+      "category": "Dexs",
+      "chain": "Sonic",
       "chains": [
-        "Near"
+        "Sonic"
       ],
-      "tvl": 16273154.070867265,
-      "change_1d": 19.5,
-      "change_7d": 39.32,
-      "slug": "rhea-lst",
-      "defillama_url": "https://defillama.com/protocol/rhea-lst"
+      "tvl": 2537282.8012562618,
+      "change_1d": 17.86,
+      "change_7d": 35.82,
+      "slug": "shadow-exchange-clmm",
+      "defillama_url": "https://defillama.com/protocol/shadow-exchange-clmm"
     },
     {
       "source": "defillama",
-      "name": "Enosys Loans",
-      "url": "https://enosys.global/products/loans",
-      "twitter_url": "https://twitter.com/enosys_global",
-      "category": "CDP",
-      "chain": "Flare",
-      "chains": [
-        "Flare"
-      ],
-      "tvl": 12195854.0887632,
-      "change_1d": 3.8,
-      "change_7d": 39.12,
-      "slug": "enosys-loans",
-      "defillama_url": "https://defillama.com/protocol/enosys-loans"
-    },
-    {
-      "source": "defillama",
-      "name": "SynFutures V3",
-      "url": "https://trade.synfutures.com/#/trade",
-      "twitter_url": "https://twitter.com/SynFuturesDefi",
-      "category": "Derivatives",
+      "name": "Royco V2",
+      "url": "https://www.royco.org",
+      "twitter_url": "https://twitter.com/roycoprotocol",
+      "category": "Yield",
       "chain": "Multi-Chain",
       "chains": [
-        "Base",
-        "Blast"
+        "Ethereum",
+        "Avalanche"
       ],
-      "tvl": 4439954.697010314,
-      "change_1d": -0.1,
-      "change_7d": 38.65,
-      "slug": "synfutures-v3",
-      "defillama_url": "https://defillama.com/protocol/synfutures-v3"
+      "tvl": 10222628.059459597,
+      "change_1d": 30.87,
+      "change_7d": 35.21,
+      "slug": "royco-v2",
+      "defillama_url": "https://defillama.com/protocol/royco-v2"
     },
     {
       "source": "defillama",
-      "name": "LiNEAR Protocol",
-      "url": "https://linearprotocol.org",
-      "twitter_url": "https://twitter.com/LinearProtocol",
-      "category": "Liquid Staking",
+      "name": "Rhea Lend",
+      "url": "https://lending.rhea.finance/",
+      "twitter_url": "https://twitter.com/rhea_finance",
+      "category": "Lending",
       "chain": "Near",
       "chains": [
         "Near"
       ],
-      "tvl": 39147462.914887846,
-      "change_1d": 18.6,
-      "change_7d": 37.67,
-      "slug": "linear-protocol",
-      "defillama_url": "https://defillama.com/protocol/linear-protocol"
+      "tvl": 77451348.6878016,
+      "change_1d": 16.09,
+      "change_7d": 34.83,
+      "slug": "rhea-lend",
+      "defillama_url": "https://defillama.com/protocol/rhea-lend"
+    },
+    {
+      "source": "defillama",
+      "name": "Drift Staked SOL",
+      "url": "https://app.drift.trade/ref/defillama",
+      "twitter_url": "https://twitter.com/DriftProtocol",
+      "category": "Liquid Staking",
+      "chain": "Solana",
+      "chains": [
+        "Solana"
+      ],
+      "tvl": 237675199.8266861,
+      "change_1d": 1.79,
+      "change_7d": 34.08,
+      "slug": "drift-staked-sol",
+      "defillama_url": "https://defillama.com/protocol/drift-staked-sol"
+    },
+    {
+      "source": "defillama",
+      "name": "Allstake",
+      "url": "https://allstake.org/",
+      "twitter_url": "https://twitter.com/allstake_fi",
+      "category": "Restaking",
+      "chain": "Multi-Chain",
+      "chains": [
+        "Near",
+        "Solana",
+        "Ethereum"
+      ],
+      "tvl": 640586.1878475051,
+      "change_1d": 18.21,
+      "change_7d": 33.17,
+      "slug": "allstake",
+      "defillama_url": "https://defillama.com/protocol/allstake"
     },
     {
       "source": "defillama",
@@ -717,75 +730,36 @@
         "Bittorrent",
         "Moonbeam"
       ],
-      "tvl": 89093541.85658735,
-      "change_1d": 33.61,
-      "change_7d": 36.58,
+      "tvl": 86243972.0216109,
+      "change_1d": 27.73,
+      "change_7d": 31.7,
       "slug": "sushiswap-v3",
       "defillama_url": "https://defillama.com/protocol/sushiswap-v3"
     },
     {
       "source": "defillama",
-      "name": "Drift Staked SOL",
-      "url": "https://app.drift.trade/ref/defillama",
-      "twitter_url": "https://twitter.com/DriftProtocol",
-      "category": "Liquid Staking",
-      "chain": "Solana",
-      "chains": [
-        "Solana"
-      ],
-      "tvl": 247164162.6581316,
-      "change_1d": 10.04,
-      "change_7d": 36.42,
-      "slug": "drift-staked-sol",
-      "defillama_url": "https://defillama.com/protocol/drift-staked-sol"
-    },
-    {
-      "source": "defillama",
-      "name": "Vault Bridge",
-      "url": "https://www.agglayer.dev/",
-      "twitter_url": "https://twitter.com/Agglayer",
-      "category": "Risk Curators",
-      "chain": "Ethereum",
-      "chains": [
-        "Ethereum"
-      ],
-      "tvl": 162613195.11175594,
-      "change_1d": 23.03,
-      "change_7d": 32.5,
-      "slug": "vault-bridge",
-      "defillama_url": "https://defillama.com/protocol/vault-bridge"
-    },
-    {
-      "source": "defillama",
-      "name": "Tigris Mezo",
-      "url": "https://mezo.org/explore/pools",
-      "twitter_url": "https://twitter.com/MezoNetwork",
+      "name": "Velodrome V3",
+      "url": "https://velodrome.finance/",
+      "twitter_url": "https://twitter.com/VelodromeFi",
       "category": "Dexs",
-      "chain": "Mezo",
+      "chain": "Multi-Chain",
       "chains": [
-        "Mezo"
+        "Ink",
+        "Optimism",
+        "Soneium",
+        "Lisk",
+        "Unichain",
+        "Celo",
+        "Fraxtal",
+        "Superseed",
+        "Swellchain",
+        "Mode"
       ],
-      "tvl": 3597004.082277516,
-      "change_1d": 10.75,
-      "change_7d": 30.59,
-      "slug": "tigris-mezo",
-      "defillama_url": "https://defillama.com/protocol/tigris-mezo"
-    },
-    {
-      "source": "defillama",
-      "name": "LiquidSwap",
-      "url": "https://liquidswap.com/",
-      "twitter_url": "https://twitter.com/PontemNetwork",
-      "category": "Dexs",
-      "chain": "Aptos",
-      "chains": [
-        "Aptos"
-      ],
-      "tvl": 1369625.2384563163,
-      "change_1d": 3.59,
-      "change_7d": 30.56,
-      "slug": "liquidswap",
-      "defillama_url": "https://defillama.com/protocol/liquidswap"
+      "tvl": 25574157.29130149,
+      "change_1d": 2.02,
+      "change_7d": 29.5,
+      "slug": "velodrome-v3",
+      "defillama_url": "https://defillama.com/protocol/velodrome-v3"
     },
     {
       "source": "defillama",
@@ -797,63 +771,31 @@
       "chains": [
         "Hyperliquid L1"
       ],
-      "tvl": 16331412.409869881,
-      "change_1d": 10.8,
-      "change_7d": 29.52,
+      "tvl": 16101702.659861429,
+      "change_1d": 6.64,
+      "change_7d": 29.24,
       "slug": "looped-hype",
       "defillama_url": "https://defillama.com/protocol/looped-hype"
     },
     {
       "source": "defillama",
-      "name": "Rhea Lend",
-      "url": "https://lending.rhea.finance/",
-      "twitter_url": "https://twitter.com/rhea_finance",
-      "category": "Lending",
-      "chain": "Near",
-      "chains": [
-        "Near"
-      ],
-      "tvl": 74005646.86508916,
-      "change_1d": 13.65,
-      "change_7d": 28.21,
-      "slug": "rhea-lend",
-      "defillama_url": "https://defillama.com/protocol/rhea-lend"
-    },
-    {
-      "source": "defillama",
-      "name": "Knightrade",
-      "url": "https://knightrade.io/",
-      "twitter_url": "https://twitter.com/KnightradeTeam",
-      "category": "Onchain Capital Allocator",
+      "name": "Quickswap V4",
+      "url": "https://dapp.quickswap.exchange/",
+      "twitter_url": "https://twitter.com/QuickswapDEX",
+      "category": "Dexs",
       "chain": "Multi-Chain",
       "chains": [
-        "Solana",
-        "Arbitrum",
-        "Ethereum"
+        "Base",
+        "Mantra",
+        "Soneium",
+        "Somnia",
+        "X Layer"
       ],
-      "tvl": 19286276.13217031,
-      "change_1d": 3.08,
-      "change_7d": 27.39,
-      "slug": "knightrade",
-      "defillama_url": "https://defillama.com/protocol/knightrade"
-    },
-    {
-      "source": "defillama",
-      "name": "Allstake",
-      "url": "https://allstake.org/",
-      "twitter_url": "https://twitter.com/allstake_fi",
-      "category": "Restaking",
-      "chain": "Multi-Chain",
-      "chains": [
-        "Near",
-        "Solana",
-        "Ethereum"
-      ],
-      "tvl": 609743.4293486711,
-      "change_1d": 12.98,
-      "change_7d": 27.34,
-      "slug": "allstake",
-      "defillama_url": "https://defillama.com/protocol/allstake"
+      "tvl": 4942561.978989413,
+      "change_1d": 19.33,
+      "change_7d": 28.39,
+      "slug": "quickswap-v4",
+      "defillama_url": "https://defillama.com/protocol/quickswap-v4"
     },
     {
       "source": "defillama",
@@ -865,11 +807,59 @@
       "chains": [
         "Ethereum"
       ],
-      "tvl": 3122932.2940781103,
-      "change_1d": 0.48,
-      "change_7d": 27.14,
+      "tvl": 3130651.6216698647,
+      "change_1d": 0.71,
+      "change_7d": 27.46,
       "slug": "generic.money",
       "defillama_url": "https://defillama.com/protocol/generic.money"
+    },
+    {
+      "source": "defillama",
+      "name": "Kona Lend",
+      "url": "https://app.kona.surf/lending",
+      "twitter_url": "https://twitter.com/KonaDeFi",
+      "category": "Lending",
+      "chain": "Abstract",
+      "chains": [
+        "Abstract"
+      ],
+      "tvl": 1321828.9853576936,
+      "change_1d": 7.65,
+      "change_7d": 26.92,
+      "slug": "kona-lend",
+      "defillama_url": "https://defillama.com/protocol/kona-lend"
+    },
+    {
+      "source": "defillama",
+      "name": "Tigris Mezo",
+      "url": "https://mezo.org/explore/pools",
+      "twitter_url": "https://twitter.com/MezoNetwork",
+      "category": "Dexs",
+      "chain": "Mezo",
+      "chains": [
+        "Mezo"
+      ],
+      "tvl": 3544661.2563499315,
+      "change_1d": 9.52,
+      "change_7d": 26.73,
+      "slug": "tigris-mezo",
+      "defillama_url": "https://defillama.com/protocol/tigris-mezo"
+    },
+    {
+      "source": "defillama",
+      "name": "HyperLend Pooled",
+      "url": "https://app.hyperlend.finance/?ref=DEFILLAMA",
+      "twitter_url": "https://twitter.com/hyperlendx",
+      "category": "Lending",
+      "chain": "Hyperliquid L1",
+      "chains": [
+        "Hyperliquid L1"
+      ],
+      "tvl": 362219137.59139055,
+      "change_1d": 6.96,
+      "change_7d": 26.71,
+      "slug": "hyperlend-pooled",
+      "defillama_url": "https://defillama.com/protocol/hyperlend-pooled"
     },
     {
       "source": "defillama",
@@ -881,11 +871,91 @@
       "chains": [
         "Scroll"
       ],
-      "tvl": 141142517.9921342,
-      "change_1d": 2.93,
-      "change_7d": 26.79,
+      "tvl": 139246333.77833676,
+      "change_1d": 1.86,
+      "change_7d": 26.67,
       "slug": "etherfi-cash-liquid",
       "defillama_url": "https://defillama.com/protocol/etherfi-cash-liquid"
+    },
+    {
+      "source": "defillama",
+      "name": "PumpSpace",
+      "url": "https://pumpspace.io/",
+      "twitter_url": "https://twitter.com/pumpspace10000",
+      "category": "Dexs",
+      "chain": "Avalanche",
+      "chains": [
+        "Avalanche"
+      ],
+      "tvl": 1258374.3408279358,
+      "change_1d": -1.06,
+      "change_7d": 25.84,
+      "slug": "pumpspace",
+      "defillama_url": "https://defillama.com/protocol/pumpspace"
+    },
+    {
+      "source": "defillama",
+      "name": "Kinetiq Earn",
+      "url": "https://kinetiq.xyz/stake-hype#kinetiq-earn",
+      "twitter_url": "https://twitter.com/kinetiq_xyz",
+      "category": "Yield Aggregator",
+      "chain": "Hyperliquid L1",
+      "chains": [
+        "Hyperliquid L1"
+      ],
+      "tvl": 56886429.611013375,
+      "change_1d": 8.91,
+      "change_7d": 25.32,
+      "slug": "kinetiq-earn",
+      "defillama_url": "https://defillama.com/protocol/kinetiq-earn"
+    },
+    {
+      "source": "defillama",
+      "name": "Minswap DEX",
+      "url": "https://minswap.org",
+      "twitter_url": "https://twitter.com/MinswapDEX",
+      "category": "Dexs",
+      "chain": "Cardano",
+      "chains": [
+        "Cardano"
+      ],
+      "tvl": 36807770.17922454,
+      "change_1d": 0.16,
+      "change_7d": 25.25,
+      "slug": "minswap-dex",
+      "defillama_url": "https://defillama.com/protocol/minswap-dex"
+    },
+    {
+      "source": "defillama",
+      "name": "GoAPT",
+      "url": "https://goblin.fi/goAPT",
+      "twitter_url": "https://twitter.com/the_goblin_fi",
+      "category": "Liquid Staking",
+      "chain": "Aptos",
+      "chains": [
+        "Aptos"
+      ],
+      "tvl": 1177151.3327209707,
+      "change_1d": 5.71,
+      "change_7d": 24.99,
+      "slug": "goapt",
+      "defillama_url": "https://defillama.com/protocol/goapt"
+    },
+    {
+      "source": "defillama",
+      "name": "Mainstreet",
+      "url": "https://mainstreet.finance/",
+      "twitter_url": "https://twitter.com/Main_St_Finance",
+      "category": "Basis Trading",
+      "chain": "Ethereum",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 26671142.984163143,
+      "change_1d": 6.18,
+      "change_7d": 24.98,
+      "slug": "mainstreet",
+      "defillama_url": "https://defillama.com/protocol/mainstreet"
     },
     {
       "source": "defillama",
@@ -900,27 +970,11 @@
         "Swellchain",
         "Arbitrum"
       ],
-      "tvl": 21792261.305813033,
-      "change_1d": -1.71,
-      "change_7d": 26.37,
+      "tvl": 21692019.527223103,
+      "change_1d": -1.88,
+      "change_7d": 24.37,
       "slug": "nucleus",
       "defillama_url": "https://defillama.com/protocol/nucleus"
-    },
-    {
-      "source": "defillama",
-      "name": "Minswap DEX",
-      "url": "https://minswap.org",
-      "twitter_url": "https://twitter.com/MinswapDEX",
-      "category": "Dexs",
-      "chain": "Cardano",
-      "chains": [
-        "Cardano"
-      ],
-      "tvl": 37562279.38413581,
-      "change_1d": 2.12,
-      "change_7d": 26.14,
-      "slug": "minswap-dex",
-      "defillama_url": "https://defillama.com/protocol/minswap-dex"
     },
     {
       "source": "defillama",
@@ -932,114 +986,11 @@
       "chains": [
         "Hyperliquid L1"
       ],
-      "tvl": 1246531.7540698345,
-      "change_1d": 2.42,
-      "change_7d": 26.13,
+      "tvl": 1231724.2592129172,
+      "change_1d": 2.4,
+      "change_7d": 24.2,
       "slug": "kittenswap-algebra",
       "defillama_url": "https://defillama.com/protocol/kittenswap-algebra"
-    },
-    {
-      "source": "defillama",
-      "name": "Royco V2",
-      "url": "https://www.royco.org",
-      "twitter_url": "https://twitter.com/roycoprotocol",
-      "category": "Yield",
-      "chain": "Multi-Chain",
-      "chains": [
-        "Ethereum",
-        "Avalanche"
-      ],
-      "tvl": 9820255.054348651,
-      "change_1d": 25.54,
-      "change_7d": 26.1,
-      "slug": "royco-v2",
-      "defillama_url": "https://defillama.com/protocol/royco-v2"
-    },
-    {
-      "source": "defillama",
-      "name": "Kona Lend",
-      "url": "https://app.kona.surf/lending",
-      "twitter_url": "https://twitter.com/KonaDeFi",
-      "category": "Lending",
-      "chain": "Abstract",
-      "chains": [
-        "Abstract"
-      ],
-      "tvl": 1334484.8465932994,
-      "change_1d": 9.45,
-      "change_7d": 25.64,
-      "slug": "kona-lend",
-      "defillama_url": "https://defillama.com/protocol/kona-lend"
-    },
-    {
-      "source": "defillama",
-      "name": "PumpSpace",
-      "url": "https://pumpspace.io/",
-      "twitter_url": "https://twitter.com/pumpspace10000",
-      "category": "Dexs",
-      "chain": "Avalanche",
-      "chains": [
-        "Avalanche"
-      ],
-      "tvl": 1271982.4393284197,
-      "change_1d": 0.32,
-      "change_7d": 25.12,
-      "slug": "pumpspace",
-      "defillama_url": "https://defillama.com/protocol/pumpspace"
-    },
-    {
-      "source": "defillama",
-      "name": "stCELO",
-      "url": "https://stcelo.xyz/",
-      "twitter_url": "https://twitter.com/cLabs",
-      "category": "Liquid Staking",
-      "chain": "Celo",
-      "chains": [
-        "Celo"
-      ],
-      "tvl": 1794699.6230138591,
-      "change_1d": 6.01,
-      "change_7d": 24.84,
-      "slug": "stcelo",
-      "defillama_url": "https://defillama.com/protocol/stcelo"
-    },
-    {
-      "source": "defillama",
-      "name": "Reservoir Protocol",
-      "url": "https://app.reservoir.xyz/leaderboard/?referral_code=4bf702ff7d",
-      "twitter_url": "https://twitter.com/reservoir_xyz",
-      "category": "CDP",
-      "chain": "Multi-Chain",
-      "chains": [
-        "Ethereum",
-        "Plasma",
-        "Berachain",
-        "Base",
-        "Optimism",
-        "World Chain",
-        "Arbitrum"
-      ],
-      "tvl": 89896341.08005589,
-      "change_1d": 7.32,
-      "change_7d": 24.82,
-      "slug": "reservoir-protocol",
-      "defillama_url": "https://defillama.com/protocol/reservoir-protocol"
-    },
-    {
-      "source": "defillama",
-      "name": "flaunch",
-      "url": "https://flaunch.gg",
-      "twitter_url": "https://twitter.com/flaunchgg",
-      "category": "Launchpad",
-      "chain": "Base",
-      "chains": [
-        "Base"
-      ],
-      "tvl": 2067287.3872355362,
-      "change_1d": 5.92,
-      "change_7d": 24.79,
-      "slug": "flaunch",
-      "defillama_url": "https://defillama.com/protocol/flaunch"
     },
     {
       "source": "defillama",
@@ -1062,128 +1013,65 @@
         "Avalanche",
         "xDai"
       ],
-      "tvl": 643304.3535097414,
-      "change_1d": 1.24,
-      "change_7d": 23.91,
+      "tvl": 641798.4732122441,
+      "change_1d": 0.8,
+      "change_7d": 23.67,
       "slug": "bim",
       "defillama_url": "https://defillama.com/protocol/bim"
     },
     {
       "source": "defillama",
-      "name": "HyperLend Pooled",
-      "url": "https://app.hyperlend.finance/?ref=DEFILLAMA",
-      "twitter_url": "https://twitter.com/hyperlendx",
-      "category": "Lending",
-      "chain": "Hyperliquid L1",
-      "chains": [
-        "Hyperliquid L1"
-      ],
-      "tvl": 359261314.35998154,
-      "change_1d": 1.99,
-      "change_7d": 23.89,
-      "slug": "hyperlend-pooled",
-      "defillama_url": "https://defillama.com/protocol/hyperlend-pooled"
-    },
-    {
-      "source": "defillama",
-      "name": "TermMax",
-      "url": "https://ts.finance/termmax/",
-      "twitter_url": "https://twitter.com/TermMaxFi",
-      "category": "Lending",
+      "name": "Reservoir Protocol",
+      "url": "https://app.reservoir.xyz/leaderboard/?referral_code=4bf702ff7d",
+      "twitter_url": "https://twitter.com/reservoir_xyz",
+      "category": "CDP",
       "chain": "Multi-Chain",
       "chains": [
         "Ethereum",
-        "BSquared",
-        "Binance",
+        "Plasma",
         "Berachain",
+        "Base",
+        "World Chain",
         "Arbitrum",
-        "Hyperliquid L1"
+        "Optimism"
       ],
-      "tvl": 34236952.805375196,
-      "change_1d": -2.02,
-      "change_7d": 23.89,
-      "slug": "termmax",
-      "defillama_url": "https://defillama.com/protocol/termmax"
+      "tvl": 86895569.4879808,
+      "change_1d": 4.25,
+      "change_7d": 23.63,
+      "slug": "reservoir-protocol",
+      "defillama_url": "https://defillama.com/protocol/reservoir-protocol"
     },
     {
       "source": "defillama",
-      "name": "Kinetiq Earn",
-      "url": "https://kinetiq.xyz/stake-hype#kinetiq-earn",
-      "twitter_url": "https://twitter.com/kinetiq_xyz",
-      "category": "Yield Aggregator",
-      "chain": "Hyperliquid L1",
-      "chains": [
-        "Hyperliquid L1"
-      ],
-      "tvl": 56348560.11087573,
-      "change_1d": 3.82,
-      "change_7d": 23.61,
-      "slug": "kinetiq-earn",
-      "defillama_url": "https://defillama.com/protocol/kinetiq-earn"
-    },
-    {
-      "source": "defillama",
-      "name": "GoAPT",
-      "url": "https://goblin.fi/goAPT",
-      "twitter_url": "https://twitter.com/the_goblin_fi",
-      "category": "Liquid Staking",
-      "chain": "Aptos",
-      "chains": [
-        "Aptos"
-      ],
-      "tvl": 1174361.383524518,
-      "change_1d": 7.78,
-      "change_7d": 23.59,
-      "slug": "goapt",
-      "defillama_url": "https://defillama.com/protocol/goapt"
-    },
-    {
-      "source": "defillama",
-      "name": "stHYPE",
-      "url": "https://app.valantis.xyz/vaults?af=defillama",
-      "twitter_url": "https://twitter.com/stakedhype",
-      "category": "Liquid Staking",
-      "chain": "Hyperliquid L1",
-      "chains": [
-        "Hyperliquid L1"
-      ],
-      "tvl": 138955971.06844902,
-      "change_1d": 3.04,
-      "change_7d": 23.49,
-      "slug": "sthype",
-      "defillama_url": "https://defillama.com/protocol/sthype"
-    },
-    {
-      "source": "defillama",
-      "name": "Valantis STEX",
-      "url": "https://www.valantis.xyz",
-      "twitter_url": "https://twitter.com/ValantisLabs",
+      "name": "Xfai",
+      "url": "https://www.xfai.com",
+      "twitter_url": "https://twitter.com/xfai_official",
       "category": "Dexs",
-      "chain": "Hyperliquid L1",
+      "chain": "Linea",
       "chains": [
-        "Hyperliquid L1"
+        "Linea"
       ],
-      "tvl": 18573158.27579202,
-      "change_1d": 3.98,
-      "change_7d": 23.34,
-      "slug": "valantis-stex",
-      "defillama_url": "https://defillama.com/protocol/valantis-stex"
+      "tvl": 1083925.461105985,
+      "change_1d": 2.55,
+      "change_7d": 22.92,
+      "slug": "xfai",
+      "defillama_url": "https://defillama.com/protocol/xfai"
     },
     {
       "source": "defillama",
-      "name": "SpinUp Liquid Staking",
-      "url": "https://www.spinup.zone/",
-      "twitter_url": "https://twitter.com/SpinUpZone",
+      "name": "stCELO",
+      "url": "https://stcelo.xyz/",
+      "twitter_url": "https://twitter.com/cLabs",
       "category": "Liquid Staking",
-      "chain": "Hyperliquid L1",
+      "chain": "Celo",
       "chains": [
-        "Hyperliquid L1"
+        "Celo"
       ],
-      "tvl": 879530.4877865931,
-      "change_1d": 3.57,
-      "change_7d": 23.18,
-      "slug": "spinup-liquid-staking",
-      "defillama_url": "https://defillama.com/protocol/spinup-liquid-staking"
+      "tvl": 1742368.9290576617,
+      "change_1d": 3.87,
+      "change_7d": 22.7,
+      "slug": "stcelo",
+      "defillama_url": "https://defillama.com/protocol/stcelo"
     },
     {
       "source": "defillama",
@@ -1195,130 +1083,59 @@
       "chains": [
         "Stellar"
       ],
-      "tvl": 998733.7318823867,
-      "change_1d": -2.14,
-      "change_7d": 22.52,
+      "tvl": 997288.5118521973,
+      "change_1d": -0.09,
+      "change_7d": 22.66,
       "slug": "defindex",
       "defillama_url": "https://defillama.com/protocol/defindex"
     },
     {
       "source": "defillama",
-      "name": "Cypher V4",
-      "url": "https://cyphereth.com/",
-      "twitter_url": "https://twitter.com/cypher_ethereum",
+      "name": "Valantis STEX",
+      "url": "https://www.valantis.xyz",
+      "twitter_url": "https://twitter.com/ValantisLabs",
       "category": "Dexs",
-      "chain": "Ethereum",
-      "chains": [
-        "Ethereum"
-      ],
-      "tvl": 1661741.6873406298,
-      "change_1d": 5.03,
-      "change_7d": 22.4,
-      "slug": "cypher-v4",
-      "defillama_url": "https://defillama.com/protocol/cypher-v4"
-    },
-    {
-      "source": "defillama",
-      "name": "Kinetiq Markets",
-      "url": "https://markets.xyz/join/llama",
-      "twitter_url": "https://twitter.com/markets_xyz",
-      "category": "Derivatives",
       "chain": "Hyperliquid L1",
       "chains": [
         "Hyperliquid L1"
       ],
-      "tvl": 29101970.71102994,
-      "change_1d": 3.59,
-      "change_7d": 22.35,
-      "slug": "kinetiq-markets",
-      "defillama_url": "https://defillama.com/protocol/kinetiq-markets"
-    },
-    {
-      "source": "defillama",
-      "name": "Abyss",
-      "url": "https://www.abyssprotocol.xyz/",
-      "twitter_url": "https://twitter.com/abyssdotxyz",
-      "category": "Yield",
-      "chain": "Sui",
-      "chains": [
-        "Sui"
-      ],
-      "tvl": 2615980.005274784,
-      "change_1d": 10.67,
+      "tvl": 18273115.005914986,
+      "change_1d": 6.15,
       "change_7d": 22.34,
-      "slug": "abyss",
-      "defillama_url": "https://defillama.com/protocol/abyss"
+      "slug": "valantis-stex",
+      "defillama_url": "https://defillama.com/protocol/valantis-stex"
     },
     {
       "source": "defillama",
-      "name": "Factor Leverage Vault",
-      "url": "https://app.factor.fi/studio",
-      "twitter_url": "https://twitter.com/Factor_fi",
-      "category": "Leveraged Farming",
-      "chain": "Arbitrum",
-      "chains": [
-        "Arbitrum"
-      ],
-      "tvl": 7554966.513128346,
-      "change_1d": 7.41,
-      "change_7d": 22.32,
-      "slug": "factor-leverage-vault",
-      "defillama_url": "https://defillama.com/protocol/factor-leverage-vault"
-    },
-    {
-      "source": "defillama",
-      "name": "Concrete",
-      "url": "https://app.concrete.xyz",
-      "twitter_url": "https://twitter.com/ConcreteXYZ",
-      "category": "Onchain Capital Allocator",
-      "chain": "Multi-Chain",
-      "chains": [
-        "Ethereum",
-        "Berachain",
-        "Stable",
-        "Arbitrum",
-        "Katana"
-      ],
-      "tvl": 814098713.4506671,
-      "change_1d": 5.92,
-      "change_7d": 22.15,
-      "slug": "concrete",
-      "defillama_url": "https://defillama.com/protocol/concrete"
-    },
-    {
-      "source": "defillama",
-      "name": "FILLiquid",
-      "url": "https://dapp.filliquid.io",
-      "twitter_url": "https://twitter.com/FILLiquid",
+      "name": "Thala LSD",
+      "url": "https://app.thala.fi/lsd",
+      "twitter_url": "https://twitter.com/ThalaLabs",
       "category": "Liquid Staking",
-      "chain": "Multi-Chain",
+      "chain": "Aptos",
       "chains": [
-        "Filecoin",
-        "Binance"
+        "Aptos"
       ],
-      "tvl": 1338324.5959292047,
-      "change_1d": 3.77,
+      "tvl": 12659020.553646356,
+      "change_1d": 6.19,
       "change_7d": 22.09,
-      "slug": "filliquid",
-      "defillama_url": "https://defillama.com/protocol/filliquid"
+      "slug": "thala-lsd",
+      "defillama_url": "https://defillama.com/protocol/thala-lsd"
     },
     {
       "source": "defillama",
-      "name": "Pay Protocol",
-      "url": "https://payprotocol.network",
-      "twitter_url": "https://twitter.com/pay_protocol",
-      "category": "Payments",
-      "chain": "Multi-Chain",
+      "name": "Kofi Finance",
+      "url": "https://kofi.finance",
+      "twitter_url": "https://twitter.com/kofi_finance",
+      "category": "Liquid Staking",
+      "chain": "Aptos",
       "chains": [
-        "Tron",
-        "Binance",
-        "Ethereum"
+        "Aptos"
       ],
-      "tvl": 3534972.015658103,
-      "change_1d": -10.4,
-      "change_7d": 21.9,
-      "slug": "pay-protocol",
-      "defillama_url": "https://defillama.com/protocol/pay-protocol"
+      "tvl": 7193379.416475046,
+      "change_1d": 5.62,
+      "change_7d": 21.93,
+      "slug": "kofi-finance",
+      "defillama_url": "https://defillama.com/protocol/kofi-finance"
     },
     {
       "source": "defillama",
@@ -1331,50 +1148,65 @@
         "Base",
         "Binance",
         "Ethereum",
-        "Arbitrum",
+        "Optimism",
         "Avalanche",
-        "Polygon",
-        "Optimism"
+        "Arbitrum",
+        "Polygon"
       ],
-      "tvl": 9768262.191605458,
-      "change_1d": 13.98,
-      "change_7d": 21.37,
+      "tvl": 9501836.557089284,
+      "change_1d": 12.18,
+      "change_7d": 21.71,
       "slug": "bitbond-lockers",
       "defillama_url": "https://defillama.com/protocol/bitbond-lockers"
     },
     {
       "source": "defillama",
-      "name": "Trevee Earn",
-      "url": "https://rings.money/",
-      "twitter_url": "https://twitter.com/Trevee_xyz",
-      "category": "Yield Aggregator",
-      "chain": "Multi-Chain",
+      "name": "stHYPE",
+      "url": "https://app.valantis.xyz/vaults?af=defillama",
+      "twitter_url": "https://twitter.com/stakedhype",
+      "category": "Liquid Staking",
+      "chain": "Hyperliquid L1",
       "chains": [
-        "Sonic",
-        "Ethereum",
-        "Plasma"
+        "Hyperliquid L1"
       ],
-      "tvl": 2207524.267124662,
-      "change_1d": 3.75,
-      "change_7d": 21.14,
-      "slug": "trevee-earn",
-      "defillama_url": "https://defillama.com/protocol/trevee-earn"
+      "tvl": 136405100.61832866,
+      "change_1d": 5.5,
+      "change_7d": 21.1,
+      "slug": "sthype",
+      "defillama_url": "https://defillama.com/protocol/sthype"
     },
     {
       "source": "defillama",
-      "name": "Bifrost Dex",
-      "url": "https://bifrost.finance",
-      "twitter_url": "https://twitter.com/Bifrost",
-      "category": "Dexs",
-      "chain": "Bifrost",
+      "name": "Origin ARM",
+      "url": "https://www.originprotocol.com/arm",
+      "twitter_url": "https://twitter.com/OriginProtocol",
+      "category": "Yield",
+      "chain": "Multi-Chain",
       "chains": [
-        "Bifrost"
+        "Ethereum",
+        "Sonic"
       ],
-      "tvl": 6045294.143679232,
-      "change_1d": 1.37,
-      "change_7d": 21.06,
-      "slug": "bifrost-dex",
-      "defillama_url": "https://defillama.com/protocol/bifrost-dex"
+      "tvl": 9822135.70060309,
+      "change_1d": 1.93,
+      "change_7d": 21.07,
+      "slug": "origin-arm",
+      "defillama_url": "https://defillama.com/protocol/origin-arm"
+    },
+    {
+      "source": "defillama",
+      "name": "SpinUp Liquid Staking",
+      "url": "https://www.spinup.zone/",
+      "twitter_url": "https://twitter.com/SpinUpZone",
+      "category": "Liquid Staking",
+      "chain": "Hyperliquid L1",
+      "chains": [
+        "Hyperliquid L1"
+      ],
+      "tvl": 862334.5654178011,
+      "change_1d": 5.03,
+      "change_7d": 20.96,
+      "slug": "spinup-liquid-staking",
+      "defillama_url": "https://defillama.com/protocol/spinup-liquid-staking"
     },
     {
       "source": "defillama",
@@ -1386,11 +1218,75 @@
       "chains": [
         "Hyperliquid L1"
       ],
-      "tvl": 37772494.45375107,
-      "change_1d": 2.62,
-      "change_7d": 20.95,
+      "tvl": 38041100.93336652,
+      "change_1d": 7.01,
+      "change_7d": 20.65,
       "slug": "felix-cdp",
       "defillama_url": "https://defillama.com/protocol/felix-cdp"
+    },
+    {
+      "source": "defillama",
+      "name": "flaunch",
+      "url": "https://flaunch.gg",
+      "twitter_url": "https://twitter.com/flaunchgg",
+      "category": "Launchpad",
+      "chain": "Base",
+      "chains": [
+        "Base"
+      ],
+      "tvl": 1980856.6243567273,
+      "change_1d": 0.93,
+      "change_7d": 20.44,
+      "slug": "flaunch",
+      "defillama_url": "https://defillama.com/protocol/flaunch"
+    },
+    {
+      "source": "defillama",
+      "name": "HypurrFi Pooled",
+      "url": "https://app.hypurr.fi/points?af=defillama",
+      "twitter_url": "https://twitter.com/hypurrfi",
+      "category": "Lending",
+      "chain": "Hyperliquid L1",
+      "chains": [
+        "Hyperliquid L1"
+      ],
+      "tvl": 42142732.67064625,
+      "change_1d": 8.38,
+      "change_7d": 20.4,
+      "slug": "hypurrfi-pooled",
+      "defillama_url": "https://defillama.com/protocol/hypurrfi-pooled"
+    },
+    {
+      "source": "defillama",
+      "name": "Amnis Finance",
+      "url": "https://amnis.finance",
+      "twitter_url": "https://twitter.com/AmnisFinance",
+      "category": "Liquid Staking",
+      "chain": "Aptos",
+      "chains": [
+        "Aptos"
+      ],
+      "tvl": 25455111.827708516,
+      "change_1d": 5.0,
+      "change_7d": 20.34,
+      "slug": "amnis-finance",
+      "defillama_url": "https://defillama.com/protocol/amnis-finance"
+    },
+    {
+      "source": "defillama",
+      "name": "Kinetiq Markets",
+      "url": "https://markets.xyz/join/llama",
+      "twitter_url": "https://twitter.com/markets_xyz",
+      "category": "Derivatives",
+      "chain": "Hyperliquid L1",
+      "chains": [
+        "Hyperliquid L1"
+      ],
+      "tvl": 28508371.5046537,
+      "change_1d": 4.85,
+      "change_7d": 20.08,
+      "slug": "kinetiq-markets",
+      "defillama_url": "https://defillama.com/protocol/kinetiq-markets"
     },
     {
       "source": "defillama",
@@ -1412,43 +1308,65 @@
         "Binance",
         "BOB"
       ],
-      "tvl": 1144460503.1999269,
-      "change_1d": 14.93,
-      "change_7d": 20.92,
+      "tvl": 1116693455.7404335,
+      "change_1d": 11.56,
+      "change_7d": 20.01,
       "slug": "veda",
       "defillama_url": "https://defillama.com/protocol/veda"
     },
     {
       "source": "defillama",
-      "name": "Kinetiq kHYPE",
-      "url": "https://kinetiq.xyz/stake",
-      "twitter_url": "https://twitter.com/kinetiq_xyz",
-      "category": "Liquid Staking",
-      "chain": "Hyperliquid L1",
+      "name": "Trevee Earn",
+      "url": "https://rings.money/",
+      "twitter_url": "https://twitter.com/Trevee_xyz",
+      "category": "Yield Aggregator",
+      "chain": "Multi-Chain",
       "chains": [
-        "Hyperliquid L1"
+        "Sonic",
+        "Ethereum",
+        "Plasma"
       ],
-      "tvl": 709489608.7743814,
-      "change_1d": 3.23,
-      "change_7d": 20.77,
-      "slug": "kinetiq-khype",
-      "defillama_url": "https://defillama.com/protocol/kinetiq-khype"
+      "tvl": 2178823.0739561236,
+      "change_1d": 1.74,
+      "change_7d": 19.87,
+      "slug": "trevee-earn",
+      "defillama_url": "https://defillama.com/protocol/trevee-earn"
     },
     {
       "source": "defillama",
-      "name": "Amnis Finance",
-      "url": "https://amnis.finance",
-      "twitter_url": "https://twitter.com/AmnisFinance",
-      "category": "Liquid Staking",
-      "chain": "Aptos",
+      "name": "Concrete",
+      "url": "https://app.concrete.xyz",
+      "twitter_url": "https://twitter.com/ConcreteXYZ",
+      "category": "Onchain Capital Allocator",
+      "chain": "Multi-Chain",
       "chains": [
-        "Aptos"
+        "Ethereum",
+        "Berachain",
+        "Stable",
+        "Arbitrum",
+        "Katana"
       ],
-      "tvl": 25777527.15219185,
-      "change_1d": 8.38,
-      "change_7d": 20.77,
-      "slug": "amnis-finance",
-      "defillama_url": "https://defillama.com/protocol/amnis-finance"
+      "tvl": 786066959.0585487,
+      "change_1d": 1.51,
+      "change_7d": 19.83,
+      "slug": "concrete",
+      "defillama_url": "https://defillama.com/protocol/concrete"
+    },
+    {
+      "source": "defillama",
+      "name": "Bifrost Dex",
+      "url": "https://bifrost.finance",
+      "twitter_url": "https://twitter.com/Bifrost",
+      "category": "Dexs",
+      "chain": "Bifrost",
+      "chains": [
+        "Bifrost"
+      ],
+      "tvl": 5887905.699781682,
+      "change_1d": -1.16,
+      "change_7d": 19.71,
+      "slug": "bifrost-dex",
+      "defillama_url": "https://defillama.com/protocol/bifrost-dex"
     },
     {
       "source": "defillama",
@@ -1460,76 +1378,43 @@
       "chains": [
         "Acala"
       ],
-      "tvl": 3644088.675057835,
-      "change_1d": 1.33,
-      "change_7d": 20.51,
+      "tvl": 3563945.810852026,
+      "change_1d": -0.72,
+      "change_7d": 19.6,
       "slug": "acala-lcdot",
       "defillama_url": "https://defillama.com/protocol/acala-lcdot"
     },
     {
       "source": "defillama",
-      "name": "Thala LSD",
-      "url": "https://app.thala.fi/lsd",
-      "twitter_url": "https://twitter.com/ThalaLabs",
-      "category": "Liquid Staking",
-      "chain": "Aptos",
-      "chains": [
-        "Aptos"
-      ],
-      "tvl": 12689447.986973891,
-      "change_1d": 7.84,
-      "change_7d": 20.24,
-      "slug": "thala-lsd",
-      "defillama_url": "https://defillama.com/protocol/thala-lsd"
-    },
-    {
-      "source": "defillama",
-      "name": "HyperSwap V2",
-      "url": "https://app.hyperswap.exchange/#/swap?referral=defillama",
-      "twitter_url": "https://twitter.com/HyperSwapX",
+      "name": "Cypher V4",
+      "url": "https://cyphereth.com/",
+      "twitter_url": "https://twitter.com/cypher_ethereum",
       "category": "Dexs",
-      "chain": "Hyperliquid L1",
+      "chain": "Ethereum",
       "chains": [
-        "Hyperliquid L1"
+        "Ethereum"
       ],
-      "tvl": 2900527.4366593766,
-      "change_1d": 3.56,
-      "change_7d": 20.14,
-      "slug": "hyperswap-v2",
-      "defillama_url": "https://defillama.com/protocol/hyperswap-v2"
+      "tvl": 1621567.2474461636,
+      "change_1d": 1.39,
+      "change_7d": 19.46,
+      "slug": "cypher-v4",
+      "defillama_url": "https://defillama.com/protocol/cypher-v4"
     },
     {
       "source": "defillama",
-      "name": "Escher",
-      "url": "https://www.escher.finance/",
-      "twitter_url": "https://twitter.com/escher_fi",
-      "category": "Liquid Staking",
-      "chain": "Multi-Chain",
+      "name": "Factor Leverage Vault",
+      "url": "https://app.factor.fi/studio",
+      "twitter_url": "https://twitter.com/Factor_fi",
+      "category": "Leveraged Farming",
+      "chain": "Arbitrum",
       "chains": [
-        "Union",
-        "Babylon Genesis"
+        "Arbitrum"
       ],
-      "tvl": 1756737.9587421506,
-      "change_1d": 1.12,
-      "change_7d": 20.13,
-      "slug": "escher",
-      "defillama_url": "https://defillama.com/protocol/escher"
-    },
-    {
-      "source": "defillama",
-      "name": "HypurrFi Pooled",
-      "url": "https://app.hypurr.fi/points?af=defillama",
-      "twitter_url": "https://twitter.com/hypurrfi",
-      "category": "Lending",
-      "chain": "Hyperliquid L1",
-      "chains": [
-        "Hyperliquid L1"
-      ],
-      "tvl": 42128037.640650086,
-      "change_1d": 2.95,
-      "change_7d": 19.97,
-      "slug": "hypurrfi-pooled",
-      "defillama_url": "https://defillama.com/protocol/hypurrfi-pooled"
+      "tvl": 7059719.041503556,
+      "change_1d": 0.37,
+      "change_7d": 19.43,
+      "slug": "factor-leverage-vault",
+      "defillama_url": "https://defillama.com/protocol/factor-leverage-vault"
     },
     {
       "source": "defillama",
@@ -1541,11 +1426,76 @@
       "chains": [
         "Acala"
       ],
-      "tvl": 5068198.4403281845,
-      "change_1d": 0.64,
-      "change_7d": 19.85,
+      "tvl": 4958001.675647682,
+      "change_1d": -1.03,
+      "change_7d": 18.98,
       "slug": "acala-liquid-staking",
       "defillama_url": "https://defillama.com/protocol/acala-liquid-staking"
+    },
+    {
+      "source": "defillama",
+      "name": "HyperSwap V2",
+      "url": "https://app.hyperswap.exchange/#/swap?referral=defillama",
+      "twitter_url": "https://twitter.com/HyperSwapX",
+      "category": "Dexs",
+      "chain": "Hyperliquid L1",
+      "chains": [
+        "Hyperliquid L1"
+      ],
+      "tvl": 2854680.3719890127,
+      "change_1d": 5.09,
+      "change_7d": 18.84,
+      "slug": "hyperswap-v2",
+      "defillama_url": "https://defillama.com/protocol/hyperswap-v2"
+    },
+    {
+      "source": "defillama",
+      "name": "Kinetiq kHYPE",
+      "url": "https://kinetiq.xyz/stake",
+      "twitter_url": "https://twitter.com/kinetiq_xyz",
+      "category": "Liquid Staking",
+      "chain": "Hyperliquid L1",
+      "chains": [
+        "Hyperliquid L1"
+      ],
+      "tvl": 693642883.306025,
+      "change_1d": 4.44,
+      "change_7d": 18.4,
+      "slug": "kinetiq-khype",
+      "defillama_url": "https://defillama.com/protocol/kinetiq-khype"
+    },
+    {
+      "source": "defillama",
+      "name": "FstSwap",
+      "url": "",
+      "twitter_url": "https://twitter.com/FstSwapbright",
+      "category": "Dexs",
+      "chain": "Binance",
+      "chains": [
+        "Binance"
+      ],
+      "tvl": 13638048.181933176,
+      "change_1d": 10.64,
+      "change_7d": 17.88,
+      "slug": "fstswap",
+      "defillama_url": "https://defillama.com/protocol/fstswap"
+    },
+    {
+      "source": "defillama",
+      "name": "FILLiquid",
+      "url": "https://dapp.filliquid.io",
+      "twitter_url": "https://twitter.com/FILLiquid",
+      "category": "Liquid Staking",
+      "chain": "Multi-Chain",
+      "chains": [
+        "Binance",
+        "Filecoin"
+      ],
+      "tvl": 1325626.279316532,
+      "change_1d": 0.53,
+      "change_7d": 17.74,
+      "slug": "filliquid",
+      "defillama_url": "https://defillama.com/protocol/filliquid"
     },
     {
       "source": "defillama",
@@ -1564,241 +1514,27 @@
         "Plume Mainnet",
         "Goat"
       ],
-      "tvl": 3107910.3540016464,
-      "change_1d": 6.2,
-      "change_7d": 19.75,
+      "tvl": 3005611.7918752446,
+      "change_1d": 1.88,
+      "change_7d": 17.66,
       "slug": "bima-cdp",
       "defillama_url": "https://defillama.com/protocol/bima-cdp"
     },
     {
       "source": "defillama",
-      "name": "Kofi Finance",
-      "url": "https://kofi.finance",
-      "twitter_url": "https://twitter.com/kofi_finance",
-      "category": "Liquid Staking",
-      "chain": "Aptos",
-      "chains": [
-        "Aptos"
-      ],
-      "tvl": 7179181.557550405,
-      "change_1d": 7.44,
-      "change_7d": 19.51,
-      "slug": "kofi-finance",
-      "defillama_url": "https://defillama.com/protocol/kofi-finance"
-    },
-    {
-      "source": "defillama",
-      "name": "Yield Basis",
-      "url": "https://yieldbasis.com/",
-      "twitter_url": "https://twitter.com/yieldbasis",
-      "category": "Leveraged Farming",
-      "chain": "Ethereum",
-      "chains": [
-        "Ethereum"
-      ],
-      "tvl": 159493843.71682566,
-      "change_1d": 14.64,
-      "change_7d": 19.31,
-      "slug": "yield-basis",
-      "defillama_url": "https://defillama.com/protocol/yield-basis"
-    },
-    {
-      "source": "defillama",
-      "name": "Mainstreet",
-      "url": "https://mainstreet.finance/",
-      "twitter_url": "https://twitter.com/Main_St_Finance",
-      "category": "Basis Trading",
-      "chain": "Ethereum",
-      "chains": [
-        "Ethereum"
-      ],
-      "tvl": 25147518.128058154,
-      "change_1d": 0.1,
-      "change_7d": 18.9,
-      "slug": "mainstreet",
-      "defillama_url": "https://defillama.com/protocol/mainstreet"
-    },
-    {
-      "source": "defillama",
-      "name": "WaterNeuron",
-      "url": "https://waterneuron.fi/",
-      "twitter_url": "https://twitter.com/WaterNeuron",
-      "category": "Liquid Staking",
-      "chain": "ICP",
-      "chains": [
-        "ICP"
-      ],
-      "tvl": 5596195.249354204,
-      "change_1d": 2.3,
-      "change_7d": 18.23,
-      "slug": "waterneuron",
-      "defillama_url": "https://defillama.com/protocol/waterneuron"
-    },
-    {
-      "source": "defillama",
-      "name": "MorpheusAI",
-      "url": "https://mor.org",
-      "twitter_url": "https://twitter.com/MorpheusAIs",
-      "category": "AI Agents",
-      "chain": "Ethereum",
-      "chains": [
-        "Ethereum"
-      ],
-      "tvl": 12697053.957759256,
-      "change_1d": 14.48,
-      "change_7d": 18.02,
-      "slug": "morpheusai",
-      "defillama_url": "https://defillama.com/protocol/morpheusai"
-    },
-    {
-      "source": "defillama",
-      "name": "iAero Protocol",
-      "url": "https://app.iaero.finance/",
-      "twitter_url": "https://twitter.com/iaeroProtocol",
-      "category": "Liquid Staking",
-      "chain": "Base",
-      "chains": [
-        "Base"
-      ],
-      "tvl": 1380417.2861885491,
-      "change_1d": 2.06,
-      "change_7d": 17.86,
-      "slug": "iaero-protocol",
-      "defillama_url": "https://defillama.com/protocol/iaero-protocol"
-    },
-    {
-      "source": "defillama",
-      "name": "Shadow Exchange CLMM",
-      "url": "https://www.shadow.so",
-      "twitter_url": "https://twitter.com/ShadowOnSonic",
+      "name": "HyperSwap V3",
+      "url": "https://app.hyperswap.exchange/#/swap?referral=defillama",
+      "twitter_url": "https://twitter.com/HyperSwapX",
       "category": "Dexs",
-      "chain": "Sonic",
-      "chains": [
-        "Sonic"
-      ],
-      "tvl": 2213903.9283601143,
-      "change_1d": 5.69,
-      "change_7d": 17.58,
-      "slug": "shadow-exchange-clmm",
-      "defillama_url": "https://defillama.com/protocol/shadow-exchange-clmm"
-    },
-    {
-      "source": "defillama",
-      "name": "Derive V2",
-      "url": "https://app.derive.xyz?ref=defillama",
-      "twitter_url": "https://twitter.com/derivexyz",
-      "category": "Derivatives",
-      "chain": "Multi-Chain",
-      "chains": [
-        "Optimism",
-        "Ethereum",
-        "Arbitrum",
-        "Base",
-        "Hyperliquid L1",
-        "Blast",
-        "Mode"
-      ],
-      "tvl": 75804184.69911084,
-      "change_1d": 7.52,
-      "change_7d": 17.41,
-      "slug": "derive-v2",
-      "defillama_url": "https://defillama.com/protocol/derive-v2"
-    },
-    {
-      "source": "defillama",
-      "name": "Kava Earn",
-      "url": "https://app.kava.io/home",
-      "twitter_url": "https://twitter.com/KAVA_CHAIN",
-      "category": "Yield Aggregator",
-      "chain": "Kava",
-      "chains": [
-        "Kava"
-      ],
-      "tvl": 1579821.526070565,
-      "change_1d": 15.69,
-      "change_7d": 17.41,
-      "slug": "kava-earn",
-      "defillama_url": "https://defillama.com/protocol/kava-earn"
-    },
-    {
-      "source": "defillama",
-      "name": "Hyperbeat LST",
-      "url": "https://app.hyperbeat.org/staking",
-      "twitter_url": "https://twitter.com/0xhyperbeat",
-      "category": "Liquid Staking",
       "chain": "Hyperliquid L1",
       "chains": [
         "Hyperliquid L1"
       ],
-      "tvl": 14115918.75505687,
-      "change_1d": 3.43,
-      "change_7d": 17.09,
-      "slug": "hyperbeat-lst",
-      "defillama_url": "https://defillama.com/protocol/hyperbeat-lst"
-    },
-    {
-      "source": "defillama",
-      "name": "Rocket Pool",
-      "url": "https://rocketpool.net",
-      "twitter_url": "https://twitter.com/Rocket_Pool",
-      "category": "Liquid Staking",
-      "chain": "Ethereum",
-      "chains": [
-        "Ethereum"
-      ],
-      "tvl": 1161298252.7345686,
-      "change_1d": 6.54,
-      "change_7d": 17.08,
-      "slug": "rocket-pool",
-      "defillama_url": "https://defillama.com/protocol/rocket-pool"
-    },
-    {
-      "source": "defillama",
-      "name": "AlphaLend",
-      "url": "https://trade.bluefin.io/lend",
-      "twitter_url": "https://twitter.com/bluefinapp",
-      "category": "Lending",
-      "chain": "Sui",
-      "chains": [
-        "Sui"
-      ],
-      "tvl": 65913924.504335746,
-      "change_1d": 9.49,
-      "change_7d": 16.74,
-      "slug": "alphalend",
-      "defillama_url": "https://defillama.com/protocol/alphalend"
-    },
-    {
-      "source": "defillama",
-      "name": "Kava Liquid",
-      "url": "https://app.kava.io/mint",
-      "twitter_url": "https://twitter.com/KAVA_CHAIN",
-      "category": "Liquid Staking",
-      "chain": "Kava",
-      "chains": [
-        "Kava"
-      ],
-      "tvl": 1543516.7698865174,
-      "change_1d": 17.24,
-      "change_7d": 16.55,
-      "slug": "kava-liquid",
-      "defillama_url": "https://defillama.com/protocol/kava-liquid"
-    },
-    {
-      "source": "defillama",
-      "name": "Altitude.Fi",
-      "url": "https://www.altitude.fi/",
-      "twitter_url": "https://twitter.com/AltitudeFi_",
-      "category": "Lending",
-      "chain": "Ethereum",
-      "chains": [
-        "Ethereum"
-      ],
-      "tvl": 8853266.629432369,
-      "change_1d": 9.16,
-      "change_7d": 16.4,
-      "slug": "altitude.fi",
-      "defillama_url": "https://defillama.com/protocol/altitude.fi"
+      "tvl": 10341076.219283152,
+      "change_1d": 4.96,
+      "change_7d": 17.5,
+      "slug": "hyperswap-v3",
+      "defillama_url": "https://defillama.com/protocol/hyperswap-v3"
     },
     {
       "source": "defillama",
@@ -1810,43 +1546,59 @@
       "chains": [
         "Near"
       ],
-      "tvl": 23245152.27850455,
-      "change_1d": 9.96,
-      "change_7d": 16.39,
+      "tvl": 23363615.20603634,
+      "change_1d": 6.9,
+      "change_7d": 17.44,
       "slug": "rhea-dex",
       "defillama_url": "https://defillama.com/protocol/rhea-dex"
     },
     {
       "source": "defillama",
-      "name": "Hybra V3",
-      "url": "https://www.hybra.finance?code=GRYN2U",
-      "twitter_url": "https://twitter.com/HybraFinance",
-      "category": "Dexs",
-      "chain": "Hyperliquid L1",
+      "name": "AlphaLend",
+      "url": "https://trade.bluefin.io/lend",
+      "twitter_url": "https://twitter.com/bluefinapp",
+      "category": "Lending",
+      "chain": "Sui",
       "chains": [
-        "Hyperliquid L1"
+        "Sui"
       ],
-      "tvl": 612546.6540940978,
-      "change_1d": 0.51,
-      "change_7d": 16.23,
-      "slug": "hybra-v3",
-      "defillama_url": "https://defillama.com/protocol/hybra-v3"
+      "tvl": 65177274.51951214,
+      "change_1d": 7.55,
+      "change_7d": 17.4,
+      "slug": "alphalend",
+      "defillama_url": "https://defillama.com/protocol/alphalend"
     },
     {
       "source": "defillama",
-      "name": "Sanctum Validator LSTs",
-      "url": "https://www.sanctum.so",
-      "twitter_url": "https://twitter.com/sanctumso",
-      "category": "Liquid Staking",
-      "chain": "Solana",
+      "name": "AlphaPing",
+      "url": "https://alphaping.ch/",
+      "twitter_url": "https://twitter.com/0xAlphaping",
+      "category": "Risk Curators",
+      "chain": "Ethereum",
       "chains": [
-        "Solana"
+        "Ethereum"
       ],
-      "tvl": 1126550612.4383647,
-      "change_1d": 7.22,
-      "change_7d": 16.19,
-      "slug": "sanctum-validator-lsts",
-      "defillama_url": "https://defillama.com/protocol/sanctum-validator-lsts"
+      "tvl": 29083744.50004967,
+      "change_1d": 2.92,
+      "change_7d": 17.24,
+      "slug": "alphaping",
+      "defillama_url": "https://defillama.com/protocol/alphaping"
+    },
+    {
+      "source": "defillama",
+      "name": "WaterNeuron",
+      "url": "https://waterneuron.fi/",
+      "twitter_url": "https://twitter.com/WaterNeuron",
+      "category": "Liquid Staking",
+      "chain": "ICP",
+      "chains": [
+        "ICP"
+      ],
+      "tvl": 5577200.05628258,
+      "change_1d": 1.72,
+      "change_7d": 17.16,
+      "slug": "waterneuron",
+      "defillama_url": "https://defillama.com/protocol/waterneuron"
     },
     {
       "source": "defillama",
@@ -1858,11 +1610,109 @@
       "chains": [
         "ICP"
       ],
-      "tvl": 3282898.448782,
+      "tvl": 3276199.052845,
       "change_1d": 0,
-      "change_7d": 16.04,
+      "change_7d": 16.84,
       "slug": "icpswap",
       "defillama_url": "https://defillama.com/protocol/icpswap"
+    },
+    {
+      "source": "defillama",
+      "name": "Hyperbeat LST",
+      "url": "https://app.hyperbeat.org/staking",
+      "twitter_url": "https://twitter.com/0xhyperbeat",
+      "category": "Liquid Staking",
+      "chain": "Hyperliquid L1",
+      "chains": [
+        "Hyperliquid L1"
+      ],
+      "tvl": 13918943.142421404,
+      "change_1d": 5.97,
+      "change_7d": 16.52,
+      "slug": "hyperbeat-lst",
+      "defillama_url": "https://defillama.com/protocol/hyperbeat-lst"
+    },
+    {
+      "source": "defillama",
+      "name": "MorpheusAI",
+      "url": "https://mor.org",
+      "twitter_url": "https://twitter.com/MorpheusAIs",
+      "category": "AI Agents",
+      "chain": "Ethereum",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 12269128.2668493,
+      "change_1d": 9.94,
+      "change_7d": 16.43,
+      "slug": "morpheusai",
+      "defillama_url": "https://defillama.com/protocol/morpheusai"
+    },
+    {
+      "source": "defillama",
+      "name": "OmniYield",
+      "url": "https://omniyield.finance/",
+      "twitter_url": "https://twitter.com/OmniYield",
+      "category": "Yield Aggregator",
+      "chain": "Arbitrum",
+      "chains": [
+        "Arbitrum"
+      ],
+      "tvl": 3842467.8903090074,
+      "change_1d": 6.34,
+      "change_7d": 16.37,
+      "slug": "omniyield",
+      "defillama_url": "https://defillama.com/protocol/omniyield"
+    },
+    {
+      "source": "defillama",
+      "name": "Knightrade",
+      "url": "https://knightrade.io/",
+      "twitter_url": "https://twitter.com/KnightradeTeam",
+      "category": "Onchain Capital Allocator",
+      "chain": "Multi-Chain",
+      "chains": [
+        "Solana",
+        "Arbitrum",
+        "Ethereum"
+      ],
+      "tvl": 18937094.743697304,
+      "change_1d": 0.71,
+      "change_7d": 16.35,
+      "slug": "knightrade",
+      "defillama_url": "https://defillama.com/protocol/knightrade"
+    },
+    {
+      "source": "defillama",
+      "name": "Sanctum Validator LSTs",
+      "url": "https://www.sanctum.so",
+      "twitter_url": "https://twitter.com/sanctumso",
+      "category": "Liquid Staking",
+      "chain": "Solana",
+      "chains": [
+        "Solana"
+      ],
+      "tvl": 1101282940.7579992,
+      "change_1d": 3.48,
+      "change_7d": 15.94,
+      "slug": "sanctum-validator-lsts",
+      "defillama_url": "https://defillama.com/protocol/sanctum-validator-lsts"
+    },
+    {
+      "source": "defillama",
+      "name": "Yield Basis",
+      "url": "https://yieldbasis.com/",
+      "twitter_url": "https://twitter.com/yieldbasis",
+      "category": "Leveraged Farming",
+      "chain": "Ethereum",
+      "chains": [
+        "Ethereum"
+      ],
+      "tvl": 148725976.23996338,
+      "change_1d": 5.61,
+      "change_7d": 15.81,
+      "slug": "yield-basis",
+      "defillama_url": "https://defillama.com/protocol/yield-basis"
     },
     {
       "source": "defillama",
@@ -1874,9 +1724,9 @@
       "chains": [
         "Solana"
       ],
-      "tvl": 11647794.383120624,
-      "change_1d": 0.01,
-      "change_7d": 15.93,
+      "tvl": 11611546.310578236,
+      "change_1d": 0.08,
+      "change_7d": 15.71,
       "slug": "carrot-lend",
       "defillama_url": "https://defillama.com/protocol/carrot-lend"
     },
@@ -1890,288 +1740,240 @@
       "chains": [
         "Aurora"
       ],
-      "tvl": 1096651.2982607107,
-      "change_1d": 8.08,
-      "change_7d": 15.93,
+      "tvl": 1092109.2079088853,
+      "change_1d": 5.84,
+      "change_7d": 15.61,
       "slug": "trisolaris",
       "defillama_url": "https://defillama.com/protocol/trisolaris"
     },
     {
       "source": "defillama",
-      "name": "Takara Lend",
-      "url": "https://app.takaralend.com/",
-      "twitter_url": "https://twitter.com/TakaraLend",
-      "category": "Lending",
-      "chain": "Sei",
-      "chains": [
-        "Sei"
-      ],
-      "tvl": 10060842.45334547,
-      "change_1d": 8.39,
-      "change_7d": 15.88,
-      "slug": "takara-lend",
-      "defillama_url": "https://defillama.com/protocol/takara-lend"
-    },
-    {
-      "source": "defillama",
-      "name": "AlphaFi Agg",
-      "url": "https://alphafi.xyz",
-      "twitter_url": "https://twitter.com/AlphaFiSUI",
-      "category": "Yield Aggregator",
+      "name": "Abyss",
+      "url": "https://www.abyssprotocol.xyz/",
+      "twitter_url": "https://twitter.com/abyssdotxyz",
+      "category": "Yield",
       "chain": "Sui",
       "chains": [
         "Sui"
       ],
-      "tvl": 10240295.032149741,
-      "change_1d": 4.95,
-      "change_7d": 15.51,
-      "slug": "alphafi-agg",
-      "defillama_url": "https://defillama.com/protocol/alphafi-agg"
+      "tvl": 2609091.4979925067,
+      "change_1d": 10.27,
+      "change_7d": 15.48,
+      "slug": "abyss",
+      "defillama_url": "https://defillama.com/protocol/abyss"
     },
     {
       "source": "defillama",
-      "name": "Sigmausd",
-      "url": "https://sigmausd.io",
-      "twitter_url": "",
-      "category": "Algo-Stables",
-      "chain": "Ergo",
+      "name": "Tydro",
+      "url": "https://tydro.com/",
+      "twitter_url": "https://twitter.com/tydrohq",
+      "category": "Lending",
+      "chain": "Ink",
       "chains": [
-        "Ergo"
+        "Ink"
       ],
-      "tvl": 587167.9551037605,
-      "change_1d": -2.65,
-      "change_7d": 15.4,
-      "slug": "sigmausd",
-      "defillama_url": "https://defillama.com/protocol/sigmausd"
+      "tvl": 390908822.1521497,
+      "change_1d": 15.88,
+      "change_7d": 15.29,
+      "slug": "tydro",
+      "defillama_url": "https://defillama.com/protocol/tydro"
     },
     {
       "source": "defillama",
-      "name": "Boros",
-      "url": "https://boros.pendle.finance/markets",
-      "twitter_url": "https://twitter.com/boros_fi",
-      "category": "Derivatives",
-      "chain": "Arbitrum",
-      "chains": [
-        "Arbitrum"
-      ],
-      "tvl": 8709596.742641144,
-      "change_1d": 3.95,
-      "change_7d": 15.26,
-      "slug": "boros",
-      "defillama_url": "https://defillama.com/protocol/boros"
-    },
-    {
-      "source": "defillama",
-      "name": "HyperSwap V3",
-      "url": "https://app.hyperswap.exchange/#/swap?referral=defillama",
-      "twitter_url": "https://twitter.com/HyperSwapX",
+      "name": "Hybra V3",
+      "url": "https://www.hybra.finance?code=GRYN2U",
+      "twitter_url": "https://twitter.com/HybraFinance",
       "category": "Dexs",
       "chain": "Hyperliquid L1",
       "chains": [
         "Hyperliquid L1"
       ],
-      "tvl": 10249855.481741242,
-      "change_1d": 2.48,
-      "change_7d": 15.2,
-      "slug": "hyperswap-v3",
-      "defillama_url": "https://defillama.com/protocol/hyperswap-v3"
-    },
-    {
-      "source": "defillama",
-      "name": "Obol",
-      "url": "https://obol.org/",
-      "twitter_url": "https://twitter.com/Obol_Collective",
-      "category": "Staking Pool",
-      "chain": "Ethereum",
-      "chains": [
-        "Ethereum"
-      ],
-      "tvl": 1257096389.5834324,
-      "change_1d": 6.22,
-      "change_7d": 15.02,
-      "slug": "obol",
-      "defillama_url": "https://defillama.com/protocol/obol"
+      "tvl": 600333.3254925172,
+      "change_1d": 1.28,
+      "change_7d": 15.22,
+      "slug": "hybra-v3",
+      "defillama_url": "https://defillama.com/protocol/hybra-v3"
     }
   ],
   "trending_coins": [
     {
       "source": "coingecko",
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "market_cap_rank": 107,
-      "price_usd": 0.0071219421859204666,
-      "change_24h": 6.42,
-      "market_cap": "$448,337,089",
-      "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "thumb": "https://coin-images.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "market_cap_rank": 45,
+      "price_usd": 1.362594642378696,
+      "change_24h": 14.59,
+      "market_cap": "$1,762,695,336",
+      "url": "https://www.coingecko.com/en/coins/near",
+      "thumb": "https://coin-images.coingecko.com/coins/images/10365/standard/near.jpg?1696510367",
       "score": 0
-    },
-    {
-      "source": "coingecko",
-      "name": "Freysa AI",
-      "symbol": "FAI",
-      "market_cap_rank": 599,
-      "price_usd": 0.003958058929238267,
-      "change_24h": 178.71,
-      "market_cap": "$32,346,533",
-      "url": "https://www.coingecko.com/en/coins/freysa-ai",
-      "thumb": "https://coin-images.coingecko.com/coins/images/52315/standard/FAI.png?1733076295",
-      "score": 1
     },
     {
       "source": "coingecko",
       "name": "Venice Token",
       "symbol": "VVV",
-      "market_cap_rank": 122,
-      "price_usd": 7.825559435068797,
-      "change_24h": 26.53,
-      "market_cap": "$352,919,945",
+      "market_cap_rank": 133,
+      "price_usd": 6.743351516075,
+      "change_24h": 3.49,
+      "market_cap": "$300,799,081",
       "url": "https://www.coingecko.com/en/coins/venice-token",
       "thumb": "https://coin-images.coingecko.com/coins/images/54023/standard/VVV_Token_Transparent.png?1741856877",
-      "score": 2
+      "score": 1
     },
     {
       "source": "coingecko",
       "name": "Bitcoin",
       "symbol": "BTC",
       "market_cap_rank": 1,
-      "price_usd": 69253.87138500887,
-      "change_24h": 4.74,
-      "market_cap": "$1,388,279,893,773",
+      "price_usd": 66555.32162504843,
+      "change_24h": 0.27,
+      "market_cap": "$1,332,103,187,905",
       "url": "https://www.coingecko.com/en/coins/bitcoin",
       "thumb": "https://coin-images.coingecko.com/coins/images/1/standard/bitcoin.png?1696501400",
+      "score": 2
+    },
+    {
+      "source": "coingecko",
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "market_cap_rank": 108,
+      "price_usd": 0.006810679144375324,
+      "change_24h": 0.26,
+      "market_cap": "$428,061,039",
+      "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "thumb": "https://coin-images.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
       "score": 3
-    },
-    {
-      "source": "coingecko",
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "market_cap_rank": 46,
-      "price_usd": 1.382329963441892,
-      "change_24h": 21.74,
-      "market_cap": "$1,776,457,248",
-      "url": "https://www.coingecko.com/en/coins/near",
-      "thumb": "https://coin-images.coingecko.com/coins/images/10365/standard/near.jpg?1696510367",
-      "score": 4
-    },
-    {
-      "source": "coingecko",
-      "name": "Bittensor",
-      "symbol": "TAO",
-      "market_cap_rank": 44,
-      "price_usd": 188.43146390124383,
-      "change_24h": 6.25,
-      "market_cap": "$1,805,304,107",
-      "url": "https://www.coingecko.com/en/coins/bittensor",
-      "thumb": "https://coin-images.coingecko.com/coins/images/28452/standard/ARUsPeNQ_400x400.jpeg?1696527447",
-      "score": 5
     },
     {
       "source": "coingecko",
       "name": "Ethereum",
       "symbol": "ETH",
       "market_cap_rank": 2,
-      "price_usd": 2044.7312713953186,
-      "change_24h": 5.08,
-      "market_cap": "$247,049,786,380",
+      "price_usd": 1950.9785306543508,
+      "change_24h": -0.29,
+      "market_cap": "$235,627,018,790",
       "url": "https://www.coingecko.com/en/coins/ethereum",
       "thumb": "https://coin-images.coingecko.com/coins/images/279/standard/ethereum.png?1696501628",
-      "score": 6
-    },
-    {
-      "source": "coingecko",
-      "name": "Monad",
-      "symbol": "MON",
-      "market_cap_rank": 160,
-      "price_usd": 0.021532504151706475,
-      "change_24h": 2.26,
-      "market_cap": "$233,090,965",
-      "url": "https://www.coingecko.com/en/coins/monad",
-      "thumb": "https://coin-images.coingecko.com/coins/images/38927/standard/mon.png?1766029057",
-      "score": 7
+      "score": 4
     },
     {
       "source": "coingecko",
       "name": "Solana",
       "symbol": "SOL",
       "market_cap_rank": 7,
-      "price_usd": 87.71181187371016,
-      "change_24h": 5.45,
-      "market_cap": "$49,904,815,934",
+      "price_usd": 84.4711973303037,
+      "change_24h": 0.8,
+      "market_cap": "$48,102,053,993",
       "url": "https://www.coingecko.com/en/coins/solana",
       "thumb": "https://coin-images.coingecko.com/coins/images/4128/standard/solana.png?1718769756",
+      "score": 5
+    },
+    {
+      "source": "coingecko",
+      "name": "MANTRA [Old]",
+      "symbol": "OM",
+      "market_cap_rank": 128,
+      "price_usd": 0.067770031936388,
+      "change_24h": -0.27,
+      "market_cap": "$322,686,472",
+      "url": "https://www.coingecko.com/en/coins/mantra-old",
+      "thumb": "https://coin-images.coingecko.com/coins/images/12151/standard/OM_Token.png?1696511991",
+      "score": 6
+    },
+    {
+      "source": "coingecko",
+      "name": "Tether Gold",
+      "symbol": "XAUT",
+      "market_cap_rank": 34,
+      "price_usd": 5233.70053929161,
+      "change_24h": -2.59,
+      "market_cap": "$2,954,682,122",
+      "url": "https://www.coingecko.com/en/coins/tether-gold",
+      "thumb": "https://coin-images.coingecko.com/coins/images/10481/standard/Tether_Gold.png?1696510471",
+      "score": 7
+    },
+    {
+      "source": "coingecko",
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "market_cap_rank": 47,
+      "price_usd": 178.10786066643064,
+      "change_24h": 0.53,
+      "market_cap": "$1,711,028,656",
+      "url": "https://www.coingecko.com/en/coins/bittensor",
+      "thumb": "https://coin-images.coingecko.com/coins/images/28452/standard/ARUsPeNQ_400x400.jpeg?1696527447",
       "score": 8
     },
     {
       "source": "coingecko",
-      "name": "Sui",
-      "symbol": "SUI",
-      "market_cap_rank": 30,
-      "price_usd": 0.9333686922285938,
-      "change_24h": 5.2,
-      "market_cap": "$3,637,157,457",
-      "url": "https://www.coingecko.com/en/coins/sui",
-      "thumb": "https://coin-images.coingecko.com/coins/images/26375/standard/sui-ocean-square.png?1727791290",
+      "name": "Fabric Protocol",
+      "symbol": "ROBO",
+      "market_cap_rank": 253,
+      "price_usd": 0.04793216580892217,
+      "change_24h": 10.49,
+      "market_cap": "$107,178,691",
+      "url": "https://www.coingecko.com/en/coins/fabric-protocol",
+      "thumb": "https://coin-images.coingecko.com/coins/images/102172005/standard/fab.png?1772080701",
       "score": 9
     },
     {
       "source": "coingecko",
-      "name": "Power Protocol",
-      "symbol": "POWER",
-      "market_cap_rank": 114,
-      "price_usd": 1.833961229839335,
-      "change_24h": 1.41,
-      "market_cap": "$385,774,099",
-      "url": "https://www.coingecko.com/en/coins/power-protocol",
-      "thumb": "https://coin-images.coingecko.com/coins/images/70944/standard/power.png?1764744522",
+      "name": "XRP",
+      "symbol": "XRP",
+      "market_cap_rank": 5,
+      "price_usd": 1.3471714416342753,
+      "change_24h": -0.62,
+      "market_cap": "$82,260,461,940",
+      "url": "https://www.coingecko.com/en/coins/xrp",
+      "thumb": "https://coin-images.coingecko.com/coins/images/44/standard/xrp-symbol-white-128.png?1696501442",
       "score": 10
     },
     {
       "source": "coingecko",
-      "name": "Ondo",
-      "symbol": "ONDO",
-      "market_cap_rank": 59,
-      "price_usd": 0.26139447569387203,
-      "change_24h": 3.14,
-      "market_cap": "$1,273,026,827",
-      "url": "https://www.coingecko.com/en/coins/ondo",
-      "thumb": "https://coin-images.coingecko.com/coins/images/26580/standard/ONDO.png?1696525656",
+      "name": "PAX Gold",
+      "symbol": "PAXG",
+      "market_cap_rank": 36,
+      "price_usd": 5276.869033908498,
+      "change_24h": -2.91,
+      "market_cap": "$2,538,525,166",
+      "url": "https://www.coingecko.com/en/coins/pax-gold",
+      "thumb": "https://coin-images.coingecko.com/coins/images/9519/standard/paxgold.png?1696509604",
       "score": 11
     },
     {
       "source": "coingecko",
-      "name": "Aave",
-      "symbol": "AAVE",
-      "market_cap_rank": 43,
-      "price_usd": 123.8275707636105,
-      "change_24h": 9.37,
-      "market_cap": "$1,872,844,622",
-      "url": "https://www.coingecko.com/en/coins/aave",
-      "thumb": "https://coin-images.coingecko.com/coins/images/12645/standard/aave-token-round.png?1720472354",
+      "name": "Monad",
+      "symbol": "MON",
+      "market_cap_rank": 164,
+      "price_usd": 0.0207596385455752,
+      "change_24h": -0.27,
+      "market_cap": "$224,829,732",
+      "url": "https://www.coingecko.com/en/coins/monad",
+      "thumb": "https://coin-images.coingecko.com/coins/images/38927/standard/mon.png?1766029057",
       "score": 12
     },
     {
       "source": "coingecko",
-      "name": "Zama",
-      "symbol": "ZAMA",
-      "market_cap_rank": 489,
-      "price_usd": 0.019484118788589227,
-      "change_24h": -6.62,
-      "market_cap": "$42,963,838",
-      "url": "https://www.coingecko.com/en/coins/zama",
-      "thumb": "https://coin-images.coingecko.com/coins/images/70921/standard/zama.png?1764591992",
+      "name": "Lighter",
+      "symbol": "LIT",
+      "market_cap_rank": 127,
+      "price_usd": 1.3032353513493589,
+      "change_24h": -6.4,
+      "market_cap": "$325,894,763",
+      "url": "https://www.coingecko.com/en/coins/lighter",
+      "thumb": "https://coin-images.coingecko.com/coins/images/71121/standard/lighter.png?1765888098",
       "score": 13
     },
     {
       "source": "coingecko",
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "market_cap_rank": 16,
-      "price_usd": 32.71659299934075,
-      "change_24h": 2.76,
-      "market_cap": "$7,777,847,352",
-      "url": "https://www.coingecko.com/en/coins/hyperliquid",
-      "thumb": "https://coin-images.coingecko.com/coins/images/50882/standard/hyperliquid.jpg?1729431300",
+      "name": "Chiliz",
+      "symbol": "CHZ",
+      "market_cap_rank": 115,
+      "price_usd": 0.03584319531172637,
+      "change_24h": 6.96,
+      "market_cap": "$369,794,501",
+      "url": "https://www.coingecko.com/en/coins/chiliz",
+      "thumb": "https://coin-images.coingecko.com/coins/images/8834/standard/CHZ_Token_updated.png?1696508986",
       "score": 14
     }
   ]
