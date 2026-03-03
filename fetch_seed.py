@@ -344,8 +344,7 @@ def enrich_articles(articles: list[dict]) -> list[dict]:
         }
         new_entries += 1
 
-        if new_entries % 10 == 0:
-            save_cache(cache)
+        save_cache(cache)
 
     if new_entries:
         save_cache(cache)

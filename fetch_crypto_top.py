@@ -237,9 +237,8 @@ def enrich_top_coins(coins: list[dict]) -> list[dict]:
         }
         new_entries += 1
 
-        # Save cache periodically
-        if new_entries % 10 == 0:
-            save_cache(cache)
+        # Save cache after every coin so progress is never lost
+        save_cache(cache)
 
     if new_entries:
         save_cache(cache)
