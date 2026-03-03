@@ -1,0 +1,507 @@
+{
+  "alphax": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "avalon-superearn": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "woofswap-shibarium": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "pell-network": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Pell_Network"
+  },
+  "zkcandy-bridge": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "hinkal": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "jupusd": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/JupiterExchange"
+  },
+  "clarity": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/clarity_dao"
+  },
+  "reya-bridge": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Reya_xyz"
+  },
+  "sparkdex-v4": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "picwe": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/PicWeGlobal"
+  },
+  "accountable": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "granite": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "piku": {
+    "linkedin_url": "",
+    "contact_email": "info@piku.co",
+    "twitter_url": ""
+  },
+  "frankencoin": {
+    "linkedin_url": "https://linkedin.com/company/frankencoin",
+    "contact_email": "hello@frankencoin.com",
+    "twitter_url": "https://x.com/frankencoinzchf"
+  },
+  "vault-bridge": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/agglayer"
+  },
+  "sundaeswap-v3": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/SundaeSwap"
+  },
+  "permapod": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "synatra": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "wildcat-protocol": {
+    "linkedin_url": "",
+    "contact_email": "contact@thewildcat.founda",
+    "twitter_url": "https://x.com/wildcatfi"
+  },
+  "clearstar": {
+    "linkedin_url": "",
+    "contact_email": "info@clearstar.xyz",
+    "twitter_url": ""
+  },
+  "sudo-perps": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/sudofinance"
+  },
+  "bitflow": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/bitflow"
+  },
+  "hbarsuite": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "termfinance-lend": {
+    "linkedin_url": "https://linkedin.com/company/term-labs-inc",
+    "contact_email": "",
+    "twitter_url": "https://x.com/term_labs"
+  },
+  "enosys-amm-v3": {
+    "linkedin_url": "",
+    "contact_email": "your@email.com",
+    "twitter_url": "https://x.com/enosys_global"
+  },
+  "magma": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "synfutures-v3": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "salvor": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "here-wallet-staking": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/here_wallet"
+  },
+  "avant-aveth": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/avantprotocol"
+  },
+  "ratex-dex": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "rhea-lst": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "navi-lending": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "linear-protocol": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "enosys-loans": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "meta-pool-near": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "sushiswap-v3": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "shadow-exchange-clmm": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "puzzle-lend": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "aquabank": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "drift-staked-sol": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "velodrome-v3": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "rhea-lend": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "royco-v2": {
+    "linkedin_url": "",
+    "contact_email": "support@royco.org",
+    "twitter_url": "https://x.com/roycoprotocol"
+  },
+  "allstake": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "generic.money": {
+    "linkedin_url": "",
+    "contact_email": "generic@generic.money",
+    "twitter_url": "https://x.com/genericmoney"
+  },
+  "origin-arm": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "pumpspace": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "looped-hype": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/looping_col"
+  },
+  "kona-lend": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/KonaDeFi"
+  },
+  "quickswap-v4": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "tigris-mezo": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "etherfi-cash-liquid": {
+    "linkedin_url": "",
+    "contact_email": "support@ether.fi",
+    "twitter_url": ""
+  },
+  "minswap-dex": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/MinswapDEX"
+  },
+  "mainstreet": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "reservoir-protocol": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "bim": {
+    "linkedin_url": "",
+    "contact_email": "contact@bim.financ",
+    "twitter_url": "https://x.com/BIM_Finance"
+  },
+  "kittenswap-algebra": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/KittenswapHype"
+  },
+  "hyperlend-pooled": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "defindex": {
+    "linkedin_url": "https://linkedin.com/company/defindex",
+    "contact_email": "dev@paltalabs.io",
+    "twitter_url": "https://x.com/defindex_"
+  },
+  "royco-v1": {
+    "linkedin_url": "",
+    "contact_email": "support@royco.org",
+    "twitter_url": "https://x.com/roycoprotocol"
+  },
+  "goapt": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "fstswap": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "flaunch": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "acala-lcdot": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "satsuma": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "stcelo": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "concrete": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "bifrost-dex": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "kinetiq-markets": {
+    "linkedin_url": "",
+    "contact_email": "support@markets.xyz",
+    "twitter_url": ""
+  },
+  "knightrade": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "kinetiq-earn": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/kinetiq_xyz"
+  },
+  "veda": {
+    "linkedin_url": "https://linkedin.com/company/veda-tech",
+    "contact_email": "help@veda.tech",
+    "twitter_url": "https://x.com/veda_labs"
+  },
+  "cypher-v4": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "spinup-liquid-staking": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "sthype": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "acala-liquid-staking": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "bitbond-lockers": {
+    "linkedin_url": "",
+    "contact_email": "service@bitbond.com",
+    "twitter_url": ""
+  },
+  "valantis-stex": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "factor-leverage-vault": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/FactorDAO"
+  },
+  "thala-lsd": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "amnis-finance": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "filliquid": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "bima-cdp": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "kofi-finance": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/kofi_finance"
+  },
+  "rhea-dex": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "hypurrfi-pooled": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "hyperswap-v2": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "tydro": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/tydroHQ"
+  },
+  "hyperswap-v3": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "kinetiq-khype": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/kinetiq_xyz"
+  },
+  "omniyield": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "waterneuron": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "yield-basis": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "carrot-lend": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "felix-cdp": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/felixprotocol"
+  },
+  "morpheusai": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "trisolaris": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "icpswap": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "derive-v2": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  }
+}
