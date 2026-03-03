@@ -256,6 +256,9 @@
   <button class="tab-btn" data-tab="crypto">
     Crypto Signals <span class="tab-count" id="count-crypto">—</span>
   </button>
+  <button class="tab-btn" data-tab="hn">
+    Show HN <span class="tab-count" id="count-hn">—</span>
+  </button>
 </nav>
 
 <!-- ════════════════════════════════════════════════════════
@@ -366,6 +369,58 @@
 </div>
 
 <!-- ════════════════════════════════════════════════════════
+     TAB 4 — Show HN
+════════════════════════════════════════════════════════ -->
+<div id="tab-hn" class="tab-content">
+  <div class="filters">
+    <div class="filter-group">
+      <input type="text" id="hn-search" placeholder="Search title or author…" autocomplete="off">
+    </div>
+    <div class="filter-group">
+      <label>Min points</label>
+      <div class="btn-group" id="hn-points">
+        <button data-pts="5" class="active">Any</button>
+        <button data-pts="25">25+</button>
+        <button data-pts="100">100+</button>
+        <button data-pts="300">300+</button>
+      </div>
+    </div>
+    <div class="filter-group">
+      <label>Posted within</label>
+      <div class="btn-group" id="hn-days">
+        <button data-days="7">7d</button>
+        <button data-days="14">14d</button>
+        <button data-days="30" class="active">30d</button>
+      </div>
+    </div>
+  </div>
+  <div class="main">
+    <div class="stats" id="hn-stats"></div>
+    <div class="table-wrap">
+      <div class="loading" id="hn-loading">
+        <span class="loading-dot">●</span>
+        <span class="loading-dot" style="animation-delay:.2s">●</span>
+        <span class="loading-dot" style="animation-delay:.4s">●</span>
+      </div>
+      <table id="hn-table" style="display:none">
+        <thead><tr>
+          <th data-col="title">Product <span class="si">↕</span></th>
+          <th data-col="points" class="sorted">Points <span class="si">↓</span></th>
+          <th data-col="num_comments">Comments <span class="si">↕</span></th>
+          <th data-col="created_date">Posted <span class="si">↕</span></th>
+          <th>Reach out</th>
+        </tr></thead>
+        <tbody id="hn-tbody"></tbody>
+      </table>
+      <div class="empty-state" id="hn-empty" style="display:none">
+        <h2>No posts match your filters</h2>
+        <p>Try lowering the points threshold or widening the date range.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════════════════════
      TAB 3 — Crypto Signals
 ════════════════════════════════════════════════════════ -->
 <div id="tab-crypto" class="tab-content">
@@ -406,6 +461,7 @@
           <th data-col="category">Category <span class="si">↕</span></th>
           <th data-col="tvl">TVL <span class="si">↕</span></th>
           <th data-col="change_7d">7d Growth <span class="si">↕</span></th>
+          <th>Contact</th>
           <th>Links</th>
         </tr></thead>
         <tbody id="cr-tbody"></tbody>
@@ -674,15 +730,26 @@ function crRenderRow(x) {
   const signalBadge = x.source === "defillama"
     ? `<span class="badge badge-green">TVL Growth</span>`
     : `<span class="badge badge-orange">Trending</span>`;
-  const cat   = x.category ? `<span class="chip">${esc(x.category)}</span>` : '<span class="muted">—</span>';
-  const tvl   = x.tvl ? fmtMoney(x.tvl) : '<span class="muted">—</span>';
-  const grow  = x.change_7d != null ? fmtPct(x.change_7d) : (x.change_24h != null ? fmtPct(x.change_24h) : '<span class="muted">—</span>');
+  const cat  = x.category ? `<span class="chip">${esc(x.category)}</span>` : '<span class="muted">—</span>';
+  const tvl  = x.tvl ? fmtMoney(x.tvl) : '<span class="muted">—</span>';
+  const grow = x.change_7d != null ? fmtPct(x.change_7d) : (x.change_24h != null ? fmtPct(x.change_24h) : '<span class="muted">—</span>');
 
-  const siteLink = x.url ? `<a class="action-link" href="${esc(x.url)}" target="_blank" rel="noopener">Site</a>` : "";
-  const twitterLink = x.twitter_url ? `<a class="action-link" href="${esc(x.twitter_url)}" target="_blank" rel="noopener">X</a>` : "";
-  const liLink2 = `<a class="action-link" href="${liSearch(x.name+" crypto")}" target="_blank" rel="noopener">LI</a>`;
+  // Contact cell — LinkedIn (direct if found, search fallback) + email
+  const liDirect  = x.linkedin_url
+    ? `<a class="action-link" style="border-color:var(--accent);color:var(--accent)" href="${esc(x.linkedin_url)}" target="_blank" rel="noopener">LinkedIn</a>`
+    : `<a class="action-link" href="${liSearch(x.name+" crypto")}" target="_blank" rel="noopener">LI search</a>`;
+  const emailLink = x.contact_email
+    ? `<a class="action-link" style="border-color:var(--green);color:var(--green)" href="mailto:${esc(x.contact_email)}">${esc(x.contact_email)}</a>`
+    : "";
+  const contactCell = `<div style="display:flex;flex-direction:column;gap:4px">${liDirect}${emailLink}</div>`;
 
-  const displayName = x.symbol ? `${esc(x.name)} <span class="muted" style="font-size:11px">${esc(x.symbol)}</span>` : esc(x.name||"—");
+  const siteLink   = x.url ? `<a class="action-link" href="${esc(x.url)}" target="_blank" rel="noopener">Site</a>` : "";
+  const xLink      = x.twitter_url ? `<a class="action-link" href="${esc(x.twitter_url)}" target="_blank" rel="noopener">X</a>` : "";
+  const defiLink   = x.defillama_url ? `<a class="action-link" href="${esc(x.defillama_url)}" target="_blank" rel="noopener">DL</a>` : "";
+
+  const displayName = x.symbol
+    ? `${esc(x.name)} <span class="muted" style="font-size:11px">${esc(x.symbol)}</span>`
+    : esc(x.name||"—");
 
   return `<tr>
     <td><span class="link-name" style="cursor:default">${displayName}</span></td>
@@ -690,7 +757,8 @@ function crRenderRow(x) {
     <td>${cat}</td>
     <td class="num">${tvl}</td>
     <td class="num">${grow}</td>
-    <td><span class="action-links">${siteLink}${twitterLink}${liLink2}</span></td>
+    <td>${contactCell}</td>
+    <td><span class="action-links">${siteLink}${xLink}${defiLink}</span></td>
   </tr>`;
 }
 
@@ -722,6 +790,89 @@ document.getElementById("cr-tvl").addEventListener("click", e => {
 document.getElementById("cr-search").addEventListener("input", e => { crSearch = e.target.value.toLowerCase().trim(); crRender(); });
 
 // ════════════════════════════════════════════════════════
+// TAB 4 — Show HN
+// ════════════════════════════════════════════════════════
+let hnPosts = [], hnSortCol = "points", hnSortAsc = false;
+let hnMinPts = 5, hnDays = 30, hnSearch = "";
+
+function hnFilter() {
+  return hnPosts.filter(p => {
+    if ((p.points||0) < hnMinPts) return false;
+    if (p.created_date && daysAgo(p.created_date) > hnDays) return false;
+    if (hnSearch) {
+      const hay = [p.title, p.author, p.url].join(" ").toLowerCase();
+      if (!hay.includes(hnSearch)) return false;
+    }
+    return true;
+  }).sort((a, b) => {
+    let av = a[hnSortCol] ?? 0, bv = b[hnSortCol] ?? 0;
+    if (hnSortCol === "title" || hnSortCol === "created_date") { av = String(av); bv = String(bv); }
+    if (av < bv) return hnSortAsc ? -1 : 1;
+    if (av > bv) return hnSortAsc ? 1 : -1;
+    return 0;
+  });
+}
+
+function hnRenderRow(p) {
+  const days = p.created_date ? daysAgo(p.created_date) : "?";
+  const badge = typeof days === "number" ? urgencyBadge(days) : `<span class="badge badge-gray">${days}</span>`;
+  // Extract a short domain from the URL for context
+  let domain = "";
+  try { domain = new URL(p.url).hostname.replace("www.", ""); } catch(e) {}
+
+  const productLink = p.url
+    ? `<a class="link-name" href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.title||"—")}</a>`
+    : `<span class="link-name">${esc(p.title||"—")}</span>`;
+
+  const authorLink = p.author_url
+    ? `<a class="action-link" href="${esc(p.author_url)}" target="_blank" rel="noopener">HN</a>`
+    : "";
+  const hnDisc = p.hn_url
+    ? `<a class="action-link" href="${esc(p.hn_url)}" target="_blank" rel="noopener">Discussion</a>`
+    : "";
+  const liBtn = `<a class="action-link" href="${liSearch(p.title)}" target="_blank" rel="noopener">LI</a>`;
+  const gBtn  = `<a class="action-link" href="${gSearch(p.title+' startup')}" target="_blank" rel="noopener">G</a>`;
+
+  return `<tr>
+    <td>
+      ${productLink}
+      ${domain ? `<div style="font-size:11px;color:var(--text-muted);margin-top:2px">${esc(domain)}</div>` : ""}
+    </td>
+    <td><span class="badge badge-blue">${p.points}</span></td>
+    <td class="muted">${p.num_comments||0}</td>
+    <td>${badge}</td>
+    <td><span class="action-links">${hnDisc}${authorLink}${liBtn}${gBtn}</span></td>
+  </tr>`;
+}
+
+function hnRender() {
+  const rows = hnFilter();
+  document.getElementById("hn-stats").innerHTML =
+    `Showing <span>${rows.length}</span> of <span>${hnPosts.length}</span> posts`;
+  showTable("hn-table","hn-loading","hn-empty","hn-tbody", rows.map(hnRenderRow));
+}
+
+makeSorter("hn-table",
+  () => ({ col: hnSortCol, asc: hnSortAsc }),
+  (c, a) => { hnSortCol = c; hnSortAsc = a; },
+  hnRender
+);
+
+document.getElementById("hn-points").addEventListener("click", e => {
+  const b = e.target.closest("button"); if (!b) return;
+  hnMinPts = +b.dataset.pts;
+  document.querySelectorAll("#hn-points button").forEach(x => x.classList.remove("active"));
+  b.classList.add("active"); hnRender();
+});
+document.getElementById("hn-days").addEventListener("click", e => {
+  const b = e.target.closest("button"); if (!b) return;
+  hnDays = +b.dataset.days;
+  document.querySelectorAll("#hn-days button").forEach(x => x.classList.remove("active"));
+  b.classList.add("active"); hnRender();
+});
+document.getElementById("hn-search").addEventListener("input", e => { hnSearch = e.target.value.toLowerCase().trim(); hnRender(); });
+
+// ════════════════════════════════════════════════════════
 // Data loading
 // ════════════════════════════════════════════════════════
 function setCount(id, n) {
@@ -730,10 +881,11 @@ function setCount(id, n) {
 
 async function loadAll() {
   // Load all three in parallel
-  const [fdRes, ycRes, crRes] = await Promise.allSettled([
+  const [fdRes, ycRes, crRes, hnRes] = await Promise.allSettled([
     fetch("./data/leads.json").then(r => r.json()),
     fetch("./data/yc.json").then(r => r.json()),
     fetch("./data/crypto.json").then(r => r.json()),
+    fetch("./data/hn.json").then(r => r.json()),
   ]);
 
   // ── Form D ────────────────────────────────────────────
@@ -777,6 +929,17 @@ async function loadAll() {
     crRender();
   } else {
     document.getElementById("cr-loading").innerHTML = `<span style="color:var(--red)">Failed to load crypto data — run fetch_crypto.py</span>`;
+  }
+
+  // ── Show HN ──────────────────────────────────────────
+  if (hnRes.status === "fulfilled") {
+    const data = hnRes.value;
+    hnPosts = data.posts || [];
+    setCount("count-hn", hnPosts.length);
+    document.getElementById("hn-loading").style.display = "none";
+    hnRender();
+  } else {
+    document.getElementById("hn-loading").innerHTML = `<span style="color:var(--red)">Failed to load HN data — run fetch_hn.py</span>`;
   }
 
   // ── Header meta ───────────────────────────────────────
