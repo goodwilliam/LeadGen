@@ -1,4 +1,4 @@
-name: Update Form D Leads
+name: Update Leads
 
 on:
   schedule:
@@ -23,23 +23,25 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Fetch Form D leads
-        run: python fetch_leads.py
-
       - name: Fetch YC companies
         run: python fetch_yc.py
 
       - name: Fetch crypto signals
         run: python fetch_crypto.py
 
-      - name: Fetch Show HN posts
-        run: python fetch_hn.py
+      - name: Fetch top 1000 MCap crypto
+        run: python fetch_crypto_top.py
+
+      - name: Fetch seed funding news
+        run: python fetch_seed.py
 
       - name: Commit and push if data changed
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/leads.json data/yc.json data/crypto.json data/hn.json data/crypto_enrichment_cache.json
+          git add data/yc.json data/crypto.json data/crypto_enrichment_cache.json \
+                  data/crypto_top.json data/crypto_top_enrichment_cache.json \
+                  data/seed.json data/seed_enrichment_cache.json
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else

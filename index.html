@@ -53,6 +53,7 @@
     display: flex;
     padding: 0 24px;
     gap: 4px;
+    overflow-x: auto;
   }
   .tab-btn {
     padding: 10px 16px;
@@ -148,6 +149,23 @@
   .btn-group button:hover { background: var(--border); color: var(--text); }
   .btn-group button.active { background: var(--accent); color: #0d1117; font-weight: 600; }
 
+  .toggle-btn {
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    color: var(--text-muted);
+    padding: 5px 12px;
+    font-size: 12px;
+    cursor: pointer;
+    border-radius: 6px;
+    transition: background 0.15s, color 0.15s, border-color 0.15s;
+  }
+  .toggle-btn.active {
+    background: rgba(63,185,80,.15);
+    border-color: var(--green);
+    color: var(--green);
+    font-weight: 600;
+  }
+
   /* ── Main content ── */
   .main { padding: 18px 24px; }
   .stats { margin-bottom: 14px; font-size: 12px; color: var(--text-muted); }
@@ -217,8 +235,8 @@
     white-space: nowrap;
   }
   .action-link:hover { color: var(--text); border-color: var(--accent); }
-
-  .founder-row { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; margin-bottom: 3px; }
+  .action-link.hi-green { border-color: var(--green); color: var(--green); }
+  .action-link.hi-blue  { border-color: var(--accent); color: var(--accent); }
 
   .up   { color: var(--green); font-weight: 600; }
   .down { color: var(--red); font-weight: 600; }
@@ -247,82 +265,24 @@
 
 <!-- ── Tab nav ── -->
 <nav class="tab-nav">
-  <button class="tab-btn active" data-tab="formd">
-    Form D <span class="tab-count" id="count-formd">—</span>
-  </button>
-  <button class="tab-btn" data-tab="yc">
+  <button class="tab-btn active" data-tab="yc">
     YC Companies <span class="tab-count" id="count-yc">—</span>
   </button>
   <button class="tab-btn" data-tab="crypto">
     Crypto Signals <span class="tab-count" id="count-crypto">—</span>
   </button>
-  <button class="tab-btn" data-tab="hn">
-    Show HN <span class="tab-count" id="count-hn">—</span>
+  <button class="tab-btn" data-tab="top">
+    Top 1000 MCap <span class="tab-count" id="count-top">—</span>
+  </button>
+  <button class="tab-btn" data-tab="seed">
+    Seed Funding <span class="tab-count" id="count-seed">—</span>
   </button>
 </nav>
 
 <!-- ════════════════════════════════════════════════════════
-     TAB 1 — Form D
+     TAB 1 — YC Companies
 ════════════════════════════════════════════════════════ -->
-<div id="tab-formd" class="tab-content active">
-  <div class="filters">
-    <div class="filter-group">
-      <input type="text" id="fd-search" placeholder="Search company or founder…" autocomplete="off">
-    </div>
-    <div class="filter-group">
-      <label>Filed within</label>
-      <div class="btn-group" id="fd-days">
-        <button data-days="7">7d</button>
-        <button data-days="14">14d</button>
-        <button data-days="30" class="active">30d</button>
-        <button data-days="60">60d</button>
-      </div>
-    </div>
-    <div class="filter-group">
-      <label>Raise</label>
-      <div class="btn-group" id="fd-amount">
-        <button data-amount="all" class="active">All</button>
-        <button data-amount="small">&lt;$500K</button>
-        <button data-amount="mid">$500K–$3M</button>
-        <button data-amount="large">$3M–$15M</button>
-      </div>
-    </div>
-    <div class="filter-group">
-      <label>Industry</label>
-      <select id="fd-industry"><option value="">All industries</option></select>
-    </div>
-  </div>
-  <div class="main">
-    <div class="stats" id="fd-stats"></div>
-    <div class="table-wrap">
-      <div class="loading" id="fd-loading">
-        <span class="loading-dot">●</span>
-        <span class="loading-dot" style="animation-delay:.2s">●</span>
-        <span class="loading-dot" style="animation-delay:.4s">●</span>
-      </div>
-      <table id="fd-table" style="display:none">
-        <thead><tr>
-          <th data-col="company">Company <span class="si">↕</span></th>
-          <th data-col="filed_date" class="sorted">Filed <span class="si">↓</span></th>
-          <th data-col="amount">Amount <span class="si">↕</span></th>
-          <th data-col="industry">Industry <span class="si">↕</span></th>
-          <th data-col="location">Location <span class="si">↕</span></th>
-          <th>Founders</th>
-        </tr></thead>
-        <tbody id="fd-tbody"></tbody>
-      </table>
-      <div class="empty-state" id="fd-empty" style="display:none">
-        <h2>No leads match your filters</h2>
-        <p>Try widening the date range or clearing the search.</p>
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- ════════════════════════════════════════════════════════
-     TAB 2 — YC Companies
-════════════════════════════════════════════════════════ -->
-<div id="tab-yc" class="tab-content">
+<div id="tab-yc" class="tab-content active">
   <div class="filters">
     <div class="filter-group">
       <input type="text" id="yc-search" placeholder="Search company or description…" autocomplete="off">
@@ -369,59 +329,7 @@
 </div>
 
 <!-- ════════════════════════════════════════════════════════
-     TAB 4 — Show HN
-════════════════════════════════════════════════════════ -->
-<div id="tab-hn" class="tab-content">
-  <div class="filters">
-    <div class="filter-group">
-      <input type="text" id="hn-search" placeholder="Search title or author…" autocomplete="off">
-    </div>
-    <div class="filter-group">
-      <label>Min points</label>
-      <div class="btn-group" id="hn-points">
-        <button data-pts="5" class="active">Any</button>
-        <button data-pts="25">25+</button>
-        <button data-pts="100">100+</button>
-        <button data-pts="300">300+</button>
-      </div>
-    </div>
-    <div class="filter-group">
-      <label>Posted within</label>
-      <div class="btn-group" id="hn-days">
-        <button data-days="7">7d</button>
-        <button data-days="14">14d</button>
-        <button data-days="30" class="active">30d</button>
-      </div>
-    </div>
-  </div>
-  <div class="main">
-    <div class="stats" id="hn-stats"></div>
-    <div class="table-wrap">
-      <div class="loading" id="hn-loading">
-        <span class="loading-dot">●</span>
-        <span class="loading-dot" style="animation-delay:.2s">●</span>
-        <span class="loading-dot" style="animation-delay:.4s">●</span>
-      </div>
-      <table id="hn-table" style="display:none">
-        <thead><tr>
-          <th data-col="title">Product <span class="si">↕</span></th>
-          <th data-col="points" class="sorted">Points <span class="si">↓</span></th>
-          <th data-col="num_comments">Comments <span class="si">↕</span></th>
-          <th data-col="created_date">Posted <span class="si">↕</span></th>
-          <th>Reach out</th>
-        </tr></thead>
-        <tbody id="hn-tbody"></tbody>
-      </table>
-      <div class="empty-state" id="hn-empty" style="display:none">
-        <h2>No posts match your filters</h2>
-        <p>Try lowering the points threshold or widening the date range.</p>
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- ════════════════════════════════════════════════════════
-     TAB 3 — Crypto Signals
+     TAB 2 — Crypto Signals
 ════════════════════════════════════════════════════════ -->
 <div id="tab-crypto" class="tab-content">
   <div class="filters">
@@ -444,6 +352,9 @@
         <button data-tvl="10000000">$10M+</button>
         <button data-tvl="100000000">$100M+</button>
       </div>
+    </div>
+    <div class="filter-group">
+      <button class="toggle-btn" id="cr-contact-toggle">Has Contact</button>
     </div>
   </div>
   <div class="main">
@@ -469,6 +380,104 @@
       <div class="empty-state" id="cr-empty" style="display:none">
         <h2>No signals match your filters</h2>
         <p>Try adjusting the source or TVL filter.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════════════════════
+     TAB 3 — Top 1000 MCap
+════════════════════════════════════════════════════════ -->
+<div id="tab-top" class="tab-content">
+  <div class="filters">
+    <div class="filter-group">
+      <input type="text" id="top-search" placeholder="Search name or symbol…" autocomplete="off">
+    </div>
+    <div class="filter-group">
+      <label>Rank</label>
+      <div class="btn-group" id="top-rank">
+        <button data-rank="all" class="active">All</button>
+        <button data-rank="100">Top 100</button>
+        <button data-rank="300">Top 300</button>
+        <button data-rank="500">Top 500</button>
+      </div>
+    </div>
+    <div class="filter-group">
+      <button class="toggle-btn" id="top-contact-toggle">Has Contact</button>
+    </div>
+  </div>
+  <div class="main">
+    <div class="stats" id="top-stats"></div>
+    <div class="table-wrap">
+      <div class="loading" id="top-loading">
+        <span class="loading-dot">●</span>
+        <span class="loading-dot" style="animation-delay:.2s">●</span>
+        <span class="loading-dot" style="animation-delay:.4s">●</span>
+      </div>
+      <table id="top-table" style="display:none">
+        <thead><tr>
+          <th data-col="market_cap_rank" class="sorted">Rank <span class="si">↑</span></th>
+          <th data-col="name">Name <span class="si">↕</span></th>
+          <th data-col="market_cap">Market Cap <span class="si">↕</span></th>
+          <th data-col="change_24h">24h <span class="si">↕</span></th>
+          <th data-col="change_7d">7d <span class="si">↕</span></th>
+          <th>Contact</th>
+          <th>Links</th>
+        </tr></thead>
+        <tbody id="top-tbody"></tbody>
+      </table>
+      <div class="empty-state" id="top-empty" style="display:none">
+        <h2>No coins match your filters</h2>
+        <p>Try a different rank range or clear the search.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════════════════════
+     TAB 4 — Seed Funding
+════════════════════════════════════════════════════════ -->
+<div id="tab-seed" class="tab-content">
+  <div class="filters">
+    <div class="filter-group">
+      <input type="text" id="seed-search" placeholder="Search company or headline…" autocomplete="off">
+    </div>
+    <div class="filter-group">
+      <label>Source</label>
+      <div class="btn-group" id="seed-source">
+        <button data-source="all" class="active">All</button>
+        <button data-source="TechCrunch">TechCrunch</button>
+        <button data-source="VentureBeat">VentureBeat</button>
+        <button data-source="Crunchbase News">Crunchbase</button>
+      </div>
+    </div>
+    <div class="filter-group">
+      <button class="toggle-btn" id="seed-contact-toggle">Has Contact</button>
+    </div>
+  </div>
+  <div class="main">
+    <div class="stats" id="seed-stats"></div>
+    <div class="table-wrap">
+      <div class="loading" id="seed-loading">
+        <span class="loading-dot">●</span>
+        <span class="loading-dot" style="animation-delay:.2s">●</span>
+        <span class="loading-dot" style="animation-delay:.4s">●</span>
+      </div>
+      <table id="seed-table" style="display:none">
+        <thead><tr>
+          <th data-col="company">Company <span class="si">↕</span></th>
+          <th data-col="amount_str">Amount <span class="si">↕</span></th>
+          <th data-col="pub_date" class="sorted">Date <span class="si">↓</span></th>
+          <th data-col="source">Source <span class="si">↕</span></th>
+          <th>Headline</th>
+          <th>Contact</th>
+          <th>Links</th>
+        </tr></thead>
+        <tbody id="seed-tbody"></tbody>
+      </table>
+      <div class="empty-state" id="seed-empty" style="display:none">
+        <h2>No seed articles match your filters</h2>
+        <p>Try a different source or clear the search.</p>
       </div>
     </div>
   </div>
@@ -507,8 +516,19 @@ function esc(s) {
 function liSearch(q) {
   return `https://www.linkedin.com/search/results/all/?keywords=${encodeURIComponent(q)}`;
 }
-function gSearch(q) {
-  return `https://www.google.com/search?q=${encodeURIComponent(q)}`;
+
+function contactCell(item) {
+  const li = item.linkedin_url
+    ? `<a class="action-link hi-blue" href="${esc(item.linkedin_url)}" target="_blank" rel="noopener">LinkedIn</a>`
+    : `<a class="action-link" href="${liSearch((item.name||item.company||"")+" crypto")}" target="_blank" rel="noopener">LI search</a>`;
+  const email = item.contact_email
+    ? `<a class="action-link hi-green" href="mailto:${esc(item.contact_email)}" title="${esc(item.contact_email)}">${esc(item.contact_email)}</a>`
+    : "";
+  return `<div style="display:flex;flex-direction:column;gap:4px">${li}${email}</div>`;
+}
+
+function hasContact(item) {
+  return !!(item.linkedin_url || item.contact_email);
 }
 
 // ── Tab switching ─────────────────────────────────────────
@@ -527,7 +547,8 @@ function makeSorter(tableId, getState, setState, renderFn) {
     th.addEventListener("click", () => {
       const { col, asc } = getState();
       const newCol = th.dataset.col;
-      const newAsc = newCol === col ? !asc : (newCol !== "filed_date" && newCol !== "change_7d" && newCol !== "tvl");
+      const defaultDesc = ["change_7d","change_24h","tvl","market_cap","points","pub_date","market_cap_rank"];
+      const newAsc = newCol === col ? !asc : !defaultDesc.includes(newCol);
       setState(newCol, newAsc);
       document.querySelectorAll(`#${tableId} thead th`).forEach(t => {
         t.classList.remove("sorted");
@@ -552,88 +573,25 @@ function showTable(tableId, loadingId, emptyId, tbodyId, rows) {
   }
 }
 
-// ════════════════════════════════════════════════════════
-// TAB 1 — Form D
-// ════════════════════════════════════════════════════════
-let fdLeads = [], fdSortCol = "filed_date", fdSortAsc = false;
-let fdDays = 30, fdAmount = "all", fdIndustry = "", fdSearch = "";
-
-function fdFilter() {
-  return fdLeads.filter(l => {
-    if (daysAgo(l.filed_date) > fdDays) return false;
-    if (fdAmount === "small" && l.amount >= 500000) return false;
-    if (fdAmount === "mid"   && (l.amount < 500000 || l.amount > 3000000)) return false;
-    if (fdAmount === "large" && (l.amount < 3000000 || l.amount > 15000000)) return false;
-    if (fdIndustry && (l.industry || "") !== fdIndustry) return false;
-    if (fdSearch) {
-      const hay = [l.company, l.industry, l.city, l.state, ...(l.founders||[]).map(f=>f.name)].join(" ").toLowerCase();
-      if (!hay.includes(fdSearch)) return false;
-    }
-    return true;
-  }).sort((a, b) => {
-    let av = a[fdSortCol] ?? "", bv = b[fdSortCol] ?? "";
-    if (fdSortCol === "amount") { av = av||0; bv = bv||0; }
-    if (fdSortCol === "location") { av = `${a.city}${a.state}`; bv = `${b.city}${b.state}`; }
-    if (av < bv) return fdSortAsc ? -1 : 1;
-    if (av > bv) return fdSortAsc ? 1 : -1;
-    return 0;
+function bindToggle(btnId, onToggle) {
+  const btn = document.getElementById(btnId);
+  btn.addEventListener("click", () => {
+    btn.classList.toggle("active");
+    onToggle(btn.classList.contains("active"));
   });
 }
 
-function fdRenderRow(l) {
-  const days = daysAgo(l.filed_date);
-  const loc = [l.city, l.state].filter(Boolean).join(", ") || "—";
-  const founders = (l.founders||[]).slice(0,3).map(f => {
-    if (!f.name) return "";
-    return `<div class="founder-row">
-      <span>${esc(f.name)}</span>
-      <span class="action-links">
-        <a class="action-link" href="${liSearch(f.name+" "+l.company)}" target="_blank" rel="noopener">LI</a>
-        <a class="action-link" href="${gSearch('"'+f.name+'" "'+l.company+'"')}" target="_blank" rel="noopener">G</a>
-      </span>
-    </div>`;
-  }).join("");
-  const edgar = esc(l.filing_url || `https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=${l.cik}&type=D`);
-  return `<tr>
-    <td><a class="link-name" href="${edgar}" target="_blank" rel="noopener">${esc(l.company||"—")}</a></td>
-    <td>${urgencyBadge(days)}</td>
-    <td class="num">${fmtMoney(l.amount)}</td>
-    <td><span class="chip">${esc(l.industry||"—")}</span></td>
-    <td class="muted" style="white-space:nowrap">${esc(loc)}</td>
-    <td>${founders || '<span class="muted">—</span>'}</td>
-  </tr>`;
+function bindBtnGroup(groupId, onSelect) {
+  document.getElementById(groupId).addEventListener("click", e => {
+    const b = e.target.closest("button"); if (!b) return;
+    document.querySelectorAll(`#${groupId} button`).forEach(x => x.classList.remove("active"));
+    b.classList.add("active");
+    onSelect(b.dataset);
+  });
 }
-
-function fdRender() {
-  const rows = fdFilter();
-  document.getElementById("fd-stats").innerHTML =
-    `Showing <span>${rows.length}</span> of <span>${fdLeads.length}</span> leads`;
-  showTable("fd-table","fd-loading","fd-empty","fd-tbody", rows.map(fdRenderRow));
-}
-
-makeSorter("fd-table",
-  () => ({ col: fdSortCol, asc: fdSortAsc }),
-  (c, a) => { fdSortCol = c; fdSortAsc = a; },
-  fdRender
-);
-
-document.getElementById("fd-days").addEventListener("click", e => {
-  const b = e.target.closest("button"); if (!b) return;
-  fdDays = +b.dataset.days;
-  document.querySelectorAll("#fd-days button").forEach(x => x.classList.remove("active"));
-  b.classList.add("active"); fdRender();
-});
-document.getElementById("fd-amount").addEventListener("click", e => {
-  const b = e.target.closest("button"); if (!b) return;
-  fdAmount = b.dataset.amount;
-  document.querySelectorAll("#fd-amount button").forEach(x => x.classList.remove("active"));
-  b.classList.add("active"); fdRender();
-});
-document.getElementById("fd-industry").addEventListener("change", e => { fdIndustry = e.target.value; fdRender(); });
-document.getElementById("fd-search").addEventListener("input", e => { fdSearch = e.target.value.toLowerCase().trim(); fdRender(); });
 
 // ════════════════════════════════════════════════════════
-// TAB 2 — YC Companies
+// TAB 1 — YC Companies
 // ════════════════════════════════════════════════════════
 let ycCompanies = [], ycSortCol = "batch", ycSortAsc = true;
 let ycBatch = "all", ycIndustry = "", ycSearch = "";
@@ -688,28 +646,22 @@ makeSorter("yc-table",
   ycRender
 );
 
-document.getElementById("yc-batch").addEventListener("click", e => {
-  const b = e.target.closest("button"); if (!b) return;
-  ycBatch = b.dataset.batch;
-  document.querySelectorAll("#yc-batch button").forEach(x => x.classList.remove("active"));
-  b.classList.add("active"); ycRender();
-});
+bindBtnGroup("yc-batch", d => { ycBatch = d.batch; ycRender(); });
 document.getElementById("yc-industry").addEventListener("change", e => { ycIndustry = e.target.value; ycRender(); });
 document.getElementById("yc-search").addEventListener("input", e => { ycSearch = e.target.value.toLowerCase().trim(); ycRender(); });
 
 // ════════════════════════════════════════════════════════
-// TAB 3 — Crypto
+// TAB 2 — Crypto Signals
 // ════════════════════════════════════════════════════════
 let crItems = [], crSortCol = "change_7d", crSortAsc = false;
-let crSource = "all", crMinTvl = 0, crSearch = "";
+let crSource = "all", crMinTvl = 0, crSearch = "", crContactOnly = false;
 
 function crFilter() {
   return crItems.filter(x => {
-    if (crSource !== "all" && x.source !== crSource &&
-        !(crSource === "coingecko" && x.source === "coingecko")) return false;
     if (crSource === "defillama" && x.source !== "defillama") return false;
     if (crSource === "coingecko" && x.source !== "coingecko") return false;
     if (crMinTvl > 0 && (x.tvl||0) < crMinTvl) return false;
+    if (crContactOnly && !hasContact(x)) return false;
     if (crSearch) {
       const hay = [x.name, x.category, x.chain, x.symbol].filter(Boolean).join(" ").toLowerCase();
       if (!hay.includes(crSearch)) return false;
@@ -717,9 +669,7 @@ function crFilter() {
     return true;
   }).sort((a, b) => {
     let av = a[crSortCol] ?? 0, bv = b[crSortCol] ?? 0;
-    if (crSortCol === "name" || crSortCol === "category" || crSortCol === "source") {
-      av = String(av); bv = String(bv);
-    }
+    if (["name","category","source"].includes(crSortCol)) { av = String(av||""); bv = String(bv||""); }
     if (av < bv) return crSortAsc ? -1 : 1;
     if (av > bv) return crSortAsc ? 1 : -1;
     return 0;
@@ -734,18 +684,9 @@ function crRenderRow(x) {
   const tvl  = x.tvl ? fmtMoney(x.tvl) : '<span class="muted">—</span>';
   const grow = x.change_7d != null ? fmtPct(x.change_7d) : (x.change_24h != null ? fmtPct(x.change_24h) : '<span class="muted">—</span>');
 
-  // Contact cell — LinkedIn (direct if found, search fallback) + email
-  const liDirect  = x.linkedin_url
-    ? `<a class="action-link" style="border-color:var(--accent);color:var(--accent)" href="${esc(x.linkedin_url)}" target="_blank" rel="noopener">LinkedIn</a>`
-    : `<a class="action-link" href="${liSearch(x.name+" crypto")}" target="_blank" rel="noopener">LI search</a>`;
-  const emailLink = x.contact_email
-    ? `<a class="action-link" style="border-color:var(--green);color:var(--green)" href="mailto:${esc(x.contact_email)}">${esc(x.contact_email)}</a>`
-    : "";
-  const contactCell = `<div style="display:flex;flex-direction:column;gap:4px">${liDirect}${emailLink}</div>`;
-
-  const siteLink   = x.url ? `<a class="action-link" href="${esc(x.url)}" target="_blank" rel="noopener">Site</a>` : "";
-  const xLink      = x.twitter_url ? `<a class="action-link" href="${esc(x.twitter_url)}" target="_blank" rel="noopener">X</a>` : "";
-  const defiLink   = x.defillama_url ? `<a class="action-link" href="${esc(x.defillama_url)}" target="_blank" rel="noopener">DL</a>` : "";
+  const siteLink = x.url ? `<a class="action-link" href="${esc(x.url)}" target="_blank" rel="noopener">Site</a>` : "";
+  const xLink    = x.twitter_url ? `<a class="action-link" href="${esc(x.twitter_url)}" target="_blank" rel="noopener">X</a>` : "";
+  const defiLink = x.defillama_url ? `<a class="action-link" href="${esc(x.defillama_url)}" target="_blank" rel="noopener">DL</a>` : "";
 
   const displayName = x.symbol
     ? `${esc(x.name)} <span class="muted" style="font-size:11px">${esc(x.symbol)}</span>`
@@ -757,7 +698,7 @@ function crRenderRow(x) {
     <td>${cat}</td>
     <td class="num">${tvl}</td>
     <td class="num">${grow}</td>
-    <td>${contactCell}</td>
+    <td>${contactCell(x)}</td>
     <td><span class="action-links">${siteLink}${xLink}${defiLink}</span></td>
   </tr>`;
 }
@@ -775,102 +716,152 @@ makeSorter("cr-table",
   crRender
 );
 
-document.getElementById("cr-source").addEventListener("click", e => {
-  const b = e.target.closest("button"); if (!b) return;
-  crSource = b.dataset.source;
-  document.querySelectorAll("#cr-source button").forEach(x => x.classList.remove("active"));
-  b.classList.add("active"); crRender();
-});
-document.getElementById("cr-tvl").addEventListener("click", e => {
-  const b = e.target.closest("button"); if (!b) return;
-  crMinTvl = +b.dataset.tvl;
-  document.querySelectorAll("#cr-tvl button").forEach(x => x.classList.remove("active"));
-  b.classList.add("active"); crRender();
-});
+bindBtnGroup("cr-source", d => { crSource = d.source; crRender(); });
+bindBtnGroup("cr-tvl", d => { crMinTvl = +d.tvl; crRender(); });
+bindToggle("cr-contact-toggle", v => { crContactOnly = v; crRender(); });
 document.getElementById("cr-search").addEventListener("input", e => { crSearch = e.target.value.toLowerCase().trim(); crRender(); });
 
 // ════════════════════════════════════════════════════════
-// TAB 4 — Show HN
+// TAB 3 — Top 1000 MCap
 // ════════════════════════════════════════════════════════
-let hnPosts = [], hnSortCol = "points", hnSortAsc = false;
-let hnMinPts = 5, hnDays = 30, hnSearch = "";
+let topCoins = [], topSortCol = "market_cap_rank", topSortAsc = true;
+let topRank = "all", topSearch = "", topContactOnly = false;
 
-function hnFilter() {
-  return hnPosts.filter(p => {
-    if ((p.points||0) < hnMinPts) return false;
-    if (p.created_date && daysAgo(p.created_date) > hnDays) return false;
-    if (hnSearch) {
-      const hay = [p.title, p.author, p.url].join(" ").toLowerCase();
-      if (!hay.includes(hnSearch)) return false;
+function topFilter() {
+  return topCoins.filter(c => {
+    if (topRank !== "all" && (c.market_cap_rank||9999) > +topRank) return false;
+    if (topContactOnly && !hasContact(c)) return false;
+    if (topSearch) {
+      const hay = [c.name, c.symbol].filter(Boolean).join(" ").toLowerCase();
+      if (!hay.includes(topSearch)) return false;
     }
     return true;
   }).sort((a, b) => {
-    let av = a[hnSortCol] ?? 0, bv = b[hnSortCol] ?? 0;
-    if (hnSortCol === "title" || hnSortCol === "created_date") { av = String(av); bv = String(bv); }
-    if (av < bv) return hnSortAsc ? -1 : 1;
-    if (av > bv) return hnSortAsc ? 1 : -1;
+    let av = a[topSortCol] ?? 0, bv = b[topSortCol] ?? 0;
+    if (topSortCol === "name") { av = String(av||""); bv = String(bv||""); }
+    if (av < bv) return topSortAsc ? -1 : 1;
+    if (av > bv) return topSortAsc ? 1 : -1;
     return 0;
   });
 }
 
-function hnRenderRow(p) {
-  const days = p.created_date ? daysAgo(p.created_date) : "?";
-  const badge = typeof days === "number" ? urgencyBadge(days) : `<span class="badge badge-gray">${days}</span>`;
-  // Extract a short domain from the URL for context
-  let domain = "";
-  try { domain = new URL(p.url).hostname.replace("www.", ""); } catch(e) {}
-
-  const productLink = p.url
-    ? `<a class="link-name" href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.title||"—")}</a>`
-    : `<span class="link-name">${esc(p.title||"—")}</span>`;
-
-  const authorLink = p.author_url
-    ? `<a class="action-link" href="${esc(p.author_url)}" target="_blank" rel="noopener">HN</a>`
-    : "";
-  const hnDisc = p.hn_url
-    ? `<a class="action-link" href="${esc(p.hn_url)}" target="_blank" rel="noopener">Discussion</a>`
-    : "";
-  const liBtn = `<a class="action-link" href="${liSearch(p.title)}" target="_blank" rel="noopener">LI</a>`;
-  const gBtn  = `<a class="action-link" href="${gSearch(p.title+' startup')}" target="_blank" rel="noopener">G</a>`;
+function topRenderRow(c) {
+  const rank = c.market_cap_rank || "—";
+  const rankBadge = rank <= 10
+    ? `<span class="badge badge-yellow">#${rank}</span>`
+    : rank <= 50
+      ? `<span class="badge badge-blue">#${rank}</span>`
+      : `<span class="muted">#${rank}</span>`;
+  const displayName = `${esc(c.name||"—")} <span class="muted" style="font-size:11px">${esc(c.symbol||"")}</span>`;
+  const xLink = c.twitter_url ? `<a class="action-link" href="${esc(c.twitter_url)}" target="_blank" rel="noopener">X</a>` : "";
+  const cgLink = c.coingecko_url ? `<a class="action-link" href="${esc(c.coingecko_url)}" target="_blank" rel="noopener">CG</a>` : "";
+  const siteLink = c.website ? `<a class="action-link" href="${esc(c.website)}" target="_blank" rel="noopener">Site</a>` : "";
 
   return `<tr>
-    <td>
-      ${productLink}
-      ${domain ? `<div style="font-size:11px;color:var(--text-muted);margin-top:2px">${esc(domain)}</div>` : ""}
-    </td>
-    <td><span class="badge badge-blue">${p.points}</span></td>
-    <td class="muted">${p.num_comments||0}</td>
-    <td>${badge}</td>
-    <td><span class="action-links">${hnDisc}${authorLink}${liBtn}${gBtn}</span></td>
+    <td class="num">${rankBadge}</td>
+    <td><span class="link-name" style="cursor:default">${displayName}</span></td>
+    <td class="num">${fmtMoney(c.market_cap)}</td>
+    <td class="num">${fmtPct(c.change_24h)}</td>
+    <td class="num">${fmtPct(c.change_7d)}</td>
+    <td>${contactCell(c)}</td>
+    <td><span class="action-links">${siteLink}${xLink}${cgLink}</span></td>
   </tr>`;
 }
 
-function hnRender() {
-  const rows = hnFilter();
-  document.getElementById("hn-stats").innerHTML =
-    `Showing <span>${rows.length}</span> of <span>${hnPosts.length}</span> posts`;
-  showTable("hn-table","hn-loading","hn-empty","hn-tbody", rows.map(hnRenderRow));
+function topRender() {
+  const rows = topFilter();
+  const enriched = topCoins.filter(hasContact).length;
+  document.getElementById("top-stats").innerHTML =
+    `Showing <span>${rows.length}</span> of <span>${topCoins.length}</span> coins · <span>${enriched}</span> with contact info`;
+  showTable("top-table","top-loading","top-empty","top-tbody", rows.map(topRenderRow));
 }
 
-makeSorter("hn-table",
-  () => ({ col: hnSortCol, asc: hnSortAsc }),
-  (c, a) => { hnSortCol = c; hnSortAsc = a; },
-  hnRender
+makeSorter("top-table",
+  () => ({ col: topSortCol, asc: topSortAsc }),
+  (c, a) => { topSortCol = c; topSortAsc = a; },
+  topRender
 );
 
-document.getElementById("hn-points").addEventListener("click", e => {
-  const b = e.target.closest("button"); if (!b) return;
-  hnMinPts = +b.dataset.pts;
-  document.querySelectorAll("#hn-points button").forEach(x => x.classList.remove("active"));
-  b.classList.add("active"); hnRender();
-});
-document.getElementById("hn-days").addEventListener("click", e => {
-  const b = e.target.closest("button"); if (!b) return;
-  hnDays = +b.dataset.days;
-  document.querySelectorAll("#hn-days button").forEach(x => x.classList.remove("active"));
-  b.classList.add("active"); hnRender();
-});
-document.getElementById("hn-search").addEventListener("input", e => { hnSearch = e.target.value.toLowerCase().trim(); hnRender(); });
+bindBtnGroup("top-rank", d => { topRank = d.rank; topRender(); });
+bindToggle("top-contact-toggle", v => { topContactOnly = v; topRender(); });
+document.getElementById("top-search").addEventListener("input", e => { topSearch = e.target.value.toLowerCase().trim(); topRender(); });
+
+// ════════════════════════════════════════════════════════
+// TAB 4 — Seed Funding
+// ════════════════════════════════════════════════════════
+let seedArticles = [], seedSortCol = "pub_date", seedSortAsc = false;
+let seedSource = "all", seedSearch = "", seedContactOnly = false;
+
+function seedFilter() {
+  return seedArticles.filter(a => {
+    if (seedSource !== "all" && a.source !== seedSource) return false;
+    if (seedContactOnly && !hasContact(a)) return false;
+    if (seedSearch) {
+      const hay = [a.company, a.title, a.source].filter(Boolean).join(" ").toLowerCase();
+      if (!hay.includes(seedSearch)) return false;
+    }
+    return true;
+  }).sort((a, b) => {
+    let av = a[seedSortCol] ?? "", bv = b[seedSortCol] ?? "";
+    if (av < bv) return seedSortAsc ? -1 : 1;
+    if (av > bv) return seedSortAsc ? 1 : -1;
+    return 0;
+  });
+}
+
+function seedRenderRow(a) {
+  const days = a.pub_date ? daysAgo(a.pub_date) : null;
+  const dateBadge = days != null ? urgencyBadge(days) : `<span class="muted">—</span>`;
+  const src = esc(a.source||"—");
+  const company = a.company
+    ? `<span class="link-name" style="cursor:default">${esc(a.company)}</span>`
+    : `<span class="muted">—</span>`;
+  const headlineLink = a.article_url
+    ? `<a class="action-link" href="${esc(a.article_url)}" target="_blank" rel="noopener" style="max-width:260px;display:inline-block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap" title="${esc(a.title)}">${esc(a.title||"Read article")}</a>`
+    : esc(a.title||"—");
+  const siteLink = a.website ? `<a class="action-link" href="${esc(a.website)}" target="_blank" rel="noopener">Site</a>` : "";
+  const amount = a.amount_str ? `<span class="badge badge-green">${esc(a.amount_str)}</span>` : '<span class="muted">—</span>';
+
+  // Contact cell: override liSearch label with company name
+  const liUrl = a.linkedin_url
+    ? a.linkedin_url
+    : liSearch((a.company||a.title||"")+" startup");
+  const liLink = a.linkedin_url
+    ? `<a class="action-link hi-blue" href="${esc(a.linkedin_url)}" target="_blank" rel="noopener">LinkedIn</a>`
+    : `<a class="action-link" href="${esc(liUrl)}" target="_blank" rel="noopener">LI search</a>`;
+  const emailLink = a.contact_email
+    ? `<a class="action-link hi-green" href="mailto:${esc(a.contact_email)}" title="${esc(a.contact_email)}">${esc(a.contact_email)}</a>`
+    : "";
+  const contact = `<div style="display:flex;flex-direction:column;gap:4px">${liLink}${emailLink}</div>`;
+
+  return `<tr>
+    <td>${company}</td>
+    <td>${amount}</td>
+    <td>${dateBadge}</td>
+    <td><span class="chip">${src}</span></td>
+    <td style="max-width:260px">${headlineLink}</td>
+    <td>${contact}</td>
+    <td><span class="action-links">${siteLink}</span></td>
+  </tr>`;
+}
+
+function seedRender() {
+  const rows = seedFilter();
+  const enriched = seedArticles.filter(hasContact).length;
+  document.getElementById("seed-stats").innerHTML =
+    `Showing <span>${rows.length}</span> of <span>${seedArticles.length}</span> articles · <span>${enriched}</span> with contact info`;
+  showTable("seed-table","seed-loading","seed-empty","seed-tbody", rows.map(seedRenderRow));
+}
+
+makeSorter("seed-table",
+  () => ({ col: seedSortCol, asc: seedSortAsc }),
+  (c, a) => { seedSortCol = c; seedSortAsc = a; },
+  seedRender
+);
+
+bindBtnGroup("seed-source", d => { seedSource = d.source; seedRender(); });
+bindToggle("seed-contact-toggle", v => { seedContactOnly = v; seedRender(); });
+document.getElementById("seed-search").addEventListener("input", e => { seedSearch = e.target.value.toLowerCase().trim(); seedRender(); });
 
 // ════════════════════════════════════════════════════════
 // Data loading
@@ -880,28 +871,12 @@ function setCount(id, n) {
 }
 
 async function loadAll() {
-  // Load all three in parallel
-  const [fdRes, ycRes, crRes, hnRes] = await Promise.allSettled([
-    fetch("./data/leads.json").then(r => r.json()),
+  const [ycRes, crRes, topRes, seedRes] = await Promise.allSettled([
     fetch("./data/yc.json").then(r => r.json()),
     fetch("./data/crypto.json").then(r => r.json()),
-    fetch("./data/hn.json").then(r => r.json()),
+    fetch("./data/crypto_top.json").then(r => r.json()),
+    fetch("./data/seed.json").then(r => r.json()),
   ]);
-
-  // ── Form D ────────────────────────────────────────────
-  if (fdRes.status === "fulfilled") {
-    const data = fdRes.value;
-    fdLeads = data.leads || [];
-    setCount("count-formd", fdLeads.length);
-    document.getElementById("fd-loading").style.display = "none";
-    // Populate industry dropdown
-    const industries = [...new Set(fdLeads.map(l => l.industry||"").filter(Boolean))].sort();
-    const sel = document.getElementById("fd-industry");
-    industries.forEach(i => { const o = document.createElement("option"); o.value = i; o.textContent = i; sel.appendChild(o); });
-    fdRender();
-  } else {
-    document.getElementById("fd-loading").innerHTML = `<span style="color:var(--red)">Failed to load Form D data</span>`;
-  }
 
   // ── YC ────────────────────────────────────────────────
   if (ycRes.status === "fulfilled") {
@@ -909,16 +884,16 @@ async function loadAll() {
     ycCompanies = data.companies || [];
     setCount("count-yc", ycCompanies.length);
     document.getElementById("yc-loading").style.display = "none";
-    // Populate YC industry dropdown
     const inds = [...new Set(ycCompanies.flatMap(c => c.industries||[]).filter(Boolean))].sort();
     const ySel = document.getElementById("yc-industry");
     inds.forEach(i => { const o = document.createElement("option"); o.value = i; o.textContent = i; ySel.appendChild(o); });
     ycRender();
   } else {
     document.getElementById("yc-loading").innerHTML = `<span style="color:var(--red)">Failed to load YC data — run fetch_yc.py</span>`;
+    setCount("count-yc", 0);
   }
 
-  // ── Crypto ────────────────────────────────────────────
+  // ── Crypto Signals ───────────────────────────────────
   if (crRes.status === "fulfilled") {
     const data = crRes.value;
     const defi = (data.defi_protocols || []).map(p => ({ ...p, source: "defillama" }));
@@ -929,23 +904,42 @@ async function loadAll() {
     crRender();
   } else {
     document.getElementById("cr-loading").innerHTML = `<span style="color:var(--red)">Failed to load crypto data — run fetch_crypto.py</span>`;
+    setCount("count-crypto", 0);
   }
 
-  // ── Show HN ──────────────────────────────────────────
-  if (hnRes.status === "fulfilled") {
-    const data = hnRes.value;
-    hnPosts = data.posts || [];
-    setCount("count-hn", hnPosts.length);
-    document.getElementById("hn-loading").style.display = "none";
-    hnRender();
+  // ── Top 1000 MCap ─────────────────────────────────────
+  if (topRes.status === "fulfilled") {
+    const data = topRes.value;
+    topCoins = data.coins || [];
+    setCount("count-top", topCoins.length);
+    document.getElementById("top-loading").style.display = "none";
+    topRender();
   } else {
-    document.getElementById("hn-loading").innerHTML = `<span style="color:var(--red)">Failed to load HN data — run fetch_hn.py</span>`;
+    document.getElementById("top-loading").innerHTML = `<span style="color:var(--red)">Failed to load top MCap data — run fetch_crypto_top.py</span>`;
+    setCount("count-top", 0);
+  }
+
+  // ── Seed Funding ──────────────────────────────────────
+  if (seedRes.status === "fulfilled") {
+    const data = seedRes.value;
+    seedArticles = data.articles || [];
+    setCount("count-seed", seedArticles.length);
+    document.getElementById("seed-loading").style.display = "none";
+    seedRender();
+  } else {
+    document.getElementById("seed-loading").innerHTML = `<span style="color:var(--red)">Failed to load seed data — run fetch_seed.py</span>`;
+    setCount("count-seed", 0);
   }
 
   // ── Header meta ───────────────────────────────────────
-  const genAt = fdRes.status === "fulfilled" && fdRes.value.generated_at
-    ? new Date(fdRes.value.generated_at).toLocaleString() : "unknown";
-  document.getElementById("header-meta").textContent = `Updated ${genAt}`;
+  const anyTs = [ycRes, crRes, topRes, seedRes]
+    .find(r => r.status === "fulfilled" && r.value.generated_at);
+  if (anyTs) {
+    document.getElementById("header-meta").textContent =
+      `Updated ${new Date(anyTs.value.generated_at).toLocaleString()}`;
+  } else {
+    document.getElementById("header-meta").textContent = "Data not yet generated";
+  }
 }
 
 loadAll();
