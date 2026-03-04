@@ -1798,5 +1798,29 @@
     "linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "kaito": {
+    "website": "https://yaps.kaito.ai/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "chutes": {
+    "website": "https://chutes.ai/",
+    "linkedin_url": "",
+    "contact_email": "service@deepseek.com",
+    "twitter_url": "https://x.com/phone"
+  },
+  "centrifuge-2": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "toshi": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }

@@ -543,5 +543,65 @@
     "linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "zest-v2": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/zestprotocol"
+  },
+  "egas-swap": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "liquidswap": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "termmax": {
+    "linkedin_url": "https://linkedin.com/company/term-structure",
+    "contact_email": "info@ts.financ",
+    "twitter_url": "https://x.com/TermMaxFi"
+  },
+  "gauntlet": {
+    "linkedin_url": "https://linkedin.com/company/gauntlet-xyz",
+    "contact_email": "",
+    "twitter_url": "https://x.com/gauntlet_xyz"
+  },
+  "kava-liquid": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "kava-earn": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "extra-finance-vaults": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "hybra-v3": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "morpho-v1": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "lombard-vaults": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "kpk": {
+    "linkedin_url": "https://linkedin.com/company/kpk-io",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ethereumJoseph"
   }
 }
