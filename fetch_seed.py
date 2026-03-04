@@ -5,6 +5,7 @@ Sources:
   1. TechCrunch  — https://techcrunch.com/feed/
   2. VentureBeat — https://venturebeat.com/feed/
   3. Crunchbase News — https://news.crunchbase.com/feed/
+  4-8. Google Alerts — real-time seed funding mentions across the web
 
 Filters articles that mention "seed" in the title, then:
   - Extracts company name and funding amount from headline
@@ -38,6 +39,12 @@ RSS_FEEDS = [
     {"name": "TechCrunch", "url": "https://techcrunch.com/feed/"},
     {"name": "VentureBeat", "url": "https://venturebeat.com/feed/"},
     {"name": "Crunchbase News", "url": "https://news.crunchbase.com/feed/"},
+    # Google Alerts — real-time seed funding mentions across the entire web
+    {"name": "Google Alerts", "url": "https://www.google.com/alerts/feeds/07102744851571677176/16829063131072156401"},
+    {"name": "Google Alerts", "url": "https://www.google.com/alerts/feeds/07102744851571677176/13906430425197458915"},
+    {"name": "Google Alerts", "url": "https://www.google.com/alerts/feeds/07102744851571677176/18171680575817386135"},
+    {"name": "Google Alerts", "url": "https://www.google.com/alerts/feeds/07102744851571677176/17815328040355875702"},
+    {"name": "Google Alerts", "url": "https://www.google.com/alerts/feeds/07102744851571677176/18059503186406661259"},
 ]
 
 FETCH_TIMEOUT = 20
@@ -109,8 +116,27 @@ def fetch_rss(feed_url: str, source_name: str) -> list[dict]:
                 el = item.find(f"{{http://www.w3.org/2005/Atom}}{tag}")
             return (el.text or "").strip() if el is not None else ""
 
+        def get_link():
+            # RSS 2.0: <link>url</link>
+            el = item.find("link")
+            if el is not None and el.text:
+                return el.text.strip()
+            # Atom: <link href="url"/> or <atom:link href="url"/>
+            for ns in ["", "{http://www.w3.org/2005/Atom}"]:
+                el = item.find(f"{ns}link")
+                if el is not None:
+                    href = el.get("href", "")
+                    if href:
+                        # Google Alerts wraps URLs — extract real URL
+                        m = re.search(r'url=([^&]+)', href)
+                        if m:
+                            from urllib.parse import unquote
+                            return unquote(m.group(1))
+                        return href
+            return ""
+
         title = get_text("title")
-        link = get_text("link")
+        link = get_link()
         pub_date_raw = get_text("pubDate") or get_text("published") or get_text("updated")
         description = get_text("description") or get_text("summary")
 
