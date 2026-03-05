@@ -444,12 +444,20 @@
     </div>
     <div class="filter-group">
       <label>Source</label>
-      <div class="btn-group" id="seed-source">
-        <button data-source="all" class="active">All</button>
-        <button data-source="TechCrunch">TechCrunch</button>
-        <button data-source="VentureBeat">VentureBeat</button>
-        <button data-source="Crunchbase News">Crunchbase</button>
-      </div>
+      <select id="seed-source">
+        <option value="">All sources</option>
+        <option value="TechCrunch">TechCrunch</option>
+        <option value="VentureBeat">VentureBeat</option>
+        <option value="Crunchbase News">Crunchbase News</option>
+        <option value="tech.eu">tech.eu</option>
+        <option value="BetaKit">BetaKit</option>
+        <option value="SiliconAngle">SiliconAngle</option>
+        <option value="GeekWire">GeekWire</option>
+        <option value="The Next Web">The Next Web</option>
+        <option value="PR Newswire">PR Newswire</option>
+        <option value="StartupNation">StartupNation</option>
+        <option value="Google Alerts">Google Alerts</option>
+      </select>
     </div>
     <div class="filter-group">
       <button class="toggle-btn" id="seed-contact-toggle">Has Contact</button>
@@ -790,11 +798,11 @@ document.getElementById("top-search").addEventListener("input", e => { topSearch
 // TAB 4 — Seed Funding
 // ════════════════════════════════════════════════════════
 let seedArticles = [], seedSortCol = "pub_date", seedSortAsc = false;
-let seedSource = "all", seedSearch = "", seedContactOnly = false;
+let seedSource = "", seedSearch = "", seedContactOnly = false;
 
 function seedFilter() {
   return seedArticles.filter(a => {
-    if (seedSource !== "all" && a.source !== seedSource) return false;
+    if (seedSource && a.source !== seedSource) return false;
     if (seedContactOnly && !hasContact(a)) return false;
     if (seedSearch) {
       const hay = [a.company, a.title, a.source].filter(Boolean).join(" ").toLowerCase();
@@ -859,7 +867,7 @@ makeSorter("seed-table",
   seedRender
 );
 
-bindBtnGroup("seed-source", d => { seedSource = d.source; seedRender(); });
+document.getElementById("seed-source").addEventListener("change", e => { seedSource = e.target.value; seedRender(); });
 bindToggle("seed-contact-toggle", v => { seedContactOnly = v; seedRender(); });
 document.getElementById("seed-search").addEventListener("input", e => { seedSearch = e.target.value.toLowerCase().trim(); seedRender(); });
 

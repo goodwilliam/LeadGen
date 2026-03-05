@@ -39,6 +39,13 @@ RSS_FEEDS = [
     {"name": "TechCrunch", "url": "https://techcrunch.com/feed/"},
     {"name": "VentureBeat", "url": "https://venturebeat.com/feed/"},
     {"name": "Crunchbase News", "url": "https://news.crunchbase.com/feed/"},
+    {"name": "tech.eu", "url": "https://tech.eu/feed/"},
+    {"name": "BetaKit", "url": "https://betakit.com/feed/"},
+    {"name": "SiliconAngle", "url": "https://siliconangle.com/feed/"},
+    {"name": "GeekWire", "url": "https://www.geekwire.com/feed/"},
+    {"name": "The Next Web", "url": "https://thenextweb.com/feed/"},
+    {"name": "PR Newswire", "url": "https://www.prnewswire.com/rss/news-releases-list.rss"},
+    {"name": "StartupNation", "url": "https://startupnation.com/feed/"},
     # Google Alerts — pre-filtered by Google for seed funding terms
     {"name": "Google Alerts", "url": "https://www.google.com/alerts/feeds/07102744851571677176/16829063131072156401", "pre_filtered": True},
     {"name": "Google Alerts", "url": "https://www.google.com/alerts/feeds/07102744851571677176/13906430425197458915", "pre_filtered": True},
