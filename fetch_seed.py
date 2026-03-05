@@ -39,12 +39,12 @@ RSS_FEEDS = [
     {"name": "TechCrunch", "url": "https://techcrunch.com/feed/"},
     {"name": "VentureBeat", "url": "https://venturebeat.com/feed/"},
     {"name": "Crunchbase News", "url": "https://news.crunchbase.com/feed/"},
-    # Google Alerts — real-time seed funding mentions across the entire web
-    {"name": "Google Alerts", "url": "https://www.google.com/alerts/feeds/07102744851571677176/16829063131072156401"},
-    {"name": "Google Alerts", "url": "https://www.google.com/alerts/feeds/07102744851571677176/13906430425197458915"},
-    {"name": "Google Alerts", "url": "https://www.google.com/alerts/feeds/07102744851571677176/18171680575817386135"},
-    {"name": "Google Alerts", "url": "https://www.google.com/alerts/feeds/07102744851571677176/17815328040355875702"},
-    {"name": "Google Alerts", "url": "https://www.google.com/alerts/feeds/07102744851571677176/18059503186406661259"},
+    # Google Alerts — pre-filtered by Google for seed funding terms
+    {"name": "Google Alerts", "url": "https://www.google.com/alerts/feeds/07102744851571677176/16829063131072156401", "pre_filtered": True},
+    {"name": "Google Alerts", "url": "https://www.google.com/alerts/feeds/07102744851571677176/13906430425197458915", "pre_filtered": True},
+    {"name": "Google Alerts", "url": "https://www.google.com/alerts/feeds/07102744851571677176/18171680575817386135", "pre_filtered": True},
+    {"name": "Google Alerts", "url": "https://www.google.com/alerts/feeds/07102744851571677176/17815328040355875702", "pre_filtered": True},
+    {"name": "Google Alerts", "url": "https://www.google.com/alerts/feeds/07102744851571677176/18059503186406661259", "pre_filtered": True},
 ]
 
 FETCH_TIMEOUT = 20
@@ -83,7 +83,12 @@ def save_cache(cache: dict):
 
 # ── RSS fetching ──────────────────────────────────────────────────────────────
 
-def fetch_rss(feed_url: str, source_name: str) -> list[dict]:
+SEED_KEYWORDS = re.compile(
+    r'\bseed\b|\bpre.?seed\b|\braises?\b|\bfunding\b|\binvest',
+    re.IGNORECASE
+)
+
+def fetch_rss(feed_url: str, source_name: str, pre_filtered: bool = False) -> list[dict]:
     """Fetch and parse an RSS feed, returning seed-related articles."""
     print(f"  Fetching {source_name}...")
     try:
@@ -143,9 +148,12 @@ def fetch_rss(feed_url: str, source_name: str) -> list[dict]:
         if not title or not link:
             continue
 
-        # Filter: must mention "seed" in title
-        if not re.search(r'\bseed\b', title, re.IGNORECASE):
-            continue
+        # Google Alerts feeds are pre-filtered by Google — accept all
+        # For general feeds, check title OR description for seed/funding keywords
+        if not pre_filtered:
+            haystack = title + " " + description
+            if not SEED_KEYWORDS.search(haystack):
+                continue
 
         # Parse date
         try:
@@ -389,7 +397,7 @@ def main():
     seen_urls = set()
 
     for feed in RSS_FEEDS:
-        articles = fetch_rss(feed["url"], feed["name"])
+        articles = fetch_rss(feed["url"], feed["name"], pre_filtered=feed.get("pre_filtered", False))
         for a in articles:
             if a["article_url"] not in seen_urls:
                 seen_urls.add(a["article_url"])
