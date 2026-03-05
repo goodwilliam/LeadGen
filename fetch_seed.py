@@ -21,11 +21,11 @@ Output: data/seed.json
 import json
 import re
 import time
-import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import urlparse, unquote
 
+import feedparser
 import requests
 
 CONTACT_EMAIL = "something123@gmail.com"
@@ -43,7 +43,7 @@ RSS_FEEDS = [
     {"name": "BetaKit", "url": "https://betakit.com/feed/"},
     {"name": "SiliconAngle", "url": "https://siliconangle.com/feed/"},
     {"name": "GeekWire", "url": "https://www.geekwire.com/feed/"},
-    {"name": "The Next Web", "url": "https://thenextweb.com/feed/"},
+    {"name": "PR Newswire", "url": "https://www.prnewswire.com/rss/news-releases-list.rss"},
     {"name": "PR Newswire", "url": "https://www.prnewswire.com/rss/news-releases-list.rss"},
     {"name": "StartupNation", "url": "https://startupnation.com/feed/"},
     # Google Alerts — pre-filtered by Google for seed funding terms
@@ -95,80 +95,67 @@ SEED_KEYWORDS = re.compile(
     re.IGNORECASE
 )
 
+
+def extract_google_url(url: str) -> str:
+    """Unwrap Google Alerts redirect URLs to get the real article URL."""
+    m = re.search(r'url=([^&]+)', url)
+    return unquote(m.group(1)) if m else url
+
+
 def fetch_rss(feed_url: str, source_name: str, pre_filtered: bool = False) -> list[dict]:
-    """Fetch and parse an RSS feed, returning seed-related articles."""
+    """Fetch and parse an RSS/Atom feed using feedparser (handles malformed XML)."""
     print(f"  Fetching {source_name}...")
     try:
-        r = requests.get(
+        feed = feedparser.parse(
             feed_url,
-            headers={"User-Agent": USER_AGENT},
-            timeout=FETCH_TIMEOUT,
+            request_headers={"User-Agent": USER_AGENT},
         )
-        r.raise_for_status()
-        raw = r.text
-    except requests.RequestException as e:
+    except Exception as e:
         print(f"    Error: {e}")
         return []
 
-    try:
-        root = ET.fromstring(raw)
-    except ET.ParseError as e:
-        print(f"    Parse error: {e}")
+    if feed.bozo and not feed.entries:
+        print(f"    Parse error: {feed.bozo_exception}")
         return []
 
     articles = []
-    # Handle both RSS 2.0 and Atom
-    channel = root.find("channel")
-    items = channel.findall("item") if channel is not None else root.findall(".//{http://www.w3.org/2005/Atom}entry")
+    for entry in feed.entries:
+        title = entry.get("title", "").strip()
 
-    for item in items:
-        def get_text(tag):
-            el = item.find(tag)
-            if el is None:
-                el = item.find(f"{{http://www.w3.org/2005/Atom}}{tag}")
-            return (el.text or "").strip() if el is not None else ""
+        # Get link — handle Google Alerts redirect
+        link = entry.get("link", "")
+        if "google.com/url" in link or "google.com/alerts" in link:
+            link = extract_google_url(link)
 
-        def get_link():
-            # RSS 2.0: <link>url</link>
-            el = item.find("link")
-            if el is not None and el.text:
-                return el.text.strip()
-            # Atom: <link href="url"/> or <atom:link href="url"/>
-            for ns in ["", "{http://www.w3.org/2005/Atom}"]:
-                el = item.find(f"{ns}link")
-                if el is not None:
-                    href = el.get("href", "")
-                    if href:
-                        # Google Alerts wraps URLs — extract real URL
-                        m = re.search(r'url=([^&]+)', href)
-                        if m:
-                            from urllib.parse import unquote
-                            return unquote(m.group(1))
-                        return href
-            return ""
+        # feedparser also exposes links list for Atom
+        if not link:
+            for lk in entry.get("links", []):
+                href = lk.get("href", "")
+                if href:
+                    link = extract_google_url(href) if "google.com" in href else href
+                    break
 
-        title = get_text("title")
-        link = get_link()
-        pub_date_raw = get_text("pubDate") or get_text("published") or get_text("updated")
-        description = get_text("description") or get_text("summary")
+        description = entry.get("summary", "") or entry.get("content", [{}])[0].get("value", "")
+        # Strip HTML tags from description
+        description = re.sub(r'<[^>]+>', ' ', description)
+
+        pub_date_raw = entry.get("published", "") or entry.get("updated", "")
 
         if not title or not link:
             continue
 
-        # Google Alerts feeds are pre-filtered by Google — accept all
-        # For general feeds, check title OR description for seed/funding keywords
+        # Google Alerts feeds are pre-filtered — accept all
+        # For general feeds, check title + description for funding keywords
         if not pre_filtered:
             haystack = title + " " + description
             if not SEED_KEYWORDS.search(haystack):
                 continue
 
-        # Parse date
         try:
             pub_date = parse_date(pub_date_raw)
         except Exception:
             pub_date = ""
 
-        # Parse company name and amount from headline
         company_name, amount_str = parse_headline(title)
 
         articles.append({
