@@ -1,9 +1,9 @@
-name: Update Leads
+name: Update Seed Funding
 
 on:
   schedule:
     - cron: "0 9 * * *"   # 9 AM UTC daily
-  workflow_dispatch:        # allow manual trigger from Actions tab
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -23,15 +23,6 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Fetch YC companies
-        run: python fetch_yc.py
-
-      - name: Fetch crypto signals
-        run: python fetch_crypto.py
-
-      - name: Fetch top 1000 MCap crypto
-        run: python fetch_crypto_top.py
-
       - name: Fetch seed funding news
         run: python fetch_seed.py
 
@@ -40,11 +31,11 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
+          git add data/seed.json data/seed_enrichment_cache.json
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "chore: update leads $(date -u +%Y-%m-%d)"
-            git pull --rebase origin main
+            git commit -m "chore: update seed funding $(date -u +%Y-%m-%d)"
+            git pull --rebase -X theirs origin main || true
             git push
           fi
