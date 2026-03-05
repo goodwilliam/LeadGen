@@ -956,6 +956,9 @@
     "contact_email": "",
     "twitter_url": ""
   },
+  "https://venturebeat.com/technology/openai-launches-gpt-5-4-with-native-computer-use-mode-financial-plugins-for": {
+    "valid": false
+  },
   "https://tech.eu/2026/03/05/validio-closes-30m-series-a-to-address-enterprise-sata-quality-challenges/": {
     "valid": true,
     "company": "Validio",
@@ -964,6 +967,15 @@
     "linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/ex-memora-health-ceo-manav-sevak-launches-novitas-holdings-following-commure-acquisition-302705739.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/consumers-energy-foundation-to-award-50-000-for-three-small-towns-in-put-your-town-on-the-map-competition-302705682.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/westpac-to-change-the-format-of-its-long-term-usd-funding-302705723.html": {
+    "valid": false
   },
   "https://www.prnewswire.com/news-releases/meitav-investment-house-to-report-fourth-quarter-and-full-year-2025-financial-results-and-hold-a-conference-call-on-thursday-march-19-2026-302705714.html": {
     "valid": false
