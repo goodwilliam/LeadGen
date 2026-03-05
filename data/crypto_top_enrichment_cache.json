@@ -1822,5 +1822,35 @@
     "linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "exod": {
+    "website": "https://www.exodus.com/",
+    "linkedin_url": "https://linkedin.com/company/exodus-io",
+    "contact_email": "support@exodus.com",
+    "twitter_url": "https://x.com/exodus"
+  },
+  "mantra": {
+    "website": "https://mantrachain.io/",
+    "linkedin_url": "https://linkedin.com/company/mantrachain",
+    "contact_email": "marketing@mantrachain.io",
+    "twitter_url": "https://x.com/MANTRA_Chain"
+  },
+  "grx-chain": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "unibase": {
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "edu-coin": {
+    "website": "https://www.opencampus.xyz/",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }

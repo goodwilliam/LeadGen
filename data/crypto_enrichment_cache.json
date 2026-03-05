@@ -603,5 +603,90 @@
     "linkedin_url": "https://linkedin.com/company/kpk-io",
     "contact_email": "",
     "twitter_url": "https://x.com/ethereumJoseph"
+  },
+  "compound-v1": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "ufarm-digital": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/UFarmDigital"
+  },
+  "the-vault-unstake-pool": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "stellar-dex": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "pharaoh-v3-legacy": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "maxshot": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "yo-protocol": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "defituna-liquidity": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "powercity-flex-protocol": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "flat-money-v2": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/0xflatmoney"
+  },
+  "brotocol": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "mooncake": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "helix-perp": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "aave-aptos": {
+    "linkedin_url": "https://linkedin.com/company/aavelabs",
+    "contact_email": "ronnie@aave.com",
+    "twitter_url": "https://x.com/aave"
+  },
+  "pulsex-v2": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "alphalend": {
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "euler-dao": {
+    "linkedin_url": "",
+    "contact_email": "support@k3.capita",
+    "twitter_url": ""
   }
 }
