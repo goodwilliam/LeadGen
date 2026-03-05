@@ -1,16 +1,13 @@
 """
 fetch_seed.py — Fetches seed funding news from RSS feeds for design agency lead gen.
 
-Sources:
-  1-9. Tech RSS feeds (TechCrunch, VentureBeat, Crunchbase, tech.eu, etc.)
-  10-14. Google Alerts — real-time seed funding mentions across the web
-
 For each article:
-  1. Validates via Jina AI reader that it's an actual funding raise (not roundup/analysis)
-  2. Extracts company name + amount from clean article text
-  3. Scrapes company website for LinkedIn + contact email
-  4. Deduplicates by company name
-  5. Filters out large well-known companies
+  1. Validates via Jina AI reader that it's an actual funding raise
+  2. Extracts company name, amount, and founder/CEO name from clean text
+  3. Finds company website (article links → DuckDuckGo fallback)
+  4. Finds company LinkedIn (website scrape → DuckDuckGo fallback)
+  5. Finds founder LinkedIn via DuckDuckGo
+  6. Deduplicates by company name, filters large known companies
 
 Uses a cache so each article is only processed once.
 
@@ -23,10 +20,18 @@ import re
 import time
 from datetime import datetime
 from pathlib import Path
-from urllib.parse import urlparse, unquote
+from urllib.parse import urlparse, unquote, quote
 
 import feedparser
 import requests
+
+try:
+    from playwright.sync_api import sync_playwright
+    from playwright_stealth import Stealth
+    PLAYWRIGHT_AVAILABLE = True
+except ImportError:
+    PLAYWRIGHT_AVAILABLE = False
+    print("  Warning: playwright not installed — DDG fallback disabled")
 
 CONTACT_EMAIL = "something123@gmail.com"
 USER_AGENT = f"DesignAgencyLeadGen/1.0 ({CONTACT_EMAIL})"
@@ -58,8 +63,9 @@ ARTICLE_TIMEOUT = 10
 ENRICH_TIMEOUT = 5
 JINA_TIMEOUT = 15
 SLEEP_BETWEEN = 0.3
+DDG_SLEEP = 1.5  # polite delay between DuckDuckGo searches
 
-# Well-known large companies — not our target clients (seed/pre-seed startups)
+# Well-known large companies — not our target clients
 LARGE_COMPANY_BLACKLIST = {
     "openai", "anthropic", "nvidia", "google", "microsoft", "amazon", "apple",
     "meta", "tesla", "spacex", "uber", "airbnb", "stripe", "palantir", "salesforce",
@@ -77,7 +83,7 @@ NEWS_DOMAINS = {
     "ft.com", "economist.com", "inc.com", "fortune.com", "fastcompany.com",
     "twitter.com", "x.com", "linkedin.com", "facebook.com", "youtube.com",
     "instagram.com", "t.co", "bit.ly", "tinyurl.com", "ow.ly",
-    "gmpg.org",  # WordPress XFN metadata link — not a company site
+    "gmpg.org",
 }
 
 
@@ -99,34 +105,92 @@ def save_cache(cache: dict):
         json.dump(cache, f, indent=2)
 
 
+# ── Playwright / DuckDuckGo ───────────────────────────────────────────────────
+
+_playwright_ctx = None
+_browser = None
+
+
+def get_browser():
+    global _playwright_ctx, _browser
+    if not PLAYWRIGHT_AVAILABLE:
+        return None
+    if _browser is None:
+        print("  Starting browser...")
+        _playwright_ctx = sync_playwright().start()
+        Stealth().hook_playwright_context(_playwright_ctx)
+        _browser = _playwright_ctx.chromium.launch(headless=True)
+    return _browser
+
+
+def close_browser():
+    global _playwright_ctx, _browser
+    if _browser:
+        try:
+            _browser.close()
+            _playwright_ctx.stop()
+        except Exception:
+            pass
+        _browser = None
+        _playwright_ctx = None
+
+
+def ddg_search(query: str, want_domain: str = None) -> str:
+    """Search DuckDuckGo, return first result URL matching want_domain (if given)."""
+    browser = get_browser()
+    if not browser:
+        return ""
+    page = browser.new_page()
+    try:
+        page.goto(
+            f"https://duckduckgo.com/?q={quote(query)}&ia=web",
+            wait_until="networkidle",
+            timeout=15000,
+        )
+        time.sleep(DDG_SLEEP)
+        links = page.eval_on_selector_all("a[href]", "els => els.map(e => e.href)")
+        skip = {
+            "duckduckgo", "google", "bing", "microsoft", "youtube.com",
+            "twitter.com", "x.com", "facebook.com", "instagram.com",
+            "apple.com", "android", "play.google",
+        }
+        for link in links:
+            if not link.startswith("http"):
+                continue
+            if any(s in link for s in skip):
+                continue
+            if want_domain and want_domain not in link:
+                continue
+            return link.split("?")[0].rstrip("/")
+    except Exception as e:
+        print(f"    DDG error: {e}")
+    finally:
+        page.close()
+    return ""
+
+
 # ── RSS fetching ──────────────────────────────────────────────────────────────
 
 SEED_KEYWORDS = re.compile(
-    r'\bseed\b|\bpre.?seed\b|\braises?\b|\bfunding\b|\binvest',
-    re.IGNORECASE
+    r"\bseed\b|\bpre.?seed\b|\braises?\b|\bfunding\b|\binvest",
+    re.IGNORECASE,
 )
 
 
 def strip_html(text: str) -> str:
-    """Remove HTML tags and normalize whitespace."""
-    text = re.sub(r'<[^>]+>', ' ', text)
-    return re.sub(r'\s+', ' ', text).strip()
+    text = re.sub(r"<[^>]+>", " ", text)
+    return re.sub(r"\s+", " ", text).strip()
 
 
 def extract_google_url(url: str) -> str:
-    """Unwrap Google Alerts redirect URLs to get the real article URL."""
-    m = re.search(r'url=([^&]+)', url)
+    m = re.search(r"url=([^&]+)", url)
     return unquote(m.group(1)) if m else url
 
 
 def fetch_rss(feed_url: str, source_name: str, pre_filtered: bool = False) -> list[dict]:
-    """Fetch and parse an RSS/Atom feed using feedparser (handles malformed XML)."""
     print(f"  Fetching {source_name}...")
     try:
-        feed = feedparser.parse(
-            feed_url,
-            request_headers={"User-Agent": USER_AGENT},
-        )
+        feed = feedparser.parse(feed_url, request_headers={"User-Agent": USER_AGENT})
     except Exception as e:
         print(f"    Error: {e}")
         return []
@@ -139,12 +203,9 @@ def fetch_rss(feed_url: str, source_name: str, pre_filtered: bool = False) -> li
     for entry in feed.entries:
         title = strip_html(entry.get("title", "").strip())
 
-        # Get link — handle Google Alerts redirect
         link = entry.get("link", "")
         if "google.com/url" in link or "google.com/alerts" in link:
             link = extract_google_url(link)
-
-        # feedparser also exposes links list for Atom
         if not link:
             for lk in entry.get("links", []):
                 href = lk.get("href", "")
@@ -154,17 +215,13 @@ def fetch_rss(feed_url: str, source_name: str, pre_filtered: bool = False) -> li
 
         description = entry.get("summary", "") or entry.get("content", [{}])[0].get("value", "")
         description = strip_html(description)
-
         pub_date_raw = entry.get("published", "") or entry.get("updated", "")
 
         if not title or not link:
             continue
 
-        # Google Alerts feeds are pre-filtered — accept all
-        # For general feeds, check title + description for funding keywords
         if not pre_filtered:
-            haystack = title + " " + description
-            if not SEED_KEYWORDS.search(haystack):
+            if not SEED_KEYWORDS.search(title + " " + description):
                 continue
 
         try:
@@ -183,6 +240,8 @@ def fetch_rss(feed_url: str, source_name: str, pre_filtered: bool = False) -> li
             "pub_date": pub_date,
             "website": "",
             "linkedin_url": "",
+            "founder_name": "",
+            "founder_linkedin_url": "",
             "contact_email": "",
             "twitter_url": "",
         })
@@ -192,7 +251,6 @@ def fetch_rss(feed_url: str, source_name: str, pre_filtered: bool = False) -> li
 
 
 def parse_date(raw: str) -> str:
-    """Try to parse an RSS pubDate string to YYYY-MM-DD."""
     if not raw:
         return ""
     for fmt in [
@@ -206,139 +264,118 @@ def parse_date(raw: str) -> str:
             return datetime.strptime(raw.strip(), fmt).strftime("%Y-%m-%d")
         except ValueError:
             continue
-    m = re.search(r'(\d{4}-\d{2}-\d{2})', raw)
+    m = re.search(r"(\d{4}-\d{2}-\d{2})", raw)
     return m.group(1) if m else ""
 
 
-# ── Company name extraction from headlines ────────────────────────────────────
+# ── Headline parsing ──────────────────────────────────────────────────────────
 
 HEADLINE_PATTERNS = [
-    # "Company raises $Xm seed"
     re.compile(
-        r'^(?P<company>[A-Z][^,$\n]{2,50?}?)\s+(?:raises?|secures?|lands?|closes?|announces?|gets?)\s+\$(?P<amount>[\d.,]+\s*[MBKmb])',
-        re.IGNORECASE
+        r"^(?P<company>[A-Z][^,$\n]{2,50?}?)\s+(?:raises?|secures?|lands?|closes?|announces?|gets?)\s+\$(?P<amount>[\d.,]+\s*[MBKmb])",
+        re.IGNORECASE,
     ),
-    # "$Xm seed round for Company"
     re.compile(
-        r'^\$(?P<amount>[\d.,]+\s*[MBKmb])\s+seed\s+(?:round|funding)\s+for\s+(?P<company>[A-Z][^,\n]{2,40})',
-        re.IGNORECASE
+        r"^\$(?P<amount>[\d.,]+\s*[MBKmb])\s+seed\s+(?:round|funding)\s+for\s+(?P<company>[A-Z][^,\n]{2,40})",
+        re.IGNORECASE,
     ),
 ]
 
 STRIP_WORDS = re.compile(
-    r'\b(raises?|secures?|lands?|closes?|announces?|gets?|nabs?|bags?|wins?)\b.*$',
-    re.IGNORECASE
+    r"\b(raises?|secures?|lands?|closes?|announces?|gets?|nabs?|bags?|wins?)\b.*$",
+    re.IGNORECASE,
 )
 
-# Words that are descriptors/adjectives, not part of the company's proper name.
-# Used to strip prefixes like "Belgian logistics startup" from "Belgian logistics startup Vectrix".
 DESCRIPTOR_WORDS = {
-    # Articles / connectives
-    'a', 'an', 'the',
-    # Company type words
-    'startup', 'company', 'firm', 'platform', 'app', 'venture', 'scaleup', 'scale-up',
-    # Industry descriptors
-    'ai', 'saas', 'b2b', 'b2c', 'web3', 'crypto', 'defi', 'nft', 'blockchain',
-    'fintech', 'healthtech', 'edtech', 'proptech', 'insurtech', 'cleantech', 'deeptech',
-    'biotech', 'medtech', 'agtech', 'legaltech', 'regtech', 'logistics', 'ecommerce',
-    'cybersecurity', 'security', 'productivity', 'data', 'analytics', 'cloud',
-    'enterprise', 'consumer', 'mobile', 'gaming', 'media', 'tech', 'software',
-    'hardware', 'digital', 'social', 'global', 'open-source',
-    # Stage descriptors
-    'early-stage', 'early', 'stage', 'late',
-    # Geographic adjectives (lowercase = descriptor context)
-    'american', 'european', 'british', 'german', 'french', 'dutch', 'belgian',
-    'swedish', 'norwegian', 'finnish', 'danish', 'spanish', 'italian', 'portuguese',
-    'polish', 'indian', 'chinese', 'japanese', 'korean', 'singaporean', 'israeli',
-    'canadian', 'australian', 'nordic', 'african', 'latin', 'us', 'uk', 'eu',
-    'new',  # "new" is almost never part of a company name in this context
+    "a", "an", "the", "startup", "company", "firm", "platform", "app", "venture",
+    "ai", "saas", "b2b", "b2c", "web3", "crypto", "defi", "nft", "blockchain",
+    "fintech", "healthtech", "edtech", "proptech", "insurtech", "cleantech", "deeptech",
+    "biotech", "medtech", "agtech", "legaltech", "logistics", "ecommerce", "cybersecurity",
+    "security", "data", "analytics", "cloud", "enterprise", "consumer", "mobile",
+    "gaming", "media", "tech", "software", "hardware", "digital", "social", "global",
+    "early", "stage", "new",
+    "american", "european", "british", "german", "french", "dutch", "belgian",
+    "swedish", "norwegian", "finnish", "danish", "spanish", "italian", "portuguese",
+    "indian", "chinese", "japanese", "korean", "singaporean", "israeli",
+    "canadian", "australian", "nordic", "african", "us", "uk", "eu",
 }
 
 
 def clean_company_name(name: str) -> str:
-    """Strip leading descriptor words to isolate the actual company name.
-
-    e.g. "Belgian logistics startup Vectrix" → "Vectrix"
-         "AI-powered platform Acme Corp"     → "Acme Corp"
-         "OpenAI"                            → "OpenAI" (unchanged)
-    """
     name = name.strip().rstrip(",").strip()
     words = name.split()
     if len(words) <= 2:
-        return name  # Short enough to be correct as-is
-
-    # Walk forward and find the last descriptor word index
+        return name
     last_descriptor_idx = -1
     for i, word in enumerate(words):
-        w = word.lower().strip('.,;:-/()')
+        w = word.lower().strip(".,;:-/()")
         if w in DESCRIPTOR_WORDS:
             last_descriptor_idx = i
         else:
-            # Stop scanning at the first non-descriptor word
             break
-
     if last_descriptor_idx >= 0 and last_descriptor_idx < len(words) - 1:
-        candidate = ' '.join(words[last_descriptor_idx + 1:])
-        # Only accept if it starts with a capital letter (proper noun)
+        candidate = " ".join(words[last_descriptor_idx + 1:])
         if candidate and candidate[0].isupper():
             return candidate
-
     return name
 
 
 def parse_headline(title: str) -> tuple[str, str]:
-    """Extract (company_name, amount_str) from a funding headline."""
     for pattern in HEADLINE_PATTERNS:
         m = pattern.search(title)
         if m:
-            company = clean_company_name(m.group("company"))
-            amount = m.group("amount").strip()
-            return company, f"${amount}"
-    # Fallback: grab everything before the verb
+            return clean_company_name(m.group("company")), f"${m.group('amount').strip()}"
     m = STRIP_WORDS.search(title)
     if m:
         company = clean_company_name(title[:m.start()])
-        amt = re.search(r'\$[\d.,]+\s*[MBKmb]', title, re.IGNORECASE)
+        amt = re.search(r"\$[\d.,]+\s*[MBKmb]", title, re.IGNORECASE)
         return company, amt.group(0) if amt else ""
     return "", ""
 
 
-# ── Jina AI reader — article validation & better extraction ───────────────────
+# ── Jina AI reader ────────────────────────────────────────────────────────────
 
-# Confirms the article is about a specific company raising money
-# Allows a few words between the verb and amount/keyword
 RAISE_CONFIRM_RE = re.compile(
-    r'(?:raises?|raised|secures?|secured|closes?|closed|lands?|landed|bags?|bagged|nabs?|nabbed|wins?|won|announces?|announced)\s+'
-    r'(?:\w+\s+){0,4}?(?:\$[\d.,]+\s*[MmBbKk]|seed\s+(?:round|funding)|pre.?seed|funding\s+round|investment\s+round)',
-    re.IGNORECASE
+    r"(?:raises?|raised|secures?|secured|closes?|closed|lands?|landed|bags?|bagged|nabs?|nabbed|wins?|won|announces?|announced)\s+"
+    r"(?:\w+\s+){0,4}?(?:\$[\d.,]+\s*[MmBbKk]|seed\s+(?:round|funding)|pre.?seed|funding\s+round|investment\s+round)",
+    re.IGNORECASE,
 )
 
-# Signals the article is NOT a raise announcement
 NOT_RAISE_RE = re.compile(
-    r'\b(?:roundup|class\s+action|lawsuit|settlement|lays?\s*off|layoffs?|cuts?\s+jobs?|'
-    r'top\s+\d+\s+startups?|best\s+startups?|\d+\s+startups?\s+to\s+watch|'
-    r'weekly\s+(?:funding|roundup)|funding\s+roundup|monthly\s+(?:funding|roundup)|'
-    r'how\s+to\s+raise|what\s+investors\s+(?:want|look)|says?\s+(?:nvidia|openai|google|microsoft))\b',
-    re.IGNORECASE
+    r"\b(?:roundup|class\s+action|lawsuit|settlement|lays?\s*off|layoffs?|cuts?\s+jobs?|"
+    r"top\s+\d+\s+startups?|best\s+startups?|\d+\s+startups?\s+to\s+watch|"
+    r"weekly\s+(?:funding|roundup)|funding\s+roundup|monthly\s+(?:funding|roundup)|"
+    r"how\s+to\s+raise|what\s+investors\s+(?:want|look)|says?\s+(?:nvidia|openai|google|microsoft))\b",
+    re.IGNORECASE,
 )
 
-# Try to extract company name + amount from clean article text (Jina markdown)
 JINA_COMPANY_PATTERNS = [
-    # "[Company] has raised $X in seed funding" — start of sentence
     re.compile(
-        r'(?:^|\n|\. )(?P<company>[A-Z][A-Za-z0-9][A-Za-z0-9 \-]{0,35}?)\s+(?:has\s+)?(?:raised?|secured?|closed?)\s+\$(?P<amount>[\d.,]+\s*[MBKmb])',
-        re.MULTILINE
+        r"(?:^|\n|\. )(?P<company>[A-Z][A-Za-z0-9][A-Za-z0-9 \-]{0,35}?)\s+(?:has\s+)?(?:raised?|secured?|closed?)\s+\$(?P<amount>[\d.,]+\s*[MBKmb])",
+        re.MULTILINE,
     ),
-    # "[Company], a [descriptor], raised $X"
     re.compile(
-        r'(?:^|\n|\. )(?P<company>[A-Z][A-Za-z0-9][A-Za-z0-9 \-]{0,35}?),\s+[a-z][^.]{0,80}?,\s+(?:has\s+)?(?:raised?|secured?|closed?)\s+\$(?P<amount>[\d.,]+\s*[MBKmb])',
-        re.MULTILINE
+        r"(?:^|\n|\. )(?P<company>[A-Z][A-Za-z0-9][A-Za-z0-9 \-]{0,35}?),\s+[a-z][^.]{0,80}?,\s+(?:has\s+)?(?:raised?|secured?|closed?)\s+\$(?P<amount>[\d.,]+\s*[MBKmb])",
+        re.MULTILINE,
+    ),
+]
+
+# Extract founder/CEO name from article text
+FOUNDER_PATTERNS = [
+    # "Name, CEO/founder of Company"
+    re.compile(
+        r"(?P<name>[A-Z][a-z]+(?:\s+[A-Z][a-z]+)+),?\s+(?:the\s+)?(?:founder|co-?founder|CEO|chief\s+executive|CTO|president|managing\s+director)",
+        re.IGNORECASE,
+    ),
+    # "CEO/founder Name"
+    re.compile(
+        r"(?:founder|co-?founder|CEO|chief\s+executive|CTO|president)\s+(?:and\s+\w+\s+)?(?P<name>[A-Z][a-z]+(?:\s+[A-Z][a-z]+)+)",
+        re.IGNORECASE,
     ),
 ]
 
 
 def jina_fetch(url: str) -> str:
-    """Fetch clean article text via Jina AI reader (free, no auth required)."""
     try:
         r = requests.get(
             f"https://r.jina.ai/{url}",
@@ -346,33 +383,39 @@ def jina_fetch(url: str) -> str:
             timeout=JINA_TIMEOUT,
         )
         if r.status_code == 200:
-            return r.text[:10000]  # cap — enough for validation
+            return r.text[:10000]
     except Exception:
         pass
     return ""
 
 
-def validate_and_extract(article: dict, text: str) -> tuple[bool, str, str]:
-    """
-    Use Jina-fetched article text to:
-      1. Confirm this is an actual funding raise (not a roundup/analysis)
-      2. Extract a better company name and amount if possible
+def extract_founder_name(text: str) -> str:
+    """Extract founder or CEO name from article text."""
+    for pattern in FOUNDER_PATTERNS:
+        m = pattern.search(text)
+        if m:
+            name = m.group("name").strip()
+            # Sanity check: at least two words, not too long
+            words = name.split()
+            if 2 <= len(words) <= 4:
+                return name
+    return ""
 
-    Returns: (is_valid, company_name, amount_str)
-    If text is empty (Jina failed), keep the article and use existing values.
+
+def validate_and_extract(article: dict, text: str) -> tuple[bool, str, str, str]:
+    """
+    Validate article and extract company, amount, founder name from Jina text.
+    Returns: (is_valid, company, amount, founder_name)
     """
     if not text:
-        return True, article["company"], article["amount_str"]
+        return True, article["company"], article["amount_str"], ""
 
-    # Hard reject: looks like roundup, lawsuit, layoff news, etc.
     if NOT_RAISE_RE.search(text):
-        return False, "", ""
+        return False, "", "", ""
 
-    # Must contain raise language
     if not RAISE_CONFIRM_RE.search(text):
-        return False, "", ""
+        return False, "", "", ""
 
-    # Try to get a better company name from the clean text
     company = article["company"]
     amount = article["amount_str"]
 
@@ -386,15 +429,27 @@ def validate_and_extract(article: dict, text: str) -> tuple[bool, str, str]:
                     amount = f"${m.group('amount').strip()}"
                 break
 
-    return True, company, amount
+    founder_name = extract_founder_name(text)
+
+    return True, company, amount, founder_name
 
 
 # ── Article scraping for company website ─────────────────────────────────────
 
-def extract_company_website(article_url: str) -> str:
-    """Fetch article page, find a company website link (non-news domain)."""
+def extract_company_website(article_url: str, company_name: str = "") -> str:
+    """Scrape article page for a company website link.
+
+    Only returns a link if the company name appears in the domain —
+    this avoids picking up sponsor/event/utility links from the article page.
+    """
     if not article_url:
         return ""
+
+    article_domain = urlparse(article_url).netloc.lower().lstrip("www.")
+    skip_domains = NEWS_DOMAINS | {article_domain}
+    # Slug of company name for domain matching (e.g. "Roxfit" → "roxfit")
+    company_slug = re.sub(r"[^a-z0-9]", "", company_name.lower()) if company_name else ""
+
     try:
         r = requests.get(
             article_url,
@@ -414,15 +469,17 @@ def extract_company_website(article_url: str) -> str:
             domain = urlparse(href).netloc.lower().lstrip("www.")
         except Exception:
             continue
-        if any(domain == nd or domain.endswith("." + nd) for nd in NEWS_DOMAINS):
+        if any(domain == nd or domain.endswith("." + nd) for nd in skip_domains):
             continue
-        if re.search(r'(google|apple|android|play\.google|apps\.apple|github\.com/[^/]+/[^/]+(?:/|$))', href, re.I):
+        if re.search(r"(google|apple|android|play\.google|apps\.apple|github\.com/[^/]+/[^/]+(?:/|$))", href, re.I):
             continue
-        path = urlparse(href).path
-        if path.count("/") > 3:
+        if urlparse(href).path.count("/") > 3:
+            continue
+        # Only accept if company name appears in the domain (high confidence)
+        domain_clean = re.sub(r"[^a-z0-9]", "", domain)
+        if company_slug and company_slug[:5] not in domain_clean:
             continue
         return href.split("?")[0].rstrip("/")
-
     return ""
 
 
@@ -432,12 +489,11 @@ SKIP_EMAIL_PATTERNS = re.compile(
     r"noreply|no-reply|example\.|placeholder|@sentry|@github|\.png|\.jpg|\.svg",
     re.IGNORECASE,
 )
-
 CONTACT_PREFIXES = ["hello", "contact", "team", "hi", "gm", "info", "hey", "support"]
 
 
-def scrape_contacts(url: str) -> dict:
-    """Fetch a company website and extract LinkedIn, email, twitter."""
+def scrape_site(url: str) -> dict:
+    """Scrape company website for LinkedIn, email, Twitter."""
     result = {"linkedin_url": "", "contact_email": "", "twitter_url": ""}
     if not url:
         return result
@@ -452,15 +508,15 @@ def scrape_contacts(url: str) -> dict:
     except Exception:
         return result
 
-    li = re.search(r'linkedin\.com/company/([\w\-]+)', html)
+    li = re.search(r"linkedin\.com/company/([\w\-]+)", html)
     if li:
         result["linkedin_url"] = f"https://linkedin.com/company/{li.group(1)}"
 
-    tw = re.search(r'(?:twitter\.com|x\.com)/([A-Za-z0-9_]{1,50})(?:["\'\/\s]|$)', html)
+    tw = re.search(r"(?:twitter\.com|x\.com)/([A-Za-z0-9_]{1,50})(?:[\"'\/\s]|$)", html)
     if tw and tw.group(1).lower() not in ("share", "intent", "home", "search", "hashtag"):
         result["twitter_url"] = f"https://x.com/{tw.group(1)}"
 
-    all_emails = re.findall(r'[a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,6}', html)
+    all_emails = re.findall(r"[a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,6}", html)
     all_emails = [e for e in all_emails if not SKIP_EMAIL_PATTERNS.search(e)]
 
     contact_email = ""
@@ -484,7 +540,6 @@ def scrape_contacts(url: str) -> dict:
 # ── Enrichment ────────────────────────────────────────────────────────────────
 
 def enrich_articles(articles: list[dict]) -> list[dict]:
-    """Validate articles via Jina AI, scrape contact info, return only valid raises."""
     cache = load_cache()
     new_entries = 0
     valid_articles = []
@@ -494,24 +549,24 @@ def enrich_articles(articles: list[dict]) -> list[dict]:
 
         if key in cache:
             cached = cache[key]
-            # Entries explicitly marked invalid are skipped
             if cached.get("valid") is False:
                 continue
-            # Restore cached enrichment data
-            article["company"] = cached.get("company") or article["company"]
-            article["amount_str"] = cached.get("amount_str") or article["amount_str"]
-            article["website"] = cached.get("website", "")
-            article["linkedin_url"] = cached.get("linkedin_url", "")
-            article["contact_email"] = cached.get("contact_email", "")
-            article["twitter_url"] = cached.get("twitter_url", "")
+            article["company"]              = cached.get("company") or article["company"]
+            article["amount_str"]           = cached.get("amount_str") or article["amount_str"]
+            article["website"]              = cached.get("website", "")
+            article["linkedin_url"]         = cached.get("linkedin_url", "")
+            article["founder_name"]         = cached.get("founder_name", "")
+            article["founder_linkedin_url"] = cached.get("founder_linkedin_url", "")
+            article["contact_email"]        = cached.get("contact_email", "")
+            article["twitter_url"]          = cached.get("twitter_url", "")
             valid_articles.append(article)
             continue
 
-        print(f"  [{i}/{len(articles)}] Validating: {article['title'][:65]}...")
+        print(f"  [{i}/{len(articles)}] {article['title'][:65]}...")
 
-        # Step 1: Jina AI — validate it's a real raise & improve extraction
+        # ── Step 1: Jina — validate + extract company/amount/founder ──────────
         jina_text = jina_fetch(article["article_url"])
-        is_valid, company, amount = validate_and_extract(article, jina_text)
+        is_valid, company, amount, founder_name = validate_and_extract(article, jina_text)
         time.sleep(SLEEP_BETWEEN)
 
         if not is_valid:
@@ -521,39 +576,96 @@ def enrich_articles(articles: list[dict]) -> list[dict]:
             new_entries += 1
             continue
 
-        article["company"] = company or article["company"]
-        article["amount_str"] = amount or article["amount_str"]
+        article["company"]      = company or article["company"]
+        article["amount_str"]   = amount or article["amount_str"]
+        article["founder_name"] = founder_name
 
-        # Step 2: find company website from article page
-        website = extract_company_website(article["article_url"])
-        article["website"] = website
+        # ── Step 2: find website ──────────────────────────────────────────────
+        website = extract_company_website(article["article_url"], article["company"])
         time.sleep(SLEEP_BETWEEN)
 
-        # Step 3: scrape company website for contact info
-        contacts = {"linkedin_url": "", "contact_email": "", "twitter_url": ""}
+        if not website and article["company"]:
+            print(f"    DDG: searching for {article['company']} website...")
+            website = ddg_search(f'"{article["company"]}" official site', want_domain=None)
+            if website:
+                # Normalize to homepage (strip any path like /blog/post)
+                parsed = urlparse(website)
+                website = f"{parsed.scheme}://{parsed.netloc}"
+                domain = parsed.netloc.lower().lstrip("www.")
+                if any(domain == nd or domain.endswith("." + nd) for nd in NEWS_DOMAINS):
+                    website = ""
+
+        article["website"] = website
         if website:
-            print(f"    Scraping {website[:60]}...")
-            contacts = scrape_contacts(website)
-            article["linkedin_url"] = contacts["linkedin_url"]
-            article["contact_email"] = contacts["contact_email"]
-            article["twitter_url"] = contacts["twitter_url"]
+            print(f"    Website: {website}")
+
+        # ── Step 3: scrape website for LinkedIn/email/Twitter ─────────────────
+        site_data = scrape_site(website) if website else {"linkedin_url": "", "contact_email": "", "twitter_url": ""}
+        article["linkedin_url"]  = site_data["linkedin_url"]
+        article["contact_email"] = site_data["contact_email"]
+        article["twitter_url"]   = site_data["twitter_url"]
+        if website:
             time.sleep(SLEEP_BETWEEN)
 
+        # ── Step 4: DDG fallback for company LinkedIn ─────────────────────────
+        if not article["linkedin_url"] and article["company"]:
+            print(f"    DDG: searching for {article['company']} LinkedIn...")
+            li = ddg_search(f'"{article["company"]}" linkedin', want_domain="linkedin.com/company")
+            if li:
+                # Clean to just linkedin.com/company/slug
+                m = re.search(r"linkedin\.com/company/([\w\-]+)", li)
+                if m:
+                    article["linkedin_url"] = f"https://linkedin.com/company/{m.group(1)}"
+
+        if article["linkedin_url"]:
+            print(f"    LinkedIn: {article['linkedin_url']}")
+
+        # ── Step 5: DDG founder LinkedIn ──────────────────────────────────────
+        founder_linkedin = ""
+        if founder_name and article["company"]:
+            print(f"    DDG: searching for {founder_name} LinkedIn...")
+            fl = ddg_search(
+                f'"{founder_name}" "{article["company"]}" linkedin',
+                want_domain="linkedin.com/in",
+            )
+            if fl:
+                m = re.search(r"linkedin\.com/in/([\w\-]+)", fl)
+                if m:
+                    founder_linkedin = f"https://linkedin.com/in/{m.group(1)}"
+        elif not founder_name and article["company"]:
+            # No founder name found — try generic CEO search
+            print(f"    DDG: searching for {article['company']} CEO LinkedIn...")
+            fl = ddg_search(
+                f'"{article["company"]}" CEO OR founder site:linkedin.com/in',
+                want_domain="linkedin.com/in",
+            )
+            if fl:
+                m = re.search(r"linkedin\.com/in/([\w\-]+)", fl)
+                if m:
+                    founder_linkedin = f"https://linkedin.com/in/{m.group(1)}"
+
+        article["founder_linkedin_url"] = founder_linkedin
+        if founder_linkedin:
+            print(f"    Founder LinkedIn: {founder_linkedin}")
+
+        # ── Cache ─────────────────────────────────────────────────────────────
         cache[key] = {
             "valid": True,
-            "company": article["company"],
-            "amount_str": article["amount_str"],
-            "website": website,
-            "linkedin_url": contacts["linkedin_url"],
-            "contact_email": contacts["contact_email"],
-            "twitter_url": contacts["twitter_url"],
+            "company":              article["company"],
+            "amount_str":           article["amount_str"],
+            "website":              website,
+            "linkedin_url":         article["linkedin_url"],
+            "founder_name":         founder_name,
+            "founder_linkedin_url": founder_linkedin,
+            "contact_email":        article["contact_email"],
+            "twitter_url":          article["twitter_url"],
         }
         new_entries += 1
         save_cache(cache)
         valid_articles.append(article)
 
     if new_entries:
-        print(f"  Processed {new_entries} new articles (cache now {len(cache)} entries)")
+        print(f"  Processed {new_entries} new articles (cache: {len(cache)} entries)")
     else:
         print("  All articles already cached")
 
@@ -561,8 +673,7 @@ def enrich_articles(articles: list[dict]) -> list[dict]:
 
 
 def normalize_company(name: str) -> str:
-    """Normalize company name for deduplication (strip punctuation, lowercase)."""
-    return re.sub(r'[^a-z0-9]', '', name.lower())
+    return re.sub(r"[^a-z0-9]", "", name.lower())
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
@@ -583,37 +694,38 @@ def main():
     print(f"\n{len(all_articles)} unique seed funding articles from RSS")
 
     if all_articles:
-        print("\nValidating and enriching articles...")
-        all_articles = enrich_articles(all_articles)
+        print("\nEnriching articles...")
+        try:
+            all_articles = enrich_articles(all_articles)
+        finally:
+            close_browser()
 
     print(f"{len(all_articles)} articles passed validation")
 
-    # Deduplicate by company name — keep the entry with most contact info
+    # Deduplicate by company name
     seen_companies: dict[str, dict] = {}
     for article in all_articles:
         company = article.get("company", "").strip()
         norm = normalize_company(company)
-
-        # Skip blacklisted large companies and entries with no company name
         if not norm or norm in LARGE_COMPANY_BLACKLIST:
             continue
-
         if norm not in seen_companies:
             seen_companies[norm] = article
         else:
-            # Prefer the article with more contact data
             existing = seen_companies[norm]
-            existing_score = bool(existing["linkedin_url"]) + bool(existing["contact_email"]) + bool(existing["website"])
-            new_score = bool(article["linkedin_url"]) + bool(article["contact_email"]) + bool(article["website"])
-            if new_score > existing_score:
+            score = lambda a: (
+                bool(a["website"]) * 3 +
+                bool(a["linkedin_url"]) * 2 +
+                bool(a["founder_linkedin_url"]) * 2 +
+                bool(a["contact_email"])
+            )
+            if score(article) > score(existing):
                 seen_companies[norm] = article
 
     deduped = list(seen_companies.values())
-
-    # Sort by date descending
     deduped.sort(key=lambda x: x["pub_date"] or "", reverse=True)
 
-    has_contact = sum(1 for a in deduped if a["linkedin_url"] or a["contact_email"])
+    has_contact = sum(1 for a in deduped if a["linkedin_url"] or a["contact_email"] or a["founder_linkedin_url"])
     print(f"{has_contact}/{len(deduped)} companies have contact info")
 
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
