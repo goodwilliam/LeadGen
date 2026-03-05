@@ -937,5 +937,35 @@
   },
   "https://techfundingnews.com/roxfit-1-9m-seed-ai-hyrox-training/": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/05/zeno-raises-25m-to-speed-up-production-of-its-battery-swap-motorbikes/": {
+    "valid": true,
+    "company": "Zeno",
+    "amount_str": "$25M",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/05/validio-closes-30m-series-a-to-address-enterprise-sata-quality-challenges/": {
+    "valid": true,
+    "company": "Validio",
+    "amount_str": "$30M",
+    "website": "",
+    "linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/meitav-investment-house-to-report-fourth-quarter-and-full-year-2025-financial-results-and-hold-a-conference-call-on-thursday-march-19-2026-302705714.html": {
+    "valid": false
   }
 }

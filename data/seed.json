@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-03-05T15:03:31.030714Z",
-  "count": 42,
+  "generated_at": "2026-03-05T17:56:05.946840Z",
+  "count": 41,
   "enriched_count": 4,
   "articles": [
     {
       "source": "TechCrunch",
-      "title": "Science Corp raises $230M as it races to bring its brain implant to market",
+      "title": "Zeno raises $25M to speed up production of its battery-swap motorbikes",
+      "article_url": "https://techcrunch.com/2026/03/05/zeno-raises-25m-to-speed-up-production-of-its-battery-swap-motorbikes/",
+      "company": "Zeno",
+      "amount_str": "$25M",
+      "pub_date": "2026-03-05",
+      "website": "https://strictlyvc.com",
+      "linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Science Corp. raises $230M as it races to bring its brain implant to market",
       "article_url": "https://techcrunch.com/2026/03/05/science-corp-closes-230m-round-as-it-pushes-to-get-its-brain-implant-to-patients/",
       "company": "Science Corp",
       "amount_str": "$230M",
@@ -35,6 +47,18 @@
       "amount_str": "",
       "pub_date": "2026-03-05",
       "website": "https://strictlyvc.com",
+      "linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "tech.eu",
+      "title": "Validio closes $30M Series A to address enterprise data quality challenges",
+      "article_url": "https://tech.eu/2026/03/05/validio-closes-30m-series-a-to-address-enterprise-sata-quality-challenges/",
+      "company": "Validio",
+      "amount_str": "$30M",
+      "pub_date": "2026-03-05",
+      "website": "",
       "linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
@@ -129,30 +153,6 @@
       "article_url": "https://tech.eu/2026/03/04/spains-pld-space-raises-eur180m-to-scale-satellite-launch-infrastructure/",
       "company": "Spain\u2019s PLD Space",
       "amount_str": "",
-      "pub_date": "2026-03-04",
-      "website": "",
-      "linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "tech.eu",
-      "title": "Diligent AI raises $2.5M to support KYC and AML teams with AI agents",
-      "article_url": "https://tech.eu/2026/03/04/diligent-ai-raises-25m-to-support-kyc-and-aml-teams-with-ai-agents/",
-      "company": "Diligent AI",
-      "amount_str": "$2.5M",
-      "pub_date": "2026-03-04",
-      "website": "",
-      "linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "tech.eu",
-      "title": "British defence tech outfit Mutable Tactics raises over $2M in pre-seed round",
-      "article_url": "https://tech.eu/2026/03/04/british-defence-tech-outfit-mutable-tactics-raises-over-2m-in-pre-seed-round/",
-      "company": "British defence tech outfit Mutable Tactics",
-      "amount_str": "$2M",
       "pub_date": "2026-03-04",
       "website": "",
       "linkedin_url": "",
@@ -347,18 +347,6 @@
       "amount_str": "$18 m",
       "pub_date": "2026-03-03",
       "website": "https://fonts.gstatic.com",
-      "linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "SiliconAngle",
-      "title": "Co-packaged optics startup Ayar Labs raises $500M round backed by Nvidia, AMD",
-      "article_url": "https://siliconangle.com/2026/03/03/co-packaged-optics-startup-ayar-labs-raises-500m-round-backed-nvidia-amd/",
-      "company": "Co-packaged optics startup Ayar Labs",
-      "amount_str": "$500M",
-      "pub_date": "2026-03-03",
-      "website": "https://siliconangle.com/xmlrpc.php",
       "linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
