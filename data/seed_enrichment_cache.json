@@ -973,5 +973,167 @@
   },
   "https://www.prnewswire.com/news-releases/yellow-stripes-capital-acquires-majority-stake-in-noblq-to-power-global-ailed-expansion-302706129.html": {
     "valid": false
+  },
+  "https://siliconangle.com/2026/03/05/hardware-testing-startup-nominal-raises-80m-1b-valuation/": {
+    "valid": true,
+    "company": "Hardware testing startup Nominal",
+    "amount_str": "$80M",
+    "website": "https://www.newsbreak.com",
+    "linkedin_url": "https://linkedin.com/company/particle-media-inc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "mjlee@usatoday.com",
+    "twitter_url": "https://x.com/newsbreakApp"
+  },
+  "https://www.prnewswire.com/news-releases/door-investors-have-opportunity-to-lead-masonite-international-corporation-securities-fraud-lawsuit-302706254.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/enph-investors-have-opportunity-to-lead-enphase-energy-inc-securities-fraud-lawsuit-302706097.html": {
+    "valid": false
+  },
+  "https://hypepotamus.com/startup-news/atlanta-startup-huper-ai-chief-of-staff/": {
+    "valid": true,
+    "company": "Atlanta Startup Huper",
+    "amount_str": "$1.5M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.agtechnavigator.com/Article/2026/03/05/weed-management-how-this-startup-is-helping-farmers-improve-yields/": {
+    "valid": true,
+    "company": "Robotic weeding start-up AgriPass",
+    "amount_str": "$7.5m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Liron Yanay",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/05/cluely-ceo-roy-lee-admits-to-publicly-lying-about-revenue-numbers-last-year/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/03/irish-founded-startup-evervault-raises-e21-million-to-advance-encrypted-data-orchestration/": {
+    "valid": false
+  },
+  "https://americanbazaaronline.com/2026/03/05/clothing-step-startup-caastle-founder-pleads-guilty-to-fraud-476332/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://akismet.com/privacy",
+    "linkedin_url": "",
+    "founder_name": "Clothing step startup CaaStle",
+    "founder_linkedin_url": "",
+    "contact_email": "privacypolicyupdates@automattic.com",
+    "twitter_url": ""
+  },
+  "https://www.forbes.com/sites/mattgardner1/2026/03/05/cheer-games-raises-45-million-for-next-gen-mobile-puzzles/": {
+    "valid": true,
+    "company": "Cheer Games",
+    "amount_str": "$4.5 M",
+    "website": "https://www.gamescheer.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "service@gamescheer.com",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.citybiz.co/article/814651/neurointact-focus-on-regulatory-path-expanded-clinical-validation-for-temperature-modulation-system/": {
+    "valid": false
+  },
+  "https://www.startupdaily.net/topic/funding/cancer-medtech-tops-up-series-b-to-28-million/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://growth-summit.com.au",
+    "linkedin_url": "",
+    "founder_name": "Keith Hansen said oncology",
+    "founder_linkedin_url": "",
+    "contact_email": "events@smartcompany.com.au",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/pasqal-2b-spac-nasdaq-quantum/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/03/05/diligent-ai-announces-e2-1m-seed-round-to-expand-autonomous-ai-analysts-for-financial-crime-compliance/": {
+    "valid": false
+  },
+  "https://entrackr.com/snippets/healthtech-startup-trudoc-raises-15-mn-in-pre-series-b-round-11177703": {
+    "valid": true,
+    "company": "TruDoc Healthcare",
+    "amount_str": "$15 m",
+    "website": "https://trudocgroup.com",
+    "linkedin_url": "https://linkedin.com/company/trudoc24x7",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@trudocgroup.com",
+    "twitter_url": "https://x.com/TruDoc24x7"
+  },
+  "https://www.startupresearcher.com/news/french-biotech-bacta-raises-usd8-million-for-ai-powered-bioproduction": {
+    "valid": false
+  },
+  "https://www.startupresearcher.com/news/vectrix-secures-usd1-3-million-to-automate-logistics-orders": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/03/antwerp-based-vectrix-raises-e1-15-million-to-build-the-automation-layer-for-transport-operations/": {
+    "valid": false
+  },
+  "https://agfundernews.com/agrifood-signals-syngenta-ditches-paraquat-targan-bags-100m-for-animal-health-aerofarms-for-sale": {
+    "valid": true,
+    "company": "AgriFood Signals: Syngenta ditches paraquat, TARGAN",
+    "amount_str": "$100m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://financialit.net/news/fundraising-news/silverflow-closes-40-million-series-b-it-nears-one-billion-transactions": {
+    "valid": true,
+    "company": "Silverflow",
+    "amount_str": "$40 M",
+    "website": "https://www.silverflow.com",
+    "linkedin_url": "https://linkedin.com/company/silverflow",
+    "founder_name": "Anne Willem De Vries",
+    "founder_linkedin_url": "https://linkedin.com/in/anne-willem-de-vries-b798664",
+    "contact_email": "info@silverflow.com",
+    "twitter_url": "https://x.com/silverflow"
+  },
+  "https://www.newcomer.co/p/venture-investors-see-big-promise": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://substackcdn.com",
+    "linkedin_url": "",
+    "founder_name": "former Palo Alto Networks",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupresearcher.com/news/workforce-intelligence-startup-acceler8-raises-seed-round-led-by-a16z": {
+    "valid": false
   }
 }
