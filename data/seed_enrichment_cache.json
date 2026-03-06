@@ -1375,5 +1375,225 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/06/city-detect-uses-ai-to-help-cities-stay-safe-and-clean/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/06/pld-space-raises-180m-eif-makes-largest-defence-investment-yet-and-february-funding-rebounds/": {
+    "valid": true,
+    "company": "PLD Space",
+    "amount_str": "",
+    "website": "https://www.pldspace.com",
+    "linkedin_url": "https://linkedin.com/company/pld-space",
+    "founder_name": "backed TrueLayer",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/invitation--agenda-orexo-rd-day-on-march-24-302706890.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/invitation--agenda-orexo-rd-day-on-march-24-302706888.html": {
+    "valid": false
+  },
+  "https://www.aol.com/articles/venture-dollars-female-founders-doubled-080000555.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://s.yimg.com/oa/consent.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.businessinsider.com/fig-security-raises-38-m-pitch-deck-2026-3": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://i.insider.com/69a63f691fb3fcb42648c947",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bayelsawatch.com/zeno-lands-25m/": {
+    "valid": false
+  },
+  "https://thecurrency.news/articles/219299/shane-currans-evervault-has-just-raised-25m-this-is-how-and-why/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://use.typekit.net/iqd8azx.css",
+    "linkedin_url": "",
+    "founder_name": "Shane Curran",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://eu.36kr.com/en/p/3709331718615176": {
+    "valid": false
+  },
+  "https://www.newsbytesapp.com/news/business/cheerio-ai-raises-rs8-crore-to-boost-no-code-marketing-platform/tldr": {
+    "valid": false
+  },
+  "https://ventureburn.com/unleash-raises-35m-led-by-one-peak/?amp=1": {
+    "valid": true,
+    "company": "Unleash",
+    "amount_str": "$35M",
+    "website": "https://www.getunleash.io",
+    "linkedin_url": "https://linkedin.com/company/getunleash",
+    "founder_name": "CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/getunleash"
+  },
+  "https://ventureburn.com/circadence-secures-16-4m-for-ai-cyber-readiness/": {
+    "valid": true,
+    "company": "Circadence",
+    "amount_str": "$16.4M",
+    "website": "https://circadence.com",
+    "linkedin_url": "https://linkedin.com/company/circadence-corp",
+    "founder_name": "states Michael Moniz",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/CircadenceCorp"
+  },
+  "https://www.binance.com/es-MX/square/post/298290218563969": {
+    "valid": false
+  },
+  "https://www.digitaltoday.co.kr/en/view/27174/cylake-raises-45-million-seed-on-premises-ai-security-platform": {
+    "valid": true,
+    "company": "Cylake",
+    "amount_str": "$45 m",
+    "website": "https://jobs.ashbyhq.com",
+    "linkedin_url": "https://linkedin.com/company/cylake-ai",
+    "founder_name": "Cylake is led by",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fortune.com/2026/03/06/venture-dollars-female-founders-pitchbook-ai/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cxense.com/ari.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.calcalistech.com/ctechnews/article/r1ev1gvkbg": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://newmedia.calcalist.co.il/ctech/testimonials/index.html",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "judith.hoffmann@calcalist.co.il",
+    "twitter_url": ""
+  },
+  "https://businessday.ng/news/article/cybervergent-secures-3m-seed-to-build-africas-digital-compliance-infrastructure/": {
+    "valid": true,
+    "company": "Cybervergent",
+    "amount_str": "$3 m",
+    "website": "https://www.cybervergent.com",
+    "linkedin_url": "https://linkedin.com/company/cybervergent",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@cybervergent.com",
+    "twitter_url": "https://x.com/cybervergent"
+  },
+  "https://entrackr.com/snippets/healthtech-startup-cent-secures-funding-from-oneflow-south-park-commons-11179508": {
+    "valid": true,
+    "company": "Cent",
+    "amount_str": "",
+    "website": "https://www.50cent.com",
+    "linkedin_url": "https://linkedin.com/company/centhealth",
+    "founder_name": "Founded by Practo",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/50cent"
+  },
+  "https://techafricanews.com/2026/03/06/cybervergent-secures-3m-seed-funding-to-expand-ai-driven-compliance-platform-in-africa/": {
+    "valid": true,
+    "company": "Cybervergent",
+    "amount_str": "$3M",
+    "website": "https://www.cybervergent.com",
+    "linkedin_url": "https://linkedin.com/company/cybervergent",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@cybervergent.com",
+    "twitter_url": "https://x.com/cybervergent"
+  },
+  "https://www.wbur.org/news/2026/03/05/cultivated-meat-lab-grown-massachusetts-investment-climate-change": {
+    "valid": false
+  },
+  "https://www.calcalistech.com/ctechnews/article/syubusdfbl": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://newmedia.calcalist.co.il/ctech/testimonials/index.html",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "judith.hoffmann@calcalist.co.il",
+    "twitter_url": ""
+  },
+  "https://www.techzine.eu/news/privacy-compliance/139318/founders-palo-alto-and-sentinelone-launch-security-company-cylake/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn-cookieyes.com",
+    "linkedin_url": "",
+    "founder_name": "Palo Alto and SentinelOne",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://united24media.com/latest-news/uforce-hits-1b-valuation-becoming-ukraines-first-defense-tech-unicorn-16538": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/vectrix-raises-1-2-million-seed-round": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/zyg-secures-58-million-in-seed-round": {
+    "valid": true,
+    "company": "ZyG",
+    "amount_str": "$58 m",
+    "website": "https://www.zyg.com",
+    "linkedin_url": "https://linkedin.com/company/zyg-edge",
+    "founder_name": "Bessemer supports founders and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.calcalistech.com/ctechnews/article/bkrgjwpkwe": {
+    "valid": true,
+    "company": "ironSource founders",
+    "amount_str": "$58 m",
+    "website": "https://en.globes.co.il",
+    "linkedin_url": "https://linkedin.com/company/globes",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@globes.co.il",
+    "twitter_url": "https://x.com/GlobesEnglish"
+  },
+  "https://siliconangle.com/2026/03/05/agentic-e-commerce-startup-zyg-gets-58m-help-solo-inventors-compete-biggest-global-brands/": {
+    "valid": true,
+    "company": "Agentic e-commerce startup ZyG",
+    "amount_str": "$58M",
+    "website": "https://siliconangle.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/thecube"
+  },
+  "https://www.bruegel.org/policy-brief/reforming-european-defence-procurement-boost-military-innovation-and-startups": {
+    "valid": false
   }
 }
