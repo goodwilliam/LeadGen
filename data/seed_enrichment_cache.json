@@ -891,5 +891,87 @@
   },
   "https://www.startuphub.ai/news/farang-secures-15m-seed-for-next-gen-ai-models": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/03/05/fbi-investigating-hack-on-its-wiretap-and-surveillance-systems-report/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/05/italian-prosecutors-confirm-journalist-was-hacked-with-paragon-spyware/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/05/data-quality-automation-startup-validio-raises-30m/": {
+    "valid": true,
+    "company": "Data quality automation startup Validio",
+    "amount_str": "$30M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/05/investors-marvel-marvells-solid-earnings-revenue-beat-ai-chip-demand/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/05/cybersecurity-startup-cylake-launches-45m-build-ai-native-data-sovereignty-platform/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/05/senior-care-tech-startup-sage-raises-65m-platform-monitors-resident-activity-care-facilities/": {
+    "valid": true,
+    "company": "Senior-care tech startup Sage",
+    "amount_str": "$65M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/05/brain-computer-interface-startup-science-raises-230m/": {
+    "valid": true,
+    "company": "Brain-computer interface startup Science",
+    "amount_str": "$230M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/brbr-deadline-brbr-investors-have-opportunity-to-lead-bellring-brands-inc-securities-fraud-lawsuit-302706058.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/sdm-deadline-sdm-investors-have-opportunity-to-lead-smart-digital-group-ltd-securities-fraud-lawsuit-302706059.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/pom-investors-have-opportunity-to-lead-pomdoctor-ltd-securities-fraud-lawsuit-302706055.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/psfe-investors-have-opportunity-to-lead-paysafe-limited-securities-fraud-lawsuit-302706051.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/cort-investors-have-opportunity-to-lead-corcept-therapeutics-incorporated-securities-fraud-lawsuit-302706054.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/tcpc-investors-have-opportunity-to-lead-blackrock-tcp-capital-corp-securities-fraud-lawsuit-302706049.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/yellow-stripes-capital-acquires-majority-stake-in-noblq-to-power-global-ailed-expansion-302706129.html": {
+    "valid": false
   }
 }

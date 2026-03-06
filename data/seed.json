@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-03-05T20:31:48.611502Z",
-  "count": 23,
-  "enriched_count": 18,
+  "generated_at": "2026-03-06T01:24:24.416801Z",
+  "count": 22,
+  "enriched_count": 15,
   "articles": [
+    {
+      "source": "SiliconAngle",
+      "title": "Data quality automation startup Validio raises $30M",
+      "article_url": "https://siliconangle.com/2026/03/05/data-quality-automation-startup-validio-raises-30m/",
+      "company": "Data quality automation startup Validio",
+      "amount_str": "$30M",
+      "pub_date": "2026-03-06",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "TechCrunch",
       "title": "Hardware testing startup Nominal hits $1B valuation, raises $155M in 10 months",
@@ -16,48 +30,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": "https://x.com/EnewsPressbe"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Zeno raises $25M to speed up production of its battery-swap motorbikes",
-      "article_url": "https://techcrunch.com/2026/03/05/zeno-raises-25m-to-speed-up-production-of-its-battery-swap-motorbikes/",
-      "company": "Zeno",
-      "amount_str": "$25M",
-      "pub_date": "2026-03-05",
-      "website": "https://zeno.earth",
-      "linkedin_url": "https://linkedin.com/company/zenoearth",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Science Corp. raises $230M as it races to bring its brain implant to market",
-      "article_url": "https://techcrunch.com/2026/03/05/science-corp-closes-230m-round-as-it-pushes-to-get-its-brain-implant-to-patients/",
-      "company": "Science Corp.",
-      "amount_str": "$230M",
-      "pub_date": "2026-03-05",
-      "website": "https://science.xyz",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Lio raises $30M from Andreessen Horowitz and others to automate enterprise procurement",
-      "article_url": "https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/",
-      "company": "Lio",
-      "amount_str": "$30M",
-      "pub_date": "2026-03-05",
-      "website": "https://lio.ai",
-      "linkedin_url": "https://linkedin.com/company/lioapp",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "tech.eu",
@@ -145,6 +117,34 @@
     },
     {
       "source": "SiliconAngle",
+      "title": "Senior-care tech startup Sage raises $65M for platform that monitors resident activity in care facilities",
+      "article_url": "https://siliconangle.com/2026/03/05/senior-care-tech-startup-sage-raises-65m-platform-monitors-resident-activity-care-facilities/",
+      "company": "Senior-care tech startup Sage",
+      "amount_str": "$65M",
+      "pub_date": "2026-03-05",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "SiliconAngle",
+      "title": "Brain-computer interface startup Science raises $230M",
+      "article_url": "https://siliconangle.com/2026/03/05/brain-computer-interface-startup-science-raises-230m/",
+      "company": "Brain-computer interface startup Science",
+      "amount_str": "$230M",
+      "pub_date": "2026-03-05",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "SiliconAngle",
       "title": "Evervault raises $25M to scale its \u2018secure-by-default\u2019 approach to payment data encryption",
       "article_url": "https://siliconangle.com/2026/03/05/evervault-raises-25m-scale-secure-default-approach-payment-data-encryption/",
       "company": "Evervault",
@@ -226,20 +226,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
-    },
-    {
-      "source": "SiliconAngle",
-      "title": "Unleash raises $35M to rein in AI-driven software risk",
-      "article_url": "https://siliconangle.com/2026/03/04/unleash-raises-35m-rein-ai-driven-software-risk/",
-      "company": "Unleash",
-      "amount_str": "$35M",
-      "pub_date": "2026-03-04",
-      "website": "https://www.getunleash.io",
-      "linkedin_url": "https://linkedin.com/company/getunleash",
-      "founder_name": "",
-      "founder_linkedin_url": "https://linkedin.com/in/egilconr",
-      "contact_email": "",
-      "twitter_url": "https://x.com/getunleash"
     },
     {
       "source": "Google Alerts",
