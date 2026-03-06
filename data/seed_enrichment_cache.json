@@ -1159,5 +1159,221 @@
   },
   "https://www.prnewswire.com/news-releases/bath--body-works-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--bbwi-302706325.html": {
     "valid": false
+  },
+  "https://tech.eu/2026/03/06/taxdown-secured-eur4m-financing-from-bbva-spark-to-enhance-its-ai-solutio/": {
+    "valid": true,
+    "company": "TaxDown",
+    "amount_str": "",
+    "website": "https://taxdown.net",
+    "linkedin_url": "https://linkedin.com/company/taxdown",
+    "founder_name": "backed TrueLayer",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/investor-notice-enphase-energy-inc-investors-with-substantial-losses-have-opportunity-to-lead-the-class-action-lawsuit-302706220.html": {
+    "valid": false
+  },
+  "https://www.defenseadvancement.com/news/ai-decision-software-for-drone-teams-secures-2-1m-pre-seed-funding/": {
+    "valid": true,
+    "company": "Decision Software for Drone Teams",
+    "amount_str": "$2.1M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/audiumcp/status/2029590854130651218": {
+    "valid": true,
+    "company": "Cheer Games",
+    "amount_str": "$4.5M",
+    "website": "https://www.gamescheer.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "service@gamescheer.com",
+    "twitter_url": ""
+  },
+  "https://www.builtinsf.com/articles/vor-systems-raises-3m-pre-seed-20260305": {
+    "valid": true,
+    "company": "Vor Systems",
+    "amount_str": "$3M",
+    "website": "https://www.vorsystems.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "example@mysite.com",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://www.facebook.com/gamesindustry/posts/cheer-games-has-raised-45-million-in-its-pre-seed-roundhttpswwwgamesindustrybizc/1440456488095471/": {
+    "valid": true,
+    "company": "Cheer Games",
+    "amount_str": "$4.5 m",
+    "website": "https://www.gamescheer.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "service@gamescheer.com",
+    "twitter_url": ""
+  },
+  "https://beamstart.com/news/one-nutrition-bags-new-funds-17727017966428": {
+    "valid": true,
+    "company": "One% Nutrition",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "https://linkedin.com/company/onepercent-nutrition",
+    "founder_name": "and COO",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://hyper.ai/en/stories/9d636e50a311514773762a7651433b3c": {
+    "valid": true,
+    "company": "Plakar",
+    "amount_str": "$3M",
+    "website": "https://www2.plakar.io",
+    "linkedin_url": "https://linkedin.com/company/plakarkorp",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/PlakarKorp"
+  },
+  "https://www.bioindustry.org/resource/outpost-bio-raises--3-5m-pre-seed-to-build-frontier-models-for-human-microbiology.html": {
+    "valid": true,
+    "company": "Outpost Bio",
+    "amount_str": "$3.5 m",
+    "website": "https://www.outpost.bio",
+    "linkedin_url": "https://linkedin.com/company/outpost-bio",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.resultsense.com/news/2026-03-05-mutable-tactics-drone-autonomy-funding": {
+    "valid": true,
+    "company": "Mutable Tactics",
+    "amount_str": "$2.1m",
+    "website": "https://mutabletactics.ai",
+    "linkedin_url": "https://linkedin.com/company/mutabletactics",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@mutabletactics.ai",
+    "twitter_url": "https://x.com/MutableTactics"
+  },
+  "https://www.linkedin.com/posts/cvxventures_agaton-raises-10-million-seed-funding-to-activity-7435617307999223809-ww1E": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://medial.app/news/vectrix-raises-dollar12-million-seed-round-or-the-saas-news-f047988f3dcc8": {
+    "valid": true,
+    "company": "Taqtics",
+    "amount_str": "$1.2 m",
+    "website": "https://taqtics.com",
+    "linkedin_url": "https://linkedin.com/company/taqticscom",
+    "founder_name": "said Siddharth Jena",
+    "founder_linkedin_url": "",
+    "contact_email": "you@firm.com",
+    "twitter_url": "https://x.com/taqticsmedia"
+  },
+  "https://www.moonshotnx.com/venture-capital-stack": {
+    "valid": false
+  },
+  "https://venture5.com/vc-deals/fluency-raises-6m-seed-funding/": {
+    "valid": true,
+    "company": "Fluency",
+    "amount_str": "$6M",
+    "website": "https://www.fluency.inc",
+    "linkedin_url": "https://linkedin.com/company/fluencyinc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.f6s.com/seed-funding-startup": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/Calcalistech/status/2029557067573346462": {
+    "valid": true,
+    "company": "ironSource founders",
+    "amount_str": "$58 m",
+    "website": "https://en.globes.co.il",
+    "linkedin_url": "https://linkedin.com/company/globes",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@globes.co.il",
+    "twitter_url": "https://x.com/GlobesEnglish"
+  },
+  "https://kruzeconsulting.com/blog/raising-seed-round/": {
+    "valid": false
+  },
+  "https://medial.app/news/intelligrc-raises-dollar35m-seed-round-or-the-saas-news-800ee67bf198c": {
+    "valid": true,
+    "company": "IntelliGRC",
+    "amount_str": "$3.5M",
+    "website": "https://intelligrc.com",
+    "linkedin_url": "https://linkedin.com/company/intelligrc",
+    "founder_name": "and Relayr",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/IntelliGRC"
+  },
+  "https://medial.app/news/partspulse-raises-dollar3-million-in-seed-round-or-the-saas-news-0e028c49996ef": {
+    "valid": true,
+    "company": "SuperKalam",
+    "amount_str": "$1.95 m",
+    "website": "https://superkalam.com",
+    "linkedin_url": "https://linkedin.com/company/superkalam",
+    "founder_name": "Founded by",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@superkalam.com",
+    "twitter_url": "https://x.com/superkalam_"
+  },
+  "https://www.resultsense.com/news/2026-03-05-roxfit-raises-seed-funding-ai-fitness": {
+    "valid": false
+  },
+  "https://india.entrepreneur.com/business-news/climate-tech-startup-sprih-secures-usd-3-million-in-seed/471420": {
+    "valid": true,
+    "company": "Climate Tech Startup Sprih",
+    "amount_str": "",
+    "website": "https://www.entrepreneur.com",
+    "linkedin_url": "",
+    "founder_name": "Akash Keshav",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupresearcher.com/news/worldscape-ai-secures-seed-funding-for-ai-geospatial-intelligence-platform": {
+    "valid": false
+  },
+  "https://www.startupresearcher.com/news/wellness-startup-bubble-me-raises-usd164-000-in-pre-seed-round": {
+    "valid": false
+  },
+  "https://startupmap.iamsterdam.com/news/feed/india-norway-backed-elmentoz-raises-seed-funding-to-build-country-s-largest-bsf-based-smart-protein-facility": {
+    "valid": true,
+    "company": "IAmsterdam startup map | India\u2013Norway-backed Elmentoz",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "demands weekend email responses",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
