@@ -1631,5 +1631,161 @@
   },
   "https://www.prnewswire.com/news-releases/ardt-deadline-ardt-investors-have-opportunity-to-lead-ardent-health-inc-securities-fraud-lawsuit-302707253.html": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/03/06/robinhoods-startup-fund-stumbles-in-nyse-debut/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/apollo-global-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-apollo-global-management-inc---apo-302707317.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/navan-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-navan-inc---navn-302707316.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/enphase-energy-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-enphase-energy-inc---enph-302707313.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/corcept-therapeutics-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-corcept-therapeutics-incorporated---cort-302707319.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/kyndryl-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-kyndryl-holdings-inc---kd-302707318.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/uniqure-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-uniqure-nv---qure-302707312.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/ultragenyx-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-ultragenyx-pharmaceutical-inc---rare-302707320.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.cision.com/about/accessibility",
+    "linkedin_url": "https://linkedin.com/company/cision",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@cision.com",
+    "twitter_url": "https://x.com/cision"
+  },
+  "https://www.prnewswire.com/news-releases/bellring-brands-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-bellring-brands-inc---brbr-302707315.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/coreweave-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-coreweave-inc---crwv-302707308.html": {
+    "valid": false
+  },
+  "https://betakit.com/how-gaiia-used-its-rd-to-help-finance-a-pivot-from-services-to-software/": {
+    "valid": false
+  },
+  "https://odessa-journal.com/ukrainian-startup-superapp-raises-16-million-for-ai-no-code-development-for-ios-and-mac": {
+    "valid": false
+  },
+  "https://techfundingnews.com/nothing-phone-4a-pro-launch-glyph-matrix/": {
+    "valid": false
+  },
+  "https://www.onlinemarketplaces.com/articles/investment-and-ma-roundup-scout24-acquires-fotocasa/": {
+    "valid": false
+  },
+  "https://financialit.net/news/fundraising-news/uala-raises-195m-funding-round-led-allianz-x": {
+    "valid": true,
+    "company": "Ual\u00e1",
+    "amount_str": "$195M",
+    "website": "https://www.ua.la",
+    "linkedin_url": "https://linkedin.com/company/ual-",
+    "founder_name": "said Pierpaolo Barbieri",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/uala"
+  },
+  "https://impactalpha.com/the-weeks-dealflow-march-6-2026/": {
+    "valid": false
+  },
+  "https://roboticsandautomationnews.com/2026/03/06/massrobotics-startups-raise-2-billion-as-boston-strengthens-its-global-robotics-hub/99298/": {
+    "valid": true,
+    "company": "MassRobotics startups",
+    "amount_str": "$2 b",
+    "website": "https://www.massrobotics.org",
+    "linkedin_url": "https://linkedin.com/company/massrobotics",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@massrobotics.org",
+    "twitter_url": "https://x.com/MassRobotics"
+  },
+  "https://therecursive.com/cee-startups-tech-weekly-new-defense-unicorn-with-ukrainian-roots/": {
+    "valid": false
+  },
+  "https://www.fintechfutures.com/venture-capital-funding/icymi-fintech-funding-round-up-wealthyhood-payr-pluvo-and-more": {
+    "valid": false
+  },
+  "https://cryptorank.io/news/feed/4eac9-ripple-prime-taps-coinbase-derivatives-to-expand-institutional-crypto-trading": {
+    "valid": false
+  },
+  "https://www.cooley.com/news/coverage/2026/2026-03-06-cooley-recognized-in-five-deals-of-the-year-awards-in-the-chinese-market": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://law.asia/china/china-deals-of-the-year-2025",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://athletechnews.com/adidas-athx-expands-to-us-miami-fitness-competition/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://atn-disrupt.vfairs.com/en",
+    "linkedin_url": "https://linkedin.com/company/relive-health",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "customersupport@vfairs.com",
+    "twitter_url": ""
+  },
+  "https://pandaily.com/knowin-completes-angel-round-financing-valued-over-300-million": {
+    "valid": false
+  },
+  "https://thenextweb.com/news/dealflowagent-ai-sme-ma-long-journey-ventures": {
+    "valid": true,
+    "company": "DealFlowAgent",
+    "amount_str": "",
+    "website": "https://www.dealflowagent.com",
+    "linkedin_url": "https://linkedin.com/company/dealflowagent",
+    "founder_name": "Joe Lewin",
+    "founder_linkedin_url": "https://linkedin.com/in/jp-lewin",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/philadelphia/news/2026/03/06/persevere-therapeutics-chesterbrook-cancer-bosch.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://en.wowtale.net/2026/03/06/233639/": {
+    "valid": true,
+    "company": "Multimodal AI Startup 'ACTIONPOWER'",
+    "amount_str": "$4.1M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.law360.com/articles/2449822/legal-tech-roundup-skribe-file-servexpress": {
+    "valid": false
+  },
+  "https://inventure.com.ua/en/news/ukraine/ukrainian-startup-superapp-raises-dollar1.6-million-for-no-code-platform": {
+    "valid": true,
+    "company": "Ukrainian startup Superapp",
+    "amount_str": "$1.6 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "who serves as",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
