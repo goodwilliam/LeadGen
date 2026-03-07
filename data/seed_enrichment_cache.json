@@ -1787,5 +1787,104 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.binance.com/en/square/post/298925993387778": {
+    "valid": false
+  },
+  "https://www.binance.com/sk/square/post/298540317361154": {
+    "valid": false
+  },
+  "https://www.marcamoney.com/peping-raises-2-5-crore-in-funding-led-by-ian-angel-fund/": {
+    "valid": false
+  },
+  "https://fintech.global/2026/03/06/vor-systems-raises-3m-to-streamline-renewable-energy-deals/": {
+    "valid": true,
+    "company": "Vor Systems",
+    "amount_str": "$3m",
+    "website": "https://www.vorsystems.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "example@mysite.com",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://www.finsmes.com/2026/03/vor-systems-raises-3m-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.binance.com/en/square/post/298540317361154": {
+    "valid": false
+  },
+  "https://pulse2.com/cheer-games-4-5-million-raised-for-mobile-puzzle-game-studio-building-franchise-titles/": {
+    "valid": true,
+    "company": "Cheer Games",
+    "amount_str": "$4.5 m",
+    "website": "https://www.gamescheer.com",
+    "linkedin_url": "",
+    "founder_name": "The founding team includes",
+    "founder_linkedin_url": "",
+    "contact_email": "service@gamescheer.com",
+    "twitter_url": ""
+  },
+  "https://dallasinnovates.com/cypher-learning-names-former-chatmeter-leader-as-ceo-as-founder-transitions-to-cto/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://thecommondesk.com/offerings",
+    "linkedin_url": "https://linkedin.com/company/common-desk",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@thecommondesk.com",
+    "twitter_url": "https://x.com/TheCommonDesk"
+  },
+  "https://www.bitget.com/amp/news/detail/12560605243975": {
+    "valid": false
+  },
+  "https://www.gamesindustry.biz/cheer-games-raises-45m-in-pre-seed-funding": {
+    "valid": true,
+    "company": "Cheer Games",
+    "amount_str": "$4.5m",
+    "website": "https://www.gamescheer.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "service@gamescheer.com",
+    "twitter_url": ""
+  },
+  "https://www.photonics.com/Videos/What-NVIDIAs-Billion-Dollar-Deals-Tell-Us-About/v1086": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://finance.yahoo.com/news/vor-systems-raises-3m-pre-140600218.html": {
+    "valid": true,
+    "company": "Vor Systems",
+    "amount_str": "$3M",
+    "website": "https://www.vorsystems.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "example@mysite.com",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://www.finsmes.com/2026/03/cheer-games-raises-4-5m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://wnhub.io/news/other/item-50261": {
+    "valid": false
+  },
+  "https://www.latitudemedia.com/news/can-ipps-benefit-from-silicon-valleys-playbook-for-scale/": {
+    "valid": false
+  },
+  "https://mobilegamer.biz/hexa-sort-creators-cheer-games-raise-4-5m/": {
+    "valid": false
+  },
+  "https://mediabrief.com/ashish-bajaj-launches-10on10-foods-with-2-crore-pre-seed-funding/": {
+    "valid": false
   }
 }
