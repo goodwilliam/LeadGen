@@ -1886,5 +1886,140 @@
   },
   "https://mediabrief.com/ashish-bajaj-launches-10on10-foods-with-2-crore-pre-seed-funding/": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/shareholders-who-lost-money-in-shares-of-navan-inc-nasdaq-navn-should-contact-wolf-haldenstein--immediately-302704976.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/edr-deadline-edr-investors-have-opportunity-to-lead-endeavor-group-holdings-inc-securities-fraud-lawsuit-302707375.html": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/news/insight/uconn-starts-big-east-tournament-run/gm-GMCC2D38C8?gemSnapshotKey=GMCC2D38C8-snapshot-9&uxmode=ruby": {
+    "valid": false
+  },
+  "https://dot.la/montgomery-summit-2026-fairmont-miramar-2675651727.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://assets.rebelmouse.io",
+    "linkedin_url": "",
+    "founder_name": "founded by March Capital",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://ventureburn.com/science-corp-raises-230m-to-advance-brain-computer-tech/": {
+    "valid": true,
+    "company": "Science Corp",
+    "amount_str": "$230M",
+    "website": "https://science.xyz",
+    "linkedin_url": "",
+    "founder_name": "Max Hodak",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://inc42.com/buzz/from-rozana-to-cent-indian-startups-raised-98-mn-this-week/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/ForkLog/status/2029970798253846985": {
+    "valid": false
+  },
+  "https://www.dlnews.com/articles/deals/ai-boom-siphoning-capital-from-crypto-startups-vcs-warn/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://t.me/dlnewsinfo",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fundtq.com/funding-for-ai-saas-startups/": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/tampabay/news/2026/03/06/sarasota-jet-startup-aerovanti-federal-dismiss.html": {
+    "valid": false
+  },
+  "https://coinfomania.com/bitcoin-payments-expand-as-utexo-secures-7-5m-from-tether/": {
+    "valid": false
+  },
+  "https://www.prweb.com/releases/durion-appoints-paul-lesure-as-ceo-to-lead-commercialization-of-breakthrough-thermal-energy-storage-technology-302706190.html": {
+    "valid": false
+  },
+  "https://www.forbes.com/sites/sofiachierchio/2026/03/06/founder-accused-by-his-own-startup-of-forgery-secret-deals-and-luxury-spending/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://arcticstartup.com/category/country/iceland/page/2/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://coinlaw.io/utexo-raises-7-5m-tether-usdt-settlement/": {
+    "valid": false
+  },
+  "https://m.economictimes.com/tech/funding/ettech-deals-digest-startups-raise-157-million-this-week-down-32-on-year/articleshow/129163774.cms": {
+    "valid": true,
+    "company": "ETtech Deals Digest: Startups",
+    "amount_str": "$157 m",
+    "website": "https://economictimes.indiatimes.com",
+    "linkedin_url": "https://linkedin.com/company/economictimes",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/economictimes"
+  },
+  "https://innovation-village.com/rh-managers-and-sefda-launch-r75-million-healthcare-sme-fund-in-south-africa/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Quinton Zunga",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fintech.global/2026/03/06/a-total-of-570m-was-raised-across-26-fintech-deals-this-week-catchup-on-them-here/": {
+    "valid": true,
+    "company": "The company",
+    "amount_str": "$38m",
+    "website": "https://www.thecompanystore.com",
+    "linkedin_url": "https://linkedin.com/company/linkedin",
+    "founder_name": "Simha Sadasiva",
+    "founder_linkedin_url": "",
+    "contact_email": "custserv@thecompanystore.com",
+    "twitter_url": "https://x.com/thecompanystore"
+  },
+  "https://www.inc.com/leila-sheridan/an-a16z-backed-startup-that-helps-people-cheat-on-job-interviews-just-got-caught-in-a-7-million-lie-the-ceo-was-sweating/91313070": {
+    "valid": false
+  },
+  "https://www.axios.com/pro/fintech-deals/2026/03/06/utexo-usdt-bitcoin-seed": {
+    "valid": false
+  },
+  "https://www.compositesworld.com/news/fibionic-secures-3-million-seed-funding-for-bionic-fiber-placement": {
+    "valid": false
   }
 }
