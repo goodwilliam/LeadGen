@@ -2051,5 +2051,145 @@
   },
   "https://www.prnewswire.com/news-releases/bybit-e-tether-approfondiscono-la-collaborazione-strategica-con-golden-season-offrendo-agli-investitori-in-criptovalute-stabilita-garantita-dalloro-302707483.html": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/data-breach-alert-edelson-lechtzin-llp-is-investigating-claims-on-behalf-of-persons-affected-by-the-trizetto-provider-solutions-tps-data-breach-302707524.html": {
+    "valid": false
+  },
+  "https://www.binance.com/en/square/post/298931077966801": {
+    "valid": false
+  },
+  "https://www.forbes.com/sites/josipamajic/2026/03/07/venture-capital-is-discovering-fashion-tech/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/03/07/diligencesquared-closes-5m-in-funding-to-bring-ai-driven-commercial-due-diligence-to-private-equity/": {
+    "valid": true,
+    "company": "DiligenceSquared",
+    "amount_str": "$5M",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/diligencesquared",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupresearcher.com/news/natura-co-leads-usd3-5-million-seed-round-for-uruguayan-biotech-antarka": {
+    "valid": false
+  },
+  "https://www.coingabbar.com/en/crypto-currency-news/utexo-usdt-bitcoin-settlement-tether-investment": {
+    "valid": true,
+    "company": "Utexo USDT Bitcoin Network",
+    "amount_str": "$7.5M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://nationaltoday.com/us/tx/paris/news/2026/03/07/fashion-tech-startups-attract-venture-capital-funding/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.tiktok.com/@www.nationaltoday.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "u002F@www.nationaltoday.com",
+    "twitter_url": ""
+  },
+  "https://egw.news/crypto/news/33032/utexo-raises-75m-led-by-tether-to-launch-native-us-aoqqB8OM3": {
+    "valid": false
+  },
+  "https://www.arabnews.com/node/2635611/business-economy": {
+    "valid": false
+  },
+  "https://www.mexc.com/news/875374": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://trochilus-web.gotoda.co/trochilus-web-sdk-integration.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://incrypted.com/en/follow-the-money-149m-in-investments-in-a-week-cefi-in-focus-and-19-new-deals/": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DVlVF1kDOMj/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-in/money/news/ai-consultancy-navikenz-raises-11-6-million-from-former-hexaware-ceo-others/ar-AA1WuZ46?ocid=finance-verthp-feeds&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": true,
+    "company": "AI consultancy Navikenz",
+    "amount_str": "$7.5 m",
+    "website": "https://www.msn.com",
+    "linkedin_url": "",
+    "founder_name": "million from former Hexaware",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techinasia.com/scifi-real-life": {
+    "valid": false
+  },
+  "https://www.india.com/news/what-barclays-ubyx-investment-signals-for-the-future-of-digital-money-8333724/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.thehealthsite.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/HealthSite4U"
+  },
+  "https://www.binance.com/ro/square/post/298931077966801": {
+    "valid": false
+  },
+  "https://www.bitget.com/amp/news/detail/12560605246316": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "of Strategy at BlockSpaceForce",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.floridatoday.com/press-release/story/78725/patientdesk-ai-raises-1m-pre-seed-backed-by-y-combinator-to-modernize-dental-front-desks/": {
+    "valid": true,
+    "company": "Patientdesk AI",
+    "amount_str": "$1M",
+    "website": "https://www.patientdesk.ai",
+    "linkedin_url": "",
+    "founder_name": "Oncel Ozgul",
+    "founder_linkedin_url": "",
+    "contact_email": "info@patientdesk.ai",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-us/news/technology/mozart-ai-announces-oversubscribed-6-million-seed-round-says-it-s-topped-100-000-users/ar-AA1W7lo7?ocid=hpmsn": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DVkkbOJjCCd/": {
+    "valid": false
   }
 }
