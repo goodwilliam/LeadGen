@@ -2191,5 +2191,70 @@
   },
   "https://www.instagram.com/p/DVkkbOJjCCd/": {
     "valid": false
+  },
+  "https://startuppoint.in/10on10-foods-secures-pre-seed-funding/": {
+    "valid": false
+  },
+  "https://www.seedtable.com/funding-round/willicroft_2022_Pre-Seed_Funding_Round-WXZEG5A": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.reddit.com/r/StartUpIndia/comments/1rmdahx/how_does_preseed_funding_actually_work_in_india/": {
+    "valid": false
+  },
+  "https://www.binance.com/en/square/post/298619008756082": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/hannah-dent-8893211a_we-have-refreshed-our-pre-seed-funding-activity-7435714858828009472-1hx6": {
+    "valid": false
+  },
+  "https://www.startups.com/requests/372cbf88-1d27-44b1-9f82-a5a51bdd59c2": {
+    "valid": false
+  },
+  "https://www.startups.com/requests/383a6118-37ef-468c-9f8d-74c4d242125b": {
+    "valid": false
+  },
+  "https://news.fintech.io/post/102mm50/vivox-ai-raises-1-3m-in-pre-seed-funding": {
+    "valid": false
+  },
+  "https://www.facebook.com/DefenseAdvancement/posts/uk-robotics-autonomy-startup-mutable-tactics-secures-21m-pre-seed-funding-to-dev/1331938248959265/": {
+    "valid": true,
+    "company": "UK robotics autonomy startup Mutable Tactics",
+    "amount_str": "$2.1M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupmafia.eu/malmo-based-robotics-startup-staer-raised-e3-5m-pre-seed-for-ai-driven-autonomous-robot-fleets": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://web.whatsapp.com/send",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://wepitched.com/blog/how-to-secure-pre-seed-funding-without-burning-your-personal-savings": {
+    "valid": true,
+    "company": "How to",
+    "amount_str": "",
+    "website": "https://www.wonderhowto.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/ryanwardell",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }

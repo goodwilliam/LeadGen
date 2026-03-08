@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T08:22:15.906663Z",
-  "count": 23,
+  "generated_at": "2026-03-08T12:33:21.218384Z",
+  "count": 24,
   "enriched_count": 17,
   "articles": [
     {
@@ -159,17 +159,31 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Vor Systems raises $3m to streamline renewable energy deals - FinTech Global",
-      "article_url": "https://fintech.global/2026/03/06/vor-systems-raises-3m-to-streamline-renewable-energy-deals/",
-      "company": "Vor Systems",
-      "amount_str": "$3m",
+      "title": "UK robotics autonomy startup Mutable Tactics secures $2.1M pre-seed funding to ... - Facebook",
+      "article_url": "https://www.facebook.com/DefenseAdvancement/posts/uk-robotics-autonomy-startup-mutable-tactics-secures-21m-pre-seed-funding-to-dev/1331938248959265/",
+      "company": "UK robotics autonomy startup Mutable Tactics",
+      "amount_str": "$2.1M",
       "pub_date": "2026-03-06",
-      "website": "https://www.vorsystems.com",
+      "website": "https://duck.ai",
       "linkedin_url": "",
       "founder_name": "",
       "founder_linkedin_url": "",
-      "contact_email": "example@mysite.com",
-      "twitter_url": "https://x.com/suricate"
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "How to Secure Pre Seed Funding Without Burning Your Personal Savings | WePitched",
+      "article_url": "https://wepitched.com/blog/how-to-secure-pre-seed-funding-without-burning-your-personal-savings",
+      "company": "How to",
+      "amount_str": "",
+      "pub_date": "2026-03-06",
+      "website": "https://www.wonderhowto.com",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "https://linkedin.com/in/ryanwardell",
+      "contact_email": "",
+      "twitter_url": ""
     },
     {
       "source": "tech.eu",
