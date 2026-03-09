@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-09T16:53:52.784936Z",
-  "count": 24,
-  "enriched_count": 17,
+  "generated_at": "2026-03-09T20:26:12.025834Z",
+  "count": 25,
+  "enriched_count": 18,
   "articles": [
     {
       "source": "tech.eu",
@@ -100,6 +100,20 @@
       "founder_linkedin_url": "",
       "contact_email": "team@mirairobotics.com",
       "twitter_url": ""
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Lucid Announces Agenda Ahead of Investor Day on March 12",
+      "article_url": "https://www.prnewswire.com/news-releases/lucid-announces-agenda-ahead-of-investor-day-on-march-12-302708313.html",
+      "company": "Lucid",
+      "amount_str": "",
+      "pub_date": "2026-03-09",
+      "website": "https://lucidmotors.com",
+      "linkedin_url": "https://linkedin.com/company/lucidmotors",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "customercare@lucidmotors.com",
+      "twitter_url": "https://x.com/LucidMotors"
     },
     {
       "source": "Google Alerts",

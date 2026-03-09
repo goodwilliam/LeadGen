@@ -2768,5 +2768,19 @@
   },
   "https://unric.org/en/2026-young-champions-of-the-earth-award/": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/nktr-investors-have-opportunity-to-lead-nektar-therapeutics-securities-fraud-lawsuit-302708504.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/lucid-announces-agenda-ahead-of-investor-day-on-march-12-302708313.html": {
+    "valid": true,
+    "company": "Lucid",
+    "amount_str": "",
+    "website": "https://lucidmotors.com",
+    "linkedin_url": "https://linkedin.com/company/lucidmotors",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "customercare@lucidmotors.com",
+    "twitter_url": "https://x.com/LucidMotors"
   }
 }
