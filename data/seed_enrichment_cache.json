@@ -2403,5 +2403,187 @@
     "founder_linkedin_url": "",
     "contact_email": "press@nscale.com",
     "twitter_url": "https://x.com/nscale_cloud"
+  },
+  "https://venturebeat.com/orchestration/enterprise-agentic-ai-requires-a-process-layer-most-companies-havent-built": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/venture/data-series-b-startup-funding-ai-defense-health/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/09/uk-manufacturing-startup-isembard-secures-50m/": {
+    "valid": true,
+    "company": "UK manufacturing startup Isembard",
+    "amount_str": "$50M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/09/university-of-edinburgh-spin-out-biocaptiva-raises-ps158m-and-launches-liquid-biopsy-technology-in-the-us/": {
+    "valid": true,
+    "company": "University of Edinburgh biotech spin-out BIOCAPTIVA",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/09/nvidia-backed-nscale-raises-2bn-appoints-sheryl-sandberg-nick-clegg-to-board/": {
+    "valid": true,
+    "company": "Nvidia-backed Nscale",
+    "amount_str": "$2B",
+    "website": "https://www.techbuzz.ai",
+    "linkedin_url": "https://linkedin.com/company/the-tech-buzz",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@techbuzz.ai",
+    "twitter_url": "https://x.com/tbuzzdaily"
+  },
+  "https://tech.eu/2026/03/09/mirai-robotics-raises-4-2m-pre-seed-to-build-autonomous-dual-defence-maritime-systems/": {
+    "valid": true,
+    "company": "Mirai Robotics",
+    "amount_str": "$4.2M",
+    "website": "https://www.mirairobotics.in",
+    "linkedin_url": "https://linkedin.com/company/mirai-robotics",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "team@mirairobotics.com",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/09/european-tech-weekly-recap-eur1b-in-deals-and-februarys-highlights/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/scranton-injury-attorney-curt-parkins-joins-pisanchyn-law-firm-as-firm-secures-major-car-accident-ruling-302707015.html": {
+    "valid": false
+  },
+  "https://www.binance.com/en/square/post/299645430805714": {
+    "valid": false
+  },
+  "https://fortune.com/2026/03/08/ai-founder-logan-brown-quit-law-job-entrepreneurship-working-harder-now-than-ever/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/mirai-robotics-snaps-4-2m-to-bring-autonomous-intelligence-to-the-worlds-oceans/": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/03/italys-ai-robotics-startup-mirai-robotics-raises-e3-6-million-to-build-autonomous-systems-for-maritime-operations/": {
+    "valid": false
+  },
+  "https://thenextweb.com/news/telura-exits-stealth-with-e4m": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://img-cdn.tnwcdn.com/image",
+    "linkedin_url": "",
+    "founder_name": "who serves as",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.afr.com/technology/eucalyptus-millionaires-target-new-start-up-investments-with-15m-fund-20260226-p5o5ne": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://alib.nine.com.au",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/vor-systems-raises-3m-pre-seed": {
+    "valid": false
+  },
+  "https://www.phocuswire.com/interviews/startups/startup-state-biztrip-ai": {
+    "valid": false
+  },
+  "https://www.mexc.com/news/883750": {
+    "valid": false
+  },
+  "https://sifted.eu/articles/nucleus-first-momentum-telura/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://bsky.app/profile/sifted.eu",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://i-hls.com/archives/134466": {
+    "valid": false
+  },
+  "https://i-hls.com/archives/133166": {
+    "valid": false
+  },
+  "https://finance.yahoo.com/news/ai-founder-quit-her-9-080300798.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https:&#x2F;&#x2F;www.yahoo.com&#x2F;",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://entarabi.com/en/2026/03/cerebras-systems-plans-new-global-ipo-led-by-morgan-stanley-with-2-billion-investment/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bitget.com/amp/news/detail/12560605247617": {
+    "valid": false
+  },
+  "https://gam3s.gg/news/cheer-games-raises-4m-to-expand-puzzle-game-studio/": {
+    "valid": true,
+    "company": "The studio",
+    "amount_str": "$4.5 m",
+    "website": "https://www.imdb.com",
+    "linkedin_url": "https://linkedin.com/company/thestudioworldwide",
+    "founder_name": "Emre Gercel",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.binance.com/en/square/post/03-07-2026-ethereum-layer-2-payments-rail-aims-to-bypass-visa-and-mastercard-299074729515202": {
+    "valid": false
+  },
+  "https://finance.yahoo.com/news/inside-quest-colossus-replace-visa-180102726.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://decrypt.co/360147/inside-quest-colossus-replace-visa-mastercard-kyc-less-crypto-cards",
+    "linkedin_url": "https://linkedin.com/company/decrypt-media",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "you@emailaddress.com",
+    "twitter_url": "https://x.com/josephdelong"
   }
 }
