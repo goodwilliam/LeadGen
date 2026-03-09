@@ -2313,5 +2313,75 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/orcl-investors-have-opportunity-to-lead-oracle-corporation-securities-fraud-lawsuit-302707699.html": {
+    "valid": false
+  },
+  "https://eu.36kr.com/en/p/3711571451572360": {
+    "valid": false
+  },
+  "https://nationaltoday.com/us/wa/redmond/news/2026/03/08/starcloud-launches-first-space-based-bitcoin-mining-satellite/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.tiktok.com/@www.nationaltoday.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "u002F@www.nationaltoday.com",
+    "twitter_url": ""
+  },
+  "https://bharatfast.com/english/entrepreneur/meet-the-10-women-founders-who-built-industry-giants-and-are-shaping-the-future-of-indian-startups/31670/": {
+    "valid": false
+  },
+  "https://www.capitalbrief.com/article/longevity-play-tmrw-raises-7m-seed-round-from-tidal-and-inks-trudiagnostic-deal-8960189c-f6d4-4798-b0f8-9693292486a8/": {
+    "valid": true,
+    "company": "Longevity play TMRW",
+    "amount_str": "$7m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bayelsawatch.com/vectrix-raises-1-2m/": {
+    "valid": true,
+    "company": "Vectrix",
+    "amount_str": "$1.2M",
+    "website": "https://vectrix.ai",
+    "linkedin_url": "https://linkedin.com/company/vectrixai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "in_dbgr@dubois-granulats.co.uk",
+    "twitter_url": ""
+  },
+  "https://entarabi.com/en/2026/03/robinhood-ventures-fund-i-falls-11-on-first-trading-day-on-the-new-york-stock-exchange/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.lawnext.com/2026/03/legal-tech-vendors-roll-out-wave-of-announcements-ahead-of-legalweek-news-from-disco-advocacy-imanage-monjur-reveal-and-chronotracer-and-align.html": {
+    "valid": false
+  },
+  "https://invezz.com/news/2026/03/07/why-the-ai-funding-surge-is-distorting-the-ecosystem-for-female-founders/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.cloudflare.com/5xx-error-landing",
+    "linkedin_url": "https://linkedin.com/company/cloudflare",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/cloudflare"
+  },
+  "https://www.pressreader.com/saudi-arabia/arab-news/20260308/281917369577156": {
+    "valid": false
   }
 }
