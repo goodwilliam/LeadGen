@@ -2265,5 +2265,53 @@
   },
   "https://www.prnewswire.com/news-releases/bitcoin-treasuries-media-announces-the-ultimate-bitcoin-vegas-2026-kick-off-302707641.html": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/03/08/palmer-luckeys-retro-gaming-startup-modretro-reportedly-seeks-funding-at-1b-valuation/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/crwv-deadline-crwv-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-coreweave-inc-securities-fraud-lawsuit-302707380.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/pascal-desroches-to-update-shareholders-at-deutsche-bank-media-internet--telecom-conference-on-march-9-302707497.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rgnx-investors-have-opportunity-to-lead-regenxbio-inc-securities-fraud-lawsuit-302707264.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/nyse-kd-kessler-topaz-meltzer--check-llp-announces-the-filing-of-a-securities-fraud-class-action-lawsuit-against-kyndryl-holdings-inc-302706241.html": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/ivelina-dineva-nft_startups-fundraising-funding-activity-7436406626078830593-HSeO": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupmap.iamsterdam.com/news/note/h-formerly-holistic-ai-raises-220m-seed-round": {
+    "valid": true,
+    "company": "H (Formerly Holistic AI)",
+    "amount_str": "$220M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/forbes/posts/when-phoebe-gates-and-sophia-kianni-founded-ai-shopping-platform-phia-from-their/1301168828539771/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }

@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-03-08T20:17:49.233413Z",
+  "generated_at": "2026-03-09T01:21:41.539220Z",
   "count": 21,
-  "enriched_count": 15,
+  "enriched_count": 14,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "H (Formerly Holistic AI) Raises $220M Seed Round | IAmsterdam startup map",
+      "article_url": "https://startupmap.iamsterdam.com/news/note/h-formerly-holistic-ai-raises-220m-seed-round",
+      "company": "H (Formerly Holistic AI)",
+      "amount_str": "$220M",
+      "pub_date": "2026-03-08",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "DiligenceSquared Closes $5M in Funding to Bring AI-Driven Commercial Due Diligence to ...",
@@ -43,20 +57,6 @@
       "founder_name": "million from former Hexaware",
       "founder_linkedin_url": "",
       "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Patientdesk AI Raises $1M Pre-Seed Backed by Y Combinator to Modernize Dental Front Desks",
-      "article_url": "https://www.floridatoday.com/press-release/story/78725/patientdesk-ai-raises-1m-pre-seed-backed-by-y-combinator-to-modernize-dental-front-desks/",
-      "company": "Patientdesk AI",
-      "amount_str": "$1M",
-      "pub_date": "2026-03-07",
-      "website": "https://www.patientdesk.ai",
-      "linkedin_url": "",
-      "founder_name": "Oncel Ozgul",
-      "founder_linkedin_url": "",
-      "contact_email": "info@patientdesk.ai",
       "twitter_url": ""
     },
     {
