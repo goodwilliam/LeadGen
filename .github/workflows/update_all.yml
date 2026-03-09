@@ -33,9 +33,6 @@ jobs:
       - name: Fetch seed funding news
         run: python fetch_seed.py
 
-      - name: Fetch job board postings
-        run: python fetch_jobs.py
-
       - name: Commit and push if data changed
         if: always()
         run: |

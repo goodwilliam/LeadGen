@@ -27,7 +27,11 @@ HEADERS = {"User-Agent": USER_AGENT, "Accept": "application/json"}
 
 OUTPUT_PATH   = Path("data/jobs.json")
 SNAPSHOT_PATH = Path("data/jobs_snapshot.json")
-SLEEP         = 0.25  # seconds between requests per platform
+SLEEP         = 0.25  # seconds between requests
+MAX_COMPANIES = 300   # max companies to output (sorted by new_role_count)
+MAX_ROLES_OUT = 5     # max roles to store per company in output JSON
+# If >20% of all scraped jobs are "new", the snapshot is stale/test — rebuild silently
+STALE_SNAPSHOT_RATIO = 0.20 per platform
 
 # Company list CSVs from the public stapply-ai/ats-scrapers repo
 COMPANY_LISTS = {
@@ -292,8 +296,19 @@ def main():
             print(f"  {name}: +{len(new_roles)} new", flush=True)
             time.sleep(SLEEP)
 
-    # Sort by new role count
+    # If the snapshot was stale (e.g. test run / first real run), treat as baseline
+    total_current = len(all_current_urls)
+    if not is_first_run and total_current > 0 and total_new > total_current * STALE_SNAPSHOT_RATIO:
+        print(f"\nSnapshot stale ({total_new} new / {total_current} total = {total_new/total_current:.0%}). Rebuilding baseline silently.", flush=True)
+        is_first_run = True
+        companies_with_new = []
+        total_new = 0
+
+    # Cap output size — sort by new role count, keep top N, trim roles list
     companies_with_new.sort(key=lambda x: x["new_role_count"], reverse=True)
+    companies_with_new = companies_with_new[:MAX_COMPANIES]
+    for c in companies_with_new:
+        c["new_roles"] = c["new_roles"][:MAX_ROLES_OUT]
 
     # Save snapshot
     save_snapshot(all_current_urls if all_current_urls else old_urls, today)
