@@ -277,6 +277,9 @@
   <button class="tab-btn" data-tab="seed">
     Seed Funding <span class="tab-count" id="count-seed">—</span>
   </button>
+  <button class="tab-btn" data-tab="jobs">
+    Job Boards <span class="tab-count" id="count-jobs">—</span>
+  </button>
 </nav>
 
 <!-- ════════════════════════════════════════════════════════
@@ -485,6 +488,54 @@
       <div class="empty-state" id="seed-empty" style="display:none">
         <h2>No seed articles match your filters</h2>
         <p>Try a different source or clear the search.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════════════════════
+     TAB 5 — Job Boards
+════════════════════════════════════════════════════════ -->
+<div id="tab-jobs" class="tab-content">
+  <div class="filters">
+    <div class="filter-group">
+      <input type="text" id="jobs-search" placeholder="Search company…" autocomplete="off">
+    </div>
+    <div class="filter-group">
+      <label>ATS</label>
+      <div class="btn-group" id="jobs-ats">
+        <button data-ats="all" class="active">All</button>
+        <button data-ats="ashby">Ashby</button>
+        <button data-ats="greenhouse">Greenhouse</button>
+        <button data-ats="lever">Lever</button>
+      </div>
+    </div>
+    <div class="filter-group">
+      <button class="toggle-btn" id="jobs-signal-toggle">Design Signal Only</button>
+    </div>
+  </div>
+  <div class="main">
+    <div class="stats" id="jobs-stats"></div>
+    <div class="table-wrap">
+      <div class="loading" id="jobs-loading">
+        <span class="loading-dot">●</span>
+        <span class="loading-dot" style="animation-delay:.2s">●</span>
+        <span class="loading-dot" style="animation-delay:.4s">●</span>
+      </div>
+      <table id="jobs-table" style="display:none">
+        <thead><tr>
+          <th data-col="company">Company <span class="si">↕</span></th>
+          <th data-col="ats">ATS <span class="si">↕</span></th>
+          <th data-col="new_role_count" class="sorted">New Today <span class="si">↓</span></th>
+          <th data-col="total_open_roles">Total Open <span class="si">↕</span></th>
+          <th>New Roles</th>
+          <th>Links</th>
+        </tr></thead>
+        <tbody id="jobs-tbody"></tbody>
+      </table>
+      <div class="empty-state" id="jobs-empty" style="display:none">
+        <h2>No new job postings yet</h2>
+        <p>On the first run the script builds a baseline — check back tomorrow for diffs.</p>
       </div>
     </div>
   </div>
@@ -871,6 +922,79 @@ bindToggle("seed-contact-toggle", v => { seedContactOnly = v; seedRender(); });
 document.getElementById("seed-search").addEventListener("input", e => { seedSearch = e.target.value.toLowerCase().trim(); seedRender(); });
 
 // ════════════════════════════════════════════════════════
+// TAB 5 — Job Boards
+// ════════════════════════════════════════════════════════
+let jobsItems = [], jobsSortCol = "new_role_count", jobsSortAsc = false;
+let jobsAts = "all", jobsSearch = "", jobsSignalOnly = false;
+
+const ATS_BADGE = {
+  ashby:      "badge-green",
+  greenhouse: "badge-blue",
+  lever:      "badge-orange",
+};
+
+function jobsFilter() {
+  return jobsItems.filter(x => {
+    if (jobsAts !== "all" && x.ats !== jobsAts) return false;
+    if (jobsSignalOnly && !x.design_signal) return false;
+    if (jobsSearch && !x.company.toLowerCase().includes(jobsSearch)) return false;
+    return true;
+  }).sort((a, b) => {
+    let av = a[jobsSortCol] ?? 0, bv = b[jobsSortCol] ?? 0;
+    if (jobsSortCol === "company" || jobsSortCol === "ats") { av = String(av); bv = String(bv); }
+    if (av < bv) return jobsSortAsc ? -1 : 1;
+    if (av > bv) return jobsSortAsc ? 1 : -1;
+    return 0;
+  });
+}
+
+function jobsRenderRow(x) {
+  const atsBadge = `<span class="badge ${ATS_BADGE[x.ats] || 'badge-gray'}">${esc(x.ats)}</span>`;
+  const newBadge = x.new_role_count >= 5
+    ? `<span class="badge badge-green">+${x.new_role_count}</span>`
+    : x.new_role_count >= 2
+      ? `<span class="badge badge-yellow">+${x.new_role_count}</span>`
+      : `<span class="badge badge-gray">+${x.new_role_count}</span>`;
+  const signal = x.design_signal
+    ? `<span class="badge badge-purple" title="New role suggests design need">Signal</span> `
+    : "";
+  const roles = (x.new_roles || []).slice(0, 3).map(r =>
+    `<a class="action-link" href="${esc(r.url)}" target="_blank" rel="noopener" title="${esc(r.location)}">${esc(r.title)}</a>`
+  ).join(" ");
+  const more = x.new_roles.length > 3
+    ? `<span class="muted" style="font-size:11px">+${x.new_roles.length - 3} more</span>` : "";
+  const boardLink = `<a class="action-link" href="${esc(x.job_board_url)}" target="_blank" rel="noopener">Board</a>`;
+  const liLink = `<a class="action-link" href="${esc(x.linkedin_search)}" target="_blank" rel="noopener">LinkedIn</a>`;
+
+  return `<tr>
+    <td><span class="link-name" style="cursor:default">${signal}${esc(x.company)}</span></td>
+    <td>${atsBadge}</td>
+    <td class="num">${newBadge}</td>
+    <td class="num muted">${x.total_open_roles}</td>
+    <td style="max-width:320px"><div class="action-links" style="flex-wrap:wrap;gap:3px">${roles}${more}</div></td>
+    <td><span class="action-links">${boardLink}${liLink}</span></td>
+  </tr>`;
+}
+
+function jobsRender() {
+  const rows = jobsFilter();
+  const signalCount = jobsItems.filter(x => x.design_signal).length;
+  document.getElementById("jobs-stats").innerHTML =
+    `Showing <span>${rows.length}</span> of <span>${jobsItems.length}</span> companies with new postings · <span>${signalCount}</span> with design signal`;
+  showTable("jobs-table", "jobs-loading", "jobs-empty", "jobs-tbody", rows.map(jobsRenderRow));
+}
+
+makeSorter("jobs-table",
+  () => ({ col: jobsSortCol, asc: jobsSortAsc }),
+  (c, a) => { jobsSortCol = c; jobsSortAsc = a; },
+  jobsRender
+);
+
+bindBtnGroup("jobs-ats", d => { jobsAts = d.ats; jobsRender(); });
+bindToggle("jobs-signal-toggle", v => { jobsSignalOnly = v; jobsRender(); });
+document.getElementById("jobs-search").addEventListener("input", e => { jobsSearch = e.target.value.toLowerCase().trim(); jobsRender(); });
+
+// ════════════════════════════════════════════════════════
 // Data loading
 // ════════════════════════════════════════════════════════
 function setCount(id, n) {
@@ -878,11 +1002,12 @@ function setCount(id, n) {
 }
 
 async function loadAll() {
-  const [ycRes, crRes, topRes, seedRes] = await Promise.allSettled([
+  const [ycRes, crRes, topRes, seedRes, jobsRes] = await Promise.allSettled([
     fetch("./data/yc.json").then(r => r.json()),
     fetch("./data/crypto.json").then(r => r.json()),
     fetch("./data/crypto_top.json").then(r => r.json()),
     fetch("./data/seed.json").then(r => r.json()),
+    fetch("./data/jobs.json").then(r => r.json()),
   ]);
 
   // ── YC ────────────────────────────────────────────────
@@ -938,8 +1063,28 @@ async function loadAll() {
     setCount("count-seed", 0);
   }
 
+  // ── Job Boards ────────────────────────────────────────
+  if (jobsRes.status === "fulfilled") {
+    const data = jobsRes.value;
+    jobsItems = data.companies_hiring || [];
+    setCount("count-jobs", jobsItems.length);
+    document.getElementById("jobs-loading").style.display = "none";
+    if (data.is_first_run) {
+      document.getElementById("jobs-loading").style.display = "none";
+      document.getElementById("jobs-table").style.display = "none";
+      document.getElementById("jobs-empty").style.display = "block";
+      document.getElementById("jobs-empty").innerHTML =
+        `<h2>Baseline built</h2><p>Snapshot of ${(data.snapshot_date ? "jobs as of today" : "all current jobs")} saved. Run the script again tomorrow to see new postings.</p>`;
+    } else {
+      jobsRender();
+    }
+  } else {
+    document.getElementById("jobs-loading").innerHTML = `<span style="color:var(--red)">Failed to load — run fetch_jobs.py</span>`;
+    setCount("count-jobs", 0);
+  }
+
   // ── Header meta ───────────────────────────────────────
-  const anyTs = [ycRes, crRes, topRes, seedRes]
+  const anyTs = [ycRes, crRes, topRes, seedRes, jobsRes]
     .find(r => r.status === "fulfilled" && r.value.generated_at);
   if (anyTs) {
     document.getElementById("header-meta").textContent =
