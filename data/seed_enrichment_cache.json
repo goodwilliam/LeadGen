@@ -2383,5 +2383,25 @@
   },
   "https://www.pressreader.com/saudi-arabia/arab-news/20260308/281917369577156": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/vtgn-investors-have-opportunity-to-lead-vistagen-therapeutics-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302707860.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/plug-investors-have-opportunity-to-lead-plug-power-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302707831.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/metc-investors-have-opportunity-to-lead-ramaco-resources-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302707827.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/nscale-raises-2-billion-in-series-c--the-largest-in-european-history-302707945.html": {
+    "valid": true,
+    "company": "Nscale",
+    "amount_str": "$2 B",
+    "website": "https://www.nscale.com/press-releases/nscale-series-c",
+    "linkedin_url": "https://linkedin.com/company/nscale-cloud",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "press@nscale.com",
+    "twitter_url": "https://x.com/nscale_cloud"
   }
 }
