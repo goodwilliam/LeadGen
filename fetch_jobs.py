@@ -244,7 +244,7 @@ JOB_BOARD_BASE = {
 # ── Signals ───────────────────────────────────────────────────────────────────
 
 def kw_match(title: str, keywords: list[str]) -> bool:
-    t = title.lower()
+    t = (title or "").lower()
     return any(kw in t for kw in keywords)
 
 def calc_signals(new_roles: list[dict], all_roles: list[dict],
