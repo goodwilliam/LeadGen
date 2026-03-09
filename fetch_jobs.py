@@ -1,11 +1,16 @@
 """
 fetch_jobs.py — Daily ATS job board tracker
 
-Monitors Ashby, Greenhouse, and Lever job boards for ~4,500 companies.
-Diffs against yesterday's snapshot to surface companies with new openings.
+Monitors Ashby, Greenhouse, and Lever job boards for ~5,900 companies.
+Tracks first-seen date per URL so we can show both daily AND weekly new postings.
 
-First run builds a baseline snapshot — no output companies yet.
-Second run onwards shows what's actually new since yesterday.
+Signals per company:
+  design_signal  — new role in marketing/growth/brand (incoming design budget)
+  senior_hire    — new VP/Head/C-level hire (budget decision-maker arriving)
+  no_designer    — company has ZERO design/UX roles currently (clear gap)
+  remote         — company is hiring remote roles
+  small_company  — <15 total open roles (startup, no in-house team)
+  first_seen     — company never appeared in our snapshot before
 
 Usage: python fetch_jobs.py [--limit N]
 Output: data/jobs.json, data/jobs_snapshot.json
@@ -16,103 +21,121 @@ import io
 import json
 import sys
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from urllib.parse import quote
 
 import requests
 
-USER_AGENT = "DesignAgencyLeadGen/1.0 (contact@yourdesignagency.com)"
-HEADERS = {"User-Agent": USER_AGENT, "Accept": "application/json"}
-
+USER_AGENT    = "DesignAgencyLeadGen/1.0 (contact@yourdesignagency.com)"
+HEADERS       = {"User-Agent": USER_AGENT, "Accept": "application/json"}
 OUTPUT_PATH   = Path("data/jobs.json")
 SNAPSHOT_PATH = Path("data/jobs_snapshot.json")
-SLEEP         = 0.25  # seconds between requests
-MAX_COMPANIES = 300   # max companies to output (sorted by new_role_count)
-MAX_ROLES_OUT = 5     # max roles to store per company in output JSON
-# If >20% of all scraped jobs are "new", the snapshot is stale/test — rebuild silently
-STALE_SNAPSHOT_RATIO = 0.20 per platform
+SLEEP         = 0.25   # seconds between requests
+MAX_COMPANIES = 300    # cap output (sorted by new_week_count)
+MAX_ROLES_OUT = 5      # max roles stored per company in output
+SMALL_CO_MAX  = 15     # total_open_roles threshold for "small company"
+WEEK_DAYS     = 7      # "new this week" window
+# If >20% of all scraped jobs are "new", snapshot is stale → rebuild baseline
+STALE_RATIO   = 0.20
 
-# Company list CSVs from the public stapply-ai/ats-scrapers repo
 COMPANY_LISTS = {
     "ashby":      "https://raw.githubusercontent.com/stapply-ai/ats-scrapers/main/ashby/companies.csv",
     "greenhouse": "https://raw.githubusercontent.com/stapply-ai/ats-scrapers/main/greenhouse/greenhouse_companies.csv",
     "lever":      "https://raw.githubusercontent.com/stapply-ai/ats-scrapers/main/lever/lever_companies.csv",
 }
 
-# Titles that suggest an incoming design need (company is spending on marketing/brand)
-DESIGN_SIGNAL_KEYWORDS = [
+# New role titles → incoming design budget signal
+DESIGN_SIGNAL_KW = [
     "marketing", "growth", "brand", "content", "creative", "social media",
     "communications", "demand gen", "revenue", "head of", "vp ", "vice president",
-    "cmo ", "designer", " ux", " ui ", "user experience", "visual design",
+    "cmo ", " ux", " ui ", "user experience", "visual design",
     "product manager", "product lead", "go-to-market", "gtm",
 ]
 
+# New role is a senior decision-maker
+SENIOR_KW = [
+    "head of", "vp ", "vice president", "director", "cto", "coo", "cmo", "cpo",
+    "chief ", "svp", "evp", "president", "partner", "principal",
+]
+
+# Any current role that looks like in-house design work
+DESIGNER_ROLE_KW = [
+    "designer", " design", "ux", "ui ", "user experience", "visual",
+    "creative director", "art director", "motion", "graphic",
+]
+
+# Locations that suggest remote-friendly
+REMOTE_KW = ["remote", "anywhere", "distributed", "work from home", "wfh"]
+
 
 # ── Snapshot ──────────────────────────────────────────────────────────────────
+# Format: { "date": "YYYY-MM-DD", "jobs": { url: first_seen_date }, "companies_seen": [slug, ...] }
 
-def load_snapshot() -> tuple[set, str]:
+def load_snapshot() -> tuple[dict, str, set]:
+    """Returns (jobs_dict {url: date}, snapshot_date, companies_seen_set)."""
     if SNAPSHOT_PATH.exists():
         try:
             data = json.loads(SNAPSHOT_PATH.read_text())
-            return set(data.get("urls", [])), data.get("date", "")
+            # Migrate old format: { "urls": [...] }
+            if "urls" in data and "jobs" not in data:
+                today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+                jobs = {u: today for u in data["urls"]}
+                return jobs, data.get("date", today), set(data.get("companies_seen", []))
+            jobs = data.get("jobs", {})
+            companies_seen = set(data.get("companies_seen", []))
+            return jobs, data.get("date", ""), companies_seen
         except Exception:
             pass
-    return set(), ""
+    return {}, "", set()
 
 
-def save_snapshot(urls: set, date: str):
+def save_snapshot(jobs: dict, companies_seen: set, date: str):
     SNAPSHOT_PATH.parent.mkdir(parents=True, exist_ok=True)
     SNAPSHOT_PATH.write_text(json.dumps({
-        "date": date,
-        "count": len(urls),
-        "urls": sorted(urls),
+        "date":           date,
+        "count":          len(jobs),
+        "jobs":           jobs,
+        "companies_seen": sorted(companies_seen),
     }))
 
 
 # ── Company lists ─────────────────────────────────────────────────────────────
 
-def extract_slug_name(row: dict, ats: str) -> tuple[str, str]:
-    """Flexibly extract (slug, name) from a CSV row regardless of column names."""
+def extract_slug_name(row: dict) -> tuple[str, str]:
     slug = (row.get("slug") or row.get("company_slug") or "").strip()
     name = (row.get("name") or row.get("company_name") or row.get("company") or "").strip()
-
     if not slug:
         url_val = (row.get("url") or row.get("job_board_url") or row.get("link") or "").strip()
         if url_val:
             slug = url_val.rstrip("/").split("/")[-1]
-
     if not slug and row:
-        # Last resort: first column value that looks like a slug
         for v in row.values():
             v = v.strip()
             if v and "/" not in v and "." not in v and len(v) < 80:
                 slug = v
                 break
-
     return slug.strip(), (name or slug).strip()
 
 
 def fetch_company_list(ats: str) -> list[dict]:
-    url = COMPANY_LISTS[ats]
     print(f"  Downloading {ats} companies...", flush=True)
     try:
-        r = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=30)
+        r = requests.get(COMPANY_LISTS[ats], headers={"User-Agent": USER_AGENT}, timeout=30)
         r.raise_for_status()
         reader = csv.DictReader(io.StringIO(r.text))
         companies = []
         for row in reader:
-            slug, name = extract_slug_name(row, ats)
+            slug, name = extract_slug_name(row)
             if not slug:
                 continue
-            # Skip numeric Greenhouse board IDs — they're legacy entries with no readable name
             if ats == "greenhouse" and slug.isdigit():
-                continue
+                continue  # skip legacy numeric board IDs
             companies.append({"slug": slug, "name": name})
-        print(f"    {len(companies)} companies loaded", flush=True)
+        print(f"    {len(companies)} companies", flush=True)
         return companies
     except Exception as e:
-        print(f"    Error fetching {ats} company list: {e}", flush=True)
+        print(f"    Error: {e}", flush=True)
         return []
 
 
@@ -151,7 +174,6 @@ def get_greenhouse_jobs(slug: str) -> list[dict]:
             headers=HEADERS, timeout=10,
         )
         if r.status_code != 200:
-            # Try the newer boards-api endpoint
             r = requests.get(
                 f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs",
                 headers=HEADERS, timeout=10,
@@ -186,8 +208,11 @@ def get_lever_jobs(slug: str) -> list[dict]:
         )
         if r.status_code != 200:
             return []
+        data = r.json()
+        if not isinstance(data, list):
+            return []
         jobs = []
-        for job in r.json() if isinstance(r.json(), list) else []:
+        for job in data:
             url = job.get("hostedUrl", "")
             if not url:
                 continue
@@ -218,13 +243,26 @@ JOB_BOARD_BASE = {
 
 # ── Signals ───────────────────────────────────────────────────────────────────
 
-def has_design_signal(roles: list[dict]) -> bool:
-    """True if any new role title suggests upcoming design budget."""
-    for role in roles:
-        t = role["title"].lower()
-        if any(kw in t for kw in DESIGN_SIGNAL_KEYWORDS):
-            return True
-    return False
+def kw_match(title: str, keywords: list[str]) -> bool:
+    t = title.lower()
+    return any(kw in t for kw in keywords)
+
+def calc_signals(new_roles: list[dict], all_roles: list[dict],
+                 slug: str, companies_seen: set) -> dict:
+    all_titles = [r["title"] for r in all_roles]
+    all_locations = [r["location"] for r in all_roles]
+
+    has_designer = any(kw_match(t, DESIGNER_ROLE_KW) for t in all_titles)
+    has_remote   = any(kw_match(loc, REMOTE_KW) for loc in all_locations)
+
+    return {
+        "design_signal":  any(kw_match(r["title"], DESIGN_SIGNAL_KW) for r in new_roles),
+        "senior_hire":    any(kw_match(r["title"], SENIOR_KW) for r in new_roles),
+        "no_designer":    not has_designer,
+        "remote":         has_remote,
+        "small_company":  len(all_roles) < SMALL_CO_MAX,
+        "first_seen":     slug not in companies_seen,
+    }
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
@@ -238,99 +276,126 @@ def main():
             pass
 
     print("Loading snapshot...", flush=True)
-    old_urls, snapshot_date = load_snapshot()
+    old_jobs, snapshot_date, companies_seen = load_snapshot()
+    old_urls = set(old_jobs.keys())
     is_first_run = not old_urls
 
+    today     = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    week_ago  = (datetime.now(timezone.utc) - timedelta(days=WEEK_DAYS)).strftime("%Y-%m-%d")
+
     if is_first_run:
-        print("First run — building baseline. No diff output this run.", flush=True)
+        print("First run — building baseline.", flush=True)
     else:
         print(f"Snapshot: {len(old_urls)} jobs from {snapshot_date}", flush=True)
 
-    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    all_current_urls: set = set()
-    companies_with_new: list[dict] = []
-    total_new = 0
+    # new_jobs tracks {url: first_seen_date} for everything we find this run
+    new_jobs: dict = dict(old_jobs)  # start with existing, update below
+    new_companies_seen: set = set(companies_seen)
+    companies_out: list[dict] = []
+    total_new_today = 0
 
     for ats in ("ashby", "greenhouse", "lever"):
         print(f"\n── {ats.title()} ──", flush=True)
         company_list = fetch_company_list(ats)
         if limit:
             company_list = company_list[:limit]
-        fetcher = FETCHERS[ats]
 
-        for i, company in enumerate(company_list):
+        for company in company_list:
             slug = company["slug"]
             name = company["name"]
 
-            jobs = fetcher(slug)
-            if not jobs:
+            all_roles = FETCHERS[ats](slug)
+            if not all_roles:
                 time.sleep(SLEEP)
                 continue
 
-            current_urls = {j["url"] for j in jobs if j.get("url")}
-            all_current_urls.update(current_urls)
+            current_urls = {j["url"] for j in all_roles if j.get("url")}
+
+            # Mark new URLs with today's date
+            for url in current_urls:
+                if url not in new_jobs:
+                    new_jobs[url] = today
+
+            # Track this company as seen
+            new_companies_seen.add(slug)
 
             if is_first_run:
                 time.sleep(SLEEP)
                 continue
 
-            new_urls = current_urls - old_urls
-            if not new_urls:
+            # New today = URLs not in old snapshot at all
+            today_urls = current_urls - old_urls
+            # New this week = URLs first seen within the last 7 days
+            week_urls  = {u for u in current_urls if new_jobs.get(u, "0") >= week_ago}
+
+            if not week_urls:
                 time.sleep(SLEEP)
                 continue
 
-            new_roles = [j for j in jobs if j.get("url") in new_urls]
-            total_new += len(new_roles)
+            today_roles = [j for j in all_roles if j.get("url") in today_urls]
+            week_roles  = [j for j in all_roles if j.get("url") in week_urls]
+
+            total_new_today += len(today_roles)
+
+            signals = calc_signals(week_roles, all_roles, slug, companies_seen)
 
             job_board_url = JOB_BOARD_BASE[ats].format(slug=slug)
-            companies_with_new.append({
-                "company":         name,
-                "ats":             ats,
-                "new_roles":       new_roles,
-                "new_role_count":  len(new_roles),
-                "total_open_roles": len(jobs),
-                "job_board_url":   job_board_url,
-                "design_signal":   has_design_signal(new_roles),
-                "linkedin_search": f"https://www.linkedin.com/search/results/all/?keywords={quote(name)}",
+            companies_out.append({
+                "company":          name,
+                "ats":              ats,
+                "new_today":        today_roles[:MAX_ROLES_OUT],
+                "new_this_week":    week_roles[:MAX_ROLES_OUT],
+                "new_today_count":  len(today_roles),
+                "new_week_count":   len(week_urls),
+                "total_open_roles": len(all_roles),
+                "job_board_url":    job_board_url,
+                "linkedin_search":  f"https://www.linkedin.com/search/results/all/?keywords={quote(name)}",
+                "signals":          signals,
             })
-            print(f"  {name}: +{len(new_roles)} new", flush=True)
+
+            if today_roles:
+                print(f"  {name}: +{len(today_roles)} today, +{len(week_urls)} this week", flush=True)
             time.sleep(SLEEP)
 
-    # If the snapshot was stale (e.g. test run / first real run), treat as baseline
-    total_current = len(all_current_urls)
-    if not is_first_run and total_current > 0 and total_new > total_current * STALE_SNAPSHOT_RATIO:
-        print(f"\nSnapshot stale ({total_new} new / {total_current} total = {total_new/total_current:.0%}). Rebuilding baseline silently.", flush=True)
+    # Stale snapshot guard
+    total_current = len({u for u in new_jobs if new_jobs[u] == today})
+    if not is_first_run and total_current > 0 and total_new_today > total_current * STALE_RATIO:
+        print(f"\nSnapshot stale ({total_new_today}/{total_current} = {total_new_today/total_current:.0%}). Rebuilding baseline.", flush=True)
         is_first_run = True
-        companies_with_new = []
-        total_new = 0
+        companies_out = []
+        total_new_today = 0
 
-    # Cap output size — sort by new role count, keep top N, trim roles list
-    companies_with_new.sort(key=lambda x: x["new_role_count"], reverse=True)
-    companies_with_new = companies_with_new[:MAX_COMPANIES]
-    for c in companies_with_new:
-        c["new_roles"] = c["new_roles"][:MAX_ROLES_OUT]
+    # Cap + sort by weekly new count
+    companies_out.sort(key=lambda x: (x["new_week_count"], x["new_today_count"]), reverse=True)
+    companies_out = companies_out[:MAX_COMPANIES]
 
     # Save snapshot
-    save_snapshot(all_current_urls if all_current_urls else old_urls, today)
-    print(f"\nSnapshot saved: {len(all_current_urls or old_urls)} total URLs", flush=True)
+    save_snapshot(new_jobs, new_companies_seen, today)
+    print(f"\nSnapshot: {len(new_jobs)} total URLs tracked", flush=True)
 
-    # Save output
+    # Purge URLs older than 60 days to keep snapshot lean
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=60)).strftime("%Y-%m-%d")
+    pruned = {u: d for u, d in new_jobs.items() if d >= cutoff}
+    if len(pruned) < len(new_jobs):
+        save_snapshot(pruned, new_companies_seen, today)
+        print(f"Pruned snapshot to {len(pruned)} URLs (removed entries older than 60 days)", flush=True)
+
     output = {
-        "generated_at":     datetime.now(timezone.utc).isoformat(),
-        "snapshot_date":    snapshot_date,
-        "today":            today,
-        "is_first_run":     is_first_run,
-        "new_jobs_count":   total_new,
-        "companies_count":  len(companies_with_new),
-        "companies_hiring": companies_with_new,
+        "generated_at":      datetime.now(timezone.utc).isoformat(),
+        "snapshot_date":     snapshot_date,
+        "today":             today,
+        "is_first_run":      is_first_run,
+        "new_today_count":   total_new_today,
+        "companies_count":   len(companies_out),
+        "companies_hiring":  companies_out,
     }
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_PATH.write_text(json.dumps(output, indent=2))
 
     if is_first_run:
-        print(f"Baseline of {len(all_current_urls)} jobs saved. Run again tomorrow for diffs.")
+        print(f"Baseline built. Run again tomorrow to see new postings.")
     else:
-        print(f"Done. {total_new} new jobs across {len(companies_with_new)} companies → {OUTPUT_PATH}")
+        print(f"Done. {total_new_today} new today across {len(companies_out)} companies → {OUTPUT_PATH}")
 
 
 if __name__ == "__main__":

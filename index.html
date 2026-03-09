@@ -502,6 +502,13 @@
       <input type="text" id="jobs-search" placeholder="Search company…" autocomplete="off">
     </div>
     <div class="filter-group">
+      <label>Window</label>
+      <div class="btn-group" id="jobs-window">
+        <button data-window="week" class="active">This Week</button>
+        <button data-window="today">Today</button>
+      </div>
+    </div>
+    <div class="filter-group">
       <label>ATS</label>
       <div class="btn-group" id="jobs-ats">
         <button data-ats="all" class="active">All</button>
@@ -511,7 +518,10 @@
       </div>
     </div>
     <div class="filter-group">
-      <button class="toggle-btn" id="jobs-signal-toggle">Design Signal Only</button>
+      <button class="toggle-btn" id="jobs-signal-toggle">Design Signal</button>
+      <button class="toggle-btn" id="jobs-nodesgn-toggle">No Designer</button>
+      <button class="toggle-btn" id="jobs-remote-toggle">Remote</button>
+      <button class="toggle-btn" id="jobs-small-toggle">Small Co</button>
     </div>
   </div>
   <div class="main">
@@ -526,8 +536,9 @@
         <thead><tr>
           <th data-col="company">Company <span class="si">↕</span></th>
           <th data-col="ats">ATS <span class="si">↕</span></th>
-          <th data-col="new_role_count" class="sorted">New Today <span class="si">↓</span></th>
+          <th data-col="new_week_count" class="sorted">New <span class="si">↓</span></th>
           <th data-col="total_open_roles">Total Open <span class="si">↕</span></th>
+          <th>Signals</th>
           <th>New Roles</th>
           <th>Links</th>
         </tr></thead>
@@ -924,63 +935,91 @@ document.getElementById("seed-search").addEventListener("input", e => { seedSear
 // ════════════════════════════════════════════════════════
 // TAB 5 — Job Boards
 // ════════════════════════════════════════════════════════
-let jobsItems = [], jobsSortCol = "new_role_count", jobsSortAsc = false;
-let jobsAts = "all", jobsSearch = "", jobsSignalOnly = false;
+let jobsItems = [], jobsSortCol = "new_week_count", jobsSortAsc = false;
+let jobsAts = "all", jobsWindow = "week", jobsSearch = "";
+let jobsSignalOnly = false, jobsNoDesigner = false, jobsRemote = false, jobsSmall = false;
 
-const ATS_BADGE = {
-  ashby:      "badge-green",
-  greenhouse: "badge-blue",
-  lever:      "badge-orange",
-};
+const ATS_BADGE = { ashby: "badge-green", greenhouse: "badge-blue", lever: "badge-orange" };
+
+function jobsCountCol() {
+  return jobsWindow === "today" ? "new_today_count" : "new_week_count";
+}
+
+function jobsRolesKey() {
+  return jobsWindow === "today" ? "new_today" : "new_this_week";
+}
 
 function jobsFilter() {
   return jobsItems.filter(x => {
     if (jobsAts !== "all" && x.ats !== jobsAts) return false;
-    if (jobsSignalOnly && !x.design_signal) return false;
+    const s = x.signals || {};
+    if (jobsSignalOnly && !s.design_signal) return false;
+    if (jobsNoDesigner && !s.no_designer)   return false;
+    if (jobsRemote    && !s.remote)         return false;
+    if (jobsSmall     && !s.small_company)  return false;
+    const count = x[jobsCountCol()] || 0;
+    if (count === 0) return false;
     if (jobsSearch && !x.company.toLowerCase().includes(jobsSearch)) return false;
     return true;
   }).sort((a, b) => {
-    let av = a[jobsSortCol] ?? 0, bv = b[jobsSortCol] ?? 0;
-    if (jobsSortCol === "company" || jobsSortCol === "ats") { av = String(av); bv = String(bv); }
+    const col = jobsSortCol === "new_role_count" ? jobsCountCol() : jobsSortCol;
+    let av = a[col] ?? 0, bv = b[col] ?? 0;
+    if (col === "company" || col === "ats") { av = String(av); bv = String(bv); }
     if (av < bv) return jobsSortAsc ? -1 : 1;
     if (av > bv) return jobsSortAsc ? 1 : -1;
     return 0;
   });
 }
 
+function jobsSignalBadges(s) {
+  if (!s) return "";
+  const badges = [];
+  if (s.design_signal)  badges.push(`<span class="badge badge-purple"  title="New hire in marketing/growth → design budget incoming">Design $</span>`);
+  if (s.no_designer)    badges.push(`<span class="badge badge-orange"   title="No designer on their job board — clear gap">No Design</span>`);
+  if (s.senior_hire)    badges.push(`<span class="badge badge-blue"     title="New VP/Head/C-level hire → budget decision maker">Senior</span>`);
+  if (s.first_seen)     badges.push(`<span class="badge badge-yellow"   title="Company appearing on job boards for the first time">New Co</span>`);
+  if (s.remote)         badges.push(`<span class="badge badge-green"    title="Remote roles available">Remote</span>`);
+  if (s.small_company)  badges.push(`<span class="badge badge-gray"     title="Under 15 open roles — likely a startup">Small</span>`);
+  return badges.join(" ");
+}
+
 function jobsRenderRow(x) {
   const atsBadge = `<span class="badge ${ATS_BADGE[x.ats] || 'badge-gray'}">${esc(x.ats)}</span>`;
-  const newBadge = x.new_role_count >= 5
-    ? `<span class="badge badge-green">+${x.new_role_count}</span>`
-    : x.new_role_count >= 2
-      ? `<span class="badge badge-yellow">+${x.new_role_count}</span>`
-      : `<span class="badge badge-gray">+${x.new_role_count}</span>`;
-  const signal = x.design_signal
-    ? `<span class="badge badge-purple" title="New role suggests design need">Signal</span> `
-    : "";
-  const roles = (x.new_roles || []).slice(0, 3).map(r =>
+  const count = x[jobsCountCol()] || 0;
+  const todayCount = x.new_today_count || 0;
+  const weekCount  = x.new_week_count  || 0;
+  const newBadge = count >= 5
+    ? `<span class="badge badge-green">+${count}</span>`
+    : count >= 2
+      ? `<span class="badge badge-yellow">+${count}</span>`
+      : `<span class="badge badge-gray">+${count}</span>`;
+  const subCount = jobsWindow === "week" && todayCount > 0
+    ? ` <span class="muted" style="font-size:11px">+${todayCount} today</span>` : "";
+
+  const roles = (x[jobsRolesKey()] || []).slice(0, 3).map(r =>
     `<a class="action-link" href="${esc(r.url)}" target="_blank" rel="noopener" title="${esc(r.location)}">${esc(r.title)}</a>`
   ).join(" ");
-  const more = x.new_roles.length > 3
-    ? `<span class="muted" style="font-size:11px">+${x.new_roles.length - 3} more</span>` : "";
+
   const boardLink = `<a class="action-link" href="${esc(x.job_board_url)}" target="_blank" rel="noopener">Board</a>`;
-  const liLink = `<a class="action-link" href="${esc(x.linkedin_search)}" target="_blank" rel="noopener">LinkedIn</a>`;
+  const liLink    = `<a class="action-link" href="${esc(x.linkedin_search)}" target="_blank" rel="noopener">LinkedIn</a>`;
 
   return `<tr>
-    <td><span class="link-name" style="cursor:default">${signal}${esc(x.company)}</span></td>
+    <td><span class="link-name" style="cursor:default">${esc(x.company)}</span></td>
     <td>${atsBadge}</td>
-    <td class="num">${newBadge}</td>
+    <td class="num">${newBadge}${subCount}</td>
     <td class="num muted">${x.total_open_roles}</td>
-    <td style="max-width:320px"><div class="action-links" style="flex-wrap:wrap;gap:3px">${roles}${more}</div></td>
+    <td><div class="chip-list">${jobsSignalBadges(x.signals)}</div></td>
+    <td style="max-width:280px"><div class="action-links" style="flex-wrap:wrap;gap:3px">${roles}</div></td>
     <td><span class="action-links">${boardLink}${liLink}</span></td>
   </tr>`;
 }
 
 function jobsRender() {
   const rows = jobsFilter();
-  const signalCount = jobsItems.filter(x => x.design_signal).length;
+  const total = jobsItems.filter(x => (x[jobsCountCol()] || 0) > 0).length;
+  const noDesignCount = jobsItems.filter(x => x.signals?.no_designer && (x[jobsCountCol()] || 0) > 0).length;
   document.getElementById("jobs-stats").innerHTML =
-    `Showing <span>${rows.length}</span> of <span>${jobsItems.length}</span> companies with new postings · <span>${signalCount}</span> with design signal`;
+    `Showing <span>${rows.length}</span> of <span>${total}</span> companies hiring · <span>${noDesignCount}</span> with no in-house designer`;
   showTable("jobs-table", "jobs-loading", "jobs-empty", "jobs-tbody", rows.map(jobsRenderRow));
 }
 
@@ -990,8 +1029,12 @@ makeSorter("jobs-table",
   jobsRender
 );
 
-bindBtnGroup("jobs-ats", d => { jobsAts = d.ats; jobsRender(); });
+bindBtnGroup("jobs-window", d => { jobsWindow = d.window; jobsRender(); });
+bindBtnGroup("jobs-ats",    d => { jobsAts = d.ats;       jobsRender(); });
 bindToggle("jobs-signal-toggle", v => { jobsSignalOnly = v; jobsRender(); });
+bindToggle("jobs-nodesgn-toggle", v => { jobsNoDesigner = v; jobsRender(); });
+bindToggle("jobs-remote-toggle",  v => { jobsRemote = v;     jobsRender(); });
+bindToggle("jobs-small-toggle",   v => { jobsSmall = v;      jobsRender(); });
 document.getElementById("jobs-search").addEventListener("input", e => { jobsSearch = e.target.value.toLowerCase().trim(); jobsRender(); });
 
 // ════════════════════════════════════════════════════════
@@ -1067,14 +1110,14 @@ async function loadAll() {
   if (jobsRes.status === "fulfilled") {
     const data = jobsRes.value;
     jobsItems = data.companies_hiring || [];
-    setCount("count-jobs", jobsItems.length);
+    const activeCount = jobsItems.filter(x => (x.new_week_count || 0) > 0).length;
+    setCount("count-jobs", activeCount || jobsItems.length);
     document.getElementById("jobs-loading").style.display = "none";
     if (data.is_first_run) {
-      document.getElementById("jobs-loading").style.display = "none";
       document.getElementById("jobs-table").style.display = "none";
       document.getElementById("jobs-empty").style.display = "block";
       document.getElementById("jobs-empty").innerHTML =
-        `<h2>Baseline built</h2><p>Snapshot of ${(data.snapshot_date ? "jobs as of today" : "all current jobs")} saved. Run the script again tomorrow to see new postings.</p>`;
+        `<h2>Baseline built</h2><p>Snapshot saved as of ${data.today || "today"}. Run the workflow again tomorrow to see new postings.</p>`;
     } else {
       jobsRender();
     }
