@@ -2585,5 +2585,188 @@
     "founder_linkedin_url": "",
     "contact_email": "you@emailaddress.com",
     "twitter_url": "https://x.com/josephdelong"
+  },
+  "https://techcrunch.com/2026/03/09/xprize-founder-peter-diamandis-launches-new-contest-to-manifest-a-new-star-trek/": {
+    "valid": false
+  },
+  "https://venturebeat.com/orchestration/microsoft-announces-copilot-cowork-with-help-from-anthropic-a-cloud-powered": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/09/february-2026s-top-10-european-tech-deals-you-need-to-know-about/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/09/cytotrait-raises-ps3m-for-agricultural-gene-editing-technology/": {
+    "valid": true,
+    "company": "Cytotrait",
+    "amount_str": "",
+    "website": "https://www.cytotrait.com",
+    "linkedin_url": "https://linkedin.com/company/plant-organelle-technologies",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@plantorganelletech.com",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/09/ils-secures-seed-funding-to-expand-provision-legal-workflow-platform/": {
+    "valid": true,
+    "company": "ILS",
+    "amount_str": "",
+    "website": "https://ilshealth.com",
+    "linkedin_url": "https://linkedin.com/company/independent-living-systems-llc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ILSHealth"
+  },
+  "https://tech.eu/2026/03/09/saltz-raises-eur20m-to-build-global-chef-supplier-marketplace/": {
+    "valid": true,
+    "company": "Saltz",
+    "amount_str": "",
+    "website": "https://saltzusa.com",
+    "linkedin_url": "https://linkedin.com/company/saltzapp",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-gsi-technology-inc-investors-to-inquire-about-securities-class-action-investigation--gsit-302707601.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/the-five-shifts-that-separate-first-time-ceos-from-lasting-ones-with-mike-viola-icf-certified-executive-coach-302708240.html": {
+    "valid": false
+  },
+  "https://techfundingnews.com/augur-raises-15m-plural-critical-infrastructure-ai/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Luckey seeks",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/manchester-spinout-cytotrait-bags-3m-to-build-more-resilient-crops/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/nscale-raises-2b-series-c-europe-largest-ai-infra/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/orca-fraud-raises-2-35m-emerging-markets-fraud-detection/": {
+    "valid": true,
+    "company": "Orca Fraud",
+    "amount_str": "$2.35M",
+    "website": "https://www.orca-fraud.com",
+    "linkedin_url": "https://linkedin.com/company/101437150",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://goodday.feji.io/blog/lions-get-big-penei-sewell-news-after-surprising-announcement-nhuquynh": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/03/09/the-week-ahead-in-ai-why-ai-startups-stall-claude-use-surges-us-weighs-new-chip-rules-plus-other-weekend-briefs-upcoming-earnings-events/": {
+    "valid": false
+  },
+  "https://www.binance.com/en/square/post/299696208208497": {
+    "valid": false
+  },
+  "https://weetracker.com/2026/03/09/njiapay-raises-2-1m-seed-payment-orchestration-africa/": {
+    "valid": false
+  },
+  "https://www.binance.com/en-IN/square/post/299696208208497": {
+    "valid": false
+  },
+  "https://nypost.com/2026/03/09/business/ai-startups-ceo-threatened-to-call-ex-nyc-mayor-eric-adams-after-getting-fired-over-alleged-fraudulent-stock-sales-court-docs/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.agriinvestor.com/field-notes-builders-vision-bets-on-ag-value-chain-for-greater-control-new-forests-acquires-macadamia-orchards/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.peievents.com/en",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fortune.com/2026/03/09/robinhood-ventures-databricks-ramp-private-markets-openai-anthropic-spacex-vlad-tenev/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cxense.com/ari.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.panewslab.com/en/articles/019cd216-33e0-7078-816f-7f1821dd662a": {
+    "valid": false
+  },
+  "https://www.axios.com/pro/fintech-deals/2026/03/09/nevada-charter-axiom-trust-lightspeed-wealth-transfer": {
+    "valid": false
+  },
+  "https://www.axios.com/pro/climate-deals/2026/03/09/coral-samir-pendse-heat-pump-energy-rebates": {
+    "valid": true,
+    "company": "Coral",
+    "amount_str": "$7.5 m",
+    "website": "http://www.thecoral.co.uk",
+    "linkedin_url": "https://linkedin.com/company/connect-coral",
+    "founder_name": "seed and seed funding",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://koreatechdesk.com/korea-startup-funding-march-2026-ai-healthcare-industrial-ai": {
+    "valid": false
+  },
+  "https://lynnwoodtimes.com/2026/03/08/cocoa-butter/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/ils-raises-3m-chicago-ventures-private-funds-legal-tech/": {
+    "valid": true,
+    "company": "ILS",
+    "amount_str": "$3M",
+    "website": "https://ilshealth.com",
+    "linkedin_url": "https://linkedin.com/company/independent-living-systems-llc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ILSHealth"
+  },
+  "https://ventureburn.com/augur-raises-15m-to-expand-ai-security-for-infrastructure/": {
+    "valid": true,
+    "company": "Augur",
+    "amount_str": "$15M",
+    "website": "https://augur.ml",
+    "linkedin_url": "https://linkedin.com/company/augur",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@augur.ml",
+    "twitter_url": ""
+  },
+  "https://techafricanews.com/2026/03/09/njiapay-closes-2-1m-seed-round-to-boost-payment-reliability-across-africa/": {
+    "valid": true,
+    "company": "NjiaPay",
+    "amount_str": "$2.1M",
+    "website": "https://www.njiapay.com",
+    "linkedin_url": "https://linkedin.com/company/njiapay",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://unric.org/en/2026-young-champions-of-the-earth-award/": {
+    "valid": false
   }
 }
