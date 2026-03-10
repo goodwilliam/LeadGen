@@ -2999,5 +2999,184 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/10/legaltech-legora-raises-550m-series-d-at-5-55b-valuation-to-accelerate-us-expansion/": {
+    "valid": true,
+    "company": "Legaltech Legora",
+    "amount_str": "$550M",
+    "website": "https://duck.ai",
+    "linkedin_url": "https://linkedin.com/company/wearelegora",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/10/avvoka-secures-ps14m-to-advance-ai-drafting-tools-for-law-firms/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/10/hosel-raises-500k-pre-seed-to-create-the-vinted-for-golf/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/10/inter-ikea-group-backs-seprifys-eur134m-series-a-to-scale-cellulose-materials-platform/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/10/yann-lecun-s-paris-based-ai-world-model-startup-raises-more-than-1bn/": {
+    "valid": true,
+    "company": "Yann LeCun\u2019s Paris-based AI world model startup",
+    "amount_str": "$1B",
+    "website": "https://www.techmeme.com",
+    "linkedin_url": "https://linkedin.com/company/arduino",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "person@company.com",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/10/200m-funding-eridu-wants-break-network-wall-holding-back-ai/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/10/nyad-launches-commercial-solution-wastewater-operators-1-3m-funding/": {
+    "valid": true,
+    "company": "The company also announced it",
+    "amount_str": "$1.3 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/stramsen-biotech-is-valued-at-19-billion-seeks-investment-banks-and-law-firms-and-reserves-sbrx-as-its-trading-symbol-302708973.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/qure-alert-fda-reportedly-accuses-uniqure-of-pushing-distorted-and-manipulated-data-for-failed-amt-130-drug-amid-pending-securities-class-action--hagens-berman-302708939.html": {
+    "valid": false
+  },
+  "https://medium.com/@joycejshen/joyce-shens-picks-musings-and-readings-in-ai-ml-march-9-2026-f63450769217": {
+    "valid": false
+  },
+  "https://www.swfinstitute.org/transaction/69aefd67589c22430f268268": {
+    "valid": false
+  },
+  "https://startupmap.iamsterdam.com/news/feed/anmasa-raises-1-1m-in-pre-seed-funding": {
+    "valid": true,
+    "company": "Anmasa",
+    "amount_str": "$1.1 m",
+    "website": "https://www.anmasa.com",
+    "linkedin_url": "https://linkedin.com/company/shopanmasa",
+    "founder_name": "demands weekend email responses",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bionity.com/en/news/1188245/mycoverse-raises-2-4-million-pre-seed-funding-to-fight-potato-late-blight-in-europe-using-fungi.html": {
+    "valid": false
+  },
+  "https://empowerafrica.com/south-african-fintech-njiapay-raises-2-1m-seed-funding-to-scale-payment-orchestration-across-africa/": {
+    "valid": true,
+    "company": "South African fintech startup NjiaPay",
+    "amount_str": "$2.1 m",
+    "website": "https://thelagostoday.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@thelagostoday.com",
+    "twitter_url": "https://x.com/lagostodayng"
+  },
+  "https://www.instagram.com/p/DVn3optESgu/": {
+    "valid": false
+  },
+  "https://devstyler.io/blog/2026/03/09/cheer-games-raises-4-5m-pre-seed-to-build-community-focused-mobile-games/": {
+    "valid": true,
+    "company": "Cheer Games",
+    "amount_str": "$4.5M",
+    "website": "https://www.gamescheer.com",
+    "linkedin_url": "https://linkedin.com/company/cheergames",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "service@gamescheer.com",
+    "twitter_url": ""
+  },
+  "https://www.ainvest.com/news/soxton-2-5m-pre-seed-liquidity-test-ai-legal-disruption-2603/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://finance.yahoo.com/news/soxton-ai-emerges-stealth-2-140000414.html",
+    "linkedin_url": "https://linkedin.com/company/yahoo-finance",
+    "founder_name": "but the",
+    "founder_linkedin_url": "",
+    "contact_email": "soxton@solcomms.co",
+    "twitter_url": "https://x.com/YahooFinance"
+  },
+  "https://www.startup-weekly.com/Mirai-Robotics-raises-4-2m-pre-seed-funding-to-build-autonomous-maritime-systems/": {
+    "valid": true,
+    "company": "Mirai Robotics",
+    "amount_str": "$4.2m",
+    "website": "https://miraitech.ai",
+    "linkedin_url": "https://linkedin.com/company/mirai-robotics",
+    "founder_name": "of Mirai Robotics",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@miraitech.ai",
+    "twitter_url": "https://x.com/mirairobotic"
+  },
+  "https://x.com/TFNBreakingNews/status/2030928447024099812/photo/1": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.d74f1a3a.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/inc_arabia/status/2030886301508174095": {
+    "valid": false
+  },
+  "https://medial.app/news/vor-systems-raises-dollar3m-pre-seed-or-the-saas-news-c07cafeea094e": {
+    "valid": true,
+    "company": "Vor Systems",
+    "amount_str": "$3M",
+    "website": "https://www.vorsystems.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "example@mysite.com",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://medial.app/news/advocacy-raises-dollar35-million-in-seed-round-or-the-saas-news-f084fda8c9bc9": {
+    "valid": true,
+    "company": "BiteSpeed",
+    "amount_str": "$3.5 m",
+    "website": "https://www.bitespeed.co",
+    "linkedin_url": "https://linkedin.com/company/bitespeed",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@bitespeed.co",
+    "twitter_url": ""
+  },
+  "https://www.reddit.com/r/Entrepreneurs/comments/1ro48up/any_founders_who_are_raising_funds_preseed_to/": {
+    "valid": false
+  },
+  "https://startupmap.iamsterdam.com/news/feed/julius-ai-secures-500k-pre-seed-funding": {
+    "valid": true,
+    "company": "Julius AI",
+    "amount_str": "$500K",
+    "website": "https://www.insightplatforms.com",
+    "linkedin_url": "https://linkedin.com/company/insight-platforms",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/insightpltfrms"
+  },
+  "https://startupmap.iamsterdam.com/news/feed/stuck-ai-secures-six-figure-pre-seed-funding": {
+    "valid": true,
+    "company": "Stuck.AI",
+    "amount_str": "",
+    "website": "https://sur.ly",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
