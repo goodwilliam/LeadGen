@@ -32,12 +32,11 @@ HEADERS       = {"User-Agent": USER_AGENT, "Accept": "application/json"}
 OUTPUT_PATH   = Path("data/jobs.json")
 SNAPSHOT_PATH = Path("data/jobs_snapshot.json")
 SLEEP         = 0.25   # seconds between requests
-MAX_COMPANIES = 300    # cap output (sorted by new_week_count)
+MAX_COMPANIES = 500    # cap output (sorted by new_month_count)
 MAX_ROLES_OUT = 5      # max roles stored per company in output
 SMALL_CO_MAX  = 15     # total_open_roles threshold for "small company"
 WEEK_DAYS     = 7      # "new this week" window
-# If >20% of all scraped jobs are "new", snapshot is stale → rebuild baseline
-STALE_RATIO   = 0.20
+MONTH_DAYS    = 30     # "new this month" window
 
 COMPANY_LISTS = {
     "ashby":      "https://raw.githubusercontent.com/stapply-ai/ats-scrapers/main/ashby/companies.csv",
@@ -280,8 +279,9 @@ def main():
     old_urls = set(old_jobs.keys())
     is_first_run = not old_urls
 
-    today     = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    week_ago  = (datetime.now(timezone.utc) - timedelta(days=WEEK_DAYS)).strftime("%Y-%m-%d")
+    today      = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    week_ago   = (datetime.now(timezone.utc) - timedelta(days=WEEK_DAYS)).strftime("%Y-%m-%d")
+    month_ago  = (datetime.now(timezone.utc) - timedelta(days=MONTH_DAYS)).strftime("%Y-%m-%d")
 
     if is_first_run:
         print("First run — building baseline.", flush=True)
@@ -293,6 +293,7 @@ def main():
     new_companies_seen: set = set(companies_seen)
     companies_out: list[dict] = []
     total_new_today = 0
+    total_new_month = 0
 
     for ats in ("ashby", "greenhouse", "lever"):
         print(f"\n── {ats.title()} ──", flush=True)
@@ -327,46 +328,40 @@ def main():
             today_urls = current_urls - old_urls
             # New this week = URLs first seen within the last 7 days
             week_urls  = {u for u in current_urls if new_jobs.get(u, "0") >= week_ago}
-
-            if not week_urls:
-                time.sleep(SLEEP)
-                continue
+            # New this month = URLs first seen within the last 30 days
+            month_urls = {u for u in current_urls if new_jobs.get(u, "0") >= month_ago}
 
             today_roles = [j for j in all_roles if j.get("url") in today_urls]
             week_roles  = [j for j in all_roles if j.get("url") in week_urls]
+            month_roles = [j for j in all_roles if j.get("url") in month_urls]
 
             total_new_today += len(today_roles)
+            total_new_month += len(month_roles)
 
-            signals = calc_signals(week_roles, all_roles, slug, companies_seen)
+            signals = calc_signals(month_roles, all_roles, slug, companies_seen)
 
             job_board_url = JOB_BOARD_BASE[ats].format(slug=slug)
             companies_out.append({
-                "company":          name,
-                "ats":              ats,
-                "new_today":        today_roles[:MAX_ROLES_OUT],
-                "new_this_week":    week_roles[:MAX_ROLES_OUT],
-                "new_today_count":  len(today_roles),
-                "new_week_count":   len(week_urls),
-                "total_open_roles": len(all_roles),
-                "job_board_url":    job_board_url,
-                "linkedin_search":  f"https://www.linkedin.com/search/results/all/?keywords={quote(name)}",
-                "signals":          signals,
+                "company":           name,
+                "ats":               ats,
+                "new_today":         today_roles[:MAX_ROLES_OUT],
+                "new_this_week":     week_roles[:MAX_ROLES_OUT],
+                "new_this_month":    month_roles[:MAX_ROLES_OUT],
+                "new_today_count":   len(today_roles),
+                "new_week_count":    len(week_urls),
+                "new_month_count":   len(month_urls),
+                "total_open_roles":  len(all_roles),
+                "job_board_url":     job_board_url,
+                "linkedin_search":   f"https://www.linkedin.com/search/results/all/?keywords={quote(name)}",
+                "signals":           signals,
             })
 
             if today_roles:
-                print(f"  {name}: +{len(today_roles)} today, +{len(week_urls)} this week", flush=True)
+                print(f"  {name}: +{len(today_roles)} today, +{len(week_urls)} week, +{len(month_urls)} month", flush=True)
             time.sleep(SLEEP)
 
-    # Stale snapshot guard
-    total_current = len({u for u in new_jobs if new_jobs[u] == today})
-    if not is_first_run and total_current > 0 and total_new_today > total_current * STALE_RATIO:
-        print(f"\nSnapshot stale ({total_new_today}/{total_current} = {total_new_today/total_current:.0%}). Rebuilding baseline.", flush=True)
-        is_first_run = True
-        companies_out = []
-        total_new_today = 0
-
-    # Cap + sort by weekly new count
-    companies_out.sort(key=lambda x: (x["new_week_count"], x["new_today_count"]), reverse=True)
+    # Cap + sort: most new this month first, then week, then today
+    companies_out.sort(key=lambda x: (x["new_month_count"], x["new_week_count"], x["new_today_count"]), reverse=True)
     companies_out = companies_out[:MAX_COMPANIES]
 
     # Save snapshot
@@ -386,6 +381,7 @@ def main():
         "today":             today,
         "is_first_run":      is_first_run,
         "new_today_count":   total_new_today,
+        "new_month_count":   total_new_month,
         "companies_count":   len(companies_out),
         "companies_hiring":  companies_out,
     }
@@ -395,7 +391,7 @@ def main():
     if is_first_run:
         print(f"Baseline built. Run again tomorrow to see new postings.")
     else:
-        print(f"Done. {total_new_today} new today across {len(companies_out)} companies → {OUTPUT_PATH}")
+        print(f"Done. {total_new_today} new today, {total_new_month} new this month across {len(companies_out)} companies → {OUTPUT_PATH}")
 
 
 if __name__ == "__main__":

@@ -504,7 +504,8 @@
     <div class="filter-group">
       <label>Window</label>
       <div class="btn-group" id="jobs-window">
-        <button data-window="week" class="active">This Week</button>
+        <button data-window="month" class="active">This Month</button>
+        <button data-window="week">This Week</button>
         <button data-window="today">Today</button>
       </div>
     </div>
@@ -536,7 +537,7 @@
         <thead><tr>
           <th data-col="company">Company <span class="si">↕</span></th>
           <th data-col="ats">ATS <span class="si">↕</span></th>
-          <th data-col="new_week_count" class="sorted">New <span class="si">↓</span></th>
+          <th data-col="new_month_count" class="sorted">New <span class="si">↓</span></th>
           <th data-col="total_open_roles">Total Open <span class="si">↕</span></th>
           <th>Signals</th>
           <th>New Roles</th>
@@ -935,18 +936,22 @@ document.getElementById("seed-search").addEventListener("input", e => { seedSear
 // ════════════════════════════════════════════════════════
 // TAB 5 — Job Boards
 // ════════════════════════════════════════════════════════
-let jobsItems = [], jobsSortCol = "new_week_count", jobsSortAsc = false;
-let jobsAts = "all", jobsWindow = "week", jobsSearch = "";
+let jobsItems = [], jobsSortCol = "new_month_count", jobsSortAsc = false;
+let jobsAts = "all", jobsWindow = "month", jobsSearch = "";
 let jobsSignalOnly = false, jobsNoDesigner = false, jobsRemote = false, jobsSmall = false;
 
 const ATS_BADGE = { ashby: "badge-green", greenhouse: "badge-blue", lever: "badge-orange" };
 
 function jobsCountCol() {
-  return jobsWindow === "today" ? "new_today_count" : "new_week_count";
+  if (jobsWindow === "today") return "new_today_count";
+  if (jobsWindow === "week")  return "new_week_count";
+  return "new_month_count";
 }
 
 function jobsRolesKey() {
-  return jobsWindow === "today" ? "new_today" : "new_this_week";
+  if (jobsWindow === "today") return "new_today";
+  if (jobsWindow === "week")  return "new_this_week";
+  return "new_this_month";
 }
 
 function jobsFilter() {
@@ -993,8 +998,12 @@ function jobsRenderRow(x) {
     : count >= 2
       ? `<span class="badge badge-yellow">+${count}</span>`
       : `<span class="badge badge-gray">+${count}</span>`;
-  const subCount = jobsWindow === "week" && todayCount > 0
-    ? ` <span class="muted" style="font-size:11px">+${todayCount} today</span>` : "";
+  const monthCount = x.new_month_count || 0;
+  const subCount = jobsWindow === "month" && weekCount > 0
+    ? ` <span class="muted" style="font-size:11px">+${weekCount} wk</span>`
+    : jobsWindow === "week" && todayCount > 0
+    ? ` <span class="muted" style="font-size:11px">+${todayCount} today</span>`
+    : "";
 
   const roles = (x[jobsRolesKey()] || []).slice(0, 3).map(r =>
     `<a class="action-link" href="${esc(r.url)}" target="_blank" rel="noopener" title="${esc(r.location)}">${esc(r.title)}</a>`
@@ -1110,7 +1119,7 @@ async function loadAll() {
   if (jobsRes.status === "fulfilled") {
     const data = jobsRes.value;
     jobsItems = data.companies_hiring || [];
-    const activeCount = jobsItems.filter(x => (x.new_week_count || 0) > 0).length;
+    const activeCount = jobsItems.filter(x => (x.new_month_count || 0) > 0).length;
     setCount("count-jobs", activeCount || jobsItems.length);
     document.getElementById("jobs-loading").style.display = "none";
     if (data.is_first_run) {
