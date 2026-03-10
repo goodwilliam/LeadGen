@@ -67,6 +67,17 @@ DESIGNER_ROLE_KW = [
 # Locations that suggest remote-friendly
 REMOTE_KW = ["remote", "anywhere", "distributed", "work from home", "wfh"]
 
+# Crypto/web3 signals — checked against role titles, departments, AND company slug/name
+CRYPTO_ROLE_KW = [
+    "blockchain", "web3", "web 3", "solidity", "smart contract", "defi", "nft",
+    "dao", "crypto", "on-chain", "onchain", "wallet", "layer 2", "l2 ", "zk ",
+    "zero knowledge", "validator", "staking", "tokenomics", "dex ", "dapp",
+]
+CRYPTO_NAME_KW = [
+    "protocol", "chain", "defi", "dao", "swap", "finance", "network", "crypto",
+    "labs", "xyz", "fi ", ".fi", "web3", "blockchain", "token", "nft", "layer",
+]
+
 
 # ── Snapshot ──────────────────────────────────────────────────────────────────
 # Format: { "date": "YYYY-MM-DD", "jobs": { url: first_seen_date }, "companies_seen": [slug, ...] }
@@ -247,12 +258,21 @@ def kw_match(title: str, keywords: list[str]) -> bool:
     return any(kw in t for kw in keywords)
 
 def calc_signals(new_roles: list[dict], all_roles: list[dict],
-                 slug: str, companies_seen: set) -> dict:
-    all_titles = [r["title"] for r in all_roles]
-    all_locations = [r["location"] for r in all_roles]
+                 slug: str, name: str, companies_seen: set) -> dict:
+    all_titles      = [r["title"] for r in all_roles]
+    all_departments = [r.get("department", "") for r in all_roles]
+    all_locations   = [r["location"] for r in all_roles]
 
     has_designer = any(kw_match(t, DESIGNER_ROLE_KW) for t in all_titles)
     has_remote   = any(kw_match(loc, REMOTE_KW) for loc in all_locations)
+
+    # Method 1: any role title or department mentions crypto terms
+    crypto_by_role = (
+        any(kw_match(t, CRYPTO_ROLE_KW) for t in all_titles) or
+        any(kw_match(d, CRYPTO_ROLE_KW) for d in all_departments)
+    )
+    # Method 3: company slug or name contains crypto terms
+    crypto_by_name = kw_match(slug, CRYPTO_NAME_KW) or kw_match(name, CRYPTO_NAME_KW)
 
     return {
         "design_signal":  any(kw_match(r["title"], DESIGN_SIGNAL_KW) for r in new_roles),
@@ -261,6 +281,7 @@ def calc_signals(new_roles: list[dict], all_roles: list[dict],
         "remote":         has_remote,
         "small_company":  len(all_roles) < SMALL_CO_MAX,
         "first_seen":     slug not in companies_seen,
+        "crypto":         crypto_by_role or crypto_by_name,
     }
 
 
@@ -338,7 +359,7 @@ def main():
             total_new_today += len(today_roles)
             total_new_month += len(month_roles)
 
-            signals = calc_signals(month_roles, all_roles, slug, companies_seen)
+            signals = calc_signals(month_roles, all_roles, slug, name, companies_seen)
 
             job_board_url = JOB_BOARD_BASE[ats].format(slug=slug)
             companies_out.append({

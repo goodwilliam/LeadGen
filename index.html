@@ -520,6 +520,7 @@
     </div>
     <div class="filter-group">
       <button class="toggle-btn" id="jobs-showall-toggle">All Companies</button>
+      <button class="toggle-btn" id="jobs-crypto-toggle">Crypto/Web3</button>
       <button class="toggle-btn" id="jobs-signal-toggle">Design Signal</button>
       <button class="toggle-btn" id="jobs-nodesgn-toggle">No Designer</button>
       <button class="toggle-btn" id="jobs-remote-toggle">Remote</button>
@@ -939,7 +940,7 @@ document.getElementById("seed-search").addEventListener("input", e => { seedSear
 // ════════════════════════════════════════════════════════
 let jobsItems = [], jobsSortCol = "new_month_count", jobsSortAsc = false;
 let jobsAts = "all", jobsWindow = "month", jobsSearch = "";
-let jobsSignalOnly = false, jobsNoDesigner = false, jobsRemote = false, jobsSmall = false, jobsShowAll = false;
+let jobsSignalOnly = false, jobsNoDesigner = false, jobsRemote = false, jobsSmall = false, jobsShowAll = false, jobsCrypto = false;
 
 const ATS_BADGE = { ashby: "badge-green", greenhouse: "badge-blue", lever: "badge-orange" };
 
@@ -959,6 +960,7 @@ function jobsFilter() {
   return jobsItems.filter(x => {
     if (jobsAts !== "all" && x.ats !== jobsAts) return false;
     const s = x.signals || {};
+    if (jobsCrypto     && !s.crypto)        return false;
     if (jobsSignalOnly && !s.design_signal) return false;
     if (jobsNoDesigner && !s.no_designer)   return false;
     if (jobsRemote    && !s.remote)         return false;
@@ -980,6 +982,7 @@ function jobsFilter() {
 function jobsSignalBadges(s) {
   if (!s) return "";
   const badges = [];
+  if (s.crypto)         badges.push(`<span class="badge badge-blue"    title="Crypto/Web3 company (role keywords or name match)">Web3</span>`);
   if (s.design_signal)  badges.push(`<span class="badge badge-purple"  title="New hire in marketing/growth → design budget incoming">Design $</span>`);
   if (s.no_designer)    badges.push(`<span class="badge badge-orange"   title="No designer on their job board — clear gap">No Design</span>`);
   if (s.senior_hire)    badges.push(`<span class="badge badge-blue"     title="New VP/Head/C-level hire → budget decision maker">Senior</span>`);
@@ -1042,7 +1045,8 @@ makeSorter("jobs-table",
 bindBtnGroup("jobs-window", d => { jobsWindow = d.window; jobsRender(); });
 bindBtnGroup("jobs-ats",    d => { jobsAts = d.ats;       jobsRender(); });
 bindToggle("jobs-showall-toggle", v => { jobsShowAll = v; jobsRender(); });
-bindToggle("jobs-signal-toggle", v => { jobsSignalOnly = v; jobsRender(); });
+bindToggle("jobs-crypto-toggle",  v => { jobsCrypto = v;   jobsRender(); });
+bindToggle("jobs-signal-toggle",  v => { jobsSignalOnly = v; jobsRender(); });
 bindToggle("jobs-nodesgn-toggle", v => { jobsNoDesigner = v; jobsRender(); });
 bindToggle("jobs-remote-toggle",  v => { jobsRemote = v;     jobsRender(); });
 bindToggle("jobs-small-toggle",   v => { jobsSmall = v;      jobsRender(); });
