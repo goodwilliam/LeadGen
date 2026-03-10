@@ -2960,5 +2960,44 @@
   },
   "https://talkbusiness.net/2026/03/lexmed/": {
     "valid": false
+  },
+  "https://tech.eu/2026/03/10/qevlar-ai-lands-30m-to-expand-ai-security-operations-platform/": {
+    "valid": true,
+    "company": "Qevlar AI",
+    "amount_str": "$30M",
+    "website": "https://www.qevlar.com",
+    "linkedin_url": "https://linkedin.com/company/qevlar",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/10/escape-secures-18m-series-a-to-develop-ai-cybersecurity-agents/": {
+    "valid": true,
+    "company": "Escape",
+    "amount_str": "$18M",
+    "website": "https://www.escapefromtarkov.com",
+    "linkedin_url": "https://linkedin.com/company/escapetech",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/abhinavpathak27",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/transcosmos-recognized-as-a-2026-outstanding-organization-of-kenko-investment-for-health-302709017.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/etude-deepl-2026--les-traduction-manuels-continuent-de-freiner-les-entreprises-malgre-la-hausse-des-investissements-dans-lia-302709016.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/uzum-secures-over-130-million-in-strategic-investment-led-by-the-sovereign-entities-of-the-sultanate-of-oman-302708643.html": {
+    "valid": true,
+    "company": "Uzum",
+    "amount_str": "$130 m",
+    "website": "https://uzum.com",
+    "linkedin_url": "https://linkedin.com/company/uzum-uz",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }

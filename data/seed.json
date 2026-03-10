@@ -1,21 +1,49 @@
 {
-  "generated_at": "2026-03-10T05:09:24.350636Z",
-  "count": 28,
-  "enriched_count": 20,
+  "generated_at": "2026-03-10T08:33:23.227790Z",
+  "count": 29,
+  "enriched_count": 22,
   "articles": [
     {
-      "source": "SiliconAngle",
-      "title": "Escape raises $18M to expand AI agent platform for offensive security testing",
-      "article_url": "https://siliconangle.com/2026/03/10/escape-raises-18m-expand-ai-agent-platform-offensive-security-testing/",
+      "source": "tech.eu",
+      "title": "Qevlar AI lands $30M to expand AI security operations platform",
+      "article_url": "https://tech.eu/2026/03/10/qevlar-ai-lands-30m-to-expand-ai-security-operations-platform/",
+      "company": "Qevlar AI",
+      "amount_str": "$30M",
+      "pub_date": "2026-03-10",
+      "website": "https://www.qevlar.com",
+      "linkedin_url": "https://linkedin.com/company/qevlar",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "tech.eu",
+      "title": "Escape secures $18M Series A to develop AI cybersecurity agents",
+      "article_url": "https://tech.eu/2026/03/10/escape-secures-18m-series-a-to-develop-ai-cybersecurity-agents/",
       "company": "Escape",
       "amount_str": "$18M",
       "pub_date": "2026-03-10",
-      "website": "https://escape.tech",
+      "website": "https://www.escapefromtarkov.com",
       "linkedin_url": "https://linkedin.com/company/escapetech",
       "founder_name": "",
       "founder_linkedin_url": "https://linkedin.com/in/abhinavpathak27",
       "contact_email": "",
-      "twitter_url": "https://x.com/escapetechHQ"
+      "twitter_url": ""
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Uzum secures over $130 million in strategic investment led by the sovereign entities of the Sultanate of Oman",
+      "article_url": "https://www.prnewswire.com/news-releases/uzum-secures-over-130-million-in-strategic-investment-led-by-the-sovereign-entities-of-the-sultanate-of-oman-302708643.html",
+      "company": "Uzum",
+      "amount_str": "$130 m",
+      "pub_date": "2026-03-10",
+      "website": "https://uzum.com",
+      "linkedin_url": "https://linkedin.com/company/uzum-uz",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
     },
     {
       "source": "Google Alerts",
@@ -365,20 +393,6 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "service@gamescheer.com",
-      "twitter_url": ""
-    },
-    {
-      "source": "SiliconAngle",
-      "title": "Senior-care tech startup Sage raises $65M for platform that monitors resident activity in care facilities",
-      "article_url": "https://siliconangle.com/2026/03/05/senior-care-tech-startup-sage-raises-65m-platform-monitors-resident-activity-care-facilities/",
-      "company": "Senior-care tech startup Sage",
-      "amount_str": "$65M",
-      "pub_date": "2026-03-05",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
       "twitter_url": ""
     },
     {
