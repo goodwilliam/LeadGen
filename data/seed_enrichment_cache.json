@@ -2817,5 +2817,148 @@
   },
   "https://www.prnewswire.com/news-releases/following-is-a-statement-from-west-point-investment-corporation-hapuna-realty-llc-kevin-j-hayes-sr-and-tomoko-matsumoto-in-the-matter-of-hayes-et-al-v-ohtani-et-al-case-no-1-ccv-25-0001330-302708672.html": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/03/09/founders-fund-nears-6-billion-close-for-latest-growth-fund-sources-say/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/10/escape-raises-18m-expand-ai-agent-platform-offensive-security-testing/": {
+    "valid": true,
+    "company": "Escape",
+    "amount_str": "$18M",
+    "website": "https://escape.tech",
+    "linkedin_url": "https://linkedin.com/company/escapetech",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/abhinavpathak27",
+    "contact_email": "",
+    "twitter_url": "https://x.com/escapetechHQ"
+  },
+  "https://www.wired.com/story/ai-kill-venture-capital/": {
+    "valid": false
+  },
+  "https://www.startupresearcher.com/news/legal-tech-ils-raises-over-usd3-million-seed-round-led-by-chicago-ventures": {
+    "valid": false
+  },
+  "https://www.bloomberg.com/news/articles/2026-03-09/stablecoin-payments-firm-kast-raises-80-million-in-funding": {
+    "valid": true,
+    "company": "Stablecoin Payments Firm KAST",
+    "amount_str": "$80 M",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techgraph.co/ai/browsing-to-buying-how-multi-modal-ai-turning-discovery-into-decision-making/": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/03/09/industrial-startup-isembard-bags-e43-million-to-scale-software-powered-factories-for-aerospace-and-energy-sectors/": {
+    "valid": false
+  },
+  "https://thenextweb.com/news/mirai-robotics-42m-pre-seed-autonomous-vessels": {
+    "valid": true,
+    "company": "Italy's Mirai Robotics",
+    "amount_str": "$4.2M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "The three",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thenextweb.com/news/augur-15m-plural-ai-surveillance-critical-infrastructure": {
+    "valid": true,
+    "company": "The company announced today that it",
+    "amount_str": "$15 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "founded by the",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bitcoinke.io/2026/03/kast-raises-funding/": {
+    "valid": true,
+    "company": "FUNDING | Stablecoin Payments Startup , KAST",
+    "amount_str": "$80 M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "said KAST",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.businessinsider.com/creator-economy-ai-startups-to-watch-according-vc-investors-2026-3": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://i.insider.com/69a609e2fd4fbd083f296133",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bebeez.eu/2026/03/09/datawollet-closes-1-3m-pre-seed-investment-with-female-angel-investors-leading-the-way/": {
+    "valid": true,
+    "company": "DataWollet",
+    "amount_str": "",
+    "website": "https://www.datawollet.com",
+    "linkedin_url": "https://linkedin.com/company/datawollet",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/03/driving-progress-in-cardiovascular-health-signacor-therapeutics-lands-e288k-investment-as-pat-of-e1-1-million-seed-round/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/03/09/axiomatic-ai-closes-18m-to-build-the-intelligence-infrastructure-for-verified-science-engineering/": {
+    "valid": true,
+    "company": "Axiomatic AI",
+    "amount_str": "$18M",
+    "website": "https://axiomatic-ai.com",
+    "linkedin_url": "https://linkedin.com/company/axiomatic-ai",
+    "founder_name": "said Jake Taylor",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bebeez.eu/2026/03/09/germanys-telura-exits-stealth-with-e4-million-pre-seed-to-unlock-geothermal-energy-with-electric-impulse-drilling/": {
+    "valid": false
+  },
+  "https://athletechnews.com/consumers-are-on-board-with-the-functional-drink-revolution-ey-survey/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://atn-disrupt.vfairs.com/en",
+    "linkedin_url": "https://linkedin.com/company/relive-health",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "customersupport@vfairs.com",
+    "twitter_url": ""
+  },
+  "https://financialit.net/news/fundraising-news/orca-fraud-raises-235m-scale-real-time-fraud-intelligence-across-emerging": {
+    "valid": true,
+    "company": "Orca Fraud",
+    "amount_str": "$2.35 m",
+    "website": "https://www.orca-fraud.com",
+    "linkedin_url": "https://linkedin.com/company/101437150",
+    "founder_name": "said Thalia Pillay",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finextra.com/pressarticle/109096/datawollet-closes-13m-pre-seed-investment": {
+    "valid": false
+  },
+  "https://talkbusiness.net/2026/03/hemut/": {
+    "valid": false
+  },
+  "https://talkbusiness.net/2026/03/lexmed/": {
+    "valid": false
   }
 }
