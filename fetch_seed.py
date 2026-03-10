@@ -270,19 +270,22 @@ def parse_date(raw: str) -> str:
 
 # ── Headline parsing ──────────────────────────────────────────────────────────
 
+RAISE_VERBS  = r"(?:raises?|secures?|lands?|closes?|announces?|gets?|nabs?|bags?|wins?|brings?|launches?|nets?)"
+AMOUNT_PAT   = r"(?:[\$£€][\d.,]+\s*[MBKmb]|[\d.,]+\s*[MBKmb]\s*(?:USD|GBP|EUR))"
+
 HEADLINE_PATTERNS = [
     re.compile(
-        r"^(?P<company>[A-Z][^,$\n]{2,50?}?)\s+(?:raises?|secures?|lands?|closes?|announces?|gets?)\s+\$(?P<amount>[\d.,]+\s*[MBKmb])",
+        rf"^(?P<company>[A-Z][^,$£€\n]{{2,50}}?)\s+{RAISE_VERBS}\s+(?P<amount>{AMOUNT_PAT})",
         re.IGNORECASE,
     ),
     re.compile(
-        r"^\$(?P<amount>[\d.,]+\s*[MBKmb])\s+seed\s+(?:round|funding)\s+for\s+(?P<company>[A-Z][^,\n]{2,40})",
+        rf"^(?P<amount>{AMOUNT_PAT})\s+seed\s+(?:round|funding)\s+for\s+(?P<company>[A-Z][^,\n]{{2,40}})",
         re.IGNORECASE,
     ),
 ]
 
 STRIP_WORDS = re.compile(
-    r"\b(raises?|secures?|lands?|closes?|announces?|gets?|nabs?|bags?|wins?)\b.*$",
+    rf"\b{RAISE_VERBS}\b.*$",
     re.IGNORECASE,
 )
 
@@ -293,22 +296,34 @@ DESCRIPTOR_WORDS = {
     "biotech", "medtech", "agtech", "legaltech", "logistics", "ecommerce", "cybersecurity",
     "security", "data", "analytics", "cloud", "enterprise", "consumer", "mobile",
     "gaming", "media", "tech", "software", "hardware", "digital", "social", "global",
-    "early", "stage", "new",
+    "early", "stage", "new", "former", "ex", "yc", "based", "backed",
     "american", "european", "british", "german", "french", "dutch", "belgian",
     "swedish", "norwegian", "finnish", "danish", "spanish", "italian", "portuguese",
     "indian", "chinese", "japanese", "korean", "singaporean", "israeli",
-    "canadian", "australian", "nordic", "african", "us", "uk", "eu",
+    "canadian", "australian", "nordic", "african", "south", "north", "us", "uk", "eu",
 }
+
+# If the extracted "company name" contains these verbs it's a headline fragment, not a name
+BAD_NAME_RE = re.compile(
+    r"\b(brings|launches|appoints|raises|secures|lands|closes|announces|gets|nabs|bags|wins|"
+    r"just|also|announced|raised|secured|who|thinks|has|is|was|its|with|for|to|from|that|this)\b",
+    re.IGNORECASE,
+)
 
 
 def clean_company_name(name: str) -> str:
     name = name.strip().rstrip(",").strip()
+    # Strip everything before a colon (e.g. "AI vs AI: YC's Escape" → "YC's Escape")
+    if ":" in name:
+        after = name.split(":", 1)[1].strip()
+        if after:
+            name = after
     words = name.split()
-    if len(words) <= 2:
+    if len(words) == 0:
         return name
     last_descriptor_idx = -1
     for i, word in enumerate(words):
-        w = word.lower().strip(".,;:-/()")
+        w = re.sub(r"'s$", "", word.lower()).strip(".,;:-/()")
         if w in DESCRIPTOR_WORDS:
             last_descriptor_idx = i
         else:
@@ -320,16 +335,34 @@ def clean_company_name(name: str) -> str:
     return name
 
 
+def is_bad_name(name: str) -> bool:
+    """Return True if the extracted name looks like a headline fragment."""
+    if not name or len(name) > 60:
+        return True
+    if BAD_NAME_RE.search(name):
+        return True
+    # Too many words = probably grabbed a phrase not a name
+    if len(name.split()) > 6:
+        return True
+    return False
+
+
 def parse_headline(title: str) -> tuple[str, str]:
     for pattern in HEADLINE_PATTERNS:
         m = pattern.search(title)
         if m:
-            return clean_company_name(m.group("company")), f"${m.group('amount').strip()}"
+            name = clean_company_name(m.group("company"))
+            if not is_bad_name(name):
+                amt = m.group('amount').strip()
+                if amt and amt[0] not in "$£€":
+                    amt = "$" + amt
+                return name, amt
     m = STRIP_WORDS.search(title)
     if m:
         company = clean_company_name(title[:m.start()])
         amt = re.search(r"\$[\d.,]+\s*[MBKmb]", title, re.IGNORECASE)
-        return company, amt.group(0) if amt else ""
+        if not is_bad_name(company):
+            return company, amt.group(0) if amt else ""
     return "", ""
 
 
@@ -702,27 +735,45 @@ def main():
 
     print(f"{len(all_articles)} articles passed validation")
 
-    # Deduplicate by company name
-    seen_companies: dict[str, dict] = {}
+    def contact_score(a):
+        return (
+            bool(a["website"]) * 3 +
+            bool(a["linkedin_url"]) * 2 +
+            bool(a["founder_linkedin_url"]) * 2 +
+            bool(a["contact_email"])
+        )
+
+    def keep_better(existing, candidate):
+        return candidate if contact_score(candidate) > contact_score(existing) else existing
+
+    # Pass 1: deduplicate by normalized company name
+    seen_by_name: dict[str, dict] = {}
     for article in all_articles:
         company = article.get("company", "").strip()
         norm = normalize_company(company)
         if not norm or norm in LARGE_COMPANY_BLACKLIST:
             continue
-        if norm not in seen_companies:
-            seen_companies[norm] = article
+        if norm not in seen_by_name:
+            seen_by_name[norm] = article
         else:
-            existing = seen_companies[norm]
-            score = lambda a: (
-                bool(a["website"]) * 3 +
-                bool(a["linkedin_url"]) * 2 +
-                bool(a["founder_linkedin_url"]) * 2 +
-                bool(a["contact_email"])
-            )
-            if score(article) > score(existing):
-                seen_companies[norm] = article
+            seen_by_name[norm] = keep_better(seen_by_name[norm], article)
 
-    deduped = list(seen_companies.values())
+    # Pass 2: deduplicate by amount+date (catches "Yann LeCun's startup" == "AMI Labs" etc.)
+    seen_by_raise: dict[str, dict] = {}
+    for article in seen_by_name.values():
+        amount = re.sub(r"\s+", "", (article.get("amount_str") or "").lower())
+        date   = article.get("pub_date") or ""
+        if amount and date:
+            key = f"{amount}|{date}"
+            if key not in seen_by_raise:
+                seen_by_raise[key] = article
+            else:
+                seen_by_raise[key] = keep_better(seen_by_raise[key], article)
+        else:
+            # No amount/date to match on — keep as-is under a unique key
+            seen_by_raise[id(article)] = article
+
+    deduped = list(seen_by_raise.values())
     deduped.sort(key=lambda x: x["pub_date"] or "", reverse=True)
 
     has_contact = sum(1 for a in deduped if a["linkedin_url"] or a["contact_email"] or a["founder_linkedin_url"])
