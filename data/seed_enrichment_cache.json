@@ -3533,5 +3533,45 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://venturebeat.com/data/openai-upgrades-chatgpt-with-interactive-learning-tools-as-lawsuits-and": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/venture/world-model-ai-lab-ami-raises-europes-largest-seed-round/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://amturing.acm.org/award_winners/lecun_6017366.cfm",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://news.crunchbase.com/venture/unicorn-legal-tech-ai-startup-legora-triples-valuation/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/cure-and-womens-health-horizons-host-power-of-x-summit-march-18-19-to-accelerate-investment-and-innovation-in-womens-health-302709978.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/twin-valley-announces-12-3-million-broadband-investment-across-rural-kansas-302709975.html": {
+    "valid": true,
+    "company": "Twin Valley",
+    "amount_str": "$12.3 M",
+    "website": "https://www.twinvalleymn.com",
+    "linkedin_url": "https://linkedin.com/company/twinvalleyks",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/el-bandido-yankee-raises-a-toast-to-americas-badasses-on-national-badass-day-302709962.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rr-investor-alert-richtech-robotics-rr-facing-securities-class-action-amid-questions-about-possible-pump-and-dump--hagens-berman-302709832.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/brbr-investor-alert-bellring-brands-brbr-facing-securities-class-action-over-alleged-artificial-growth-and-2-9-billion-value-wipeout--hagens-berman-302709839.html": {
+    "valid": false
   }
 }
