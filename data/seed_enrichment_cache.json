@@ -3178,5 +3178,360 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/real-estate-property-tech/ai-generated-hvac-quotes-rebar-seriesa/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/10/eic-scaling-club-companies-double-peer-funding-growth-with-66-increase/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/10/anchr-brings-ai-americas-food-supply-distribution-chain-5-8m-raise/": {
+    "valid": true,
+    "company": "Anchr brings AI to America\u2019s food supply distribution chain with $5.8M",
+    "amount_str": "$5.8M",
+    "website": "https://anchr.tech",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/10/rhoda-ai-raises-450m-build-foundational-robotics-models-learn-internet-videos/": {
+    "valid": true,
+    "company": "Rhoda AI",
+    "amount_str": "$450M",
+    "website": "https://pitchbook.com",
+    "linkedin_url": "https://linkedin.com/company/rhoda-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.geekwire.com/2026/tim-chens-essence-vc-firm-is-raising-a-new-fund-to-back-more-infrastructure-startups/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rsvr-deal-announced-current-reservoir-media-shareholders-are-notified-of-the-pending-10-50-take-private-offer-and-investigation-into-the-board-302709787.html": {
+    "valid": false
+  },
+  "https://waya.media/shorooq-backs-yann-lecuns-1-billion-bet-to-rebuild-ai-from-scratch/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://echtonlinecasinos.com/review/22-bet",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.businessinsider.com/yann-lecun-ai-startup-new-ceo-billion-ami-labs-2026-3": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://i.insider.com/6996dcc1e1ba468a96ac4957",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.geekwire.com/2026/seattle-area-startup-turns-industrial-emissions-into-high-performance-battery-materials/": {
+    "valid": false
+  },
+  "https://thenextweb.com/news/yann-lecun-ami-labs-world-models-billion": {
+    "valid": true,
+    "company": "Yann LeCun just",
+    "amount_str": "$1b",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://capacityglobal.com/news/yann-lecun-ami-labs-raises-1bn-world-models-ai-funding/": {
+    "valid": true,
+    "company": "AMI Labs",
+    "amount_str": "$1.03 b",
+    "website": "https://amilabs.xyz",
+    "linkedin_url": "",
+    "founder_name": "is Alexandre LeBrun",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@amilabs.xyz",
+    "twitter_url": ""
+  },
+  "https://www.streetinsider.com/Press+Releases/Dogecoin+Price+Prediction%3A+Pepeto+Raises+%247.8M+As+Fed+Uncertainty+Clouds+DOGE+Outlook+And+Traders+Hunt+100x+Entries/26134313.html": {
+    "valid": true,
+    "company": "Pepeto",
+    "amount_str": "$7.8M",
+    "website": "https://web3-pepeto.github.io",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://ground.news/article/ex-meta-ai-chief-yann-lecuns-ami-raises-103-billion-for-alternative-ai-approach": {
+    "valid": true,
+    "company": "Ex-Meta AI chief Yann LeCun's AMI",
+    "amount_str": "$1.03 b",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/rdominguezibar/status/2031275485917811179/photo/1": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.d74f1a3a.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://ventureburn.com/avvoka-secures-14m-investment-led-by-valhalla-ventures/": {
+    "valid": true,
+    "company": "Avvoka",
+    "amount_str": "",
+    "website": "https://avvoka.com",
+    "linkedin_url": "https://linkedin.com/company/avvoka",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/escape-ai-agent-cybersecurity-balderton/": {
+    "valid": true,
+    "company": "AI vs AI: YC's Escape",
+    "amount_str": "$18M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/qevlar-ai-raises-30m-soc-automation-platform/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://europeanbusinessmagazine.com/business/yann-lecun-raises-1bn-in-europes-biggest-ever-ai-seed-round/": {
+    "valid": true,
+    "company": "Yann LeCun",
+    "amount_str": "$1b",
+    "website": "http://yann.lecun.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ylecun"
+  },
+  "https://www.facebook.com/businessinsider/posts/yann-lecuns-new-ai-startup-has-named-a-ceo-and-raised-103b-in-seed-funding-https/1296420022356279/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://africa.businessinsider.com/news/yann-lecuns-startup-has-a-new-ceo-and-dollar1-billion/w8cw1x6": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://ocdn.eu/radp/biafrica/favicon.ico",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.reddit.com/r/SaaS/comments/1roqqo3/ama_ive_just_raised_750000_in_preseed_for_a_b2b/": {
+    "valid": false
+  },
+  "https://x.com/asteris_ai/status/2030776581182943348": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.d74f1a3a.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.reuters.com/business/ai-startup-thinking-machines-clinches-capital-major-chip-supply-deal-nvidia-2026-03-10/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://spacenews.com/lux-aeterna-raises-10-million-for-reusable-satellite-ahead-of-2027-demo/": {
+    "valid": true,
+    "company": "Lux Aeterna",
+    "amount_str": "$10 m",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/lux-aeterna-space",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.wsj.com/tech/ai/yann-lecuns-ai-startup-raises-over-1-billion-14928928": {
+    "valid": false
+  },
+  "https://www.bloomberg.com/news/articles/2026-03-10/yann-lecun-s-new-ai-startup-raises-1-billion-in-seed-funding": {
+    "valid": true,
+    "company": "Yann LeCun's New AI Startup",
+    "amount_str": "$1 B",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/03/yc-backed-escape-raises-e15-4m-series-a-led-by-balderton-for-its-ai-powered-offensive-security-engineering-platform/": {
+    "valid": false
+  },
+  "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1": {
+    "valid": true,
+    "company": "Yann LeCun's AI start-up",
+    "amount_str": "$1b",
+    "website": "https://www.techmeme.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "person@company.com",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/axiomatic-ai-18m-seed-verified-engineering/": {
+    "valid": true,
+    "company": "Axiomatic AI",
+    "amount_str": "$18M",
+    "website": "https://axiomatic-ai.com",
+    "linkedin_url": "https://linkedin.com/company/axiomatic-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://seekingalpha.com/news/4562575-former-meta-ai-chiefs-startup-raises-103b-appoints-ceo": {
+    "valid": true,
+    "company": "Former Meta AI chief's startup",
+    "amount_str": "$1.03B",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "URL Source",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://hypepotamus.com/startup-news/nyad-ai-wastewater-operators-raises-1-3m/": {
+    "valid": true,
+    "company": "Nyad",
+    "amount_str": "$1.3M",
+    "website": "https://www.nyad.ai",
+    "linkedin_url": "https://linkedin.com/company/nyad-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "user@domain.com",
+    "twitter_url": ""
+  },
+  "https://mlq.ai/news/yann-lecuns-ami-labs-secures-over-1-billion-in-record-seed-funding/": {
+    "valid": true,
+    "company": "AMI Labs",
+    "amount_str": "$1.03 b",
+    "website": "https://amilabs.xyz",
+    "linkedin_url": "",
+    "founder_name": "serves as",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@amilabs.xyz",
+    "twitter_url": ""
+  },
+  "https://www.moomoo.com/news/post/66644799/yann-lecun-s-ai-startup-raises-over-1-billion-in": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/vaomi_agritech-startup-verdant-impact-raises-3-activity-7437059225048182784-nIVP": {
+    "valid": true,
+    "company": "Agritech Startup Verdant Impact",
+    "amount_str": "$3 M",
+    "website": "https://inc42.com",
+    "linkedin_url": "https://linkedin.com/company/inc42",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Inc42"
+  },
+  "https://www.thesaasnews.com/news/nscale-raises-2b-series-c-at-14-6b-valuation": {
+    "valid": false
+  },
+  "https://market.us/report/global-bambara-beans-market/": {
+    "valid": false
+  },
+  "https://the-decoder.com/investors-bet-1-billion-on-yann-lecuns-vision-for-ai-beyond-llms/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://the-decoder.de",
+    "linkedin_url": "https://linkedin.com/company/the-decoder-de",
+    "founder_name": "serves as",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/TheDecoderDE"
+  },
+  "https://news.futunn.com/en/post/69860339/yann-lecun-s-ai-startup-raises-over-1-billion-in": {
+    "valid": true,
+    "company": "Yann LeCun's AI Startup",
+    "amount_str": "$1 B",
+    "website": "https://www.msn.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://timesofindia.indiatimes.com/technology/tech-news/metas-most-famous-ex-employee-yann-lecun-announces-raising-seed-funding-of-1-03-billion-that-he-says-may-have-set-a-europe-record/articleshow/129386893.cms": {
+    "valid": true,
+    "company": "Meta's most-famous ex-employee Yann LeCun",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
