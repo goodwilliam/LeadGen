@@ -562,13 +562,33 @@
 const today = new Date(); today.setHours(0,0,0,0);
 
 function daysAgo(dateStr) {
-  return Math.floor((today - new Date(dateStr + "T00:00:00")) / 86400000);
+  const d = new Date(dateStr);
+  return Math.floor((today - d) / 86400000);
 }
-function urgencyBadge(days) {
-  if (days <= 7)  return `<span class="badge badge-green">${days}d ago</span>`;
-  if (days <= 14) return `<span class="badge badge-yellow">${days}d ago</span>`;
-  if (days <= 30) return `<span class="badge badge-orange">${days}d ago</span>`;
-  return `<span class="badge badge-gray">${days}d ago</span>`;
+function fmtDateTime(dateStr) {
+  if (!dateStr) return null;
+  const d = new Date(dateStr);
+  if (isNaN(d)) return null;
+  const days = Math.floor((today - d) / 86400000);
+  // If today: show exact time in EST
+  if (days === 0) {
+    const timeStr = d.toLocaleTimeString("en-US", {
+      timeZone: "America/New_York",
+      hour: "numeric", minute: "2-digit", hour12: true
+    });
+    return { days, label: `Today ${timeStr} EST` };
+  }
+  return { days, label: `${days}d ago` };
+}
+function urgencyBadge(dateStr) {
+  const info = fmtDateTime(dateStr);
+  if (!info) return `<span class="muted">—</span>`;
+  const { days, label } = info;
+  if (days === 0) return `<span class="badge badge-green">${label}</span>`;
+  if (days <= 7)  return `<span class="badge badge-green">${label}</span>`;
+  if (days <= 14) return `<span class="badge badge-yellow">${label}</span>`;
+  if (days <= 30) return `<span class="badge badge-orange">${label}</span>`;
+  return `<span class="badge badge-gray">${label}</span>`;
 }
 function fmtMoney(n) {
   if (!n) return '<span class="muted">—</span>';
@@ -882,8 +902,7 @@ function seedFilter() {
 }
 
 function seedRenderRow(a) {
-  const days = a.pub_date ? daysAgo(a.pub_date) : null;
-  const dateBadge = days != null ? urgencyBadge(days) : `<span class="muted">—</span>`;
+  const dateBadge = urgencyBadge(a.pub_date);
   const src = esc(a.source||"—");
   const company = a.company
     ? `<span class="link-name" style="cursor:default">${esc(a.company)}</span>`
@@ -920,8 +939,9 @@ function seedRenderRow(a) {
 function seedRender() {
   const rows = seedFilter();
   const enriched = seedArticles.filter(hasContact).length;
+  const addedToday = seedArticles.filter(a => a.pub_date && daysAgo(a.pub_date) === 0).length;
   document.getElementById("seed-stats").innerHTML =
-    `Showing <span>${rows.length}</span> of <span>${seedArticles.length}</span> articles · <span>${enriched}</span> with contact info`;
+    `Showing <span>${rows.length}</span> of <span>${seedArticles.length}</span> articles · <span>${enriched}</span> with contact info · <span>${addedToday}</span> added today`;
   showTable("seed-table","seed-loading","seed-empty","seed-tbody", rows.map(seedRenderRow));
 }
 

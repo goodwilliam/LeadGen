@@ -251,6 +251,7 @@ def fetch_rss(feed_url: str, source_name: str, pre_filtered: bool = False) -> li
 
 
 def parse_date(raw: str) -> str:
+    """Return ISO 8601 datetime string (with time if available, else date only)."""
     if not raw:
         return ""
     for fmt in [
@@ -258,14 +259,23 @@ def parse_date(raw: str) -> str:
         "%a, %d %b %Y %H:%M:%S %Z",
         "%Y-%m-%dT%H:%M:%S%z",
         "%Y-%m-%dT%H:%M:%SZ",
-        "%Y-%m-%d",
     ]:
         try:
-            return datetime.strptime(raw.strip(), fmt).strftime("%Y-%m-%d")
+            dt = datetime.strptime(raw.strip(), fmt)
+            # Store as UTC ISO string so the browser can convert to local time
+            if dt.tzinfo is None:
+                from datetime import timezone as _tz
+                dt = dt.replace(tzinfo=_tz.utc)
+            return dt.astimezone(__import__('datetime').timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
         except ValueError:
             continue
+    # Date-only fallback
+    try:
+        return datetime.strptime(raw.strip(), "%Y-%m-%d").strftime("%Y-%m-%dT00:00:00Z")
+    except ValueError:
+        pass
     m = re.search(r"(\d{4}-\d{2}-\d{2})", raw)
-    return m.group(1) if m else ""
+    return (m.group(1) + "T00:00:00Z") if m else ""
 
 
 # ── Headline parsing ──────────────────────────────────────────────────────────
