@@ -21,6 +21,8 @@ import io
 import json
 import sys
 import time
+import threading
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from urllib.parse import quote
@@ -31,7 +33,8 @@ USER_AGENT    = "DesignAgencyLeadGen/1.0 (contact@yourdesignagency.com)"
 HEADERS       = {"User-Agent": USER_AGENT, "Accept": "application/json"}
 OUTPUT_PATH   = Path("data/jobs.json")
 SNAPSHOT_PATH = Path("data/jobs_snapshot.json")
-SLEEP         = 0.25   # seconds between requests
+SLEEP         = 0.1    # seconds between requests per worker
+MAX_WORKERS   = 20     # concurrent company fetches
 MAX_COMPANIES = 500    # cap output (sorted by new_month_count)
 MAX_ROLES_OUT = 5      # max roles stored per company in output
 SMALL_CO_MAX  = 15     # total_open_roles threshold for "small company"
@@ -310,46 +313,78 @@ def main():
         print(f"Snapshot: {len(old_urls)} jobs from {snapshot_date}", flush=True)
 
     # new_jobs tracks {url: first_seen_date} for everything we find this run
-    new_jobs: dict = dict(old_jobs)  # start with existing, update below
+    new_jobs: dict = dict(old_jobs)
+    new_jobs_lock = threading.Lock()
     new_companies_seen: set = set(companies_seen)
     companies_out: list[dict] = []
     total_new_today = 0
     total_new_month = 0
 
-    for ats in ("ashby", "greenhouse", "lever"):
-        print(f"\n── {ats.title()} ──", flush=True)
-        company_list = fetch_company_list(ats)
-        if limit:
-            company_list = company_list[:limit]
+    def fetch_company(ats: str, company: dict):
+        slug = company["slug"]
+        name = company["name"]
 
-        for company in company_list:
-            slug = company["slug"]
-            name = company["name"]
+        all_roles = FETCHERS[ats](slug)
+        time.sleep(SLEEP)
+        if not all_roles:
+            return None
 
-            all_roles = FETCHERS[ats](slug)
-            if not all_roles:
-                time.sleep(SLEEP)
+        current_urls = {j["url"] for j in all_roles if j.get("url")}
+
+        # Collect URLs new to this run (not in old snapshot)
+        truly_new = {u for u in current_urls if u not in old_jobs}
+
+        return {
+            "slug": slug, "name": name, "ats": ats,
+            "all_roles": all_roles,
+            "current_urls": current_urls,
+            "truly_new": truly_new,
+        }
+
+    # Fetch all 3 ATS company lists in parallel, then process all companies concurrently
+    print("\nFetching company lists...", flush=True)
+    all_tasks = []
+    with ThreadPoolExecutor(max_workers=3) as pool:
+        list_futures = {pool.submit(fetch_company_list, ats): ats for ats in ("ashby", "greenhouse", "lever")}
+        for future in as_completed(list_futures):
+            ats = list_futures[future]
+            company_list = future.result() or []
+            if limit:
+                company_list = company_list[:limit]
+            for c in company_list:
+                all_tasks.append((ats, c))
+
+    print(f"{len(all_tasks)} companies to scan — running {MAX_WORKERS} workers...\n", flush=True)
+
+    results = []
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as pool:
+        futures = {pool.submit(fetch_company, ats, company): (ats, company)
+                   for ats, company in all_tasks}
+        done = 0
+        for future in as_completed(futures):
+            done += 1
+            result = future.result()
+            if result is None:
                 continue
-
-            current_urls = {j["url"] for j in all_roles if j.get("url")}
-
-            # Mark new URLs with today's date
-            for url in current_urls:
-                if url not in new_jobs:
+            # Merge new URLs into shared snapshot (thread-safe)
+            with new_jobs_lock:
+                for url in result["truly_new"]:
                     new_jobs[url] = today
+                new_companies_seen.add(result["slug"])
+            results.append(result)
+            if done % 500 == 0:
+                print(f"  {done}/{len(all_tasks)} scanned...", flush=True)
 
-            # Track this company as seen
-            new_companies_seen.add(slug)
+    print(f"\nScanned {len(all_tasks)} companies, {len(results)} had open roles.", flush=True)
 
-            if is_first_run:
-                time.sleep(SLEEP)
-                continue
+    if not is_first_run:
+        for r in results:
+            current_urls = r["current_urls"]
+            all_roles    = r["all_roles"]
+            slug, name, ats = r["slug"], r["name"], r["ats"]
 
-            # New today = URLs not in old snapshot at all
             today_urls = current_urls - old_urls
-            # New this week = URLs first seen within the last 7 days
             week_urls  = {u for u in current_urls if new_jobs.get(u, "0") >= week_ago}
-            # New this month = URLs first seen within the last 30 days
             month_urls = {u for u in current_urls if new_jobs.get(u, "0") >= month_ago}
 
             today_roles = [j for j in all_roles if j.get("url") in today_urls]
@@ -360,8 +395,11 @@ def main():
             total_new_month += len(month_roles)
 
             signals = calc_signals(month_roles, all_roles, slug, name, companies_seen)
-
             job_board_url = JOB_BOARD_BASE[ats].format(slug=slug)
+
+            if today_roles:
+                print(f"  {name}: +{len(today_roles)} today, +{len(week_urls)} week, +{len(month_urls)} month", flush=True)
+
             companies_out.append({
                 "company":           name,
                 "ats":               ats,
@@ -376,10 +414,6 @@ def main():
                 "linkedin_search":   f"https://www.linkedin.com/search/results/all/?keywords={quote(name)}",
                 "signals":           signals,
             })
-
-            if today_roles:
-                print(f"  {name}: +{len(today_roles)} today, +{len(week_urls)} week, +{len(month_urls)} month", flush=True)
-            time.sleep(SLEEP)
 
     # Cap + sort: most new this month first, then week, then today
     companies_out.sort(key=lambda x: (x["new_month_count"], x["new_week_count"], x["new_today_count"]), reverse=True)
