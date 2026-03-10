@@ -504,27 +504,27 @@
     <div class="filter-group">
       <label>Window</label>
       <div class="btn-group" id="jobs-window">
-        <button data-window="month" class="active">This Month</button>
-        <button data-window="week">This Week</button>
-        <button data-window="today">Today</button>
+        <button data-window="month" class="active" title="Companies with new job postings in the last 30 days">This Month</button>
+        <button data-window="week" title="Companies with new job postings in the last 7 days">This Week</button>
+        <button data-window="today" title="Companies with new job postings since yesterday's snapshot">Today</button>
       </div>
     </div>
     <div class="filter-group">
       <label>ATS</label>
       <div class="btn-group" id="jobs-ats">
-        <button data-ats="all" class="active">All</button>
-        <button data-ats="ashby">Ashby</button>
-        <button data-ats="greenhouse">Greenhouse</button>
-        <button data-ats="lever">Lever</button>
+        <button data-ats="all" class="active" title="Show all hiring platforms">All</button>
+        <button data-ats="ashby" title="Filter to companies on Ashby ATS">Ashby</button>
+        <button data-ats="greenhouse" title="Filter to companies on Greenhouse ATS">Greenhouse</button>
+        <button data-ats="lever" title="Filter to companies on Lever ATS">Lever</button>
       </div>
     </div>
     <div class="filter-group">
-      <button class="toggle-btn" id="jobs-showall-toggle">All Companies</button>
-      <button class="toggle-btn" id="jobs-crypto-toggle">Crypto/Web3</button>
-      <button class="toggle-btn" id="jobs-signal-toggle">Design Signal</button>
-      <button class="toggle-btn" id="jobs-nodesgn-toggle">No Designer</button>
-      <button class="toggle-btn" id="jobs-remote-toggle">Remote</button>
-      <button class="toggle-btn" id="jobs-small-toggle">Small Co</button>
+      <button class="toggle-btn" id="jobs-showall-toggle" title="Show every scraped company, even those with no new postings in the selected window">All Companies</button>
+      <button class="toggle-btn" id="jobs-crypto-toggle" title="Company name/slug contains crypto terms (protocol, chain, defi…) OR they're hiring for blockchain/web3/solidity roles">Crypto/Web3</button>
+      <button class="toggle-btn" id="jobs-signal-toggle" title="New hire in marketing, growth, brand, or creative — signals incoming design budget">Design Signal</button>
+      <button class="toggle-btn" id="jobs-nodesgn-toggle" title="Zero designer/UX roles currently open — they have no in-house design team">No Designer</button>
+      <button class="toggle-btn" id="jobs-remote-toggle" title="At least one open role lists a remote-friendly location">Remote</button>
+      <button class="toggle-btn" id="jobs-small-toggle" title="Fewer than 15 total open roles — likely a small startup without an in-house team">Small Co</button>
     </div>
   </div>
   <div class="main">
