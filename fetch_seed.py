@@ -37,8 +37,10 @@ CONTACT_EMAIL = "something123@gmail.com"
 USER_AGENT = f"DesignAgencyLeadGen/1.0 ({CONTACT_EMAIL})"
 SCRAPE_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
-OUTPUT_PATH = Path("data/seed.json")
-CACHE_PATH = Path("data/seed_enrichment_cache.json")
+OUTPUT_PATH  = Path("data/seed.json")
+CACHE_PATH   = Path("data/seed_enrichment_cache.json")
+# Bump this when parsing logic changes — forces cache rebuild for all articles
+CACHE_VERSION = 3
 
 RSS_FEEDS = [
     {"name": "TechCrunch", "url": "https://techcrunch.com/feed/"},
@@ -92,11 +94,21 @@ NEWS_DOMAINS = {
 def load_cache() -> dict:
     if CACHE_PATH.exists():
         try:
-            with open(CACHE_PATH) as f:
-                return json.load(f)
+            data = json.loads(CACHE_PATH.read_text())
+            # Invalidate if version mismatch
+            if data.get("__version__") != CACHE_VERSION:
+                print(f"  Cache version mismatch — rebuilding (v{data.get('__version__')} → v{CACHE_VERSION})")
+                return {"__version__": CACHE_VERSION}
+            return data
         except Exception:
             pass
-    return {}
+    return {"__version__": CACHE_VERSION}
+
+
+def save_cache(cache: dict):
+    cache["__version__"] = CACHE_VERSION
+    CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
+    CACHE_PATH.write_text(json.dumps(cache, indent=2))
 
 
 def save_cache(cache: dict):
@@ -594,7 +606,13 @@ def enrich_articles(articles: list[dict]) -> list[dict]:
             cached = cache[key]
             if cached.get("valid") is False:
                 continue
-            article["company"]              = cached.get("company") or article["company"]
+            company   = cached.get("company") or article["company"]
+            # Re-apply headline parsing if cached name looks bad
+            if is_bad_name(company):
+                reparsed, reparsed_amt = parse_headline(article["title"])
+                if reparsed and not is_bad_name(reparsed):
+                    company = reparsed
+            article["company"]              = company
             article["amount_str"]           = cached.get("amount_str") or article["amount_str"]
             article["website"]              = cached.get("website", "")
             article["linkedin_url"]         = cached.get("linkedin_url", "")
@@ -768,11 +786,20 @@ def main():
         else:
             seen_by_name[norm] = keep_better(seen_by_name[norm], article)
 
-    # Pass 2: deduplicate by amount+date (catches "Yann LeCun's startup" == "AMI Labs" etc.)
+    def normalize_amount(amt: str) -> str:
+        """Normalize amount for dedup: '$1.03 b' == '$1.03B' == '1.03b'"""
+        s = re.sub(r"[\$£€\s,]", "", (amt or "").lower())
+        s = re.sub(r"bn$", "b", s)
+        s = re.sub(r"mn$", "m", s)
+        s = re.sub(r"\.0+([bmk])$", r"\1", s)  # 1.0b → 1b
+        return s
+
+    # Pass 2: deduplicate by normalized amount + date-only
+    # catches "Yann LeCun's startup" == "AMI Labs" (same raise, different article)
     seen_by_raise: dict[str, dict] = {}
     for article in seen_by_name.values():
-        amount = re.sub(r"\s+", "", (article.get("amount_str") or "").lower())
-        date   = article.get("pub_date") or ""
+        amount = normalize_amount(article.get("amount_str") or "")
+        date   = (article.get("pub_date") or "")[:10]  # YYYY-MM-DD only
         if amount and date:
             key = f"{amount}|{date}"
             if key not in seen_by_raise:
@@ -780,7 +807,6 @@ def main():
             else:
                 seen_by_raise[key] = keep_better(seen_by_raise[key], article)
         else:
-            # No amount/date to match on — keep as-is under a unique key
             seen_by_raise[id(article)] = article
 
     deduped = list(seen_by_raise.values())
