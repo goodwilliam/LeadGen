@@ -519,6 +519,7 @@
       </div>
     </div>
     <div class="filter-group">
+      <button class="toggle-btn" id="jobs-showall-toggle">All Companies</button>
       <button class="toggle-btn" id="jobs-signal-toggle">Design Signal</button>
       <button class="toggle-btn" id="jobs-nodesgn-toggle">No Designer</button>
       <button class="toggle-btn" id="jobs-remote-toggle">Remote</button>
@@ -938,7 +939,7 @@ document.getElementById("seed-search").addEventListener("input", e => { seedSear
 // ════════════════════════════════════════════════════════
 let jobsItems = [], jobsSortCol = "new_month_count", jobsSortAsc = false;
 let jobsAts = "all", jobsWindow = "month", jobsSearch = "";
-let jobsSignalOnly = false, jobsNoDesigner = false, jobsRemote = false, jobsSmall = false;
+let jobsSignalOnly = false, jobsNoDesigner = false, jobsRemote = false, jobsSmall = false, jobsShowAll = false;
 
 const ATS_BADGE = { ashby: "badge-green", greenhouse: "badge-blue", lever: "badge-orange" };
 
@@ -963,7 +964,7 @@ function jobsFilter() {
     if (jobsRemote    && !s.remote)         return false;
     if (jobsSmall     && !s.small_company)  return false;
     const count = x[jobsCountCol()] || 0;
-    if (count === 0) return false;
+    if (!jobsShowAll && count === 0) return false;
     if (jobsSearch && !x.company.toLowerCase().includes(jobsSearch)) return false;
     return true;
   }).sort((a, b) => {
@@ -1040,6 +1041,7 @@ makeSorter("jobs-table",
 
 bindBtnGroup("jobs-window", d => { jobsWindow = d.window; jobsRender(); });
 bindBtnGroup("jobs-ats",    d => { jobsAts = d.ats;       jobsRender(); });
+bindToggle("jobs-showall-toggle", v => { jobsShowAll = v; jobsRender(); });
 bindToggle("jobs-signal-toggle", v => { jobsSignalOnly = v; jobsRender(); });
 bindToggle("jobs-nodesgn-toggle", v => { jobsNoDesigner = v; jobsRender(); });
 bindToggle("jobs-remote-toggle",  v => { jobsRemote = v;     jobsRender(); });
