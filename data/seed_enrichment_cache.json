@@ -2782,5 +2782,40 @@
     "founder_linkedin_url": "",
     "contact_email": "customercare@lucidmotors.com",
     "twitter_url": "https://x.com/LucidMotors"
+  },
+  "https://venturebeat.com/infrastructure/how-to-make-your-e-commerce-product-visible-to-ai-agents-use-this-new-system": {
+    "valid": false
+  },
+  "https://venturebeat.com/technology/the-limits-of-bubble-thinking-how-ai-breaks-every-historical-analogy": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/09/ai-cloud-startup-nscale-raises-2b-funding-14-6b-valuation/": {
+    "valid": true,
+    "company": "Nscale",
+    "amount_str": "$2B",
+    "website": "https://www.nscale.com/press-releases/nscale-acquires-future-tech",
+    "linkedin_url": "https://linkedin.com/company/nscale-cloud",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "press@nscale.com",
+    "twitter_url": "https://x.com/nscale_cloud"
+  },
+  "https://www.prnewswire.com/news-releases/alit-investor-news-if-you-have-suffered-losses-in-alight-inc-nyse-alit-you-are-encouraged-to-contact-the-rosen-law-firm-about-your-rights-302708546.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rollins-to-present-at-upcoming-investor-conferences-302708693.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/shareholder-alert-the-ma-class-action-firm-announces-an-investigation-of-talkspace-inc-nasdaq-talk-302708649.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/pa-facility-to-support-rapid-meiji-hello-panda-sales-momentum-302708676.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/snow-investors-have-opportunity-to-lead-snowflake-inc-securities-fraud-lawsuit-302708545.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/following-is-a-statement-from-west-point-investment-corporation-hapuna-realty-llc-kevin-j-hayes-sr-and-tomoko-matsumoto-in-the-matter-of-hayes-et-al-v-ohtani-et-al-case-no-1-ccv-25-0001330-302708672.html": {
+    "valid": false
   }
 }

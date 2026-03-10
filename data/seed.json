@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T20:26:12.025834Z",
+  "generated_at": "2026-03-10T01:15:34.984959Z",
   "count": 25,
   "enriched_count": 18,
   "articles": [
@@ -102,18 +102,18 @@
       "twitter_url": ""
     },
     {
-      "source": "PR Newswire",
-      "title": "Lucid Announces Agenda Ahead of Investor Day on March 12",
-      "article_url": "https://www.prnewswire.com/news-releases/lucid-announces-agenda-ahead-of-investor-day-on-march-12-302708313.html",
-      "company": "Lucid",
-      "amount_str": "",
+      "source": "SiliconAngle",
+      "title": "AI cloud startup Nscale raises $2B in funding at $14.6B valuation",
+      "article_url": "https://siliconangle.com/2026/03/09/ai-cloud-startup-nscale-raises-2b-funding-14-6b-valuation/",
+      "company": "Nscale",
+      "amount_str": "$2B",
       "pub_date": "2026-03-09",
-      "website": "https://lucidmotors.com",
-      "linkedin_url": "https://linkedin.com/company/lucidmotors",
+      "website": "https://www.nscale.com/press-releases/nscale-acquires-future-tech",
+      "linkedin_url": "https://linkedin.com/company/nscale-cloud",
       "founder_name": "",
       "founder_linkedin_url": "",
-      "contact_email": "customercare@lucidmotors.com",
-      "twitter_url": "https://x.com/LucidMotors"
+      "contact_email": "press@nscale.com",
+      "twitter_url": "https://x.com/nscale_cloud"
     },
     {
       "source": "Google Alerts",
