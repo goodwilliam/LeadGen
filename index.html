@@ -265,7 +265,13 @@
 
 <!-- ── Tab nav ── -->
 <nav class="tab-nav">
-  <button class="tab-btn active" data-tab="yc">
+  <button class="tab-btn active" data-tab="seed">
+    Seed Funding <span class="tab-count" id="count-seed">—</span>
+  </button>
+  <button class="tab-btn" data-tab="jobs">
+    Job Boards <span class="tab-count" id="count-jobs">—</span>
+  </button>
+  <button class="tab-btn" data-tab="yc">
     YC Companies <span class="tab-count" id="count-yc">—</span>
   </button>
   <button class="tab-btn" data-tab="crypto">
@@ -274,18 +280,12 @@
   <button class="tab-btn" data-tab="top">
     Top 1000 MCap <span class="tab-count" id="count-top">—</span>
   </button>
-  <button class="tab-btn" data-tab="seed">
-    Seed Funding <span class="tab-count" id="count-seed">—</span>
-  </button>
-  <button class="tab-btn" data-tab="jobs">
-    Job Boards <span class="tab-count" id="count-jobs">—</span>
-  </button>
 </nav>
 
 <!-- ════════════════════════════════════════════════════════
      TAB 1 — YC Companies
 ════════════════════════════════════════════════════════ -->
-<div id="tab-yc" class="tab-content active">
+<div id="tab-yc" class="tab-content">
   <div class="filters">
     <div class="filter-group">
       <input type="text" id="yc-search" placeholder="Search company or description…" autocomplete="off">
@@ -440,7 +440,7 @@
 <!-- ════════════════════════════════════════════════════════
      TAB 4 — Seed Funding
 ════════════════════════════════════════════════════════ -->
-<div id="tab-seed" class="tab-content">
+<div id="tab-seed" class="tab-content active">
   <div class="filters">
     <div class="filter-group">
       <input type="text" id="seed-search" placeholder="Search company or headline…" autocomplete="off">
