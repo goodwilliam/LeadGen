@@ -1,69 +1,36 @@
 {
-  "https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://strictlyvc.com",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://techcrunch.com/2026/03/05/zeno-raises-25m-to-speed-up-production-of-its-battery-swap-motorbikes/": {
-    "valid": true,
-    "company": "Zeno",
-    "amount_str": "$25M",
-    "website": "https://zeno.earth",
-    "linkedin_url": "https://linkedin.com/company/zenoearth",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://techcrunch.com/2026/03/05/science-corp-closes-230m-round-as-it-pushes-to-get-its-brain-implant-to-patients/": {
-    "valid": true,
-    "company": "Science Corp.",
-    "amount_str": "$230M",
-    "website": "https://science.xyz",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/": {
-    "valid": true,
-    "company": "Lio",
-    "amount_str": "$30M",
-    "website": "https://lio.ai",
-    "linkedin_url": "https://linkedin.com/company/lioapp",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/": {
-    "valid": true,
-    "company": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic, but his explanation",
-    "amount_str": "",
-    "website": "https://www.msn.com",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://venturebeat.com/technology/openai-launches-gpt-5-4-with-native-computer-use-mode-financial-plugins-for": {
+  "__version__": 3,
+  "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/": {
     "valid": false
   },
-  "https://venturebeat.com/technology/black-forest-labs-new-self-flow-technique-makes-training-multimodal-ai": {
+  "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/": {
     "valid": false
   },
-  "https://venturebeat.com/technology/microsoft-built-phi-4-reasoning-vision-15b-to-know-when-to-think-and-when": {
+  "https://venturebeat.com/data/openai-upgrades-chatgpt-with-interactive-learning-tools-as-lawsuits-and": {
     "valid": false
   },
-  "https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in": {
+  "https://venturebeat.com/technology/the-limits-of-bubble-thinking-how-ai-breaks-every-historical-analogy": {
+    "valid": false
+  },
+  "https://venturebeat.com/infrastructure/how-to-make-your-e-commerce-product-visible-to-ai-agents-use-this-new-system": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/venture/world-model-ai-lab-ami-raises-europes-largest-seed-round/": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/venture/unicorn-legal-tech-ai-startup-legora-triples-valuation/": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/real-estate-property-tech/ai-generated-hvac-quotes-rebar-seriesa/": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/venture/data-series-b-startup-funding-ai-defense-health/": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/venture/biggest-funding-rounds-space-tech-sierra-ai-ayar/": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/venture/braintech-ai-startup-science-neuralink-alums-seriesc/": {
     "valid": false
   },
   "https://news.crunchbase.com/venture/yc-backed-denki-raise-financial-audit-automation-ai/": {
@@ -72,161 +39,179 @@
   "https://news.crunchbase.com/venture/active-investors-big-deals-february-2026-yc-a16z-nvidia/": {
     "valid": false
   },
-  "https://news.crunchbase.com/venture/biosecurity-ai-seed-funding-valthos-openai/": {
-    "valid": false
-  },
-  "https://news.crunchbase.com/venture/unicorn-eight-sleep-funding-ai-driven-health/": {
-    "valid": false
-  },
-  "https://news.crunchbase.com/venture/record-setting-global-funding-february-2026-openai-anthropic/": {
-    "valid": false
-  },
-  "https://news.crunchbase.com/saas/boom-era-software-startups-stalled-unicorns/": {
-    "valid": false
-  },
-  "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-openai-semiconductors-matx/": {
-    "valid": false
-  },
-  "https://news.crunchbase.com/venture/openai-raise-largest-ai-venture-deal-ever/": {
-    "valid": false
-  },
-  "https://news.crunchbase.com/venture/space-tech-startup-funding-flying-high/": {
-    "valid": false
-  },
-  "https://tech.eu/2026/03/05/validio-closes-30m-series-a-to-address-enterprise-sata-quality-challenges/": {
+  "https://tech.eu/2026/03/10/eic-scaling-club-companies-double-peer-funding-growth-with-66-increase/": {
     "valid": true,
-    "company": "Validio",
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/10/legaltech-legora-raises-550m-series-d-at-5-55b-valuation-to-accelerate-us-expansion/": {
+    "valid": true,
+    "company": "Legora",
+    "amount_str": "$550M",
+    "website": "https://go.legora.com",
+    "linkedin_url": "https://linkedin.com/company/wearelegora",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/WeAreLegora"
+  },
+  "https://tech.eu/2026/03/10/avvoka-secures-ps14m-to-advance-ai-drafting-tools-for-law-firms/": {
+    "valid": true,
+    "company": "Avvoka",
+    "amount_str": "\u00a314M",
+    "website": "https://app.avvoka.com",
+    "linkedin_url": "https://linkedin.com/company/avvoka",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "company@user.com",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/10/hosel-raises-500k-pre-seed-to-create-the-vinted-for-golf/": {
+    "valid": true,
+    "company": "Hosel",
+    "amount_str": "\u00a3500K",
+    "website": "https://www.hosel.golf",
+    "linkedin_url": "https://linkedin.com/company/hosel",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/10/inter-ikea-group-backs-seprifys-eur134m-series-a-to-scale-cellulose-materials-platform/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/10/yann-lecun-s-paris-based-ai-world-model-startup-raises-more-than-1bn/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/10/qevlar-ai-lands-30m-to-expand-ai-security-operations-platform/": {
+    "valid": true,
+    "company": "Qevlar AI",
     "amount_str": "$30M",
-    "website": "https://validio.ai",
-    "linkedin_url": "https://linkedin.com/company/validio-a",
+    "website": "https://www.qevlar.com",
+    "linkedin_url": "https://linkedin.com/company/qevlar",
     "founder_name": "",
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
   },
-  "https://tech.eu/2026/03/05/cheer-games-closes-45m-pre-seed-round-for-mobile-gaming-platform/": {
+  "https://tech.eu/2026/03/10/escape-secures-18m-series-a-to-develop-ai-cybersecurity-agents/": {
     "valid": true,
-    "company": "Cheer Games",
-    "amount_str": "$4.5M",
-    "website": "https://www.gamescheer.com",
-    "linkedin_url": "https://linkedin.com/company/cheergames",
+    "company": "Escape",
+    "amount_str": "$18M",
+    "website": "https://escaperoad2.com",
+    "linkedin_url": "https://linkedin.com/company/escapetech",
     "founder_name": "",
     "founder_linkedin_url": "",
-    "contact_email": "service@gamescheer.com",
-    "twitter_url": ""
+    "contact_email": "",
+    "twitter_url": "https://x.com/escaperoad2"
   },
-  "https://tech.eu/2026/03/05/from-energy-transition-to-deeptech-growth-the-swedish-tech-ecosystem/": {
+  "https://tech.eu/2026/03/09/february-2026s-top-10-european-tech-deals-you-need-to-know-about/": {
     "valid": false
   },
-  "https://tech.eu/2026/03/05/firstpick-raises-eur25m-to-find-the-baltics-next-breakout-founders/": {
+  "https://tech.eu/2026/03/09/cytotrait-raises-ps3m-for-agricultural-gene-editing-technology/": {
     "valid": true,
-    "company": "FIRSTPICK",
-    "amount_str": "",
-    "website": "http://www.firstpick.com",
-    "linkedin_url": "https://linkedin.com/company/firstpickvc",
-    "founder_name": "next breakout",
+    "company": "Cytotrait",
+    "amount_str": "\u00a33M",
+    "website": "https://www.cytotrait.com",
+    "linkedin_url": "https://linkedin.com/company/plant-organelle-technologies",
+    "founder_name": "",
     "founder_linkedin_url": "",
-    "contact_email": "",
+    "contact_email": "info@plantorganelletech.com",
     "twitter_url": ""
   },
-  "https://tech.eu/2026/03/05/european-techeu-pulse-key-trends-and-investment-in-february/": {
+  "https://tech.eu/2026/03/09/ils-secures-seed-funding-to-expand-provision-legal-workflow-platform/": {
     "valid": true,
-    "company": "",
+    "company": "ILS",
     "amount_str": "",
-    "website": "",
-    "linkedin_url": "",
+    "website": "https://www.ils-music.com",
+    "linkedin_url": "https://linkedin.com/company/ilsteam",
     "founder_name": "",
     "founder_linkedin_url": "",
     "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://tech.eu/2026/03/05/february-funding-rebounds-to-eur78b-as-uk-startups-capture-the-lions-share-of-european-capital/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://tech.eu/2026/03/05/fibionic-secures-eur3m-for-lightweight-bionic-technology/": {
-    "valid": true,
-    "company": "Fibionic",
-    "amount_str": "",
-    "website": "https://www.fibionic.com",
-    "linkedin_url": "https://linkedin.com/company/fibionic",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "info@fibionic.com",
     "twitter_url": "https://x.com/suricate"
   },
-  "https://tech.eu/2026/03/05/belgian-logistics-startup-vectrix-raises-eur115m-seed-funding/": {
+  "https://tech.eu/2026/03/09/saltz-raises-eur20m-to-build-global-chef-supplier-marketplace/": {
     "valid": true,
-    "company": "Vectrix",
-    "amount_str": "",
-    "website": "https://www.vectrix.ai",
-    "linkedin_url": "https://linkedin.com/company/vectrixio",
+    "company": "Saltz",
+    "amount_str": "\u20ac20M",
+    "website": "https://www.smbb.com",
+    "linkedin_url": "https://linkedin.com/company/saltz-mongeluzzi-barrett-and-bendesky-pc",
     "founder_name": "",
     "founder_linkedin_url": "",
     "contact_email": "",
-    "twitter_url": ""
+    "twitter_url": "https://x.com/SMBBlaw"
   },
-  "https://tech.eu/2026/03/05/silverflow-raises-40m-series-b-to-expand-cloud-native-payments-platform/": {
+  "https://tech.eu/2026/03/09/uk-manufacturing-startup-isembard-secures-50m/": {
     "valid": true,
-    "company": "Silverflow",
-    "amount_str": "$40M",
-    "website": "https://www.silverflow.com",
-    "linkedin_url": "https://linkedin.com/company/silverflow",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "info@silverflow.com",
-    "twitter_url": "https://x.com/silverflow"
-  },
-  "https://tech.eu/2026/03/04/shellworks-raises-15m-to-scale-sustainable-plastic-alternative-vivomer/": {
-    "valid": true,
-    "company": "Shellworks",
-    "amount_str": "$15M",
-    "website": "https://www.shellworks.com",
-    "linkedin_url": "https://linkedin.com/company/the-shellworks",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "hello@theshellworks.com",
-    "twitter_url": ""
-  },
-  "https://tech.eu/2026/03/04/techstars-calls-time-on-turin-accelerator/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "",
-    "linkedin_url": "",
-    "founder_name": "Techstars former",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://tech.eu/2026/03/04/spains-pld-space-raises-eur180m-to-scale-satellite-launch-infrastructure/": {
-    "valid": true,
-    "company": "Spain\u2019s PLD Space",
-    "amount_str": "",
-    "website": "https://pobletedispatches.substack.com",
+    "company": "UK manufacturing startup Isembard",
+    "amount_str": "$50M",
+    "website": "https://duck.ai",
     "linkedin_url": "",
     "founder_name": "",
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
   },
-  "https://tech.eu/2026/03/04/eif-makes-largest-defence-investment-yet-with-eur50m-backing-for-join-capital/": {
+  "https://tech.eu/2026/03/09/university-of-edinburgh-spin-out-biocaptiva-raises-ps158m-and-launches-liquid-biopsy-technology-in-the-us/": {
     "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "",
+    "company": "University of Edinburgh biotech spin-out BIOCAPTIVA",
+    "amount_str": "\u00a31.58M",
+    "website": "https://duck.ai",
     "linkedin_url": "",
     "founder_name": "",
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/09/nvidia-backed-nscale-raises-2bn-appoints-sheryl-sandberg-nick-clegg-to-board/": {
+    "valid": true,
+    "company": "Nvidia-backed Nscale",
+    "amount_str": "$2B",
+    "website": "https://www.techbuzz.ai",
+    "linkedin_url": "https://linkedin.com/company/the-tech-buzz",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@techbuzz.ai",
+    "twitter_url": "https://x.com/tbuzzdaily"
+  },
+  "https://tech.eu/2026/03/09/mirai-robotics-raises-4-2m-pre-seed-to-build-autonomous-dual-defence-maritime-systems/": {
+    "valid": true,
+    "company": "Mirai Robotics",
+    "amount_str": "$4.2M",
+    "website": "https://www.mirairobotics.in",
+    "linkedin_url": "https://linkedin.com/company/mirai-robotics",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "team@mirairobotics.com",
+    "twitter_url": ""
+  },
+  "https://betakit.com/dominion-dynamics-says-it-will-invest-50-million-to-build-a-sovereign-autonomous-wingman/": {
+    "valid": false
+  },
+  "https://betakit.com/uniuni-raises-85-million-usd-as-it-scales-gig-powered-delivery-across-north-america/": {
+    "valid": false
   },
   "https://betakit.com/landing-zones-canadas-ai-enhanced-drones-get-upgrade-with-1-1-million-investment/": {
     "valid": false
@@ -268,15 +253,7 @@
     "valid": false
   },
   "https://betakit.com/toyo-raises-seed-funding-to-further-develop-openclaw-for-founders-tool/": {
-    "valid": true,
-    "company": "Toyo",
-    "amount_str": "",
-    "website": "https://www.toyo.co.jp",
-    "linkedin_url": "https://linkedin.com/company/toyo-engineering-corporation-japan",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": "https://x.com/TOYO_CO_JAPAN"
+    "valid": false
   },
   "https://betakit.com/capital-concentrates-as-canadian-vc-market-narrows-report/": {
     "valid": true,
@@ -299,18 +276,18 @@
     "valid": false
   },
   "https://betakit.com/alberta-invests-28-million-in-six-projects-to-improve-energy-industrys-environmental-performance/": {
+    "valid": false
+  },
+  "https://betakit.com/kainova-closes-32-million-to-advance-cancer-and-inflammation-therapies/": {
     "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://fonts.gstatic.com",
-    "linkedin_url": "",
+    "company": "Kainova",
+    "amount_str": "$32 m",
+    "website": "https://www.kainovatx.com/en",
+    "linkedin_url": "https://linkedin.com/company/domain-therapeutics",
     "founder_name": "",
     "founder_linkedin_url": "",
     "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://betakit.com/kainova-closes-32-million-to-advance-cancer-and-inflammation-therapies/": {
-    "valid": false
+    "twitter_url": "https://x.com/en"
   },
   "https://betakit.com/the-feds-asked-investors-for-candid-feedback-on-bdc-it-was-never-actioned/": {
     "valid": false
@@ -348,2863 +325,12 @@
   "https://betakit.com/class-action-lawsuit-targets-mda-space-over-scrapped-1-8-billion-echostar-deal/": {
     "valid": false
   },
-  "https://betakit.com/canadian-water-purification-startup-xatoms-makes-a-splash-at-world-economic-forum/": {
-    "valid": false
-  },
-  "https://betakit.com/qa-bdc-capitals-head-on-why-canadian-defence-tech-investments-are-heating-up/": {
-    "valid": false
-  },
-  "https://betakit.com/how-a-small-change-to-y-combinators-terms-sent-waves-through-canadian-tech/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://fonts.gstatic.com",
-    "linkedin_url": "",
-    "founder_name": "born president and",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://siliconangle.com/2026/03/05/evervault-raises-25m-scale-secure-default-approach-payment-data-encryption/": {
-    "valid": true,
-    "company": "Evervault",
-    "amount_str": "$25M",
-    "website": "https://evervault.com",
-    "linkedin_url": "https://linkedin.com/company/evervault",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "steve@acme.co",
-    "twitter_url": "https://x.com/evervault"
-  },
-  "https://siliconangle.com/2026/03/04/humanoid-robot-maker-neura-robotics-reportedly-raising-1-2b-funding/": {
-    "valid": false
-  },
-  "https://siliconangle.com/2026/03/04/reclaim-security-armorcode-raise-funding-automate-exposure-management/": {
-    "valid": false
-  },
-  "https://siliconangle.com/2026/03/04/unleash-raises-35m-rein-ai-driven-software-risk/": {
-    "valid": true,
-    "company": "Unleash",
-    "amount_str": "$35M",
-    "website": "https://www.getunleash.io",
-    "linkedin_url": "https://linkedin.com/company/getunleash",
-    "founder_name": "",
-    "founder_linkedin_url": "https://linkedin.com/in/egilconr",
-    "contact_email": "",
-    "twitter_url": "https://x.com/getunleash"
-  },
-  "https://siliconangle.com/2026/03/04/exclusive-american-express-partners-invests-ai-operations-startup-traversal/": {
-    "valid": false
-  },
-  "https://www.geekwire.com/2026/in-new-letter-to-governor-seattle-tech-leaders-say-income-tax-proposal-will-hurt-regions-ai-innovation/": {
-    "valid": false
-  },
-  "https://www.geekwire.com/2026/filings-how-amazons-50b-openai-deal-actually-works-and-what-theyre-keeping-secret/": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/kuehn-law-encourages-investors-of-agilon-health-inc-to-contact-law-firm-302705721.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/kuehn-law-encourages-investors-of-f5-inc-to-contact-law-firm-302705512.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/ex-memora-health-ceo-manav-sevak-launches-novitas-holdings-following-commure-acquisition-302705739.html": {
-    "valid": false
-  },
-  "https://startupnation.com/manage-your-business/accounting-finance-funding/18-ways-to-transform-business-challenges-into-funding-opportunities/?utm_source=rss&utm_medium=rss&utm_campaign=18-ways-to-transform-business-challenges-into-funding-opportunities": {
-    "valid": false
-  },
-  "https://thenextweb.com/news/mutable-tactics-raises-e1-8-million-in-a-pre-seed-fund-to-develop-drone-automation-with-ai": {
-    "valid": false
-  },
-  "https://www.linkedin.com/posts/gamingonphone_vento-games-just-raised-4-million-in-seed-activity-7434866187517423616-9Bfz": {
-    "valid": true,
-    "company": "Vento Games just",
-    "amount_str": "$4 m",
-    "website": "https://duck.ai",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://x.com/thePandaily/status/2029037229126062562": {
-    "valid": false
-  },
-  "https://www.blufftontoday.com/press-release/story/56824/tech-startups-pitch-investors-at-czech-night-at-sxsw/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://blufftontoday.xpr-gannett.com/feed",
-    "linkedin_url": "https://linkedin.com/company/brack-tours",
-    "founder_name": "one of the",
-    "founder_linkedin_url": "",
-    "contact_email": "info@bracktours.com",
-    "twitter_url": ""
-  },
-  "https://www.theinformation.com/briefings/exclusive-ex-google-deepmind-researchers-raising-100-million-build-world-models": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://www.cloudflare.com/5xx-error-landing",
-    "linkedin_url": "https://linkedin.com/company/cloudflare",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": "https://x.com/cloudflare"
-  },
-  "https://www.therobotreport.com/massrobotics-resident-startups-surpass-2b-in-funding/": {
-    "valid": false
-  },
-  "https://www.genomeweb.com/business-news/alithea-genomics-closes-chf-3m-add-seed-funding-round": {
-    "valid": true,
-    "company": "Alithea Genomics",
-    "amount_str": "",
-    "website": "https://alitheagenomics.com",
-    "linkedin_url": "https://linkedin.com/company/alitheagenomics",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": "https://x.com/AlitheaGenomics"
-  },
-  "https://athletechnews.com/roxfit-raises-2-4-million-hybrid-fitness-training-app/": {
-    "valid": true,
-    "company": "Roxfit",
-    "amount_str": "$2.4M",
-    "website": "https://www.roxfit.app",
-    "linkedin_url": "https://linkedin.com/company/roxfitapp",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://en.wowtale.net/2026/03/04/233630/": {
-    "valid": true,
-    "company": "'Refilled'",
-    "amount_str": "$7.46M",
-    "website": "https://refilled.co.kr",
-    "linkedin_url": "",
-    "founder_name": "said Geunshik Jeong",
-    "founder_linkedin_url": "",
-    "contact_email": "support@cre.ma",
-    "twitter_url": ""
-  },
-  "https://www.bizjournals.com/washington/news/2026/03/04/bluprynt-funding-robinhood-coinbase.html": {
-    "valid": true,
-    "company": "Bluprynt",
-    "amount_str": "$4.25M",
-    "website": "https://www.bluprynt.com",
-    "linkedin_url": "https://linkedin.com/company/the-bluprynt",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": "https://x.com/blupryntco"
-  },
-  "https://www.calcalistech.com/ctechnews/article/skdbwnrfwl": {
-    "valid": true,
-    "company": "Reclaim Security",
-    "amount_str": "$20 m",
-    "website": "https://reclaim.security",
-    "linkedin_url": "https://linkedin.com/company/reclaim-security",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": "https://x.com/ReclaimSecurity"
-  },
-  "https://athletechnews.com/crossfit-ceo-don-faul-steps-down/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://atn-disrupt.vfairs.com/en",
-    "linkedin_url": "https://linkedin.com/company/relive-health",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "customersupport@vfairs.com",
-    "twitter_url": ""
-  },
-  "https://www.nzherald.co.nz/business/wellington-ai-startup-nextwork-raises-75m-and-shifts-hq-to-austin/premium/UUMTZ6GN6VHE3ELUY23X75OHL4/": {
-    "valid": true,
-    "company": "Wellington AI skills start-up NextWork",
-    "amount_str": "$7.5m",
-    "website": "https://duck.ai",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://markets.businessinsider.com/news/stocks/gate-ventures-announces-strategic-investment-in-bitcoin-finance-platform-sats-terminal-1035896126": {
-    "valid": false
-  },
-  "https://www.wsj.com/cio-journal/a-tiny-silicon-valley-startup-envisions-computing-beyond-the-semiconductor-bd3ad365": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.bitget.com/amp/academy/what-is-opinion-opn-macro-prediction-market-how-it-works-price-prediction": {
-    "valid": false
-  },
-  "https://www.crainsdetroit.com/technology/maka-raises-2m-after-moving-headquarters-detroit": {
-    "valid": true,
-    "company": "East Coast startup",
-    "amount_str": "$2M",
-    "website": "https://jetlaggin.com",
-    "linkedin_url": "https://linkedin.com/company/voltaeffect",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": "https://x.com/gojetlaggin"
-  },
-  "https://edc.nyc/press-release/nycedc-unveils-fifth-cohort-founder-fellowship": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.dbusiness.com/daily-news/egi-battery-in-ann-arbor-closes-10m-seed-financing-round/": {
-    "valid": true,
-    "company": "EGI Battery in Ann Arbor",
-    "amount_str": "$10M",
-    "website": "https://www.newsbreak.com",
-    "linkedin_url": "https://linkedin.com/company/particle-media-inc",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": "https://x.com/newsbreakApp"
-  },
-  "https://www.eu-startups.com/2026/03/yc-backed-diligent-ai-raises-e2-1-million-to-automate-kyc-and-aml-workflows-using-ai-agents/": {
-    "valid": false
-  },
-  "https://bits-chips.com/article/vertical-compute-raises-e57m-for-high-density-ai-memory-chiplets/": {
-    "valid": false
-  },
-  "https://medial.app/news/meltplan-raises-dollar10-million-seed-round-or-the-saas-news-120704fdeeae6": {
-    "valid": false
-  },
-  "https://www.techinasia.com/nutrition-bags-funds-bring-protein-drinks-sea": {
-    "valid": true,
-    "company": "One% Nutrition",
-    "amount_str": "",
-    "website": "https://duck.ai",
-    "linkedin_url": "https://linkedin.com/company/onepercent-nutrition",
-    "founder_name": "COO Nelson Hadisoeseno",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.finsmes.com/2026/03/emproof-closes-funding-round.html": {
-    "valid": false
-  },
-  "https://www.farmersweekly.co.nz/technology/farmers-using-artificial-intelligence-to-save-time/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://fonts.gstatic.com",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.instagram.com/p/DVfwQfZlE6g/": {
-    "valid": false
-  },
-  "https://i-hls.com/archives/135176": {
-    "valid": false
-  },
-  "https://www.news9live.com/science/indian-new-space-startups-are-building-cooperative-satellites-2939300": {
-    "valid": false
-  },
-  "https://businessnewsthisweek.com/business/former-ola-team-raises-inr-2-crore-to-disrupt-staples-with-10on10-foods-betting-on-freshness-and-nutrition-over-shelf-life/": {
-    "valid": false
-  },
-  "https://www.reddit.com/r/Bangalorestartups/comments/1rl6oya/need_help_for_preseed_funding/": {
-    "valid": false
-  },
-  "https://retail.economictimes.indiatimes.com/news/food-entertainment/grocery/10on10-foods-raises-rs-2-crore-pre-seed-to-rebuild-indias-staples-market-with-fresh-stone-ground-flours/129068571": {
-    "valid": true,
-    "company": "10on10 Foods",
-    "amount_str": "",
-    "website": "https://10on10foods.com",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.freep.com/press-release/story/156569/turgo-ai-launches-with-1m-pre-seed-from-top-tech-executives-to-start-super-marketer-movement/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://freep.xpr-gannett.com/feed",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.indianweb2.com/2026/03/african-energy-chamber-signs-landmark.html": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://fonts.gstatic.com",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.crainsdetroit.com/technology/michigan-state-shoelace-startup-brce-lands-major-partnerships": {
-    "valid": false
-  },
-  "https://www.axios.com/pro/all-deals/2026/03/04/pro-rata-premium-first-look-starface-neura-robotics": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.londontechwatch.com/2026/03/the-london-techwatch-startup-daily-funding-report-4-3-2026/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://techwatch.media",
-    "linkedin_url": "",
-    "founder_name": "most active",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://techfundingnews.com/can-ai-save-overwhelmed-compliance-teams-diligent-ai-raises-2-5m-from-speedinvest-to-try/": {
-    "valid": true,
-    "company": "Can AI save compliance teams? Diligent AI",
-    "amount_str": "$2.5M",
-    "website": "https://duck.ai",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.munich-startup.de/en/117597/2-million-for-ark-climate-and-municipal-climate-protection/": {
-    "valid": false
-  },
-  "https://wnhub.io/news/other/item-50243": {
-    "valid": false
-  },
-  "https://x.com/TFNBreakingNews/status/2029210266349781109": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.9874ea9a.js",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.kucoin.com/news/flash/perle-labs-launches-new-quiz-task-perceptron-network-offers-idle-points-earnings-march-4": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://assets.staticimg.com",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.binance.com/en/square/post/297882149776193": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.binance.com/sk/square/post/297913469107234": {
-    "valid": false
-  },
-  "https://bebeez.eu/2026/03/04/yc-backed-diligent-ai-raises-e2-1-million-to-automate-kyc-and-aml-workflows-using-ai-agents/": {
-    "valid": false
-  },
-  "https://spacenews.com/mutable-tactics-raises-2-1-million-for-ai-drone-coordination-in-satellite-denied-environments/": {
-    "valid": true,
-    "company": "Mutable Tactics",
-    "amount_str": "$2.1 m",
-    "website": "https://pitchbook.com",
-    "linkedin_url": "https://linkedin.com/company/mutabletactics",
-    "founder_name": "Mutable Tactics",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://fortune.com/2026/03/04/french-ai-startup-workday-oracle-sap-pigment/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://cdn.cxense.com/ari.js",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.crainsdetroit.com/health-care/esperion-buy-corstasis-therapeutics": {
-    "valid": false
-  },
-  "https://www.instagram.com/p/DVd-5lVkWP-/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "",
-    "linkedin_url": "",
-    "founder_name": "Valor Equity Partners",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://phemex.com/news/article/former-openai-executive-raises-70m-for-ai-startup-arda-64281": {
-    "valid": true,
-    "company": "Former OpenAI Exec",
-    "amount_str": "$70M",
-    "website": "https://observer.com",
-    "linkedin_url": "https://linkedin.com/company/observer-media",
-    "founder_name": "led by",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": "https://x.com/observer"
-  },
-  "https://i-hls.com/archives/135164": {
-    "valid": false
-  },
-  "https://techcrunch.com/2026/03/04/eight-sleep-raises-50m-at-1-5b-valuation/": {
-    "valid": true,
-    "company": "Eight Sleep",
-    "amount_str": "$50M",
-    "website": "https://www.eightsleep.com",
-    "linkedin_url": "https://linkedin.com/company/eight--",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "support@eightsleep.com",
-    "twitter_url": "https://x.com/tryjasononline"
-  },
-  "https://www.startupresearcher.com/news/ai-compliance-startup-diligent-ai-secures-usd2-5-million-seed-funding": {
-    "valid": false
-  },
-  "https://www.startupresearcher.com/news/mutable-tactics-raises-usd2-million-for-ai-drone-coordination-software": {
-    "valid": false
-  },
-  "https://startupmap.iamsterdam.com/news/feed/syte-secures-5m-in-seed-funding": {
-    "valid": false
-  },
-  "https://www.reviewjournal.com/business/las-vegas-startup-joins-global-ai-effort-in-telecom-industry-3714714/": {
-    "valid": false
-  },
-  "https://www.thesaasnews.com/news/meltplan-raises-10-million-seed-round": {
-    "valid": false
-  },
-  "https://www.crainsnewyork.com/health-pulse/mental-health-startup-grow-therapy-hits-3b-valuation": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://assets.adobedtm.com",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://techfundingnews.com/alithea-genomics-8-9m-rna-seq-costs/": {
-    "valid": true,
-    "company": "Alithea Genomics",
-    "amount_str": "$8.9 m",
-    "website": "https://alitheagenomics.com",
-    "linkedin_url": "https://linkedin.com/company/alitheagenomics",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": "https://x.com/AlitheaGenomics"
-  },
-  "https://techfundingnews.com/roxfit-1-9m-seed-ai-hyrox-training/": {
-    "valid": true,
-    "company": "ROXFIT",
-    "amount_str": "",
-    "website": "https://www.roxfit.app",
-    "linkedin_url": "https://linkedin.com/company/roxfitapp",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://techcrunch.com/2026/03/05/hardware-testing-startup-nominal-hits-1b-valuation-raises-155m-in-10-months/": {
-    "valid": true,
-    "company": "Hardware testing startup Nominal hits $1B valuation",
-    "amount_str": "$1B",
-    "website": "https://eng.pressbee.net",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": "https://x.com/EnewsPressbe"
-  },
-  "https://news.crunchbase.com/venture/braintech-ai-startup-science-neuralink-alums-seriesc/": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/shareholder-alert-the-ma-class-action-firm-announces-an-investigation-of-farmer-brothers-co-nasdaq-farm-302705797.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/shareholder-alert-the-ma-class-action-firm-announces-an-investigation-of-texas-mineral-resources-corp-otcqb-tmrc-302705808.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/crwv-8-day-deadline-alert-hagens-berman-analyzes-coreweave-crwv-452m-q4-loss-and-soft-guidance-amid-ongoing-securities-fraud-litigation-302705787.html": {
-    "valid": false
-  },
-  "https://www.startuphub.ai/news/menos-ai-secures-52m-seed-for-institutional-ai-platform": {
-    "valid": true,
-    "company": "Menos AI",
-    "amount_str": "$5.2M",
-    "website": "https://www.menosai.com",
-    "linkedin_url": "https://linkedin.com/company/103071327",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.startuphub.ai/news/farang-secures-15m-seed-for-next-gen-ai-models": {
-    "valid": false
-  },
-  "https://techcrunch.com/2026/03/05/fbi-investigating-hack-on-its-wiretap-and-surveillance-systems-report/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://strictlyvc.com",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://techcrunch.com/2026/03/05/italian-prosecutors-confirm-journalist-was-hacked-with-paragon-spyware/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://strictlyvc.com",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://siliconangle.com/2026/03/05/data-quality-automation-startup-validio-raises-30m/": {
-    "valid": true,
-    "company": "Data quality automation startup Validio",
-    "amount_str": "$30M",
-    "website": "https://duck.ai",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://siliconangle.com/2026/03/05/investors-marvel-marvells-solid-earnings-revenue-beat-ai-chip-demand/": {
-    "valid": false
-  },
-  "https://siliconangle.com/2026/03/05/cybersecurity-startup-cylake-launches-45m-build-ai-native-data-sovereignty-platform/": {
-    "valid": false
-  },
-  "https://siliconangle.com/2026/03/05/senior-care-tech-startup-sage-raises-65m-platform-monitors-resident-activity-care-facilities/": {
-    "valid": true,
-    "company": "Senior-care tech startup Sage",
-    "amount_str": "$65M",
-    "website": "https://duck.ai",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://siliconangle.com/2026/03/05/brain-computer-interface-startup-science-raises-230m/": {
-    "valid": true,
-    "company": "Brain-computer interface startup Science",
-    "amount_str": "$230M",
-    "website": "https://duck.ai",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.prnewswire.com/news-releases/brbr-deadline-brbr-investors-have-opportunity-to-lead-bellring-brands-inc-securities-fraud-lawsuit-302706058.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/sdm-deadline-sdm-investors-have-opportunity-to-lead-smart-digital-group-ltd-securities-fraud-lawsuit-302706059.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/pom-investors-have-opportunity-to-lead-pomdoctor-ltd-securities-fraud-lawsuit-302706055.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/psfe-investors-have-opportunity-to-lead-paysafe-limited-securities-fraud-lawsuit-302706051.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/cort-investors-have-opportunity-to-lead-corcept-therapeutics-incorporated-securities-fraud-lawsuit-302706054.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/tcpc-investors-have-opportunity-to-lead-blackrock-tcp-capital-corp-securities-fraud-lawsuit-302706049.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/yellow-stripes-capital-acquires-majority-stake-in-noblq-to-power-global-ailed-expansion-302706129.html": {
-    "valid": false
-  },
-  "https://siliconangle.com/2026/03/05/hardware-testing-startup-nominal-raises-80m-1b-valuation/": {
-    "valid": true,
-    "company": "Hardware testing startup Nominal",
-    "amount_str": "$80M",
-    "website": "https://www.newsbreak.com",
-    "linkedin_url": "https://linkedin.com/company/particle-media-inc",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "mjlee@usatoday.com",
-    "twitter_url": "https://x.com/newsbreakApp"
-  },
-  "https://www.prnewswire.com/news-releases/door-investors-have-opportunity-to-lead-masonite-international-corporation-securities-fraud-lawsuit-302706254.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/enph-investors-have-opportunity-to-lead-enphase-energy-inc-securities-fraud-lawsuit-302706097.html": {
-    "valid": false
-  },
-  "https://hypepotamus.com/startup-news/atlanta-startup-huper-ai-chief-of-staff/": {
-    "valid": true,
-    "company": "Atlanta Startup Huper",
-    "amount_str": "$1.5M",
-    "website": "https://duck.ai",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.agtechnavigator.com/Article/2026/03/05/weed-management-how-this-startup-is-helping-farmers-improve-yields/": {
-    "valid": true,
-    "company": "Robotic weeding start-up AgriPass",
-    "amount_str": "$7.5m",
-    "website": "https://duck.ai",
-    "linkedin_url": "",
-    "founder_name": "Liron Yanay",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://techcrunch.com/2026/03/05/cluely-ceo-roy-lee-admits-to-publicly-lying-about-revenue-numbers-last-year/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://strictlyvc.com",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.eu-startups.com/2026/03/irish-founded-startup-evervault-raises-e21-million-to-advance-encrypted-data-orchestration/": {
-    "valid": false
-  },
-  "https://americanbazaaronline.com/2026/03/05/clothing-step-startup-caastle-founder-pleads-guilty-to-fraud-476332/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://akismet.com/privacy",
-    "linkedin_url": "",
-    "founder_name": "Clothing step startup CaaStle",
-    "founder_linkedin_url": "",
-    "contact_email": "privacypolicyupdates@automattic.com",
-    "twitter_url": ""
-  },
-  "https://www.forbes.com/sites/mattgardner1/2026/03/05/cheer-games-raises-45-million-for-next-gen-mobile-puzzles/": {
-    "valid": true,
-    "company": "Cheer Games",
-    "amount_str": "$4.5 M",
-    "website": "https://www.gamescheer.com",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "service@gamescheer.com",
-    "twitter_url": ""
-  },
-  "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://strictlyvc.com",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.citybiz.co/article/814651/neurointact-focus-on-regulatory-path-expanded-clinical-validation-for-temperature-modulation-system/": {
-    "valid": false
-  },
-  "https://www.startupdaily.net/topic/funding/cancer-medtech-tops-up-series-b-to-28-million/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://growth-summit.com.au",
-    "linkedin_url": "",
-    "founder_name": "Keith Hansen said oncology",
-    "founder_linkedin_url": "",
-    "contact_email": "events@smartcompany.com.au",
-    "twitter_url": ""
-  },
-  "https://techfundingnews.com/pasqal-2b-spac-nasdaq-quantum/": {
-    "valid": false
-  },
-  "https://theaiinsider.tech/2026/03/05/diligent-ai-announces-e2-1m-seed-round-to-expand-autonomous-ai-analysts-for-financial-crime-compliance/": {
-    "valid": false
-  },
-  "https://entrackr.com/snippets/healthtech-startup-trudoc-raises-15-mn-in-pre-series-b-round-11177703": {
-    "valid": true,
-    "company": "TruDoc Healthcare",
-    "amount_str": "$15 m",
-    "website": "https://trudocgroup.com",
-    "linkedin_url": "https://linkedin.com/company/trudoc24x7",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "info@trudocgroup.com",
-    "twitter_url": "https://x.com/TruDoc24x7"
-  },
-  "https://www.startupresearcher.com/news/french-biotech-bacta-raises-usd8-million-for-ai-powered-bioproduction": {
-    "valid": false
-  },
-  "https://www.startupresearcher.com/news/vectrix-secures-usd1-3-million-to-automate-logistics-orders": {
-    "valid": false
-  },
-  "https://www.eu-startups.com/2026/03/antwerp-based-vectrix-raises-e1-15-million-to-build-the-automation-layer-for-transport-operations/": {
-    "valid": false
-  },
-  "https://agfundernews.com/agrifood-signals-syngenta-ditches-paraquat-targan-bags-100m-for-animal-health-aerofarms-for-sale": {
-    "valid": true,
-    "company": "AgriFood Signals: Syngenta ditches paraquat, TARGAN",
-    "amount_str": "$100m",
-    "website": "https://duck.ai",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://financialit.net/news/fundraising-news/silverflow-closes-40-million-series-b-it-nears-one-billion-transactions": {
-    "valid": true,
-    "company": "Silverflow",
-    "amount_str": "$40 M",
-    "website": "https://www.silverflow.com",
-    "linkedin_url": "https://linkedin.com/company/silverflow",
-    "founder_name": "Anne Willem De Vries",
-    "founder_linkedin_url": "https://linkedin.com/in/anne-willem-de-vries-b798664",
-    "contact_email": "info@silverflow.com",
-    "twitter_url": "https://x.com/silverflow"
-  },
-  "https://www.newcomer.co/p/venture-investors-see-big-promise": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://substackcdn.com",
-    "linkedin_url": "",
-    "founder_name": "former Palo Alto Networks",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.startupresearcher.com/news/workforce-intelligence-startup-acceler8-raises-seed-round-led-by-a16z": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/mreo-investors-have-opportunity-to-lead-mereo-biopharma-group-plc-securities-fraud-lawsuit-302706256.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/lake-investors-have-opportunity-to-lead-lakeland-industries-inc-securities-fraud-lawsuit-302706255.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/vrns-investors-have-opportunity-to-lead-varonis-systems-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302706330.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/vtgn-investors-have-opportunity-to-lead-vistagen-therapeutics-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302706331.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/twse-delegation-visit-strengthens-us-ties-reinforcing-taiwans-role-as-an-asian-asset-management-center-302706522.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/mayor-and-city-leaders-mark-official-opening-of-278-home-lighthaus-at-liverpool-waters-302706317.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/bbwi-investors-have-opportunity-to-lead-bath--body-works-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302706329.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/bath--body-works-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--bbwi-302706325.html": {
-    "valid": false
-  },
-  "https://tech.eu/2026/03/06/taxdown-secured-eur4m-financing-from-bbva-spark-to-enhance-its-ai-solutio/": {
-    "valid": true,
-    "company": "TaxDown",
-    "amount_str": "",
-    "website": "https://taxdown.net",
-    "linkedin_url": "https://linkedin.com/company/taxdown",
-    "founder_name": "backed TrueLayer",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.prnewswire.com/news-releases/investor-notice-enphase-energy-inc-investors-with-substantial-losses-have-opportunity-to-lead-the-class-action-lawsuit-302706220.html": {
-    "valid": false
-  },
-  "https://www.defenseadvancement.com/news/ai-decision-software-for-drone-teams-secures-2-1m-pre-seed-funding/": {
-    "valid": true,
-    "company": "Decision Software for Drone Teams",
-    "amount_str": "$2.1M",
-    "website": "https://duck.ai",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://x.com/audiumcp/status/2029590854130651218": {
-    "valid": true,
-    "company": "Cheer Games",
-    "amount_str": "$4.5M",
-    "website": "https://www.gamescheer.com",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "service@gamescheer.com",
-    "twitter_url": ""
-  },
-  "https://www.builtinsf.com/articles/vor-systems-raises-3m-pre-seed-20260305": {
-    "valid": true,
-    "company": "Vor Systems",
-    "amount_str": "$3M",
-    "website": "https://www.vorsystems.com",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "example@mysite.com",
-    "twitter_url": "https://x.com/suricate"
-  },
-  "https://www.facebook.com/gamesindustry/posts/cheer-games-has-raised-45-million-in-its-pre-seed-roundhttpswwwgamesindustrybizc/1440456488095471/": {
-    "valid": true,
-    "company": "Cheer Games",
-    "amount_str": "$4.5 m",
-    "website": "https://www.gamescheer.com",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "service@gamescheer.com",
-    "twitter_url": ""
-  },
-  "https://beamstart.com/news/one-nutrition-bags-new-funds-17727017966428": {
-    "valid": true,
-    "company": "One% Nutrition",
-    "amount_str": "",
-    "website": "https://duck.ai",
-    "linkedin_url": "https://linkedin.com/company/onepercent-nutrition",
-    "founder_name": "and COO",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://hyper.ai/en/stories/9d636e50a311514773762a7651433b3c": {
-    "valid": true,
-    "company": "Plakar",
-    "amount_str": "$3M",
-    "website": "https://www2.plakar.io",
-    "linkedin_url": "https://linkedin.com/company/plakarkorp",
-    "founder_name": "founder and",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": "https://x.com/PlakarKorp"
-  },
-  "https://www.bioindustry.org/resource/outpost-bio-raises--3-5m-pre-seed-to-build-frontier-models-for-human-microbiology.html": {
-    "valid": true,
-    "company": "Outpost Bio",
-    "amount_str": "$3.5 m",
-    "website": "https://www.outpost.bio",
-    "linkedin_url": "https://linkedin.com/company/outpost-bio",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.resultsense.com/news/2026-03-05-mutable-tactics-drone-autonomy-funding": {
-    "valid": true,
-    "company": "Mutable Tactics",
-    "amount_str": "$2.1m",
-    "website": "https://mutabletactics.ai",
-    "linkedin_url": "https://linkedin.com/company/mutabletactics",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "info@mutabletactics.ai",
-    "twitter_url": "https://x.com/MutableTactics"
-  },
-  "https://www.linkedin.com/posts/cvxventures_agaton-raises-10-million-seed-funding-to-activity-7435617307999223809-ww1E": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://medial.app/news/vectrix-raises-dollar12-million-seed-round-or-the-saas-news-f047988f3dcc8": {
-    "valid": true,
-    "company": "Taqtics",
-    "amount_str": "$1.2 m",
-    "website": "https://taqtics.com",
-    "linkedin_url": "https://linkedin.com/company/taqticscom",
-    "founder_name": "said Siddharth Jena",
-    "founder_linkedin_url": "",
-    "contact_email": "you@firm.com",
-    "twitter_url": "https://x.com/taqticsmedia"
-  },
-  "https://www.moonshotnx.com/venture-capital-stack": {
-    "valid": false
-  },
-  "https://venture5.com/vc-deals/fluency-raises-6m-seed-funding/": {
-    "valid": true,
-    "company": "Fluency",
-    "amount_str": "$6M",
-    "website": "https://www.fluency.inc",
-    "linkedin_url": "https://linkedin.com/company/fluencyinc",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.f6s.com/seed-funding-startup": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://x.com/Calcalistech/status/2029557067573346462": {
-    "valid": true,
-    "company": "ironSource founders",
-    "amount_str": "$58 m",
-    "website": "https://en.globes.co.il",
-    "linkedin_url": "https://linkedin.com/company/globes",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "support@globes.co.il",
-    "twitter_url": "https://x.com/GlobesEnglish"
-  },
-  "https://kruzeconsulting.com/blog/raising-seed-round/": {
-    "valid": false
-  },
-  "https://medial.app/news/intelligrc-raises-dollar35m-seed-round-or-the-saas-news-800ee67bf198c": {
-    "valid": true,
-    "company": "IntelliGRC",
-    "amount_str": "$3.5M",
-    "website": "https://intelligrc.com",
-    "linkedin_url": "https://linkedin.com/company/intelligrc",
-    "founder_name": "and Relayr",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": "https://x.com/IntelliGRC"
-  },
-  "https://medial.app/news/partspulse-raises-dollar3-million-in-seed-round-or-the-saas-news-0e028c49996ef": {
-    "valid": true,
-    "company": "SuperKalam",
-    "amount_str": "$1.95 m",
-    "website": "https://superkalam.com",
-    "linkedin_url": "https://linkedin.com/company/superkalam",
-    "founder_name": "Founded by",
-    "founder_linkedin_url": "",
-    "contact_email": "hello@superkalam.com",
-    "twitter_url": "https://x.com/superkalam_"
-  },
-  "https://www.resultsense.com/news/2026-03-05-roxfit-raises-seed-funding-ai-fitness": {
-    "valid": false
-  },
-  "https://india.entrepreneur.com/business-news/climate-tech-startup-sprih-secures-usd-3-million-in-seed/471420": {
-    "valid": true,
-    "company": "Climate Tech Startup Sprih",
-    "amount_str": "",
-    "website": "https://www.entrepreneur.com",
-    "linkedin_url": "",
-    "founder_name": "Akash Keshav",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.startupresearcher.com/news/worldscape-ai-secures-seed-funding-for-ai-geospatial-intelligence-platform": {
-    "valid": false
-  },
-  "https://www.startupresearcher.com/news/wellness-startup-bubble-me-raises-usd164-000-in-pre-seed-round": {
-    "valid": false
-  },
-  "https://startupmap.iamsterdam.com/news/feed/india-norway-backed-elmentoz-raises-seed-funding-to-build-country-s-largest-bsf-based-smart-protein-facility": {
-    "valid": true,
-    "company": "IAmsterdam startup map | India\u2013Norway-backed Elmentoz",
-    "amount_str": "",
-    "website": "https://duck.ai",
-    "linkedin_url": "",
-    "founder_name": "demands weekend email responses",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://techcrunch.com/2026/03/06/city-detect-uses-ai-to-help-cities-stay-safe-and-clean/": {
-    "valid": false
-  },
-  "https://tech.eu/2026/03/06/pld-space-raises-180m-eif-makes-largest-defence-investment-yet-and-february-funding-rebounds/": {
-    "valid": true,
-    "company": "PLD Space",
-    "amount_str": "",
-    "website": "https://www.pldspace.com",
-    "linkedin_url": "https://linkedin.com/company/pld-space",
-    "founder_name": "backed TrueLayer",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.prnewswire.com/news-releases/invitation--agenda-orexo-rd-day-on-march-24-302706890.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/invitation--agenda-orexo-rd-day-on-march-24-302706888.html": {
-    "valid": false
-  },
-  "https://www.aol.com/articles/venture-dollars-female-founders-doubled-080000555.html": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://s.yimg.com/oa/consent.js",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.businessinsider.com/fig-security-raises-38-m-pitch-deck-2026-3": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://i.insider.com/69a63f691fb3fcb42648c947",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://bayelsawatch.com/zeno-lands-25m/": {
-    "valid": false
-  },
-  "https://thecurrency.news/articles/219299/shane-currans-evervault-has-just-raised-25m-this-is-how-and-why/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://use.typekit.net/iqd8azx.css",
-    "linkedin_url": "",
-    "founder_name": "Shane Curran",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://eu.36kr.com/en/p/3709331718615176": {
-    "valid": false
-  },
-  "https://www.newsbytesapp.com/news/business/cheerio-ai-raises-rs8-crore-to-boost-no-code-marketing-platform/tldr": {
-    "valid": false
-  },
-  "https://ventureburn.com/unleash-raises-35m-led-by-one-peak/?amp=1": {
-    "valid": true,
-    "company": "Unleash",
-    "amount_str": "$35M",
-    "website": "https://www.getunleash.io",
-    "linkedin_url": "https://linkedin.com/company/getunleash",
-    "founder_name": "CEO and",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": "https://x.com/getunleash"
-  },
-  "https://ventureburn.com/circadence-secures-16-4m-for-ai-cyber-readiness/": {
-    "valid": true,
-    "company": "Circadence",
-    "amount_str": "$16.4M",
-    "website": "https://circadence.com",
-    "linkedin_url": "https://linkedin.com/company/circadence-corp",
-    "founder_name": "states Michael Moniz",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": "https://x.com/CircadenceCorp"
-  },
-  "https://www.binance.com/es-MX/square/post/298290218563969": {
-    "valid": false
-  },
-  "https://www.digitaltoday.co.kr/en/view/27174/cylake-raises-45-million-seed-on-premises-ai-security-platform": {
-    "valid": true,
-    "company": "Cylake",
-    "amount_str": "$45 m",
-    "website": "https://jobs.ashbyhq.com",
-    "linkedin_url": "https://linkedin.com/company/cylake-ai",
-    "founder_name": "Cylake is led by",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://fortune.com/2026/03/06/venture-dollars-female-founders-pitchbook-ai/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://cdn.cxense.com/ari.js",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.calcalistech.com/ctechnews/article/r1ev1gvkbg": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://newmedia.calcalist.co.il/ctech/testimonials/index.html",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "judith.hoffmann@calcalist.co.il",
-    "twitter_url": ""
-  },
-  "https://businessday.ng/news/article/cybervergent-secures-3m-seed-to-build-africas-digital-compliance-infrastructure/": {
-    "valid": true,
-    "company": "Cybervergent",
-    "amount_str": "$3 m",
-    "website": "https://www.cybervergent.com",
-    "linkedin_url": "https://linkedin.com/company/cybervergent",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "info@cybervergent.com",
-    "twitter_url": "https://x.com/cybervergent"
-  },
-  "https://entrackr.com/snippets/healthtech-startup-cent-secures-funding-from-oneflow-south-park-commons-11179508": {
-    "valid": true,
-    "company": "Cent",
-    "amount_str": "",
-    "website": "https://www.50cent.com",
-    "linkedin_url": "https://linkedin.com/company/centhealth",
-    "founder_name": "Founded by Practo",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": "https://x.com/50cent"
-  },
-  "https://techafricanews.com/2026/03/06/cybervergent-secures-3m-seed-funding-to-expand-ai-driven-compliance-platform-in-africa/": {
-    "valid": true,
-    "company": "Cybervergent",
-    "amount_str": "$3M",
-    "website": "https://www.cybervergent.com",
-    "linkedin_url": "https://linkedin.com/company/cybervergent",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "info@cybervergent.com",
-    "twitter_url": "https://x.com/cybervergent"
-  },
-  "https://www.wbur.org/news/2026/03/05/cultivated-meat-lab-grown-massachusetts-investment-climate-change": {
-    "valid": false
-  },
-  "https://www.calcalistech.com/ctechnews/article/syubusdfbl": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://newmedia.calcalist.co.il/ctech/testimonials/index.html",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "judith.hoffmann@calcalist.co.il",
-    "twitter_url": ""
-  },
-  "https://www.techzine.eu/news/privacy-compliance/139318/founders-palo-alto-and-sentinelone-launch-security-company-cylake/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://cdn-cookieyes.com",
-    "linkedin_url": "",
-    "founder_name": "Palo Alto and SentinelOne",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://united24media.com/latest-news/uforce-hits-1b-valuation-becoming-ukraines-first-defense-tech-unicorn-16538": {
-    "valid": false
-  },
-  "https://www.thesaasnews.com/news/vectrix-raises-1-2-million-seed-round": {
-    "valid": false
-  },
-  "https://www.thesaasnews.com/news/zyg-secures-58-million-in-seed-round": {
-    "valid": true,
-    "company": "ZyG",
-    "amount_str": "$58 m",
-    "website": "https://www.zyg.com",
-    "linkedin_url": "https://linkedin.com/company/zyg-edge",
-    "founder_name": "Bessemer supports founders and",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.calcalistech.com/ctechnews/article/bkrgjwpkwe": {
-    "valid": true,
-    "company": "ironSource founders",
-    "amount_str": "$58 m",
-    "website": "https://en.globes.co.il",
-    "linkedin_url": "https://linkedin.com/company/globes",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "support@globes.co.il",
-    "twitter_url": "https://x.com/GlobesEnglish"
-  },
-  "https://siliconangle.com/2026/03/05/agentic-e-commerce-startup-zyg-gets-58m-help-solo-inventors-compete-biggest-global-brands/": {
-    "valid": true,
-    "company": "Agentic e-commerce startup ZyG",
-    "amount_str": "$58M",
-    "website": "https://siliconangle.com",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": "https://x.com/thecube"
-  },
-  "https://www.bruegel.org/policy-brief/reforming-european-defence-procurement-boost-military-innovation-and-startups": {
-    "valid": false
-  },
-  "https://venturebeat.com/orchestration/google-pm-open-sources-always-on-memory-agent-ditching-vector-databases-for": {
-    "valid": false
-  },
-  "https://news.crunchbase.com/venture/biggest-funding-rounds-space-tech-sierra-ai-ayar/": {
-    "valid": false
-  },
-  "https://betakit.com/uniuni-raises-85-million-usd-as-it-scales-gig-powered-delivery-across-north-america/": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/driven-brands-drvn-800-million-market-cap-wipeout-amid-improper-accounting-delayed-financial-report--pending-restatements--hagens-berman-302707018.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/shareholder-alert-the-ademi-firm-investigates-whether-day-one-biopharmaceuticals-inc-is-obtaining-a-fair-price-for-its-public-shareholders-302706956.html": {
-    "valid": false
-  },
-  "https://venturebeat.com/technology/anthropic-launches-claude-marketplace-giving-enterprises-access-to-claude": {
-    "valid": false
-  },
-  "https://betakit.com/dominion-dynamics-says-it-will-invest-50-million-to-build-a-sovereign-autonomous-wingman/": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/elf-beauty-investigation-initiated-kahn-swick--foti-llc-investigates-the-officers-and-directors-of-elf-beauty-inc---elf-302707306.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-nidec-corporation-investors-to-inquire-about-securities-class-action-investigation--njdcy-302707290.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-tripcom-group-limited-investors-to-inquire-about-securities-class-action-investigation--tcom-302707285.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/s2c-arizona-inc-dba-safe2core-expands-hydro-excavation-utility-potholing--vacuum-excavation-services-across-arizona-302707307.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/ardt-deadline-ardt-investors-have-opportunity-to-lead-ardent-health-inc-securities-fraud-lawsuit-302707253.html": {
-    "valid": false
-  },
-  "https://techcrunch.com/2026/03/06/robinhoods-startup-fund-stumbles-in-nyse-debut/": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/apollo-global-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-apollo-global-management-inc---apo-302707317.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/navan-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-navan-inc---navn-302707316.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/enphase-energy-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-enphase-energy-inc---enph-302707313.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/corcept-therapeutics-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-corcept-therapeutics-incorporated---cort-302707319.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/kyndryl-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-kyndryl-holdings-inc---kd-302707318.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/uniqure-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-uniqure-nv---qure-302707312.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/ultragenyx-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-ultragenyx-pharmaceutical-inc---rare-302707320.html": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://www.cision.com/about/accessibility",
-    "linkedin_url": "https://linkedin.com/company/cision",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "support@cision.com",
-    "twitter_url": "https://x.com/cision"
-  },
-  "https://www.prnewswire.com/news-releases/bellring-brands-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-bellring-brands-inc---brbr-302707315.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/coreweave-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-coreweave-inc---crwv-302707308.html": {
-    "valid": false
-  },
-  "https://betakit.com/how-gaiia-used-its-rd-to-help-finance-a-pivot-from-services-to-software/": {
-    "valid": false
-  },
-  "https://odessa-journal.com/ukrainian-startup-superapp-raises-16-million-for-ai-no-code-development-for-ios-and-mac": {
-    "valid": false
-  },
-  "https://techfundingnews.com/nothing-phone-4a-pro-launch-glyph-matrix/": {
-    "valid": false
-  },
-  "https://www.onlinemarketplaces.com/articles/investment-and-ma-roundup-scout24-acquires-fotocasa/": {
-    "valid": false
-  },
-  "https://financialit.net/news/fundraising-news/uala-raises-195m-funding-round-led-allianz-x": {
-    "valid": true,
-    "company": "Ual\u00e1",
-    "amount_str": "$195M",
-    "website": "https://www.ua.la",
-    "linkedin_url": "https://linkedin.com/company/ual-",
-    "founder_name": "said Pierpaolo Barbieri",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": "https://x.com/uala"
-  },
-  "https://impactalpha.com/the-weeks-dealflow-march-6-2026/": {
-    "valid": false
-  },
-  "https://roboticsandautomationnews.com/2026/03/06/massrobotics-startups-raise-2-billion-as-boston-strengthens-its-global-robotics-hub/99298/": {
-    "valid": true,
-    "company": "MassRobotics startups",
-    "amount_str": "$2 b",
-    "website": "https://www.massrobotics.org",
-    "linkedin_url": "https://linkedin.com/company/massrobotics",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "info@massrobotics.org",
-    "twitter_url": "https://x.com/MassRobotics"
-  },
-  "https://therecursive.com/cee-startups-tech-weekly-new-defense-unicorn-with-ukrainian-roots/": {
-    "valid": false
-  },
-  "https://www.fintechfutures.com/venture-capital-funding/icymi-fintech-funding-round-up-wealthyhood-payr-pluvo-and-more": {
-    "valid": false
-  },
-  "https://cryptorank.io/news/feed/4eac9-ripple-prime-taps-coinbase-derivatives-to-expand-institutional-crypto-trading": {
-    "valid": false
-  },
-  "https://www.cooley.com/news/coverage/2026/2026-03-06-cooley-recognized-in-five-deals-of-the-year-awards-in-the-chinese-market": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://law.asia/china/china-deals-of-the-year-2025",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://athletechnews.com/adidas-athx-expands-to-us-miami-fitness-competition/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://atn-disrupt.vfairs.com/en",
-    "linkedin_url": "https://linkedin.com/company/relive-health",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "customersupport@vfairs.com",
-    "twitter_url": ""
-  },
-  "https://pandaily.com/knowin-completes-angel-round-financing-valued-over-300-million": {
-    "valid": false
-  },
-  "https://thenextweb.com/news/dealflowagent-ai-sme-ma-long-journey-ventures": {
-    "valid": true,
-    "company": "DealFlowAgent",
-    "amount_str": "",
-    "website": "https://www.dealflowagent.com",
-    "linkedin_url": "https://linkedin.com/company/dealflowagent",
-    "founder_name": "Joe Lewin",
-    "founder_linkedin_url": "https://linkedin.com/in/jp-lewin",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.bizjournals.com/philadelphia/news/2026/03/06/persevere-therapeutics-chesterbrook-cancer-bosch.html": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://en.wowtale.net/2026/03/06/233639/": {
-    "valid": true,
-    "company": "Multimodal AI Startup 'ACTIONPOWER'",
-    "amount_str": "$4.1M",
-    "website": "https://duck.ai",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.law360.com/articles/2449822/legal-tech-roundup-skribe-file-servexpress": {
-    "valid": false
-  },
-  "https://inventure.com.ua/en/news/ukraine/ukrainian-startup-superapp-raises-dollar1.6-million-for-no-code-platform": {
-    "valid": true,
-    "company": "Ukrainian startup Superapp",
-    "amount_str": "$1.6 m",
-    "website": "https://duck.ai",
-    "linkedin_url": "",
-    "founder_name": "who serves as",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.binance.com/en/square/post/298925993387778": {
-    "valid": false
-  },
-  "https://www.binance.com/sk/square/post/298540317361154": {
-    "valid": false
-  },
-  "https://www.marcamoney.com/peping-raises-2-5-crore-in-funding-led-by-ian-angel-fund/": {
-    "valid": false
-  },
-  "https://fintech.global/2026/03/06/vor-systems-raises-3m-to-streamline-renewable-energy-deals/": {
-    "valid": true,
-    "company": "Vor Systems",
-    "amount_str": "$3m",
-    "website": "https://www.vorsystems.com",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "example@mysite.com",
-    "twitter_url": "https://x.com/suricate"
-  },
-  "https://www.finsmes.com/2026/03/vor-systems-raises-3m-pre-seed-funding.html": {
-    "valid": false
-  },
-  "https://www.binance.com/en/square/post/298540317361154": {
-    "valid": false
-  },
-  "https://pulse2.com/cheer-games-4-5-million-raised-for-mobile-puzzle-game-studio-building-franchise-titles/": {
-    "valid": true,
-    "company": "Cheer Games",
-    "amount_str": "$4.5 m",
-    "website": "https://www.gamescheer.com",
-    "linkedin_url": "",
-    "founder_name": "The founding team includes",
-    "founder_linkedin_url": "",
-    "contact_email": "service@gamescheer.com",
-    "twitter_url": ""
-  },
-  "https://dallasinnovates.com/cypher-learning-names-former-chatmeter-leader-as-ceo-as-founder-transitions-to-cto/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://thecommondesk.com/offerings",
-    "linkedin_url": "https://linkedin.com/company/common-desk",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "hello@thecommondesk.com",
-    "twitter_url": "https://x.com/TheCommonDesk"
-  },
-  "https://www.bitget.com/amp/news/detail/12560605243975": {
-    "valid": false
-  },
-  "https://www.gamesindustry.biz/cheer-games-raises-45m-in-pre-seed-funding": {
-    "valid": true,
-    "company": "Cheer Games",
-    "amount_str": "$4.5m",
-    "website": "https://www.gamescheer.com",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "service@gamescheer.com",
-    "twitter_url": ""
-  },
-  "https://www.photonics.com/Videos/What-NVIDIAs-Billion-Dollar-Deals-Tell-Us-About/v1086": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://finance.yahoo.com/news/vor-systems-raises-3m-pre-140600218.html": {
-    "valid": true,
-    "company": "Vor Systems",
-    "amount_str": "$3M",
-    "website": "https://www.vorsystems.com",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "example@mysite.com",
-    "twitter_url": "https://x.com/suricate"
-  },
-  "https://www.finsmes.com/2026/03/cheer-games-raises-4-5m-in-pre-seed-funding.html": {
-    "valid": false
-  },
-  "https://wnhub.io/news/other/item-50261": {
-    "valid": false
-  },
-  "https://www.latitudemedia.com/news/can-ipps-benefit-from-silicon-valleys-playbook-for-scale/": {
-    "valid": false
-  },
-  "https://mobilegamer.biz/hexa-sort-creators-cheer-games-raise-4-5m/": {
-    "valid": false
-  },
-  "https://mediabrief.com/ashish-bajaj-launches-10on10-foods-with-2-crore-pre-seed-funding/": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/shareholders-who-lost-money-in-shares-of-navan-inc-nasdaq-navn-should-contact-wolf-haldenstein--immediately-302704976.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/edr-deadline-edr-investors-have-opportunity-to-lead-endeavor-group-holdings-inc-securities-fraud-lawsuit-302707375.html": {
-    "valid": false
-  },
-  "https://www.msn.com/en-us/news/insight/uconn-starts-big-east-tournament-run/gm-GMCC2D38C8?gemSnapshotKey=GMCC2D38C8-snapshot-9&uxmode=ruby": {
-    "valid": false
-  },
-  "https://dot.la/montgomery-summit-2026-fairmont-miramar-2675651727.html": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://assets.rebelmouse.io",
-    "linkedin_url": "",
-    "founder_name": "founded by March Capital",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://ventureburn.com/science-corp-raises-230m-to-advance-brain-computer-tech/": {
-    "valid": true,
-    "company": "Science Corp",
-    "amount_str": "$230M",
-    "website": "https://science.xyz",
-    "linkedin_url": "",
-    "founder_name": "Max Hodak",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://inc42.com/buzz/from-rozana-to-cent-indian-startups-raised-98-mn-this-week/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://fonts.gstatic.com",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://x.com/ForkLog/status/2029970798253846985": {
-    "valid": false
-  },
-  "https://www.dlnews.com/articles/deals/ai-boom-siphoning-capital-from-crypto-startups-vcs-warn/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://t.me/dlnewsinfo",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://fundtq.com/funding-for-ai-saas-startups/": {
-    "valid": false
-  },
-  "https://www.bizjournals.com/tampabay/news/2026/03/06/sarasota-jet-startup-aerovanti-federal-dismiss.html": {
-    "valid": false
-  },
-  "https://coinfomania.com/bitcoin-payments-expand-as-utexo-secures-7-5m-from-tether/": {
-    "valid": false
-  },
-  "https://www.prweb.com/releases/durion-appoints-paul-lesure-as-ceo-to-lead-commercialization-of-breakthrough-thermal-energy-storage-technology-302706190.html": {
-    "valid": false
-  },
-  "https://www.forbes.com/sites/sofiachierchio/2026/03/06/founder-accused-by-his-own-startup-of-forgery-secret-deals-and-luxury-spending/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://arcticstartup.com/category/country/iceland/page/2/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://coinlaw.io/utexo-raises-7-5m-tether-usdt-settlement/": {
-    "valid": false
-  },
-  "https://m.economictimes.com/tech/funding/ettech-deals-digest-startups-raise-157-million-this-week-down-32-on-year/articleshow/129163774.cms": {
-    "valid": true,
-    "company": "ETtech Deals Digest: Startups",
-    "amount_str": "$157 m",
-    "website": "https://economictimes.indiatimes.com",
-    "linkedin_url": "https://linkedin.com/company/economictimes",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": "https://x.com/economictimes"
-  },
-  "https://innovation-village.com/rh-managers-and-sefda-launch-r75-million-healthcare-sme-fund-in-south-africa/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "",
-    "linkedin_url": "",
-    "founder_name": "Quinton Zunga",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://fintech.global/2026/03/06/a-total-of-570m-was-raised-across-26-fintech-deals-this-week-catchup-on-them-here/": {
-    "valid": true,
-    "company": "The company",
-    "amount_str": "$38m",
-    "website": "https://www.thecompanystore.com",
-    "linkedin_url": "https://linkedin.com/company/linkedin",
-    "founder_name": "Simha Sadasiva",
-    "founder_linkedin_url": "",
-    "contact_email": "custserv@thecompanystore.com",
-    "twitter_url": "https://x.com/thecompanystore"
-  },
-  "https://www.inc.com/leila-sheridan/an-a16z-backed-startup-that-helps-people-cheat-on-job-interviews-just-got-caught-in-a-7-million-lie-the-ceo-was-sweating/91313070": {
-    "valid": false
-  },
-  "https://www.axios.com/pro/fintech-deals/2026/03/06/utexo-usdt-bitcoin-seed": {
-    "valid": false
-  },
-  "https://www.compositesworld.com/news/fibionic-secures-3-million-seed-funding-for-bionic-fiber-placement": {
-    "valid": false
-  },
-  "https://venturebeat.com/technology/karpathys-march-of-nines-shows-why-90-ai-reliability-isnt-even-close-to": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/bybit-et-tether-renforcent-leur-collaboration-strategique-avec-la-golden-season-offrant-la-stabilite-garantie-par-lor-aux-investisseurs-en-cryptomonnaies-302707482.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/investor-notice-navan-inc-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit-302707152.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/investor-alert-soleno-therapeutics-inc-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit--rgrd-law-302707373.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/apo-investors-have-opportunity-to-lead-apollo-global-management-inc-securities-fraud-lawsuit-filed-by-the-rosen-law-firm-302707249.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/kessler-topaz-meltzer--check-llp-filed-a-securities-fraud-class-action-lawsuit-against-uniqure-nv-qure-april-13-2026-lead-plaintiff-deadline-302706407.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/hd-hyundai-electric-expands-us-production-subsidiary-solidifies-leadership-in-north-american-extra-high-voltage-power-transformer-market-302707507.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/discovery-released-in-lawsuit-by-humanities-groups-reveals-chatgpt-powered-process-by-doge-in-cancelling-grants-for-schools-libraries-and-community-organizations-302707495.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/late-breaking-clinical-trial-presentation-of-the-first-ever-us-cohort-of-over-4-000-cathworks-ffrangio-patients-demonstrates-similar-clinical-outcomes-to-invasive-pressure-wire-guided-pci-through-2-years-302707494.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/bybit-e-tether-approfondiscono-la-collaborazione-strategica-con-golden-season-offrendo-agli-investitori-in-criptovalute-stabilita-garantita-dalloro-302707483.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/data-breach-alert-edelson-lechtzin-llp-is-investigating-claims-on-behalf-of-persons-affected-by-the-trizetto-provider-solutions-tps-data-breach-302707524.html": {
-    "valid": false
-  },
-  "https://www.binance.com/en/square/post/298931077966801": {
-    "valid": false
-  },
-  "https://www.forbes.com/sites/josipamajic/2026/03/07/venture-capital-is-discovering-fashion-tech/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://theaiinsider.tech/2026/03/07/diligencesquared-closes-5m-in-funding-to-bring-ai-driven-commercial-due-diligence-to-private-equity/": {
-    "valid": true,
-    "company": "DiligenceSquared",
-    "amount_str": "$5M",
-    "website": "",
-    "linkedin_url": "https://linkedin.com/company/diligencesquared",
-    "founder_name": "founder and",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.startupresearcher.com/news/natura-co-leads-usd3-5-million-seed-round-for-uruguayan-biotech-antarka": {
-    "valid": false
-  },
-  "https://www.coingabbar.com/en/crypto-currency-news/utexo-usdt-bitcoin-settlement-tether-investment": {
-    "valid": true,
-    "company": "Utexo USDT Bitcoin Network",
-    "amount_str": "$7.5M",
-    "website": "https://duck.ai",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://nationaltoday.com/us/tx/paris/news/2026/03/07/fashion-tech-startups-attract-venture-capital-funding/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://www.tiktok.com/@www.nationaltoday.com",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "u002F@www.nationaltoday.com",
-    "twitter_url": ""
-  },
-  "https://egw.news/crypto/news/33032/utexo-raises-75m-led-by-tether-to-launch-native-us-aoqqB8OM3": {
-    "valid": false
-  },
-  "https://www.arabnews.com/node/2635611/business-economy": {
-    "valid": false
-  },
-  "https://www.mexc.com/news/875374": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://trochilus-web.gotoda.co/trochilus-web-sdk-integration.js",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://incrypted.com/en/follow-the-money-149m-in-investments-in-a-week-cefi-in-focus-and-19-new-deals/": {
-    "valid": false
-  },
-  "https://www.instagram.com/p/DVlVF1kDOMj/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.msn.com/en-in/money/news/ai-consultancy-navikenz-raises-11-6-million-from-former-hexaware-ceo-others/ar-AA1WuZ46?ocid=finance-verthp-feeds&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
-    "valid": true,
-    "company": "AI consultancy Navikenz",
-    "amount_str": "$7.5 m",
-    "website": "https://www.msn.com",
-    "linkedin_url": "",
-    "founder_name": "million from former Hexaware",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.techinasia.com/scifi-real-life": {
-    "valid": false
-  },
-  "https://www.india.com/news/what-barclays-ubyx-investment-signals-for-the-future-of-digital-money-8333724/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://www.thehealthsite.com",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": "https://x.com/HealthSite4U"
-  },
-  "https://www.binance.com/ro/square/post/298931077966801": {
-    "valid": false
-  },
-  "https://www.bitget.com/amp/news/detail/12560605246316": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "",
-    "linkedin_url": "",
-    "founder_name": "of Strategy at BlockSpaceForce",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.floridatoday.com/press-release/story/78725/patientdesk-ai-raises-1m-pre-seed-backed-by-y-combinator-to-modernize-dental-front-desks/": {
-    "valid": true,
-    "company": "Patientdesk AI",
-    "amount_str": "$1M",
-    "website": "https://www.patientdesk.ai",
-    "linkedin_url": "",
-    "founder_name": "Oncel Ozgul",
-    "founder_linkedin_url": "",
-    "contact_email": "info@patientdesk.ai",
-    "twitter_url": ""
-  },
-  "https://www.msn.com/en-us/news/technology/mozart-ai-announces-oversubscribed-6-million-seed-round-says-it-s-topped-100-000-users/ar-AA1W7lo7?ocid=hpmsn": {
-    "valid": false
-  },
-  "https://www.instagram.com/p/DVkkbOJjCCd/": {
-    "valid": false
-  },
-  "https://startuppoint.in/10on10-foods-secures-pre-seed-funding/": {
-    "valid": false
-  },
-  "https://www.seedtable.com/funding-round/willicroft_2022_Pre-Seed_Funding_Round-WXZEG5A": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.reddit.com/r/StartUpIndia/comments/1rmdahx/how_does_preseed_funding_actually_work_in_india/": {
-    "valid": false
-  },
-  "https://www.binance.com/en/square/post/298619008756082": {
-    "valid": false
-  },
-  "https://www.linkedin.com/posts/hannah-dent-8893211a_we-have-refreshed-our-pre-seed-funding-activity-7435714858828009472-1hx6": {
-    "valid": false
-  },
-  "https://www.startups.com/requests/372cbf88-1d27-44b1-9f82-a5a51bdd59c2": {
-    "valid": false
-  },
-  "https://www.startups.com/requests/383a6118-37ef-468c-9f8d-74c4d242125b": {
-    "valid": false
-  },
-  "https://news.fintech.io/post/102mm50/vivox-ai-raises-1-3m-in-pre-seed-funding": {
-    "valid": false
-  },
-  "https://www.facebook.com/DefenseAdvancement/posts/uk-robotics-autonomy-startup-mutable-tactics-secures-21m-pre-seed-funding-to-dev/1331938248959265/": {
-    "valid": true,
-    "company": "UK robotics autonomy startup Mutable Tactics",
-    "amount_str": "$2.1M",
-    "website": "https://duck.ai",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://startupmafia.eu/malmo-based-robotics-startup-staer-raised-e3-5m-pre-seed-for-ai-driven-autonomous-robot-fleets": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://web.whatsapp.com/send",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://wepitched.com/blog/how-to-secure-pre-seed-funding-without-burning-your-personal-savings": {
-    "valid": true,
-    "company": "How to",
-    "amount_str": "",
-    "website": "https://www.wonderhowto.com",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "https://linkedin.com/in/ryanwardell",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.prnewswire.com/news-releases/rare-investor-alert-kessler-topaz-meltzer--check-llp-encourages-rare-investors-with-losses-to-contact-the-firm-302706238.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/vrns-deadline-vrns-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-varonis-systems-inc-securities-lawsuit-302707378.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/bitcoin-treasuries-media-announces-the-ultimate-bitcoin-vegas-2026-kick-off-302707641.html": {
-    "valid": false
-  },
-  "https://techcrunch.com/2026/03/08/palmer-luckeys-retro-gaming-startup-modretro-reportedly-seeks-funding-at-1b-valuation/": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/crwv-deadline-crwv-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-coreweave-inc-securities-fraud-lawsuit-302707380.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/pascal-desroches-to-update-shareholders-at-deutsche-bank-media-internet--telecom-conference-on-march-9-302707497.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/rgnx-investors-have-opportunity-to-lead-regenxbio-inc-securities-fraud-lawsuit-302707264.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/nyse-kd-kessler-topaz-meltzer--check-llp-announces-the-filing-of-a-securities-fraud-class-action-lawsuit-against-kyndryl-holdings-inc-302706241.html": {
-    "valid": false
-  },
-  "https://www.linkedin.com/posts/ivelina-dineva-nft_startups-fundraising-funding-activity-7436406626078830593-HSeO": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://startupmap.iamsterdam.com/news/note/h-formerly-holistic-ai-raises-220m-seed-round": {
-    "valid": true,
-    "company": "H (Formerly Holistic AI)",
-    "amount_str": "$220M",
-    "website": "https://duck.ai",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.facebook.com/forbes/posts/when-phoebe-gates-and-sophia-kianni-founded-ai-shopping-platform-phia-from-their/1301168828539771/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.prnewswire.com/news-releases/orcl-investors-have-opportunity-to-lead-oracle-corporation-securities-fraud-lawsuit-302707699.html": {
-    "valid": false
-  },
-  "https://eu.36kr.com/en/p/3711571451572360": {
-    "valid": false
-  },
-  "https://nationaltoday.com/us/wa/redmond/news/2026/03/08/starcloud-launches-first-space-based-bitcoin-mining-satellite/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://www.tiktok.com/@www.nationaltoday.com",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "u002F@www.nationaltoday.com",
-    "twitter_url": ""
-  },
-  "https://bharatfast.com/english/entrepreneur/meet-the-10-women-founders-who-built-industry-giants-and-are-shaping-the-future-of-indian-startups/31670/": {
-    "valid": false
-  },
-  "https://www.capitalbrief.com/article/longevity-play-tmrw-raises-7m-seed-round-from-tidal-and-inks-trudiagnostic-deal-8960189c-f6d4-4798-b0f8-9693292486a8/": {
-    "valid": true,
-    "company": "Longevity play TMRW",
-    "amount_str": "$7m",
-    "website": "https://duck.ai",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://bayelsawatch.com/vectrix-raises-1-2m/": {
-    "valid": true,
-    "company": "Vectrix",
-    "amount_str": "$1.2M",
-    "website": "https://vectrix.ai",
-    "linkedin_url": "https://linkedin.com/company/vectrixai",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "in_dbgr@dubois-granulats.co.uk",
-    "twitter_url": ""
-  },
-  "https://entarabi.com/en/2026/03/robinhood-ventures-fund-i-falls-11-on-first-trading-day-on-the-new-york-stock-exchange/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.lawnext.com/2026/03/legal-tech-vendors-roll-out-wave-of-announcements-ahead-of-legalweek-news-from-disco-advocacy-imanage-monjur-reveal-and-chronotracer-and-align.html": {
-    "valid": false
-  },
-  "https://invezz.com/news/2026/03/07/why-the-ai-funding-surge-is-distorting-the-ecosystem-for-female-founders/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://www.cloudflare.com/5xx-error-landing",
-    "linkedin_url": "https://linkedin.com/company/cloudflare",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": "https://x.com/cloudflare"
-  },
-  "https://www.pressreader.com/saudi-arabia/arab-news/20260308/281917369577156": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/vtgn-investors-have-opportunity-to-lead-vistagen-therapeutics-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302707860.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/plug-investors-have-opportunity-to-lead-plug-power-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302707831.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/metc-investors-have-opportunity-to-lead-ramaco-resources-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302707827.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/nscale-raises-2-billion-in-series-c--the-largest-in-european-history-302707945.html": {
-    "valid": true,
-    "company": "Nscale",
-    "amount_str": "$2 B",
-    "website": "https://www.nscale.com/press-releases/nscale-series-c",
-    "linkedin_url": "https://linkedin.com/company/nscale-cloud",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "press@nscale.com",
-    "twitter_url": "https://x.com/nscale_cloud"
-  },
-  "https://venturebeat.com/orchestration/enterprise-agentic-ai-requires-a-process-layer-most-companies-havent-built": {
-    "valid": false
-  },
-  "https://news.crunchbase.com/venture/data-series-b-startup-funding-ai-defense-health/": {
-    "valid": false
-  },
-  "https://tech.eu/2026/03/09/uk-manufacturing-startup-isembard-secures-50m/": {
-    "valid": true,
-    "company": "UK manufacturing startup Isembard",
-    "amount_str": "$50M",
-    "website": "https://duck.ai",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://tech.eu/2026/03/09/university-of-edinburgh-spin-out-biocaptiva-raises-ps158m-and-launches-liquid-biopsy-technology-in-the-us/": {
-    "valid": true,
-    "company": "University of Edinburgh biotech spin-out BIOCAPTIVA",
-    "amount_str": "",
-    "website": "https://duck.ai",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://tech.eu/2026/03/09/nvidia-backed-nscale-raises-2bn-appoints-sheryl-sandberg-nick-clegg-to-board/": {
-    "valid": true,
-    "company": "Nvidia-backed Nscale",
-    "amount_str": "$2B",
-    "website": "https://www.techbuzz.ai",
-    "linkedin_url": "https://linkedin.com/company/the-tech-buzz",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "contact@techbuzz.ai",
-    "twitter_url": "https://x.com/tbuzzdaily"
-  },
-  "https://tech.eu/2026/03/09/mirai-robotics-raises-4-2m-pre-seed-to-build-autonomous-dual-defence-maritime-systems/": {
-    "valid": true,
-    "company": "Mirai Robotics",
-    "amount_str": "$4.2M",
-    "website": "https://www.mirairobotics.in",
-    "linkedin_url": "https://linkedin.com/company/mirai-robotics",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "team@mirairobotics.com",
-    "twitter_url": ""
-  },
-  "https://tech.eu/2026/03/09/european-tech-weekly-recap-eur1b-in-deals-and-februarys-highlights/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.prnewswire.com/news-releases/scranton-injury-attorney-curt-parkins-joins-pisanchyn-law-firm-as-firm-secures-major-car-accident-ruling-302707015.html": {
-    "valid": false
-  },
-  "https://www.binance.com/en/square/post/299645430805714": {
-    "valid": false
-  },
-  "https://fortune.com/2026/03/08/ai-founder-logan-brown-quit-law-job-entrepreneurship-working-harder-now-than-ever/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://techfundingnews.com/mirai-robotics-snaps-4-2m-to-bring-autonomous-intelligence-to-the-worlds-oceans/": {
-    "valid": false
-  },
-  "https://www.eu-startups.com/2026/03/italys-ai-robotics-startup-mirai-robotics-raises-e3-6-million-to-build-autonomous-systems-for-maritime-operations/": {
-    "valid": false
-  },
-  "https://thenextweb.com/news/telura-exits-stealth-with-e4m": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://img-cdn.tnwcdn.com/image",
-    "linkedin_url": "",
-    "founder_name": "who serves as",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.afr.com/technology/eucalyptus-millionaires-target-new-start-up-investments-with-15m-fund-20260226-p5o5ne": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://alib.nine.com.au",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.thesaasnews.com/news/vor-systems-raises-3m-pre-seed": {
-    "valid": false
-  },
-  "https://www.phocuswire.com/interviews/startups/startup-state-biztrip-ai": {
-    "valid": false
-  },
-  "https://www.mexc.com/news/883750": {
-    "valid": false
-  },
-  "https://sifted.eu/articles/nucleus-first-momentum-telura/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://bsky.app/profile/sifted.eu",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://i-hls.com/archives/134466": {
-    "valid": false
-  },
-  "https://i-hls.com/archives/133166": {
-    "valid": false
-  },
-  "https://finance.yahoo.com/news/ai-founder-quit-her-9-080300798.html": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https:&#x2F;&#x2F;www.yahoo.com&#x2F;",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://entarabi.com/en/2026/03/cerebras-systems-plans-new-global-ipo-led-by-morgan-stanley-with-2-billion-investment/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.bitget.com/amp/news/detail/12560605247617": {
-    "valid": false
-  },
-  "https://gam3s.gg/news/cheer-games-raises-4m-to-expand-puzzle-game-studio/": {
-    "valid": true,
-    "company": "The studio",
-    "amount_str": "$4.5 m",
-    "website": "https://www.imdb.com",
-    "linkedin_url": "https://linkedin.com/company/thestudioworldwide",
-    "founder_name": "Emre Gercel",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.binance.com/en/square/post/03-07-2026-ethereum-layer-2-payments-rail-aims-to-bypass-visa-and-mastercard-299074729515202": {
-    "valid": false
-  },
-  "https://finance.yahoo.com/news/inside-quest-colossus-replace-visa-180102726.html": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://decrypt.co/360147/inside-quest-colossus-replace-visa-mastercard-kyc-less-crypto-cards",
-    "linkedin_url": "https://linkedin.com/company/decrypt-media",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "you@emailaddress.com",
-    "twitter_url": "https://x.com/josephdelong"
-  },
-  "https://techcrunch.com/2026/03/09/xprize-founder-peter-diamandis-launches-new-contest-to-manifest-a-new-star-trek/": {
-    "valid": false
-  },
-  "https://venturebeat.com/orchestration/microsoft-announces-copilot-cowork-with-help-from-anthropic-a-cloud-powered": {
-    "valid": false
-  },
-  "https://tech.eu/2026/03/09/february-2026s-top-10-european-tech-deals-you-need-to-know-about/": {
-    "valid": false
-  },
-  "https://tech.eu/2026/03/09/cytotrait-raises-ps3m-for-agricultural-gene-editing-technology/": {
-    "valid": true,
-    "company": "Cytotrait",
-    "amount_str": "",
-    "website": "https://www.cytotrait.com",
-    "linkedin_url": "https://linkedin.com/company/plant-organelle-technologies",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "info@plantorganelletech.com",
-    "twitter_url": ""
-  },
-  "https://tech.eu/2026/03/09/ils-secures-seed-funding-to-expand-provision-legal-workflow-platform/": {
-    "valid": true,
-    "company": "ILS",
-    "amount_str": "",
-    "website": "https://ilshealth.com",
-    "linkedin_url": "https://linkedin.com/company/independent-living-systems-llc",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": "https://x.com/ILSHealth"
-  },
-  "https://tech.eu/2026/03/09/saltz-raises-eur20m-to-build-global-chef-supplier-marketplace/": {
-    "valid": true,
-    "company": "Saltz",
-    "amount_str": "",
-    "website": "https://saltzusa.com",
-    "linkedin_url": "https://linkedin.com/company/saltzapp",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-gsi-technology-inc-investors-to-inquire-about-securities-class-action-investigation--gsit-302707601.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/the-five-shifts-that-separate-first-time-ceos-from-lasting-ones-with-mike-viola-icf-certified-executive-coach-302708240.html": {
-    "valid": false
-  },
-  "https://techfundingnews.com/augur-raises-15m-plural-critical-infrastructure-ai/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "",
-    "linkedin_url": "",
-    "founder_name": "Luckey seeks",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://techfundingnews.com/manchester-spinout-cytotrait-bags-3m-to-build-more-resilient-crops/": {
-    "valid": false
-  },
-  "https://techfundingnews.com/nscale-raises-2b-series-c-europe-largest-ai-infra/": {
-    "valid": false
-  },
-  "https://techfundingnews.com/orca-fraud-raises-2-35m-emerging-markets-fraud-detection/": {
-    "valid": true,
-    "company": "Orca Fraud",
-    "amount_str": "$2.35M",
-    "website": "https://www.orca-fraud.com",
-    "linkedin_url": "https://linkedin.com/company/101437150",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://goodday.feji.io/blog/lions-get-big-penei-sewell-news-after-surprising-announcement-nhuquynh": {
-    "valid": false
-  },
-  "https://theaiinsider.tech/2026/03/09/the-week-ahead-in-ai-why-ai-startups-stall-claude-use-surges-us-weighs-new-chip-rules-plus-other-weekend-briefs-upcoming-earnings-events/": {
-    "valid": false
-  },
-  "https://www.binance.com/en/square/post/299696208208497": {
-    "valid": false
-  },
-  "https://weetracker.com/2026/03/09/njiapay-raises-2-1m-seed-payment-orchestration-africa/": {
-    "valid": false
-  },
-  "https://www.binance.com/en-IN/square/post/299696208208497": {
-    "valid": false
-  },
-  "https://nypost.com/2026/03/09/business/ai-startups-ceo-threatened-to-call-ex-nyc-mayor-eric-adams-after-getting-fired-over-alleged-fraudulent-stock-sales-court-docs/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.agriinvestor.com/field-notes-builders-vision-bets-on-ag-value-chain-for-greater-control-new-forests-acquires-macadamia-orchards/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://www.peievents.com/en",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://fortune.com/2026/03/09/robinhood-ventures-databricks-ramp-private-markets-openai-anthropic-spacex-vlad-tenev/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://cdn.cxense.com/ari.js",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.panewslab.com/en/articles/019cd216-33e0-7078-816f-7f1821dd662a": {
-    "valid": false
-  },
-  "https://www.axios.com/pro/fintech-deals/2026/03/09/nevada-charter-axiom-trust-lightspeed-wealth-transfer": {
-    "valid": false
-  },
-  "https://www.axios.com/pro/climate-deals/2026/03/09/coral-samir-pendse-heat-pump-energy-rebates": {
-    "valid": true,
-    "company": "Coral",
-    "amount_str": "$7.5 m",
-    "website": "http://www.thecoral.co.uk",
-    "linkedin_url": "https://linkedin.com/company/connect-coral",
-    "founder_name": "seed and seed funding",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://koreatechdesk.com/korea-startup-funding-march-2026-ai-healthcare-industrial-ai": {
-    "valid": false
-  },
-  "https://lynnwoodtimes.com/2026/03/08/cocoa-butter/": {
-    "valid": false
-  },
-  "https://techfundingnews.com/ils-raises-3m-chicago-ventures-private-funds-legal-tech/": {
-    "valid": true,
-    "company": "ILS",
-    "amount_str": "$3M",
-    "website": "https://ilshealth.com",
-    "linkedin_url": "https://linkedin.com/company/independent-living-systems-llc",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": "https://x.com/ILSHealth"
-  },
-  "https://ventureburn.com/augur-raises-15m-to-expand-ai-security-for-infrastructure/": {
-    "valid": true,
-    "company": "Augur",
-    "amount_str": "$15M",
-    "website": "https://augur.ml",
-    "linkedin_url": "https://linkedin.com/company/augur",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "info@augur.ml",
-    "twitter_url": ""
-  },
-  "https://techafricanews.com/2026/03/09/njiapay-closes-2-1m-seed-round-to-boost-payment-reliability-across-africa/": {
-    "valid": true,
-    "company": "NjiaPay",
-    "amount_str": "$2.1M",
-    "website": "https://www.njiapay.com",
-    "linkedin_url": "https://linkedin.com/company/njiapay",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://unric.org/en/2026-young-champions-of-the-earth-award/": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/nktr-investors-have-opportunity-to-lead-nektar-therapeutics-securities-fraud-lawsuit-302708504.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/lucid-announces-agenda-ahead-of-investor-day-on-march-12-302708313.html": {
-    "valid": true,
-    "company": "Lucid",
-    "amount_str": "",
-    "website": "https://lucidmotors.com",
-    "linkedin_url": "https://linkedin.com/company/lucidmotors",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "customercare@lucidmotors.com",
-    "twitter_url": "https://x.com/LucidMotors"
-  },
-  "https://venturebeat.com/infrastructure/how-to-make-your-e-commerce-product-visible-to-ai-agents-use-this-new-system": {
-    "valid": false
-  },
-  "https://venturebeat.com/technology/the-limits-of-bubble-thinking-how-ai-breaks-every-historical-analogy": {
-    "valid": false
-  },
-  "https://siliconangle.com/2026/03/09/ai-cloud-startup-nscale-raises-2b-funding-14-6b-valuation/": {
-    "valid": true,
-    "company": "Nscale",
-    "amount_str": "$2B",
-    "website": "https://www.nscale.com/press-releases/nscale-acquires-future-tech",
-    "linkedin_url": "https://linkedin.com/company/nscale-cloud",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "press@nscale.com",
-    "twitter_url": "https://x.com/nscale_cloud"
-  },
-  "https://www.prnewswire.com/news-releases/alit-investor-news-if-you-have-suffered-losses-in-alight-inc-nyse-alit-you-are-encouraged-to-contact-the-rosen-law-firm-about-your-rights-302708546.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/rollins-to-present-at-upcoming-investor-conferences-302708693.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/shareholder-alert-the-ma-class-action-firm-announces-an-investigation-of-talkspace-inc-nasdaq-talk-302708649.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/pa-facility-to-support-rapid-meiji-hello-panda-sales-momentum-302708676.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/snow-investors-have-opportunity-to-lead-snowflake-inc-securities-fraud-lawsuit-302708545.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/following-is-a-statement-from-west-point-investment-corporation-hapuna-realty-llc-kevin-j-hayes-sr-and-tomoko-matsumoto-in-the-matter-of-hayes-et-al-v-ohtani-et-al-case-no-1-ccv-25-0001330-302708672.html": {
-    "valid": false
-  },
-  "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/": {
-    "valid": false
-  },
-  "https://techcrunch.com/2026/03/09/founders-fund-nears-6-billion-close-for-latest-growth-fund-sources-say/": {
-    "valid": false
-  },
-  "https://siliconangle.com/2026/03/10/escape-raises-18m-expand-ai-agent-platform-offensive-security-testing/": {
-    "valid": true,
-    "company": "Escape",
-    "amount_str": "$18M",
-    "website": "https://escape.tech",
-    "linkedin_url": "https://linkedin.com/company/escapetech",
-    "founder_name": "",
-    "founder_linkedin_url": "https://linkedin.com/in/abhinavpathak27",
-    "contact_email": "",
-    "twitter_url": "https://x.com/escapetechHQ"
-  },
-  "https://www.wired.com/story/ai-kill-venture-capital/": {
-    "valid": false
-  },
-  "https://www.startupresearcher.com/news/legal-tech-ils-raises-over-usd3-million-seed-round-led-by-chicago-ventures": {
-    "valid": false
-  },
-  "https://www.bloomberg.com/news/articles/2026-03-09/stablecoin-payments-firm-kast-raises-80-million-in-funding": {
-    "valid": true,
-    "company": "Stablecoin Payments Firm KAST",
-    "amount_str": "$80 M",
-    "website": "",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://techgraph.co/ai/browsing-to-buying-how-multi-modal-ai-turning-discovery-into-decision-making/": {
-    "valid": false
-  },
-  "https://bebeez.eu/2026/03/09/industrial-startup-isembard-bags-e43-million-to-scale-software-powered-factories-for-aerospace-and-energy-sectors/": {
-    "valid": false
-  },
-  "https://thenextweb.com/news/mirai-robotics-42m-pre-seed-autonomous-vessels": {
-    "valid": true,
-    "company": "Italy's Mirai Robotics",
-    "amount_str": "$4.2M",
-    "website": "https://duck.ai",
-    "linkedin_url": "",
-    "founder_name": "The three",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://thenextweb.com/news/augur-15m-plural-ai-surveillance-critical-infrastructure": {
-    "valid": true,
-    "company": "The company announced today that it",
-    "amount_str": "$15 m",
-    "website": "https://duck.ai",
-    "linkedin_url": "",
-    "founder_name": "founded by the",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://bitcoinke.io/2026/03/kast-raises-funding/": {
-    "valid": true,
-    "company": "FUNDING | Stablecoin Payments Startup , KAST",
-    "amount_str": "$80 M",
-    "website": "https://duck.ai",
-    "linkedin_url": "",
-    "founder_name": "said KAST",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.businessinsider.com/creator-economy-ai-startups-to-watch-according-vc-investors-2026-3": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://i.insider.com/69a609e2fd4fbd083f296133",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://bebeez.eu/2026/03/09/datawollet-closes-1-3m-pre-seed-investment-with-female-angel-investors-leading-the-way/": {
-    "valid": true,
-    "company": "DataWollet",
-    "amount_str": "",
-    "website": "https://www.datawollet.com",
-    "linkedin_url": "https://linkedin.com/company/datawollet",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.eu-startups.com/2026/03/driving-progress-in-cardiovascular-health-signacor-therapeutics-lands-e288k-investment-as-pat-of-e1-1-million-seed-round/": {
-    "valid": false
-  },
-  "https://theaiinsider.tech/2026/03/09/axiomatic-ai-closes-18m-to-build-the-intelligence-infrastructure-for-verified-science-engineering/": {
-    "valid": true,
-    "company": "Axiomatic AI",
-    "amount_str": "$18M",
-    "website": "https://axiomatic-ai.com",
-    "linkedin_url": "https://linkedin.com/company/axiomatic-ai",
-    "founder_name": "said Jake Taylor",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://bebeez.eu/2026/03/09/germanys-telura-exits-stealth-with-e4-million-pre-seed-to-unlock-geothermal-energy-with-electric-impulse-drilling/": {
-    "valid": false
-  },
-  "https://athletechnews.com/consumers-are-on-board-with-the-functional-drink-revolution-ey-survey/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://atn-disrupt.vfairs.com/en",
-    "linkedin_url": "https://linkedin.com/company/relive-health",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "customersupport@vfairs.com",
-    "twitter_url": ""
-  },
-  "https://financialit.net/news/fundraising-news/orca-fraud-raises-235m-scale-real-time-fraud-intelligence-across-emerging": {
-    "valid": true,
-    "company": "Orca Fraud",
-    "amount_str": "$2.35 m",
-    "website": "https://www.orca-fraud.com",
-    "linkedin_url": "https://linkedin.com/company/101437150",
-    "founder_name": "said Thalia Pillay",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.finextra.com/pressarticle/109096/datawollet-closes-13m-pre-seed-investment": {
-    "valid": false
-  },
-  "https://talkbusiness.net/2026/03/hemut/": {
-    "valid": false
-  },
-  "https://talkbusiness.net/2026/03/lexmed/": {
-    "valid": false
-  },
-  "https://tech.eu/2026/03/10/qevlar-ai-lands-30m-to-expand-ai-security-operations-platform/": {
-    "valid": true,
-    "company": "Qevlar AI",
-    "amount_str": "$30M",
-    "website": "https://www.qevlar.com",
-    "linkedin_url": "https://linkedin.com/company/qevlar",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://tech.eu/2026/03/10/escape-secures-18m-series-a-to-develop-ai-cybersecurity-agents/": {
-    "valid": true,
-    "company": "Escape",
-    "amount_str": "$18M",
-    "website": "https://www.escapefromtarkov.com",
-    "linkedin_url": "https://linkedin.com/company/escapetech",
-    "founder_name": "",
-    "founder_linkedin_url": "https://linkedin.com/in/abhinavpathak27",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.prnewswire.com/news-releases/transcosmos-recognized-as-a-2026-outstanding-organization-of-kenko-investment-for-health-302709017.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/etude-deepl-2026--les-traduction-manuels-continuent-de-freiner-les-entreprises-malgre-la-hausse-des-investissements-dans-lia-302709016.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/uzum-secures-over-130-million-in-strategic-investment-led-by-the-sovereign-entities-of-the-sultanate-of-oman-302708643.html": {
-    "valid": true,
-    "company": "Uzum",
-    "amount_str": "$130 m",
-    "website": "https://uzum.com",
-    "linkedin_url": "https://linkedin.com/company/uzum-uz",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://tech.eu/2026/03/10/legaltech-legora-raises-550m-series-d-at-5-55b-valuation-to-accelerate-us-expansion/": {
-    "valid": true,
-    "company": "Legaltech Legora",
-    "amount_str": "$550M",
-    "website": "https://duck.ai",
-    "linkedin_url": "https://linkedin.com/company/wearelegora",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://tech.eu/2026/03/10/avvoka-secures-ps14m-to-advance-ai-drafting-tools-for-law-firms/": {
-    "valid": false
-  },
-  "https://tech.eu/2026/03/10/hosel-raises-500k-pre-seed-to-create-the-vinted-for-golf/": {
-    "valid": false
-  },
-  "https://tech.eu/2026/03/10/inter-ikea-group-backs-seprifys-eur134m-series-a-to-scale-cellulose-materials-platform/": {
-    "valid": false
-  },
-  "https://tech.eu/2026/03/10/yann-lecun-s-paris-based-ai-world-model-startup-raises-more-than-1bn/": {
-    "valid": true,
-    "company": "Yann LeCun\u2019s Paris-based AI world model startup",
-    "amount_str": "$1B",
-    "website": "https://www.techmeme.com",
-    "linkedin_url": "https://linkedin.com/company/arduino",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "person@company.com",
-    "twitter_url": ""
-  },
-  "https://siliconangle.com/2026/03/10/200m-funding-eridu-wants-break-network-wall-holding-back-ai/": {
-    "valid": false
-  },
-  "https://siliconangle.com/2026/03/10/nyad-launches-commercial-solution-wastewater-operators-1-3m-funding/": {
-    "valid": true,
-    "company": "The company also announced it",
-    "amount_str": "$1.3 m",
-    "website": "https://duck.ai",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.prnewswire.com/news-releases/stramsen-biotech-is-valued-at-19-billion-seeks-investment-banks-and-law-firms-and-reserves-sbrx-as-its-trading-symbol-302708973.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/qure-alert-fda-reportedly-accuses-uniqure-of-pushing-distorted-and-manipulated-data-for-failed-amt-130-drug-amid-pending-securities-class-action--hagens-berman-302708939.html": {
-    "valid": false
-  },
-  "https://medium.com/@joycejshen/joyce-shens-picks-musings-and-readings-in-ai-ml-march-9-2026-f63450769217": {
-    "valid": false
-  },
-  "https://www.swfinstitute.org/transaction/69aefd67589c22430f268268": {
-    "valid": false
-  },
-  "https://startupmap.iamsterdam.com/news/feed/anmasa-raises-1-1m-in-pre-seed-funding": {
-    "valid": true,
-    "company": "Anmasa",
-    "amount_str": "$1.1 m",
-    "website": "https://www.anmasa.com",
-    "linkedin_url": "https://linkedin.com/company/shopanmasa",
-    "founder_name": "demands weekend email responses",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.bionity.com/en/news/1188245/mycoverse-raises-2-4-million-pre-seed-funding-to-fight-potato-late-blight-in-europe-using-fungi.html": {
-    "valid": false
-  },
-  "https://empowerafrica.com/south-african-fintech-njiapay-raises-2-1m-seed-funding-to-scale-payment-orchestration-across-africa/": {
-    "valid": true,
-    "company": "South African fintech startup NjiaPay",
-    "amount_str": "$2.1 m",
-    "website": "https://thelagostoday.com",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "info@thelagostoday.com",
-    "twitter_url": "https://x.com/lagostodayng"
-  },
-  "https://www.instagram.com/p/DVn3optESgu/": {
-    "valid": false
-  },
-  "https://devstyler.io/blog/2026/03/09/cheer-games-raises-4-5m-pre-seed-to-build-community-focused-mobile-games/": {
-    "valid": true,
-    "company": "Cheer Games",
-    "amount_str": "$4.5M",
-    "website": "https://www.gamescheer.com",
-    "linkedin_url": "https://linkedin.com/company/cheergames",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "service@gamescheer.com",
-    "twitter_url": ""
-  },
-  "https://www.ainvest.com/news/soxton-2-5m-pre-seed-liquidity-test-ai-legal-disruption-2603/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://finance.yahoo.com/news/soxton-ai-emerges-stealth-2-140000414.html",
-    "linkedin_url": "https://linkedin.com/company/yahoo-finance",
-    "founder_name": "but the",
-    "founder_linkedin_url": "",
-    "contact_email": "soxton@solcomms.co",
-    "twitter_url": "https://x.com/YahooFinance"
-  },
-  "https://www.startup-weekly.com/Mirai-Robotics-raises-4-2m-pre-seed-funding-to-build-autonomous-maritime-systems/": {
-    "valid": true,
-    "company": "Mirai Robotics",
-    "amount_str": "$4.2m",
-    "website": "https://miraitech.ai",
-    "linkedin_url": "https://linkedin.com/company/mirai-robotics",
-    "founder_name": "of Mirai Robotics",
-    "founder_linkedin_url": "",
-    "contact_email": "hello@miraitech.ai",
-    "twitter_url": "https://x.com/mirairobotic"
-  },
-  "https://x.com/TFNBreakingNews/status/2030928447024099812/photo/1": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.d74f1a3a.js",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://x.com/inc_arabia/status/2030886301508174095": {
-    "valid": false
-  },
-  "https://medial.app/news/vor-systems-raises-dollar3m-pre-seed-or-the-saas-news-c07cafeea094e": {
-    "valid": true,
-    "company": "Vor Systems",
-    "amount_str": "$3M",
-    "website": "https://www.vorsystems.com",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "example@mysite.com",
-    "twitter_url": "https://x.com/suricate"
-  },
-  "https://medial.app/news/advocacy-raises-dollar35-million-in-seed-round-or-the-saas-news-f084fda8c9bc9": {
-    "valid": true,
-    "company": "BiteSpeed",
-    "amount_str": "$3.5 m",
-    "website": "https://www.bitespeed.co",
-    "linkedin_url": "https://linkedin.com/company/bitespeed",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "hello@bitespeed.co",
-    "twitter_url": ""
-  },
-  "https://www.reddit.com/r/Entrepreneurs/comments/1ro48up/any_founders_who_are_raising_funds_preseed_to/": {
-    "valid": false
-  },
-  "https://startupmap.iamsterdam.com/news/feed/julius-ai-secures-500k-pre-seed-funding": {
-    "valid": true,
-    "company": "Julius AI",
-    "amount_str": "$500K",
-    "website": "https://www.insightplatforms.com",
-    "linkedin_url": "https://linkedin.com/company/insight-platforms",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": "https://x.com/insightpltfrms"
-  },
-  "https://startupmap.iamsterdam.com/news/feed/stuck-ai-secures-six-figure-pre-seed-funding": {
-    "valid": true,
-    "company": "Stuck.AI",
-    "amount_str": "",
-    "website": "https://sur.ly",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/": {
-    "valid": false
-  },
-  "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/": {
-    "valid": false
-  },
-  "https://news.crunchbase.com/real-estate-property-tech/ai-generated-hvac-quotes-rebar-seriesa/": {
-    "valid": false
-  },
-  "https://tech.eu/2026/03/10/eic-scaling-club-companies-double-peer-funding-growth-with-66-increase/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
   "https://siliconangle.com/2026/03/10/anchr-brings-ai-americas-food-supply-distribution-chain-5-8m-raise/": {
     "valid": true,
-    "company": "Anchr brings AI to America\u2019s food supply distribution chain with $5.8M",
+    "company": "Anchr",
     "amount_str": "$5.8M",
     "website": "https://anchr.tech",
-    "linkedin_url": "",
+    "linkedin_url": "https://linkedin.com/company/anchr-ai",
     "founder_name": "",
     "founder_linkedin_url": "",
     "contact_email": "",
@@ -3221,10 +347,52 @@
     "contact_email": "",
     "twitter_url": ""
   },
+  "https://siliconangle.com/2026/03/10/200m-funding-eridu-wants-break-network-wall-holding-back-ai/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/10/nyad-launches-commercial-solution-wastewater-operators-1-3m-funding/": {
+    "valid": true,
+    "company": "The company also announced it",
+    "amount_str": "$1.3 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/10/escape-raises-18m-expand-ai-agent-platform-offensive-security-testing/": {
+    "valid": true,
+    "company": "Escape",
+    "amount_str": "$18M",
+    "website": "https://escape.tech",
+    "linkedin_url": "https://linkedin.com/company/escapetech",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/abhinavpathak27",
+    "contact_email": "",
+    "twitter_url": "https://x.com/escapetechHQ"
+  },
+  "https://siliconangle.com/2026/03/09/ai-cloud-startup-nscale-raises-2b-funding-14-6b-valuation/": {
+    "valid": true,
+    "company": "Nscale",
+    "amount_str": "$2B",
+    "website": "https://www.nscale.com/press-releases/nscale-acquires-future-tech",
+    "linkedin_url": "https://linkedin.com/company/nscale-cloud",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "press@nscale.com",
+    "twitter_url": "https://x.com/nscale_cloud"
+  },
   "https://www.geekwire.com/2026/tim-chens-essence-vc-firm-is-raising-a-new-fund-to-back-more-infrastructure-startups/": {
     "valid": false
   },
-  "https://www.prnewswire.com/news-releases/rsvr-deal-announced-current-reservoir-media-shareholders-are-notified-of-the-pending-10-50-take-private-offer-and-investigation-into-the-board-302709787.html": {
+  "https://www.prnewswire.com/news-releases/aberdeen-investments-us-closed-end-funds-declare-distribution-dates-and-amounts-302709795.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/west-virginia-public-service-commission-authorizes-new-rates-for-west-virginia-american-water-302710028.html": {
+    "valid": false
+  },
+  "https://startupnation.com/manage-your-business/accounting-finance-funding/18-ways-to-transform-business-challenges-into-funding-opportunities/?utm_source=rss&utm_medium=rss&utm_campaign=18-ways-to-transform-business-challenges-into-funding-opportunities": {
     "valid": false
   },
   "https://waya.media/shorooq-backs-yann-lecuns-1-billion-bet-to-rebuild-ai-from-scratch/": {
@@ -3278,12 +446,12 @@
     "valid": true,
     "company": "Pepeto",
     "amount_str": "$7.8M",
-    "website": "https://web3-pepeto.github.io",
-    "linkedin_url": "",
+    "website": "https://www.coinspeaker.com",
+    "linkedin_url": "https://linkedin.com/company/coinspeaker",
     "founder_name": "",
     "founder_linkedin_url": "",
     "contact_email": "",
-    "twitter_url": ""
+    "twitter_url": "https://x.com/coinspeaker"
   },
   "https://ground.news/article/ex-meta-ai-chief-yann-lecuns-ami-raises-103-billion-for-alternative-ai-approach": {
     "valid": true,
@@ -3310,7 +478,7 @@
   "https://ventureburn.com/avvoka-secures-14m-investment-led-by-valhalla-ventures/": {
     "valid": true,
     "company": "Avvoka",
-    "amount_str": "",
+    "amount_str": "\u00a314M",
     "website": "https://avvoka.com",
     "linkedin_url": "https://linkedin.com/company/avvoka",
     "founder_name": "",
@@ -3320,10 +488,10 @@
   },
   "https://techfundingnews.com/escape-ai-agent-cybersecurity-balderton/": {
     "valid": true,
-    "company": "AI vs AI: YC's Escape",
+    "company": "Escape",
     "amount_str": "$18M",
-    "website": "https://duck.ai",
-    "linkedin_url": "",
+    "website": "https://www.escapefromtarkov.com",
+    "linkedin_url": "https://linkedin.com/company/escapetech",
     "founder_name": "",
     "founder_linkedin_url": "",
     "contact_email": "",
@@ -3344,12 +512,12 @@
     "valid": true,
     "company": "Yann LeCun",
     "amount_str": "$1b",
-    "website": "http://yann.lecun.com",
+    "website": "https://yannlecum.com",
     "linkedin_url": "",
     "founder_name": "",
     "founder_linkedin_url": "",
     "contact_email": "",
-    "twitter_url": "https://x.com/ylecun"
+    "twitter_url": ""
   },
   "https://www.facebook.com/businessinsider/posts/yann-lecuns-new-ai-startup-has-named-a-ceo-and-raised-103b-in-seed-funding-https/1296420022356279/": {
     "valid": true,
@@ -3377,10 +545,270 @@
     "valid": false
   },
   "https://x.com/asteris_ai/status/2030776581182943348": {
+    "valid": false
+  },
+  "https://www.wired.com/story/ai-kill-venture-capital/": {
     "valid": true,
     "company": "",
     "amount_str": "",
-    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.d74f1a3a.js",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/09/founders-fund-nears-6-billion-close-for-latest-growth-fund-sources-say/": {
+    "valid": false
+  },
+  "https://www.startupresearcher.com/news/legal-tech-ils-raises-over-usd3-million-seed-round-led-by-chicago-ventures": {
+    "valid": false
+  },
+  "https://www.bloomberg.com/news/articles/2026-03-09/stablecoin-payments-firm-kast-raises-80-million-in-funding": {
+    "valid": true,
+    "company": "Stablecoin Payments Firm KAST",
+    "amount_str": "$80 M",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techgraph.co/ai/browsing-to-buying-how-multi-modal-ai-turning-discovery-into-decision-making/": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/03/09/industrial-startup-isembard-bags-e43-million-to-scale-software-powered-factories-for-aerospace-and-energy-sectors/": {
+    "valid": false
+  },
+  "https://thenextweb.com/news/mirai-robotics-42m-pre-seed-autonomous-vessels": {
+    "valid": true,
+    "company": "Italy's Mirai Robotics",
+    "amount_str": "$4.2M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "The three",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thenextweb.com/news/augur-15m-plural-ai-surveillance-critical-infrastructure": {
+    "valid": true,
+    "company": "The company announced today that it",
+    "amount_str": "$15 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "founded by the",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bitcoinke.io/2026/03/kast-raises-funding/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "said KAST",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.businessinsider.com/creator-economy-ai-startups-to-watch-according-vc-investors-2026-3": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://i.insider.com/69a609e2fd4fbd083f296133",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bebeez.eu/2026/03/09/datawollet-closes-1-3m-pre-seed-investment-with-female-angel-investors-leading-the-way/": {
+    "valid": true,
+    "company": "DataWollet",
+    "amount_str": "\u00a31.3m",
+    "website": "https://www.datawollet.com",
+    "linkedin_url": "https://linkedin.com/company/datawollet",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techafricanews.com/2026/03/09/njiapay-closes-2-1m-seed-round-to-boost-payment-reliability-across-africa/": {
+    "valid": true,
+    "company": "NjiaPay",
+    "amount_str": "$2.1M",
+    "website": "https://www.njiapay.com",
+    "linkedin_url": "https://linkedin.com/company/njiapay",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/03/driving-progress-in-cardiovascular-health-signacor-therapeutics-lands-e288k-investment-as-pat-of-e1-1-million-seed-round/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/03/09/axiomatic-ai-closes-18m-to-build-the-intelligence-infrastructure-for-verified-science-engineering/": {
+    "valid": true,
+    "company": "Axiomatic AI",
+    "amount_str": "$18M",
+    "website": "https://axiomatic-ai.com",
+    "linkedin_url": "https://linkedin.com/company/axiomatic-ai",
+    "founder_name": "said Jake Taylor",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bebeez.eu/2026/03/09/germanys-telura-exits-stealth-with-e4-million-pre-seed-to-unlock-geothermal-energy-with-electric-impulse-drilling/": {
+    "valid": false
+  },
+  "https://athletechnews.com/consumers-are-on-board-with-the-functional-drink-revolution-ey-survey/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://atn-disrupt.vfairs.com/en",
+    "linkedin_url": "https://linkedin.com/company/relive-health",
+    "founder_name": "and collaborator",
+    "founder_linkedin_url": "",
+    "contact_email": "customersupport@vfairs.com",
+    "twitter_url": ""
+  },
+  "https://financialit.net/news/fundraising-news/orca-fraud-raises-235m-scale-real-time-fraud-intelligence-across-emerging": {
+    "valid": true,
+    "company": "Orca Fraud",
+    "amount_str": "$2.35 m",
+    "website": "https://www.orca-fraud.com",
+    "linkedin_url": "https://linkedin.com/company/101437150",
+    "founder_name": "said Thalia Pillay",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finextra.com/pressarticle/109096/datawollet-closes-13m-pre-seed-investment": {
+    "valid": false
+  },
+  "https://talkbusiness.net/2026/03/hemut/": {
+    "valid": false
+  },
+  "https://talkbusiness.net/2026/03/lexmed/": {
+    "valid": false
+  },
+  "https://medium.com/@joycejshen/joyce-shens-picks-musings-and-readings-in-ai-ml-march-9-2026-f63450769217": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.swfinstitute.org/transaction/69aefd67589c22430f268268": {
+    "valid": false
+  },
+  "https://startupmap.iamsterdam.com/news/feed/anmasa-raises-1-1m-in-pre-seed-funding": {
+    "valid": true,
+    "company": "Anmasa",
+    "amount_str": "$1.1 m",
+    "website": "https://www.anmasa.com",
+    "linkedin_url": "https://linkedin.com/company/shopanmasa",
+    "founder_name": "demands weekend email responses",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bionity.com/en/news/1188245/mycoverse-raises-2-4-million-pre-seed-funding-to-fight-potato-late-blight-in-europe-using-fungi.html": {
+    "valid": false
+  },
+  "https://empowerafrica.com/south-african-fintech-njiapay-raises-2-1m-seed-funding-to-scale-payment-orchestration-across-africa/": {
+    "valid": true,
+    "company": "NjiaPay",
+    "amount_str": "$2.1 m",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/njiapay",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DVn3optESgu/": {
+    "valid": false
+  },
+  "https://devstyler.io/blog/2026/03/09/cheer-games-raises-4-5m-pre-seed-to-build-community-focused-mobile-games/": {
+    "valid": true,
+    "company": "Cheer Games",
+    "amount_str": "$4.5M",
+    "website": "https://www.gamescheer.com",
+    "linkedin_url": "https://linkedin.com/company/cheergames",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "service@gamescheer.com",
+    "twitter_url": ""
+  },
+  "https://www.ainvest.com/news/soxton-2-5m-pre-seed-liquidity-test-ai-legal-disruption-2603/": {
+    "valid": false
+  },
+  "https://www.startup-weekly.com/Mirai-Robotics-raises-4-2m-pre-seed-funding-to-build-autonomous-maritime-systems/": {
+    "valid": true,
+    "company": "Mirai Robotics",
+    "amount_str": "$4.2m",
+    "website": "https://miraitech.ai",
+    "linkedin_url": "https://linkedin.com/company/mirai-robotics",
+    "founder_name": "of Mirai Robotics",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@miraitech.ai",
+    "twitter_url": "https://x.com/mirairobotic"
+  },
+  "https://x.com/TFNBreakingNews/status/2030928447024099812/photo/1": {
+    "valid": false
+  },
+  "https://x.com/inc_arabia/status/2030886301508174095": {
+    "valid": false
+  },
+  "https://medial.app/news/vor-systems-raises-dollar3m-pre-seed-or-the-saas-news-c07cafeea094e": {
+    "valid": true,
+    "company": "Vor Systems",
+    "amount_str": "$3M",
+    "website": "https://www.vorsystems.com",
+    "linkedin_url": "https://linkedin.com/company/vor-systems",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "example@mysite.com",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://medial.app/news/advocacy-raises-dollar35-million-in-seed-round-or-the-saas-news-f084fda8c9bc9": {
+    "valid": true,
+    "company": "BiteSpeed",
+    "amount_str": "$3.5 m",
+    "website": "https://www.bitespeed.co",
+    "linkedin_url": "https://linkedin.com/company/bitespeed",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@bitespeed.co",
+    "twitter_url": ""
+  },
+  "https://www.reddit.com/r/Entrepreneurs/comments/1ro48up/any_founders_who_are_raising_funds_preseed_to/": {
+    "valid": false
+  },
+  "https://startupmap.iamsterdam.com/news/feed/julius-ai-secures-500k-pre-seed-funding": {
+    "valid": true,
+    "company": "Julius AI",
+    "amount_str": "$500K",
+    "website": "https://www.insightplatforms.com",
+    "linkedin_url": "https://linkedin.com/company/insight-platforms",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/insightpltfrms"
+  },
+  "https://startupmap.iamsterdam.com/news/feed/stuck-ai-secures-six-figure-pre-seed-funding": {
+    "valid": true,
+    "company": "Stuck.AI",
+    "amount_str": "",
+    "website": "https://www.zoominfo.com",
     "linkedin_url": "",
     "founder_name": "",
     "founder_linkedin_url": "",
@@ -3431,8 +859,8 @@
     "company": "Yann LeCun's AI start-up",
     "amount_str": "$1b",
     "website": "https://www.techmeme.com",
-    "linkedin_url": "",
-    "founder_name": "",
+    "linkedin_url": "https://linkedin.com/company/cathay-innovation",
+    "founder_name": "labelled him",
     "founder_linkedin_url": "",
     "contact_email": "person@company.com",
     "twitter_url": ""
@@ -3449,15 +877,7 @@
     "twitter_url": ""
   },
   "https://seekingalpha.com/news/4562575-former-meta-ai-chiefs-startup-raises-103b-appoints-ceo": {
-    "valid": true,
-    "company": "Former Meta AI chief's startup",
-    "amount_str": "$1.03B",
-    "website": "https://duck.ai",
-    "linkedin_url": "",
-    "founder_name": "URL Source",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
+    "valid": false
   },
   "https://hypepotamus.com/startup-news/nyad-ai-wastewater-operators-raises-1-3m/": {
     "valid": true,
@@ -3472,13 +892,13 @@
   },
   "https://mlq.ai/news/yann-lecuns-ami-labs-secures-over-1-billion-in-record-seed-funding/": {
     "valid": true,
-    "company": "AMI Labs",
-    "amount_str": "$1.03 b",
-    "website": "https://amilabs.xyz",
+    "company": "Yann LeCun's AMI Labs",
+    "amount_str": "$1 B",
+    "website": "https://royfactory.net",
     "linkedin_url": "",
-    "founder_name": "serves as",
+    "founder_name": "",
     "founder_linkedin_url": "",
-    "contact_email": "contact@amilabs.xyz",
+    "contact_email": "",
     "twitter_url": ""
   },
   "https://www.moomoo.com/news/post/66644799/yann-lecun-s-ai-startup-raises-over-1-billion-in": {
@@ -3499,7 +919,15 @@
     "valid": false
   },
   "https://market.us/report/global-bambara-beans-market/": {
-    "valid": false
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.earthexpocompany.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@earthexpocompany.com",
+    "twitter_url": ""
   },
   "https://the-decoder.com/investors-bet-1-billion-on-yann-lecuns-vision-for-ai-beyond-llms/": {
     "valid": true,
@@ -3516,12 +944,12 @@
     "valid": true,
     "company": "Yann LeCun's AI Startup",
     "amount_str": "$1 B",
-    "website": "https://www.msn.com",
-    "linkedin_url": "",
+    "website": "https://www.aicerts.ai",
+    "linkedin_url": "https://linkedin.com/company/ai-certs",
     "founder_name": "",
     "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
+    "contact_email": "support@aicerts.ai",
+    "twitter_url": "https://x.com/aicertsofficial"
   },
   "https://timesofindia.indiatimes.com/technology/tech-news/metas-most-famous-ex-employee-yann-lecun-announces-raising-seed-funding-of-1-03-billion-that-he-says-may-have-set-a-europe-record/articleshow/129386893.cms": {
     "valid": true,
@@ -3533,45 +961,5 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
-  },
-  "https://venturebeat.com/data/openai-upgrades-chatgpt-with-interactive-learning-tools-as-lawsuits-and": {
-    "valid": false
-  },
-  "https://news.crunchbase.com/venture/world-model-ai-lab-ami-raises-europes-largest-seed-round/": {
-    "valid": true,
-    "company": "",
-    "amount_str": "",
-    "website": "https://amturing.acm.org/award_winners/lecun_6017366.cfm",
-    "linkedin_url": "",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://news.crunchbase.com/venture/unicorn-legal-tech-ai-startup-legora-triples-valuation/": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/cure-and-womens-health-horizons-host-power-of-x-summit-march-18-19-to-accelerate-investment-and-innovation-in-womens-health-302709978.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/twin-valley-announces-12-3-million-broadband-investment-across-rural-kansas-302709975.html": {
-    "valid": true,
-    "company": "Twin Valley",
-    "amount_str": "$12.3 M",
-    "website": "https://www.twinvalleymn.com",
-    "linkedin_url": "https://linkedin.com/company/twinvalleyks",
-    "founder_name": "",
-    "founder_linkedin_url": "",
-    "contact_email": "",
-    "twitter_url": ""
-  },
-  "https://www.prnewswire.com/news-releases/el-bandido-yankee-raises-a-toast-to-americas-badasses-on-national-badass-day-302709962.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/rr-investor-alert-richtech-robotics-rr-facing-securities-class-action-amid-questions-about-possible-pump-and-dump--hagens-berman-302709832.html": {
-    "valid": false
-  },
-  "https://www.prnewswire.com/news-releases/brbr-investor-alert-bellring-brands-brbr-facing-securities-class-action-over-alleged-artificial-growth-and-2-9-billion-value-wipeout--hagens-berman-302709839.html": {
-    "valid": false
   }
 }
