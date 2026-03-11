@@ -1374,5 +1374,335 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": "https://x.com/futureplc"
+  },
+  "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/03/11/former-apple-engineer-raises-5m-for-a-note-taking-pendant-that-only-records-your-voice/": {
+    "valid": false
+  },
+  "https://venturebeat.com/data/googles-gemini-embedding-2-arrives-with-native-multimodal-support-to-cut": {
+    "valid": false
+  },
+  "https://venturebeat.com/infrastructure/manufact-raises-usd6-3m-as-mcp-becomes-the-usb-c-for-ai-powering-chatgpt-and": {
+    "valid": true,
+    "company": "Manufact",
+    "amount_str": "$6.3M",
+    "website": "https://manufact.com",
+    "linkedin_url": "https://linkedin.com/company/mcp-use",
+    "founder_name": "operating officer of Supabase",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/manufact"
+  },
+  "https://venturebeat.com/technology/perplexity-takes-its-computer-ai-agent-into-the-enterprise-taking-aim-at": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/venture/hype-outcomes-vcs-recalibrate-agentic-ai-kapre-snowflake/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/11/spotlight-pathology-has-raised-1-4m-to-catch-blood-cancer-sooner/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/11/another-earth-secures-eur35m-to-scale-ai-data-and-simulation-platform/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/11/samaipata-launches-eur110m-fund-iii-to-back-europes-next-generation-of-ai-native-startups/": {
+    "valid": false
+  },
+  "https://betakit.com/mda-space-seeks-300-million-usd-through-ipo-on-new-york-stock-exchange/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/11/xscape-debuts-first-laser-based-optical-interconnect-raising-37m-fresh-funding/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://d15shllkswkct0.cloudfront.net/wp-includes/wlwmanifest.xml",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/11/zymtrace-raises-12-2m-optimize-ai-workload-performance-across-gpu-infrastructure/": {
+    "valid": true,
+    "company": "Zymtrace",
+    "amount_str": "$12.2M",
+    "website": "https://zymtrace.com",
+    "linkedin_url": "https://linkedin.com/company/105228663",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@zymtrace.com",
+    "twitter_url": "https://x.com/zystemio"
+  },
+  "https://www.geekwire.com/2026/washington-house-passes-9-9-millionaires-tax-as-business-leaders-warn-of-seismic-shift/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/elevenlabs-debuts-11-voices-docuseries-at-sxsw-as-part-of-global-campaign-to-reach-1-million-people-with-voice-loss-302711275.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/etherdyne-oversubscribes-first-regulation-crowdfunding-campaign-raising-1-2m-302710005.html": {
+    "valid": false
+  },
+  "https://thenextweb.com/news/agentmail-raises-6m-seed-ai-agent-email-inboxes": {
+    "valid": true,
+    "company": "AgentMail",
+    "amount_str": "$6 m",
+    "website": "https://agentmail.io",
+    "linkedin_url": "https://linkedin.com/company/agentmailto",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fortune.com/2026/03/11/exclusive-translucent-ai-native-healthcare-finance-startup-raises-27-million-series-a/": {
+    "valid": true,
+    "company": "Translucent, an AI-native healthcare finance startup",
+    "amount_str": "$27 m",
+    "website": "https://www.msn.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fortune.com/2026/03/11/meta-ex-ai-boss-convinced-former-employer-betting-wrong-technology-raised-1-billion/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cxense.com/ari.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/quince-500m-series-e-10-1b-valuation-m2c-platform/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/sybilion-raises-4-2m-to-help-manufacturers-make-billion-euro-decisions-earlier-with-ai/": {
+    "valid": true,
+    "company": "Oxford researcher Sybilion",
+    "amount_str": "$4.2M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/10/mandiants-founder-just-raised-190m-for-his-autonomous-ai-agent-security-startup/": {
+    "valid": false
+  },
+  "https://thenextweb.com/news/lemrock-raises-6m-agentic-commerce-ai-agents": {
+    "valid": false
+  },
+  "https://ventureburn.com/jazz-raises-61m-to-advance-ai-data-loss-prevention/?amp=1": {
+    "valid": true,
+    "company": "Jazz",
+    "amount_str": "$61M",
+    "website": "https://www.jazz.security",
+    "linkedin_url": "https://linkedin.com/company/jazzsecurity",
+    "founder_name": "led by CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://waya.media/stablecoin-platform-kast-raises-usd-80m-to-expand-across-middle-east/": {
+    "valid": true,
+    "company": "Stablecoin Platform KAST",
+    "amount_str": "",
+    "website": "https://fintechnews.sg",
+    "linkedin_url": "https://linkedin.com/company/fintech-news-singapore",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "partners@fintechnews.sg",
+    "twitter_url": "https://x.com/fintechsin"
+  },
+  "https://x.com/avipat_/status/2031387179654541637": {
+    "valid": false
+  },
+  "https://www.inc.com/ava-levinson/ex-meta-ai-leader-raises-1-billion-to-build-the-system-that-he-says-can-do-what-llms-cant/91314767": {
+    "valid": true,
+    "company": "Meta AI Leader",
+    "amount_str": "$1 B",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Yann LeCun",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://waya.media/qatars-shipbee-raises-usd-500k-to-scale-logistics-services/": {
+    "valid": true,
+    "company": "Qatar's ShipBee",
+    "amount_str": "",
+    "website": "https://atlaspreneur.com",
+    "linkedin_url": "https://linkedin.com/company/atlaspreneur",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/atlaspreneur"
+  },
+  "https://finance.yahoo.com/news/mandiant-founder-just-raised-190m-182107032.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https:&#x2F;&#x2F;www.yahoo.com&#x2F;",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.beritaja.com/mandiant-s-founder-just-raised-190m-for-his-autonomous-ai-agent-security-startup-beritaja-409104.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://api.whatsapp.com/send",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/whatsapp"
+  },
+  "https://www.facebook.com/nytimes/posts/yann-lecun-left-his-job-last-year-as-chief-ai-scientist-at-meta-now-his-start-up/1317546940227766/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/sanfrancisco/news/2026/03/10/liquid-2-ventures-joe-montana-ai-venture-capital.html": {
+    "valid": false
+  },
+  "https://x.com/omlondhe2133/status/2031291493584089396": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.d74f1a3a.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/guillermoflor_breaking-yann-lecun-just-raised-103b-activity-7437178194782408704-F5cY": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/birmingham/news/2026/03/11/nyad-ai-pre-seed-funding-round-commercial-launch.html": {
+    "valid": true,
+    "company": "Nyad",
+    "amount_str": "$1.3M",
+    "website": "https://en.wikipedia.org",
+    "linkedin_url": "https://linkedin.com/company/nyad-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bloomberg.com/news/articles/2026-03-10/ai-robotics-startup-rhoda-valued-at-1-7-billion-in-new-funding": {
+    "valid": false
+  },
+  "https://starlust.org/colorado-startup-lux-aeterna-closes-10-million-seed-funding-to-develop-reusable-satellites-by-2027/": {
+    "valid": true,
+    "company": "Colorado startup Lux Aeterna",
+    "amount_str": "$10 m",
+    "website": "https://www.space.com",
+    "linkedin_url": "",
+    "founder_name": "Its CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/futureplc"
+  },
+  "https://www.eu-startups.com/2026/03/portuguese-startup-sybilion-secures-e3-6-million-to-build-ai-powered-decision-layer-for-industrial-companies/": {
+    "valid": false
+  },
+  "https://www.chosun.com/english/industry-en/2026/03/11/2JHCRAEMTVB5JE2RXMXLS5APTU/": {
+    "valid": true,
+    "company": "AMI Labs",
+    "amount_str": "$1.03 B",
+    "website": "https://amilabs.xyz",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/yann-lecun",
+    "contact_email": "contact@amilabs.xyz",
+    "twitter_url": ""
+  },
+  "https://www.securityweek.com/quantro-security-emerges-from-stealth-with-2-5-million-in-funding/amp/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.wamda.com/2026/03/shorooq-invests-ami-labs-ai-startup-hits-3-5-billion-valuation": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wamdacapital.com",
+    "linkedin_url": "https://linkedin.com/company/wamda-capital",
+    "founder_name": "Alexandre LeBrun",
+    "founder_linkedin_url": "",
+    "contact_email": "info@wamdacapital.com",
+    "twitter_url": "https://x.com/WamdaCapital"
+  },
+  "https://www.pedalstart.com/blog/seed-funding-vs-venture-capital": {
+    "valid": false
+  },
+  "https://www.techmarketview.com/ukhotviews/archive/2026/03/11/former-meta-platforms-chief-ai-scientists-startup-raises-over-1bn-in-europes-largest-seed-round": {
+    "valid": true,
+    "company": "Meta Platforms chief AI scientist's startup",
+    "amount_str": "$1b",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Group Vice",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.threads.com/@moneycontrolcom/post/DVvGwTlEo59/business-nursing-exam-prep-startup-n-prep-bags-million-seed-funding-from": {
+    "valid": true,
+    "company": "Nursing exam prep startup NPrep",
+    "amount_str": "$1.5 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fintech.global/2026/03/11/embedded-insurance-startup-kayna-raises-1-7m/": {
+    "valid": true,
+    "company": "Embedded insurance startup Kayna",
+    "amount_str": "$1.7m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupgrantsindia.com/dst-nidhi-seed-support-program-acic-vgu-foundation-415": {
+    "valid": false
+  },
+  "https://usaherald.com/lux-aeterna-10m-seed-funding-fuels-ambitious-reusable-satellite-vision/": {
+    "valid": false
   }
 }
