@@ -280,6 +280,9 @@
   <button class="tab-btn" data-tab="top">
     Top 1000 MCap <span class="tab-count" id="count-top">—</span>
   </button>
+  <button class="tab-btn" data-tab="signals">
+    Signals <span class="tab-count" id="count-signals">—</span>
+  </button>
 </nav>
 
 <!-- ════════════════════════════════════════════════════════
@@ -550,6 +553,50 @@
       <div class="empty-state" id="jobs-empty" style="display:none">
         <h2>No new job postings yet</h2>
         <p>On the first run the script builds a baseline — check back tomorrow for diffs.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════════════════════
+     TAB — Signals
+════════════════════════════════════════════════════════ -->
+<div id="tab-signals" class="tab-content">
+  <div class="filters">
+    <div class="filter-group">
+      <input type="text" id="signals-search" placeholder="Search company…" autocomplete="off">
+    </div>
+    <div class="filter-group">
+      <label>Signal</label>
+      <div class="btn-group" id="signals-type">
+        <button data-type="all" class="active">All</button>
+        <button data-type="waas">YC Hiring</button>
+        <button data-type="crypto">Crypto Raise</button>
+        <button data-type="both">Both</button>
+      </div>
+    </div>
+  </div>
+  <div class="main">
+    <div class="stats" id="signals-stats"></div>
+    <div class="table-wrap">
+      <div class="loading" id="signals-loading">
+        <span class="loading-dot">●</span>
+        <span class="loading-dot" style="animation-delay:.2s">●</span>
+        <span class="loading-dot" style="animation-delay:.4s">●</span>
+      </div>
+      <table id="signals-table" style="display:none">
+        <thead><tr>
+          <th data-col="companyName">Company <span class="si">↕</span></th>
+          <th>Signals</th>
+          <th>Details</th>
+          <th data-col="date">Date <span class="si">↓</span></th>
+          <th>Links</th>
+        </tr></thead>
+        <tbody id="signals-tbody"></tbody>
+      </table>
+      <div class="empty-state" id="signals-empty" style="display:none">
+        <h2>No signals yet</h2>
+        <p>Run fetch_waas.py and fetch_cryptorank.py to populate data.</p>
       </div>
     </div>
   </div>
@@ -1069,6 +1116,167 @@ bindToggle("jobs-small-toggle",   v => { jobsSmall = v;      jobsRender(); });
 document.getElementById("jobs-search").addEventListener("input", e => { jobsSearch = e.target.value.toLowerCase().trim(); jobsRender(); });
 
 // ════════════════════════════════════════════════════════
+// TAB — Signals
+// ════════════════════════════════════════════════════════
+let signalsItems = [], signalsSortCol = "date", signalsSortAsc = false;
+let signalsType = "all", signalsSearch = "";
+
+function normName(s) {
+  return (s || "").toLowerCase().replace(/[^a-z0-9]/g, "");
+}
+
+function buildSignals(waasJobs, cryptoRounds) {
+  // Build lookup: normalised name → crypto round
+  const crMap = {};
+  for (const r of cryptoRounds) {
+    crMap[normName(r.name)] = r;
+  }
+
+  const seen = {};
+
+  // WAAS: YC companies with open designer roles
+  for (const job of waasJobs) {
+    const key = normName(job.companyName);
+    if (!seen[key]) {
+      seen[key] = {
+        companyName:    job.companyName,
+        companySlug:    job.companySlug,
+        companyBatch:   job.companyBatch,
+        companyOneLiner: job.companyOneLiner,
+        waasUrl: `https://www.workatastartup.com/companies/${job.companySlug}`,
+        roles:       [],
+        cryptoRaise: crMap[key] || null,
+        date:        null,
+      };
+    }
+    seen[key].roles.push({
+      title:    job.title,
+      applyUrl: job.applyUrl,
+      location: job.location,
+      roleType: job.roleType,
+    });
+  }
+
+  // CryptoRank: seed raises — add any company not already from WAAS
+  for (const r of cryptoRounds) {
+    const key = normName(r.name);
+    if (!seen[key]) {
+      seen[key] = {
+        companyName:     r.name,
+        companySlug:     r.slug,
+        companyBatch:    null,
+        companyOneLiner: r.category || "",
+        waasUrl:         null,
+        roles:           [],
+        cryptoRaise:     r,
+        date:            r.date || null,
+      };
+    } else {
+      seen[key].date = r.date || null;
+    }
+  }
+
+  return Object.values(seen);
+}
+
+function signalsFilter() {
+  return signalsItems.filter(x => {
+    const hasWaas   = x.roles.length > 0;
+    const hasCrypto = !!x.cryptoRaise;
+    if (signalsType === "waas"   && !hasWaas)              return false;
+    if (signalsType === "crypto" && !hasCrypto)            return false;
+    if (signalsType === "both"   && !(hasWaas && hasCrypto)) return false;
+    if (signalsSearch) {
+      const hay = [x.companyName, x.companyOneLiner, x.companyBatch]
+        .filter(Boolean).join(" ").toLowerCase();
+      if (!hay.includes(signalsSearch)) return false;
+    }
+    return true;
+  }).sort((a, b) => {
+    let av, bv;
+    if (signalsSortCol === "companyName") {
+      av = (a.companyName || "").toLowerCase();
+      bv = (b.companyName || "").toLowerCase();
+    } else {
+      av = a.cryptoRaise?.date || a.date || "";
+      bv = b.cryptoRaise?.date || b.date || "";
+    }
+    if (av < bv) return signalsSortAsc ? -1 : 1;
+    if (av > bv) return signalsSortAsc ? 1 : -1;
+    return 0;
+  });
+}
+
+function signalsRenderRow(x) {
+  const hasWaas   = x.roles.length > 0;
+  const hasCrypto = !!x.cryptoRaise;
+
+  const batchBadge = x.companyBatch
+    ? ` <span class="badge ${BATCH_COLOR[x.companyBatch] || 'badge-gray'}">${esc(x.companyBatch)}</span>`
+    : "";
+
+  const badges = [];
+  if (hasWaas)   badges.push(`<span class="badge badge-purple" title="YC company with open designer role on Work at a Startup">YC Hiring</span>`);
+  if (hasCrypto) badges.push(`<span class="badge badge-yellow" title="Recent crypto seed/early funding round">Crypto Raise</span>`);
+
+  const details = [];
+  if (hasWaas) {
+    const roleChips = x.roles.slice(0, 2)
+      .map(r => `<span class="chip">${esc(r.roleType || r.title)}</span>`).join(" ");
+    details.push(`<div style="margin-bottom:2px">${roleChips}</div>`);
+    if (x.companyOneLiner)
+      details.push(`<div class="muted" style="font-size:11px">${esc(x.companyOneLiner)}</div>`);
+  }
+  if (hasCrypto) {
+    const r = x.cryptoRaise;
+    const amt   = r.amount_usd ? `<strong>${fmtMoney(r.amount_usd)}</strong>` : "";
+    const stage = r.stage ? `<span class="chip">${esc(r.stage)}</span> ` : "";
+    const sym   = r.symbol ? `<span class="muted" style="font-size:11px">${esc(r.symbol)}</span>` : "";
+    details.push(`<div style="margin-top:${hasWaas ? 4 : 0}px">${stage}${amt} ${sym}</div>`);
+  }
+
+  const dateStr = x.cryptoRaise?.date || x.date || "";
+  const dateFmt = dateStr
+    ? urgencyBadge(dateStr.length === 10 ? dateStr + "T00:00:00Z" : dateStr)
+    : '<span class="muted">—</span>';
+
+  const links = [];
+  if (x.waasUrl)             links.push(`<a class="action-link" href="${esc(x.waasUrl)}" target="_blank" rel="noopener">WAAS</a>`);
+  if (x.roles[0]?.applyUrl)  links.push(`<a class="action-link hi-green" href="${esc(x.roles[0].applyUrl)}" target="_blank" rel="noopener">Apply</a>`);
+  if (x.cryptoRaise?.website) links.push(`<a class="action-link" href="${esc(x.cryptoRaise.website)}" target="_blank" rel="noopener">Site</a>`);
+  if (x.cryptoRaise?.twitter_url) links.push(`<a class="action-link" href="${esc(x.cryptoRaise.twitter_url)}" target="_blank" rel="noopener">X</a>`);
+
+  return `<tr>
+    <td><span class="link-name" style="cursor:default">${esc(x.companyName || "—")}</span>${batchBadge}</td>
+    <td><div class="chip-list">${badges.join(" ")}</div></td>
+    <td style="max-width:260px">${details.join("")}</td>
+    <td>${dateFmt}</td>
+    <td><span class="action-links">${links.join("")}</span></td>
+  </tr>`;
+}
+
+function signalsRender() {
+  const rows        = signalsFilter();
+  const waasCount   = signalsItems.filter(x => x.roles.length > 0).length;
+  const cryptoCount = signalsItems.filter(x => x.cryptoRaise).length;
+  const bothCount   = signalsItems.filter(x => x.roles.length > 0 && x.cryptoRaise).length;
+  document.getElementById("signals-stats").innerHTML =
+    `Showing <span>${rows.length}</span> leads · <span>${waasCount}</span> YC hiring · <span>${cryptoCount}</span> crypto raises · <span>${bothCount}</span> both`;
+  showTable("signals-table", "signals-loading", "signals-empty", "signals-tbody", rows.map(signalsRenderRow));
+}
+
+makeSorter("signals-table",
+  () => ({ col: signalsSortCol, asc: signalsSortAsc }),
+  (c, a) => { signalsSortCol = c; signalsSortAsc = a; },
+  signalsRender
+);
+
+bindBtnGroup("signals-type", d => { signalsType = d.type; signalsRender(); });
+document.getElementById("signals-search").addEventListener("input", e => {
+  signalsSearch = e.target.value.toLowerCase().trim(); signalsRender();
+});
+
+// ════════════════════════════════════════════════════════
 // Data loading
 // ════════════════════════════════════════════════════════
 function setCount(id, n) {
@@ -1076,12 +1284,14 @@ function setCount(id, n) {
 }
 
 async function loadAll() {
-  const [ycRes, crRes, topRes, seedRes, jobsRes] = await Promise.allSettled([
+  const [ycRes, crRes, topRes, seedRes, jobsRes, waasRes, cryptorankRes] = await Promise.allSettled([
     fetch("./data/yc.json").then(r => r.json()),
     fetch("./data/crypto.json").then(r => r.json()),
     fetch("./data/crypto_top.json").then(r => r.json()),
     fetch("./data/seed.json").then(r => r.json()),
     fetch("./data/jobs.json").then(r => r.json()),
+    fetch("./data/waas.json").then(r => r.json()),
+    fetch("./data/cryptorank.json").then(r => r.json()),
   ]);
 
   // ── YC ────────────────────────────────────────────────
@@ -1156,6 +1366,14 @@ async function loadAll() {
     document.getElementById("jobs-loading").innerHTML = `<span style="color:var(--red)">Failed to load — run fetch_jobs.py</span>`;
     setCount("count-jobs", 0);
   }
+
+  // ── Signals ───────────────────────────────────────────
+  const waasJobs      = waasRes.status      === "fulfilled" ? (waasRes.value.jobs        || []) : [];
+  const cryptoRounds  = cryptorankRes.status === "fulfilled" ? (cryptorankRes.value.rounds || []) : [];
+  signalsItems = buildSignals(waasJobs, cryptoRounds);
+  setCount("count-signals", signalsItems.length);
+  document.getElementById("signals-loading").style.display = "none";
+  signalsRender();
 
   // ── Header meta ───────────────────────────────────────
   const anyTs = [ycRes, crRes, topRes, seedRes, jobsRes]

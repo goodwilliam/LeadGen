@@ -1,7 +1,9 @@
-name: Update All Sources
+name: Update Signals
 
 on:
-  workflow_dispatch:   # manual trigger only
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -21,18 +23,6 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Fetch YC companies
-        run: python fetch_yc.py
-
-      - name: Fetch crypto signals
-        run: python fetch_crypto.py
-
-      - name: Fetch top 1000 MCap crypto
-        run: python fetch_crypto_top.py
-
-      - name: Fetch seed funding news
-        run: python fetch_seed.py
-
       - name: Fetch WAAS designer jobs
         run: python fetch_waas.py
 
@@ -46,11 +36,12 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git reset --soft origin/main
           git add data/
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "chore: update all sources $(date -u +%Y-%m-%d)"
-            git pull --rebase -X theirs origin main || true
-            git push
+            git commit -m "chore: update signals data $(date -u +%Y-%m-%d)"
+            git push origin HEAD:main
           fi
