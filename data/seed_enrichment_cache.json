@@ -1009,5 +1009,183 @@
   },
   "https://www.prnewswire.com/news-releases/denison-reports-financial-and-operational-results-for-2025-and-final-investment-decision-to-construct-the-phoenix-isr-uranium-mine-302710200.html": {
     "valid": false
+  },
+  "https://siliconangle.com/2026/03/10/meta-told-oversight-board-better-moderation-needed-ai-generated-deepfakes/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/10/legora-raises-550m-fuel-u-s-expansion-ai-agents-automate-legal-work/": {
+    "valid": true,
+    "company": "Legora",
+    "amount_str": "$550M",
+    "website": "https://legora.com/blog/series-c",
+    "linkedin_url": "https://linkedin.com/company/wearelegora",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/WeAreLegora"
+  },
+  "https://www.prnewswire.com/news-releases/resonance-consultancy-unveils-europes-best-cities-for-2026-302710345.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/uzum-sichert-sich-eine-strategische-investition-von-uber-130-millionen-us-dollar-angefuhrt-von-staatlichen-einrichtungen-des-sultanats-oman-302710442.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/hainan-ftp-off-to-a-good-start-sees-imports-and-arrivals-soaring-302710359.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/drvn-stockholder-alert-shareholder-rights-law-firm-robbins-llp-reminds-investors-of-the-class-action-lawsuit-against-driven-brands-holdings-inc-302710183.html": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/": {
+    "valid": true,
+    "company": "Yann LeCun's AMI Labs",
+    "amount_str": "$1.03B",
+    "website": "https://businessoutstanders.com",
+    "linkedin_url": "https://linkedin.com/company/business-outstanders",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Bizoutstanders"
+  },
+  "https://techcrunch.com/2026/03/10/hyperscale-power-is-the-latest-startup-to-challenge-140-year-old-transformer-tech/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.space.com/technology/lux-aeterna-funding-fully-reusable-satellite-delphi": {
+    "valid": true,
+    "company": "Colorado startup Lux Aeterna",
+    "amount_str": "$10 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupdaily.net/topic/artificial-intelligence-machine-learning/anthropic-is-opening-a-sydney-office/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/03/10/ai-network-startup-eridu-emerges-from-stealth-with-hefty-200m-series-a/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/10/sandbar-secures-23m-series-a-for-its-ai-note-taking-ring/": {
+    "valid": true,
+    "company": "Sandbar",
+    "amount_str": "$23M",
+    "website": "https://www.sandbar.com",
+    "linkedin_url": "https://linkedin.com/company/sandbarinc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@sandbar.com",
+    "twitter_url": "https://x.com/sandbar"
+  },
+  "https://bebeez.eu/2026/03/10/british-startup-outpost-raises-e15-million-to-build-liability-free-cross-border-commerce-platform/": {
+    "valid": false
+  },
+  "https://entrackr.com/snippets/together-fund-leads-5-mn-seed-round-in-coreworksai-11191967": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.ampproject.org/v0.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.afr.com/companies/financial-services/australia-s-next-tech-unicorn-is-a-cryptocurrency-player-20260310-p5o90h": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://alib.nine.com.au",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.calcalistech.com/ctechnews/article/b1hpyc6f11e": {
+    "valid": true,
+    "company": "Cyber startup Jazz",
+    "amount_str": "$43 m",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.sportspro.com/features/technology/sports-technology-investment-ideas-2026-list-startups/": {
+    "valid": false
+  },
+  "https://www.techbuzz.ai/articles/agentmail-raises-6m-to-build-email-for-ai-agents": {
+    "valid": true,
+    "company": "AgentMail",
+    "amount_str": "$6M",
+    "website": "https://agentmail.com",
+    "linkedin_url": "https://linkedin.com/company/agentmailto",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/adivirsingh13",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://resiliencemedia.co/lux-aeterna-raises-10-million-to-build-reusable-returnable-satellites/": {
+    "valid": true,
+    "company": "Lux Aeterna",
+    "amount_str": "$10 m",
+    "website": "https://www.luxaeterna.com",
+    "linkedin_url": "https://linkedin.com/company/lux-aeterna-space",
+    "founder_name": "said Brian Taylor",
+    "founder_linkedin_url": "",
+    "contact_email": "info@luxaeterna.com",
+    "twitter_url": ""
+  },
+  "https://refreshmiami.com/news/remitian-raises-7m-to-tackle-the-messy-final-step-of-tax-filing/": {
+    "valid": true,
+    "company": "Remitian",
+    "amount_str": "$7M",
+    "website": "https://remitian.com",
+    "linkedin_url": "https://linkedin.com/company/remitian",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/rasa-legal-raises-5-million-late-seed-round-to-scale-criminal-record-clearance-nationwide-302709738.html": {
+    "valid": true,
+    "company": "Rasa Legal",
+    "amount_str": "$5 M",
+    "website": "https://rasa-legal.com",
+    "linkedin_url": "https://linkedin.com/company/rasa-legal",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/RasaLegal"
+  },
+  "https://yourstory.com/2026/03/agritech-startup-verdant-impact-raises-seed-round": {
+    "valid": true,
+    "company": "Agritech startup Verdant Impact",
+    "amount_str": "$3M",
+    "website": "https://inc42.com",
+    "linkedin_url": "https://linkedin.com/company/inc42",
+    "founder_name": "for cattle",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Inc42"
   }
 }
