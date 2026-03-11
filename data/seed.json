@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-03-10T20:43:22.605854Z",
-  "count": 33,
+  "generated_at": "2026-03-11T01:16:34.479584Z",
+  "count": 35,
   "enriched_count": 27,
   "articles": [
+    {
+      "source": "SiliconAngle",
+      "title": "AI networking startup Nexthop AI raises $500M, launches new switches",
+      "article_url": "https://siliconangle.com/2026/03/10/ai-networking-startup-nexthop-ai-raises-500m-launches-new-switches/",
+      "company": "AI networking startup Nexthop AI",
+      "amount_str": "$500M",
+      "pub_date": "2026-03-11T01:11:34Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "SiliconAngle",
+      "title": "Kevin Mandia\u2019s Armadin raises record $189.9M to develop AI-driven cyberattack simulation software",
+      "article_url": "https://siliconangle.com/2026/03/10/kevin-mandias-armadin-raises-record-189-9m-develop-ai-driven-cyberattack-simulation-software/",
+      "company": "Kevin Mandia\u2019s Armadin",
+      "amount_str": "$189.9M",
+      "pub_date": "2026-03-11T00:24:46Z",
+      "website": "",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "SiliconAngle",
       "title": "Anchr brings AI to America\u2019s food supply distribution chain with $5.8M raise",
@@ -245,7 +273,7 @@
       "source": "Google Alerts",
       "title": "Augur raises $15M to protect critical infrastructure - TNW",
       "article_url": "https://thenextweb.com/news/augur-15m-plural-ai-surveillance-critical-infrastructure",
-      "company": "The company announced today that it",
+      "company": "Augur",
       "amount_str": "$15 m",
       "pub_date": "2026-03-09T23:05:27Z",
       "website": "https://duck.ai",

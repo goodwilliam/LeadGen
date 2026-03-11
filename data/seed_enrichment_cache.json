@@ -961,5 +961,53 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/10/ai-networking-startup-nexthop-ai-raises-500m-launches-new-switches/": {
+    "valid": true,
+    "company": "AI networking startup Nexthop AI",
+    "amount_str": "$500M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/10/kevin-mandias-armadin-raises-record-189-9m-develop-ai-driven-cyberattack-simulation-software/": {
+    "valid": true,
+    "company": "Kevin Mandia\u2019s Armadin",
+    "amount_str": "$189.9M",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/10/nvidia-makes-significant-investment-mira-muratis-thinking-machines/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/10/aws-updates-security-hub-aggregate-security-findings-across-multicloud-environments/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/10/yann-lecuns-new-startup-ami-labs-raises-1-03b-train-world-models/": {
+    "valid": true,
+    "company": "Yann LeCun\u2019s new startup AMI Labs",
+    "amount_str": "$1.03B",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/investor-deadline-enphase-energy-inc-investors-with-substantial-losses-have-opportunity-to-lead-class--rgrd-law-302708775.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/blueprint-capital-advisors-announces-the-2026-power100-allocators-honorees-302710202.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/denison-reports-financial-and-operational-results-for-2025-and-final-investment-decision-to-construct-the-phoenix-isr-uranium-mine-302710200.html": {
+    "valid": false
   }
 }
