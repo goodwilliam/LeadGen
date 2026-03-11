@@ -1187,5 +1187,19 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": "https://x.com/Inc42"
+  },
+  "https://tech.eu/2026/03/11/finperks-raises-4m-pre-seed-to-build-the-stripe-for-prepaid/": {
+    "valid": true,
+    "company": "finperks",
+    "amount_str": "$4M",
+    "website": "https://finperks.com",
+    "linkedin_url": "https://linkedin.com/company/finperks",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "mustermann@email.com",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/bitgo-invests-in-ubyx-and-joins-as-a-settlement-agent-to-accelerate-institutional-digital-asset-infrastructure-302709990.html": {
+    "valid": false
   }
 }

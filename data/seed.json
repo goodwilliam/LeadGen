@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-03-11T05:12:18.193192Z",
-  "count": 37,
-  "enriched_count": 29,
+  "generated_at": "2026-03-11T08:32:29.751496Z",
+  "count": 38,
+  "enriched_count": 30,
   "articles": [
+    {
+      "source": "tech.eu",
+      "title": "finperks raises $4M pre-seed to build prepaid payments infrastructure",
+      "article_url": "https://tech.eu/2026/03/11/finperks-raises-4m-pre-seed-to-build-the-stripe-for-prepaid/",
+      "company": "finperks",
+      "amount_str": "$4M",
+      "pub_date": "2026-03-11T07:30:00Z",
+      "website": "https://finperks.com",
+      "linkedin_url": "https://linkedin.com/company/finperks",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "mustermann@email.com",
+      "twitter_url": ""
+    },
     {
       "source": "SiliconAngle",
       "title": "AI networking startup Nexthop AI raises $500M, launches new switches",
@@ -368,6 +382,20 @@
       "twitter_url": ""
     },
     {
+      "source": "Google Alerts",
+      "title": "Mirai Robotics raises $4.2m pre-seed funding to build autonomous maritime systems",
+      "article_url": "https://www.startup-weekly.com/Mirai-Robotics-raises-4-2m-pre-seed-funding-to-build-autonomous-maritime-systems/",
+      "company": "Mirai Robotics",
+      "amount_str": "$4.2m",
+      "pub_date": "2026-03-09T16:19:48Z",
+      "website": "https://miraitech.ai",
+      "linkedin_url": "https://linkedin.com/company/mirai-robotics",
+      "founder_name": "of Mirai Robotics",
+      "founder_linkedin_url": "",
+      "contact_email": "hello@miraitech.ai",
+      "twitter_url": "https://x.com/mirairobotic"
+    },
+    {
       "source": "tech.eu",
       "title": "Cytotrait raises \u00a33M for agricultural gene-editing technology",
       "article_url": "https://tech.eu/2026/03/09/cytotrait-raises-ps3m-for-agricultural-gene-editing-technology/",
@@ -450,20 +478,6 @@
       "founder_linkedin_url": "",
       "contact_email": "contact@techbuzz.ai",
       "twitter_url": "https://x.com/tbuzzdaily"
-    },
-    {
-      "source": "tech.eu",
-      "title": "Mirai Robotics raises $4.2M Pre-Seed to build autonomous dual defence maritime systems",
-      "article_url": "https://tech.eu/2026/03/09/mirai-robotics-raises-4-2m-pre-seed-to-build-autonomous-dual-defence-maritime-systems/",
-      "company": "Mirai Robotics",
-      "amount_str": "$4.2M",
-      "pub_date": "2026-03-09T09:26:00Z",
-      "website": "https://www.mirairobotics.in",
-      "linkedin_url": "https://linkedin.com/company/mirai-robotics",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "team@mirairobotics.com",
-      "twitter_url": ""
     },
     {
       "source": "Google Alerts",
