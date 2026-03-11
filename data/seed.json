@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-03-11T16:48:02.923326Z",
-  "count": 31,
-  "enriched_count": 22,
+  "generated_at": "2026-03-11T20:27:18.222168Z",
+  "count": 32,
+  "enriched_count": 23,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Almost 40 new unicorns have been minted so far this year \u2014 here they are",
+      "article_url": "https://techcrunch.com/2026/03/11/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/",
+      "company": "It",
+      "amount_str": "$350 m",
+      "pub_date": "2026-03-11T18:00:00Z",
+      "website": "https://www.reddit.com/submit",
+      "linkedin_url": "https://linkedin.com/company/dedicated-it",
+      "founder_name": "from investors including",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "VentureBeat",
       "title": "Manufact raises $6.3M as MCP becomes the \u2018USB-C for AI\u2019 powering ChatGPT and Claude apps",

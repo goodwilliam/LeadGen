@@ -1704,5 +1704,34 @@
   },
   "https://usaherald.com/lux-aeterna-10m-seed-funding-fuels-ambitious-reusable-satellite-vision/": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/03/11/breakout-ventures-raises-114m-fund-to-back-ai-science-startups/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/03/11/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/": {
+    "valid": true,
+    "company": "It",
+    "amount_str": "$350 m",
+    "website": "https://www.reddit.com/submit",
+    "linkedin_url": "https://linkedin.com/company/dedicated-it",
+    "founder_name": "from investors including",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/11/hacker-broke-into-fbi-and-compromised-epstein-files-report-says/": {
+    "valid": false
+  },
+  "https://venturebeat.com/orchestration/anthropic-gives-claude-shared-context-across-microsoft-excel-and-powerpoint": {
+    "valid": false
+  },
+  "https://venturebeat.com/technology/rsacs-innovation-sandbox-is-where-cybersecuritys-next-giants-are-born": {
+    "valid": false
+  },
+  "https://betakit.com/alan-raises-fresh-funding-as-it-entrenches-in-canada/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/highland-opportunities-and-income-fund-announces-investor-update-call-302711431.html": {
+    "valid": false
   }
 }
