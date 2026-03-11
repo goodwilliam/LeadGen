@@ -1201,5 +1201,178 @@
   },
   "https://www.prnewswire.com/news-releases/bitgo-invests-in-ubyx-and-joins-as-a-settlement-agent-to-accelerate-institutional-digital-asset-infrastructure-302709990.html": {
     "valid": false
+  },
+  "https://news.crunchbase.com/venture/founder-first-investing-ai-khosla-choi/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/11/sybilion-secures-42m-to-build-ai-platform-for-industrial-markets/": {
+    "valid": true,
+    "company": "Sybilion",
+    "amount_str": "$4.2M",
+    "website": "https://www.sybilion.com",
+    "linkedin_url": "https://linkedin.com/company/sybilion",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/11/decoding-dna-with-ai-living-models-emerges-from-stealth-with-7m/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/11/mental-health-startup-bliss-raises-270k-to-build-culturally-intelligent-ai-for-therapy/": {
+    "valid": true,
+    "company": "Mental health startup Bliss",
+    "amount_str": "$270K",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/inc-names-pronghorn-co-founders-dia-simms-and-erin-j-hall-to-its-2026-female-founders-500-302710322.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/coopable-and-lotlinx-partner-to-automate-manufacturer-co-op-funding-for-dealers-in-order-to-move-the-metal-302710983.html": {
+    "valid": false
+  },
+  "https://technode.global/2026/03/11/singapore-sports-intelligence-startup-aiko-raises-1-5m-pre-seed/": {
+    "valid": true,
+    "company": "Singapore sports intelligence startup Aiko",
+    "amount_str": "$1.5M",
+    "website": "https://technode.global",
+    "linkedin_url": "https://linkedin.com/company/technodeglobal",
+    "founder_name": "Founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/technodeglobal"
+  },
+  "https://www.entrepreneur.com/growing-a-business/the-smartest-founders-arent-chasing-venture-capital/502249": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/eu-startups-menlo-media_ex-viafintech-founders-new-venture-finperks-activity-7437398216389591040-MiUO": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/03/11/ex-viafintech-founders-new-venture-finperks-raises-e3-4-million-pre-seed-to-build-the-stripe-for-prepaid/": {
+    "valid": false
+  },
+  "https://smallbiztrends.com/venture-capital/": {
+    "valid": false
+  },
+  "https://thenextweb.com/news/anchr-preseed-ai-food-distribution-automation": {
+    "valid": true,
+    "company": "Anchr",
+    "amount_str": "$5.8m",
+    "website": "https://anchr.tech",
+    "linkedin_url": "https://linkedin.com/company/anchr-ai",
+    "founder_name": "According to its",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://pressat.co.uk/releases/manchester-accelerator-lands-norths-only-spot-in-ft-europe-top-150-for-2026-dbe8606b8128a70212231e4d6b65d503/": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/cincinnati/news/2026/03/09/startups-watch-illume-insightx-raise-cintrifuse.html": {
+    "valid": false
+  },
+  "https://entrackr.com/snippets/lumikai-leads-15-mn-seed-round-in-nprep-11193962": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.ampproject.org/v0.js",
+    "linkedin_url": "",
+    "founder_name": "Aayush Phumbhra",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://sifted.eu/articles/entrepreneurs-first-unicorn-200m-fundraise": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://bsky.app/profile/amyrlewin.bsky.social",
+    "linkedin_url": "",
+    "founder_name": "fundraise\nEF",
+    "founder_linkedin_url": "",
+    "contact_email": "amy@sifted.eu",
+    "twitter_url": ""
+  },
+  "https://www.startuphub.ai/ai-news/funding-round/2026/mirai-robotics-lands-4-2m-for-maritime-autonomy": {
+    "valid": true,
+    "company": "Mirai Robotics",
+    "amount_str": "$4.2 m",
+    "website": "https://www.mirairobotics.in",
+    "linkedin_url": "https://linkedin.com/company/mirai-robotics",
+    "founder_name": "The founding team includes",
+    "founder_linkedin_url": "",
+    "contact_email": "team@mirairobotics.com",
+    "twitter_url": ""
+  },
+  "https://fortune.com/2026/03/09/robinhood-ventures-databricks-ramp-private-markets-openai-anthropic-spacex-vlad-tenev/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cxense.com/ari.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://insider.fitt.co/press-release/fitness-booking-platform-sportl-launches-with-250k-funding-to-revolutionise-industry/": {
+    "valid": false
+  },
+  "https://fortune.com/2026/03/10/anthropic-department-of-war-lawsuit-even-higher-stakes-amid-ai-boom/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cxense.com/ari.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.femtechworld.co.uk/news/pregnancy/pregnancy-complications-and-stress-linked-to-long-term-cardiovascular-risk-cvh26/": {
+    "valid": false
+  },
+  "https://thedigitalship.com/news/electronics-navigation/mirai-robotics-targets-maritime-autonomy/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "said Luciano Belviso",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/lux-aeterna-secures-10m-oversubscribed-seed-round-to-meet-demand-for-satellite-reentry-infrastructure-302709537.html": {
+    "valid": true,
+    "company": "Lux Aeterna",
+    "amount_str": "$10M",
+    "website": "https://www.space.com",
+    "linkedin_url": "https://linkedin.com/company/lux-aeterna-space",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/futureplc"
   }
 }
