@@ -2034,5 +2034,189 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/12/skyselect-raises-9m-to-modernise-aircraft-parts-procurement-with-ai/": {
+    "valid": true,
+    "company": "SkySelect",
+    "amount_str": "$9M",
+    "website": "https://www.skyselect.com",
+    "linkedin_url": "https://linkedin.com/company/skyselect",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/12/delfos-energy-secures-eur3m-seed-extension-to-scale-ai-virtual-engineer-for-energy-infrastructure/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/12/elaia-closes-134m-fund-dts3-to-back-europe-s-next-generation-of-breakthrough-startups/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/12/neuramancer-lands-eur17m-pre-seed-to-scale-deepfake-detection-tools/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/12/cleafy-raises-eur12m-to-develop-real-time-bank-fraud-detection-technology/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/12/here-is-what-to-expect-at-the-techeu-summit-london-2026/": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DVxkUc5EZra/": {
+    "valid": false
+  },
+  "https://www.mexc.co/news/908011": {
+    "valid": true,
+    "company": "Bittensor infrastructure startup General Tensor",
+    "amount_str": "$5 m",
+    "website": "https://www.panewslab.com",
+    "linkedin_url": "",
+    "founder_name": "Donald Trump",
+    "founder_linkedin_url": "",
+    "contact_email": "panews@panony.com",
+    "twitter_url": "https://x.com/PANews"
+  },
+  "https://www.govconwire.com/articles/anduril-exoanalytic-solutions-acquisition": {
+    "valid": false
+  },
+  "https://www.govconwire.com/articles/diffraqtion-pre-seed-quantum-imaging": {
+    "valid": false
+  },
+  "https://fintechmagazine.com/news/how-is-mambu-expanding-islamic-finance-in-africa": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/03/12/danish-agritech-startup-mycoverse-secures-e2-4m-pre-seed-funding-to-combat-potato-blight-with-fungal-biocontrol/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/sandbar-23m-series-a-ai-note-ring/": {
+    "valid": true,
+    "company": "Ex-Meta duo's Sandbar",
+    "amount_str": "$23M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://insurance-edge.net/2026/03/12/insurtech-kayna-closes-on1-5m-euros-seed-round/": {
+    "valid": true,
+    "company": "Kayna",
+    "amount_str": "",
+    "website": "https://www.kayna.io",
+    "linkedin_url": "https://linkedin.com/company/kayna-innovation",
+    "founder_name": "Peter Bermingham",
+    "founder_linkedin_url": "https://linkedin.com/in/petebermingham",
+    "contact_email": "info@kayna.io",
+    "twitter_url": "https://x.com/KaynaInsurtech"
+  },
+  "https://ffnews.com/newsarticle/fintech/mambu-selected-as-core-banking-provider-by-nyla-africas-first-islamic-neobank/": {
+    "valid": false
+  },
+  "https://endurance.biz/2026/industry-news/sportl-launches-fitness-booking-platform-with-250k-seed-funding/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/ai-from-bavaria-neuramancer-secures-e1-7m-for-detect-deepfakes-and-synthetic-media-fraud/": {
+    "valid": true,
+    "company": "Neuramancer",
+    "amount_str": "\u20ac1.7M",
+    "website": "https://neuramancer.de",
+    "linkedin_url": "https://linkedin.com/company/neuramancer",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://launchbaseafrica.com/2026/03/12/african-startup-deal-tracker-newest-deals-20/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://launchbaseafrica.gumroad.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thenextafrica.com/njiapay-secures-2-1m-to-expand-payment-infrastructure-for-african-businesses/": {
+    "valid": true,
+    "company": "NjiaPay",
+    "amount_str": "$2.1 m",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/njiapay",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thebusinessdesk.com/scotland/news/2687-green-msp-calls-for-pause-on-new-salmon-farms": {
+    "valid": false
+  },
+  "https://thenextweb.com/news/finperks-raises-4m-to-become-the-api-layer-for-prepaid-payments-in-europe": {
+    "valid": false
+  },
+  "https://iireporter.com/kayna-raises-e1-5-million-seed-round/": {
+    "valid": false
+  },
+  "https://www.reddit.com/r/StartupsHelpStartups/comments/1rrh9p8/looking_for_preseed_funding_untapped_market_huge/": {
+    "valid": false
+  },
+  "https://www.mexc.com/news/908832": {
+    "valid": false
+  },
+  "https://www.sgieurope.com/financial/uk-startup-raises-500000-to-modernize-golf-resale/119998.article": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DVvp6O1jZro/": {
+    "valid": false
+  },
+  "https://startupmap.iamsterdam.com/news/feed/the-mobile-first-company-raises-12m-seed": {
+    "valid": true,
+    "company": "Mobile-First Company",
+    "amount_str": "$12M",
+    "website": "https://duck.ai",
+    "linkedin_url": "https://linkedin.com/company/the-mobile-first-company",
+    "founder_name": "my Goillot and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupmag.co.uk/funding/spotlight-pathology-2026-seed-funding/": {
+    "valid": false
+  },
+  "https://urbangeekz.com/2026/03/nordic-startup-elva-secures-1-5m-streamline-cross-border-hiring/": {
+    "valid": true,
+    "company": "Elva",
+    "amount_str": "$1.5M",
+    "website": "https://withelva.com",
+    "linkedin_url": "https://linkedin.com/company/withelva",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/elva-escobedo",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupresearcher.com/news/qatari-logistics-startup-shipbee-secures-usd500-000-seed-funding": {
+    "valid": false
+  },
+  "https://startupmap.iamsterdam.com/news/feed/agentsmyth-secures-8-7m-seed-funding": {
+    "valid": true,
+    "company": "AgentSmyth",
+    "amount_str": "$8.7M",
+    "website": "https://agentsmyth.com",
+    "linkedin_url": "https://linkedin.com/company/agentsmyth",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/jack-mccooey-7a2a8420b",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Oz1Ds003OCz5Q02lxXi4O3zZmGAs018SbXiI9OWDebhLss"
+  },
+  "https://www.vestbee.com/insights/articles/sportl-launches-250-k": {
+    "valid": true,
+    "company": "London-based fitness startup SPORTL",
+    "amount_str": "\u00a3250k",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "says Ryan Lovelock",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
