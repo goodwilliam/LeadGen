@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-03-12T05:15:25.187932Z",
-  "count": 29,
-  "enriched_count": 21,
+  "generated_at": "2026-03-12T08:37:08.556682Z",
+  "count": 31,
+  "enriched_count": 24,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Tiiny AI Pocket Lab raises $1 million in five hours on Kickstarter",
+      "article_url": "https://vir.com.vn/tiiny-ai-pocket-lab-raises-1-million-in-five-hours-on-kickstarter-148369.html",
+      "company": "Tiiny AI Pocket Lab",
+      "amount_str": "$1 m",
+      "pub_date": "2026-03-12T02:29:30Z",
+      "website": "https://www.prnewswire.com",
+      "linkedin_url": "https://linkedin.com/company/pr-newswire",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/PRNewswire"
+    },
     {
       "source": "Google Alerts",
       "title": "Bittensor infrastructure startup General Tensor raises $5 million in funding. - PANews",
@@ -46,6 +60,34 @@
       "twitter_url": ""
     },
     {
+      "source": "Google Alerts",
+      "title": "Standard Kernel Raises $20M Seed Round to Let AI Rewrite the Software That Runs AI",
+      "article_url": "https://www.prnewswire.com/news-releases/standard-kernel-raises-20m-seed-round-to-let-ai-rewrite-the-software-that-runs-ai-302710281.html",
+      "company": "Standard Kernel",
+      "amount_str": "$20M",
+      "pub_date": "2026-03-12T00:01:58Z",
+      "website": "https://standardkernel.com",
+      "linkedin_url": "https://linkedin.com/company/standard-kernel",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "hi@standardkernel.com",
+      "twitter_url": "https://x.com/Standard_Kernel"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Talvy Raises $2M Seed Round As It Aims To Replace Traditional Resumes With Short-Form ...",
+      "article_url": "https://finance.yahoo.com/news/talvy-raises-2m-seed-round-145303504.html",
+      "company": "Talvy",
+      "amount_str": "$2M",
+      "pub_date": "2026-03-11T23:08:06Z",
+      "website": "https://talvy.com",
+      "linkedin_url": "https://linkedin.com/company/talvy",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
       "source": "SiliconAngle",
       "title": "Cybersecurity startup Kai raises $125M to build agent-driven AI security platform",
       "article_url": "https://siliconangle.com/2026/03/11/cybersecurity-startup-kai-raises-125m-build-agent-driven-ai-security-platform/",
@@ -58,20 +100,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": "https://x.com/kaisecurity"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Khosla-backed Rhoda raises $450M at $1.7B valuation for video-trained AI",
-      "article_url": "https://techfundingnews.com/rhoda-ai-450m-series-a-stealth-exit-robotics/",
-      "company": "Khosla-backed Rhoda",
-      "amount_str": "$450M",
-      "pub_date": "2026-03-11T21:10:51Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "TechCrunch",

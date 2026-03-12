@@ -1925,5 +1925,114 @@
   },
   "https://www.thesaasnews.com/news/jazz-lands-61-million-in-funding": {
     "valid": false
+  },
+  "https://tech.eu/2026/03/12/airmo-raises-eur5m-for-airborne-and-space-based-ghg-monitoring/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/12/endform-secures-eur15m-for-high-performance-web-testing-tools/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/cort-investors-have-opportunity-to-lead-corcept-therapeutics-incorporated-securities-fraud-lawsuit-with-the-schall-law-firm-302711862.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/corcept-therapeutics-incorporated-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--cort-302711861.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/navn-investors-have-opportunity-to-lead-navan-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302711858.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/camping-world-holdings-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--cwh-302711870.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.cision.com/about/accessibility",
+    "linkedin_url": "https://linkedin.com/company/cision",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@cision.com",
+    "twitter_url": "https://x.com/cision"
+  },
+  "https://www.prnewswire.com/news-releases/enph-investors-have-opportunity-to-lead-enphase-energy-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302711865.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/driven-brands-holdings-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--drvn-302711872.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/mreo-investors-have-opportunity-to-lead-mereo-biopharma-group-plc-securities-fraud-lawsuit-with-the-schall-law-firm-302711869.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rare-investors-have-opportunity-to-lead-ultragenyx-pharmaceutical-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302711856.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rr-investors-have-opportunity-to-lead-richtech-robotics-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302711853.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/enphase-energy-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--enph-302711849.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/orcl-investors-have-opportunity-to-join-oracle-corporation-fraud-investigation-with-the-schall-law-firm-302711846.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/paysafe-limited-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--psfe-302711842.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/mereo-biopharma-group-plc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--mreo-302711857.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/npf-investment-advisors-announces-launch-of-npfe-etf-on-cboe-global-markets-302712102.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/ultragenyx-pharmaceutical-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--rare-302711863.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/richtech-robotics-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--rr-302711855.html": {
+    "valid": false
+  },
+  "https://www.techinafrica.com/moroccos-ministry-of-digital-transition-champions-ai-as-cornerstone-of-industrial-and-economic-transformation/": {
+    "valid": false
+  },
+  "https://vir.com.vn/tiiny-ai-pocket-lab-raises-1-million-in-five-hours-on-kickstarter-148369.html": {
+    "valid": true,
+    "company": "Tiiny AI Pocket Lab",
+    "amount_str": "$1 m",
+    "website": "https://www.prnewswire.com",
+    "linkedin_url": "https://linkedin.com/company/pr-newswire",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/PRNewswire"
+  },
+  "https://www.prnewswire.com/news-releases/standard-kernel-raises-20m-seed-round-to-let-ai-rewrite-the-software-that-runs-ai-302710281.html": {
+    "valid": true,
+    "company": "Standard Kernel",
+    "amount_str": "$20M",
+    "website": "https://standardkernel.com",
+    "linkedin_url": "https://linkedin.com/company/standard-kernel",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hi@standardkernel.com",
+    "twitter_url": "https://x.com/Standard_Kernel"
+  },
+  "https://whbl.com/2026/03/11/rivian-spinout-mind-robotics-valued-at-2-billion-in-series-a-funding-round/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "http:\\/\\/www.facebook.com\\/sharer.php",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://finance.yahoo.com/news/talvy-raises-2m-seed-round-145303504.html": {
+    "valid": true,
+    "company": "Talvy",
+    "amount_str": "$2M",
+    "website": "https://talvy.com",
+    "linkedin_url": "https://linkedin.com/company/talvy",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
