@@ -2649,5 +2649,207 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/12/lucid-motors-shows-off-robotaxi-concept-called-lunar/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://betakit.com/femtum-thinks-its-semiconductor-cutting-lasers-are-better-than-yours/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/12/translucent-raises-27m-help-healthcare-firms-automate-financial-visibility/": {
+    "valid": true,
+    "company": "Translucent",
+    "amount_str": "$27M",
+    "website": "https://www.translucent.ai",
+    "linkedin_url": "https://linkedin.com/company/translucentai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/mndy-shareholder-action-notice-faruqi--faruqi-llp-reminds-mondaycom-mndy-investors-of-securities-class-action-deadline-on-may-11-2026-302712681.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/edr-deadline-edr-investors-have-opportunity-to-lead-endeavor-group-holdings-inc-securities-fraud-lawsuit-302712617.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/nektar-therapeutics-reports-fourth-quarter-and-full-year-2025-financial-results-302712809.html": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/03/11/vc-mega-funds-are-back-with-general-catalyst-spark-rumored-to-be-raising-billions/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.newsbytesapp.com/news/business/wonderful-raises-150-million-for-its-ai-agent-platform/tldr": {
+    "valid": true,
+    "company": "Wonderful",
+    "amount_str": "$150 m",
+    "website": "https://www.wonderful.com",
+    "linkedin_url": "https://linkedin.com/company/the-wonderful-company",
+    "founder_name": "by Wink and Lalazar",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/delfos-energy-3m-seed-extension-1000-sites/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/maria-01-2025-impact-finland-defence-tech-funding/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/rocket-scientists-airmo-bags-e5m-to-detect-methane-emissions-that-go-unreported/": {
+    "valid": false
+  },
+  "https://www.tradingview.com/news/cointelegraph:6446780cc094b:0-tether-joins-5-2m-round-in-stablecoin-infrastructure-builder-ark-labs/": {
+    "valid": false
+  },
+  "https://lasvegassun.com/news/2026/mar/12/totem-surpasses-50000-users-as-demand-for-offline-/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://lasvegasweekly.com/events",
+    "linkedin_url": "",
+    "founder_name": "said Carter Fowler",
+    "founder_linkedin_url": "",
+    "contact_email": "dave@davegandy.com",
+    "twitter_url": "https://x.com/fortaweso_me"
+  },
+  "https://www.businesswire.com/news/home/20260312928987/en/Totem-Surpasses-50000-Users-as-Demand-for-Offline-Friend-Finding-Technology-Grows": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/03/12/mind-robotics-raises-500m-in-series-a-funding-for-ai-powered-industrial-robots/": {
+    "valid": true,
+    "company": "Mind Robotics",
+    "amount_str": "$500M",
+    "website": "https://www.mindrobotics.com",
+    "linkedin_url": "https://linkedin.com/company/mindrobotics",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://pv-magazine-usa.com/2026/03/12/mantis-space-exits-stealth-with-10-million-for-orbital-power-delivery/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wp.me/p9qjnD-xpe",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fintech.global/2026/03/12/mambu-powers-nylas-islamic-neobank-launch-in-ghana/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/sheffields-amplisi-raises-2m-to-kill-graphite-in-lithium-ion-batteries/": {
+    "valid": false
+  },
+  "https://www.tradingview.com/news/cointelegraph:e5d520e1d094b:0-polychain-backs-veryai-s-10m-raise-to-build-palm-scan-identity-system-on-solana/": {
+    "valid": true,
+    "company": "Polychain backs VeryAI's $10M",
+    "amount_str": "$10M",
+    "website": "https://bitrss.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.fairfield.edu/news/2026/march/engineering-lockheed-martin-competition.html": {
+    "valid": false
+  },
+  "https://www.fairfield.edu/news/2026/march/startup-showcase-teams.html": {
+    "valid": false
+  },
+  "https://nationaltoday.com/us/nm/albuquerque/news/2026/03/12/orbital-energy-firm-mantis-space-raises-10m-in-seed-funding/": {
+    "valid": true,
+    "company": "Orbital Energy Firm Mantis Space",
+    "amount_str": "$10M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/reel/DVysFDqjXea/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "One of the",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://paaomasijoittajat.fi/en/ajankohtaista/news/31544/nordic-startup-elva-has-secured-e1-3-million-in-pre-seed-funding/": {
+    "valid": false
+  },
+  "https://yourstory.com/2026/03/bihar-startup-industrial-ecosystem-policy-investment-growth": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.panewslab.com/en/articles/019ce2b8-1708-71d8-80db-4a69b0d2df64": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cloud.umami.is/script.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupmag.co.uk/funding/kinewell-2026-pre-seed-funding": {
+    "valid": true,
+    "company": "Kinewell",
+    "amount_str": "",
+    "website": "https://kinewell.co.uk",
+    "linkedin_url": "https://linkedin.com/company/kinewell-energy-ltd",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/": {
+    "valid": true,
+    "company": "Another Earth",
+    "amount_str": "$4 m",
+    "website": "https://another.earth",
+    "linkedin_url": "https://linkedin.com/company/anotherearth",
+    "founder_name": "Another Earth CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bebeez.eu/2026/03/12/maria-01-impact-report-2025/": {
+    "valid": false
+  },
+  "https://www.startupmag.co.uk/funding/amplisi-2026-pre-seed-funding/": {
+    "valid": false
   }
 }
