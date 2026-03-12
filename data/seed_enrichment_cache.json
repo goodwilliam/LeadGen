@@ -1805,5 +1805,125 @@
   },
   "https://www.prnewswire.com/news-releases/sky-labs-launches-their-support-of-the-american-heart-associations-established-investigator-award-for-clinical-hypertension-302711551.html": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/03/11/bci-startup-gestala-raises-21-million-for-non-invasive-ultrasound-brain-tech/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/sky-labs-launches-their-support-of-the-american-heart-associations-established-investigator-award-for-clinical-hypertension-302710922.html": {
+    "valid": false
+  },
+  "https://www.geekwire.com/2026/tech-moves-microsoft-research-gets-a-new-leader-amazon-head-joins-ai-startup-jpmorgan-exec-departing/": {
+    "valid": false
+  },
+  "https://www.calcalistech.com/ctechnews/article/u1t4xcaky": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://newmedia.calcalist.co.il/ctech/testimonials/index.html",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "judith.hoffmann@calcalist.co.il",
+    "twitter_url": ""
+  },
+  "https://www.panewslab.com/en/articles/019cdf6c-742b-75dd-b981-7188d37ceb22": {
+    "valid": true,
+    "company": "Bittensor infrastructure startup General Tensor",
+    "amount_str": "$5 m",
+    "website": "https://www.panewslab.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "panews@panony.com",
+    "twitter_url": "https://x.com/PANews"
+  },
+  "https://resiliencemedia.co/hadean-the-ai-battle-simulation-startup-closes-bridge-round-ahead-of-a-big-b/": {
+    "valid": true,
+    "company": "Hadean, the AI battle simulation startup",
+    "amount_str": "",
+    "website": "https://hadean.com",
+    "linkedin_url": "",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/11/ev-startup-harbinger-reveals-a-smaller-work-truck-with-electric-and-hybrid-variants/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techbuzz.ai/articles/indrive-snaps-up-kravemart-to-challenge-foodpanda-in-pakistan": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://privacy-proxy.usercentrics.eu/latest/uc-block.bundle.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/sbva-invests-30-million-in-yann-lecunfounded-ami-to-pioneer-the-era-of-world-models-302709070.html": {
+    "valid": false
+  },
+  "https://www.forbes.com/sites/sofiachierchio/2026/03/11/wizs-founders-and-investors-cash-out-as-googles-32-billion-takeover-closes/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/sanjose/news/2026/03/11/mind-robotics-ai-funding-round.html": {
+    "valid": false
+  },
+  "https://techfundingnews.com/rhoda-ai-450m-series-a-stealth-exit-robotics/": {
+    "valid": true,
+    "company": "Khosla-backed Rhoda",
+    "amount_str": "$450M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.crowdfundinsider.com/2026/03/265223-jetstream-confirms-34m-seed-round-debuts-ai-governance-platform/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://stats.g.doubleclick.net",
+    "linkedin_url": "https://linkedin.com/company/google",
+    "founder_name": "CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Google"
+  },
+  "https://finance.yahoo.com/news/rivian-spinout-mind-robotics-valued-180654489.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https:&#x2F;&#x2F;www.yahoo.com&#x2F;",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thenextweb.com/news/outpost-raises-17-5m": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/jazz-lands-61-million-in-funding": {
+    "valid": false
   }
 }
