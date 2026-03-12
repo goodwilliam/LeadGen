@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-03-11T20:27:18.222168Z",
+  "generated_at": "2026-03-12T01:16:18.351257Z",
   "count": 32,
-  "enriched_count": 23,
+  "enriched_count": 24,
   "articles": [
+    {
+      "source": "SiliconAngle",
+      "title": "Rivian\u2019s industrial automation spinoff Mind Robotics secures $500M in funding",
+      "article_url": "https://siliconangle.com/2026/03/11/rivians-industrial-automation-spinoff-mind-robotics-secures-500m-funding/",
+      "company": "Rivian\u2019s industrial automation spinoff Mind Robotics",
+      "amount_str": "$500M",
+      "pub_date": "2026-03-12T00:35:20Z",
+      "website": "https://rivian.com",
+      "linkedin_url": "https://linkedin.com/company/rivian",
+      "founder_name": "founder and",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/rivian"
+    },
+    {
+      "source": "SiliconAngle",
+      "title": "Cybersecurity startup Kai raises $125M to build agent-driven AI security platform",
+      "article_url": "https://siliconangle.com/2026/03/11/cybersecurity-startup-kai-raises-125m-build-agent-driven-ai-security-platform/",
+      "company": "Kai",
+      "amount_str": "$125M",
+      "pub_date": "2026-03-11T22:51:24Z",
+      "website": "https://www.kai.security",
+      "linkedin_url": "https://linkedin.com/company/kai-security",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/kaisecurity"
+    },
     {
       "source": "TechCrunch",
       "title": "Almost 40 new unicorns have been minted so far this year \u2014 here they are",
@@ -299,6 +327,20 @@
     },
     {
       "source": "Google Alerts",
+      "title": "Anchr brings AI to America's food supply distribution chain with $5.8M raise - SiliconANGLE",
+      "article_url": "https://siliconangle.com/2026/03/10/anchr-brings-ai-americas-food-supply-distribution-chain-5-8m-raise/",
+      "company": "Anchr",
+      "amount_str": "$5.8M",
+      "pub_date": "2026-03-10T22:37:50Z",
+      "website": "https://anchr.tech",
+      "linkedin_url": "https://linkedin.com/company/anchr-ai",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
       "title": "AgentMail Raises $6M to Build Email for AI Agents | The Tech Buzz",
       "article_url": "https://www.techbuzz.ai/articles/agentmail-raises-6m-to-build-email-for-ai-agents",
       "company": "AgentMail",
@@ -352,48 +394,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": "https://x.com/Inc42"
-    },
-    {
-      "source": "SiliconAngle",
-      "title": "Yann LeCun\u2019s new startup AMI Labs raises $1.03B to train world models",
-      "article_url": "https://siliconangle.com/2026/03/10/yann-lecuns-new-startup-ami-labs-raises-1-03b-train-world-models/",
-      "company": "Yann LeCun\u2019s new startup AMI Labs",
-      "amount_str": "$1.03B",
-      "pub_date": "2026-03-10T21:10:05Z",
-      "website": "",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "SiliconAngle",
-      "title": "Anchr brings AI to America\u2019s food supply distribution chain with $5.8M raise",
-      "article_url": "https://siliconangle.com/2026/03/10/anchr-brings-ai-americas-food-supply-distribution-chain-5-8m-raise/",
-      "company": "Anchr",
-      "amount_str": "$5.8M",
-      "pub_date": "2026-03-10T16:35:12Z",
-      "website": "https://anchr.tech",
-      "linkedin_url": "https://linkedin.com/company/anchr-ai",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "SiliconAngle",
-      "title": "Rhoda AI raises $450M to build foundational robotics models that learn from internet videos",
-      "article_url": "https://siliconangle.com/2026/03/10/rhoda-ai-raises-450m-build-foundational-robotics-models-learn-internet-videos/",
-      "company": "Rhoda AI",
-      "amount_str": "$450M",
-      "pub_date": "2026-03-10T15:45:50Z",
-      "website": "https://pitchbook.com",
-      "linkedin_url": "https://linkedin.com/company/rhoda-ai",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "tech.eu",

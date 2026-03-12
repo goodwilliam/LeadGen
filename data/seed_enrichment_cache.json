@@ -1733,5 +1733,77 @@
   },
   "https://www.prnewswire.com/news-releases/highland-opportunities-and-income-fund-announces-investor-update-call-302711431.html": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/03/11/quince-series-e-10b-valuation-with-500m-round-led-by-iconiq/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/11/rivians-industrial-automation-spinoff-mind-robotics-secures-500m-funding/": {
+    "valid": true,
+    "company": "Rivian\u2019s industrial automation spinoff Mind Robotics",
+    "amount_str": "$500M",
+    "website": "https://rivian.com",
+    "linkedin_url": "https://linkedin.com/company/rivian",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/rivian"
+  },
+  "https://siliconangle.com/2026/03/11/despite-beating-expectations-posting-solid-guidance-uipaths-stock-slides-hours/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/11/cybersecurity-startup-kai-raises-125m-build-agent-driven-ai-security-platform/": {
+    "valid": true,
+    "company": "Kai",
+    "amount_str": "$125M",
+    "website": "https://www.kai.security",
+    "linkedin_url": "https://linkedin.com/company/kai-security",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/kaisecurity"
+  },
+  "https://siliconangle.com/2026/03/11/nvidia-invests-2b-ai-cloud-operator-nebius/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/sky-labs-annuncia-il-supporto-allestablished-investigator-award-for-clinical-hypertension-dellamerican-heart-association-302711565.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/sky-labs-ogasza-wsparcie-dla-nagrody-american-heart-association-established-investigator-award-for-clinical-hypertension-302711560.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/sky-labs-oznamuje-podporu-ocenenia-american-heart-association-established-investigator-award-for-clinical-hypertension-302711561.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/sky-labs-kondigt-ondersteuning-aan-voor-de-established-investigator-award-for-clinical-hypertension-van-de-american-heart-association-302711567.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/tcom-investors-have-opportunity-to-lead-tripcom-group-limited-securities-fraud-lawsuit-first-filed-by-the-rosen-law-firm-302711536.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/sky-labs-unterstutzt-den-established-investigator-award-for-clinical-hypertension-der-american-heart-association-302711553.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.cision.com/about/accessibility",
+    "linkedin_url": "https://linkedin.com/company/cision",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@cision.com",
+    "twitter_url": "https://x.com/cision"
+  },
+  "https://www.prnewswire.com/news-releases/sky-labs-lance-son-soutien-au-established-investigator-award-for-clinical-hypertension-de-lamerican-heart-association-302711552.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/sky-labs-----american-heart-association-established-investigator-award-for-clinical-hypertension-302711558.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/sky-labs-oznamuje-podporu-ocenni-american-heart-association-established-investigator-award-for-clinical-hypertension-302711563.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/sky-labs-anuncia-su-apoyo-al-established-investigator-award-for-clinical-hypertension-de-la-american-heart-association-302711556.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/sky-labs-launches-their-support-of-the-american-heart-associations-established-investigator-award-for-clinical-hypertension-302711551.html": {
+    "valid": false
   }
 }
