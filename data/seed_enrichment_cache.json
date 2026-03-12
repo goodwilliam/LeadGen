@@ -2218,5 +2218,436 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/12/wonderful-raises-150m-series-b-at-2b-valuation/": {
+    "valid": true,
+    "company": "Wonderful",
+    "amount_str": "$150M",
+    "website": "https://www.wonderful.com",
+    "linkedin_url": "https://linkedin.com/company/the-wonderful-company",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/nish-fox",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/12/ukrainian-estonian-defence-tech-startup-black-forest-systems-raises-400k-to-scale-infantry-drone-platform/": {
+    "valid": true,
+    "company": "Ukrainian-Estonian Defencetech Black Forest Systems",
+    "amount_str": "$400K",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/12/kodree-raises-10m-in-user-acquisition-financing-to-expand-ai-powered-edtech-platform-globally/": {
+    "valid": true,
+    "company": "Kodree",
+    "amount_str": "$10M",
+    "website": "https://kodree.com",
+    "linkedin_url": "https://linkedin.com/company/knowely",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@kodree.com",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/12/qdrant-raises-50m-bring-flexible-vector-search-production-ai-systems/": {
+    "valid": true,
+    "company": "Qdrant",
+    "amount_str": "$50M",
+    "website": "https://qdrant.tech",
+    "linkedin_url": "https://linkedin.com/company/qdrant",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@qdrant.com",
+    "twitter_url": "https://x.com/qdrant_engine"
+  },
+  "https://siliconangle.com/2026/03/12/oro-labs-raises-100m-expand-procurement-orchestration-platform/": {
+    "valid": true,
+    "company": "ORO Labs",
+    "amount_str": "$100M",
+    "website": "https://www.orolabs.ai",
+    "linkedin_url": "https://linkedin.com/company/procurewithoro",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/dan-stanton-59a9223b5",
+    "contact_email": "contact@orolabs.ai",
+    "twitter_url": "https://x.com/procurewithORO"
+  },
+  "https://siliconangle.com/2026/03/12/cryptio-raises-45m-build-erp-infrastructure-tokenized-digital-assets/": {
+    "valid": true,
+    "company": "Cryptio",
+    "amount_str": "$45M",
+    "website": "https://cryptio.co",
+    "linkedin_url": "https://linkedin.com/company/cryptio",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/antoine-scalia",
+    "contact_email": "",
+    "twitter_url": "https://x.com/cryptio_co"
+  },
+  "https://www.prnewswire.com/news-releases/seed-junky-genetics-announces-exclusive-arizona-licensing-agreement-with-halo-cannabis-302712607.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/eightco-nasdaq-orbs-sichert-sich-125-millionen-usd-an-institutionellen-zusagen-angefuhrt-von-von-bitmine-nyse-bmnr-cathie-woods-ark-invest-und-payward-um-in-technologie-der-nachsten-generation-zu-expandieren-302712601.html": {
+    "valid": false
+  },
+  "https://x.com/bittingthembits/status/2031874960906441070": {
+    "valid": true,
+    "company": "General Tensor",
+    "amount_str": "$5M",
+    "website": "https://www.generaltensor.io",
+    "linkedin_url": "https://linkedin.com/company/general-tensor",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@generaltensor.io",
+    "twitter_url": "https://x.com/generaltensor"
+  },
+  "https://x.com/keithrichman/status/2031745035507523813": {
+    "valid": true,
+    "company": "Yann LeCun just",
+    "amount_str": "$1.03B",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Alexandre LeBrun told TechCrunch",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/clairezau_the-man-who-helped-build-modern-ai-just-raised-activity-7437633025317687296-a006": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/finperks_finperks-raises-4-million-in-pre-seed-activity-7437399510789591040-xucM": {
+    "valid": true,
+    "company": "finperks",
+    "amount_str": "$4 m",
+    "website": "https://finperks.com",
+    "linkedin_url": "https://linkedin.com/company/finperks",
+    "founder_name": "And our",
+    "founder_linkedin_url": "",
+    "contact_email": "mustermann@email.com",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/tampabay/news/2026/03/12/miami-angles-new-world-angles.html": {
+    "valid": false
+  },
+  "https://www.satellitetoday.com/technology/2026/03/12/orbital-energy-firm-mantis-space-leaves-stealth-with-10m-seed-round/": {
+    "valid": false
+  },
+  "https://impactalpha.com/rasa-legal-raises-5-million-to-help-people-clear-criminal-records-and-access-jobs/": {
+    "valid": true,
+    "company": "Rasa Legal",
+    "amount_str": "$5 m",
+    "website": "https://rasa-legal.com",
+    "linkedin_url": "https://linkedin.com/company/rasa-legal",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/RasaLegal"
+  },
+  "https://pulse2.com/mantis-space-10-million-raised-for-orbital-energy-infrastructure-to-deliver-sunlight-anywhere-in-orbit/": {
+    "valid": false
+  },
+  "https://financialit.net/news/fundraising-news/kayna-raises-eu15-million-expand-uk-and-usa": {
+    "valid": true,
+    "company": "Kayna",
+    "amount_str": "\u20ac1.5 M",
+    "website": "https://www.kayna.com",
+    "linkedin_url": "",
+    "founder_name": "Paul Prendergast",
+    "founder_linkedin_url": "https://linkedin.com/in/paulincork",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fortune.com/2026/03/12/a16z-exec-steven-sinofsky-murky-dealings-jeffrey-epstein-previous-life-microsoft/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cxense.com/ari.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.satellitetoday.com/imagery-and-sensing/2026/03/12/airmo-earns-e5-million-in-seed-funding-plans-first-launch-for-2027/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.satshow.com",
+    "linkedin_url": "https://linkedin.com/company/satellite-conference-exhibition",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/SATELLITEDC"
+  },
+  "https://bebeez.eu/2026/03/12/germanys-airmo-raises-e5-million-to-detect-methane-leaks-from-space-with-satellite-launch-planned-for-2027/": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/03/germanys-airmo-raises-e5-million-to-detect-methane-leaks-from-space-with-satellite-launch-planned-for-2027/": {
+    "valid": false
+  },
+  "https://www.bloomberg.com/news/articles/2026-03-12/funding-rounds-have-never-been-bigger-in-europe-thanks-to-us-cash": {
+    "valid": false
+  },
+  "https://www.crowdfundinsider.com/2026/03/266273-sybilion-closes-4-2m-seed-round-to-build-exposure-engine/": {
+    "valid": true,
+    "company": "Sybilion",
+    "amount_str": "$4.2M",
+    "website": "https://www.sybilion.com",
+    "linkedin_url": "https://linkedin.com/company/sybilion",
+    "founder_name": "CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thenextweb.com/news/wonderful-series-b-enterprise-ai-agents": {
+    "valid": true,
+    "company": "The company",
+    "amount_str": "$150 m",
+    "website": "https://www.thecompanystore.com",
+    "linkedin_url": "https://linkedin.com/company/linkedin",
+    "founder_name": "with Israeli",
+    "founder_linkedin_url": "",
+    "contact_email": "custserv@thecompanystore.com",
+    "twitter_url": "https://x.com/thecompanystore"
+  },
+  "https://www.thesaasnews.com/news/sybilion-raises-4-2m-seed-round": {
+    "valid": true,
+    "company": "Sybilion",
+    "amount_str": "$4.2M",
+    "website": "https://sybilion.com",
+    "linkedin_url": "https://linkedin.com/company/sybilion",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://finance.yahoo.com/news/mantis-space-emerges-stealth-10m-120000616.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https:&#x2F;&#x2F;www.yahoo.com&#x2F;",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bebeez.eu/2026/03/12/barcelonas-delfos-energy-raises-e3m-to-build-ai-virtual-engineer-for-the-energy-industry-as-it-charges-up-for-series-a/": {
+    "valid": false
+  },
+  "https://www.calcalistech.com/ctechnews/article/mzl1gy8tx": {
+    "valid": true,
+    "company": "Wonderful",
+    "amount_str": "$150 m",
+    "website": "https://www.wonderful.com",
+    "linkedin_url": "https://linkedin.com/company/the-wonderful-company",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/nish-fox",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.calcalistech.com/ctechnews/article/skcwxqx5bl": {
+    "valid": true,
+    "company": "Bold",
+    "amount_str": "$28 m",
+    "website": "https://link.us.paramountplus.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/rajat-jadhav-95b482101",
+    "contact_email": "",
+    "twitter_url": "https://x.com/paramountplus"
+  },
+  "https://spacenews.com/mantis-space-emerges-from-stealth-with-10-million-for-solar-power-constellation/": {
+    "valid": false
+  },
+  "https://www.accessnewswire.com/newsroom/en/banking-and-financial-services/ezra-raises-8-million-seed-round-to-build-institutional-grade-ai-inf-1140864": {
+    "valid": true,
+    "company": "Ezra",
+    "amount_str": "$8 M",
+    "website": "https://www.ezra.net",
+    "linkedin_url": "https://linkedin.com/company/ezrainc",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/ezra-hedrick-5036953b5",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bignewsnetwork.com/news/278917781/ezra-raises-8-million-seed-round-to-build-institutional-grade-ai-infrastructure-for-private-capital-markets": {
+    "valid": true,
+    "company": "Ezra",
+    "amount_str": "$8 M",
+    "website": "https://www.ezra.net",
+    "linkedin_url": "https://linkedin.com/company/ezrainc",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/ezra-ma-318892238",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/timmyhmshen/status/2031991676248694802": {
+    "valid": false
+  },
+  "https://wnhub.io/news/investment/item-50323": {
+    "valid": false
+  },
+  "https://www.zawya.com/en/press-release/companies-news/mambu-selected-as-core-banking-provider-by-nyla-africas-first-islamic-neobank-azqgw7db": {
+    "valid": false
+  },
+  "https://techfundingnews.com/waiv-33m-ai-oncology-spinout/": {
+    "valid": true,
+    "company": "Owkin spinout Waiv",
+    "amount_str": "$33M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://blog.thinklions.com/pre-seed-funding": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/fintech-global_prepaid-payments-startup-raises-4m-pre-seed-activity-7437807312184094721-56lL": {
+    "valid": true,
+    "company": "Prepaid payments startup",
+    "amount_str": "$4m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thenextweb.com/news/neuramancer-deepfake-detection-preseed-funding": {
+    "valid": false
+  },
+  "https://www.kucoin.com/news/flash/general-tensor-completes-5m-seed-and-pre-seed-funding-for-bittensor-infrastructure": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://assets.staticimg.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.kucoin.com/news/flash/bittensor-infrastructure-startup-general-tensor-secures-5m-in-oversubscribed-seed-and-pre-seed-rounds": {
+    "valid": true,
+    "company": "Bittensor infrastructure startup General Tensor",
+    "amount_str": "$5M",
+    "website": "https://www.panewslab.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "panews@panony.com",
+    "twitter_url": "https://x.com/PANews"
+  },
+  "https://fintech.global/2026/03/12/openai-acquires-promptfoo-to-secure-ai-development/": {
+    "valid": false
+  },
+  "https://ynaija.com/role-models-nigerian-women-leading-change-across-industries/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "http://redafrica.xyz",
+    "linkedin_url": "https://linkedin.com/company/redmediaafrica",
+    "founder_name": "of The Discovery Centre",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/redmediaafrica"
+  },
+  "https://www.intelligentinsurer.com/insurtech-kayna-secures-euro15m-funding-to-expand-embedded-insurance": {
+    "valid": false
+  },
+  "https://fintech.global/2026/03/12/prepaid-payments-startup-raises-4m-pre-seed-round/": {
+    "valid": true,
+    "company": "Prepaid payments startup",
+    "amount_str": "$4m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/03/12/agentmail-raises-6m-to-build-email-infrastructure-for-ai-agents/": {
+    "valid": true,
+    "company": "AgentMail",
+    "amount_str": "$6M",
+    "website": "https://agentmail.io",
+    "linkedin_url": "https://linkedin.com/company/agentmailto",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/mind-robotics-500m-series-a-ai-industrial-robotics/": {
+    "valid": false
+  },
+  "https://eromang.zataz.com/2026/03/11/quantro-security-emerges-from-stealth-with-2-5-million-in-funding/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.securityweek.com/quantro-security-emerges-from-stealth-with-2-5-million-in-funding",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.theinformation.com/newsletters/ai-agenda/nvidia-startups-race-make-openclaw-safer-use": {
+    "valid": false
+  },
+  "https://www.constructiondive.com/news/contech-funding-fyld-sensera-xbuild-moab-payra/814452/": {
+    "valid": true,
+    "company": "6 contech firms",
+    "amount_str": "$126M",
+    "website": "https://finance.yahoo.com",
+    "linkedin_url": "https://linkedin.com/company/yahoo-finance",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/YahooFinance"
+  },
+  "https://bitcoinmagazine.com/news/ark-labs-raises-5-2m-with-tether": {
+    "valid": true,
+    "company": "Ark Labs announced it",
+    "amount_str": "$5.2 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "former vice",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bignewsnetwork.com/news/278917897/fintech-sandbox-names-lucas-timberlake-as-new-executive-director": {
+    "valid": false
+  },
+  "https://x.com/SaloneSehgal/status/2031964168874815916": {
+    "valid": true,
+    "company": "Nursing exam prep startup NPrep",
+    "amount_str": "$1.5 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
