@@ -3595,5 +3595,134 @@
   },
   "https://x.com/inc_arabia/status/2032343399802576902": {
     "valid": false
+  },
+  "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-robotics-ecommerce-quince/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/shareholder-alert-levi--korsinsky-llp-notifies-stockholders-of-an-investigation-into-the-fairness-of-the-acquisition-of-european-wax-center-inc-302713627.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/franklin-bsp-realty-trust-inc-fbrt-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302713598.html": {
+    "valid": false
+  },
+  "https://heatmap.news/climate-tech/copenhagen-infrastructure-partners-electra": {
+    "valid": false
+  },
+  "https://www.bloomberg.com/news/features/2026-03-13/former-cia-spies-launch-defense-tech-startups-to-tap-338-billion-market": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.datacenterdynamics.com/en/news/solid-state-transformer-developer-hyperscale-power-raises-5m-in-seed-round/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/03/13/amigo-ai-raises-11m-series-a-to-train-clinical-ai-agents-like-doctors/": {
+    "valid": true,
+    "company": "Amigo AI",
+    "amount_str": "$11M",
+    "website": "https://www.amigoai.io",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hi@amigoai.io",
+    "twitter_url": ""
+  },
+  "https://www.agtechnavigator.com/Article/2026/03/13/leaps-by-bayer-pushes-back-after-critics-say-its-playbook-alienates-earlystage-innovators/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://ag-playbook.vercel.app",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://entarabi.com/en/2026/03/yassir-acquires-uno-stores-to-support-the-e-commerce-sector-in-algeria-and-africa/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "of Gammbaz",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.reddit.com/r/StartUpIndia/comments/1rsl5be/looking_for_preseed_funding_for_an_aipowered/": {
+    "valid": false
+  },
+  "https://nextunicorn.ventures/innovative-voice-capturing-pendant-taya-raises-5-million-in-seed-funding/": {
+    "valid": true,
+    "company": "Speculation has successfully",
+    "amount_str": "$5 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://gizmodo.com/startup-emerges-from-stealth-with-bold-plan-to-beam-solar-power-to-satellites-2000733449": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://news.yale.edu/2026/03/13/nevada-based-startup-delivering-prescription-drugs-older-adults-and-beyond": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://subscribe.yale.edu/browse",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/southflorida/news/2026/03/13/company-to-combat-ai-fraud-with-palm-scans.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.gurufocus.com/news/8708121/jpmorgans-strategic-move-into-startup-banking-after-svb-collapse": {
+    "valid": false
+  },
+  "https://finance.yahoo.com/news/pip-labs-sheds-staff-story-154830147.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://decrypt.co/361027/pip-labs-sheds-staff-story-protocol-ai",
+    "linkedin_url": "https://linkedin.com/company/decrypt-media",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "you@emailaddress.com",
+    "twitter_url": "https://x.com/SPChinchali"
+  },
+  "https://www.startupmag.co.uk/funding/weekly-briefing-13-03-2026/": {
+    "valid": false
+  },
+  "https://longevity.technology/news/tmrw-lands-7m-to-expand-longevity-clinics/": {
+    "valid": false
+  },
+  "https://thenextafrica.com/funding-milestone-for-enko-education-signals-growth-in-africas-international-education-sector/": {
+    "valid": false
   }
 }

@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-03-13T16:35:07.777415Z",
-  "count": 22,
-  "enriched_count": 18,
+  "generated_at": "2026-03-13T20:28:05.068808Z",
+  "count": 21,
+  "enriched_count": 16,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Innovative Voice-Capturing Pendant Taya Raises $5 Million in Seed Funding - Next Unicorn",
+      "article_url": "https://nextunicorn.ventures/innovative-voice-capturing-pendant-taya-raises-5-million-in-seed-funding/",
+      "company": "Speculation has successfully",
+      "amount_str": "$5 m",
+      "pub_date": "2026-03-13T19:58:44Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Amigo AI Raises $11M Series A to Train Clinical AI Agents Like Doctors - AI Insider",
+      "article_url": "https://theaiinsider.tech/2026/03/13/amigo-ai-raises-11m-series-a-to-train-clinical-ai-agents-like-doctors/",
+      "company": "Amigo AI",
+      "amount_str": "$11M",
+      "pub_date": "2026-03-13T16:53:31Z",
+      "website": "https://www.amigoai.io",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "hi@amigoai.io",
+      "twitter_url": ""
+    },
     {
       "source": "tech.eu",
       "title": "Nscale raises $2B, Legora makes first acquisition, and the 28th regime in trouble?",
@@ -47,20 +75,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "ZyG raised $58M in Seed funding to use #AIAgents and financing to predict product demand ... - X",
-      "article_url": "https://x.com/SwissCognitive/status/2032202518738948267",
-      "company": "ZyG",
-      "amount_str": "$58M",
-      "pub_date": "2026-03-13T12:07:34Z",
-      "website": "https://www.pokemoncenter.com",
-      "linkedin_url": "https://linkedin.com/company/zyg-edge",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "ReFiBuy launches agentic commerce platform for retailers - Triangle Business Journal",
       "article_url": "https://www.bizjournals.com/triangle/news/2026/03/13/refibuy-channeladvisor-wingo-agentic-ai-ecommerce.html",
       "company": "ReFiBuy",
@@ -86,20 +100,6 @@
       "founder_linkedin_url": "",
       "contact_email": "custserv@thecompanystore.com",
       "twitter_url": "https://x.com/thecompanystore"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Uno Platform Secures $2.54M Seed for Enterprise Developer Tools | StartupHub .ai",
-      "article_url": "https://www.startuphub.ai/news/uno-platform-secures-254m-seed-for-enterprise-developer-tools",
-      "company": "Uno Platform",
-      "amount_str": "$2.54M",
-      "pub_date": "2026-03-13T09:56:49Z",
-      "website": "https://platform.uno",
-      "linkedin_url": "https://linkedin.com/company/uno-platform",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "info@platform.uno",
-      "twitter_url": "https://x.com/i"
     },
     {
       "source": "tech.eu",
@@ -181,20 +181,6 @@
       "website": "https://www.translucent.ai",
       "linkedin_url": "https://linkedin.com/company/translucentai",
       "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Wonderful raises $150 million for its AI agent platform - NewsBytes",
-      "article_url": "https://www.newsbytesapp.com/news/business/wonderful-raises-150-million-for-its-ai-agent-platform/tldr",
-      "company": "Wonderful",
-      "amount_str": "$150 m",
-      "pub_date": "2026-03-12T15:59:57Z",
-      "website": "https://www.wonderful.com",
-      "linkedin_url": "https://linkedin.com/company/the-wonderful-company",
-      "founder_name": "by Wink and Lalazar",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
