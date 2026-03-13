@@ -1,8 +1,64 @@
 {
-  "generated_at": "2026-03-13T01:23:25.626711Z",
-  "count": 27,
+  "generated_at": "2026-03-13T05:11:59.844171Z",
+  "count": 31,
   "enriched_count": 21,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Sybilion: \u20ac3.6 Million Raised To Build AI Decision Layer For Industrial Companies",
+      "article_url": "https://pulse2.com/sybilion-e3-6-million-raised-to-build-ai-decision-layer-for-industrial-companies/",
+      "company": "Porto-based AI startup Sybilion",
+      "amount_str": "$4.2 m",
+      "pub_date": "2026-03-13T03:21:51Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "CEO And",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Israeli AI cyber startup Onyx Security raises $40m seed round - Tech in Asia",
+      "article_url": "https://www.techinasia.com/news/israeli-ai-cyber-startup-onyx-security-raises-40m-seed",
+      "company": "Israeli AI cyber startup Onyx Security",
+      "amount_str": "$40m",
+      "pub_date": "2026-03-13T02:38:06Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "founder and",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "SiliconAngle",
+      "title": "Verifiable AI startup Axiom raises $200M to prove AI-generated code is safe to use",
+      "article_url": "https://siliconangle.com/2026/03/12/verifiable-ai-startup-axiom-raises-200m-prove-ai-generated-code-safe-use/",
+      "company": "Verifiable AI startup Axiom",
+      "amount_str": "$200M",
+      "pub_date": "2026-03-13T01:22:40Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Ezra Raises $8 Million Seed Round to Build Institutional-Grade AI Infrastructure for Private ...",
+      "article_url": "https://www.usatoday.com/press-release/story/28184/ezra-raises-8-million-seed-round-to-build-institutional-grade-ai-infrastructure-for-private-capital-markets/",
+      "company": "Ezra",
+      "amount_str": "$8 M",
+      "pub_date": "2026-03-13T00:15:11Z",
+      "website": "https://www.ezra.net",
+      "linkedin_url": "https://linkedin.com/company/ezrainc",
+      "founder_name": "",
+      "founder_linkedin_url": "https://linkedin.com/in/ezrabrand",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "SiliconAngle",
       "title": "Bold Security and Onyx Security raise $40M each to tackle emerging AI cybersecurity risks",
@@ -44,6 +100,20 @@
       "founder_linkedin_url": "https://linkedin.com/in/sundayriley",
       "contact_email": "info@sunday.ai",
       "twitter_url": "https://x.com/sundayrobotics"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Chesterbrook's Persevere Therapeutics Raises $1.57M, Acquires Cancer Drug in Stealth Exit",
+      "article_url": "https://philadelphia.today/2026/03/chesterbrook-persevere-therapeutics/",
+      "company": "Chesterbrook's Persevere Therapeutics",
+      "amount_str": "$1.57M",
+      "pub_date": "2026-03-12T23:10:48Z",
+      "website": "https://vista.today",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
     },
     {
       "source": "Google Alerts",
@@ -114,20 +184,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": "https://x.com/indstartupnews"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Stake closes $8m round and acquires UMoveFree - FinTech Global",
-      "article_url": "https://fintech.global/2026/03/12/stake-closes-8m-round-and-acquires-umovefree/",
-      "company": "Stake",
-      "amount_str": "$8m",
-      "pub_date": "2026-03-12T16:59:01Z",
-      "website": "https://getyourstake.com",
-      "linkedin_url": "https://linkedin.com/company/getyourstake",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/getyourstake"
     },
     {
       "source": "Google Alerts",

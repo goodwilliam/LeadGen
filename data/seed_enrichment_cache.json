@@ -3075,5 +3075,83 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/12/verifiable-ai-startup-axiom-raises-200m-prove-ai-generated-code-safe-use/": {
+    "valid": true,
+    "company": "Verifiable AI startup Axiom",
+    "amount_str": "$200M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/12/ai-agent-development-startup-wonderful-reels-150m/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://d15shllkswkct0.cloudfront.net/wp-includes/wlwmanifest.xml",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/singapores-metacomp-raises-pre-a-round-backed-by-alibaba-closing-total-us35-million-pre-a-funding-in-3-months-to-accelerate-asias-regulated-web2-5-pay-and-wealth1-group-level-platform-302713119.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-notice-snowflake-inc-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit-302711934.html": {
+    "valid": false
+  },
+  "https://pulse2.com/sybilion-e3-6-million-raised-to-build-ai-decision-layer-for-industrial-companies/": {
+    "valid": true,
+    "company": "Porto-based AI startup Sybilion",
+    "amount_str": "$4.2 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "CEO And",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techinasia.com/news/israeli-ai-cyber-startup-onyx-security-raises-40m-seed": {
+    "valid": true,
+    "company": "Israeli AI cyber startup Onyx Security",
+    "amount_str": "$40m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.jsonline.com/press-release/story/162675/openjobs-ai-raises-a-multi-million-dollar-seed-round-to-build-the-first-agent-first-recruiting-platform/": {
+    "valid": false
+  },
+  "https://www.usatoday.com/press-release/story/28184/ezra-raises-8-million-seed-round-to-build-institutional-grade-ai-infrastructure-for-private-capital-markets/": {
+    "valid": true,
+    "company": "Ezra",
+    "amount_str": "$8 M",
+    "website": "https://www.ezra.net",
+    "linkedin_url": "https://linkedin.com/company/ezrainc",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/ezrabrand",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/opencfo-secures-2-million-in-funding": {
+    "valid": false
+  },
+  "https://philadelphia.today/2026/03/chesterbrook-persevere-therapeutics/": {
+    "valid": true,
+    "company": "Chesterbrook's Persevere Therapeutics",
+    "amount_str": "$1.57M",
+    "website": "https://vista.today",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
