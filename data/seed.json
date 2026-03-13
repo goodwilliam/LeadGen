@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-03-13T05:11:59.844171Z",
+  "generated_at": "2026-03-13T08:33:00.010884Z",
   "count": 31,
-  "enriched_count": 21,
+  "enriched_count": 20,
   "articles": [
+    {
+      "source": "tech.eu",
+      "title": "Tower secures \u20ac5.5M to support data engineers in the AI era",
+      "article_url": "https://tech.eu/2026/03/13/tower-secures-eur55m-to-support-data-engineers-in-the-ai-era/",
+      "company": "Tower",
+      "amount_str": "\u20ac5.5M",
+      "pub_date": "2026-03-13T08:00:00Z",
+      "website": "https://www.tower.com",
+      "linkedin_url": "https://linkedin.com/company/tower-research-capital",
+      "founder_name": "",
+      "founder_linkedin_url": "https://linkedin.com/in/toddtower",
+      "contact_email": "back-in-stock@notifyboost.net",
+      "twitter_url": "https://x.com/TowerRecords"
+    },
     {
       "source": "Google Alerts",
       "title": "Sybilion: \u20ac3.6 Million Raised To Build AI Decision Layer For Industrial Companies",
@@ -158,6 +172,20 @@
       "twitter_url": ""
     },
     {
+      "source": "Google Alerts",
+      "title": "Entrepreneurs First Raises $200 Million to Back Global Founders, Expands India Startup Portfolio",
+      "article_url": "https://www.tice.news/tice-trending/entrepreneurs-first-raises-200-million-to-back-next-generation-of-global-founders-strengthens-india-push-11205363",
+      "company": "Entrepreneurs First",
+      "amount_str": "$200 M",
+      "pub_date": "2026-03-12T18:57:11Z",
+      "website": "https://apply.joinef.com",
+      "linkedin_url": "https://linkedin.com/company/entrepreneurs-first",
+      "founder_name": "Million to Back Global",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
       "source": "SiliconAngle",
       "title": "Translucent raises $27M to help healthcare firms automate financial visibility",
       "article_url": "https://siliconangle.com/2026/03/12/translucent-raises-27m-help-healthcare-firms-automate-financial-visibility/",
@@ -167,48 +195,6 @@
       "website": "https://www.translucent.ai",
       "linkedin_url": "https://linkedin.com/company/translucentai",
       "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Constems AI Systems raises $2 Mn led by Finvolve and India Accelerator - Medial App",
-      "article_url": "https://medial.app/news/constems-ai-systems-raises-dollar2-mn-led-by-finvolve-and-india-accelerator-0492600d86779",
-      "company": "Defence tech startup Ammunic Systems",
-      "amount_str": "$1.1 m",
-      "pub_date": "2026-03-12T17:35:34Z",
-      "website": "https://indianstartupnews.com",
-      "linkedin_url": "https://linkedin.com/company/indianstartupnews",
-      "founder_name": "Priyanka Singhal",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/indstartupnews"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Kinewell lands \u00a3750000 pre-seed to cut offshore wind cabling costs with AI",
-      "article_url": "https://www.startupmag.co.uk/funding/kinewell-2026-pre-seed-funding",
-      "company": "Kinewell",
-      "amount_str": "",
-      "pub_date": "2026-03-12T16:18:38Z",
-      "website": "https://kinewell.co.uk",
-      "linkedin_url": "https://linkedin.com/company/kinewell-energy-ltd",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Another Earth raises $4 million to boost AI training with synthetic satellite data - SpaceNews",
-      "article_url": "https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/",
-      "company": "Another Earth",
-      "amount_str": "$4 m",
-      "pub_date": "2026-03-12T16:12:22Z",
-      "website": "https://another.earth",
-      "linkedin_url": "https://linkedin.com/company/anotherearth",
-      "founder_name": "Another Earth CEO and",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
@@ -310,6 +296,20 @@
       "founder_linkedin_url": "https://linkedin.com/in/antoine-scalia",
       "contact_email": "",
       "twitter_url": "https://x.com/cryptio_co"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Prepaid payments startup raises $4m pre-seed round | FinTech Global - LinkedIn",
+      "article_url": "https://www.linkedin.com/posts/fintech-global_prepaid-payments-startup-raises-4m-pre-seed-activity-7437807312184094721-56lL",
+      "company": "Prepaid payments startup",
+      "amount_str": "$4m",
+      "pub_date": "2026-03-12T12:40:39Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
     },
     {
       "source": "tech.eu",

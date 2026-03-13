@@ -3153,5 +3153,84 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/13/tower-secures-eur55m-to-support-data-engineers-in-the-ai-era/": {
+    "valid": true,
+    "company": "Tower",
+    "amount_str": "\u20ac5.5M",
+    "website": "https://www.tower.com",
+    "linkedin_url": "https://linkedin.com/company/tower-research-capital",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/toddtower",
+    "contact_email": "back-in-stock@notifyboost.net",
+    "twitter_url": "https://x.com/TowerRecords"
+  },
+  "https://www.prnewswire.com/news-releases/global-counter-unmanned-aerial-system-uas-market-set-to-reach-usd-27-98-billion-by-2032-as-rising-drone-threats-drive-defense-investments--markntel-advisors-302712335.html": {
+    "valid": false
+  },
+  "https://techfundingnews.com/bladder-cancer-innovator-combat-raises-2-6m-for-phase-3-milestone/": {
+    "valid": false
+  },
+  "https://x.com/innoworkspro/status/2032178194741436464": {
+    "valid": false
+  },
+  "https://x.com/obrien/status/2032049861231583522": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.d74f1a3a.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://kr-asia.com/alibaba-leads-rmb-500-million-investment-in-bci-startup-stairmed": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/backops-raises-26-million-in-series-a": {
+    "valid": false
+  },
+  "https://www.devdiscourse.com/article/technology/3836549-bengalurus-tech-talent-boom-how-entrepreneurs-first-is-paving-the-way": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.jsdelivr.net",
+    "linkedin_url": "https://linkedin.com/company/jsdelivr",
+    "founder_name": "program supports",
+    "founder_linkedin_url": "",
+    "contact_email": "d@jsdelivr.com",
+    "twitter_url": "https://x.com/jsdelivr"
+  },
+  "https://x.com/TFNBreakingNews/status/2032152987653812571": {
+    "valid": false
+  },
+  "https://www.tice.news/tice-trending/entrepreneurs-first-raises-200-million-to-back-next-generation-of-global-founders-strengthens-india-push-11205363": {
+    "valid": true,
+    "company": "Entrepreneurs First",
+    "amount_str": "$200 M",
+    "website": "https://apply.joinef.com",
+    "linkedin_url": "https://linkedin.com/company/entrepreneurs-first",
+    "founder_name": "Million to Back Global",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thenextweb.com/news/airmo-seed-funding-methane-monitoring-satellite-2027": {
+    "valid": false
+  },
+  "https://www.pressreader.com/india/mint-delhi/20260313/281771340699453": {
+    "valid": false
+  },
+  "https://www.facebook.com/techinasia/posts/hanoi-based-earned-wage-access-startup-ekko-has-raised-us42-million-in-seed-fund/1338595648303438/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
