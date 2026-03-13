@@ -2851,5 +2851,229 @@
   },
   "https://www.startupmag.co.uk/funding/amplisi-2026-pre-seed-funding/": {
     "valid": false
+  },
+  "https://siliconangle.com/2026/03/12/bold-security-onyx-security-raise-40m-tackle-emerging-ai-cybersecurity-risks/": {
+    "valid": true,
+    "company": "Bold Security and Onyx Security",
+    "amount_str": "$40M",
+    "website": "https://www.bold.security",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/12/vibe-coding-startup-replit-closes-400m-round-9b-valuation/": {
+    "valid": true,
+    "company": "Vibe coding startup Replit",
+    "amount_str": "$400M",
+    "website": "https://agooka.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/12/sunday-raises-165m-1-15b-valuation-launch-memo-household-robot/": {
+    "valid": true,
+    "company": "Sunday",
+    "amount_str": "$165M",
+    "website": "https://www.sunday.ai",
+    "linkedin_url": "https://linkedin.com/company/sundaytech",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/sundayriley",
+    "contact_email": "info@sunday.ai",
+    "twitter_url": "https://x.com/sundayrobotics"
+  },
+  "https://www.geekwire.com/2026/heres-the-pitch-uw-students-get-in-the-room-with-key-investors-to-share-their-ai-startup-ideas/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/singapores-metacomp-raises-pre-a-round-backed-by-alibaba-closing-total-us35-million-pre-a-funding-in-3-months-to-accelerate-asias-regulated-web2-5-pay-and-wealth1-group-level-platform-302712971.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-victorias-secret--co---vsco-302712912.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-encompass-health-corporation---ehc-302712900.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-reminds-investors-with-losses-on-their-investment-in-aquestive-therapeutics-inc-of-class-action-lawsuit-and-upcoming-deadlines--aqst-302712894.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/bbwi-deadline-bbwi-investors-have-opportunity-to-lead-bath--body-works-inc-securities-fraud-lawsuit-302712781.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-reminds-investors-with-losses-on-their-investment-in-tripcom-group-limited-of-class-action-lawsuit-and-upcoming-deadlines--tcom-302712919.html": {
+    "valid": false
+  },
+  "https://www.registerguard.com/press-release/story/43329/canopii-debuts-autonomous-robotic-greenhouse-and-launches-seed-round-to-scale-local-food-production/": {
+    "valid": false
+  },
+  "https://www.pymnts.com/artificial-intelligence-2/2026/wonderful-raises-150-million-to-help-enterprises-deploy-ai-agents/": {
+    "valid": true,
+    "company": "Wonderful",
+    "amount_str": "$150 M",
+    "website": "https://www.wonderful.com",
+    "linkedin_url": "https://linkedin.com/company/the-wonderful-company",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.indexbox.io/blog/sales-automation-startup-rox-reaches-12-billion-valuation/": {
+    "valid": false
+  },
+  "https://www.forbes.com.au/news/innovation/what-is-harvey-ai-the-legal-tech-decacorn-changing-how-lawyers-work/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/": {
+    "valid": true,
+    "company": "Gumloop",
+    "amount_str": "$50M",
+    "website": "https://www.gumloop.com",
+    "linkedin_url": "https://linkedin.com/company/gumloop",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/gumloop"
+  },
+  "https://techcrunch.com/2026/03/12/group14-opens-factory-to-produce-battery-materials-for-flash-charging-evs/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://aviationweek.com/space/commercial-space/orbital-solar-power-provider-startup-mantis-space-announces-funds": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://aviation.informaexhibitions.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/aviationweek"
+  },
+  "https://thelogic.co/news/bdc-defence-financing-6-billion/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://thelogic.applytojobs.ca",
+    "linkedin_url": "",
+    "founder_name": "including as",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.coastreporter.net/the-mix/business-development-bank-boosts-funds-available-to-defence-sector-entrepreneurs-11992822": {
+    "valid": false
+  },
+  "https://medial.app/news/constems-ai-systems-raises-dollar2-mn-led-by-finvolve-and-india-accelerator-0492600d86779": {
+    "valid": true,
+    "company": "Defence tech startup Ammunic Systems",
+    "amount_str": "$1.1 m",
+    "website": "https://indianstartupnews.com",
+    "linkedin_url": "https://linkedin.com/company/indianstartupnews",
+    "founder_name": "Priyanka Singhal",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/indstartupnews"
+  },
+  "https://fintech.global/2026/03/12/stake-closes-8m-round-and-acquires-umovefree/": {
+    "valid": true,
+    "company": "Stake",
+    "amount_str": "$8m",
+    "website": "https://getyourstake.com",
+    "linkedin_url": "https://linkedin.com/company/getyourstake",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/getyourstake"
+  },
+  "https://www.startupdaily.net/topic/funding/construction-tech-startup-raises-850000-pre-seed-after-irish-move/": {
+    "valid": false
+  },
+  "https://www.mexc.co/en-IN/news/914542": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://trochilus-web.gotoda.co/trochilus-web-sdk-integration.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.mexc.com/news/914542": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://trochilus-web.gotoda.co/trochilus-web-sdk-integration.js",
+    "linkedin_url": "",
+    "founder_name": "Lvna Capital CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupresearcher.com/news/deepfake-detector-neuramancer-secures-usd1-9-million-in-pre-seed-funding": {
+    "valid": false
+  },
+  "https://www.founderstoday.news/neuramancer-raises-1-7m-pre-seed/": {
+    "valid": false
+  },
+  "https://www.govconwire.com/articles/aix-tech-dha-acquisition-support-idiq": {
+    "valid": false
+  },
+  "https://www.startup.eu/investments/3kq5VZ": {
+    "valid": true,
+    "company": "PerpTools",
+    "amount_str": "",
+    "website": "https://perptools.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/perptools"
+  },
+  "https://www.axios.com/pro/all-deals/2026/03/12/pro-rata-premium-first-look": {
+    "valid": false
+  },
+  "https://arkadelphian.com/2026/03/12/hsu-college-of-business-announces-tad-judy-krug-entrepreneurship-institute/?amp=1": {
+    "valid": false
+  },
+  "https://resiliencemedia.co/weekly-digest-iranian-ballistic-missiles-slip-past-us-and-uk-defence-systems-in-the-gulf-while-ukraines-startups-deploy-low-cost-interceptors/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://bsky.app/profile/resiliencemedia.bsky.social",
+    "linkedin_url": "",
+    "founder_name": "Atmos Space Cargo",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
