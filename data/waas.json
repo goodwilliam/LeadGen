@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T06:39:48Z",
+  "generated_at": "2026-03-13T12:35:59Z",
   "count": 21,
   "jobs": [
     {
@@ -13,7 +13,7 @@
       "companyBatch": "F25",
       "companyOneLiner": "TikTok for language learning",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/a9603ad6a62ae3ee9c8723521f8f2d852d664a89.png",
-      "companyLastActiveAt": "7 days ago",
+      "companyLastActiveAt": "8 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D90847&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=30848"
     },
     {
@@ -195,7 +195,7 @@
       "companyBatch": "S23",
       "companyOneLiner": "AI-Native CPQ & Billing for Modern Pricing Models",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/2e2a3ced5969028060bbaaf152193b5b6a2b3982.png",
-      "companyLastActiveAt": "1 day ago",
+      "companyLastActiveAt": "2 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D88819&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28844"
     },
     {
@@ -241,20 +241,6 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D91163&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=27959"
     },
     {
-      "id": 91639,
-      "title": "Product Design Lead ",
-      "jobType": "fulltime",
-      "location": "New York, NY, US",
-      "roleType": "Product design",
-      "companyName": "Hadrius",
-      "companySlug": "hadrius",
-      "companyBatch": "W23",
-      "companyOneLiner": "Automating Securities Compliance",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/860789e4b5347ff0d9c534e39f80af9c01143ab3.png",
-      "companyLastActiveAt": null,
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D91639&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=27943"
-    },
-    {
       "id": 71479,
       "title": "Senior Product Designer",
       "jobType": "fulltime",
@@ -269,6 +255,20 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D71479&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=27943"
     },
     {
+      "id": 91639,
+      "title": "Product Design Lead ",
+      "jobType": "fulltime",
+      "location": "New York, NY, US",
+      "roleType": "Product design",
+      "companyName": "Hadrius",
+      "companySlug": "hadrius",
+      "companyBatch": "W23",
+      "companyOneLiner": "Automating Securities Compliance",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/860789e4b5347ff0d9c534e39f80af9c01143ab3.png",
+      "companyLastActiveAt": null,
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D91639&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=27943"
+    },
+    {
       "id": 84438,
       "title": "Senior Product Designer",
       "jobType": "fulltime",
@@ -279,7 +279,7 @@
       "companyBatch": "W23",
       "companyOneLiner": "Fast, Transparent Patient Experiences",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/9ce9a2d0eb717408f7a56ad8fd6c76940b02a6a9.png",
-      "companyLastActiveAt": "15 days ago",
+      "companyLastActiveAt": "16 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D84438&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=27811"
     },
     {
