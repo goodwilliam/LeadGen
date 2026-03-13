@@ -3358,5 +3358,242 @@
     "founder_linkedin_url": "https://linkedin.com/in/sharadkumar123",
     "contact_email": "sales@fuelcloud.com",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/13/valve-steam-malware-games-fbi/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/13/nscale-raises-2b-legora-makes-first-acquisition-and-the-28th-regime-in-trouble/": {
+    "valid": true,
+    "company": "Nscale",
+    "amount_str": "$2B",
+    "website": "https://www.nscale.com",
+    "linkedin_url": "https://linkedin.com/company/nscale-cloud",
+    "founder_name": "European standard",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/nscale_cloud"
+  },
+  "https://siliconangle.com/2026/03/13/ai-startups-funding-frenzy-aws-goes-next-whats-coming-nvidias-gtc-event/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/netflix-to-announce-first-quarter-2026-financial-results-302712162.html": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/sports/nba/jj-redick-s-strong-message-after-lakers-end-four-game-losing-streak/ar-AA1B2NPc?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": false
+  },
+  "https://usethebitcoin.com/news/veryai-10m-palm-scan-solana/": {
+    "valid": true,
+    "company": "VeryAI",
+    "amount_str": "$10M",
+    "website": "https://very.org",
+    "linkedin_url": "https://linkedin.com/company/very-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@very.org",
+    "twitter_url": "https://x.com/veryai"
+  },
+  "https://ventureburn.com/veryai-secures-10m/": {
+    "valid": true,
+    "company": "VeryAI",
+    "amount_str": "$10 m",
+    "website": "https://very.org",
+    "linkedin_url": "https://linkedin.com/company/very-ai",
+    "founder_name": "Zach Meltzer",
+    "founder_linkedin_url": "https://linkedin.com/in/zacharymeltzer",
+    "contact_email": "hello@very.org",
+    "twitter_url": "https://x.com/veryai"
+  },
+  "https://refreshmiami.com/news/veryai-raises-10m-to-prove-whos-real-online/": {
+    "valid": false
+  },
+  "https://www.newcomer.co/p/founders-fund-general-catalyst-and": {
+    "valid": false
+  },
+  "https://dot.la/tinder-sparks-los-angeles-dating-future-2676098954.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://assets.rebelmouse.io",
+    "linkedin_url": "",
+    "founder_name": "Match Group and Tinder",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/12/why-rivian-is-holding-the-45000-base-model-r2-until-late-2027/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://futurumgroup.com/insights/yann-lecuns-ami-raises-1bn-seed-round-is-the-world-model-era-finally-here/": {
+    "valid": true,
+    "company": "AMI Labs",
+    "amount_str": "$1B",
+    "website": "https://amilabs.xyz/updates",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/yann-lecun",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.tribuneindia.com/news/business/lumikai-leads-usd-1-5-million-seed-round-for-nprep-to-scale-interactive-ai-powered-educational-platform-for-indias-nursing-workforce/": {
+    "valid": false
+  },
+  "https://www.bloomberg.com/news/articles/2026-03-13/china-approves-first-brain-implant-for-commercial-use": {
+    "valid": false
+  },
+  "https://european-biotechnology.com/latest-news/owkin-spins-out-ai-diagnostics-startup-waiv-with-33m-financing/": {
+    "valid": false
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-03-13/vcs-are-settling-for-smaller-stakes-in-hot-ai-startups": {
+    "valid": false
+  },
+  "https://retailtechinnovationhub.com/home/2026/3/12/insurtech-loxa-closes-27-million-seed-round-to-drive-eu-expansion-and-boost-retail-network": {
+    "valid": false
+  },
+  "https://www.modernretail.co/operations/cymbiotika-lands-in-ulta-just-months-after-launching-in-target/": {
+    "valid": false
+  },
+  "https://www.startuphub.ai/news/uno-platform-secures-254m-seed-for-enterprise-developer-tools": {
+    "valid": true,
+    "company": "Uno Platform",
+    "amount_str": "$2.54M",
+    "website": "https://platform.uno",
+    "linkedin_url": "https://linkedin.com/company/uno-platform",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@platform.uno",
+    "twitter_url": "https://x.com/i"
+  },
+  "https://www.bwdisrupt.com/article/accel-set-to-lead-12-mn-funding-round-in-ai-fintech-oolka-597377": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/03/13/berlin-based-tower-raises-e5-5-million-to-build-the-last-mile-platform-for-data-engineers-in-the-ai-era/": {
+    "valid": false
+  },
+  "https://ffnews.com/newsarticle/fintech/loan-servicing-enters-the-ai-agent-era-as-chaseit-ai-scales-toward-30000-calls-a-day/": {
+    "valid": false
+  },
+  "https://iwantabuzz.com/fitness-booking-platform-sportl-launches-with-250k-funding-to-revolutionise-industry/": {
+    "valid": false
+  },
+  "https://fortune.com/2026/03/13/openai-original-vc-bet-how-vinod-khosla-stepped-in-after-elon-musk-balked/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cxense.com/ari.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.fintechfutures.com/core-banking-technology/africas-first-islamic-neobank-nyla-taps-mambu-for-core-tech": {
+    "valid": false
+  },
+  "https://ffnews.com/newsarticle/fintech/loan-servicing-enters-the-ai-agent-era-as-chaseit-ai-scales-toward-30000-calls-a-day-2/": {
+    "valid": false
+  },
+  "https://n24.com.tr/google-completes-32b-acquisition-of-wiz/": {
+    "valid": false
+  },
+  "https://www.fintechfutures.com/venture-capital-funding/icymi-fintech-funding-round-up-ezra-finperks-orca-fraud-and-nijapay": {
+    "valid": false
+  },
+  "https://www.morningstar.com/news/pr-newswire/20260312ph08542/aes-deploys-ai-safety-platform-in-us-operations": {
+    "valid": false
+  },
+  "https://www.techloy.com/asias-biggest-startup-funding-rounds-in-week-11-led-by-mozark-and-equator-renewables-asia/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/qdrant-raises-50m-from-avp-to-redefine-vector-search-for-production-ai/": {
+    "valid": true,
+    "company": "Qdrant",
+    "amount_str": "$50M",
+    "website": "https://qdrant.tech",
+    "linkedin_url": "https://linkedin.com/company/qdrant",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@qdrant.com",
+    "twitter_url": "https://x.com/qdrant_engine"
+  },
+  "https://techfundingnews.com/gumloop-50m-series-b-benchmark-ai-agents/": {
+    "valid": false
+  },
+  "https://fintech.global/2026/03/13/weekly-fintech-funding-roundup-955m-raised-as-regtech-leads-activity/": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/acremades_%F0%9D%90%93%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%9F%8F%F0%9D%9F%8E%F0%9D%9F%8E%F0%9D%90%8C-%F0%9D%90%92%F0%9D%90%9E%F0%9D%90%9E%F0%9D%90%9D-%F0%9D%90%91%F0%9D%90%A8%F0%9D%90%AE%F0%9D%90%A7%F0%9D%90%9D-%F0%9D%90%88%F0%9D%90%AC-activity-7438207316610670592-ePBo": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.panewslab.com/en/articles/019ce6a5-6924-7368-8d6c-fbd2358b364e": {
+    "valid": false
+  },
+  "https://x.com/SwissCognitive/status/2032202518738948267": {
+    "valid": true,
+    "company": "ZyG",
+    "amount_str": "$58M",
+    "website": "https://www.pokemoncenter.com",
+    "linkedin_url": "https://linkedin.com/company/zyg-edge",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://launchbaseafrica.com/2026/03/13/african-startup-deal-tracker-newest-deals-20/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://launchbaseafrica.gumroad.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.wlp.com.sg/startup-funding-rounds-explained-how-capital-powers-growth/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/inc_arabia/status/2032343399802576902": {
+    "valid": false
   }
 }
