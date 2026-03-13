@@ -3232,5 +3232,131 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://venturebeat.com/infrastructure/nanoclaw-and-docker-partner-to-make-sandboxes-the-safest-way-for-enterprises": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/venture/interesting-startup-deals-robots-ai-agent-inboxes-defense-space-tech/": {
+    "valid": true,
+    "company": "The company",
+    "amount_str": "$13 m",
+    "website": "https://www.thecompanystore.com",
+    "linkedin_url": "https://linkedin.com/company/linkedin",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "custserv@thecompanystore.com",
+    "twitter_url": "https://x.com/thecompanystore"
+  },
+  "https://www.prnewswire.com/news-releases/ema-aesthetics-announces-strategic-investment-in-monotx-and-secures-board-representation-advancing-regenerative-aesthetics-innovation-302712366.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/pinnacle-food-group-limited-successfully-concludes-2026-investor-day-highlighting-its-dual-engine-growth-strategy-302712334.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/andreas-szakacs-productions-launches-shadow-fist-with-strategic-film-financing-model-302713358.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/unixell-biotech-receives-ind-clearance-by-fda-for-its-allogeneic-ipsc-derived-cell-therapy-ux-gip001-for-focal-epilepsy-302713357.html": {
+    "valid": false
+  },
+  "https://impactalpha.com/the-weeks-dealflow-march-13-2026/": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/03/13/vilnius-based-whitebridge-ai-raises-e2-6-million-for-its-ai-powered-people-research-engine/": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/wonderful-raises-150-million-series-b": {
+    "valid": false
+  },
+  "https://www.bwdisrupt.com/article/wavemaker-partners-leads-1-6-mn-pre-seed-round-in-fashion-startup-confluxe-597501": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/03/vilnius-based-whitebridge-ai-raises-e2-6-million-for-its-ai-powered-people-research-engine/": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/03/berlin-based-tower-raises-e5-5-million-to-build-the-last-mile-platform-for-data-engineers-in-the-ai-era/": {
+    "valid": false
+  },
+  "https://thenextweb.com/news/tower-raises-e5-5m": {
+    "valid": false
+  },
+  "https://techfundingnews.com/cursor-ai-50b-valuation-talks-2b-arr/": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/03/12/amsterdam-based-enterprise-ai-agent-platform-wonderful-raises-e129-8-million-series-b-at-e1-7-billion-valuation/": {
+    "valid": false
+  },
+  "https://medial.app/news/boba-bhai-raises-indian-rupee40-crore-to-scale-indias-bubble-tea-and-korean-street-food-categories-d2040877f9200": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/acremades_%F0%9D%90%88%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%9D%F0%9D%90%9E-%F0%9D%90%8F%F0%9D%90%AB%F0%9D%90%9E-%F0%9D%90%92%F0%9D%90%9E%F0%9D%90%9E%F0%9D%90%9D-%F0%9D%90%85%F0%9D%90%AE%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%A2%F0%9D%90%A7-activity-7438161976360591360-4aHg": {
+    "valid": false
+  },
+  "https://techfundingnews.com/entrepreneurs-first-200m-pre-idea-founders/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://inc42.com/buzz/exclusive-contract-manufacturing-startup-bidso-in-talks-to-raise-about-%E2%82%B950-cr/": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/triangle/news/2026/03/13/refibuy-channeladvisor-wingo-agentic-ai-ecommerce.html": {
+    "valid": true,
+    "company": "ReFiBuy",
+    "amount_str": "",
+    "website": "https://refibuy.ai",
+    "linkedin_url": "https://linkedin.com/company/refibuy",
+    "founder_name": "expand\n\nReFiBuy",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/retailgentic"
+  },
+  "https://www.esgtoday.com/airmo-raises-e5-million-to-monitor-greenhouse-gas-emissions-from-space/": {
+    "valid": false
+  },
+  "https://spacewatch.global/2026/03/airmo-raises-e5-million-in-seed-funding-to-accelerate-space-based-methane-emission-monitoring/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/tower-6-4m-claude-data-pipelines-last-mile/": {
+    "valid": true,
+    "company": "Tower",
+    "amount_str": "$6.4M",
+    "website": "https://www.hrp.org.uk",
+    "linkedin_url": "https://linkedin.com/company/tower-research-capital",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/toddtower",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.sj-r.com/press-release/story/35120/stagwell-stgw-launches-quarter-creek-ventures-a-new-incubator-fund-to-invest-in-breakthrough-ideas-and-emerging-talent/": {
+    "valid": false
+  },
+  "https://m.economictimes.com/small-biz/entrepreneurship/zippee-quick-commerce-logistics-startup-crosses-9-lakh-orders-in-feb-amid-q-commerce-boom/articleshow/129540348.cms": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://connect.facebook.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://nationaltoday.com/us/ca/pleasanton/news/2026/03/12/ai-startup-fluidcloud-launches-large-infrastructure-model-for-multicloud-networking/": {
+    "valid": true,
+    "company": "FluidCloud",
+    "amount_str": "",
+    "website": "http://fluidcloud.co",
+    "linkedin_url": "https://linkedin.com/company/fluidcloud",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/sharadkumar123",
+    "contact_email": "sales@fuelcloud.com",
+    "twitter_url": ""
   }
 }

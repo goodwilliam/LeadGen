@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-03-13T08:33:00.010884Z",
-  "count": 31,
-  "enriched_count": 20,
+  "generated_at": "2026-03-13T12:42:00.739197Z",
+  "count": 30,
+  "enriched_count": 19,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "ReFiBuy launches agentic commerce platform for retailers - Triangle Business Journal",
+      "article_url": "https://www.bizjournals.com/triangle/news/2026/03/13/refibuy-channeladvisor-wingo-agentic-ai-ecommerce.html",
+      "company": "ReFiBuy",
+      "amount_str": "",
+      "pub_date": "2026-03-13T11:26:11Z",
+      "website": "https://refibuy.ai",
+      "linkedin_url": "https://linkedin.com/company/refibuy",
+      "founder_name": "expand\n\nReFiBuy",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/retailgentic"
+    },
+    {
+      "source": "Crunchbase News",
+      "title": "5 Interesting Startup Deals You May Have Missed: Blood-Drawing Robots, Inboxes For AI Agents, Franchised Defense Manufacturing, And More",
+      "article_url": "https://news.crunchbase.com/venture/interesting-startup-deals-robots-ai-agent-inboxes-defense-space-tech/",
+      "company": "The company",
+      "amount_str": "$13 m",
+      "pub_date": "2026-03-13T11:00:00Z",
+      "website": "https://www.thecompanystore.com",
+      "linkedin_url": "https://linkedin.com/company/linkedin",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "custserv@thecompanystore.com",
+      "twitter_url": "https://x.com/thecompanystore"
+    },
     {
       "source": "tech.eu",
       "title": "Tower secures \u20ac5.5M to support data engineers in the AI era",
@@ -29,6 +57,20 @@
       "founder_name": "CEO And",
       "founder_linkedin_url": "",
       "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "AI Startup FluidCloud Launches Large Infrastructure Model for Multicloud Networking",
+      "article_url": "https://nationaltoday.com/us/ca/pleasanton/news/2026/03/12/ai-startup-fluidcloud-launches-large-infrastructure-model-for-multicloud-networking/",
+      "company": "FluidCloud",
+      "amount_str": "",
+      "pub_date": "2026-03-13T03:08:41Z",
+      "website": "http://fluidcloud.co",
+      "linkedin_url": "https://linkedin.com/company/fluidcloud",
+      "founder_name": "",
+      "founder_linkedin_url": "https://linkedin.com/in/sharadkumar123",
+      "contact_email": "sales@fuelcloud.com",
       "twitter_url": ""
     },
     {
@@ -131,20 +173,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Insurtech: Kayna Closes on1.5m Euros Seed Round - - Insurance Edge",
-      "article_url": "https://insurance-edge.net/2026/03/12/insurtech-kayna-closes-on1-5m-euros-seed-round/",
-      "company": "Kayna",
-      "amount_str": "",
-      "pub_date": "2026-03-12T21:04:53Z",
-      "website": "https://www.kayna.io",
-      "linkedin_url": "https://linkedin.com/company/kayna-innovation",
-      "founder_name": "Peter Bermingham",
-      "founder_linkedin_url": "https://linkedin.com/in/petebermingham",
-      "contact_email": "info@kayna.io",
-      "twitter_url": "https://x.com/KaynaInsurtech"
-    },
-    {
-      "source": "Google Alerts",
       "title": "PerpTools raises 3 million USD seed funding from DEXForce and Orderly - Startup .eu",
       "article_url": "https://www.startup.eu/investments/3kq5VZ",
       "company": "PerpTools",
@@ -156,20 +184,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": "https://x.com/perptools"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "AI from Bavaria: Neuramancer secures \u20ac1.7M to detect deepfakes and synthetic media fraud",
-      "article_url": "https://techfundingnews.com/ai-from-bavaria-neuramancer-secures-e1-7m-for-detect-deepfakes-and-synthetic-media-fraud/",
-      "company": "Neuramancer",
-      "amount_str": "\u20ac1.7M",
-      "pub_date": "2026-03-12T20:02:13Z",
-      "website": "https://neuramancer.de",
-      "linkedin_url": "https://linkedin.com/company/neuramancer",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "Google Alerts",
@@ -382,20 +396,6 @@
       "twitter_url": "https://x.com/kaisecurity"
     },
     {
-      "source": "VentureBeat",
-      "title": "Manufact raises $6.3M as MCP becomes the \u2018USB-C for AI\u2019 powering ChatGPT and Claude apps",
-      "article_url": "https://venturebeat.com/infrastructure/manufact-raises-usd6-3m-as-mcp-becomes-the-usb-c-for-ai-powering-chatgpt-and",
-      "company": "Manufact",
-      "amount_str": "$6.3M",
-      "pub_date": "2026-03-11T16:01:00Z",
-      "website": "https://manufact.com",
-      "linkedin_url": "https://linkedin.com/company/mcp-use",
-      "founder_name": "operating officer of Supabase",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/manufact"
-    },
-    {
       "source": "Google Alerts",
       "title": "finperks raises $4 million in pre- seed - LinkedIn",
       "article_url": "https://www.linkedin.com/posts/finperks_finperks-raises-4-million-in-pre-seed-activity-7437399510789591040-xucM",
@@ -407,20 +407,6 @@
       "founder_name": "And our",
       "founder_linkedin_url": "",
       "contact_email": "mustermann@email.com",
-      "twitter_url": ""
-    },
-    {
-      "source": "tech.eu",
-      "title": "Sybilion secures $4.2M to build AI platform for industrial markets",
-      "article_url": "https://tech.eu/2026/03/11/sybilion-secures-42m-to-build-ai-platform-for-industrial-markets/",
-      "company": "Sybilion",
-      "amount_str": "$4.2M",
-      "pub_date": "2026-03-11T12:27:22Z",
-      "website": "https://www.sybilion.com",
-      "linkedin_url": "https://linkedin.com/company/sybilion",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
       "twitter_url": ""
     },
     {
