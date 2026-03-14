@@ -3724,5 +3724,220 @@
   },
   "https://thenextafrica.com/funding-milestone-for-enko-education-signals-growth-in-africas-international-education-sector/": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/13/gumloop-reels-50m-ai-automation-platform/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://d15shllkswkct0.cloudfront.net/wp-includes/wlwmanifest.xml",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/long-term-care-affordability-sharply-worsening-for-middle-income-new-yorkers-new-aarp-report-shows-302713856.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/dr-david-pincus-of-pincus-plastic-surgery-launches-1-000-scholarship-to-support-future-leaders-in-plastic-surgery-302713824.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/nasdaq-mcw-investigation-notice-kessler-topaz-meltzer--check-llp-is-investigating-proposed-take-private-transaction-and-encourages-mister-car-wash-inc-nasdaq-mcw-investors-to-contact-the-firm-302713742.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/pmi-investors-have-opportunity-to-lead-picard-medical-inc-securities-fraud-lawsuit-302713649.html": {
+    "valid": false
+  },
+  "https://www.techbuzz.ai/articles/nyne-raises-5-3m-to-solve-ai-agents-context-problem": {
+    "valid": true,
+    "company": "Nyne",
+    "amount_str": "$5.3M",
+    "website": "https://nyne.com",
+    "linkedin_url": "https://linkedin.com/company/nynenyc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/nyneaudio"
+  },
+  "https://www.msn.com/en-us/sports/other/five-positive-takeaways-from-ohio-state-s-71-67-loss-to-michigan/ar-AA1YA9JL?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/sports/other/tulane-men-fall-to-charlotte-in-round-two-of-the-american-tourney-74-60/ar-AA1YvHDR?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/flyer-one-vc_tower-just-raised-64m-across-pre-seed-and-activity-7438220734298173440-JpRo": {
+    "valid": true,
+    "company": "Tower just",
+    "amount_str": "$6.4m",
+    "website": "https://en.wikipedia.org",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/zygo-be_thrilled-to-announce-we-just-raised-seed-activity-7438097201425379328-sUMB": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/Hercules_Defi/status/2032357234613817537": {
+    "valid": true,
+    "company": "Unitas Labs just",
+    "amount_str": "$13.33M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/unityai-raises-8-5-million-series-a": {
+    "valid": false
+  },
+  "https://en.wowtale.net/2026/03/14/233652/": {
+    "valid": true,
+    "company": "Khameleon",
+    "amount_str": "",
+    "website": "https://cloud.khamsoft.com",
+    "linkedin_url": "https://linkedin.com/company/khameleon-group",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bnamericas.com/en/features/what-is-driving-ahead-the-venture-capital-in-technology-in-latin-america": {
+    "valid": false
+  },
+  "https://www.cxodigitalpulse.com/ai-fintech-startup-oolka-set-to-raise-12m-in-accel-led-funding-round/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/rox-ai-1-2b-valuation-general-catalyst-sales-agents/": {
+    "valid": false
+  },
+  "https://retailtechinnovationhub.com/home/2026/3/12/backops-bags-26-million-series-a-to-build-ai-powered-operating-system-for-supply-chains": {
+    "valid": true,
+    "company": "BackOps",
+    "amount_str": "$26 m",
+    "website": "https://www.backopslive.com",
+    "linkedin_url": "https://linkedin.com/company/backops-ai",
+    "founder_name": "says Sean McCarthy",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/munichs-uvc-adds-growth-stage-with-e77m-follows-proxima-fusions-e2b-raise/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/north-star-vessel-belgium-first-robotics-lab-antwerp/": {
+    "valid": false
+  },
+  "https://www.beveragedaily.com/Article/2026/03/13/mid-strength-and-lower-alcohol-wines-see-growth-potential/": {
+    "valid": false
+  },
+  "https://www.agtechnavigator.com/Article/2026/03/13/syngenta-invests-in-precision-spraying-start-up-agzen/": {
+    "valid": true,
+    "company": "AI spraying start-up AgZen",
+    "amount_str": "$10m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Vishnu Jayaprakash",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.youtube.com/watch?v=H5vqZvg7HMs": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://i.ytimg.com/generate_204",
+    "linkedin_url": "",
+    "founder_name": "responds to Trump order",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.rivadata.com/company/11834": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "Rows per page",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://en.wowtale.net/2026/03/14/233649/": {
+    "valid": true,
+    "company": "Motor Startup eflow",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://en.wowtale.net/2026/03/14/233646/": {
+    "valid": true,
+    "company": "MUSTBIO",
+    "amount_str": "$23.5M",
+    "website": "http://mustbio.com",
+    "linkedin_url": "https://linkedin.com/company/mustbio-co-ltd",
+    "founder_name": "said Maengsub Kim",
+    "founder_linkedin_url": "",
+    "contact_email": "info@mustbio.com",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/13/digg-lays-off-staff-and-shuts-down-app-as-company-retools/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.constructionowners.com/news/contech-startups-raise-126m": {
+    "valid": true,
+    "company": "Six Construction Tech Startups",
+    "amount_str": "$126M",
+    "website": "https://www.constructionowners.com",
+    "linkedin_url": "https://linkedin.com/company/construction-owners",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://pulse2.com/great-sky-14-million-seed-funding/": {
+    "valid": false
   }
 }
