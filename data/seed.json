@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-03-14T05:08:36.060726Z",
+  "generated_at": "2026-03-14T08:26:43.430312Z",
   "count": 28,
   "enriched_count": 20,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Rox Secures $1.2 Billion Valuation as AI Sales Agents Scale | PYMNTS.com",
+      "article_url": "https://www.pymnts.com/news/investment-tracker/2026/rox-secures-1-2-billion-valuation-as-ai-sales-agents-scale/",
+      "company": "Rox",
+      "amount_str": "$1.2 B",
+      "pub_date": "2026-03-14T05:06:56Z",
+      "website": "https://www.rox.com",
+      "linkedin_url": "https://linkedin.com/company/rox-ai",
+      "founder_name": "",
+      "founder_linkedin_url": "https://linkedin.com/in/roxanneburkey",
+      "contact_email": "",
+      "twitter_url": "https://x.com/contact"
+    },
     {
       "source": "Google Alerts",
       "title": "Khameleon Raises Pre- Seed Round to Bring Humanoid Robots to Hotel Housekeeping",
@@ -128,20 +142,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": "https://x.com/nscale_cloud"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "AMI Labs Raises $1BN Seed Round to Build World Model - The Futurum Group",
-      "article_url": "https://futurumgroup.com/insights/yann-lecuns-ami-raises-1bn-seed-round-is-the-world-model-era-finally-here/",
-      "company": "AMI Labs",
-      "amount_str": "$1B",
-      "pub_date": "2026-03-13T15:17:24Z",
-      "website": "https://amilabs.xyz/updates",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "https://linkedin.com/in/yann-lecun",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "Google Alerts",

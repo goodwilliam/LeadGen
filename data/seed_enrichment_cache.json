@@ -4020,5 +4020,44 @@
   },
   "https://smartbranding.com/monthly-funding-report-january-2026-funded-startups/": {
     "valid": false
+  },
+  "https://www.pymnts.com/news/investment-tracker/2026/rox-secures-1-2-billion-valuation-as-ai-sales-agents-scale/": {
+    "valid": true,
+    "company": "Rox",
+    "amount_str": "$1.2 B",
+    "website": "https://www.rox.com",
+    "linkedin_url": "https://linkedin.com/company/rox-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/roxanneburkey",
+    "contact_email": "",
+    "twitter_url": "https://x.com/contact"
+  },
+  "https://sherwood.news/markets/klarna-jumps-filing-reveals-chairman-michael-moritz-bought-usd50-million-stock/": {
+    "valid": false
+  },
+  "https://x.com/AtomsNotBits/status/2032577574065549441": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.d74f1a3a.js",
+    "linkedin_url": "",
+    "founder_name": "of Uber",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techloy.com/week-11s-biggest-startup-funding-rounds-in-latin-america-led-by-meddi-with-big-bets-on-healthtech-and-ai/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://kr-asia.com/pulses/160539": {
+    "valid": false
   }
 }
