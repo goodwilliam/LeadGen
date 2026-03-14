@@ -3939,5 +3939,86 @@
   },
   "https://pulse2.com/great-sky-14-million-seed-funding/": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/vimgreens-novel-a2ar-antagonist-receives-cde-ind-approval-for-nashmash-therapy-302713885.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/ultragenyx-pharmaceutical-inc-notice-of-april-6-2026-application-deadline-for-class-action-lawsuit---contact-lewis-kahn-esq-at-kahn-swick--foti-llc-before-application-deadline-302713796.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/soleno-therapeutics-inc-notice-of-may-5-2026-application-deadline-for-class-action-lawsuit---contact-lewis-kahn-esq-at-kahn-swick--foti-llc-before-application-deadline-302713798.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/navan-inc-notice-of-april-24-2026-application-deadline-for-class-action-lawsuit---contact-lewis-kahn-esq-at-kahn-swick--foti-llc-before-application-deadline-302713793.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/kyndryl-holdings-inc-notice-of-april-13-2026-application-deadline-for-class-action-lawsuit---contact-lewis-kahn-esq-at-kahn-swick--foti-llc-before-application-deadline-302713820.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/enphase-energy-inc-notice-of-april-20-2026-application-deadline-for-class-action-lawsuit---contact-lewis-kahn-esq-at-kahn-swick--foti-llc-before-application-deadline-302713789.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/uniqure-nv-securities-fraud-class-action-result-of-fda-approval-delay-and-49-stock-decline---investors-may-contact-lewis-kahn-esq-at-kahn-swick--foti-llc-302713783.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/tripcom-group-limited-securities-fraud-class-action-result-of-antitrust-probe-and-19-stock-decline---investors-may-contact-lewis-kahn-esq-at-kahn-swick--foti-llc-302713776.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/driven-brands-holdings-inc-securities-fraud-class-action-result-of-erroneous-financial-statements-and-39-stock-decline---investors-may-contact-lewis-kahn-esq-at-kahn-swick--foti-llc-302713780.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/corcept-therapeutics-incorporated-securities-fraud-class-action-result-of-fda-approval-issues-and-50-stock-decline---investors-may-contact-lewis-kahn-esq-at-kahn-swick--foti-llc-302713772.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/bellring-brands-inc-securities-fraud-class-action-result-of-inventory-issues-and-52-stock-decline---investors-may-contact-lewis-kahn-esq-at-kahn-swick--foti-llc-302713785.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/apollo-global-management-inc-securities-fraud-class-action-result-of-undisclosed-relationship-with-jeffrey-epstein-and-16-stock-decline---investors-may-contact-lewis-kahn-esq-at-kahn-swick--foti-llc-302713769.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/carmax-investigation-initiated-kahn-swick--foti-llc-investigates-the-officers-and-directors-of-carmax-inc---kmx-302713790.html": {
+    "valid": false
+  },
+  "https://dev.ua/en/news/fond-aventures-prodav-chastku-u-spinai-pislia-investytsii-vid-amerykanskoho-fondu-k1-1773410355": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "startup with Ukrainian",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/arcticstartup/status/2032022580891124117": {
+    "valid": false
+  },
+  "https://www.airtel.in/blog/personal-loan/startup-india-seed-fund-scheme/": {
+    "valid": false
+  },
+  "https://www.mexc.com/news/923962": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://trochilus-web.gotoda.co/trochilus-web-sdk-integration.js",
+    "linkedin_url": "",
+    "founder_name": "to tackle what its",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/RaulJuncoV/status/2032546923924623372": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.d74f1a3a.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://smartbranding.com/monthly-funding-report-january-2026-funded-startups/": {
+    "valid": false
   }
 }
