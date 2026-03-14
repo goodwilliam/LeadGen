@@ -4177,5 +4177,188 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": "https://x.com/nyneaudio"
+  },
+  "https://www.prnewswire.com/news-releases/le-sommet-annuel-des-ceo-de-la-sustainable-markets-initiative-a-lhampton-court-palace-a-donne-lieu-a-des-partenariats-et-des-collaborations-dinvestissement-de-premier-plan-sur-fond-dacceleration-de-la-transition-vers-le-deve-302713966.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-dnow-inc-investors-to-inquire-about-securities-class-action-investigation--dnow-302713498.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/eightco-nasdaq-orbs-verkrijgt-institutionele-toezeggingen-ter-waarde-van-125-miljoen-dollar-geleid-door-bitmine-nyse-bmnr-ark-invest-van-cathie-wood-en-payward-om-uit-te-breiden-naar-technologieen-van-de-volgende-generati-302713962.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/eightco-nasdaq-orbs-ottiene-impegni-di-finanziamento-istituzionali-per-125-milioni-di-dollari-guidati-da-bitmine-nyse-bmnr-ark-invest-di-cathie-wood-e-payward-per-espandersi-nelle-tecnologie-di-prossima-generazione-302713960.html": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/sports/nba/76ers-keep-receiving-a-gift-they-never-asked-for-but-secretly-needed/ar-AA1Yyniu?cvid=69b48f3dbd1c45ae8bde92ae68fe61c6&ocid=sk216dhp&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/sports/other/michigan-vs-wisconsin-tactical-breakdown-three-ways-the-wolverines-can-beat-the-badgers/ar-AA1YAsBw": {
+    "valid": false
+  },
+  "https://www.onlineathens.com/press-release/story/36958/fourteen-of-canadas-top-startups-named-as-2026-cix-startup-award-winners/": {
+    "valid": false
+  },
+  "https://cryptorank.io/news/feed/22518-nyne-ai-agents-human-context-funding": {
+    "valid": false
+  },
+  "https://bayelsawatch.com/unityai-closes-8-5m-series-a/": {
+    "valid": true,
+    "company": "UnityAI",
+    "amount_str": "$8.5M",
+    "website": "https://www.unityai.co",
+    "linkedin_url": "https://linkedin.com/company/unityai",
+    "founder_name": "CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.chaincatcher.com/en/article/2251889": {
+    "valid": true,
+    "company": "The dark side of the moon seeks to",
+    "amount_str": "$1 b",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://opentools.ai/news/meet-mirendil-the-new-ai-startup-aiming-to-revolutionize-scientific-research": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://static.ads-twitter.com",
+    "linkedin_url": "",
+    "founder_name": "of Mirendil",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techbuzz.ai/articles/nanoclaw-developer-lands-docker-deal-in-six-week-whirlwind": {
+    "valid": true,
+    "company": "NanoClaw Developer",
+    "amount_str": "",
+    "website": "https://www.rswebsols.com",
+    "linkedin_url": "https://linkedin.com/company/rswebsols",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/rswebsols"
+  },
+  "https://www.pressreader.com/india/business-standard/20260314/281956024294900": {
+    "valid": false
+  },
+  "https://markets.financialcontent.com/stocks/article/abnewswire-2026-3-13-new-report-explores-the-death-of-syntax-and-the-rise-of-creative-taste-in-the-ai-era": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://images.financialcontent.com/investcenter/favicon.svg",
+    "linkedin_url": "",
+    "founder_name": "Vatsal Bhardwaj is the",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://traded.co/deals/national/all/raise/kled-raises-5-5-million-seed-round-from-investors-including-sebastian-thrun-and-aglae/": {
+    "valid": true,
+    "company": "Kled",
+    "amount_str": "$5.5 M",
+    "website": "https://www.leagueoflegends.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.reddit.com/r/startups/comments/1rtogy1/i_will_not_promote_just_sharing_preseed_raising/": {
+    "valid": false
+  },
+  "https://www.thebulletintime.com/trend/beyond-the-interface-a-healthcare-ux-case-study-with-phenomenon-studio/": {
+    "valid": true,
+    "company": "MyWisdom",
+    "amount_str": "$1.3 m",
+    "website": "https://mywisdom.co",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@mywisdom.co",
+    "twitter_url": ""
+  },
+  "https://openminds.com/market-intelligence/bulletins/oasys-raises-4-6-million-to-transform-mental-health-care-into-a-data-driven-discipline-that-integrates-data-from-wearables-health-apps/": {
+    "valid": true,
+    "company": "Oasys",
+    "amount_str": "$4.6 M",
+    "website": "https://oasys.global",
+    "linkedin_url": "https://linkedin.com/company/oasysglobal",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://chicago.suntimes.com/small-business/2026/03/14/fifth-star-funds-chicago-tech-startups": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://use.typekit.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/AdobeFonts"
+  },
+  "https://newskarnataka.com/technology/ai-meets-air-fryer-as-whatsapp-chef-helps-decide-dinner/14032026": {
+    "valid": false
+  },
+  "https://www.msn.com/en-ie/money/companies/kayna-raises-1-5m-in-fresh-funding/ar-AA1YpPIL?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": false
+  },
+  "https://x.com/search?src=video&q=klydexglobal%20exchange%20combines%20innovation%20with%20proven%20trading%20reliability.kda": {
+    "valid": false
+  },
+  "https://x.com/techday_uk/status/2032479433026842835": {
+    "valid": false
+  },
+  "https://www.business-standard.com/amp/companies/start-ups/tamil-nadu-govt-invests-rs-25-cr-space-company-agnikul-cosmos-126031400770_1.html": {
+    "valid": false
+  },
+  "https://www.business-standard.com/companies/start-ups/tamil-nadu-govt-invests-rs-25-cr-space-company-agnikul-cosmos-126031400770_1.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.dinamalar.com/amp/news/kalvimalar-news-en/iit-madras-showcases-student-innovations-at-delta-expo-2026/59199": {
+    "valid": false
+  },
+  "https://timesofindia.indiatimes.com/technology/tech-news/metas-most-famous-ex-employee-yann-lecun-gets-alex-lebrun-as-ceo-of-his-startup-days-after-setting-europe-record/amp_articleshow/129572909.cms": {
+    "valid": true,
+    "company": "Meta's most-famous ex-employee Yann LeCun",
+    "amount_str": "",
+    "website": "https://timesofindia.indiatimes.com",
+    "linkedin_url": "https://linkedin.com/company/timesofindia",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/timesofindia"
+  },
+  "https://www.business-standard.com/companies/start-ups/tidco-approves-rs-25-crore-each-investment-in-agnikul-cosmos-raptee-energy-126031400504_1.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "executive officer",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.gamingamigos.com/post/japan-ip360-grant-program": {
+    "valid": false
   }
 }
