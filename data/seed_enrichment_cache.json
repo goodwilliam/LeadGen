@@ -4059,5 +4059,123 @@
   },
   "https://kr-asia.com/pulses/160539": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/kd-investors-have-opportunity-to-lead-kyndryl-holdings-inc-securities-fraud-lawsuit-filed-by-the-rosen-law-firm-302713797.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/enphase-energy-inc-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit---enph-302713809.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/bellring-brands-brbr-facing-securities-class-action-amid-questions-about-destocking-consumption-and-competition---hagens-berman-302713845.html": {
+    "valid": false
+  },
+  "https://pulse2.com/finperks-4-million-raised-to-build-global-infrastructure-layer-for-prepaid-products/": {
+    "valid": true,
+    "company": "Finperks announced it",
+    "amount_str": "$4 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://quantumcomputingreport.com/ucsbs-eddleman-quantum-institute-awards-funding-for-superconductivity-and-spacetime-modeling/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://eqi.uci.edu",
+    "linkedin_url": "https://linkedin.com/company/eddleman-quantum-institute",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "sharon.chang@uci.edu",
+    "twitter_url": "https://x.com/UCIPhysSci"
+  },
+  "https://inc42.com/buzz/from-mozark-to-captain-fresh-indian-startups-raised-207-mn-this-week/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://inc42.com/buzz/exclusive-workspace-interiors-startup-officebanao-raises-%E2%82%B934-8-cr/": {
+    "valid": false
+  },
+  "https://en.wowtale.net/2026/03/15/233661/": {
+    "valid": true,
+    "company": "ROKIT Healthcare",
+    "amount_str": "$41.9M",
+    "website": "https://rokithealthcare.com",
+    "linkedin_url": "https://linkedin.com/company/rokithealthcare",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techjuice.pk/startup-nyne-aims-to-improve-ai-agents-with-human-data-context/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://api.whatsapp.com/send",
+    "linkedin_url": "",
+    "founder_name": "according to",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/whatsapp"
+  },
+  "https://m.economictimes.com/tech/startups/y-combinator-brings-startup-school-to-india-here-is-what-it-means-for-your-startup/articleshow/129560825.cms": {
+    "valid": true,
+    "company": "Y Combinator",
+    "amount_str": "",
+    "website": "https://www.ycombinator.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/samanyougarg",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ycombinator"
+  },
+  "https://timesofindia.indiatimes.com/technology/tech-news/metas-most-famous-ex-employee-yann-lecun-gets-alex-lebrun-as-ceo-of-his-startup-days-after-setting-europe-record/articleshow/129572909.cms": {
+    "valid": true,
+    "company": "Meta's most-famous ex-employee Yann LeCun",
+    "amount_str": "",
+    "website": "https://timesofindia.indiatimes.com",
+    "linkedin_url": "https://linkedin.com/company/timesofindia",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/timesofindia"
+  },
+  "https://www.bignewsnetwork.com/news/278921748/fiberise-fyber-sells-out-on-launch-day-crosses-rs-1-crore-mark": {
+    "valid": false
+  },
+  "https://www.business-standard.com/amp/companies/start-ups/tidco-approves-rs-25-crore-each-investment-in-agnikul-cosmos-raptee-energy-126031400504_1.html": {
+    "valid": false
+  },
+  "https://www.prittleprattlenews.com/technology/t-hub-jetro-india-japan-startup-expansion-programme/": {
+    "valid": false
+  },
+  "https://incrypted.com/en/follow-the-money-235m-in-venture-investments-a-125m-corporate-deal-and-a-focus-on-blockchain-infrastructure/": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DV25_tMFa2o/": {
+    "valid": false
+  },
+  "https://news.careers360.com/iit-madras-delta-expo-2026-students-innovation-startup-ai-robotics-biotechnology-aerospace-electronics-product-design-cfi-nirmaan": {
+    "valid": false
+  },
+  "https://mezha.net/eng/bukvy/nyne_raised_-5-3m/": {
+    "valid": true,
+    "company": "Nyne",
+    "amount_str": "$5.3M",
+    "website": "https://nyne.com",
+    "linkedin_url": "https://linkedin.com/company/nynenyc",
+    "founder_name": "US gasoline reaches",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/nyneaudio"
   }
 }
