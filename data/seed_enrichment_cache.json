@@ -4582,5 +4582,206 @@
   },
   "https://www.asiae.co.kr/en/article/2026031215290225956": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "Two of his",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://venturebeat.com/technology/fixing-ai-failure-three-changes-enterprises-should-make-now": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/sdm-deadline-sdm-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-smart-digital-group-ltd-securities-fraud-lawsuit-302713507.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/smr-investors-have-opportunity-to-lead-nuscale-power-corporation-securities-fraud-lawsuit-302713881.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/nktr-investors-have-opportunity-to-lead-nektar-therapeutics-securities-fraud-lawsuit-302713879.html": {
+    "valid": false
+  },
+  "https://mlq.ai/news/nyne-lands-53m-seed-round-to-boost-ai-agents-with-human-insights/": {
+    "valid": true,
+    "company": "Nyne",
+    "amount_str": "$5.3M",
+    "website": "https://nyne.com",
+    "linkedin_url": "https://linkedin.com/company/nynenyc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/nyneaudio"
+  },
+  "https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "Rivian founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/ivelina-dineva-nft_startups-fundraising-funding-activity-7438939581418270721-Yls7": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://igrownews.com/the-seed-signal-leads-shift-toward-biological-industrial-rd/": {
+    "valid": false
+  },
+  "https://thenextweb.com/news/europe-startup-funding-rounds-march": {
+    "valid": false
+  },
+  "https://www.digitaltoday.co.kr/en/view/39122/veryai-raises-10-million-seed-funding-for-palm-based-identity-verification": {
+    "valid": true,
+    "company": "VeryAI",
+    "amount_str": "$10 m",
+    "website": "https://very.org",
+    "linkedin_url": "https://linkedin.com/company/very-ai",
+    "founder_name": "only banks extend",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@very.org",
+    "twitter_url": "https://x.com/veryai"
+  },
+  "https://technotrenz.com/news/bold-security-raises-40m/": {
+    "valid": true,
+    "company": "Bold Security",
+    "amount_str": "$40M",
+    "website": "https://www.bold.security",
+    "linkedin_url": "https://linkedin.com/company/bold-security",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "http://www.msn.com/en-in/money/news/martech-startup-fibr-ai-raises-5-7-million-seed-round-led-by-accel/ar-AA1VEt70?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": true,
+    "company": "Martech startup Fibr AI",
+    "amount_str": "$5.7 m",
+    "website": "https://emergingtalks.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://newdecoded.com/news/city-detect-raises-seed-round-blight-ai": {
+    "valid": true,
+    "company": "City Detect",
+    "amount_str": "",
+    "website": "https://www.citydetect.com",
+    "linkedin_url": "https://linkedin.com/company/citydetect",
+    "founder_name": "Gavin Baum",
+    "founder_linkedin_url": "https://linkedin.com/in/gavinbaum-blake",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thedailycoins.io/2026/03/15/ark-labs-raises-5-2m-seed-round-for-bitcoin-finance-growth/amp/": {
+    "valid": false
+  },
+  "https://news.bitcoin.com/ark-labs-raises-5-2m-seed-round-to-advance-bitcoin-programmable-finance/?prefer_reader_view=1&prefer_safari=1": {
+    "valid": true,
+    "company": "Ark Labs",
+    "amount_str": "$5.2M",
+    "website": "https://arklabs.xyz",
+    "linkedin_url": "https://linkedin.com/company/arklabsbitcoin",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@arklabs.xyz",
+    "twitter_url": "https://x.com/ArkLabsHQ"
+  },
+  "https://www.travelandtourworld.com/news/article/london-based-hospitality-technology-firm-inntelo-ai-welcomes-julia-fernandez-clavera-with-nearly-two-decades-of-industry-experience-as-the-new-ai-solutions-director-for-emea/": {
+    "valid": false
+  },
+  "https://online.thedailystar.net/bot-business/news/relaxy-raises-pre-seed-funding-sajida-foundation-3301866": {
+    "valid": true,
+    "company": "Relaxy",
+    "amount_str": "",
+    "website": "https://www.relaxy.net",
+    "linkedin_url": "https://linkedin.com/company/relaxy-ltd",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DV5ZysWgMCz/": {
+    "valid": false
+  },
+  "https://nordic9.com/news/general-tensor-raised-seed-funding/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thisweekindia.news/bengaluru-rallies-for-movement-at-the-cult-fitness-carnival/": {
+    "valid": false
+  },
+  "https://www.facebook.com/thenextweb/posts/a-1b-seed-with-no-product-and-no-revenueeurope-had-a-remarkable-week-for-startup/1371495608352555/": {
+    "valid": false
+  },
+  "https://www.moneycontrol.com/news/business/funding/snabbit-in-talks-to-raise-70-million-from-mirae-sig-as-quick-services-wars-heat-up-13860910.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://sb.scorecardresearch.com/beacon.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupfortune.com/the-ai-agent-that-builds-fails-and-ships-meet-jork/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://api.whatsapp.com/send",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/whatsapp"
+  },
+  "https://www.outlookbusiness.com/start-up/startup-officebanao-raises-nearly-4-mn-to-expand-biz": {
+    "valid": true,
+    "company": "Officebanao",
+    "amount_str": "$4 M",
+    "website": "https://officebanao.com",
+    "linkedin_url": "https://linkedin.com/company/officebanao",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://money.rediff.com/news/market/officebanao-raises-4m-to-expand-business/43625920260315": {
+    "valid": true,
+    "company": "Officebanao",
+    "amount_str": "$4M",
+    "website": "https://officebanao.com",
+    "linkedin_url": "https://linkedin.com/company/officebanao",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://news.inbox.lv/14yviee-exclusive-finnish-startup-raises-eur25m-to-put-a-donut-motor-in-ev-wheels?language=ee": {
+    "valid": false
   }
 }
