@@ -4497,5 +4497,90 @@
   },
   "https://www.nucamp.co/blog/top-10-tech-startups-hiring-junior-developers-in-madison-wi-in-2026": {
     "valid": false
+  },
+  "https://www.tribuneindia.com/partner-exclusives/best-crypto-presale-deepsnitch-ai-presale-gains-attention-ahead-of-march-launch-as-ai-identity-technology-expands/": {
+    "valid": false
+  },
+  "https://www.sgieurope.com/financing/sportl-launches-app-with-250k-pre-seed-backing/120039.article": {
+    "valid": false
+  },
+  "https://the-decoder.com/codewalls-ai-agent-hacked-an-ai-recruiter-then-impersonated-trump-to-test-its-voice-bots-guardrails/": {
+    "valid": false
+  },
+  "https://www.rswebsols.com/news/metas-renowned-former-employee-yann-lecun-appoints-alex-lebrun-as-ceo-of-his-startup-just-days-after-launching-euro/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.pinterest.com/rswebsols",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techinasia.com/news/south-korea-vcs-step-up-direct-investments-in-silicon-valley": {
+    "valid": false
+  },
+  "https://www.globalsouthopportunities.com/2026/03/15/innovation-8/": {
+    "valid": false
+  },
+  "https://m.economictimes.com/tech/funding/real-estate-startup-officebanao-raises-nearly-4-million-to-expand-business/articleshow/129588255.cms": {
+    "valid": true,
+    "company": "Real estate startup Officebanao",
+    "amount_str": "$4 m",
+    "website": "https://economictimes.indiatimes.com",
+    "linkedin_url": "https://linkedin.com/company/economictimes",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/economictimes"
+  },
+  "https://www.pressreader.com/usa/chicago-sun-times-sunday/20260315/281797110507442": {
+    "valid": false
+  },
+  "https://nairametrics.com/2026/03/14/elon-musks-ketamine-use-excluded-from-openai-fraud-trial/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://whatsapp.com/channel/0029VaJ3icXLdQeeNlINJ90N",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/whatsapp"
+  },
+  "https://www.whalesbook.com/news/English/consumer-products/Ember-Cookware-Raises-dollar32M-for-indian-rupee100-Cr-ARR-Goal-Battles-Indian-Giants/69b5affb41963b62b1e58e50": {
+    "valid": true,
+    "company": "Ember Cookware",
+    "amount_str": "$3.2M",
+    "website": "https://embercookware.com",
+    "linkedin_url": "https://linkedin.com/company/embercookware",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "750a7e063a6f7f2e752d9f6250ee4707@o4509122694807552.ingest.us.sentry.io",
+    "twitter_url": ""
+  },
+  "https://msmeafricaonline.com/wema-bank-launches-2026-hackaholics-accelerator-to-scale-nigerias-top-startups/": {
+    "valid": true,
+    "company": "Wema Bank",
+    "amount_str": "",
+    "website": "https://www.wemabank.com",
+    "linkedin_url": "https://linkedin.com/company/wemabankplc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://msmeafricaonline.com/anambra-saudi-firm-sign-strategic-mou-to-boost-technology-investment/": {
+    "valid": false
+  },
+  "https://msmeafricaonline.com/lsetf-afriglocal-launch-year-3-fund-her-future-programme-to-boost-female-led-startups-in-lagos/": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/money/other/intuitive-machines-shares-plunge-after-175-million-placement/ar-AA1X4BDo?ocid=finance-verthp-feeds&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": false
+  },
+  "https://www.asiae.co.kr/en/article/2026031215290225956": {
+    "valid": false
   }
 }
