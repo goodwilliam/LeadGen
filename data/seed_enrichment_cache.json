@@ -4480,5 +4480,22 @@
   },
   "https://www.pressreader.com/india/hindustan-times-bathinda/20260315/281857240048627": {
     "valid": false
+  },
+  "https://pulse2.com/cursor-in-talks-for-funding-at-50-billion-valuation-says-report/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wp.me/pp5wj-1yQr",
+    "linkedin_url": "https://linkedin.com/company/pulse2news",
+    "founder_name": "with Truell serving as",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/pulse2news"
+  },
+  "https://www.msn.com/en-in/money/news/musk-seeks-134-billion-from-openai-microsoft-in-wrongful-gains/ar-AA1UoOxw?ocid=BingNewsVerp": {
+    "valid": false
+  },
+  "https://www.nucamp.co/blog/top-10-tech-startups-hiring-junior-developers-in-madison-wi-in-2026": {
+    "valid": false
   }
 }

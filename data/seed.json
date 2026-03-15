@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-15T05:26:01.995097Z",
-  "count": 27,
-  "enriched_count": 19,
+  "generated_at": "2026-03-15T08:29:02.961660Z",
+  "count": 25,
+  "enriched_count": 18,
   "articles": [
     {
       "source": "Google Alerts",
@@ -44,20 +44,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Y Combinator brings Startup School to India; here is what it means for your startup",
-      "article_url": "https://m.economictimes.com/tech/startups/y-combinator-brings-startup-school-to-india-here-is-what-it-means-for-your-startup/articleshow/129560825.cms",
-      "company": "Y Combinator",
-      "amount_str": "",
-      "pub_date": "2026-03-14T14:19:54Z",
-      "website": "https://www.ycombinator.com",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "https://linkedin.com/in/samanyougarg",
-      "contact_email": "",
-      "twitter_url": "https://x.com/ycombinator"
     },
     {
       "source": "Google Alerts",
@@ -156,20 +142,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": "https://x.com/rswebsols"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Kled Raises $5.5 Million Seed Round From Investors Including Sebastian Thrun And Agla\u00e9",
-      "article_url": "https://traded.co/deals/national/all/raise/kled-raises-5-5-million-seed-round-from-investors-including-sebastian-thrun-and-aglae/",
-      "company": "Kled",
-      "amount_str": "$5.5 M",
-      "pub_date": "2026-03-14T00:01:42Z",
-      "website": "https://www.leagueoflegends.com",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "tech.eu",
