@@ -4783,5 +4783,54 @@
   },
   "https://news.inbox.lv/14yviee-exclusive-finnish-startup-raises-eur25m-to-put-a-donut-motor-in-ev-wheels?language=ee": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-pennymac-financial-services-inc-investors-to-inquire-about-securities-class-action-investigation--pfsi-302713884.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-gsi-technology-inc-investors-to-inquire-about-securities-class-action-investigation--gsit-302713886.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/orcl-investors-have-opportunity-to-lead-oracle-corporation-securities-fraud-lawsuit-302713882.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-hub-group-inc-investors-to-inquire-about-securities-class-action-investigation--hubg-302713880.html": {
+    "valid": false
+  },
+  "https://indianstartupnews.com/funding/indian-startups-raised-over-181-million-from-march-09-to-march-14-2026-mozark-tops-the-list-11215697": {
+    "valid": true,
+    "company": "B2B seafood marketplace Captain Fresh",
+    "amount_str": "$31.32 m",
+    "website": "https://www.msn.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/15/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-indias-edtech-sector-consolidates/": {
+    "valid": false
+  },
+  "https://www.bitget.com/amp/news/detail/12560605266242": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "founder and former",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/15/techcrunch-mobility-travis-kalanicks-return-proves-it-really-is-2016-again/": {
+    "valid": false
+  },
+  "https://www.reddit.com/r/Entrepreneurs/comments/1ruletb/preseedseed_founders_when_did_you_first_talk_to/": {
+    "valid": false
+  },
+  "https://www.facebook.com/theceo.in/photos/bengaluru-based-startup-confluxe-has-raised-16-million-in-a-pre-seed-funding-rou/1382745997214287/": {
+    "valid": false
+  },
+  "https://tanzaniatimes.net/kenya-and-rwanda-working-on-single-fintech-license-passporting/": {
+    "valid": false
   }
 }
