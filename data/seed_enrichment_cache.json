@@ -4457,5 +4457,28 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://bdaily.co.uk/articles/2026/03/15/inntelo-ai-boosts-emea-expansion-with-senior-hire": {
+    "valid": false
+  },
+  "https://pulse2.com/whitebridge-ai-e2-6-million-raised-for-ai-powered-people-research-platform/amp/": {
+    "valid": false
+  },
+  "https://pulse2.com/whitebridge-ai-e2-6-million-raised-for-ai-powered-people-research-platform/": {
+    "valid": false
+  },
+  "https://pulse2.com/tower-6-4-million-raised-for-python-native-data-engineering-platform/amp/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.ampproject.org",
+    "linkedin_url": "",
+    "founder_name": "Serhii Sokolenko",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.pressreader.com/india/hindustan-times-bathinda/20260315/281857240048627": {
+    "valid": false
   }
 }
