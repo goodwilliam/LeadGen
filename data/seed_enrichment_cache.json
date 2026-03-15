@@ -4360,5 +4360,102 @@
   },
   "https://www.gamingamigos.com/post/japan-ip360-grant-program": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/driven-brands-holdings-inc-drvn-securities-fraud-class-action-lawsuit-filed-may-8-2026-lead-plaintiff-deadline-302713476.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/eose-investors-have-opportunity-to-lead-eos-energy-enterprises-inc-securities-fraud-lawsuit-302713811.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/soleno-therapeutics-inc-slno-securities-fraud-class-action-lawsuit-filed-may-5-2026-lead-plaintiff-deadline-302713445.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/bynd-deadline-bynd-investors-have-opportunity-to-lead-beyond-meat-inc-securities-fraud-lawsuit-302713806.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/snow-investors-have-opportunity-to-lead-snowflake-inc-securities-fraud-lawsuit-302713800.html": {
+    "valid": false
+  },
+  "https://www.msn.com/en-in/money/markets/space-tech-startup-inspecity-raises-56-million-in-seed-funding-to-drive-in-orbit-satellite-servicing/ar-AA1EoMKs?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": true,
+    "company": "Space Tech Startup InspeCity",
+    "amount_str": "$5.6 M",
+    "website": "https://www.msn.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://poetsandquants.com/2026/03/14/2025-most-disruptive-mba-startups-simply-good-software-wharton-school/?pq-category=students": {
+    "valid": false
+  },
+  "https://www.theeastafrican.co.ke/tea/business-tech/zeno-raises-25-million-to-scale-up-motorbike-production-5390188": {
+    "valid": false
+  },
+  "https://www.bwdisrupt.com/article/phonepe-retains-upi-leadership-with-over-45-share-in-february-597641": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://static.businessworld.in/favicon.png",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://ucstrategies.com/news/pe-firms-replaced-500k-mckinsey-reports-with-50k-ai-on-live-deals/": {
+    "valid": false
+  },
+  "https://roboticsindia.live/drdo-and-diat-develop-indigenous-tactile-sensor-arrays-for-advanced-robotics/": {
+    "valid": false
+  },
+  "https://entrackr.com/report/weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-mar-09-mar-14-11211841": {
+    "valid": false
+  },
+  "https://techstory.in/weekly-startup-funding-news-indian-startups-raised-207-mn-this-week-from-waycool-to-boba-bhai/": {
+    "valid": false
+  },
+  "https://www.startupresearcher.com/news/female-founded-contech-scopey-onsite-raises-usd604-000-pre-seed": {
+    "valid": false
+  },
+  "https://www.gamelight.io/news/grand-games-secures-%2430-million-in-series-a-funding-round": {
+    "valid": true,
+    "company": "Grand Games",
+    "amount_str": "$30 M",
+    "website": "https://grandgamesinc.com",
+    "linkedin_url": "https://linkedin.com/company/grandgames",
+    "founder_name": "Founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "support@grandgamesinc.com",
+    "twitter_url": ""
+  },
+  "https://en.wowtale.net/2026/03/15/233669/": {
+    "valid": true,
+    "company": "Physical AI Startup XYZ",
+    "amount_str": "$8.73M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Seongjae Hwang",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://poetsandquants.com/2026/03/14/2025-most-disruptive-mba-startups-instaenglish-northwestern-university-kellogg/?pq-category=students": {
+    "valid": false
+  },
+  "https://poetsandquants.com/2026/03/14/2025-most-disruptive-mba-startups-otomo-health-mit-sloan/?pq-category=students": {
+    "valid": false
+  },
+  "https://x.com/Inc42/status/2032810928920764658": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.d74f1a3a.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }

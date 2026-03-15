@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-03-14T20:23:57.280255Z",
-  "count": 31,
-  "enriched_count": 21,
+  "generated_at": "2026-03-15T01:32:16.013104Z",
+  "count": 27,
+  "enriched_count": 20,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Korean Physical AI Startup XYZ Raises $8.73M Series B to Push Humanoid Robots Into ...",
+      "article_url": "https://en.wowtale.net/2026/03/15/233669/",
+      "company": "Physical AI Startup XYZ",
+      "amount_str": "$8.73M",
+      "pub_date": "2026-03-14T22:08:02Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "Seongjae Hwang",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Space Tech Startup InspeCity Raises $5.6 Million In Seed Funding To Drive In-Orbit Satellite ...",
+      "article_url": "https://www.msn.com/en-in/money/markets/space-tech-startup-inspecity-raises-56-million-in-seed-funding-to-drive-in-orbit-satellite-servicing/ar-AA1EoMKs?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "company": "Space Tech Startup InspeCity",
+      "amount_str": "$5.6 M",
+      "pub_date": "2026-03-14T21:59:34Z",
+      "website": "https://www.msn.com",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "ROKIT Healthcare Raises $41.9M from Global Funds to Push Organ Regeneration Platform ...",
@@ -57,6 +85,20 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Grand Games Secures $30 Million in Series A Funding Round | Gamelight",
+      "article_url": "https://www.gamelight.io/news/grand-games-secures-%2430-million-in-series-a-funding-round",
+      "company": "Grand Games",
+      "amount_str": "$30 M",
+      "pub_date": "2026-03-14T13:44:29Z",
+      "website": "https://grandgamesinc.com",
+      "linkedin_url": "https://linkedin.com/company/grandgames",
+      "founder_name": "Founder and",
+      "founder_linkedin_url": "",
+      "contact_email": "support@grandgamesinc.com",
       "twitter_url": ""
     },
     {
@@ -130,62 +172,6 @@
       "twitter_url": "https://x.com/contact"
     },
     {
-      "source": "Google Alerts",
-      "title": "Kled Raises $5.5 Million Seed Round From Investors Including Sebastian Thrun And Agla\u00e9",
-      "article_url": "https://traded.co/deals/national/all/raise/kled-raises-5-5-million-seed-round-from-investors-including-sebastian-thrun-and-aglae/",
-      "company": "Kled",
-      "amount_str": "$5.5 M",
-      "pub_date": "2026-03-14T00:01:42Z",
-      "website": "https://www.leagueoflegends.com",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Khameleon Raises Pre- Seed Round to Bring Humanoid Robots to Hotel Housekeeping",
-      "article_url": "https://en.wowtale.net/2026/03/14/233652/",
-      "company": "Khameleon",
-      "amount_str": "",
-      "pub_date": "2026-03-13T22:32:38Z",
-      "website": "https://cloud.khamsoft.com",
-      "linkedin_url": "https://linkedin.com/company/khameleon-group",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Nyne Raises $5.3M to Solve AI Agents' Context Problem | The Tech Buzz",
-      "article_url": "https://www.techbuzz.ai/articles/nyne-raises-5-3m-to-solve-ai-agents-context-problem",
-      "company": "Nyne",
-      "amount_str": "$5.3M",
-      "pub_date": "2026-03-13T22:20:36Z",
-      "website": "https://nyne.com",
-      "linkedin_url": "https://linkedin.com/company/nynenyc",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/nyneaudio"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "AI spraying start-up AgZen closes $10m Series B round with Syngenta's support",
-      "article_url": "https://www.agtechnavigator.com/Article/2026/03/13/syngenta-invests-in-precision-spraying-start-up-agzen/",
-      "company": "AI spraying start-up AgZen",
-      "amount_str": "$10m",
-      "pub_date": "2026-03-13T20:24:30Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "Vishnu Jayaprakash",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
       "source": "tech.eu",
       "title": "Nscale raises $2B, Legora makes first acquisition, and the 28th regime in trouble?",
       "article_url": "https://tech.eu/2026/03/13/nscale-raises-2b-legora-makes-first-acquisition-and-the-28th-regime-in-trouble/",
@@ -198,20 +184,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": "https://x.com/nscale_cloud"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Flyer One Ventures' Post - LinkedIn",
-      "article_url": "https://www.linkedin.com/posts/flyer-one-vc_tower-just-raised-64m-across-pre-seed-and-activity-7438220734298173440-JpRo",
-      "company": "Tower just",
-      "amount_str": "$6.4m",
-      "pub_date": "2026-03-13T14:20:43Z",
-      "website": "https://en.wikipedia.org",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "Crunchbase News",
@@ -240,34 +212,6 @@
       "founder_linkedin_url": "https://linkedin.com/in/toddtower",
       "contact_email": "back-in-stock@notifyboost.net",
       "twitter_url": "https://x.com/TowerRecords"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Unitas Labs is building and infra for transparent, market-neutral yield generation onchain ... - X",
-      "article_url": "https://x.com/Hercules_Defi/status/2032357234613817537",
-      "company": "Unitas Labs just",
-      "amount_str": "$13.33M",
-      "pub_date": "2026-03-13T07:39:21Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Finperks: $4 Million Raised To Build Global Infrastructure Layer For Prepaid Products",
-      "article_url": "https://pulse2.com/finperks-4-million-raised-to-build-global-infrastructure-layer-for-prepaid-products/",
-      "company": "Finperks announced it",
-      "amount_str": "$4 m",
-      "pub_date": "2026-03-13T03:05:44Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "SiliconAngle",
