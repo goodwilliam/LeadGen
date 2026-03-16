@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T01:22:37Z",
+  "generated_at": "2026-03-16T07:05:44Z",
   "count": 22,
   "jobs": [
     {
@@ -55,7 +55,7 @@
       "companyBatch": "W25",
       "companyOneLiner": "We help law enforcement solve crime",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/c5b9a8ffa191d64a12f160ab46ed4cf4f2dd85dc.png",
-      "companyLastActiveAt": "about 11 hours ago",
+      "companyLastActiveAt": "about 17 hours ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D91640&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=30209"
     },
     {
@@ -209,7 +209,7 @@
       "companyBatch": "S23",
       "companyOneLiner": "AI-Native CPQ & Billing for Modern Pricing Models",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/2e2a3ced5969028060bbaaf152193b5b6a2b3982.png",
-      "companyLastActiveAt": "4 days ago",
+      "companyLastActiveAt": "5 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D88819&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28844"
     },
     {
@@ -241,20 +241,6 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89060&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28650"
     },
     {
-      "id": 77880,
-      "title": "Product Designer",
-      "jobType": "fulltime",
-      "location": "San Francisco",
-      "roleType": "Web design",
-      "companyName": "Pylon",
-      "companySlug": "pylon-2",
-      "companyBatch": "W23",
-      "companyOneLiner": "The only customer support platform built for B2B.",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/412a6b3ef532664df77532bc5d7ae3c1233de965.png",
-      "companyLastActiveAt": null,
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D77880&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28069"
-    },
-    {
       "id": 89704,
       "title": "Visual Product Designer",
       "jobType": "fulltime",
@@ -269,6 +255,20 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89704&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28069"
     },
     {
+      "id": 77880,
+      "title": "Product Designer",
+      "jobType": "fulltime",
+      "location": "San Francisco",
+      "roleType": "Web design",
+      "companyName": "Pylon",
+      "companySlug": "pylon-2",
+      "companyBatch": "W23",
+      "companyOneLiner": "The only customer support platform built for B2B.",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/412a6b3ef532664df77532bc5d7ae3c1233de965.png",
+      "companyLastActiveAt": null,
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D77880&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28069"
+    },
+    {
       "id": 91163,
       "title": "Senior Product Designer",
       "jobType": "fulltime",
@@ -279,8 +279,22 @@
       "companyBatch": "W23",
       "companyOneLiner": "Autonomous hospital operations",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/39b420a8e248116ad9ee8ad0c1e42d137c914f80.png",
-      "companyLastActiveAt": "10 days ago",
+      "companyLastActiveAt": "11 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D91163&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=27959"
+    },
+    {
+      "id": 71479,
+      "title": "Senior Product Designer",
+      "jobType": "fulltime",
+      "location": "New York, NY, US",
+      "roleType": "Product design",
+      "companyName": "Hadrius",
+      "companySlug": "hadrius",
+      "companyBatch": "W23",
+      "companyOneLiner": "Automating Securities Compliance",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/860789e4b5347ff0d9c534e39f80af9c01143ab3.png",
+      "companyLastActiveAt": "11 days ago",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D71479&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=27943"
     },
     {
       "id": 91639,
@@ -295,20 +309,6 @@
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/860789e4b5347ff0d9c534e39f80af9c01143ab3.png",
       "companyLastActiveAt": null,
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D91639&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=27943"
-    },
-    {
-      "id": 71479,
-      "title": "Senior Product Designer",
-      "jobType": "fulltime",
-      "location": "New York, NY, US",
-      "roleType": "Product design",
-      "companyName": "Hadrius",
-      "companySlug": "hadrius",
-      "companyBatch": "W23",
-      "companyOneLiner": "Automating Securities Compliance",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/860789e4b5347ff0d9c534e39f80af9c01143ab3.png",
-      "companyLastActiveAt": "10 days ago",
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D71479&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=27943"
     }
   ]
 }
