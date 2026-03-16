@@ -4998,5 +4998,95 @@
   },
   "https://entarabi.com/en/2026/03/xai-undergoes-major-overhaul-as-co-founders-depart-and-competition-intensifies/": {
     "valid": false
+  },
+  "https://tech.eu/2026/03/16/european-tech-weekly-recap-more-than-85-tech-funding-deals-worth-over-eur4b/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "European standard",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/lundbeck-advances-parkinsons-research-with-new-phase-1b-data-at-adpd-2026-302714458.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/lundbeck-advances-parkinsons-research-with-new-phase-1b-data-at-adpd-2026-302714456.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/europe-solid-state-battery-market-set-for-rapid-expansion-projected-to-reach-usd-624-million-by-2032-as-automakers-invest-in-safer-and-high-energy-battery-technologies--markntel-advisors-302713674.html": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/03/yc-backed-mandel-ai-raises-e3-6-million-seed-round-for-its-ai-supply-chain-coordination-platform/": {
+    "valid": false
+  },
+  "https://www.livemint.com/companies/company-results/pilot-to-proof-indias-agentic-ai-startups-face-a-funding-test-openai-saas-google-genai-accenture-11773549174308.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://launchbaseafrica.com/2026/03/16/moniepoint-backer-lightrock-africa-secures-ifc-anchor-for-new-200m-growth-fund/": {
+    "valid": true,
+    "company": "Moniepoint-Backer Lightrock Africa",
+    "amount_str": "$200M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.mexc.com/news/936495": {
+    "valid": true,
+    "company": "VeryAI",
+    "amount_str": "$10 m",
+    "website": "https://very.org",
+    "linkedin_url": "https://linkedin.com/company/very-ai",
+    "founder_name": "Participants included Waymo",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@very.org",
+    "twitter_url": "https://x.com/veryai"
+  },
+  "https://www.msn.com/en-za/news/techandscience/tether-joins-5-2m-round-in-stablecoin-infrastructure-builder-ark-labs/ar-AA1Yucdx": {
+    "valid": false
+  },
+  "https://startupfortune.com/the-face-recommending-your-next-health-product-is-fake-the-money-leaving-your-wallet-is-not/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://api.whatsapp.com/send",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/whatsapp"
+  },
+  "https://inc42.com/buzz/agnit-semiconductors-nets-2-6-mn-to-foray-into-telecom-power-electronics/": {
+    "valid": false
+  },
+  "https://retailtechinnovationhub.com/home/2026/3/15/omar-mohamed-departs-boston-consulting-group-to-take-on-head-of-uk-and-ireland-role-at-duvo-1": {
+    "valid": true,
+    "company": "Duvo recently",
+    "amount_str": "$15 m",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Scott Thompson",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://cryptorank.io/es/news/feed/5cb86-google-accel-ai-accelerator-india-startups": {
+    "valid": false
   }
 }
