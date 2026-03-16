@@ -5088,5 +5088,119 @@
   },
   "https://cryptorank.io/es/news/feed/5cb86-google-accel-ai-accelerator-india-startups": {
     "valid": false
+  },
+  "https://venturebeat.com/technology/rethinking-aeo-when-software-agents-navigate-the-web-on-behalf-of-users": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/16/choice-secures-71m-series-a-to-expand-its-restaurant-operating-system-across-europe/": {
+    "valid": true,
+    "company": "Choice",
+    "amount_str": "$7.1M",
+    "website": "https://www.choicehotels.com",
+    "linkedin_url": "https://linkedin.com/company/choice",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/16/italian-startup-alomana-raises-4m-for-its-ai-operating-layer-for-enterprise-workflows/": {
+    "valid": true,
+    "company": "Alomana",
+    "amount_str": "\u20ac4M",
+    "website": "https://alomana.com",
+    "linkedin_url": "https://linkedin.com/company/alomana",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/16/whitebridge-ai-raises-3m-to-redefine-standards-in-people-search-and-research/": {
+    "valid": true,
+    "company": "WhiteBridge AI",
+    "amount_str": "$3M",
+    "website": "https://whitebridge.cloud",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/whitebridge_ai"
+  },
+  "https://tech.eu/2026/03/16/only-two-days-left-before-ticket-prices-increase-for-the-techeu-summit-london-2026/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Join leading",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.interiordaily.com/article/9819879/loxa-raises-ps2-7m-seed-funding-to-tackle-furniture-retail-returns/": {
+    "valid": true,
+    "company": "Loxa",
+    "amount_str": "\u00a32.7m",
+    "website": "http://www.loxacover.com",
+    "linkedin_url": "https://linkedin.com/company/bolt-cover",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@loxacover.com",
+    "twitter_url": ""
+  },
+  "https://autonews.gasgoo.com/articles/icv/seeds-former-horizon-robotics-executives-team-up-to-launch-startup-securing-hundreds-of-millions-in-financing-2033484520697786369": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "http://auto.gasgoo.com/QrCode/QrCode.aspx",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://serrarigroup.com/how-zenos-25m-series-a-is-betting-on-east-africas-electric-motorcycle-tipping-point/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.tiktok.com/@serrarigroup",
+    "linkedin_url": "",
+    "founder_name": "and co",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://africa.businessinsider.com/local/markets/kenyan-startup-raises-dollar25-million-to-meet-high-demand-for-affordable-electric/vt3ntnv": {
+    "valid": true,
+    "company": "Kenyan startup",
+    "amount_str": "$25 m",
+    "website": "https://assek.ke",
+    "linkedin_url": "https://linkedin.com/company/kayana",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.calcalistech.com/ctechnews/article/kbfidxotv": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://newmedia.calcalist.co.il/ctech/testimonials/index.html",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "judith.hoffmann@calcalist.co.il",
+    "twitter_url": ""
+  },
+  "https://www.barandbench.com/dealstreet/begur-partners-advises-kriscore-capital-on-investment-in-confluxe-retail": {
+    "valid": false
+  },
+  "https://www.finextra.com/newsarticle/47439/fintech-startup-chaseitai-launches-ai-agents-for-call-centre-loan-servicing": {
+    "valid": false
+  },
+  "https://technode.global/2026/03/16/wavemaker-impact-leads-700k-pre-seed-investment-in-singapores-virdalis/": {
+    "valid": false
+  },
+  "https://www.insidermedia.com/news/midlands/loughborough-spin-out-secures-funding-to-support-its-drive-to-transform-drug-testing": {
+    "valid": false
   }
 }

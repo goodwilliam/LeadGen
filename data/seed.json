@@ -1,8 +1,78 @@
 {
-  "generated_at": "2026-03-16T08:48:28.251447Z",
-  "count": 27,
-  "enriched_count": 18,
+  "generated_at": "2026-03-16T12:55:27.378263Z",
+  "count": 30,
+  "enriched_count": 20,
   "articles": [
+    {
+      "source": "tech.eu",
+      "title": "Choice secures $7.1M Series A to expand its restaurant operating system across Europe",
+      "article_url": "https://tech.eu/2026/03/16/choice-secures-71m-series-a-to-expand-its-restaurant-operating-system-across-europe/",
+      "company": "Choice",
+      "amount_str": "$7.1M",
+      "pub_date": "2026-03-16T11:34:04Z",
+      "website": "https://www.choicehotels.com",
+      "linkedin_url": "https://linkedin.com/company/choice",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Loxa raises \u00a32.7m seed funding to tackle furniture retail returns - InteriorDaily",
+      "article_url": "https://www.interiordaily.com/article/9819879/loxa-raises-ps2-7m-seed-funding-to-tackle-furniture-retail-returns/",
+      "company": "Loxa",
+      "amount_str": "\u00a32.7m",
+      "pub_date": "2026-03-16T10:12:27Z",
+      "website": "http://www.loxacover.com",
+      "linkedin_url": "https://linkedin.com/company/bolt-cover",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "info@loxacover.com",
+      "twitter_url": ""
+    },
+    {
+      "source": "tech.eu",
+      "title": "Italian startup Alomana raises \u20ac4M for its AI operating layer for enterprise workflows",
+      "article_url": "https://tech.eu/2026/03/16/italian-startup-alomana-raises-4m-for-its-ai-operating-layer-for-enterprise-workflows/",
+      "company": "Alomana",
+      "amount_str": "\u20ac4M",
+      "pub_date": "2026-03-16T09:50:44Z",
+      "website": "https://alomana.com",
+      "linkedin_url": "https://linkedin.com/company/alomana",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "tech.eu",
+      "title": "WhiteBridge AI raises $3M to redefine standards in people search and research",
+      "article_url": "https://tech.eu/2026/03/16/whitebridge-ai-raises-3m-to-redefine-standards-in-people-search-and-research/",
+      "company": "WhiteBridge AI",
+      "amount_str": "$3M",
+      "pub_date": "2026-03-16T09:48:32Z",
+      "website": "https://whitebridge.cloud",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/whitebridge_ai"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Kenyan startup raises $25 million to meet high demand for affordable electric motorcycles",
+      "article_url": "https://africa.businessinsider.com/local/markets/kenyan-startup-raises-dollar25-million-to-meet-high-demand-for-affordable-electric/vt3ntnv",
+      "company": "Kenyan startup",
+      "amount_str": "$25 m",
+      "pub_date": "2026-03-16T08:55:53Z",
+      "website": "https://assek.ke",
+      "linkedin_url": "https://linkedin.com/company/kayana",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Omar Mohamed departs Boston Consulting Group to take on Head of UK and Ireland role at Duvo",
@@ -44,20 +114,6 @@
       "founder_linkedin_url": "",
       "contact_email": "hello@very.org",
       "twitter_url": "https://x.com/veryai"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Real Estate Startup OfficeBanao Raises Nearly $4 Mn To Expand Business Operations",
-      "article_url": "https://www.bwdisrupt.com/article/real-estate-startup-officebanao-raises-nearly-4-mn-to-expand-business-operations-597686",
-      "company": "Real Estate Startup OfficeBanao",
-      "amount_str": "$4 M",
-      "pub_date": "2026-03-16T03:24:49Z",
-      "website": "https://economictimes.indiatimes.com",
-      "linkedin_url": "https://linkedin.com/company/economictimes",
-      "founder_name": "along with",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/economictimes"
     },
     {
       "source": "Google Alerts",
@@ -170,20 +226,6 @@
       "founder_linkedin_url": "",
       "contact_email": "hello@arklabs.xyz",
       "twitter_url": "https://x.com/ArkLabsHQ"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Relaxy raises pre-seed funding from Sajida Foundation - The Daily Star",
-      "article_url": "https://online.thedailystar.net/bot-business/news/relaxy-raises-pre-seed-funding-sajida-foundation-3301866",
-      "company": "Relaxy",
-      "amount_str": "",
-      "pub_date": "2026-03-15T08:39:47Z",
-      "website": "https://www.relaxy.net",
-      "linkedin_url": "https://linkedin.com/company/relaxy-ltd",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "tech.eu",
