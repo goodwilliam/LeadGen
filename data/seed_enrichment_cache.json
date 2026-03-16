@@ -4885,5 +4885,118 @@
   },
   "https://www.startupgrantsindia.com/?search=seed+grant": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-banco-santander-sa-investors-to-inquire-about-securities-class-action-investigation--san-302714198.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-elauwit-connection-inc-investors-to-inquire-about-securities-class-action-investigation--elwt-302714201.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/qure-investors-have-opportunity-to-lead-uniqure-nv-securities-fraud-lawsuit-302714196.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/cort-investors-have-opportunity-to-lead-corcept-therapeutics-incorporated-securities-fraud-lawsuit-302714200.html": {
+    "valid": false
+  },
+  "https://eu.36kr.com/de/p/3725011091012225": {
+    "valid": false
+  },
+  "https://www.binance.com/en/square/post/302021594229745": {
+    "valid": false
+  },
+  "https://eu.36kr.com/en/p/3721427506346368": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://mp.weixin.qq.com/s",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.africacapitaldigest.com/2026/03/15/orca-fraud-raises-seed-round-from-investors-led-by-norrsken22/": {
+    "valid": true,
+    "company": "Orca Fraud",
+    "amount_str": "",
+    "website": "https://www.orca-fraud.com",
+    "linkedin_url": "https://linkedin.com/company/101437150",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.proptechbuzz.com/news/scopey-onsite-pre-seed-funding-construction-tech": {
+    "valid": true,
+    "company": "Scopey Onsite",
+    "amount_str": "$850K",
+    "website": "https://www.fieldtechtools.land",
+    "linkedin_url": "https://linkedin.com/company/spectora-home-inspection-software",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@inspectify.com",
+    "twitter_url": ""
+  },
+  "https://www.ictworks.org/improve-government-services/": {
+    "valid": false
+  },
+  "https://kr-asia.com/chinas-guangfan-positions-ai-wearables-as-the-next-computing-platform": {
+    "valid": false
+  },
+  "https://www.zawya.com/en/business/fintech/uae-fintech-sector-set-to-reach-571bln-by-2029-amid-rapid-innovation-growth-nv8heyht": {
+    "valid": false
+  },
+  "https://www.bwdisrupt.com/article/real-estate-startup-officebanao-raises-nearly-4-mn-to-expand-business-operations-597686": {
+    "valid": true,
+    "company": "Real Estate Startup OfficeBanao",
+    "amount_str": "$4 M",
+    "website": "https://economictimes.indiatimes.com",
+    "linkedin_url": "https://linkedin.com/company/economictimes",
+    "founder_name": "along with",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/economictimes"
+  },
+  "https://www.bwdisrupt.com/article/sequoia-alumni-s-ambition-capital-plans-250-mn-early-stage-venture-fund-raise-597680": {
+    "valid": false
+  },
+  "https://www.bwdisrupt.com/article/preventive-paincare-startup-betterhood-raises-rs-5-cr-in-seed-funding-round-597679": {
+    "valid": true,
+    "company": "Preventive Paincare Startup Betterhood",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Gaurav Munjal To Remain",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.digitaltoday.co.kr/en/view/39296/standard-kernel-raises-20-million-seed-to-automatically-optimize-gpu-performance-with-ai": {
+    "valid": true,
+    "company": "Standard Kernel",
+    "amount_str": "$20 m",
+    "website": "https://www.generalcatalyst.com",
+    "linkedin_url": "https://linkedin.com/company/general-catalyst",
+    "founder_name": "only banks extend",
+    "founder_linkedin_url": "",
+    "contact_email": "info@generalcatalyst.com",
+    "twitter_url": "https://x.com/generalcatalyst"
+  },
+  "https://m.economictimes.com/tech/funding/preventive-paincare-startup-betterhood-raises-rs-5-crore-led-by-kairon-capital/articleshow/129594906.cms": {
+    "valid": true,
+    "company": "Preventive paincare startup Betterhood",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://cryptorank.io/es/news/feed/30a46-google-wiz-acquisition-32-billion": {
+    "valid": false
+  },
+  "https://entarabi.com/en/2026/03/xai-undergoes-major-overhaul-as-co-founders-depart-and-competition-intensifies/": {
+    "valid": false
   }
 }
