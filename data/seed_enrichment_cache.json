@@ -5202,5 +5202,344 @@
   },
   "https://www.insidermedia.com/news/midlands/loughborough-spin-out-secures-funding-to-support-its-drive-to-transform-drug-testing": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/03/16/walmart-backed-phonepe-shelves-ipo-as-global-tensions-rattle-markets/": {
+    "valid": false
+  },
+  "https://www.geekwire.com/2026/seattle-startup-certiv-launches-with-4-2m-to-build-endpoint-security-layer-for-ai-agents/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/photocure-trials-in-progress-presented-at-the-european-association-of-urology-eau-2026-congress-aim-to-enable-a-more-personalized-bladder-cancer-care-pathway-302714884.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/photocure-trials-in-progress-presented-at-the-european-association-of-urology-eau-2026-congress-aim-to-enable-a-more-personalized-bladder-cancer-care-pathway-302714882.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/shareholder-alert-the-ademi-firm-investigates-whether-national-storage-affiliates-trust-is-obtaining-a-fair-price-for-its-public-shareholders-302714779.html": {
+    "valid": false
+  },
+  "https://european-biotechnology.com/latest-news/ternary-therapeutics-lands-e4-1m-seed-round-to-push-ai-designed-molecular-glues-into-inflammatory-disease/": {
+    "valid": false
+  },
+  "https://betakit.com/feds-commit-nearly-225-to-advance-canadas-sovereign-space-launch-capabilities/": {
+    "valid": false
+  },
+  "https://markets.businessinsider.com/news/stocks/tech-veteran-kp-reddy-launches-ai-platform-company-to-transform-construction-industry-secures-backing-of-general-catalyst-with-13-8m-seed-round-1035932937": {
+    "valid": true,
+    "company": "Veteran KP Reddy",
+    "amount_str": "",
+    "website": "https://www.streetinsider.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://refreshmiami.com/news/8-things-to-know-in-miamitech-dark-watch-raises-3-5m-plus-news-from-propy-flow-powerus-glade-brook-capital-partners-first-in-job-opportunities-more/": {
+    "valid": true,
+    "company": "Dark Watch",
+    "amount_str": "$3.5M",
+    "website": "https://darkwatch.io",
+    "linkedin_url": "https://linkedin.com/company/dark-watch",
+    "founder_name": "said Dark Watch",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/DarkWatch621033"
+  },
+  "https://www.crowdfundinsider.com/2026/03/266227-coreworks-ai-opens-ai-agent-waitlist-confirms-5m-seed/": {
+    "valid": false
+  },
+  "https://www.bisinfotech.com/agnit-semiconductors-bolsters-indias-deep-tech-ambitions-with-2-6m-funding/": {
+    "valid": false
+  },
+  "https://entrackr.com/snippets/officebanao-raises-4-mn-led-by-lightspeed-11216087": {
+    "valid": true,
+    "company": "OfficeBanao",
+    "amount_str": "$4 M",
+    "website": "https://officebanao.com",
+    "linkedin_url": "https://linkedin.com/company/officebanao",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://entrackr.com/snippets/agnit-semiconductors-raises-26-mn-in-seed-extension-led-by-shastra-vc-11216664": {
+    "valid": true,
+    "company": "Bengaluru-based AGNIT Semiconductors",
+    "amount_str": "$2.6 m",
+    "website": "https://www.agnitsemi.com",
+    "linkedin_url": "https://linkedin.com/company/agnitsemi",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@agnitsemi.com",
+    "twitter_url": ""
+  },
+  "https://www.biometricupdate.com/202603/biometric-idv-startup-raises-1m-opens-us-operations-and-launches-anti-fraud-suite": {
+    "valid": true,
+    "company": "Biometric IDV startup",
+    "amount_str": "$1M",
+    "website": "https://www.biometricupdate.com",
+    "linkedin_url": "https://linkedin.com/company/biometric-update",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/biometricupdate"
+  },
+  "https://resiliencemedia.co/is-defence-tech-a-proper-vc-backable-vertical/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://bsky.app/profile/resiliencemedia.bsky.social",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.communicationstoday.co.in/agnit-semiconductors-raises-2-6m-in-seed-extension-round-led-by-shastra-vc/": {
+    "valid": false
+  },
+  "https://www.livemint.com/companies/atlys-visa-processing-startup-raises-funding-makemytrip-invests-11773664574465.html": {
+    "valid": true,
+    "company": "Atlys",
+    "amount_str": "$36 m",
+    "website": "https://link.atlys.com",
+    "linkedin_url": "https://linkedin.com/company/getatlys",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/mohaknahta",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://refreshmiami.com/news/boca-startup-sivotec-combines-genetics-and-ai-to-help-clinicians-diagnose-diseases/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/ai-valuations-outpace-performance-hedge-hype-founders/": {
+    "valid": false
+  },
+  "https://www.business-standard.com/companies/start-ups/visa-processing-startup-atlys-raises-36-million-series-c-susquehanna-asia-126031600997_1.html": {
+    "valid": true,
+    "company": "Atlys",
+    "amount_str": "$36 m",
+    "website": "https://enterprise.atlys.com",
+    "linkedin_url": "https://linkedin.com/company/getatlys",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/mohaknahta",
+    "contact_email": "",
+    "twitter_url": "https://x.com/atlys"
+  },
+  "https://theaiinsider.tech/2026/03/16/ezra-secures-8m-seed-round-to-build-institutional-grade-ai-infrastructure-for-private-capital-markets/": {
+    "valid": true,
+    "company": "Ezra",
+    "amount_str": "$8M",
+    "website": "https://www.ezra.net",
+    "linkedin_url": "https://linkedin.com/company/ezrainc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.moneycontrol.com/news/business/funding/atlys-raises-36-million-in-series-c-round-led-by-susquehanna-asia-vc-13861972.html/amp": {
+    "valid": true,
+    "company": "Atlys",
+    "amount_str": "$36 m",
+    "website": "https://link.atlys.com",
+    "linkedin_url": "https://linkedin.com/company/getatlys",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/mohaknahta",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/maven-invests-15m-in-chorus-to-tackle-digital-crime-data-overload/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/moonshot-ai-1b-funding-18b-valuation-kimi/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/audiumcp/status/2033557342294274157": {
+    "valid": true,
+    "company": "Eileen",
+    "amount_str": "$1M",
+    "website": "https://www.frankandeileen.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/eileen-m-a2320b264",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/03/scinus-group-receives-e3m-strategic-investment-from-myosotis-investments.html": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/03/with-europe-reliant-on-foreign-critical-raw-materials-germanys-wesort-ai-raises-e10-million-to-recover-them-from-waste/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/agzen-raises-10m-in-series-b-funding.html": {
+    "valid": false
+  },
+  "https://www.moomoo.com/news/post/66932621/eileen-gets-1m-pre-seed-funding-led-by-top-shelf": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/google-acquires-wiz.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/amplifon-acquires-gn-hearing.html": {
+    "valid": false
+  },
+  "https://x.com/audiumcp/status/2033555470141571097": {
+    "valid": true,
+    "company": "Mutable Tactics",
+    "amount_str": "$2.1M",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/mutabletactics",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/03/alomana-raises-e4m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/certiv-raises-4-2m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/fibionic-raises-e3m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/nadia-care-raises-12m-in-funding.html": {
+    "valid": false
+  },
+  "https://pulse2.com/understood-care-8-4-million-raised-for-ai-native-patient-advocacy-platform/": {
+    "valid": true,
+    "company": "Understood Care announced it",
+    "amount_str": "$8.4 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Sam Wu",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/03/eileen-raises-1m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.startupbusiness.it/en/traveltech-firm-hint-raises-e500000-in-a-pre-seed-funding-round/156953/": {
+    "valid": false
+  },
+  "https://www.morningstar.com/news/pr-newswire/20260316ny09219/understood-care-raises-84m-to-scale-ai-native-infrastructure-layer-for-patient-advocacy": {
+    "valid": true,
+    "company": "Understood Care",
+    "amount_str": "$8.4M",
+    "website": "https://understoodcare.com",
+    "linkedin_url": "https://linkedin.com/company/understood-care",
+    "founder_name": "said Sam Wu",
+    "founder_linkedin_url": "",
+    "contact_email": "Hello@UnderstoodCare.com",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/03/chorus-intelligence-receives-15m-investment-from-maven.html": {
+    "valid": false
+  },
+  "https://finance.yahoo.com/news/eileen-inc-secures-1m-pre-140000782.html": {
+    "valid": true,
+    "company": "Eileen Inc.",
+    "amount_str": "$1M",
+    "website": "https://shopwitheileen.com",
+    "linkedin_url": "https://linkedin.com/company/eileen",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ShopwithEileen"
+  },
+  "https://www.finsmes.com/2026/03/understood-care-raises-5m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://techfundingnews.com/meta-nebius-27b-ai-cloud-deal-nvidia-rubin/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/grodi-raises-e2-5m-in-funding.html": {
+    "valid": false
+  },
+  "https://www.livemint.com/focus/the-gold-standard-how-one-bootstrapped-company-to-avoid-an-absolute-claim-11773657372924.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bizcommunity.com/article/orca-fraud-raises-r40m-to-scale-fraud-detection-in-emerging-markets-844743a": {
+    "valid": false
+  },
+  "https://techpoint.africa/news/terras-drones-weapons-combat-ready/": {
+    "valid": false
+  },
+  "https://www.agriinvestor.com/field-notes-carbon-markets-face-structural-risk-australian-farmland-finishes-2025-with-a-positive-annualized-return/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.peievents.com/en",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/03/16/another-earth-raises-4m-to-expand-ai-platform-for-synthetic-satellite-data/": {
+    "valid": true,
+    "company": "Vienna-based startup Another Earth",
+    "amount_str": "$4 m",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fortune.com/2026/03/16/bulletpitch-shark-tank-influencers-gen-z-hudson-yards-eterneva-popwtr/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cxense.com/ari.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.360dx.com/pcr/signal-bioscience-looks-boost-digital-pcr-qpcr-multiplexing-molecular-test-developers": {
+    "valid": false
+  },
+  "https://www.theinformation.com/newsletters/ai-agenda/openai-owe-elon-musk-xai-hiring-spree": {
+    "valid": false
+  },
+  "https://www.thedakotascout.com/p/johnson-outlines-plan-to-help-homegrown": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/03/16/handle-closes-6m-funding-round-to-expand-ai-agent-platform-for-enterprise-operations/": {
+    "valid": true,
+    "company": "Handle",
+    "amount_str": "$6M",
+    "website": "https://www.handle.com",
+    "linkedin_url": "https://linkedin.com/company/handlecorporation",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/HandleUS"
+  },
+  "https://news.crunchbase.com/ma/data-small-midsized-venture-backed-startup-acquisitions/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/standard-kernel-raises-20m-to-automate-gpu-optimisation-with-ai/": {
+    "valid": false
   }
 }
