@@ -5541,5 +5541,199 @@
   },
   "https://techfundingnews.com/standard-kernel-raises-20m-to-automate-gpu-optimisation-with-ai/": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/03/16/samsung-bets-this-island-startup-can-tame-the-grid-with-software-and-batteries/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/": {
+    "valid": false
+  },
+  "https://venturebeat.com/infrastructure/nvidia-introduces-vera-rubin-a-seven-chip-ai-platform-with-openai-anthropic": {
+    "valid": false
+  },
+  "https://venturebeat.com/infrastructure/nvidias-dgx-station-is-a-desktop-supercomputer-that-runs-trillion-parameter": {
+    "valid": false
+  },
+  "https://venturebeat.com/security/openclaw-can-bypass-your-edr-dlp-and-iam-without-triggering-a-single-alert": {
+    "valid": false
+  },
+  "https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among": {
+    "valid": false
+  },
+  "https://betakit.com/boreal-ventures-launches-second-seed-fund-with-43-million-first-close/": {
+    "valid": false
+  },
+  "https://www.geekwire.com/2026/faq-what-the-millionaires-tax-means-for-seattle-startup-founders-investors-and-tech-workers/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/nuscale-power-corporation-smr-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302715036.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/inovio-pharmaceuticals-inc-ino-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302715025.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/dumfries-secures-1-2-million-in-federal-funding-for-quantico-creek-flood-mitigationannouncement-featured-in-hellonation-302715143.html": {
+    "valid": true,
+    "company": "Dumfries",
+    "amount_str": "$1.2 M",
+    "website": "https://www.dumfriesva.gov",
+    "linkedin_url": "https://linkedin.com/company/town-of-dumfries",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "webpageupdate_subscribers@revize.com",
+    "twitter_url": "https://x.com/DumfriesTownVA"
+  },
+  "https://www.prnewswire.com/news-releases/snow-investor-deadline-approaching-faruqi--faruqi-llp-reminds-snowflake-snow-investors-of-securities-class-action-deadline-on-april-27-2026-302715027.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-action-notice-moore-law-pllc-encourages-investors-in-terran-orbital-corporation-to-contact-law-firm-302715135.html": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/cameronleer_the-godfather-of-deep-learning-just-raised-activity-7439221365213126656-Bh57": {
+    "valid": true,
+    "company": "The godfather of deep learning just",
+    "amount_str": "$1 b",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Power Tank",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/MunshiPremChnd/status/2033373034992619763": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.df213efa.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.axios.com/pro/climate-deals/2026/03/16/halcyon-funding-21-million": {
+    "valid": false
+  },
+  "https://sceniusmexico.substack.com/p/a16z-bets-on-mexico-again": {
+    "valid": false
+  },
+  "https://www.bitget.com/amp/academy/12560603875201": {
+    "valid": true,
+    "company": "Cryptocurrency",
+    "amount_str": "",
+    "website": "https://coinmarketcap.com",
+    "linkedin_url": "https://linkedin.com/company/coinmarketcap",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/nischalshetty",
+    "contact_email": "",
+    "twitter_url": "https://x.com/coinmarketcap"
+  },
+  "https://www.axios.com/pro/all-deals/2026/03/16/pro-rata-premium-first-look": {
+    "valid": false
+  },
+  "https://www.latintimes.com/look-whats-store-latin-americas-venture-capital-landscape-2026-595703": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/great-sky-raises-14m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://startuprise.io/eileen-raises-1m-in-pre-seed-funding/": {
+    "valid": true,
+    "company": "Eileen",
+    "amount_str": "$1M",
+    "website": "https://www.frankandeileen.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/eileen-haffner-a976347b",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/03/mutable-tactics-raises-2-1m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.tipranks.com/news/private-companies/understood-care-raises-8-4-million-to-scale-ai-driven-patient-advocacy-for-medicare-population": {
+    "valid": false
+  },
+  "https://www.youtube.com/shorts/hxUb-RiWzr0": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://i.ytimg.com/generate_204",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://o.parsers.vc/startup/industrialmind.ai/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://ventureburn.com/great-sky-raises-14m-in-seed-funding-to-accelerate-growth/": {
+    "valid": true,
+    "company": "Great Sky",
+    "amount_str": "$14M",
+    "website": "https://www.greatsky.ai",
+    "linkedin_url": "https://linkedin.com/company/great-sky-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@greatsky.ai",
+    "twitter_url": ""
+  },
+  "https://www.cxodigitalpulse.com/veryai-secures-10m-seed-funding-for-ai-driven-palm-identity-verification/": {
+    "valid": true,
+    "company": "VeryAI",
+    "amount_str": "$10 m",
+    "website": "https://very.org",
+    "linkedin_url": "https://linkedin.com/company/very-ai",
+    "founder_name": "said Zach Meltzer",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@very.org",
+    "twitter_url": "https://x.com/veryai"
+  },
+  "https://armoneyandpolitics.com/outdoor-incubator-gorp-2026-cohort/": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/03/16/with-europe-reliant-on-foreign-critical-raw-materials-germanys-wesort-ai-raises-e10-million-to-recover-them-from-waste/": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/cincinnati/news/2026/03/16/fire-award-inno-hottest-startups-funding-inno-news.html": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/washington/news/2026/03/16/urgently-agero-acquisition-roadside-tech.html": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/03/ternary-therapeutics-targets-undruggable-proteins-with-ai-designed-molecular-glues-raising-e4-1-million/": {
+    "valid": false
+  },
+  "https://x.com/TFNBreakingNews/status/2033551499813704101": {
+    "valid": false
+  },
+  "https://femtechinsider.com/malama-health-raises-9-2m-to-scale-doula-led-maternal-care-for-medicaid-populations/": {
+    "valid": true,
+    "company": "Malama Health",
+    "amount_str": "$9.2M",
+    "website": "https://heymalama.co",
+    "linkedin_url": "https://linkedin.com/company/malama-health",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "https://linkedin.com/in/orlandoli",
+    "contact_email": "hello@heymalama.com",
+    "twitter_url": ""
+  },
+  "https://www.startupresearcher.com/news/paincare-startup-betterhood-secures-usd540-000-seed-funding": {
+    "valid": false
+  },
+  "https://www.startupmag.co.uk/funding/datawollet-2026-pre-seed-funding/": {
+    "valid": false
   }
 }
