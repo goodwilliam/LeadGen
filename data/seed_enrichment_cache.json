@@ -5735,5 +5735,193 @@
   },
   "https://www.startupmag.co.uk/funding/datawollet-2026-pre-seed-funding/": {
     "valid": false
+  },
+  "https://venturebeat.com/orchestration/how-linkedin-replaced-five-feed-retrieval-systems-with-one-llm-model-at-1-3": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/16/frore-systems-scores-143m-funding-1-64b-valuation-help-ai-chips-run-cooler/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/16/roboforce-raises-52m-develop-physical-ai-robots-industrial-labor/": {
+    "valid": true,
+    "company": "RoboForce",
+    "amount_str": "$52M",
+    "website": "https://www.roboforce.ai",
+    "linkedin_url": "https://linkedin.com/company/roboforce-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@roboforce.ai",
+    "twitter_url": "https://x.com/roboforce_ai"
+  },
+  "https://www.geekwire.com/2026/ramp-acquires-juno-a-corporate-travel-expense-startup-backed-by-madrona/": {
+    "valid": false
+  },
+  "https://www.geekwire.com/2026/former-crowdstrike-and-bloomberg-engineers-raise-2m-for-seattle-fintech-startup-opencfo/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/brayton-purcell-llp-applauds-national-spotlight-on-artificial-stone-silicosis-crisis-following-new-york-times-investigation-302715355.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/darcyiq-launches-support-for-aws-partner-central-agents-bringing-ai-powered-co-sell-and-funding-intelligence-directly-into-partner-workflows-302715334.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/ramaco-deadline-metc-investors-have-opportunity-to-lead-ramaco-resources-inc-securities-fraud-lawsuit-302715265.html": {
+    "valid": false
+  },
+  "https://www.scworld.com/brief/ai-security-startups-bold-and-onyx-launch-with-40-million-each": {
+    "valid": true,
+    "company": "Bold Security",
+    "amount_str": "$40 m",
+    "website": "https://www.bold.security",
+    "linkedin_url": "https://linkedin.com/company/bold-security",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://betakit.com/feds-commit-nearly-225-million-to-advance-canadas-sovereign-space-launch-capabilities/": {
+    "valid": false
+  },
+  "https://www.americanbanker.com/news/7-forbes-30-under-30-fintech-founders-who-landed-in-court": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/devanreddy1_zero-rfi-raises-seed-round-for-construction-activity-7439318614626754560-Rzc5": {
+    "valid": true,
+    "company": "Zero RFI",
+    "amount_str": "",
+    "website": "https://github.com",
+    "linkedin_url": "https://linkedin.com/company/github",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "you@domain.com",
+    "twitter_url": "https://x.com/github"
+  },
+  "https://www.linkedin.com/posts/entrackr_pain-care-startup-betterhood-raises-seed-activity-7439218106427781120-i9He": {
+    "valid": true,
+    "company": "Pain care startup Betterhood",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/gyan-vardhan-071272a2_pain-care-startup-betterhood-raises-seed-activity-7439201726878040065-Ahrc": {
+    "valid": true,
+    "company": "Pain care startup Betterhood",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/entrackr/status/2033438881526542379": {
+    "valid": true,
+    "company": "Pain care startup Betterhood",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/03/frore-systems-becomes-1-64b-unicorn-raises-143m-in-series-d-funding.html": {
+    "valid": false
+  },
+  "https://inforcapital.com/news/mutable-tactics-raises-21m-in-pre-seed-funding/": {
+    "valid": true,
+    "company": "Mutable Tactics",
+    "amount_str": "$2.1M",
+    "website": "https://pitchbook.com",
+    "linkedin_url": "https://linkedin.com/company/mutabletactics",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://venturecapital.com/headlines/funding-events/eileen-inc-raises-1-million-in-preseed-funding-round-led-by-top-shelf-ventures-v1": {
+    "valid": true,
+    "company": "Eileen Inc.",
+    "amount_str": "$1 M",
+    "website": "https://shopwitheileen.com",
+    "linkedin_url": "https://linkedin.com/company/eileen",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ShopwithEileen"
+  },
+  "https://www.sgieurope.com/financing/kmd-brands-calls-in-goldman-amid-debt-pressure/120083.article": {
+    "valid": false
+  },
+  "https://x.com/audiumcp/status/2033558879179522196": {
+    "valid": true,
+    "company": "Certiv",
+    "amount_str": "$4.2M",
+    "website": "https://certiv.ai",
+    "linkedin_url": "https://linkedin.com/company/certiv",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@certiv.ai",
+    "twitter_url": "https://x.com/certiv_ai"
+  },
+  "https://vcnewsdaily.com/eileen/venture-capital-funding/bjynzczrwv": {
+    "valid": true,
+    "company": "Eileen",
+    "amount_str": "$1M",
+    "website": "https://www.frankandeileen.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/eileen-m-a2320b264",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startuprise.io/halcyon-raises-21m-in-series-a-funding/": {
+    "valid": true,
+    "company": "Halcyon",
+    "amount_str": "$21M",
+    "website": "https://halcyonofficial.net",
+    "linkedin_url": "https://linkedin.com/company/halcyonai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/HalcyonHallie"
+  },
+  "https://ventureburn.com/halcyon-raises-21m-series-a-for-ai-energy-intelligence/": {
+    "valid": true,
+    "company": "Halcyon",
+    "amount_str": "$21M",
+    "website": "https://halcyonofficial.net",
+    "linkedin_url": "https://linkedin.com/company/halcyonai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/HalcyonHallie"
+  },
+  "https://www.frenchtechjournal.com/frances-deeptech-startups-raise-eu4-1b-as-sovereign-tech-rises-but-seed-funding-stalls/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/frore-systems-143m-1-64b-ai-cooling-unicorn/": {
+    "valid": false
+  },
+  "https://www.crainsnewyork.com/health-pulse/baba-comes-out-stealth-seed-funding-remote-patient-advocates/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://preferences-mgr.truste.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
