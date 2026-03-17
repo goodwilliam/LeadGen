@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-03-17T01:25:08.591868Z",
-  "count": 29,
-  "enriched_count": 22,
+  "generated_at": "2026-03-17T05:20:56.167986Z",
+  "count": 26,
+  "enriched_count": 19,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Can ECG predict heart attacks? HEARTio raises $4.25M to prove it. Here's how!",
+      "article_url": "https://techfundingnews.com/can-a-simple-ecg-predict-a-heart-attack-early-heartio-raises-4-25m-to-make-it-possible/",
+      "company": "Can ECG predict heart attacks? HEARTio",
+      "amount_str": "$4.25M",
+      "pub_date": "2026-03-17T01:05:08Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "backs Webel",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "AI security startups Bold and Onyx launch with $40 million each | brief | SC Media",
@@ -30,6 +44,20 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Eileen Inc. Raises $1 Million in Pre-Seed Funding Round Led by Top Shelf Ventures",
+      "article_url": "https://venturecapital.com/headlines/funding-events/eileen-inc-raises-1-million-in-preseed-funding-round-led-by-top-shelf-ventures-v1",
+      "company": "Eileen Inc.",
+      "amount_str": "$1 M",
+      "pub_date": "2026-03-16T22:01:07Z",
+      "website": "https://shopwitheileen.com",
+      "linkedin_url": "https://linkedin.com/company/eileen",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/ShopwithEileen"
     },
     {
       "source": "SiliconAngle",
@@ -117,20 +145,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Malama Health Raises $9.2M to Scale Doula-Led Maternal Care for Medicaid Populations",
-      "article_url": "https://femtechinsider.com/malama-health-raises-9-2m-to-scale-doula-led-maternal-care-for-medicaid-populations/",
-      "company": "Malama Health",
-      "amount_str": "$9.2M",
-      "pub_date": "2026-03-16T16:40:01Z",
-      "website": "https://heymalama.co",
-      "linkedin_url": "https://linkedin.com/company/malama-health",
-      "founder_name": "founder and",
-      "founder_linkedin_url": "https://linkedin.com/in/orlandoli",
-      "contact_email": "hello@heymalama.com",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "Tech Veteran KP Reddy Launches AI Platform Company to Transform Construction Industry ...",
       "article_url": "https://markets.businessinsider.com/news/stocks/tech-veteran-kp-reddy-launches-ai-platform-company-to-transform-construction-industry-secures-backing-of-general-catalyst-with-13-8m-seed-round-1035932937",
       "company": "Veteran KP Reddy",
@@ -201,34 +215,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "AGNIT Semiconductors raises $2.6 Mn in seed extension led by Shastra VC - Entrackr",
-      "article_url": "https://entrackr.com/snippets/agnit-semiconductors-raises-26-mn-in-seed-extension-led-by-shastra-vc-11216664",
-      "company": "Bengaluru-based AGNIT Semiconductors",
-      "amount_str": "$2.6 m",
-      "pub_date": "2026-03-16T15:01:17Z",
-      "website": "https://www.agnitsemi.com",
-      "linkedin_url": "https://linkedin.com/company/agnitsemi",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "info@agnitsemi.com",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Biometric IDV startup raises $1M, opens US operations and launches anti-fraud suite",
-      "article_url": "https://www.biometricupdate.com/202603/biometric-idv-startup-raises-1m-opens-us-operations-and-launches-anti-fraud-suite",
-      "company": "Biometric IDV startup",
-      "amount_str": "$1M",
-      "pub_date": "2026-03-16T14:37:25Z",
-      "website": "https://www.biometricupdate.com",
-      "linkedin_url": "https://linkedin.com/company/biometric-update",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/biometricupdate"
-    },
-    {
-      "source": "Google Alerts",
       "title": "Cameron-Lee Roberts' Post - LinkedIn",
       "article_url": "https://www.linkedin.com/posts/cameronleer_the-godfather-of-deep-learning-just-raised-activity-7439221365213126656-Bh57",
       "company": "The godfather of deep learning just",
@@ -284,20 +270,6 @@
       "twitter_url": ""
     },
     {
-      "source": "Google Alerts",
-      "title": "Orca Fraud Raises Seed Round from Investors Led by Norrsken22 - Africa Capital Digest",
-      "article_url": "https://www.africacapitaldigest.com/2026/03/15/orca-fraud-raises-seed-round-from-investors-led-by-norrsken22/",
-      "company": "Orca Fraud",
-      "amount_str": "",
-      "pub_date": "2026-03-16T01:38:36Z",
-      "website": "https://www.orca-fraud.com",
-      "linkedin_url": "https://linkedin.com/company/101437150",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
       "source": "tech.eu",
       "title": "Nscale raises $2B, Legora makes first acquisition, and the 28th regime in trouble?",
       "article_url": "https://tech.eu/2026/03/13/nscale-raises-2b-legora-makes-first-acquisition-and-the-28th-regime-in-trouble/",
@@ -338,20 +310,6 @@
       "founder_linkedin_url": "https://linkedin.com/in/toddtower",
       "contact_email": "back-in-stock@notifyboost.net",
       "twitter_url": "https://x.com/TowerRecords"
-    },
-    {
-      "source": "SiliconAngle",
-      "title": "Verifiable AI startup Axiom raises $200M to prove AI-generated code is safe to use",
-      "article_url": "https://siliconangle.com/2026/03/12/verifiable-ai-startup-axiom-raises-200m-prove-ai-generated-code-safe-use/",
-      "company": "Verifiable AI startup Axiom",
-      "amount_str": "$200M",
-      "pub_date": "2026-03-13T01:22:40Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "tech.eu",

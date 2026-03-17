@@ -5923,5 +5923,78 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/mndy-investors-have-opportunity-to-lead-mondaycom-ltd-securities-fraud-lawsuit-302715266.html": {
+    "valid": false
+  },
+  "https://techfundingnews.com/first-concepts-antler-ai-creativity-tfn/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "backs Webel",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://markets.financialcontent.com/stocks/article/abnewswire-2026-3-17-living-forever-ai-awarded-elevenlabs-grant-accelerating-voice-powered-legacy-platform-for-thousands-of-families": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/halcyon-raises-21m-in-series-a-funding.html": {
+    "valid": false
+  },
+  "https://www.goskagit.com/certiv-emerges-from-stealth-to-launch-the-first-runtime-assurance-layer-for-ai-agents/article_b5cdfe2f-b001-5c49-b542-46abc71b8b95.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/can-a-simple-ecg-predict-a-heart-attack-early-heartio-raises-4-25m-to-make-it-possible/": {
+    "valid": true,
+    "company": "Can ECG predict heart attacks? HEARTio",
+    "amount_str": "$4.25M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "backs Webel",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://wnhub.io/news/other/item-50341": {
+    "valid": false
+  },
+  "https://kr-asia.com/deals-in-brief-wavemaker-impact-backs-virdalis-metacomp-and-dtcpay-raise-funding-pixverse-reaches-unicorn-status-and-more": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.aridge.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.pressreader.com/india/mint-hyderabad/20260317/281895894758197": {
+    "valid": false
+  },
+  "https://inforcapital.com/news/ipermoney-closes-seed-funding-round/": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DV8AEceDbcR/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
