@@ -6244,5 +6244,257 @@
     "founder_linkedin_url": "",
     "contact_email": "info@agnitsemi.com",
     "twitter_url": ""
+  },
+  "https://news.crunchbase.com/venture/fintech-startup-candex-raises-40m-seriesc-extension/": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/venture/unicorn-investment-momentum-ai-sequoia-a16z-2025/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/17/level-nine-raises-eur4m-to-unlock-local-feedstocks-for-chemicals/": {
+    "valid": true,
+    "company": "Level Nine",
+    "amount_str": "\u20ac4M",
+    "website": "https://www.levelninesports.com",
+    "linkedin_url": "https://linkedin.com/company/levelninelabs",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/17/eyou-raises-eur300k-to-build-a-european-social-media-platform-focused-on-trust/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/17/uk-government-pledges-ps1bn-quantum-computing-investment/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/17/wikifarmer-raises-77m-to-develop-ai-tools-for-the-agricultural-supply-chain/": {
+    "valid": true,
+    "company": "Wikifarmer",
+    "amount_str": "$7.7M",
+    "website": "https://wikifarmer.com",
+    "linkedin_url": "https://linkedin.com/company/wikifarmer-corporation",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/17/blify-secures-21m-pre-seed-to-develop-ai-training-platform/": {
+    "valid": true,
+    "company": "Blify",
+    "amount_str": "$2.1M",
+    "website": "https://pitchbook.com",
+    "linkedin_url": "https://linkedin.com/company/blify",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/17/upvest-raises-125m-to-strengthen-its-api-based-investment-platform/": {
+    "valid": true,
+    "company": "Upvest",
+    "amount_str": "$125M",
+    "website": "https://upvest.co",
+    "linkedin_url": "https://linkedin.com/company/upvest",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/upvest"
+  },
+  "https://tech.eu/2026/03/17/steward-an-ai-driven-compliance-platform-managing-100b-raises-5m/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/17/webel-closes-eur43m-funding-round-for-its-home-services-platform/": {
+    "valid": true,
+    "company": "Webel",
+    "amount_str": "\u20ac4.3M",
+    "website": "https://wbwebeltechnology.co.in",
+    "linkedin_url": "https://linkedin.com/company/west-bengal-electronics-industry-development-corporation-limited",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/17/surf-ai-launches-agentic-security-operations-platform-57m-funding-round/": {
+    "valid": true,
+    "company": "Surf AI",
+    "amount_str": "$57M",
+    "website": "https://www.surf.ai",
+    "linkedin_url": "https://linkedin.com/company/asksurf-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/7Iti5Njy4jAkzZxMHmPi01rzt67yk5V2J"
+  },
+  "https://www.prnewswire.com/news-releases/shareholder-alert-purcell--lefkowitz-llp-announces-shareholder-investigation-of-avanos-medical-inc-nyse-avns-302715809.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/tom-ruggie-chfc-cfp-destiny-family-office-founder-explores-potential-ai-driven-investment-bubble-in-forbescom-302715676.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/class-action-notice-berger-montague-advises-driven-brands-holdings-inc-nasdaq-drvn-investors-to-inquire-about-a-securities-fraud-class-action-302715806.html": {
+    "valid": false
+  },
+  "https://www.finextra.com/pressarticle/109193/stablecoin-startup-transfi-closes-192-million-funding-round": {
+    "valid": false
+  },
+  "https://www.modernhealthcare.com/health-tech/mh-top-funding-nitra-translucent-nadia-care/": {
+    "valid": true,
+    "company": "Nitra",
+    "amount_str": "$187M",
+    "website": "https://www.nitra.com",
+    "linkedin_url": "https://linkedin.com/company/nitrahq",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/nitrafinance"
+  },
+  "https://www.startupresearcher.com/news/ai-security-startup-certiv-launches-with-usd4-2-million-pre-seed-funding": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/idel-therapeutics-raises-e9m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://yourstory.com/2026/03/startup-news-and-updates-daily-roundup-march-17-2026": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/eyou-raises-e300k-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.bwdisrupt.com/article/zoomies-raises-rs-5-cr-pre-seed-round-led-by-d2c-insider-super-angels-597996": {
+    "valid": true,
+    "company": "Zoomies",
+    "amount_str": "",
+    "website": "https://zoomieswithlove.com",
+    "linkedin_url": "https://linkedin.com/company/zoomies",
+    "founder_name": "with participation from several",
+    "founder_linkedin_url": "",
+    "contact_email": "admin@zoomieswithlove.com",
+    "twitter_url": ""
+  },
+  "https://www.reddit.com/r/startups/comments/1rw2hi1/slow_preseed_i_will_not_promote/": {
+    "valid": false
+  },
+  "https://www.thehindubusinessline.com/news/pet-food-startup-zoomies-secures-5-crore-to-expand-d2c-operations-in-india/article70753418.ece": {
+    "valid": true,
+    "company": "Pet food startup Zoomies",
+    "amount_str": "",
+    "website": "https://www.indianretailer.com",
+    "linkedin_url": "https://linkedin.com/company/indianretailer",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/hvrcnf"
+  },
+  "https://www.bwdisrupt.com/article/moe-puppy-raises-rs-2-cr-pre-seed-round-led-by-pedalstart-to-expand-597993": {
+    "valid": true,
+    "company": "Moe Puppy",
+    "amount_str": "",
+    "website": "https://www.moepuppy.com",
+    "linkedin_url": "https://linkedin.com/company/moepuppy",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "sales@moepuppy.com",
+    "twitter_url": ""
+  },
+  "https://www.trendingtopics.eu/eyou-european-social-media-startup-raises-e300k-to-fix-social-medias-trust-problem/": {
+    "valid": false
+  },
+  "https://www.tice.news/tice-dispatch/moe-puppy-raises-2-cr-pre-seed-funding-led-by-pedalstart-to-build-a-new-age-pet-care-brand-11220562": {
+    "valid": false
+  },
+  "https://www.indianstartuptimes.com/investment/pet-food-startup-zoomies-raises-%E2%82%B95-cr-pre-seed-round-to-build-clean-affordable-nutrition-for-pets-in-india/": {
+    "valid": false
+  },
+  "https://thenextweb.com/news/eyou-social-media-pre-seed-european-fact-checking": {
+    "valid": false
+  },
+  "https://techfundingnews.com/europes-x-rival-eyou-raises-e300k-for-real-time-fact-checking-social/": {
+    "valid": false
+  },
+  "https://www.panewslab.com/en/articles/019cfa73-ff7d-715a-9651-01b6ae2fdf00": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cloud.umami.is/script.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://mybigplunge.com/startups/funding-news/pet-care-startup-moe-puppy-raises-2-crore-pre-seed-funding-to-expand-premium-pet-wellness-products/": {
+    "valid": true,
+    "company": "Pet Care Startup Moe Puppy",
+    "amount_str": "$216K",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://raising.fi/news/certiv-pre-seed-march-2026": {
+    "valid": true,
+    "company": "Seattle-Based Certiv",
+    "amount_str": "$4.2 M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://solarquarter.com/2026/03/17/smartsolar-secures-1-3-million-debt-funding-to-expand-rooftop-solar-access-in-vietnam/": {
+    "valid": true,
+    "company": "Smartsolar",
+    "amount_str": "$1.3 M",
+    "website": "https://smartsolarau.co",
+    "linkedin_url": "https://linkedin.com/company/smartsolarvn",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "energy@smartsolarau.co",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/seattle/news/2026/03/16/longevity-health-care-startup-vc-funding.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Seattle biotech",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/Minh_Q_Tran/status/2033800689000784042": {
+    "valid": false
+  },
+  "https://en.wowtale.net/2026/03/17/233689/": {
+    "valid": true,
+    "company": "Search OS",
+    "amount_str": "",
+    "website": "https://searchos.io",
+    "linkedin_url": "https://linkedin.com/company/searchos",
+    "founder_name": "hwa Han",
+    "founder_linkedin_url": "",
+    "contact_email": "customer@searchos.io",
+    "twitter_url": ""
   }
 }
