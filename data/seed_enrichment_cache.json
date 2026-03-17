@@ -6496,5 +6496,440 @@
     "founder_linkedin_url": "",
     "contact_email": "customer@searchos.io",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://venturebeat.com/security/nvidia-gtc-2026-agentic-ai-security-five-vendor-governance-framework": {
+    "valid": false
+  },
+  "https://venturebeat.com/technology/nvidia-lets-its-claws-out-nemoclaw-brings-security-scale-to-the-agent": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/17/agent-debugging-startup-laminar-raises-3m-seed-to-tackle-the-observability-gap-in-ai-agents/": {
+    "valid": true,
+    "company": "Agent debugging startup Laminar",
+    "amount_str": "$3M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/17/young-bug-bounty-hunter-bags-6m-pre-seed-round-for-security-startup/": {
+    "valid": true,
+    "company": "Young &quot;bug bounty hunter&quot;",
+    "amount_str": "$6M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/17/workflex-secures-spectrum-equity-backing-to-automate-cross-border-workforce-compliance/": {
+    "valid": true,
+    "company": "WorkFlex",
+    "amount_str": "",
+    "website": "https://workflex.ai",
+    "linkedin_url": "https://linkedin.com/company/getworkflex",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/17/ciaodott-raises-eur15m-pre-seed-to-bring-vertical-voice-ai-to-italys-medical-sector/": {
+    "valid": true,
+    "company": "CiaoDott",
+    "amount_str": "\u20ac1.5M",
+    "website": "https://www.ciaodott.com",
+    "linkedin_url": "https://linkedin.com/company/ciaodott",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/17/albion-venture-capital-trusts-close-ps90m-top-up-offer-as-demand-for-uk-innovation-investments-grows/": {
+    "valid": true,
+    "company": "Albion Venture Capital Trusts",
+    "amount_str": "\u00a390M",
+    "website": "https://www.investing.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/investingcom"
+  },
+  "https://www.prnewswire.com/news-releases/vistra-achieves-investmentgrade-credit-ratings-from-sp-and-fitch-302716271.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/global-times-fresh-stories-from-the-fields-why-does-watermelon-stay-sweet-all-year-round-302716261.html": {
+    "valid": false
+  },
+  "https://finance.yahoo.com/news/google-backed-ai-investors-nobody-113129231.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https:&#x2F;&#x2F;www.yahoo.com&#x2F;",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fortune.com/2026/03/17/google-backed-ai-investors-nobody-took-seriously-2017-raised-220-million-gradient/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cxense.com/ari.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/03/surf-ai-interview-with-ceo-yair-grindlinger.html": {
+    "valid": false
+  },
+  "https://www.pressreader.com/india/hindustan-times-gurgaon-9321/20260317/281689736327544": {
+    "valid": false
+  },
+  "https://www.crowdfundinsider.com/2026/03/267354-ai-for-construction-platform-zero-rfi-launches-backed-by-general-catalyst/": {
+    "valid": false
+  },
+  "https://commercialobserver.com/2026/03/nick-deveau-grotto-ai/": {
+    "valid": false
+  },
+  "https://www.calcalistech.com/ctechnews/article/sjcumyv9wg": {
+    "valid": true,
+    "company": "AWS veterans",
+    "amount_str": "$31 m",
+    "website": "https://awsahmedabad.community",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://yourstory.com/2026/03/indian-commercial-interiors-startup-officebanao-raises-77-million": {
+    "valid": true,
+    "company": "Indian commercial interiors startup Officebanao",
+    "amount_str": "$7.7M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "explained Tushar Mittal",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techbuzz.ai/articles/niv-ai-raises-12m-to-tame-gpu-power-surges-in-data-centers": {
+    "valid": true,
+    "company": "Niv-AI",
+    "amount_str": "$12M",
+    "website": "https://niv-ai.com",
+    "linkedin_url": "https://linkedin.com/company/niv-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.accessnewswire.com/newsroom/en/healthcare-and-pharmaceutical/pillsafe-secures-primary-investment-in-seed-round-for-its-wirelessly-1146017": {
+    "valid": true,
+    "company": "PillSafe",
+    "amount_str": "",
+    "website": "https://www.pillsafe.org",
+    "linkedin_url": "https://linkedin.com/company/pillsafeprotection",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "user@domain.com",
+    "twitter_url": ""
+  },
+  "https://european-biotechnology.com/latest-news/mestag-therapeutics-raises-40m-and-adds-two-senior-biotech-executives-as-lead-cancer-program-nears-the-clinic/": {
+    "valid": true,
+    "company": "Mestag Therapeutics",
+    "amount_str": "$40M",
+    "website": "https://www.mestagtherapeutics.com",
+    "linkedin_url": "https://linkedin.com/company/mestag-therapeutics",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Mestagtx"
+  },
+  "https://www.calcalistech.com/ctechnews/article/bk4zmc8cbe": {
+    "valid": true,
+    "company": "Niv-AI",
+    "amount_str": "$12 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/": {
+    "valid": false
+  },
+  "https://european-biotechnology.com/latest-news/delivering-drugs-into-cells-seed-funding-for-german-idel-and-its-wonder-shuttle/": {
+    "valid": false
+  },
+  "https://www.bloomberg.com/news/articles/2026-03-17/ex-datadog-leader-s-ai-startup-nabs-first-49-million-funding?srnd=future-of-finance": {
+    "valid": true,
+    "company": "Ex-Datadog Leader's AI Startup",
+    "amount_str": "$49 M",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://mlq.ai/news/drone-software-company-swarmer-prices-ipo-at-5-per-share/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.cloudflare.com/5xx-error-landing",
+    "linkedin_url": "https://linkedin.com/company/cloudflare",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/cloudflare"
+  },
+  "https://www.techinasia.com/startup-helps-chipmakers-stop-repeating-mistakes": {
+    "valid": false
+  },
+  "https://www.bwdisrupt.com/article/venture-catalysts-exits-pee-safe-with-9-6x-return-after-32-mn-funding-round-597891": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/IndianVCA/status/2033815752818528453": {
+    "valid": false
+  },
+  "https://businesscloud.co.uk/news/how-barcelona-aims-to-be-silicon-valley-of-sports/page/942/?marketingSource=7013X000001MDNoQAO&SiteId=DP_Social&AdId=DP_PM&CampaignId&utm_source&utm_campaign=InsightsandHighlights&utm_medium&destination=sites%2Fdefault%2Ffiles%2Fassets%2Ffaculty-personal-site%2Fjason-p-davis%2Fdocuments%2FHBR%20China%20%E2%80%9C%E4%B8%80%E7%9B%B4%E8%A2%AB%E6%A8%A1%E4%BB%BF%EF%BC%8C%E5%B0%9A%E6%9C%AA%E8%A2%AB%E8%B6%85%E8%B6%8A%E2%80%9D%E2%80%94%E2%80%94TikTok%E8%BF%99%E6%A0%B7%E9%98%B2%E6%8A%84%E8%A2%AD%20.pdf%3FAdId%3DLandingPage%26SiteId%3DDP_Social_Advocacy_OIS_CW_NIL%26dim%3Dsub-sector%26eloqua_id%3D6094%26elqTrackId%3D62BD645B2D8D929330EF57F2C547BC5E%26elqaid%3D~~eloqua..type--emailfield..syntax--elqassetid..encodeFor--url~~%26elqat%3D~~eloqua..type--emailfield..syntax--elqassettype..encodeFor--url~~%26field_country_target_id%255B0%255D%3D542%26field_country_target_id%255B1%255D%3D556%26field_country_target_id%255B10%255D%3D760%26field_country_target_id%255B11%255D%3D780%26field_country_target_id%255B12%255D%3D799%26field_country_target_id%255B13%255D%3D799%26field_country_target_id%255B14%255D%3D842%26field_country_target_id%255B2%255D%3D556%26field_country_target_id%255B3%255D%3D565%26field_country_target_id%255B4%255D%3D569%26field_country_target_id%255B5%255D%3D598%253Ffield_country_target_id%255B%255D%253D786%26field_country_target_id%255B6%255D%3D610%26field_country_target_id%255B7%255D%3D671%26field_country_target_id%255B8%255D%3D701%26field_country_target_id%255B9%255D%3D701%26field_region_target_id%255B0%255D%3D622%26field_sector_target_id%255B0%255D%3D562%26marketingSource%3DDP_WMNinAfrica-WomenOnly&f%5B0%5D=seminar_academic_area%3A966&field_date_time=9%2F1%2F2023&field_format_value=2&name&programme_code=EDP-SC&search_api_fulltext": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/03/nscale-acquires-american-intelligence-power-corporation.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/v-glass-raises-3m-in-seed-funding.html": {
+    "valid": true,
+    "company": "V-Glass",
+    "amount_str": "$3M",
+    "website": "https://www.vg12.com",
+    "linkedin_url": "https://linkedin.com/company/v-glass",
+    "founder_name": "Led by",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://www.financialexpress.com/business/start-ups/zoomies-launches-clean-label-pet-foodnbsp/4175828/": {
+    "valid": true,
+    "company": "Zoomies",
+    "amount_str": "",
+    "website": "https://zoomieswithlove.com",
+    "linkedin_url": "https://linkedin.com/company/zoomies",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "admin@zoomieswithlove.com",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/03/amplisi-raises-2m-in-pre-seed-funding.html": {
+    "valid": true,
+    "company": "AmpliSi",
+    "amount_str": "\u00a32M",
+    "website": "https://www.amplisi.com",
+    "linkedin_url": "https://linkedin.com/company/amplisi",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@amplisi.com",
+    "twitter_url": ""
+  },
+  "https://inforcapital.com/news/eyou-raises-300k-in-pre-seed-funding": {
+    "valid": false
+  },
+  "https://www.accessnewswire.com/newsroom/en/blockchain-and-cryptocurrency/keyban-raises-funding-to-accelerate-its-infrastructure-for-agentic-co-1148496": {
+    "valid": false
+  },
+  "https://money.rediff.com/news/market/drinkprime-raises-2-2m-for-water-purifiers/43754920260317": {
+    "valid": true,
+    "company": "DrinkPrime",
+    "amount_str": "$2.2M",
+    "website": "https://drinkprime.com",
+    "linkedin_url": "https://linkedin.com/company/drinkprime",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/reddyvijender",
+    "contact_email": "",
+    "twitter_url": "https://x.com/primehydrate"
+  },
+  "https://thenextweb.com/news/blify-21m-pre-seed-ai-learning-platform": {
+    "valid": true,
+    "company": "Blify",
+    "amount_str": "$2.1M",
+    "website": "https://www.blify.co",
+    "linkedin_url": "https://linkedin.com/company/blify",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/blifyapp"
+  },
+  "https://www.instagram.com/p/DV_IfCvAd1B/": {
+    "valid": false
+  },
+  "https://bits-chips.com/article/waving-raises-e2-6m-for-trials-with-wi-fi-detection-of-humans/": {
+    "valid": false
+  },
+  "https://www.trendingtopics.eu/workflex-raises-e37m-to-automate-cross-border-compliance-for-global-employers/": {
+    "valid": false
+  },
+  "https://inforcapital.com/news/certiv-raises-42m-in-pre-seed-funding/": {
+    "valid": true,
+    "company": "Certiv",
+    "amount_str": "$4.2M",
+    "website": "https://certiv.ai",
+    "linkedin_url": "https://linkedin.com/company/certiv",
+    "founder_name": "under the leadership of",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@certiv.ai",
+    "twitter_url": "https://x.com/certiv_ai"
+  },
+  "https://techfundingnews.com/nebius-3-75b-convertible-notes-ai-data-centers-gpu/": {
+    "valid": false
+  },
+  "https://www.palmbeachdailynews.com/press-release/story/38935/quickrefund-and-routesense-deliver-end-to-end-protection-for-high-risk-merchants/": {
+    "valid": false
+  },
+  "https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/zoomies-raises-rs-5-cr-pre-seed-to-scale-clean-label-pet-food-play/129629932": {
+    "valid": true,
+    "company": "Zoomies",
+    "amount_str": "",
+    "website": "https://zoomieswithlove.com",
+    "linkedin_url": "https://linkedin.com/company/zoomies",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "admin@zoomieswithlove.com",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DV_eKogiHNj/": {
+    "valid": true,
+    "company": "Healthcare AI startup Forithmus",
+    "amount_str": "$4M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.indianstartuptimes.com/investment/agnit-semiconductors-secures-2-6m-to-scale-gallium-nitride-production/": {
+    "valid": true,
+    "company": "AGNIT Semiconductors",
+    "amount_str": "$2.6M",
+    "website": "https://www.agnitsemi.com",
+    "linkedin_url": "https://linkedin.com/company/agnitsemi",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@agnitsemi.com",
+    "twitter_url": ""
+  },
+  "https://a16zbuild.substack.com/p/the-founders-of-rivian-and-uber-are": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "are the",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.indianstartuptimes.com/investment/moe-puppy-raises-%E2%82%B92-cr-pre-seed-funding-led-by-pedalstart-to-revolutionize-pet-care/": {
+    "valid": false
+  },
+  "https://fortune.com/2026/03/17/how-cutting-out-product-management-enabled-kilo-to-compete-in-the-hyper-fast-ai-coding-market/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cxense.com/ari.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.theinformation.com/newsletters/ai-agenda/nvidia-needed-groq": {
+    "valid": false
+  },
+  "https://www.trendingtopics.eu/robinhood-ventures-fund-adds-stripe-and-elevenlabs-to-growing-portfolio/": {
+    "valid": false
+  },
+  "https://www.business-standard.com/companies/start-ups/b2b-startup-bamboobox-raises-6-6-million-in-round-led-by-peak-xv-126031701004_1.html": {
+    "valid": true,
+    "company": "BambooBox",
+    "amount_str": "$6.6 m",
+    "website": "https://bamboobox.ai",
+    "linkedin_url": "https://linkedin.com/company/bamboobox",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/divyesh-dixit",
+    "contact_email": "abc123@abc.com",
+    "twitter_url": ""
+  },
+  "http://thenextweb.com/news/blify-21m-pre-seed-ai-learning-platform": {
+    "valid": true,
+    "company": "Blify",
+    "amount_str": "$2.1M",
+    "website": "https://www.blify.co",
+    "linkedin_url": "https://linkedin.com/company/blify",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/blifyapp"
+  },
+  "https://refreshmiami.com/news/how-miami-became-a-launchpad-for-cross-border-payments-startups/": {
+    "valid": false
   }
 }
