@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-03-17T17:06:51.043308Z",
-  "count": 32,
+  "generated_at": "2026-03-17T20:35:49.969222Z",
+  "count": 33,
   "enriched_count": 26,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "D2C pet care brand Moe Puppy raises pre-seed round led by PedalStart - Entrackr",
+      "article_url": "https://entrackr.com/snippets/d2c-pet-care-brand-moe-puppy-raises-pre-seed-round-led-by-pedalstart-11219941",
+      "company": "D2C pet care brand Moe Puppy",
+      "amount_str": "",
+      "pub_date": "2026-03-17T18:25:49Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Knox Systems Raises $25M to Accelerate Federal Cloud Authorization - Ventureburn",
+      "article_url": "https://ventureburn.com/knox-systems-raises-25m/",
+      "company": "Knox Systems",
+      "amount_str": "$25 m",
+      "pub_date": "2026-03-17T18:07:50Z",
+      "website": "https://knoxsystems.com",
+      "linkedin_url": "https://linkedin.com/company/knox-systems-inc",
+      "founder_name": "Microsoft Vice",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "tech.eu",
       "title": "Young &quot;bug bounty hunter&quot; bags $6M pre-seed round for security startup",
@@ -33,11 +61,11 @@
     },
     {
       "source": "tech.eu",
-      "title": "WorkFlex secures Spectrum Equity backing to automate cross-border workforce compliance",
+      "title": "WorkFlex secures \u20ac37M to automate cross-border workforce compliance",
       "article_url": "https://tech.eu/2026/03/17/workflex-secures-spectrum-equity-backing-to-automate-cross-border-workforce-compliance/",
       "company": "WorkFlex",
-      "amount_str": "",
-      "pub_date": "2026-03-17T15:34:06Z",
+      "amount_str": "\u20ac37M",
+      "pub_date": "2026-03-17T15:34:00Z",
       "website": "https://workflex.ai",
       "linkedin_url": "https://linkedin.com/company/getworkflex",
       "founder_name": "",
@@ -57,6 +85,34 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "admin@zoomieswithlove.com",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "{Funding Alert} Pet Food Startup Zoomies Secures Rs 5 Cr from D2C Insider Super Angels",
+      "article_url": "https://www.indianretailer.com/news/funding-alert-pet-food-startup-zoomies-secures-rs-5-cr-d2c-insider-super-angels",
+      "company": "{Funding Alert} Pet Food Startup Zoomies",
+      "amount_str": "",
+      "pub_date": "2026-03-17T15:15:23Z",
+      "website": "https://www.indianretailer.com",
+      "linkedin_url": "https://linkedin.com/company/indianretailer",
+      "founder_name": "group of",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/hvrcnf"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "UAE-based Qudwa raises $1.1 million in a funding round to strengthen its presence in GCC",
+      "article_url": "https://entarabi.com/en/2026/03/uae-based-qudwa-raises-1-1-million-in-a-funding-round-to-strengthen-its-presence-in-gcc/",
+      "company": "UAE-based Qudwa",
+      "amount_str": "$1.1 m",
+      "pub_date": "2026-03-17T15:06:55Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "Karl Nasr",
+      "founder_linkedin_url": "",
+      "contact_email": "",
       "twitter_url": ""
     },
     {
@@ -186,20 +242,6 @@
       "twitter_url": "https://x.com/primehydrate"
     },
     {
-      "source": "Google Alerts",
-      "title": "B2B startup BambooBox raises $6.6 million in round led by Peak XV - Business Standard",
-      "article_url": "https://www.business-standard.com/companies/start-ups/b2b-startup-bamboobox-raises-6-6-million-in-round-led-by-peak-xv-126031701004_1.html",
-      "company": "BambooBox",
-      "amount_str": "$6.6 m",
-      "pub_date": "2026-03-17T13:00:31Z",
-      "website": "https://bamboobox.ai",
-      "linkedin_url": "https://linkedin.com/company/bamboobox",
-      "founder_name": "",
-      "founder_linkedin_url": "https://linkedin.com/in/divyesh-dixit",
-      "contact_email": "abc123@abc.com",
-      "twitter_url": ""
-    },
-    {
       "source": "tech.eu",
       "title": "Level Nine raises \u20ac4M to unlock local feedstocks for chemicals",
       "article_url": "https://tech.eu/2026/03/17/level-nine-raises-eur4m-to-unlock-local-feedstocks-for-chemicals/",
@@ -212,20 +254,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Certiv Raises $4.2M for AI Endpoint Security Innovation - InforCapital",
-      "article_url": "https://inforcapital.com/news/certiv-raises-42m-in-pre-seed-funding/",
-      "company": "Certiv",
-      "amount_str": "$4.2M",
-      "pub_date": "2026-03-17T12:18:35Z",
-      "website": "https://certiv.ai",
-      "linkedin_url": "https://linkedin.com/company/certiv",
-      "founder_name": "under the leadership of",
-      "founder_linkedin_url": "",
-      "contact_email": "hello@certiv.ai",
-      "twitter_url": "https://x.com/certiv_ai"
     },
     {
       "source": "Google Alerts",
@@ -394,20 +422,6 @@
       "founder_linkedin_url": "",
       "contact_email": "you@domain.com",
       "twitter_url": "https://x.com/github"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Cameron-Lee Roberts' Post - LinkedIn",
-      "article_url": "https://www.linkedin.com/posts/cameronleer_the-godfather-of-deep-learning-just-raised-activity-7439221365213126656-Bh57",
-      "company": "The godfather of deep learning just",
-      "amount_str": "$1 b",
-      "pub_date": "2026-03-16T13:53:33Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "Power Tank",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "tech.eu",

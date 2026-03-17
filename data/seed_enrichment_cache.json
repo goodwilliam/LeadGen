@@ -6931,5 +6931,189 @@
   },
   "https://refreshmiami.com/news/how-miami-became-a-launchpad-for-cross-border-payments-startups/": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-alert-navan-inc-investors-with-substantial-losses-have-opportunity-to-lead-securities-class-action-lawsuit-302716391.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/kd-shareholder-action-reminder-faruqi--faruqi-llp-reminds-kyndryl-kd-investors-of-securities-class-action-deadline-on-april-13-2026-302716366.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/shareholder-investigation-reminder-faruqi--faruqi-llp-continues-investigation-of-potential-securities-claims-against-duolingo-nasdaq-duol-302716381.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-alert-eos-energy-enterprises-inc-investors-with-substantial-losses-have-opportunity-to-lead-the-eos-energy-class-action-lawsuit-302716385.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/ino-shareholder-action-reminder-faruqi--faruqi-llp-reminds-inovio-pharmaceuticals-ino-investors-of-securities-class-action-deadline-on-april-7-2026-302716404.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/eos-energy-enterprises-eose-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302716359.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/bynd-shareholder-action-reminder-faruqi--faruqi-llp-reminds-beyond-meat-bynd-investors-of-securities-class-action-deadline-on-march-24-2026-302716358.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/plug-power-inc-plug-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302716346.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/richtech-robotics-inc-rr-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302716372.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/carrier-ventures-invests-in-heat-geek-to-accelerate-heat-pump-adoption-across-europe-302716501.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/psfe-shareholder-action-reminder-faruqi--faruqi-llp-reminds-paysafe-psfe-investors-of-securities-class-action-deadline-on-april-7-2026-302716347.html": {
+    "valid": false
+  },
+  "https://ventureburn.com/surf-raises-57m-to-automate-security-with-ai-agents/": {
+    "valid": true,
+    "company": "Surf",
+    "amount_str": "$57M",
+    "website": "https://www.surf.ai",
+    "linkedin_url": "https://linkedin.com/company/surfint",
+    "founder_name": "Yair Grindlinger",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/7Iti5Njy4jAkzZxMHmPi01rzt67yk5V2J"
+  },
+  "https://techfundingnews.com/wikifarmer-7-7m-ai-agrifood-marketplace-greece/": {
+    "valid": false
+  },
+  "https://spacenews.com/isptech-raises-e5-5m-seed-round-to-redefine-how-spacecraft-manoeuvre-in-orbit/": {
+    "valid": false
+  },
+  "https://www.crainsgrandrapids.com/awards/ma-awards-2026-payload-cms-integrates-with-global-digital-design-tool-creator/": {
+    "valid": false
+  },
+  "https://www.forbes.com/sites/thomasbrewster/2026/03/17/ai-beat-most-humans-in-elite-hacking-competitions/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://entrackr.com/snippets/d2c-pet-care-brand-moe-puppy-raises-pre-seed-round-led-by-pedalstart-11219941": {
+    "valid": true,
+    "company": "D2C pet care brand Moe Puppy",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/nvidia-gtc-2026-1t-ai-inference-groq-vera/": {
+    "valid": false
+  },
+  "https://x.com/TFNBreakingNews/status/2033903012276744595": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.d74f1a3a.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/TFNBreakingNews/status/2033904132822864274": {
+    "valid": false
+  },
+  "https://www.startupresearcher.com/news/miftah-raises-pre-seed-funding-ahead-of-syria-launch": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/tradinghub-receives-strategic-investment-from-nordic-capital.html": {
+    "valid": false
+  },
+  "https://entarabi.com/en/2026/03/uae-based-qudwa-raises-1-1-million-in-a-funding-round-to-strengthen-its-presence-in-gcc/": {
+    "valid": true,
+    "company": "UAE-based Qudwa",
+    "amount_str": "$1.1 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Karl Nasr",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://entarabi.com/en/2026/03/uae-based-utexo-closes-a-7-5-million-seed-funding-round-to-enable-payments-via-bitcoin/": {
+    "valid": false
+  },
+  "https://www.founderstoday.news/first-concepts-raises-1-million-pre-seed/": {
+    "valid": true,
+    "company": "First Concepts",
+    "amount_str": "$1M",
+    "website": "https://firstconcepts.co",
+    "linkedin_url": "https://linkedin.com/company/firstconcepts",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://amp.axios.com/pro-rata-premium-first-look-36537cfd-7824-460e-9477-05a4fee3b04a.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "returned as",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.law360.com/articles/2453865/norway-startup-newcode-ai-raises-6-5m": {
+    "valid": false
+  },
+  "https://www.unc.edu/posts/2026/03/17/hes-bringing-change-to-the-delivery-app-industrys-doorstep/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://ventureburn.com/knox-systems-raises-25m/": {
+    "valid": true,
+    "company": "Knox Systems",
+    "amount_str": "$25 m",
+    "website": "https://knoxsystems.com",
+    "linkedin_url": "https://linkedin.com/company/knox-systems-inc",
+    "founder_name": "Microsoft Vice",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bloomberg.com/news/articles/2026-03-17/ev-startup-olinia-powers-up-in-mexico-thanks-to-state-support": {
+    "valid": false
+  },
+  "https://www.livemint.com/companies/start-ups/women-led-startups-funding-india-government-schemes-expansion-11773758458044.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.indianretailer.com/news/funding-alert-pet-food-startup-zoomies-secures-rs-5-cr-d2c-insider-super-angels": {
+    "valid": true,
+    "company": "{Funding Alert} Pet Food Startup Zoomies",
+    "amount_str": "",
+    "website": "https://www.indianretailer.com",
+    "linkedin_url": "https://linkedin.com/company/indianretailer",
+    "founder_name": "group of",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/hvrcnf"
   }
 }
