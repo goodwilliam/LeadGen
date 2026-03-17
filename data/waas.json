@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T18:49:18Z",
+  "generated_at": "2026-03-17T01:14:14Z",
   "count": 22,
   "jobs": [
     {
@@ -13,7 +13,7 @@
       "companyBatch": "F25",
       "companyOneLiner": "TikTok for language learning",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/a9603ad6a62ae3ee9c8723521f8f2d852d664a89.png",
-      "companyLastActiveAt": "11 days ago",
+      "companyLastActiveAt": "about 3 hours ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D90847&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=30848"
     },
     {
@@ -101,6 +101,20 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D90485&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29989"
     },
     {
+      "id": 78058,
+      "title": "Product Designer",
+      "jobType": "fulltime",
+      "location": "San Francisco",
+      "roleType": "Web design",
+      "companyName": "Wordware",
+      "companySlug": "wordware",
+      "companyBatch": "S24",
+      "companyOneLiner": "AI agents you can rely on",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/ff410def03c8c58c3adc7db9615becc8164804e3.png",
+      "companyLastActiveAt": null,
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D78058&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29649"
+    },
+    {
       "id": 91097,
       "title": "Founding Designer",
       "jobType": "fulltime",
@@ -113,20 +127,6 @@
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/0586276952946e7eb368770c1670669a2ac319d6.png",
       "companyLastActiveAt": "5 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D91097&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29422"
-    },
-    {
-      "id": 90098,
-      "title": "Founding Designer (Mobile Apps)",
-      "jobType": "fulltime",
-      "location": "IN / Remote (IN)",
-      "roleType": "Mobile design",
-      "companyName": "Tensorfuse",
-      "companySlug": "tensorfuse",
-      "companyBatch": "W24",
-      "companyOneLiner": "Run serverless GPUs on your own cloud",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/2bef07502fc1183c53ca01386fbdf17f2db71ba2.png",
-      "companyLastActiveAt": "26 days ago",
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D90098&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29378"
     },
     {
       "id": 91343,
@@ -223,7 +223,7 @@
       "companyBatch": "S23",
       "companyOneLiner": "The fastest way to build AI assistants on technical content",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/274c05ef6658ba8b2d341c95ee4d90f16444919c.png",
-      "companyLastActiveAt": "10 days ago",
+      "companyLastActiveAt": "11 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D88550&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28663"
     },
     {
