@@ -5996,5 +5996,253 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/17/partechs-eur300m-impact-fund-targets-europes-next-generation-of-industrial-and-climate-tech-leaders/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/17/italian-startup-alomana-raises-4m-for-its-ai-operating-layer-for-enterprise-workflows/": {
+    "valid": true,
+    "company": "Alomana",
+    "amount_str": "\u20ac4M",
+    "website": "https://alomana.com",
+    "linkedin_url": "https://linkedin.com/company/alomana",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/17/first-concepts-raises-1m-to-develop-ai-native-os-for-creative-work/": {
+    "valid": true,
+    "company": "First Concepts",
+    "amount_str": "$1M",
+    "website": "https://firstconcepts.com",
+    "linkedin_url": "https://linkedin.com/company/firstconcepts",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/17/tracebit-raises-20m-series-a-to-expand-cloud-native-deception-tech/": {
+    "valid": true,
+    "company": "Tracebit",
+    "amount_str": "$20M",
+    "website": "https://tracebit.com",
+    "linkedin_url": "https://linkedin.com/company/tracebit",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/tracebit_com"
+  },
+  "https://www.prnewswire.com/news-releases/starlight-investments-gibt-den-abschluss-des-canadian-multi-family-growth-fund-iv-bekannt-302715710.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/starlight-investments-annonce-la-cloture-du-fonds-canadian-multi-family-growth-fund-iv-302715705.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/starlight-investments-announces-the-closing-of-canadian-multi-family-growth-fund-iv-302715230.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/mintos-broadens-its-offering-with-regulated-crypto-etps-in-collaboration-with-upvest-302714840.html": {
+    "valid": false
+  },
+  "https://eu.36kr.com/en/p/3726690637249159": {
+    "valid": true,
+    "company": "AMI Labs",
+    "amount_str": "$1.03 b",
+    "website": "https://amilabs.xyz",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/yann-lecun",
+    "contact_email": "contact@amilabs.xyz",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/blify-lands-2-1m-for-ai-learning-in-slack-and-teams/": {
+    "valid": true,
+    "company": "Blify",
+    "amount_str": "$2.1M",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/blify",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://securityboulevard.com/2026/03/rsac-2026-innovation-sandbox-crash-override-from-passive-scanning-to-active-traceability-reshaping-the-software-supply-chain-security-foundation/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wp.me/p91vu9-8LzB",
+    "linkedin_url": "",
+    "founder_name": "two core",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thenextweb.com/news/restaurant-tech-startup-choice-closes-7-1m-series-a": {
+    "valid": true,
+    "company": "Restaurant tech startup Choice",
+    "amount_str": "$7.1M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Alex Ilyash",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://en.wowtale.net/2026/03/17/233680/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wowtale.net",
+    "linkedin_url": "",
+    "founder_name": "said Hongseok Cheon",
+    "founder_linkedin_url": "",
+    "contact_email": "editor@wowtale.net",
+    "twitter_url": "https://x.com/mushman1970"
+  },
+  "https://techfundingnews.com/level-nine-4m-seed-nanozyme-catalysts-pitch-deck-europe-chemical-crisis/": {
+    "valid": false
+  },
+  "https://www.pressreader.com/india/mint-kolkata/20260317/282037628678969": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/whitebridge-ai-raises-2-6-million-seed-round": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/eileen-raises-1-million-pre-seed": {
+    "valid": false
+  },
+  "https://www.bwdisrupt.com/article/atlys-raises-36-mn-series-c-led-by-susquehanna-asia-vc-597883": {
+    "valid": true,
+    "company": "Atlys",
+    "amount_str": "$36 M",
+    "website": "https://www.atlys.com",
+    "linkedin_url": "https://linkedin.com/company/getatlys",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/mohaknahta",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bitget.com/amp/news/detail/12560605269276": {
+    "valid": true,
+    "company": "Ark Labs",
+    "amount_str": "$5.2 m",
+    "website": "https://arklabs.xyz",
+    "linkedin_url": "https://linkedin.com/company/arklabsbitcoin",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@arklabs.xyz",
+    "twitter_url": "https://x.com/ArkLabsHQ"
+  },
+  "https://www.pressreader.com/india/mint-chennai/20260317/281848650117944": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://s.prcdn.co/res",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://idtechwire.com/deepidv-raises-1-million-seed-round-and-opens-san-francisco-office/": {
+    "valid": true,
+    "company": "deepIDV",
+    "amount_str": "$1 M",
+    "website": "https://www.deepidv.com",
+    "linkedin_url": "https://linkedin.com/company/deepidv",
+    "founder_name": "executive Shawn",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://entrackr.com/snippets/peak-xv-leads-66-mn-funding-round-in-bamboobox-11219662": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.ampproject.org/v0.js",
+    "linkedin_url": "",
+    "founder_name": "Stable Money",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://entrackr.com/snippets/pain-care-startup-betterhood-raises-seed-round-led-by-kairon-capital-11216682": {
+    "valid": true,
+    "company": "Pain care startup Betterhood",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/scopey-onsite-raises-523-000-pre-seed": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DV-bnWjjBv1/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Magazine on Instagram",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://en.wowtale.net/2026/03/17/233675/": {
+    "valid": true,
+    "company": "Aerospace and Defense Startup CAMP",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Yunwan Kim",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://enterpriseam.com/uae/2026/03/17/blockchain-startup-utexo-raises-usd-7-5-mn-in-seed-round-led-by-tether/": {
+    "valid": false
+  },
+  "https://www.dealstreetasia.com/stories/smartsolar-debt-funding-round-476133/": {
+    "valid": true,
+    "company": "Vietnam-based startup SmartSolar",
+    "amount_str": "$1.3m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bwdisrupt.com/article/grapevine-raises-4-1-mn-to-scale-ai-hiring-tools-tal-and-round1-platforms-597890": {
+    "valid": false
+  },
+  "https://www.pressreader.com/saudi-arabia/arab-news/20260317/281938844431578": {
+    "valid": true,
+    "company": "MENA startups",
+    "amount_str": "$326.6m",
+    "website": "https://startupsmena.com",
+    "linkedin_url": "",
+    "founder_name": "Executive Office of the",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://medium.com/tokyo-fintech/japan-fintech-observer-155-e22a04ba8b68": {
+    "valid": false
+  },
+  "https://www.bwdisrupt.com/article/agnit-semiconductors-raises-2-6-mn-from-shastra-vc-3one4-capital-zephyr-peacock-597791": {
+    "valid": true,
+    "company": "Agnit Semiconductors",
+    "amount_str": "$2.6 M",
+    "website": "https://www.agnitsemi.com",
+    "linkedin_url": "https://linkedin.com/company/agnitsemi",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@agnitsemi.com",
+    "twitter_url": ""
   }
 }
