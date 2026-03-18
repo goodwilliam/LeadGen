@@ -7823,5 +7823,386 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/venture/stripe-alum-raises-online-funeral-planning-startup-meadow/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/18/health-lean-analytics-secures-over-eur21m-seed-to-automate-hospital-data-and-optimise-surgical-workflows/": {
+    "valid": true,
+    "company": "Health Lean Analytics",
+    "amount_str": "",
+    "website": "https://www.hlanalytics.org",
+    "linkedin_url": "https://linkedin.com/company/health-lean-analytics",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@hlanalytics.org",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/18/homaio-lands-eur36m-to-extend-access-to-energy-transition-assets/": {
+    "valid": true,
+    "company": "Homaio",
+    "amount_str": "\u20ac3.6M",
+    "website": "https://www.homaio.com",
+    "linkedin_url": "https://linkedin.com/company/homaio",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/18/multiply-raises-9-5m-launch-self-learning-advertising-platform/": {
+    "valid": true,
+    "company": "Multiply",
+    "amount_str": "$9.5M",
+    "website": "https://gomultiply.com",
+    "linkedin_url": "https://linkedin.com/company/multiplyco",
+    "founder_name": "Multiply was founded by",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/18/busright-bags-30m-ensure-school-buses-always-arrive-right-time/": {
+    "valid": true,
+    "company": "BusRight",
+    "amount_str": "$30M",
+    "website": "https://www.busright.com",
+    "linkedin_url": "https://linkedin.com/company/busright",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@busright.com",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/18/manifold-raises-8m-secure-autonomous-ai-agents-enterprise-endpoints/": {
+    "valid": true,
+    "company": "Manifold",
+    "amount_str": "$8M",
+    "website": "https://www.manifold.security",
+    "linkedin_url": "https://linkedin.com/company/manifoldinc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/18/respan-raises-5m-bring-proactive-observability-ai-agents/": {
+    "valid": true,
+    "company": "Respan",
+    "amount_str": "$5M",
+    "website": "https://www.respan.ai",
+    "linkedin_url": "https://linkedin.com/company/respan-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/RespanAI"
+  },
+  "https://www.prnewswire.com/news-releases/clear-investment-group-highlights-market-based-strategy-to-preserve-workforce-housing-without-subsidy-302717723.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/revelation-partners-deepens-secondaries-expertise-with-appointment-of-jonathan-au-as-partner-and-jordan-bloom-as-associate-302717720.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/shareholder-alert-ademi-llp-investigates-claims-of-securities-fraud-against-microvast-holdings-inc-302717673.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/shareholder-alert-ademi-llp-investigates-claims-of-securities-fraud-against-aldeyra-therapeutics-inc-302717679.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/pypl-alert-hagens-berman-alerts-paypal-pypl-investors-to-securities-class-action-following-ceo-ouster-and-10b-market-cap-wipeout-302717663.html": {
+    "valid": false
+  },
+  "https://startupnation.com/manage-your-business/customer-service-for-small-businesses-how-to-get-off-to-a-great-start/?utm_source=rss&utm_medium=rss&utm_campaign=customer-service-for-small-businesses-how-to-get-off-to-a-great-start": {
+    "valid": false
+  },
+  "https://fashionista.com/2026/03/rubi-carbon-emissions-textiles-fashion-funding": {
+    "valid": false
+  },
+  "https://www.businesstoday.in/latest/corporate/story/70-mn-indians-face-digestive-disorders-startup-firm-gut-clinic-just-raised-1-million-to-tackle-it-521251-2026-03-18": {
+    "valid": false
+  },
+  "https://ventureburn.com/surf-raises-57m-to-automate-security-with-ai-agents/?amp=1": {
+    "valid": true,
+    "company": "Surf",
+    "amount_str": "$57M",
+    "website": "https://www.surf.ai",
+    "linkedin_url": "https://linkedin.com/company/surfint",
+    "founder_name": "Yair Grindlinger",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/7Iti5Njy4jAkzZxMHmPi01rzt67yk5V2J"
+  },
+  "https://www.techbuzz.ai/articles/eragon-raises-12m-to-turn-enterprise-software-into-prompts": {
+    "valid": true,
+    "company": "Eragon",
+    "amount_str": "$12M",
+    "website": "https://eragon.ai",
+    "linkedin_url": "https://linkedin.com/company/eragonai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/EragonAI"
+  },
+  "https://www.wamda.com/2026/03/algeria-yassir-expands-adtech-kawarizmi-acquisition": {
+    "valid": false
+  },
+  "https://www.globenewswire.com/news-release/2026/03/18/3258429/0/en/Ezra-Raises-3-2M-Seed-Round-to-Rebuild-Hiring-Around-Voice-Conversations.html": {
+    "valid": true,
+    "company": "Ezra",
+    "amount_str": "$3.2M",
+    "website": "https://www.ezra.net",
+    "linkedin_url": "https://linkedin.com/company/ezrainc",
+    "founder_name": "Ophir Samson",
+    "founder_linkedin_url": "https://linkedin.com/in/ophirsamson",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bignewsnetwork.com/news/278929404/verbaflo-raises-7-million-led-by-pi-labs-to-build-the-ai-communications-platform-for-global-real-estate": {
+    "valid": true,
+    "company": "VerbaFlo",
+    "amount_str": "$7 M",
+    "website": "https://app.verbaflo.com",
+    "linkedin_url": "https://linkedin.com/company/verbaflo-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/18/sequen-snags-16m-to-bring-tiktok-style-personalization-tech-to-any-consumer-company/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/": {
+    "valid": false
+  },
+  "https://www.theblock.co/post/394045/transfi-raises-19-million": {
+    "valid": false
+  },
+  "https://www.calcalistech.com/ctechnews/article/hk7q24oqwe": {
+    "valid": true,
+    "company": "After Symantec exit, Javelin founders",
+    "amount_str": "$20 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://therecursive.com/tower-raises-6-4m-ai-data-engineering-platform/": {
+    "valid": true,
+    "company": "Ukrainian Co-Founder's Tower.dev",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Serhii Sokolenko",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.biospace.com/press-releases/excalipoint-therapeutics-launches-with-68-7-million-to-develop-next-generation-t-cell-engager-therapies": {
+    "valid": true,
+    "company": "Excalipoint Therapeutics",
+    "amount_str": "$68.7 M",
+    "website": "https://www.pharmiweb.com",
+    "linkedin_url": "https://linkedin.com/company/pharmiweb-com",
+    "founder_name": "Chairman and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/PharmiNewsHub"
+  },
+  "https://www.munich-startup.de/en/118135/heycare-extended-seed/": {
+    "valid": true,
+    "company": "Heycare",
+    "amount_str": "\u20ac4 m",
+    "website": "https://www.heycare.com",
+    "linkedin_url": "https://linkedin.com/company/heycare-benefit",
+    "founder_name": "CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "team@heycare.com",
+    "twitter_url": ""
+  },
+  "https://mlq.ai/news/swiss-startup-rivia-secures-13m-funding-boost-for-agentic-ai-in-biotech-trials/": {
+    "valid": false
+  },
+  "https://thenextweb.com/news/homaio-seed-round-carbon-allowances-energy-transition": {
+    "valid": false
+  },
+  "https://www.business-standard.com/companies/start-ups/verbaflo-raises-7-million-seed-round-led-by-pi-labs-126031801140_1.html": {
+    "valid": true,
+    "company": "Conversational AI startup VerbaFlo",
+    "amount_str": "$7 m",
+    "website": "https://tech.eu",
+    "linkedin_url": "https://linkedin.com/company/tech-eu",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "name@provider.com",
+    "twitter_url": "https://x.com/tech_eu"
+  },
+  "https://www.panewslab.com/en/articles/019d00be-9afa-7469-a0d8-687960bb06a3": {
+    "valid": false
+  },
+  "https://payloadspace.com/advanced-navigation-raises-110m-series-c/": {
+    "valid": true,
+    "company": "Advanced Navigation",
+    "amount_str": "$110M",
+    "website": "https://www.advancednavigation.com",
+    "linkedin_url": "https://linkedin.com/company/advanced-navigation",
+    "founder_name": "Advanced Navigation",
+    "founder_linkedin_url": "https://linkedin.com/in/chris-adnav",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/03/noru-raises-e560k-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/homaio-raises-e3-6m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/busright-raises-30m-in-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/excalipoint-therapeutics-raises-68-7m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/xmemory-raises-4m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/cocoon-carbon-raises-15m-in-series-a-funding.html": {
+    "valid": false
+  },
+  "https://entarabi.com/en/2026/03/saudi-egdc-acquires-5-03-stake-in-japans-capcom/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://indianstartupnews.com/funding/harvard-business-school-graduate-nirja-bhatt-raises-rs-91-crore-for-her-new-startup-11225295": {
+    "valid": true,
+    "company": "Harvard Business School graduate Nirja Bhatt",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/theceo.in/photos/pet-food-startup-zoomies-has-raised-rs-5-crore-in-a-pre-seed-funding-round-led-b/1385344623621091/": {
+    "valid": false
+  },
+  "https://weselltalent.com/blog/early-stage-funding/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://internationalpetfood.com/indian-zoomies-raises-pre-seed-funding/": {
+    "valid": true,
+    "company": "Zoomies",
+    "amount_str": "",
+    "website": "https://zoomiespethealth.com",
+    "linkedin_url": "https://linkedin.com/company/zoomies",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://ventureburn.com/condor-software-raises-24m-for-life-sciences-finance-platform/": {
+    "valid": true,
+    "company": "Condor Software",
+    "amount_str": "$24M",
+    "website": "https://www.condorsoftware.com",
+    "linkedin_url": "https://linkedin.com/company/condor-software-inc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@condorsoftware.com",
+    "twitter_url": ""
+  },
+  "https://inc42.com/buzz/cometchat-nets-6-5-mn-to-scale-agentic-ai-offerings/": {
+    "valid": false
+  },
+  "https://www.latimes.com/business/story/2026-03-18/so-cal-defense-startups-secure-vital-funding-boost-pentagon-sba-iran-war-anduril-palmer-luckey": {
+    "valid": false
+  },
+  "https://inc42.com/buzz/aerchain-bags-13-mn-to-scale-agentic-ai-platform-for-enterprise-procurement/": {
+    "valid": true,
+    "company": "Aerchain",
+    "amount_str": "$13 M",
+    "website": "https://www.aerchain.io",
+    "linkedin_url": "https://linkedin.com/company/aerchain-io",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "sales@aerchain.io",
+    "twitter_url": "https://x.com/aerchain_io"
+  },
+  "https://www.pocketgamer.biz/malm-boosts-games-industry-with-new-funding-push-for-startups/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/03/18/mave-health-aims-to-improve-attention-and-mood-with-its-brain-stimulating-headset/": {
+    "valid": true,
+    "company": "The company recently",
+    "amount_str": "$2.1 m",
+    "website": "https://www.theatlantic.com",
+    "linkedin_url": "https://linkedin.com/company/the-atlantic",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/theatlantic"
+  },
+  "https://www.securityweek.com/manifold-raises-8-million-for-ai-detection-and-response/amp/": {
+    "valid": true,
+    "company": "Manifold",
+    "amount_str": "$8 M",
+    "website": "https://manifoldapp.org",
+    "linkedin_url": "https://linkedin.com/company/manifoldinc",
+    "founder_name": "said Manifold CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@manifoldapp.org",
+    "twitter_url": "https://x.com/manifoldscholar"
+  },
+  "https://inc42.com/buzz/verbaflo-raises-7-mn-to-automate-real-estate-operations/": {
+    "valid": true,
+    "company": "VerbaFlo",
+    "amount_str": "$7 M",
+    "website": "https://app.verbaflo.com",
+    "linkedin_url": "https://linkedin.com/company/verbaflo-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://yourstory.com/ai-story/conversational-ai-platform-verbaflo-bags-seed-funding-round-led-by-pi-labs": {
+    "valid": true,
+    "company": "Conversational AI platform VerbaFlo",
+    "amount_str": "$7M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.adexchanger.com/technology/how-one-agency-startup-uses-real-time-data-to-develop-real-time-ads/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.chiefmarketer.com",
+    "linkedin_url": "https://linkedin.com/company/chief-marketer",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/chief_marketer"
   }
 }
