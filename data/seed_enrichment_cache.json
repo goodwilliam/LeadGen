@@ -7523,5 +7523,305 @@
     "founder_linkedin_url": "",
     "contact_email": "info@empowerafrica.com",
     "twitter_url": "https://x.com/EmpowerAfrica_"
+  },
+  "https://tech.eu/2026/03/18/rivia-raises-15m-to-fix-the-broken-data-infrastructure-behind-clinical-trials/": {
+    "valid": true,
+    "company": "Rivia",
+    "amount_str": "$15M",
+    "website": "https://www.rivia.com",
+    "linkedin_url": "https://linkedin.com/company/rivia-sa",
+    "founder_name": "spoke to Erik Scalfaro",
+    "founder_linkedin_url": "",
+    "contact_email": "info@rivia.ch",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/18/noru-raises-eur560k-to-develop-an-agentic-compliance-platform/": {
+    "valid": true,
+    "company": "Noru",
+    "amount_str": "\u20ac560K",
+    "website": "https://ridenoru.com",
+    "linkedin_url": "https://linkedin.com/company/noru-tech",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@helmethouse.com",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/daytraderscom-launches-straight-to-live-evaluations-expanding-its-futures-funding-program-for-traders-seeking-a-direct-path-to-live-capital-302716260.html": {
+    "valid": false
+  },
+  "https://www.pressreader.com/india/hindustan-times-ranchi/20260318/281599542016397": {
+    "valid": false
+  },
+  "https://securityboulevard.com/2026/03/rsac-2026-innovation-sandbox-charm-security-ai-anti-fraud-platform-for-new-types-of-fraud/": {
+    "valid": false
+  },
+  "https://cen.acs.org/pharmaceuticals/drug-development/shanghai-startup-launches-to-develop-trispecific-antibodies/104/web/2026/03": {
+    "valid": false
+  },
+  "https://entrackr.com/exclusive/exclusive-credilio-kicks-off-series-a-valuation-jumps-27x-11224086": {
+    "valid": true,
+    "company": "Mumbai-based firm had previously",
+    "amount_str": "$4 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "and Param Capital",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.biospace.com/business/lilly-backed-china-startup-debuts-with-68-7m-seed-to-advance-next-gen-t-cell-engagers": {
+    "valid": false
+  },
+  "https://www.biospace.com/business/r1-leads-busy-fundraising-day-with-77-5m-series-a-raise-for-kidney-disease": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://connect.facebook.net",
+    "linkedin_url": "",
+    "founder_name": "Krishna Polu said in",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://en.wowtale.net/2026/03/18/233694/": {
+    "valid": true,
+    "company": "Deep-Tech Startup Quantica",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.registerguard.com/press-release/story/45088/verbaflo-raises-7m-to-expand-ai-leasing-and-communications-platform-for-student-housing-and-multifamily-operators/": {
+    "valid": true,
+    "company": "VerbaFlo",
+    "amount_str": "$7M",
+    "website": "https://www.verbaflo.ai",
+    "linkedin_url": "https://linkedin.com/company/verbaflo-ai",
+    "founder_name": "Sayantan Biswas",
+    "founder_linkedin_url": "https://linkedin.com/in/sayantan-biswas-",
+    "contact_email": "contact@verbaflo.ai",
+    "twitter_url": "https://x.com/VerbaFloAI"
+  },
+  "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/": {
+    "valid": false
+  },
+  "https://vir.com.vn/smartsolar-brings-total-funding-to-315-million-with-european-financing-148690.html": {
+    "valid": true,
+    "company": "SmartSolar",
+    "amount_str": "$3.15 m",
+    "website": "https://smartsolarau.co",
+    "linkedin_url": "https://linkedin.com/company/smartsolarvn",
+    "founder_name": "said founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "energy@smartsolarau.co",
+    "twitter_url": ""
+  },
+  "https://thoibaotaichinhvietnam.vn/smartsolar-brings-total-funding-to-315-million-with-european-financing-193996.html": {
+    "valid": true,
+    "company": "SmartSolar",
+    "amount_str": "$3.15 m",
+    "website": "https://smartsolarau.co",
+    "linkedin_url": "https://linkedin.com/company/smartsolarvn",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "energy@smartsolarau.co",
+    "twitter_url": ""
+  },
+  "https://thenextweb.com/news/elea-lili-25m-seed-cellulose": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/03/18/barcelonas-health-lean-analytics-bags-over-e2-1-million-to-streamline-hospital-operations-with-ai-and-data-analytics/": {
+    "valid": true,
+    "company": "Barcelona's Health Lean Analytics",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "and Co",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.businesstimes.com.sg/singapore/smes/singapore-foodtech-startup-prefer-tackles-rising-coffee-costs-bean-free-fermentation": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/verbaflo-pi-labs-real-estate-ai-agents-pitch-deck/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/vtt-spinout-elea--lili-raises-2-5-million-to-commercialise-microplastic-free-superabsorbent-material-for-hygiene-and-agriculture-302717054.html": {
+    "valid": false
+  },
+  "https://interactive.satellitetoday.com/via/satshow-week-2026-show-daily/startup-space-at-10-a-launchpad-for-the-new-space-economy": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://s3.amazonaws.com/marquee-test-akiaisur2rgicbmpehea/LOygtatQeKFvYa9XIU9p_VS_ShowDaily%202026_Digital_2.jpg",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.ptinews.com/story/business/ltm-named-nvidia-partner-network-rising-star-consulting-partner-of-the-year-at-nvidia-gtc-2026/3476758": {
+    "valid": false
+  },
+  "https://www.ptinews.com/story/business/amara-raja-arm-forays-into-defence-electronics-segment/3476742": {
+    "valid": false
+  },
+  "https://m.thewire.in/article/ptiprnews/inspired-spirits-makers-of-quro-raises-seed-round-led-by-the-chennai-angels-tca": {
+    "valid": true,
+    "company": "Inspired Spirits \u2013 Makers of Quro",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "said Anmoll Alok Bansal",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://nuffoodsspectrum.in/2026/03/18/ey-assocham-unveil-joint-knowledge-paper-nutribharat2047.html": {
+    "valid": false
+  },
+  "https://www.tribuneindia.com/news/business/tarasya-silver-jewellery-from-the-house-of-neerus-launches-its-3rd-store-in-kukatpally-hyderabad-2-2/amp": {
+    "valid": false
+  },
+  "https://wnhub.io/news/other/item-50354": {
+    "valid": false
+  },
+  "https://theouut.com/miftah-secures-pre-seed-funding-to-launch-syrias-first-verified-digital-real-estate-marketplace/": {
+    "valid": true,
+    "company": "Miftah",
+    "amount_str": "",
+    "website": "https://www.miftah.org",
+    "linkedin_url": "https://linkedin.com/company/miftahpal",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@miftah.org",
+    "twitter_url": "https://x.com/miftahpal"
+  },
+  "https://theouut.com/cassava-technologies-unveils-nvidia-powered-ai-factory-in-south-africa-sets-stage-for-pan-african-expansion-2/": {
+    "valid": false
+  },
+  "https://yourstory.com/2026/03/startup-news-and-updates-daily-roundup-march-18-2026": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/03/austrias-sequestra-secures-e3-million-seed-to-scale-its-co2-mineralisation-technology-for-industrial-use/": {
+    "valid": true,
+    "company": "Austria's sequestra",
+    "amount_str": "\u20ac3 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.wamda.com/2026/03/syrian-proptech-miftah-raises-pre-seed-round": {
+    "valid": true,
+    "company": "Syrian proptech Miftah",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/industrial-waste-meets-circular-economy-sequestra-lands-e3m-to-accelerate-industrial-co2-mineralisation/": {
+    "valid": false
+  },
+  "https://thequantuminsider.com/2026/03/18/rhonexum-secures-1-million-cryogenic-electronics-quantum-computing/": {
+    "valid": true,
+    "company": "Rhonexum",
+    "amount_str": "$1 M",
+    "website": "https://rhonexum.com",
+    "linkedin_url": "https://linkedin.com/company/rhonexum",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@rhonexum.com",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/03/verbaflo-raises-7m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.bitget.com/news/detail/12560605275178": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.tice.news/tice-dispatch/collarev-bets-big-on-indias-delivery-economy-with-moona-rugged-electric-two-wheeler-built-for-the-real-world-11224016": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/03/lausanne-based-rhonexum-raises-e867-5k-to-advance-cryogenic-electronics-for-scalable-quantum-computing/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/can-rhonexums-cryo-tech-unlock-scalable-quantum-computers/": {
+    "valid": false
+  },
+  "https://mercomcapital.com/funding-and-ma-roundup-mga-thermal-secures-12-million/": {
+    "valid": false
+  },
+  "https://www.thehansindia.com/amp/business/indias-private-market-deals-hit-207-billion-in-5-years-1057605": {
+    "valid": false
+  },
+  "https://data.swedishtechnews.com/funding-details/noru/r/MiV4jLaiqhpM2P": {
+    "valid": false
+  },
+  "https://www.facebook.com/EUStartups/posts/rhonexum-a-lausanne-based-cryogenic-electronics-startup-has-raised-8675k-in-pre-/1346652697489336/": {
+    "valid": false
+  },
+  "https://raising.fi/news/eight-continents-hotels-and-resorts-seed-march-2026": {
+    "valid": true,
+    "company": "Eight Continents Hotels and Resorts",
+    "amount_str": "$7 M",
+    "website": "https://eightcontinentshotels.com",
+    "linkedin_url": "https://linkedin.com/company/eight-continents-hotels",
+    "founder_name": "Richa Adhia",
+    "founder_linkedin_url": "",
+    "contact_email": "info@eightcontinents.co.uk",
+    "twitter_url": ""
+  },
+  "https://raising.fi/news/lupin-holmes-pre-seed-march-2026": {
+    "valid": true,
+    "company": "Lupin &amp; Holmes",
+    "amount_str": "$5.9 M",
+    "website": "https://duck.ai",
+    "linkedin_url": "https://linkedin.com/company/lupin-holmes",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
