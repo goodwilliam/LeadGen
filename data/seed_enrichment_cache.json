@@ -7350,5 +7350,61 @@
   },
   "https://x.com/TradedVC/status/2033910593007100064": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/edr-deadline-edr-investors-have-opportunity-to-lead-endeavor-group-holdings-inc-securities-fraud-lawsuit-302716749.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/cometchat-secures-6-5m-in-strategic-funding-from-run-ventures-to-expand-next-generation-ai-agent-platform-302715615.html": {
+    "valid": true,
+    "company": "CometChat",
+    "amount_str": "$6.5M",
+    "website": "https://app.cometchat.com",
+    "linkedin_url": "https://linkedin.com/company/cometchat",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/chow-stockholder-alert-shareholder-rights-law-firm-robbins-llp-reminds-investors-of-the-class-action-lawsuit-against-chowchow-cloud-international-holdings-limited-302716600.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/alit-stockholder-notice-shareholder-rights-law-firm-robbins-llp-reminds-investors-of-the-class-action-lawsuit-against-alight-inc-302716598.html": {
+    "valid": false
+  },
+  "https://technode.global/2026/03/18/vietnam-based-smartsolar-secures-3-15m-to-expand-rooftop-solar-financing-for-smes/": {
+    "valid": true,
+    "company": "The newly",
+    "amount_str": "$1.3 m",
+    "website": "https://thenewly.ca",
+    "linkedin_url": "https://linkedin.com/company/thenewlyinstitute",
+    "founder_name": "According to founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/NewlyInstitute"
+  },
+  "https://glenbrook.com/payments_news/alternative-payments-platform-aeropay-raises-seed-round-funding-led-by-fintech-experts-continental-investors/": {
+    "valid": false
+  },
+  "https://inforcapital.com/news/eileen-raises-1m-in-pre-seed-funding": {
+    "valid": true,
+    "company": "Eileen",
+    "amount_str": "$1M",
+    "website": "https://www.frankandeileen.com",
+    "linkedin_url": "",
+    "founder_name": "CEO and",
+    "founder_linkedin_url": "https://linkedin.com/in/eileenmcdargh",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://inforcapital.com/news/young-bug-bounty-hunter-bags-6m-pre-seed-round-for-security-startup": {
+    "valid": true,
+    "company": "Cybersecurity Startup",
+    "amount_str": "$6M",
+    "website": "https://growthlist.co",
+    "linkedin_url": "https://linkedin.com/company/growthlist-co",
+    "founder_name": "especially those with",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/GrowthLists"
   }
 }
