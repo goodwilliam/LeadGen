@@ -7406,5 +7406,122 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": "https://x.com/GrowthLists"
+  },
+  "https://tech.eu/2026/03/18/rhonexum-raises-1m-to-advance-cryogenic-electronics-for-quantum-computing/": {
+    "valid": true,
+    "company": "Rhonexum",
+    "amount_str": "$1M",
+    "website": "https://rhonexum.com",
+    "linkedin_url": "https://linkedin.com/company/rhonexum",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@rhonexum.com",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/18/elea-lili-raises-eur25m-to-scale-fossil-free-absorbent-materials/": {
+    "valid": true,
+    "company": "Elea &amp; Lili",
+    "amount_str": "\u20ac2.5M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/03/barcelonas-health-lean-analytics-bags-over-e2-1-million-to-streamline-hospital-operations-with-ai-and-data-analytics/": {
+    "valid": false
+  },
+  "https://www.biospace.com/press-releases/surf-therapeutics-reports-positive-first-in-human-data-and-secures-additional-financing-bringing-total-funding-to-6m-as-rheumatoid-arthritis-clinical-study-begins": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://connect.facebook.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://sg.finance.yahoo.com/news/vtt-spinout-elea-lili-raises-062400980.html": {
+    "valid": true,
+    "company": "VTT spinout Elea &amp; Lili",
+    "amount_str": "\u20ac2.5 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bwdisrupt.com/article/drink-prime-bags-2-2-mn-from-artha-continuum-mirabilis-investment-598071": {
+    "valid": true,
+    "company": "Drink Prime",
+    "amount_str": "$2.2 M",
+    "website": "https://www.amazon.com",
+    "linkedin_url": "https://linkedin.com/company/primehydration",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.businesswire.com/news/home/20260317838896/en/AiDEN-Are-Collaborating-With-Volvo-Group-Through-the-Innovation-Hub-CampX-in-a-Proof-of-Value-Project-Solving-Real-Customer-Needs": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/kudwa-raises-1-1-million-in-funding": {
+    "valid": true,
+    "company": "Kudwa",
+    "amount_str": "$1.1 M",
+    "website": "https://www.kudwa.co",
+    "linkedin_url": "https://linkedin.com/company/kudwaai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/knox-systems-raises-25-million-series-a": {
+    "valid": false
+  },
+  "https://e27.co/scb-10x-launches-ai-volution-the-series-2026-to-extend-global-ai-conversations-year-round-20260318/": {
+    "valid": true,
+    "company": "SCB 10X",
+    "amount_str": "",
+    "website": "https://www.scb.co.th",
+    "linkedin_url": "https://linkedin.com/company/scb10x",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://femtechinsider.com/canadian-caregiving-platform-kindly-launches-nationally-as-an-employer-benefit/": {
+    "valid": false
+  },
+  "https://www.onlinemarketplaces.com/articles/ten-questions-with-franck-le-tendre-co-founder-of-omny/": {
+    "valid": false
+  },
+  "https://x.com/search?lang=ar&src=video&q=install%20bet365%20app%20iphone%EF%BD%9B%E5%AE%98%E7%BD%91%EF%BC%9A701.tw%EF%BD%9D.xug": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.d174fd1a.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/first-concepts-raises-1m-in-funding": {
+    "valid": false
+  },
+  "https://disruptafrica.com/2026/03/17/tunisian-startup-wildyness-wins-international-to-do-award-in-berlin/": {
+    "valid": true,
+    "company": "Tunisian startup WildyNess",
+    "amount_str": "",
+    "website": "https://empowerafrica.com",
+    "linkedin_url": "https://linkedin.com/company/empowerafrica",
+    "founder_name": "said WildyNess",
+    "founder_linkedin_url": "",
+    "contact_email": "info@empowerafrica.com",
+    "twitter_url": "https://x.com/EmpowerAfrica_"
   }
 }
