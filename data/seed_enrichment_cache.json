@@ -7115,5 +7115,240 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": "https://x.com/hvrcnf"
+  },
+  "https://venturebeat.com/infrastructure/mistral-ai-launches-forge-to-help-companies-build-proprietary-ai-models": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/17/turquoise-vows-bring-transparent-pricing-day-payments-healthcare-raising-40m/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://d15shllkswkct0.cloudfront.net/wp-includes/wlwmanifest.xml",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/17/automation-startup-standard-template-labs-raises-49m/": {
+    "valid": true,
+    "company": "IT automation startup Standard Template Labs",
+    "amount_str": "$49M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/tcpc-investors-have-opportunity-to-lead-blackrock-tcp-capital-corp-securities-fraud-lawsuit-302714385.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/apo-investors-have-opportunity-to-lead-apollo-global-management-inc-securities-fraud-lawsuit-filed-by-the-rosen-law-firm-302716451.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/video-rebirth-secures-80-million-to-build-the-worlds-first-industrial-grade-ai-engine-302716670.html": {
+    "valid": true,
+    "company": "Video Rebirth",
+    "amount_str": "$80 M",
+    "website": "http://www.videorebirth.com",
+    "linkedin_url": "https://linkedin.com/company/video-rebirth",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/breakthrough-at-2026-aacr-senhwa-biosciences-cx-5461-enters-the-field-of-photodynamic-therapy-opening-a-new-indication-strategy-302716051.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/brayton-purcell-llp-responds-to-san-jose-mercury-news-investigation-highlighting-bay-area-silicosis-crisis-tied-to-crystalline-silica-artificial-stone-302716544.html": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/stationf_blify-future-40-2025-just-raised-21m-activity-7439588610221383680-SqKn": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/tracebit-20m-series-a-cloud-deception-security/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/superseed-50m-fund-iii-physical-ai-british-business-bank/": {
+    "valid": false
+  },
+  "https://x.com/TFNBreakingNews/status/2033852006163722591": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.d74f1a3a.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/photo.php?fbid=1409624664540913&set=a.562199872616734&type=3": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/GrishinRobotics/status/2033617155116163150": {
+    "valid": true,
+    "company": "Dark Watch just",
+    "amount_str": "$3.5 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/GrishinRobotics/status/2033655119372292173": {
+    "valid": true,
+    "company": "Understood Care just",
+    "amount_str": "$8.4 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/chicago/news/2026/03/17/franshares-chicago-startup-shuts-down.html": {
+    "valid": false
+  },
+  "https://www.geekwire.com/2026/microsoft-hires-employees-from-cove-a-small-sequoia-backed-ai-startup-that-helps-teams-collaborate/": {
+    "valid": false
+  },
+  "https://markets.businessinsider.com/news/stocks/transfi-inc-raises-19-million-to-build-an-emerging-markets-focused-global-payments-platform-on-stablecoin-rails-1035938426": {
+    "valid": true,
+    "company": "TransFi Inc.",
+    "amount_str": "$19 M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/startupsceneME/posts/uae-based-blockchain-infrastructure-startup-utexo-has-raised-75-million-in-a-see/1344415191041270/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bitget.com/amp/news/detail/12560605273045": {
+    "valid": false
+  },
+  "https://x.com/Calcalistech/status/2033894916649062436": {
+    "valid": true,
+    "company": "Niv-AI",
+    "amount_str": "$12 m",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startbase.com/news/level-nine-hat-4-millionen-seed-abgeschlossen/": {
+    "valid": false
+  },
+  "https://entarabi.com/en/2026/03/algeria-based-yassir-acquires-kawarizmi-to-build-an-ecosystem-supporting-brands-and-suppliers-in-mena/": {
+    "valid": false
+  },
+  "https://inforcapital.com/news/blify-secures-21m-pre-seed-to-develop-ai-training-platform/": {
+    "valid": true,
+    "company": "Blify",
+    "amount_str": "$2.1M",
+    "website": "https://pitchbook.com",
+    "linkedin_url": "https://linkedin.com/company/blify",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://wnhub.io/news/other/item-50353": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/mestag-therapeutics-raises-40m-in-financing.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/turquoise-health-raises-40m-in-series-c-funding.html": {
+    "valid": false
+  },
+  "https://www.disrupts.com/news/rizon-secures-2m-pre-seed-to-expand-global-digital-dollar-banking": {
+    "valid": true,
+    "company": "Rizon",
+    "amount_str": "$2M",
+    "website": "https://www.getrizon.com",
+    "linkedin_url": "https://linkedin.com/company/getrizon",
+    "founder_name": "CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/getrizon"
+  },
+  "https://www.indiaipo.in/news/detail/education-divide-widens-pressure-to-earn-early-leads-to-rising-exits": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.bsesme.com/static/getlisted/criteriaisting.aspx",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://nordic9.com/news/level-nine-to-raise-a-pre-seed-capital-round/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://inforcapital.com/news/young-bug-bounty-hunter-bags-6m-pre-seed-round-for-security-startup/": {
+    "valid": true,
+    "company": "Cybersecurity Startup",
+    "amount_str": "$6M",
+    "website": "https://growthlist.co",
+    "linkedin_url": "https://linkedin.com/company/growthlist-co",
+    "founder_name": "especially those with",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/GrowthLists"
+  },
+  "https://www.law360.com/pulse/amp/articles/2453865": {
+    "valid": true,
+    "company": "Norway Startup Newcode.ai",
+    "amount_str": "$6.5M",
+    "website": "https://www.law360.com",
+    "linkedin_url": "https://linkedin.com/company/law360",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Law360"
+  },
+  "https://x.com/TradedVC/status/2033910593007100064": {
+    "valid": false
   }
 }
