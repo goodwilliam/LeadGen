@@ -8204,5 +8204,174 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": "https://x.com/chief_marketer"
+  },
+  "https://techcrunch.com/2026/03/18/pardoned-nikola-founder-trevor-milton-is-trying-to-raise-1b-for-ai-powered-planes/": {
+    "valid": false
+  },
+  "https://venturebeat.com/technology/new-minimax-m2-7-proprietary-ai-model-is-self-evolving-and-can-perform-30-50": {
+    "valid": false
+  },
+  "https://betakit.com/three-alberta-genomics-projects-land-federal-funding/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/fbrt-investors-have-opportunity-to-lead-franklin-bsp-realty-trust-inc-securities-fraud-lawsuit-first-filed-by-the-rosen-law-firm-302717789.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/calumet-to-attend-hc-wainwright-renewable-fuels-virtual-day-302717956.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/talphera-to-host-virtual-investor--analyst-event-to-discuss-niyad-for-use-in-continuous-renal-replacement-therapy-crrt-on-march-23-2026-302717591.html": {
+    "valid": false
+  },
+  "https://tech.yahoo.com/science/articles/autonomous-labs-seek-solve-information-180336942.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://s.yimg.com/du/benji/benji-2.js",
+    "linkedin_url": "",
+    "founder_name": "Eliot Cowan told Semafor",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://news.biobuzz.io/2026/03/18/a-camera-in-a-pill-tomorrows-bio-today-is-bringing-diagnostic-technology-to-the-overlooked-world-of-livestock-medicine/": {
+    "valid": false
+  },
+  "https://www.businesstoday.in/bt-tv/market-today/video/iran-war-threatens-fertiliser-supply-is-indias-kharif-crop-at-risk-521254-2026-03-18": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/sse-business-lab_congrats-to-bip-thelin-and-therese-ruth-activity-7439956478779695104-ZcjE": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/denise_teng25/status/2033925080812847331": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/money/other/the-google-backed-ai-investors-nobody-took-seriously-in-2017-just-raised-220-million/ar-AA1YPmxQ?uxmode=ruby": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.insightnews.com/business/a-turing-award-winner-raises-1-billion-to-prove-the-ai-industry-has-taken-a/article_110f10e3-f391-49f3-9663-8cd658ef1adf.html": {
+    "valid": true,
+    "company": "Turing Award winner",
+    "amount_str": "$1 b",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.forbes.com/sites/thomasbrewster/2026/03/18/corridor-200-million-ai-cyber-startup/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.geekwire.com/2026/geekwire-200-update-a-new-no-1-and-plenty-of-newcomers-join-list-of-top-pacific-northwest-tech-startups/": {
+    "valid": false
+  },
+  "https://www.youtube.com/watch?v=VKqKDnhtSd0": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/trumanpierson_theta-neurotech-has-raised-175m-pre-seed-activity-7440071659216158720-a4c6": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "the cofounder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupresearcher.com/news/ai-compliance-startup-noru-secures-usd645-000-pre-seed-funding": {
+    "valid": false
+  },
+  "https://www.startupresearcher.com/news/bug-bounty-hunter-s-startup-lupin-and-holmes-secures-usd5-9-million-pre-seed": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DWBO7pxDLSV/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/TFNBreakingNews/status/2034225741265613172": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.d174fd1a.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.founderstoday.news/rhonexum-raises-1-million-pre-seed-round/": {
+    "valid": true,
+    "company": "Rhonexum",
+    "amount_str": "$1M",
+    "website": "https://rhonexum.com",
+    "linkedin_url": "https://linkedin.com/company/rhonexum",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@rhonexum.com",
+    "twitter_url": ""
+  },
+  "https://www.indexbox.io/blog/cove-ai-collaboration-startup-shuts-down-team-joins-microsoft/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://mc.yandex.ru",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://news.stthomas.edu/student-innovators-turn-ideas-into-winning-ventures-at-st-thomas/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/elea-lili-bags-e2-5m-to-replace-microplastics-in-diapers-feminine-hygiene-and-farming-products/": {
+    "valid": false
+  },
+  "https://www.marketwatch.com/press-release/vtt-spinout-elea-lili-raises-eur2-5-million-to-commercialise-microplastic-free-superabsorbent-material-for-hygiene-and-agriculture-05f57670": {
+    "valid": true,
+    "company": "VTT spinout Elea &amp; Lili",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/new-ai-startup-with-team-from-amazon-meta-and-datadog-launches-with-49m-funding/": {
+    "valid": false
   }
 }
