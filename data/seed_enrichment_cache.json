@@ -8373,5 +8373,200 @@
   },
   "https://techfundingnews.com/new-ai-startup-with-team-from-amazon-meta-and-datadog-launches-with-49m-funding/": {
     "valid": false
+  },
+  "https://siliconangle.com/2026/03/18/runsybil-raises-40m-automate-offensive-security-ai-agents/": {
+    "valid": true,
+    "company": "RunSybil",
+    "amount_str": "$40M",
+    "website": "https://www.runsybil.com",
+    "linkedin_url": "https://linkedin.com/company/runsybil",
+    "founder_name": "Palo Alto Networks",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/runsybil"
+  },
+  "https://siliconangle.com/2026/03/18/automated-vulnerability-detection-startup-xbow-nabs-120m/": {
+    "valid": true,
+    "company": "Automated vulnerability detection startup Xbow",
+    "amount_str": "$120M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/18/cybersecurity-startup-raven-raises-20m-runtime-application-security-platform/": {
+    "valid": true,
+    "company": "Raven",
+    "amount_str": "$20M",
+    "website": "https://raven.io",
+    "linkedin_url": "https://linkedin.com/company/raven-cloud",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/brandye-burton-779b3b3a2",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Ravencloudinc"
+  },
+  "https://www.prnewswire.com/news-releases/data-breach-alert-edelson-lechtzin-llp-is-investigating-claims-on-behalf-of-persons-affected-by-the-id-care-data-breach-302718096.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/kuehn-law-encourages-investors-of-selectquote-inc-to-contact-law-firm-302718075.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/kuehn-law-encourages-investors-of-charter-communications-inc-to-contact-law-firm-302718074.html": {
+    "valid": false
+  },
+  "https://www.businesstoday.in/amp/latest/corporate/story/70-mn-indians-face-digestive-disorders-startup-firm-gut-clinic-just-raised-1-million-to-tackle-it-521251-2026-03-18": {
+    "valid": true,
+    "company": "Gut Clinic",
+    "amount_str": "$1 m",
+    "website": "https://saltwrap.com",
+    "linkedin_url": "https://linkedin.com/company/gut-clinic",
+    "founder_name": "Senior Executive Vice",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/shopify"
+  },
+  "https://www.msn.com/en-us/sports/other/kenpom-predicts-pivotal-showdown-between-byu-and-wvu/ar-AA1XerMD?cvid=69a2810fe1ec4efab4c8c4fdb46382a8&ocid=zdhp": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/ciaodott-raises-1-5-million-in-funding": {
+    "valid": false
+  },
+  "https://techfundingnews.com/homaio-raises-e3-6m-to-bring-private-investors-into-the-markets-powering-the-energy-transition/": {
+    "valid": false
+  },
+  "https://medcitynews.com/2026/03/flourish-care-doula-seed-funding/": {
+    "valid": true,
+    "company": "Flourish Care",
+    "amount_str": "$5.7 m",
+    "website": "https://flourishcommunitycare.com",
+    "linkedin_url": "https://linkedin.com/company/flourish-collective-incorporated",
+    "founder_name": "said Nasir Qadree",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.lw.com/en/news/latham-advises-mantis-space-in-series-seed-financing": {
+    "valid": false
+  },
+  "https://ground.news/article/verbaflo-raises-7-million-led-by-pi-labs-to-build-the-ai-communications-platform-for-global-real-estate": {
+    "valid": true,
+    "company": "VerbaFlo",
+    "amount_str": "$7 M",
+    "website": "https://app.verbaflo.com",
+    "linkedin_url": "https://linkedin.com/company/verbaflo-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/the-chennai-angels_inspired-spirits-makers-of-quro-raises-activity-7439962364558516224-HHL7": {
+    "valid": true,
+    "company": "Inspired Spirits \u2013 Makers of Quro",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-in/money/news/tattvam-ai-founder-raises-17-million-for-semiconductor-design-startup/ar-AA1X3LWZ?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": true,
+    "company": "Tattvam AI founder",
+    "amount_str": "$1.7 m",
+    "website": "https://www.ndtvprofit.com",
+    "linkedin_url": "",
+    "founder_name": "Tattvam AI",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/founderstoday_blify-raises-21m-pre-seed-to-develop-ai-activity-7440126039063752704-OT3u": {
+    "valid": true,
+    "company": "Blify",
+    "amount_str": "$2.1M",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/blify",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://quantumcomputingreport.com/rhonexum-raises-1m-pre-seed-to-solve-the-quantum-cabling-bottleneck-via-cryo-cmos/": {
+    "valid": true,
+    "company": "Rhonexum",
+    "amount_str": "$1M",
+    "website": "https://rhonexum.com",
+    "linkedin_url": "https://linkedin.com/company/rhonexum",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@rhonexum.com",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DWBmZ47jc5c/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Photo by",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://inforcapital.com/news/rhonexum-secures-1m-to-scale-cryogenic-electronics-for-quantum-computing/": {
+    "valid": true,
+    "company": "Rhonexum",
+    "amount_str": "$1M",
+    "website": "https://rhonexum.com",
+    "linkedin_url": "https://linkedin.com/company/rhonexum",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@rhonexum.com",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/rivia-raises-15m-to-build-ai-engine-for-clinical-trial-data/": {
+    "valid": true,
+    "company": "Rivia",
+    "amount_str": "$15M",
+    "website": "https://www.rivia.com",
+    "linkedin_url": "https://linkedin.com/company/rivia-sa",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@rivia.ch",
+    "twitter_url": ""
+  },
+  "https://x.com/TFNBreakingNews/status/2034329279316836578": {
+    "valid": false
+  },
+  "https://inforcapital.com/news/mave-health-raises-21m-in-seed-funding/": {
+    "valid": true,
+    "company": "Mave Health",
+    "amount_str": "$2.1M",
+    "website": "https://www.trustpilot.com",
+    "linkedin_url": "https://linkedin.com/company/trustpilot",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@trustpilot.com",
+    "twitter_url": "https://x.com/Trustpilot"
+  },
+  "https://quantumcomputingreport.com/rhonexum-raises-1m-pre-seed-to-solve-the-quantum-cabling-bottleneck-via-cryo-cmos/amp/": {
+    "valid": true,
+    "company": "Rhonexum",
+    "amount_str": "$1M",
+    "website": "https://rhonexum.com",
+    "linkedin_url": "https://linkedin.com/company/rhonexum",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@rhonexum.com",
+    "twitter_url": ""
+  },
+  "https://news.crunchbase.com/public/potential-defense-tech-ipo-candidates-swmr/": {
+    "valid": false
+  },
+  "https://www.ipoplatform.com/news?page=1": {
+    "valid": false
   }
 }
