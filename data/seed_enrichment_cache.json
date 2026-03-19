@@ -8731,5 +8731,298 @@
   },
   "https://www.instagram.com/p/DWCkbAHEflP/": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/03/19/feds-intensify-investigation-into-teslas-full-self-driving-supervised-software/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/03/19/uber-taps-rivian-to-build-robotaxis-in-deal-worth-up-to-1-25b/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/19/from-diversified-funding-to-frontier-innovation-the-spanish-tech-ecosystem/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/waterequitys-everspring-fund-expands-household-access-to-water-and-sanitation-across-emerging-markets-302718348.html": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/jai-sharma-a9b8aa131_we-just-raised-a-21m-seed-round-25-activity-7440294499555115008-p-cc": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/y-combinator_respan-formerly-keywords-ai-just-raised-activity-7440080291018387456-VKeR": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/SebJohnsonUK/status/2033943026280628461": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.d174fd1a.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/PhantomByteAI/status/2034010468449218804": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.d174fd1a.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://impactalpha.com/elea-lili-raises-2-9-million-to-develop-plastic-free-materials-for-hygiene-and-agriculture/": {
+    "valid": true,
+    "company": "Elea &amp; Lili",
+    "amount_str": "$2.9 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/03/ghents-ringtime-secures-e1-8-million-to-tackle-europes-labour-shortage-with-its-conversational-ai-agent/": {
+    "valid": false
+  },
+  "https://m.economictimes.com/small-biz/entrepreneurship/mave-health-raises-2-1-million-seed-round/articleshow/129672837.cms": {
+    "valid": true,
+    "company": "Mave Health",
+    "amount_str": "$2.1 m",
+    "website": "https://www.morningstar.com",
+    "linkedin_url": "https://linkedin.com/company/morningstar",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "reprints@morningstar.com",
+    "twitter_url": "https://x.com/MorningstarInc"
+  },
+  "https://thenextweb.com/news/ringtime-seed-round-blue-collar-recruitment-ai": {
+    "valid": true,
+    "company": "Ringtime",
+    "amount_str": "\u20ac1.8M",
+    "website": "https://www.ringtime.ai",
+    "linkedin_url": "https://linkedin.com/company/ringtime",
+    "founder_name": "of Cheqroom",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@ringtime.ai",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/ezra-raises-3-2-million-seed-round": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/verbaflo-raises-7-million-seed-round": {
+    "valid": false
+  },
+  "https://en.wowtale.net/2026/03/19/233713/": {
+    "valid": true,
+    "company": "Travel AI Startup LIAD Corporation",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "said Byeongju Lee",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fortune.com/2026/03/19/exclusive-posh-lands-37m-series-b-what-are-we-doing-tonight-problem/": {
+    "valid": true,
+    "company": "Posh",
+    "amount_str": "$37M",
+    "website": "https://portal.posh.com",
+    "linkedin_url": "https://linkedin.com/company/poshai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.research-live.com/article/features/qa-wholesums-emily-kucharski-on-finding-richer-signals/id/5147823": {
+    "valid": false
+  },
+  "https://www.vogue.com/article/what-if-natural-fibers-dont-biodegrade": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thenextweb.com/news/eternal-ag-greenhouse-robot-8m-funding": {
+    "valid": true,
+    "company": "eternal.ag",
+    "amount_str": "\u20ac8M",
+    "website": "https://eternal.ag/en",
+    "linkedin_url": "",
+    "founder_name": "Sherry Kunjachan",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://wnhub.io/news/other/item-50362": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/everdrone-raises-approx-e3-34m-in-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/autoscience-raises-14m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://yourstory.com/2026/03/taking-women-founders-global-": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://inforcapital.com/news/syrian-proptech-miftah-raises-pre-seed-round/": {
+    "valid": true,
+    "company": "Syrian Proptech Miftah",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/eternal-ag-raises-8m-to-automate-greenhouse-harvesting/": {
+    "valid": false
+  },
+  "https://timesofindia.indiatimes.com/city/pune/sppu-students-drive-startup-surge-across-food-tech-sectors/articleshow/129665325.cms": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://static.toiimg.com/thumb/msid-129665366,imgsize-21270,width-400,height-225,resizemode-72/sppu-students-drive-startup-surge-across-food-tech-sectors.jpg",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startups.com/requests/1c3affa0-9e6d-40f5-8d74-bc91c862d9f1": {
+    "valid": false
+  },
+  "http://www.odaily.news/en/post/5209799": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://turing.captcha.qcloud.com/TJCaptcha.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.mexc.com/news/955268": {
+    "valid": false
+  },
+  "https://www.facebook.com/theceo.in/posts/pet-food-startup-zoomies-has-raised-rs-5-crore-in-a-pre-seed-funding-round-led-b/1385344650287755/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://inforcapital.com/news/noru-raises-560k-in-pre-seed-funding": {
+    "valid": true,
+    "company": "Noru",
+    "amount_str": "\u20ac560K",
+    "website": "https://ridenoru.com",
+    "linkedin_url": "https://linkedin.com/company/noru-tech",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@helmethouse.com",
+    "twitter_url": ""
+  },
+  "https://www.securityweek.com/raven-emerges-from-stealth-with-20-million-in-funding/": {
+    "valid": false
+  },
+  "https://inc42.com/buzz/mave-health-nets-2-1-mn-to-launch-its-mental-health-focused-wearables/": {
+    "valid": false
+  },
+  "https://www.digitalhealthnews.com/neurotech-startup-mave-health-raises-seed-funding-to-launch-focus-stress-regulation-wearable": {
+    "valid": true,
+    "company": "Mave Health",
+    "amount_str": "",
+    "website": "https://www.trustpilot.com",
+    "linkedin_url": "https://linkedin.com/company/trustpilot",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@trustpilot.com",
+    "twitter_url": "https://x.com/Trustpilot"
+  },
+  "https://entrackr.com/snippets/neurotechnology-startup-mave-health-secures-21-mn-led-by-blume-ventures-11227402": {
+    "valid": true,
+    "company": "Neurotechnology startup Mave Health",
+    "amount_str": "$2.1 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Stanford Angels",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/RealtyNXT/posts/newsupdate-coral-has-secured-75-million-in-seed-funding-in-2026-to-make-energy-e/1391595222985167/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fundtq.com/get-funding-for-b2b-marketplace-startup/": {
+    "valid": false
+  },
+  "https://www.nationaldefensemagazine.org/articles/2026/3/18/startup-building-autonomous-amphibious-logistics-aircraft": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.cxodigitalpulse.com/conversational-ai-startup-verbaflo-secures-7-mn-funding-from-pi-labs-and-others/": {
+    "valid": true,
+    "company": "Conversational AI Startup VerbaFlo",
+    "amount_str": "$7 M",
+    "website": "https://tech.eu",
+    "linkedin_url": "https://linkedin.com/company/tech-eu",
+    "founder_name": "said Virender Pratap Singh",
+    "founder_linkedin_url": "",
+    "contact_email": "name@provider.com",
+    "twitter_url": "https://x.com/tech_eu"
   }
 }
