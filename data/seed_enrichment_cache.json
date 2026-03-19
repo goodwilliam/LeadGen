@@ -9024,5 +9024,427 @@
     "founder_linkedin_url": "",
     "contact_email": "name@provider.com",
     "twitter_url": "https://x.com/tech_eu"
+  },
+  "https://techcrunch.com/2026/03/19/techcrunch-startup-battlefield-200-nominations-are-still-open/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/03/19/consumer-focused-privacy-company-cloaked-raises-375m-as-it-expands-to-enterprise/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/03/19/arc-expands-into-electric-commercial-and-defense-boats-with-50m-raise/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/19/eternalag-raises-eur8m-to-automate-greenhouse-harvesting-with-ai-powered-robots/": {
+    "valid": true,
+    "company": "Eternal.ag",
+    "amount_str": "\u20ac8M",
+    "website": "https://www.scamadviser.com",
+    "linkedin_url": "https://linkedin.com/company/scamadviser",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@gurugo.online",
+    "twitter_url": "https://x.com/scamadviser"
+  },
+  "https://tech.eu/2026/03/19/edra-raises-309m-series-a-to-turn-enterprise-data-into-self-improving-ai-agents/": {
+    "valid": true,
+    "company": "Sequoia-backed Edra",
+    "amount_str": "$30M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/19/cleavr-raises-eur1m-to-develop-an-ai-solution-for-accounts-receivable/": {
+    "valid": true,
+    "company": "Cleavr",
+    "amount_str": "\u20ac1M",
+    "website": "https://cleavr.io",
+    "linkedin_url": "https://linkedin.com/company/cleavr-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/thecleavr"
+  },
+  "https://siliconangle.com/2026/03/19/hosted-ai-raises-19m-pool-gpu-capacity-increasing-efficiency-neocloud-infrastructure/": {
+    "valid": true,
+    "company": "Hosted.ai",
+    "amount_str": "$19M",
+    "website": "https://hosted.ai",
+    "linkedin_url": "https://linkedin.com/company/hostedai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@hosted.ai",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/19/exclusive-snowflake-invests-bedrock-data-strengthen-agentic-ai-system-governance/": {
+    "valid": false
+  },
+  "https://www.geekwire.com/2026/portland-cybersecurity-startup-eclypsium-raises-25m-to-secure-ai-infrastructure/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/meitav-investment-house-reports-record-q4-and-full-year-2025-results-with-24-revenue-growth-and-40-increase-in-operating-profit-reaffirms-20-profitability-growth-target-for-2026-302719024.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/duke-energy-invests-500-000-to-strengthen-storm-preparedness-across-north-carolina-302719011.html": {
+    "valid": false
+  },
+  "https://www.marketbeat.com/instant-alerts/oneok-nyseoke-price-target-raised-to-8400-2026-03-19/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/pado-raises-6m-to-make-data-centres-more-energy-efficient-amid-the-ai-race/": {
+    "valid": true,
+    "company": "PADO",
+    "amount_str": "$6M",
+    "website": "https://www.purewave.com",
+    "linkedin_url": "https://linkedin.com/company/padoai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/tesla-of-water-candela-steers-through-waves-with-e30m-for-manufacturing-facility-in-poland/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/amidst-labour-shortage-in-europe-ringtime-raises-e1-8m-to-help-recruiters-reach-them-faster/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/reson8-5m-pre-seed-balderton-european-speech-ai/": {
+    "valid": false
+  },
+  "https://www.semafor.com/article/03/18/2026/autonomous-labs-seek-to-solve-information-overload": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wa.me",
+    "linkedin_url": "",
+    "founder_name": "Eliot Cowan told Semafor",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.globenewswire.com/news-release/2026/03/19/3259301/0/en/Hamilton-AI-Raises-7-5M-Seed-Round-to-Build-the-Execution-Layer-for-Private-Aviation.html": {
+    "valid": true,
+    "company": "Hamilton AI",
+    "amount_str": "$7.5M",
+    "website": "https://www.hamilton.ai",
+    "linkedin_url": "https://linkedin.com/company/hamilton-ai",
+    "founder_name": "said Gardiner Garrard",
+    "founder_linkedin_url": "",
+    "contact_email": "myname@company.com",
+    "twitter_url": ""
+  },
+  "https://thenextweb.com/news/parallel-hospital-ai-agents-20m-index-ventures": {
+    "valid": true,
+    "company": "Parallel",
+    "amount_str": "\u20ac20M",
+    "website": "https://www.beparallel.com",
+    "linkedin_url": "https://linkedin.com/company/beparallel",
+    "founder_name": "Paul Lafforgue",
+    "founder_linkedin_url": "https://linkedin.com/in/paullafforgue",
+    "contact_email": "contact@beparallel.com",
+    "twitter_url": ""
+  },
+  "https://www.axios.com/2026/03/19/claros-seed-data-center-energy-loss": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Claros voltage regulator and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://markets.businessinsider.com/news/stocks/pado-ai-announces-6-million-seed-round-to-deliver-ai-powered-workload-orchestration-resources-for-data-centers-to-maximize-compute-per-megawatt-1035945447": {
+    "valid": true,
+    "company": "PADO AI",
+    "amount_str": "$6 M",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/padoai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.businessinsider.com/quit-dream-job-apple-launch-ai-startup-dad-no-regrets-2026-3": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://i.insider.com/69bc045bd387710cb9e4633e",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.biospectrumindia.com/news/16/27515/mave-health-raises-2-1m-to-launch-focus-and-stress-regulation-wearable.html": {
+    "valid": true,
+    "company": "Mave Health",
+    "amount_str": "$2.1M",
+    "website": "https://www.trustpilot.com",
+    "linkedin_url": "https://linkedin.com/company/trustpilot",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@trustpilot.com",
+    "twitter_url": "https://x.com/Trustpilot"
+  },
+  "https://bayelsawatch.com/ciaodott-banks-1-5-million/": {
+    "valid": false
+  },
+  "https://www.indianstartuptimes.com/investment/verbaflo-secures-7m-seed-round-to-scale-ai-driven-real-estate-communications/": {
+    "valid": true,
+    "company": "VerbaFlo",
+    "amount_str": "$7M",
+    "website": "https://app.verbaflo.com",
+    "linkedin_url": "https://linkedin.com/company/verbaflo-ai",
+    "founder_name": "and COO",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.uschamber.com/co/good-company/launch-pad/startup-accelerators-pitch-competition-growth": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://lamikbeauty.com",
+    "linkedin_url": "",
+    "founder_name": "For the",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/lamikbeauty"
+  },
+  "https://www.binance.com/en/square/post/303103826420529": {
+    "valid": false
+  },
+  "https://resiliencemedia.co/hyimpulse-eyes-first-european-launch-from-saxavord-as-uk-space-ambitions-gather-pace/": {
+    "valid": false
+  },
+  "https://www.techstars.com/blog/startup-profile/how-the-founders-of-take2-are-replacing-resumes-with-real-skills": {
+    "valid": false
+  },
+  "https://www.ynetnews.com/business/article/skmtnlf5zl": {
+    "valid": true,
+    "company": "RAVEN.IO",
+    "amount_str": "$20 m",
+    "website": "https://raven.io",
+    "linkedin_url": "https://linkedin.com/company/raven-cloud",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Ravencloudinc"
+  },
+  "http://www.fstech.co.uk/fst/Finance_AI_startup_from_JP_Morgan_Google_vets_raises_7_million_in_seed_round.php": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "http://www.payments-awards.com/awards",
+    "linkedin_url": "https://linkedin.com/company/1378188",
+    "founder_name": "technology officers respectively",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/FStechnology"
+  },
+  "https://www.thesaasnews.com/news/video-rebirth-closes-80-million-in-funding": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/ringtime-raises-1-8-million-seed-round": {
+    "valid": false
+  },
+  "https://inshorts.com/en/amp_news/ai-startup-verbaflo-raises--65-crore-in-seed-round-from-pi-labs-1773900946074": {
+    "valid": true,
+    "company": "VerbaFlo",
+    "amount_str": "",
+    "website": "https://app.verbaflo.com",
+    "linkedin_url": "https://linkedin.com/company/verbaflo-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://pulse2.com/xmemory-4-million-raised-for-ai-memory-layer-platform/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wp.me/pp5wj-1zaf",
+    "linkedin_url": "https://linkedin.com/company/pulse2news",
+    "founder_name": "who serves as",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/pulse2news"
+  },
+  "https://www.finsmes.com/2026/03/chalkie-raises-4m-in-funding.html": {
+    "valid": false
+  },
+  "https://thenextweb.com/news/taceo-network-launch-private-computation-world-id": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/obin-ai-raises-7-million-in-seed-round": {
+    "valid": false
+  },
+  "https://x.com/eugen12/status/2034531001645326790/photo/1": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.d174fd1a.js",
+    "linkedin_url": "",
+    "founder_name": "Congrats to",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://raising.fi/news/laani-pre-seed-march-2026": {
+    "valid": true,
+    "company": "Laani",
+    "amount_str": "$1.04 M",
+    "website": "https://withyoulaani.com",
+    "linkedin_url": "https://linkedin.com/company/laani",
+    "founder_name": "commented Arjun Vaidya",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@withyoulaani.com",
+    "twitter_url": ""
+  },
+  "https://raising.fi/news/ciaodott-pre-seed-march-2026": {
+    "valid": true,
+    "company": "CiaoDott",
+    "amount_str": "\u20ac1.5 M",
+    "website": "https://ciaodott.com",
+    "linkedin_url": "https://linkedin.com/company/ciaodott",
+    "founder_name": "and Co",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://technotrenz.com/news/verbaflo-raises-7m/": {
+    "valid": true,
+    "company": "VerbaFlo",
+    "amount_str": "$7M",
+    "website": "https://www.verbaflo.ai/stories/verbaflo-raises-7-million-to-accelerate-ai-powered-leasing-automation",
+    "linkedin_url": "https://linkedin.com/company/verbaflo-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@verbaflo.ai",
+    "twitter_url": "https://x.com/VerbaFloAI"
+  },
+  "https://theaiinsider.tech/2026/03/19/obin-ai-emerges-from-stealth-to-build-agentic-workforce-for-financial-institutions/": {
+    "valid": false
+  },
+  "https://www.vccircle.com/fusionstaysraises-inr-75-lakhs-in-pre-seed-funding-led-by-vruddhi-capital-kolkata-india": {
+    "valid": true,
+    "company": "FusionStays",
+    "amount_str": "",
+    "website": "https://www.fusionstays.com",
+    "linkedin_url": "https://linkedin.com/company/fusionstays",
+    "founder_name": "Sourav Goswami",
+    "founder_linkedin_url": "https://linkedin.com/in/souravgoswami",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupmag.co.uk/funding/deaku-2026-pre-seed-funding/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/deeplase-technologies-raises-%E2%82%B96-crore-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://news.bettingstartups.com/p/gambly-unabated-shotquality-kalshi": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/03/19/cove-ai-collaboration-startup-team-joins-microsoft-as-product-shuts-down/": {
+    "valid": false
+  },
+  "https://www.bioxconomy.com/partnering/biontech-co-founders-vacate-ceo-positions-to-launch-mrna-startup": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cookielaw.org",
+    "linkedin_url": "",
+    "founder_name": "founders vacate",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupresearcher.com/news/european-speech-ai-startup-reson8-raises-usd5-7-million-pre-seed-funding": {
+    "valid": false
+  },
+  "https://www.theinformation.com/newsletters/ai-agenda/meet-giga-ai-data-center-developer-barely-raised-capital": {
+    "valid": false
+  },
+  "https://www.startupmag.co.uk/funding/hydra-manufacturing-2026-pre-seed-funding/": {
+    "valid": true,
+    "company": "Hydra Manufacturing",
+    "amount_str": "",
+    "website": "https://www.hydra-manufacturing.com",
+    "linkedin_url": "https://linkedin.com/company/hydra-manufacturing",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@hydra-am.com",
+    "twitter_url": ""
+  },
+  "https://www.startupmag.co.uk/funding/xmemory-2026-pre-seed-funding/": {
+    "valid": false
+  },
+  "https://x.com/Inc42/status/2034540291458257045/photo/1": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.d174fd1a.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.fstech.co.uk/fst/Finance_AI_startup_from_JP_Morgan_Google_vets_raises_7_million_in_seed_round.php": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "http://www.payments-awards.com/awards",
+    "linkedin_url": "https://linkedin.com/company/1378188",
+    "founder_name": "technology officers respectively",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/FStechnology"
+  },
+  "https://www.cxodigitalpulse.com/cybersecurity-startup-raven-io-secures-20m-to-expand-us-operations/": {
+    "valid": true,
+    "company": "Raven.io",
+    "amount_str": "$20M",
+    "website": "https://raven.io",
+    "linkedin_url": "https://linkedin.com/company/raven-cloud",
+    "founder_name": "and Descope",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Ravencloudinc"
+  },
+  "https://www.facebook.com/Inc42/posts/healthtech-startup-mave-health-has-raised-21-mn-18-cr-in-a-seed-funding-round-le/1499829331741184/": {
+    "valid": true,
+    "company": "Mave Health",
+    "amount_str": "$2.1 M",
+    "website": "https://www.trustpilot.com",
+    "linkedin_url": "https://linkedin.com/company/trustpilot",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@trustpilot.com",
+    "twitter_url": "https://x.com/Trustpilot"
+  },
+  "https://www.linkedin.com/posts/startupaarhus_medicquant-aps-secures-dkk-22m-in-seed-funding-activity-7440329521834287104-FeE7": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "http://Finans.dk",
+    "linkedin_url": "https://linkedin.com/company/finans",
+    "founder_name": "where she and",
+    "founder_linkedin_url": "",
+    "contact_email": "finans@finans.dk",
+    "twitter_url": "https://x.com/finansdk"
   }
 }
