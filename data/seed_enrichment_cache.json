@@ -8612,5 +8612,124 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/19/ventech-leads-bountis-eur4m-funding-to-apply-ai-in-the-physical-economy/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/19/ringtime-secures-eur18m-to-improve-blue-collar-hiring-processes/": {
+    "valid": true,
+    "company": "Ringtime",
+    "amount_str": "\u20ac1.8M",
+    "website": "https://www.ring-time.com",
+    "linkedin_url": "https://linkedin.com/company/ringtimeapp",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/19/reson8-collects-eur5m-to-develop-europe-focused-speech-ai/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/hosted-ai-creandum-gpu-efficiency-pitch-deck/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/berlin-bounti-raises-e4m-ai-frontline-workers-physical-economy/": {
+    "valid": false
+  },
+  "https://inforcapital.com/news/former-crowdstrike-and-bloomberg-engineers-raise-2m-for-seattle-fintech-startup-opencfo": {
+    "valid": true,
+    "company": "OpenCFO",
+    "amount_str": "$2M",
+    "website": "https://opencfo.ai",
+    "linkedin_url": "https://linkedin.com/company/opencfo",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@opencfo.ai",
+    "twitter_url": ""
+  },
+  "https://thenextweb.com/news/reson8-raises-e5m-to-build-europe-first-speech-ai": {
+    "valid": true,
+    "company": "Reson8",
+    "amount_str": "\u20ac5m",
+    "website": "https://www.reson8.dev",
+    "linkedin_url": "https://linkedin.com/company/reson8",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@reson8.dev",
+    "twitter_url": "https://x.com/reson8"
+  },
+  "https://en.wowtale.net/2026/03/19/233710/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wowtale.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "editor@wowtale.net",
+    "twitter_url": "https://x.com/mushman1970"
+  },
+  "https://www.londontechwatch.com/2026/03/the-london-techwatch-startup-daily-funding-report-18-3-2026/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://techwatch.media",
+    "linkedin_url": "",
+    "founder_name": "most active",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/TradedVC/status/2034375771213471762": {
+    "valid": true,
+    "company": "Mave Health",
+    "amount_str": "$2.1 m",
+    "website": "https://www.trustpilot.com",
+    "linkedin_url": "https://linkedin.com/company/trustpilot",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@trustpilot.com",
+    "twitter_url": "https://x.com/Trustpilot"
+  },
+  "https://en.wowtale.net/2026/03/19/233707/": {
+    "valid": true,
+    "company": "Dental AI Robotics Startup Dentronic",
+    "amount_str": "$1M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "through the",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/TFNBreakingNews/status/2034200184046186600": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DWCkbAHEflP/": {
+    "valid": false
   }
 }
