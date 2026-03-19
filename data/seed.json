@@ -1,20 +1,34 @@
 {
-  "generated_at": "2026-03-19T16:57:11.921464Z",
+  "generated_at": "2026-03-19T20:33:16.173294Z",
   "count": 34,
-  "enriched_count": 27,
+  "enriched_count": 28,
   "articles": [
     {
       "source": "Google Alerts",
       "title": "Hamilton AI Raises $7.5M Seed Round to Build the Execution Layer for Private Aviation",
-      "article_url": "https://www.globenewswire.com/news-release/2026/03/19/3259301/0/en/Hamilton-AI-Raises-7-5M-Seed-Round-to-Build-the-Execution-Layer-for-Private-Aviation.html",
+      "article_url": "https://markets.businessinsider.com/news/stocks/hamilton-ai-raises-7-5m-seed-round-to-build-the-execution-layer-for-private-aviation-1035946718",
       "company": "Hamilton AI",
       "amount_str": "$7.5M",
-      "pub_date": "2026-03-19T16:16:46Z",
+      "pub_date": "2026-03-19T17:51:47Z",
       "website": "https://www.hamilton.ai",
       "linkedin_url": "https://linkedin.com/company/hamilton-ai",
-      "founder_name": "said Gardiner Garrard",
+      "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "myname@company.com",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Oasis Security raises $120 million Series B to secure the rise of AI agents | Ctech",
+      "article_url": "https://www.calcalistech.com/ctechnews/article/ske4mstcwl",
+      "company": "Oasis Security",
+      "amount_str": "$120 m",
+      "pub_date": "2026-03-19T16:34:08Z",
+      "website": "https://www.oasis.security",
+      "linkedin_url": "https://linkedin.com/company/oasissecurity",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
       "twitter_url": ""
     },
     {
@@ -44,6 +58,20 @@
       "founder_linkedin_url": "",
       "contact_email": "info@gurugo.online",
       "twitter_url": "https://x.com/scamadviser"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Conversational AI startup VerbaFlo has raised $7 million in a seed funding round led ... - Facebook",
+      "article_url": "https://www.facebook.com/theceo.in/posts/conversational-ai-startup-verbaflo-has-raised-7-million-in-a-seed-funding-round-/1386166766872210/",
+      "company": "Conversational AI startup VerbaFlo",
+      "amount_str": "$7 m",
+      "pub_date": "2026-03-19T15:43:27Z",
+      "website": "https://tech.eu",
+      "linkedin_url": "https://linkedin.com/company/tech-eu",
+      "founder_name": "Magazine\n\nURL Source",
+      "founder_linkedin_url": "",
+      "contact_email": "name@provider.com",
+      "twitter_url": "https://x.com/tech_eu"
     },
     {
       "source": "Google Alerts",
@@ -117,20 +145,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Hydra Manufacturing raises pre-seed to build production-grade ceramic systems for ... - Startupmag",
-      "article_url": "https://www.startupmag.co.uk/funding/hydra-manufacturing-2026-pre-seed-funding/",
-      "company": "Hydra Manufacturing",
-      "amount_str": "",
-      "pub_date": "2026-03-19T13:56:59Z",
-      "website": "https://www.hydra-manufacturing.com",
-      "linkedin_url": "https://linkedin.com/company/hydra-manufacturing",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "info@hydra-am.com",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "PADO raises $6M to make data centres more energy efficient amid the AI race",
       "article_url": "https://techfundingnews.com/pado-raises-6m-to-make-data-centres-more-energy-efficient-amid-the-ai-race/",
       "company": "PADO",
@@ -159,6 +173,20 @@
     },
     {
       "source": "Google Alerts",
+      "title": "Reson8 raises \u20ac5M pre-seed funding to scale Europe's first customisable speech AI",
+      "article_url": "https://totalinnovativetechnologies.com/2026/03/19/reson8-raises-e5m-pre-seed-funding-to-scale-europes-first-customisable-speech-ai/",
+      "company": "Reson8",
+      "amount_str": "\u20ac5M",
+      "pub_date": "2026-03-19T10:01:47Z",
+      "website": "https://reson8official.com",
+      "linkedin_url": "https://linkedin.com/company/reson8-ltd",
+      "founder_name": "as new",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
       "title": "Laani Secures $1.04 Million in Pre-Seed Funding Led by V3 Ventures and Saama Capital",
       "article_url": "https://raising.fi/news/laani-pre-seed-march-2026",
       "company": "Laani",
@@ -181,34 +209,6 @@
       "website": "https://ciaodott.com",
       "linkedin_url": "https://linkedin.com/company/ciaodott",
       "founder_name": "and Co",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "VerbaFlo Raises $7M to Transform Real Estate Communication - Techno Trenz",
-      "article_url": "https://technotrenz.com/news/verbaflo-raises-7m/",
-      "company": "VerbaFlo",
-      "amount_str": "$7M",
-      "pub_date": "2026-03-19T08:58:23Z",
-      "website": "https://www.verbaflo.ai/stories/verbaflo-raises-7-million-to-accelerate-ai-powered-leasing-automation",
-      "linkedin_url": "https://linkedin.com/company/verbaflo-ai",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "contact@verbaflo.ai",
-      "twitter_url": "https://x.com/VerbaFloAI"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Syrian Proptech Miftah Raises Pre-Seed Funding - InforCapital",
-      "article_url": "https://inforcapital.com/news/syrian-proptech-miftah-raises-pre-seed-round/",
-      "company": "Syrian Proptech Miftah",
-      "amount_str": "",
-      "pub_date": "2026-03-19T06:31:59Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
