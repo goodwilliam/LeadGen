@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T06:45:18Z",
+  "generated_at": "2026-03-19T12:39:51Z",
   "count": 21,
   "jobs": [
     {
@@ -13,7 +13,7 @@
       "companyBatch": "W26",
       "companyOneLiner": "Multimodal data provider for robotics and world modeling",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/ce063ef00a3ec0da3649fb79a819c0e6c1e88ebf.png",
-      "companyLastActiveAt": "about 2 hours ago",
+      "companyLastActiveAt": "about 8 hours ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92095&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=31205"
     },
     {
@@ -27,7 +27,7 @@
       "companyBatch": "F25",
       "companyOneLiner": "TikTok for language learning",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/a9603ad6a62ae3ee9c8723521f8f2d852d664a89.png",
-      "companyLastActiveAt": "2 days ago",
+      "companyLastActiveAt": "3 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D90847&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=30848"
     },
     {
@@ -99,6 +99,20 @@
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/2cd38e31ad4112f27dcddd9c52ef2f8fc0e2fbab.png",
       "companyLastActiveAt": null,
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D90485&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29989"
+    },
+    {
+      "id": 78058,
+      "title": "Product Designer",
+      "jobType": "fulltime",
+      "location": "San Francisco",
+      "roleType": "Web design",
+      "companyName": "Wordware",
+      "companySlug": "wordware",
+      "companyBatch": "S24",
+      "companyOneLiner": "AI agents you can rely on",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/ff410def03c8c58c3adc7db9615becc8164804e3.png",
+      "companyLastActiveAt": null,
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D78058&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29649"
     },
     {
       "id": 91097,
@@ -279,22 +293,8 @@
       "companyBatch": "W23",
       "companyOneLiner": "Fast, Transparent Patient Experiences",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/9ce9a2d0eb717408f7a56ad8fd6c76940b02a6a9.png",
-      "companyLastActiveAt": "21 days ago",
+      "companyLastActiveAt": "22 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D84438&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=27811"
-    },
-    {
-      "id": 56839,
-      "title": "UI/UX Lead",
-      "jobType": "fulltime",
-      "location": "Hyderabad, TG, IN",
-      "roleType": "UI / UX",
-      "companyName": "Landeed",
-      "companySlug": "landeed",
-      "companyBatch": "S22",
-      "companyOneLiner": "Landeed is India\u2019s digital infrastructure for property intelligence,\u2026",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/6ad200a24281fdd6a8a1c278067a5acc87ff1dab.png",
-      "companyLastActiveAt": "2 months ago",
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D56839&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=27252"
     }
   ]
 }
