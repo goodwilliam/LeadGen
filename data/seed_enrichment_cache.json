@@ -8568,5 +8568,49 @@
   },
   "https://www.ipoplatform.com/news?page=1": {
     "valid": false
+  },
+  "https://tech.eu/2026/03/19/parallel-raises-20m-to-scale-ai-solutions-for-hospital-administration/": {
+    "valid": true,
+    "company": "Parallel",
+    "amount_str": "$20M",
+    "website": "https://www.parallelcorp.com",
+    "linkedin_url": "https://linkedin.com/company/join-parallel",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@parallelcorp.com",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/18/demand-gpu-startup-andromeda-raises-funding-1-5b-valuation/": {
+    "valid": true,
+    "company": "On-demand GPU startup Andromeda",
+    "amount_str": "$1.5B",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/mastercard-to-acquire-bvnk-for-up-to-1-8b-in-stablecoin-push/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-in/money/news/tattvam-ai-founder-raises-17-million-for-semiconductor-design-startup/ar-AA1X3LWZ": {
+    "valid": true,
+    "company": "Tattvam AI founder",
+    "amount_str": "$1.7 m",
+    "website": "https://www.ndtvprofit.com",
+    "linkedin_url": "",
+    "founder_name": "Tattvam AI",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }

@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-03-19T01:29:24.395068Z",
+  "generated_at": "2026-03-19T05:20:57.076742Z",
   "count": 38,
-  "enriched_count": 26,
+  "enriched_count": 25,
   "articles": [
+    {
+      "source": "tech.eu",
+      "title": "Parallel raises $20M to scale AI solutions for hospital administration",
+      "article_url": "https://tech.eu/2026/03/19/parallel-raises-20m-to-scale-ai-solutions-for-hospital-administration/",
+      "company": "Parallel",
+      "amount_str": "$20M",
+      "pub_date": "2026-03-19T05:00:00Z",
+      "website": "https://www.parallelcorp.com",
+      "linkedin_url": "https://linkedin.com/company/join-parallel",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "support@parallelcorp.com",
+      "twitter_url": ""
+    },
+    {
+      "source": "SiliconAngle",
+      "title": "On-demand GPU startup Andromeda raises funding at $1.5B valuation",
+      "article_url": "https://siliconangle.com/2026/03/18/demand-gpu-startup-andromeda-raises-funding-1-5b-valuation/",
+      "company": "On-demand GPU startup Andromeda",
+      "amount_str": "$1.5B",
+      "pub_date": "2026-03-19T01:39:24Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "SiliconAngle",
       "title": "RunSybil raises $40M to automate offensive security with AI agents",
@@ -169,20 +197,6 @@
       "founder_name": "Multiply was founded by",
       "founder_linkedin_url": "",
       "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Condor Software Raises $24M for Life Sciences Finance Platform - Ventureburn",
-      "article_url": "https://ventureburn.com/condor-software-raises-24m-for-life-sciences-finance-platform/",
-      "company": "Condor Software",
-      "amount_str": "$24M",
-      "pub_date": "2026-03-18T15:22:24Z",
-      "website": "https://www.condorsoftware.com",
-      "linkedin_url": "https://linkedin.com/company/condor-software-inc",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "info@condorsoftware.com",
       "twitter_url": ""
     },
     {
@@ -488,20 +502,6 @@
       "pub_date": "2026-03-17T11:00:00Z",
       "website": "https://wikifarmer.com",
       "linkedin_url": "https://linkedin.com/company/wikifarmer-corporation",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "tech.eu",
-      "title": "Blify secures $2.1M pre-seed to develop AI training platform",
-      "article_url": "https://tech.eu/2026/03/17/blify-secures-21m-pre-seed-to-develop-ai-training-platform/",
-      "company": "Blify",
-      "amount_str": "$2.1M",
-      "pub_date": "2026-03-17T10:00:00Z",
-      "website": "https://pitchbook.com",
-      "linkedin_url": "https://linkedin.com/company/blify",
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
