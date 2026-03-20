@@ -10165,5 +10165,234 @@
   },
   "https://www.startups.com/requests/19b52dcb-2cf5-4cff-833e-dc46fab6e5c9": {
     "valid": false
+  },
+  "https://tech.eu/2026/03/20/eu-inc-presents-albeit-with-flaws-upvest-raises-125m-and-uk-government-pledges-1bn-quantum-computing-investment/": {
+    "valid": true,
+    "company": "Commission presents flawed EU Inc., Upvest",
+    "amount_str": "$125M",
+    "website": "https://tech.eu",
+    "linkedin_url": "https://linkedin.com/company/tech-eu",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "name@provider.com",
+    "twitter_url": "https://x.com/tech_eu"
+  },
+  "https://www.prnewswire.com/news-releases/nasdaq-slno-kessler-topaz-meltzer--check-llp-announces-the-filing-of-a-securities-fraud-class-action-lawsuit-against-soleno-therapeutics-inc-302719418.html": {
+    "valid": false
+  },
+  "https://www.techloy.com/latin-americas-biggest-startup-funding-rounds-in-week-12-led-by-azos-with-big-bets-on-ai-and-insurtech/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://heatmap.news/climate-tech/funding-friday-nth-cycle-halcyon": {
+    "valid": false
+  },
+  "https://www.coindesk.com/opinion/2026/03/20/why-coindesk-pitchfest-matters-heading-into-miami": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+    "linkedin_url": "",
+    "founder_name": "is beginning to emerge",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.tipranks.com/news/ma-news-amazon-amzn-snaps-up-robotics-startup-rivr-to-bolster-delivery": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://phemex.com/news/article/coindesk-pitchfest-to-spotlight-emerging-web3-innovators-at-consensus-miami-2026-67864": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://t.me/Phemex_EN",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.cxodigitalpulse.com/cloaked-raises-375-mn-to-expand-privacy-platform-into-enterprise-market/": {
+    "valid": true,
+    "company": "Cloaked",
+    "amount_str": "$375 M",
+    "website": "https://my.cloaked.com",
+    "linkedin_url": "https://linkedin.com/company/cloaked-inc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/pado-ai-raises-6-million-seed-round": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/edra-raises-30-million-series-a": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/chalkie-raises-4-million-in-funding": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/cleavr-raises-1-million-in-funding": {
+    "valid": false
+  },
+  "https://yourstory.com/2026/03/startup-news-and-updates-daily-roundup-march-20-2026": {
+    "valid": false
+  },
+  "https://mlq.ai/news/amazon-acquires-swiss-robotics-firm-rivr-to-advance-stair-climbing-delivery-tech/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/bluesky-quietly-raised-100m-and-its-aiming-to-be-more-than-a-twitter-x-alternative/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://mezha.net/eng/bukvy/bluesky_secured_-100/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/paris-based-parallel-raises-20m-from-index-ventures-to-cut-hospital-admin-by-30-with-ai/": {
+    "valid": true,
+    "company": "Paris-based Parallel",
+    "amount_str": "$20M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://pharmaphorum.com/news/kidney-biotech-r1s-78m-debut-and-other-biofinancings": {
+    "valid": false
+  },
+  "https://pv-magazine-usa.com/2026/03/20/canadian-startup-unveils-ai-tool-for-solar-panel-cleaning-optimization/": {
+    "valid": false
+  },
+  "https://renewablesnow.com/news/battery-tech-start-up-amplisi-raises-funds-to-bring-product-to-market-1291748/": {
+    "valid": true,
+    "company": "Battery tech start-up AmpliSi",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DWGti2bj0U3/": {
+    "valid": false
+  },
+  "https://www.bwdisrupt.com/article/aamra-seniors-club-raises-150k-pre-seed-round-to-expand-eldercare-services-598573": {
+    "valid": true,
+    "company": "Aamra Seniors Club",
+    "amount_str": "$150K",
+    "website": "https://www.aamra.life",
+    "linkedin_url": "https://linkedin.com/company/aamra-kinspire-living-private-limited",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "abc@mail.com",
+    "twitter_url": "https://x.com/aamralife"
+  },
+  "https://inforcapital.com/news/modem-closes-44-million-usd-pre-seed-round-to-help-developers-ship-faster/": {
+    "valid": true,
+    "company": "Modem",
+    "amount_str": "$4.4M",
+    "website": "https://the-arris.com",
+    "linkedin_url": "https://linkedin.com/company/modemworks",
+    "founder_name": "of AI leader Cohere",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/03/ringtime-raises-e1-8m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/reson8-raises-e5m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/03/19/cryogenic-electronics-startup-rhonexum-raises-1m-in-pre-seed-funding-round/": {
+    "valid": true,
+    "company": "Cryogenic electronics startup Rhonexum",
+    "amount_str": "$1m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "said Vicente Carbon",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bebeez.eu/2026/03/19/berlin-based-bounti-raises-e4-million-for-ai-powered-operations-platform-for-frontline-and-deskless-workers/": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/03/19/colognes-eternal-ag-exits-stealth-with-e8-million-to-automate-greenhouse-harvesting-with-ai-powered-robots/": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/03/19/amsterdams-reson8-raises-e5-million-to-build-speech-ai-infrastructure-that-resonates-across-europe/": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/bizjournals/news/2026/03/20/data-centers-ai-google-meta-startups-funding.html": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DWGDaUZCeq6/": {
+    "valid": false
+  },
+  "https://fortune.com/2026/03/20/spacex-openai-anthropic-could-be-3-of-the-biggest-venture-backed-ipos-of-all-time/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cxense.com/ari.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconprairienews.com/2026/03/other-states-have-invested-significant-funds-in-local-venture-capital-whats-stopping-nebraska/": {
+    "valid": false
+  },
+  "https://www.startupmag.co.uk/funding/regeno-2026-pre-seed-funding/": {
+    "valid": false
+  },
+  "https://indianstartupnews.com/funding/mave-health-raises-21-million-to-launch-brain-stimulating-headset-for-focus-and-stress-11228108": {
+    "valid": true,
+    "company": "Neurotechnology startup Mave Health",
+    "amount_str": "$2.1 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Mave Health",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://beinsure.com/news/insurtech-loxa-closes-2-7-mn-seed-round/": {
+    "valid": false
+  },
+  "https://www.startupmag.co.uk/funding/chalkie-2026-seed-funding/": {
+    "valid": false
+  },
+  "https://thenextweb.com/news/apollo-acquires-pocus-revenue-intelligence-gtm": {
+    "valid": false
+  },
+  "https://builtin.com/articles/hiring-solutions-fortune-500-employers": {
+    "valid": false
   }
 }
