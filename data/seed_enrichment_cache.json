@@ -9901,5 +9901,67 @@
   },
   "https://mercomcapital.com/rooftop-solar-company-smartsolar-raises-1-3-million-debt-financing/": {
     "valid": false
+  },
+  "https://siliconangle.com/2026/03/19/jeff-bezos-planning-raise-100-billion-speed-manufacturing-automation/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://d15shllkswkct0.cloudfront.net/wp-includes/wlwmanifest.xml",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-microvast-holdings-inc---mvst-302719263.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-reminds-investors-with-losses-on-their-investment-in-grocery-outlet-holding-corp-of-class-action-lawsuit-and-upcoming-deadlines--go-302719293.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-onemain-holdings-inc---omf-302719280.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-reminds-investors-with-losses-on-their-investment-in-soleno-therapeutics-inc-of-class-action-lawsuit-and-upcoming-deadlines--slno-302719270.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-freshpet-inc---frpt-302719278.html": {
+    "valid": false
+  },
+  "https://www.bwdisrupt.com/article/aerchain-raises-13-mn-series-a-to-expand-ai-procurement-platform-globally-598399": {
+    "valid": true,
+    "company": "Aerchain",
+    "amount_str": "$13 M",
+    "website": "https://aerchain.io",
+    "linkedin_url": "https://linkedin.com/company/aerchain-io",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "sales@aerchain.io",
+    "twitter_url": "https://x.com/aerchain_io"
+  },
+  "https://www.bakersfield.com/ap/news/hamilton-ai-raises-7-5m-seed-round-to-build-the-execution-layer-for-private-aviation/article_5f3f5e83-77b6-58f5-947e-1c2308c04bfd.html": {
+    "valid": true,
+    "company": "Hamilton AI",
+    "amount_str": "$7.5M",
+    "website": "https://www.hamilton.ai",
+    "linkedin_url": "https://linkedin.com/company/hamilton-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "myname@company.com",
+    "twitter_url": ""
+  },
+  "https://www.osoulmisrmagazine.com/433178": {
+    "valid": false
+  },
+  "https://www.barchart.com/story/news/852416/peeriot-closes-sevenfigure-lateseed-funding-for-product-launch": {
+    "valid": true,
+    "company": "Peeriot",
+    "amount_str": "",
+    "website": "https://www.peeriot.io",
+    "linkedin_url": "https://linkedin.com/company/peeriot",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }

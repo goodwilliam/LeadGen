@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-03-20T01:25:00.186508Z",
-  "count": 29,
-  "enriched_count": 22,
+  "generated_at": "2026-03-20T05:14:09.832133Z",
+  "count": 31,
+  "enriched_count": 24,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Aerchain Raises $13 Mn Series A To Expand AI Procurement Platform Globally - BW Disrupt",
+      "article_url": "https://www.bwdisrupt.com/article/aerchain-raises-13-mn-series-a-to-expand-ai-procurement-platform-globally-598399",
+      "company": "Aerchain",
+      "amount_str": "$13 M",
+      "pub_date": "2026-03-20T03:42:19Z",
+      "website": "https://aerchain.io",
+      "linkedin_url": "https://linkedin.com/company/aerchain-io",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "sales@aerchain.io",
+      "twitter_url": "https://x.com/aerchain_io"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Peeriot Closes Seven-Figure Late- Seed Funding for Product Launch - Barchart.com",
+      "article_url": "https://www.barchart.com/story/news/852416/peeriot-closes-sevenfigure-lateseed-funding-for-product-launch",
+      "company": "Peeriot",
+      "amount_str": "",
+      "pub_date": "2026-03-20T02:28:33Z",
+      "website": "https://www.peeriot.io",
+      "linkedin_url": "https://linkedin.com/company/peeriot",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "SiliconAngle",
       "title": "Deeptune raises $43M to accelerate AI learning through virtual training gyms",
@@ -30,6 +58,20 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": "https://x.com/AutoScienceAI"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Hamilton AI Raises $7.5M Seed Round to Build the Execution Layer for Private Aviation",
+      "article_url": "https://www.bakersfield.com/ap/news/hamilton-ai-raises-7-5m-seed-round-to-build-the-execution-layer-for-private-aviation/article_5f3f5e83-77b6-58f5-947e-1c2308c04bfd.html",
+      "company": "Hamilton AI",
+      "amount_str": "$7.5M",
+      "pub_date": "2026-03-19T22:44:47Z",
+      "website": "https://www.hamilton.ai",
+      "linkedin_url": "https://linkedin.com/company/hamilton-ai",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "myname@company.com",
+      "twitter_url": ""
     },
     {
       "source": "SiliconAngle",
@@ -99,20 +141,6 @@
       "founder_name": "of Miro",
       "founder_linkedin_url": "",
       "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Hamilton AI Raises $7.5M Seed Round to Build the Execution Layer for Private Aviation",
-      "article_url": "https://markets.businessinsider.com/news/stocks/hamilton-ai-raises-7-5m-seed-round-to-build-the-execution-layer-for-private-aviation-1035946718",
-      "company": "Hamilton AI",
-      "amount_str": "$7.5M",
-      "pub_date": "2026-03-19T17:51:47Z",
-      "website": "https://www.hamilton.ai",
-      "linkedin_url": "https://linkedin.com/company/hamilton-ai",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "myname@company.com",
       "twitter_url": ""
     },
     {
