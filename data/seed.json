@@ -1,8 +1,64 @@
 {
-  "generated_at": "2026-03-20T08:33:52.831940Z",
-  "count": 32,
-  "enriched_count": 24,
+  "generated_at": "2026-03-20T12:42:18.907479Z",
+  "count": 35,
+  "enriched_count": 25,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Mave Health Secures $2.1 Million To Expand Neurotech Wearable - BW Healthcare World",
+      "article_url": "https://www.bwhealthcareworld.com/article/mave-health-secures-2-1-million-to-expand-neurotech-wearable-598542",
+      "company": "Mave Health",
+      "amount_str": "$2.1 M",
+      "pub_date": "2026-03-20T10:49:35Z",
+      "website": "",
+      "linkedin_url": "https://linkedin.com/company/mavehealth",
+      "founder_name": "Stanford Angels",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "tech.eu",
+      "title": "Montis VC reaches \u20ac50M first close to back energy and industrial tech startups",
+      "article_url": "https://tech.eu/2026/03/20/montis-vc-reaches-eur50m-first-close-to-back-energy-and-industrial-tech-startups/",
+      "company": "Montis VC reaches \u20ac50M first",
+      "amount_str": "",
+      "pub_date": "2026-03-20T09:46:45Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "IIT Delhi spinout DeepLase raises Rs 6 crore in seed round - Awaz The Voice",
+      "article_url": "https://www.awazthevoice.in/business-news/iit-delhi-spinout-deeplase-raises-rs-crore-in-seed-round-54881.html",
+      "company": "IIT Delhi spinout DeepLase",
+      "amount_str": "",
+      "pub_date": "2026-03-20T09:31:42Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "Managing Partner and",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Heavy-industry robotics company Kewazo raises $35 million with backing from Chevron and ...",
+      "article_url": "https://roboticsandautomationnews.com/2026/03/20/heavy-industry-robotics-company-kewazo-raises-35-million-with-backing-from-chevron-and-asahi-kasei/99961/",
+      "company": "Heavy-industry robotics company Kewazo",
+      "amount_str": "$35 m",
+      "pub_date": "2026-03-20T07:52:52Z",
+      "website": "https://www.streetinsider.com",
+      "linkedin_url": "",
+      "founder_name": "said Artem Kuchukov",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Aerchain Raises $13 Mn Series A To Expand AI Procurement Platform Globally - BW Disrupt",
@@ -127,6 +183,20 @@
       "founder_name": "Jay Graber",
       "founder_linkedin_url": "https://linkedin.com/in/jaygraber",
       "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Moe Puppy Secures $228K in Pre-Seed Funding Led by PedalStart | Raising.fi",
+      "article_url": "https://raising.fi/news/moe-puppy-pre-seed-march-2026",
+      "company": "Moe Puppy",
+      "amount_str": "$228K",
+      "pub_date": "2026-03-19T20:18:25Z",
+      "website": "https://moepuppy.com",
+      "linkedin_url": "https://linkedin.com/company/moepuppy",
+      "founder_name": "who serves as the",
+      "founder_linkedin_url": "",
+      "contact_email": "files@quinn-live.bundle.js",
       "twitter_url": ""
     },
     {
@@ -408,34 +478,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
-    },
-    {
-      "source": "tech.eu",
-      "title": "Agent debugging startup Laminar raises $3M seed to tackle the observability gap in AI agents",
-      "article_url": "https://tech.eu/2026/03/17/agent-debugging-startup-laminar-raises-3m-seed-to-tackle-the-observability-gap-in-ai-agents/",
-      "company": "Agent debugging startup Laminar",
-      "amount_str": "$3M",
-      "pub_date": "2026-03-17T16:12:55Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Crunchbase News",
-      "title": "5 Interesting Startup Deals You May Have Missed: Blood-Drawing Robots, Inboxes For AI Agents, Franchised Defense Manufacturing, And More",
-      "article_url": "https://news.crunchbase.com/venture/interesting-startup-deals-robots-ai-agent-inboxes-defense-space-tech/",
-      "company": "The company",
-      "amount_str": "$13 m",
-      "pub_date": "2026-03-13T11:00:00Z",
-      "website": "https://www.thecompanystore.com",
-      "linkedin_url": "https://linkedin.com/company/linkedin",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "custserv@thecompanystore.com",
-      "twitter_url": "https://x.com/thecompanystore"
     },
     {
       "source": "BetaKit",

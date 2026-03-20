@@ -10035,5 +10035,135 @@
   },
   "https://raising.fi/news/cleavr-pre-seed-march-2026": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/ma/most-active-startup-acquirers-3-years-crm-openai-snowflake/": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/venture/building-startup-reputation-trust-vcs-sabitova-cloee/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/20/montis-vc-reaches-eur50m-first-close-to-back-energy-and-industrial-tech-startups/": {
+    "valid": true,
+    "company": "Montis VC reaches \u20ac50M first",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/audioeye-to-participate-in-38th-annual-roth-investor-conference-302719348.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/eightco-nasdaq-orbs-invests-additional-40-million-into-openai-bringing-total-openai-investment-to-90-million-302719566.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/international-paper-plans-to-build-new-sustainable-packaging-facility-in-rankin-county-mississippi-302719375.html": {
+    "valid": false
+  },
+  "https://dataphoenix.info/yann-lecuns-ami-labs-just-raised-europes-largest-seed-round-for-its-world-models/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "former Nabla",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/TFNBreakingNews/status/2034926647858929913": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.f1dc7e4a.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/03/flexzo-ai-raises-12m-in-series-a-funding.html": {
+    "valid": false
+  },
+  "https://raising.fi/news/moe-puppy-pre-seed-march-2026": {
+    "valid": true,
+    "company": "Moe Puppy",
+    "amount_str": "$228K",
+    "website": "https://moepuppy.com",
+    "linkedin_url": "https://linkedin.com/company/moepuppy",
+    "founder_name": "who serves as the",
+    "founder_linkedin_url": "",
+    "contact_email": "files@quinn-live.bundle.js",
+    "twitter_url": ""
+  },
+  "https://www.bwhealthcareworld.com/article/mave-health-secures-2-1-million-to-expand-neurotech-wearable-598542": {
+    "valid": true,
+    "company": "Mave Health",
+    "amount_str": "$2.1 M",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/mavehealth",
+    "founder_name": "Stanford Angels",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techloy.com/week-12s-biggest-startup-funding-rounds-in-the-middle-east-and-africa-led-by-oasis-security-as-cybersecurity-and-climate-tech-drew-the-biggest-checks/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://healthexec.com/topics/healthcare-management/business-intelligence/healthcare-price-transparency-startup-earns-40m-seed-funding-bringing-total-95m": {
+    "valid": false
+  },
+  "https://www.awazthevoice.in/business-news/iit-delhi-spinout-deeplase-raises-rs-crore-in-seed-round-54881.html": {
+    "valid": true,
+    "company": "IIT Delhi spinout DeepLase",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Managing Partner and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://therecursive.com/first-ukrainian-defense-tech-ipo-cee-startup-news/": {
+    "valid": false
+  },
+  "https://sloveniatimes.com/46984/qianhai-launches-opc-mavericks-program-to-empower-global-ai-solopreneurs": {
+    "valid": false
+  },
+  "https://technode.global/2026/03/20/why-small-language-models-may-be-the-greener-path-for-applied-ai/": {
+    "valid": false
+  },
+  "https://hyderabadmail.com/bioreform-hyderabad-biodegradable-bags-global-expansion/": {
+    "valid": false
+  },
+  "https://roboticsandautomationnews.com/2026/03/20/heavy-industry-robotics-company-kewazo-raises-35-million-with-backing-from-chevron-and-asahi-kasei/99961/": {
+    "valid": true,
+    "company": "Heavy-industry robotics company Kewazo",
+    "amount_str": "$35 m",
+    "website": "https://www.streetinsider.com",
+    "linkedin_url": "",
+    "founder_name": "said Artem Kuchukov",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/health-lean-analytics-raises-over-2-1m-in-funding": {
+    "valid": false
+  },
+  "https://www.startups.com/requests/19b52dcb-2cf5-4cff-833e-dc46fab6e5c9": {
+    "valid": false
   }
 }
