@@ -9963,5 +9963,77 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/cort-investors-have-opportunity-to-lead-corcept-therapeutics-incorporated-securities-fraud-lawsuit-with-the-schall-law-firm-302719461.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/qure-investors-have-opportunity-to-lead-uniqure-nv-securities-fraud-lawsuit-with-the-schall-law-firm-302719454.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/psfe-investors-have-opportunity-to-lead-paysafe-limited-securities-fraud-lawsuit-with-the-schall-law-firm-302719462.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/3iq-joins-global-elite-with-wealthbriefing-european-award-2026-302716582.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/slno-investors-have-opportunity-to-lead-soleno-therapeutics-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302719498.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/soleno-therapeutics-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--slno-302719497.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/nektar-therapeutics-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--nktr-302719512.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/brbr-investors-have-opportunity-to-lead-bellring-brands-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302719457.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/nktr-investors-have-opportunity-to-lead-nektar-therapeutics-securities-fraud-lawsuit-with-the-schall-law-firm-302719494.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/apo-investors-have-opportunity-to-lead-apollo-global-management-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302719486.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/navan-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights---navn-302719458.html": {
+    "valid": false
+  },
+  "https://technotrenz.com/news/paris-based-cleavr-banks-1-million/": {
+    "valid": false
+  },
+  "https://www.moneycontrol.com/news/trends/indian-origin-techie-reveals-why-he-left-dream-job-at-apple-to-build-ai-startup-with-father-13865939.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://sb.scorecardresearch.com/beacon.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thehansindia.com/telangana/agri-startup-funding-boost-as-sidbi-partners-with-a-idea-1058077": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://api.whatsapp.com/send",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/whatsapp"
+  },
+  "https://en.wowtale.net/2026/03/20/233720/": {
+    "valid": true,
+    "company": "Polaris AI Pharma",
+    "amount_str": "$6.71M",
+    "website": "https://www.polarisaipharma.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://raising.fi/news/cleavr-pre-seed-march-2026": {
+    "valid": false
   }
 }

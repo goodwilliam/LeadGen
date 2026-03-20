@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T05:14:09.832133Z",
-  "count": 31,
+  "generated_at": "2026-03-20T08:33:52.831940Z",
+  "count": 32,
   "enriched_count": 24,
   "articles": [
     {
@@ -16,6 +16,20 @@
       "founder_linkedin_url": "",
       "contact_email": "sales@aerchain.io",
       "twitter_url": "https://x.com/aerchain_io"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Polaris AI Pharma Raises $6.71M Through Convertible Bond Issuance to Accelerate API ... - Wowtale",
+      "article_url": "https://en.wowtale.net/2026/03/20/233720/",
+      "company": "Polaris AI Pharma",
+      "amount_str": "$6.71M",
+      "pub_date": "2026-03-20T03:25:08Z",
+      "website": "https://www.polarisaipharma.com",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
     },
     {
       "source": "Google Alerts",
