@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T18:42:41Z",
+  "generated_at": "2026-03-20T01:13:41Z",
   "count": 21,
   "jobs": [
     {
@@ -13,7 +13,7 @@
       "companyBatch": "W26",
       "companyOneLiner": "Multimodal data provider for robotics and world modeling",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/ce063ef00a3ec0da3649fb79a819c0e6c1e88ebf.png",
-      "companyLastActiveAt": "about 14 hours ago",
+      "companyLastActiveAt": "about 20 hours ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92095&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=31205"
     },
     {
@@ -223,7 +223,7 @@
       "companyBatch": "S23",
       "companyOneLiner": "The fastest way to build AI assistants on technical content",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/274c05ef6658ba8b2d341c95ee4d90f16444919c.png",
-      "companyLastActiveAt": "13 days ago",
+      "companyLastActiveAt": "14 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D88550&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28663"
     },
     {
@@ -255,20 +255,6 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D91163&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=27959"
     },
     {
-      "id": 71479,
-      "title": "Senior Product Designer",
-      "jobType": "fulltime",
-      "location": "New York, NY, US",
-      "roleType": "Product design",
-      "companyName": "Hadrius",
-      "companySlug": "hadrius",
-      "companyBatch": "W23",
-      "companyOneLiner": "Automating Securities Compliance",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/860789e4b5347ff0d9c534e39f80af9c01143ab3.png",
-      "companyLastActiveAt": "14 days ago",
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D71479&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=27943"
-    },
-    {
       "id": 91639,
       "title": "Product Design Lead ",
       "jobType": "fulltime",
@@ -281,6 +267,20 @@
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/860789e4b5347ff0d9c534e39f80af9c01143ab3.png",
       "companyLastActiveAt": null,
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D91639&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=27943"
+    },
+    {
+      "id": 71479,
+      "title": "Senior Product Designer",
+      "jobType": "fulltime",
+      "location": "New York, NY, US",
+      "roleType": "Product design",
+      "companyName": "Hadrius",
+      "companySlug": "hadrius",
+      "companyBatch": "W23",
+      "companyOneLiner": "Automating Securities Compliance",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/860789e4b5347ff0d9c534e39f80af9c01143ab3.png",
+      "companyLastActiveAt": "14 days ago",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D71479&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=27943"
     },
     {
       "id": 84438,
