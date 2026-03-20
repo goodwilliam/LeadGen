@@ -9650,5 +9650,256 @@
     "founder_linkedin_url": "",
     "contact_email": "name@provider.com",
     "twitter_url": "https://x.com/tech_eu"
+  },
+  "https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/19/verily-steps-alphabets-shadow-raising-300m-advance-precision-health/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/19/deeptune-raises-43m-accelerate-ai-learning-virtual-training-gyms/": {
+    "valid": true,
+    "company": "Deeptune",
+    "amount_str": "$43M",
+    "website": "https://deeptune.com",
+    "linkedin_url": "https://linkedin.com/company/trydeeptune",
+    "founder_name": "Brendan Foody",
+    "founder_linkedin_url": "",
+    "contact_email": "tim@deeptune.ai",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/19/oasis-security-raises-120m-secure-non-human-identities-across-ai-cloud-environments/": {
+    "valid": true,
+    "company": "Oasis Security",
+    "amount_str": "$120M",
+    "website": "https://www.oasis.security",
+    "linkedin_url": "https://linkedin.com/company/oasissecurity",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/rare-investors-have-opportunity-to-lead-ultragenyx-pharmaceutical-inc-securities-fraud-lawsuit-302719302.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/snow-investors-have-opportunity-to-lead-snowflake-inc-securities-fraud-lawsuit-302719301.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rgnx-investors-have-opportunity-to-lead-regenxbio-inc-securities-fraud-lawsuit-302719297.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/beyond-meat-deadline-bynd-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-beyond-meat-inc-securities-fraud-lawsuit-302719259.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/kd-investors-have-opportunity-to-lead-kyndryl-holdings-inc-securities-fraud-lawsuit-filed-by-the-rosen-law-firm-302719260.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/plug-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-plug-power-inc-securities-fraud-lawsuit-302719251.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/navn-investors-have-opportunity-to-lead-navan-inc-securities-lawsuit-302719247.html": {
+    "valid": false
+  },
+  "https://www.rdworldonline.com/autoscience-raises-14m-seed-round-to-scale-its-autonomous-ai-research-lab/": {
+    "valid": true,
+    "company": "Autoscience",
+    "amount_str": "$14M",
+    "website": "https://www.autoscience.ai",
+    "linkedin_url": "https://linkedin.com/company/autoscienceai",
+    "founder_name": "said founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/AutoScienceAI"
+  },
+  "https://www.thesaasnews.com/news/noru-raises-560k-in-pre-seed-funding": {
+    "valid": false
+  },
+  "https://www.cnbc.com/2026/03/19/amazon-acquires-startup-rivr-to-test-robots-for-doorstep-delivery.html": {
+    "valid": false
+  },
+  "https://i-hls.com/archives/135335": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/03/19/knox-systems-raises-25m-series-a-to-scale-largest-ai-managed-cloud-to-deliver-90-day-fedramp-at-90-lower-cost/": {
+    "valid": true,
+    "company": "Knox Systems",
+    "amount_str": "$25M",
+    "website": "https://knoxsystems.com",
+    "linkedin_url": "https://linkedin.com/company/knox-systems-inc",
+    "founder_name": "said Knox",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://timesofindia.indiatimes.com/etimes/trending/meet-akshat-prakash-indian-origin-techie-who-quit-dream-job-at-apple-to-launch-ai-startup-with-his-father/articleshow/129687394.cms": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://static.toiimg.com/thumb/msid-129687394,imgsize-92580,width-400,resizemode-4/129687394.jpg",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.indexbox.io/blog/bluesky-secures-100m-series-b-funding-user-base-surges-to-43m/": {
+    "valid": true,
+    "company": "Bluesky",
+    "amount_str": "$100 m",
+    "website": "https://blueskycosmetics.us",
+    "linkedin_url": "https://linkedin.com/company/blueskydigitalsolutions",
+    "founder_name": "Jay Graber",
+    "founder_linkedin_url": "https://linkedin.com/in/jaygraber",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/19/bluesky-announces-100m-series-b-after-ceo-transition/": {
+    "valid": false
+  },
+  "https://www.startupresearcher.com/news/bounti-raises-usd4-6-million-to-optimize-frontline-operations-with-ai": {
+    "valid": false
+  },
+  "https://x.com/IndianVCA/status/2034676554765107504": {
+    "valid": true,
+    "company": "Swiss Quantum startup Rhonexum",
+    "amount_str": "$1 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.theceo.in/press-release/inspired-spirits-makers-of-quro-raises-seed-round-led-by-the-chennai-angels-tca": {
+    "valid": true,
+    "company": "Inspired Spirits \u2013 Makers of Quro",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://femtechinsider.com/maven-clinic-introduces-maven-intelligence-an-ai-orchestration-layer-for-womens-and-family-health/": {
+    "valid": false
+  },
+  "https://www.instagram.com/reel/DWEy0SnjBYt/": {
+    "valid": false
+  },
+  "https://startupnv.org/investors/investment-due-diligence/professional-doing-interview-to-a-woman-pre-seed-funding-investors/": {
+    "valid": false
+  },
+  "https://inforcapital.com/news/dental-ai-robotics-startup-dentronic-raises-1m-pre-seed-from-south-park-commons/": {
+    "valid": true,
+    "company": "Dentronic",
+    "amount_str": "$1M",
+    "website": "https://www.dentronic.ai",
+    "linkedin_url": "https://linkedin.com/company/dentronic",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@dentronic.ai",
+    "twitter_url": ""
+  },
+  "https://inforcapital.com/news/xmemory-raises-4m-in-pre-seed-funding/": {
+    "valid": true,
+    "company": "xmemory",
+    "amount_str": "$4M",
+    "website": "http://xmemory.info",
+    "linkedin_url": "",
+    "founder_name": "of Miro",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/voicebit_we-are-thrilled-to-announce-our-25m-pre-seed-activity-7440443062297804801-fHfb": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.voicebit.ai/resources/blog/voicebit-pre-seed-funding",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/qdnl-participations_the-news-is-out-weve-led-pre-seed-funding-activity-7439980911103787011-2sCr": {
+    "valid": true,
+    "company": "Swiss team today announced it",
+    "amount_str": "$1 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.vccircle.com/tag/fusion-stays": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://connect.facebook.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/03/health-lean-analytics-raises-e2-1m-in-funding.html": {
+    "valid": false
+  },
+  "https://www.openpr.com/news/4431824/peeriot-closes-seven-figure-late-seed-funding-for-product": {
+    "valid": false
+  },
+  "https://businessdesk.co.nz/article/startups/new-thinking-needed-to-finance-maori-startup-enterprises": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.tickaroo.com/webng/embedjs/tik4.css",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://builtin.com/articles/platforms-for-hiring-remote-international-talent": {
+    "valid": false
+  },
+  "https://builtindelhi.in/articles/deeplase-raises-seed-funding-20260319": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/03/19/french-startup-cleavr-raises-e1-million-to-automate-accounts-receivable-workflows-with-ai/": {
+    "valid": false
+  },
+  "https://raising.fi/news/ringtime-seed-march-2026": {
+    "valid": false
+  },
+  "https://www.dmagazine.com/healthcare-business/2026/03/how-ai-startup-spendrule-is-helping-hospitals-prevent-overspending/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Joseph Akintolayo and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.kolkatacalling.com/news-details/startups-entrepreneurship/kolkata-based-fusionstays-raises-75-lakhs-in-pre-seed-funding-led-by-vruddhi-capital": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/sanfrancisco/news/2026/03/19/sfbt-digest-thursday-meta-databricks-black-hammer.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Andrew Bosworth",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://mercomcapital.com/rooftop-solar-company-smartsolar-raises-1-3-million-debt-financing/": {
+    "valid": false
   }
 }
