@@ -10394,5 +10394,313 @@
   },
   "https://builtin.com/articles/hiring-solutions-fortune-500-employers": {
     "valid": false
+  },
+  "https://venturebeat.com/technology/three-ways-ai-is-learning-to-understand-the-physical-world": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://dn0qt3r0xannq.cloudfront.net/venturebeat-ZUVdMvorYO/venturebeat-longform/prebid-load.js",
+    "linkedin_url": "",
+    "founder_name": "Google DeepMind",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://news.crunchbase.com/venture/biggest-funding-rounds-security-ai-cloaked-frore/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/20/ai-factory-infrastructure-remains-key-challenge-enterprises-nvidiagtcai/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/brbr-shareholder-notice-bellring-brands-brbr-facing-securities-class-action-over-alleged-artificial-growth-and-2-9-billion-value-wipeout--hagens-berman-302720100.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/tripcom-group-tcom-shares-crater-amid-questions-over-ai-price-adjustment-tool-anti-monopoly-regulatory-probe-securities-class-action-pending----hagens-berman-302720105.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/soleno-therapeutics-slno-faces-securities-class-action-amid-hyperphagia-drug-launch-disruptions----hagens-berman-302720102.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.cision.com/about/accessibility",
+    "linkedin_url": "https://linkedin.com/company/cision",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@cision.com",
+    "twitter_url": "https://x.com/cision"
+  },
+  "https://www.prnewswire.com/news-releases/bellring-brands-inc-brbr-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302720092.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/richtech-robotics-inc-rr-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302720085.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-disc-medicine-inc-investors-to-inquire-about-securities-class-action-investigation--iron-302719935.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/picard-medical-inc-pmi-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302720074.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/boston-scientific-corporation-bsx-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302720071.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/soleno-therapeutics-inc-slno-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302720057.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/blackrock-tcp-capital-corp-tcpc-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302720062.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/paysafe-limited-psfe-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302720068.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.cision.com/about/accessibility",
+    "linkedin_url": "https://linkedin.com/company/cision",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@cision.com",
+    "twitter_url": "https://x.com/cision"
+  },
+  "https://techfundingnews.com/accel-and-sequoia-back-oasis-securitys-120m-series-b-for-secure-ai-agents/": {
+    "valid": false
+  },
+  "https://vator.tv/verily-raises-300m-well-health-buys-two-medical-billing-startups-judge-blocks-hhs-vaccine-changes/": {
+    "valid": false
+  },
+  "https://www.tipranks.com/news/amazon-amzn-stock-stays-flat-after-acquiring-rivr-robototics-startup": {
+    "valid": false
+  },
+  "https://dot.la/arc-commercial-maritime-series-c-2676457840.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://assets.rebelmouse.io",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/": {
+    "valid": false
+  },
+  "https://www.kucoin.com/news/flash/coindesk-pitchfest-to-highlight-early-stage-web3-founders-at-consensus-miami-2026": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://assets.staticimg.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.hindustantimes.com/trending/indianorigin-techie-quits-dream-job-at-apple-to-launch-ai-startup-with-father-we-re-a-complementary-fit-101773940640133.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.aol.com/articles/quit-dream-job-apple-launch-090501053.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://s.yimg.com/oa/consent.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.cxodigitalpulse.com/oasis-security-raises-120-mn-series-b-to-scale-ai-identity-protection-platform/": {
+    "valid": true,
+    "company": "Oasis Security",
+    "amount_str": "$120 M",
+    "website": "https://www.oasis.security",
+    "linkedin_url": "https://linkedin.com/company/oasissecurity",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DWGim-EkwJU/": {
+    "valid": true,
+    "company": "Neurotechnology startup Mave Health",
+    "amount_str": "$2.1 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Stanford Angels",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-us/money/other/bluesky-announces-100m-series-b-after-ceo-transition/ar-AA1Z0tZe?gemSnapshotKey=GM2383FA31-snapshot-1&uxmode=ruby&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": true,
+    "company": "Bluesky",
+    "amount_str": "$100M",
+    "website": "https://blueskycosmetics.us",
+    "linkedin_url": "https://linkedin.com/company/blueskydigitalsolutions",
+    "founder_name": "transition\n\nURL Source",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://indiatechnologynews.in/redcliffe-labs-announces-strategic-appointment-of-dr-sonal-saxena-to-lead-next-phase-of-preventive-diagnostics/": {
+    "valid": true,
+    "company": "Redcliffe Labs",
+    "amount_str": "",
+    "website": "https://redcliffelabs.com",
+    "linkedin_url": "https://linkedin.com/company/redcliffelabs",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/adityakandoi",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techspark.co/blog/2026/03/20/tech-news-mar-20-03-26-2-2/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.vccircle.com/consumerai-startup-primetrace-parent-of-kutumb-hits-200-cr-ebitda-run-rate": {
+    "valid": false
+  },
+  "https://www.vccircle.com/howtoapply-for-a-personal-loan-online-quickly-and-secure-the-best-rates-in-2026": {
+    "valid": false
+  },
+  "https://x.com/GrishinRobotics/status/2034560203404775741": {
+    "valid": true,
+    "company": "Dentronic",
+    "amount_str": "$1M",
+    "website": "https://www.dentronic.ai",
+    "linkedin_url": "https://linkedin.com/company/dentronic",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@dentronic.ai",
+    "twitter_url": ""
+  },
+  "https://www.startupticker.ch/en/news/an-anticipated-bombshell": {
+    "valid": false
+  },
+  "https://inforcapital.com/news/principled-intelligence-raises-185m-pre-seed-round": {
+    "valid": true,
+    "company": "Governance Startup Principled Intelligence",
+    "amount_str": "\u20ac1.85M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://entrackr.com/snippets/aamra-seniors-club-raises-150k-in-pre-seed-round-11247180": {
+    "valid": true,
+    "company": "Aamra Seniors Club",
+    "amount_str": "$150K",
+    "website": "https://www.aamra.life",
+    "linkedin_url": "https://linkedin.com/company/aamra-kinspire-living-private-limited",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "abc@mail.com",
+    "twitter_url": "https://x.com/aamralife"
+  },
+  "https://inforcapital.com/news/brickssh-chiude-un-round-pre-seed-da-16-mln-euro-guidato-da-primo-capital-sgr-con-octopus-eden-ventures-vesper-holding-vento-e-un-pool-di-business-ang/": {
+    "valid": true,
+    "company": "Bricks.sh",
+    "amount_str": "\u20ac1.6M",
+    "website": "https://www.bricks.sh",
+    "linkedin_url": "https://linkedin.com/company/brickssh",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "emma.thompson@email.com",
+    "twitter_url": "https://x.com/bricksdotsh"
+  },
+  "https://indicanews.com/india-showcases-gaming-ambitions-at-global-developers-conference-in-san-francisco/": {
+    "valid": false
+  },
+  "https://www.siliconindia.com/startup/startup-funding/personal-care-brand-laani-raises-rs-91-crore-in-preseed-round-nwid-53797.html": {
+    "valid": true,
+    "company": "Personal Care Brand Laani",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DWGQCaZjQEg/": {
+    "valid": true,
+    "company": "Mave Health",
+    "amount_str": "$2.1 m",
+    "website": "https://www.trustpilot.com",
+    "linkedin_url": "https://linkedin.com/company/trustpilot",
+    "founder_name": "Shares Manager",
+    "founder_linkedin_url": "",
+    "contact_email": "support@trustpilot.com",
+    "twitter_url": "https://x.com/Trustpilot"
+  },
+  "https://healthexec.com/newsletter/2026-03-20/americans-struggling-12k-premiums-pricing-startup-hits-95m-funding-man-sentenced-threatening-ceos": {
+    "valid": false
+  },
+  "https://www.achrnews.com/articles/165980-robotics-startup-debuts-ai-enabled-heating-system-for-outdoor-dining": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://bnp.dragonforms.com/loading.do",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://india.entrepreneur.com/news-and-trends/rymo-technologies-mave-health-and-pinq-polka-raise-fresh/503559": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://players.brightcove.net/videojs-pip/1/videojs-pip.css",
+    "linkedin_url": "",
+    "founder_name": "Stanford Angels",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/sacramento/news/2026/03/20/data-centers-ai-google-meta-startups-funding.html": {
+    "valid": false
+  },
+  "https://www.structuredretailproducts.com/insights/82940/avenir-group-invests-in-ai-native-quant-firm-inference-research": {
+    "valid": false
+  },
+  "https://inforcapital.com/news/lai-agency-italiana-jenia-chiude-il-suo-primo-round-seed-entra-nel-capitale-con-il-15-mamisa-la-family-holding-della-famiglia-spezzani-keraglass/": {
+    "valid": true,
+    "company": "Jenia AI Automation Startup",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/miai-law-secures-aud-2-million-in-funding": {
+    "valid": true,
+    "company": "MiAI Law",
+    "amount_str": "$2 M",
+    "website": "https://miai.law",
+    "linkedin_url": "https://linkedin.com/company/miai-law",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/MiAi_Law"
   }
 }
