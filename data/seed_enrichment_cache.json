@@ -10976,5 +10976,135 @@
   },
   "https://www.thesaasnews.com/news/parallel-raises-20-million-in-series-a": {
     "valid": false
+  },
+  "https://startupsmagazine.co.uk/the-5-lottery-ticket-that-changed-how-i-think-about-funding": {
+    "valid": false
+  },
+  "https://www.startupdaily.net/topic/asx/steve-smiths-100000-koala-investment-is-set-to-be-his-highest-score-as-the-bedmaker-hits-the-asx-for-six/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://growth-summit.com.au",
+    "linkedin_url": "",
+    "founder_name": "Mitch Taylor is selling",
+    "founder_linkedin_url": "",
+    "contact_email": "events@smartcomedia.com.au",
+    "twitter_url": ""
+  },
+  "https://www.india.com/news/what-barclays-ubyx-investment-signals-for-the-future-of-digital-money-2-8351205/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.thehealthsite.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/HealthSite4U"
+  },
+  "https://www.arabnews.jp/en/business/article_166451/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.arabnews.com",
+    "linkedin_url": "",
+    "founder_name": "Akram Marwan",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.indianstartuptimes.com/investment/mave-health-raises-2-1-million-to-bring-neurotechnology-wearables-to-global-markets/": {
+    "valid": true,
+    "company": "Mave Health",
+    "amount_str": "$2.1 M",
+    "website": "https://www.businesswire.com",
+    "linkedin_url": "https://linkedin.com/company/mavehealth",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-us/money/smallbusiness/these-two-startups-are-teaming-up-to-prevent-a-pearl-harbor-moment-in-space/ar-AA1Z4lCH?uxmode=ruby": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/money/other/startups-pitch-optical-metamaterials-to-speed-up-ai-data-centers/ar-AA1Z4ru5": {
+    "valid": false
+  },
+  "https://azat.tv/en/sppu-results-startup-olympiad-2026/": {
+    "valid": false
+  },
+  "https://bharatfast.com/others/bharat-taxi-crosses-2-7-million-downloads-in-weeks-faces-affordability-concerns-in-competitive-ride-hailing-space/31823/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://kuenselonline.com/news/startups-call-for-support-beyond-seed-funding": {
+    "valid": false
+  },
+  "https://www.siliconindia.com/startup/startup-funding/aamra-seniors-club-secures-150k-in-preseed-funding-round-nwid-53802.html": {
+    "valid": true,
+    "company": "Aamra Seniors Club",
+    "amount_str": "$150K",
+    "website": "https://www.aamra.life",
+    "linkedin_url": "https://linkedin.com/company/aamra-kinspire-living-private-limited",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "abc@mail.com",
+    "twitter_url": "https://x.com/aamralife"
+  },
+  "https://bharatfast.com/others/aamra-seniors-club-secures-150k-pre-seed-funding-to-build-community-driven-eldercare-model-in-india/31820/": {
+    "valid": true,
+    "company": "Aamra Seniors Club",
+    "amount_str": "$150K",
+    "website": "https://www.aamra.life",
+    "linkedin_url": "https://linkedin.com/company/aamra-kinspire-living-private-limited",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "abc@mail.com",
+    "twitter_url": "https://x.com/aamralife"
+  },
+  "https://www.indianretailer.com/news/loreal-eyes-majority-stake-innovist-expand-india-business": {
+    "valid": true,
+    "company": "Neurotechnology startup Mave Health",
+    "amount_str": "$2.1 m",
+    "website": "https://www.msn.com",
+    "linkedin_url": "",
+    "founder_name": "Stanford Angels",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://businesscloud.co.uk/live-blog/numonic-raises-560k-pre-seed-funding-to-help-creatives-avoid-e35m-ai-fines/": {
+    "valid": false
+  },
+  "https://www.startups.com/requests/33a903bc-5d11-4c58-a1de-b0cdac90cbc9": {
+    "valid": false
+  },
+  "https://x.com/GrishinRobotics/status/2034940636495819215": {
+    "valid": false
+  },
+  "https://msmeafricaonline.com/call-for-applications-boi-mtn-foundation-yellopreneur-program-2026-training-funding-mentorship-entrepreneurs/": {
+    "valid": false
+  },
+  "https://www.techinasia.com/ai-physical-literally": {
+    "valid": false
+  },
+  "https://www.ipoplatform.com/Funding-news/rymo-technologies-raises-rs-1000-cr-in-seed-funding-round": {
+    "valid": false
+  },
+  "https://www.msn.com/en-in/money/news/amazon-acquires-swiss-robotics-company-rivr-to-test-robots-for-doorstep-delivery/ar-AA1Z64N5": {
+    "valid": false
+  },
+  "https://thenextweb.com/news/bbleap-5m-precision-spraying-agtech-netherlands": {
+    "valid": false
+  },
+  "https://beinsure.com/news/neptune-flood-launches-chatgpt-quoting-app/": {
+    "valid": false
   }
 }
