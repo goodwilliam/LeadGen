@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-21T06:31:39Z",
+  "generated_at": "2026-03-21T12:27:53Z",
   "count": 22,
   "jobs": [
     {
@@ -27,7 +27,7 @@
       "companyBatch": "F25",
       "companyOneLiner": "TikTok for language learning",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/a9603ad6a62ae3ee9c8723521f8f2d852d664a89.png",
-      "companyLastActiveAt": "4 days ago",
+      "companyLastActiveAt": "5 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D90847&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=30848"
     },
     {
@@ -199,20 +199,6 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D88819&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28844"
     },
     {
-      "id": 89229,
-      "title": "Motion Designer",
-      "jobType": "fulltime",
-      "location": "London, England, GB / New York, NY, US",
-      "roleType": "Animation",
-      "companyName": "Solve Intelligence",
-      "companySlug": "solve-intelligence",
-      "companyBatch": "S23",
-      "companyOneLiner": "AI patent drafting, prosecution, harvesting and more for legal teams.",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/cdb4c71ccbddd0ad292fc773c3cfb169d2a4a5ba.png",
-      "companyLastActiveAt": null,
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89229&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28825"
-    },
-    {
       "id": 77217,
       "title": "Design Engineer",
       "jobType": "fulltime",
@@ -225,6 +211,20 @@
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/cdb4c71ccbddd0ad292fc773c3cfb169d2a4a5ba.png",
       "companyLastActiveAt": "2 months ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D77217&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28825"
+    },
+    {
+      "id": 89229,
+      "title": "Motion Designer",
+      "jobType": "fulltime",
+      "location": "London, England, GB / New York, NY, US",
+      "roleType": "Animation",
+      "companyName": "Solve Intelligence",
+      "companySlug": "solve-intelligence",
+      "companyBatch": "S23",
+      "companyOneLiner": "AI patent drafting, prosecution, harvesting and more for legal teams.",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/cdb4c71ccbddd0ad292fc773c3cfb169d2a4a5ba.png",
+      "companyLastActiveAt": null,
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89229&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28825"
     },
     {
       "id": 88550,
@@ -269,20 +269,6 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D91163&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=27959"
     },
     {
-      "id": 91639,
-      "title": "Product Design Lead ",
-      "jobType": "fulltime",
-      "location": "New York, NY, US",
-      "roleType": "Product design",
-      "companyName": "Hadrius",
-      "companySlug": "hadrius",
-      "companyBatch": "W23",
-      "companyOneLiner": "Automating Securities Compliance",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/860789e4b5347ff0d9c534e39f80af9c01143ab3.png",
-      "companyLastActiveAt": null,
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D91639&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=27943"
-    },
-    {
       "id": 71479,
       "title": "Senior Product Designer",
       "jobType": "fulltime",
@@ -297,6 +283,20 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D71479&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=27943"
     },
     {
+      "id": 91639,
+      "title": "Product Design Lead ",
+      "jobType": "fulltime",
+      "location": "New York, NY, US",
+      "roleType": "Product design",
+      "companyName": "Hadrius",
+      "companySlug": "hadrius",
+      "companyBatch": "W23",
+      "companyOneLiner": "Automating Securities Compliance",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/860789e4b5347ff0d9c534e39f80af9c01143ab3.png",
+      "companyLastActiveAt": null,
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D91639&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=27943"
+    },
+    {
       "id": 84438,
       "title": "Senior Product Designer",
       "jobType": "fulltime",
@@ -307,7 +307,7 @@
       "companyBatch": "W23",
       "companyOneLiner": "Fast, Transparent Patient Experiences",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/9ce9a2d0eb717408f7a56ad8fd6c76940b02a6a9.png",
-      "companyLastActiveAt": "23 days ago",
+      "companyLastActiveAt": "24 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D84438&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=27811"
     }
   ]
