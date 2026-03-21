@@ -10855,5 +10855,94 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/molina-healthcare-investigation-initiated-kahn-swick--foti-llc-investigates-the-officers-and-directors-of-molina-healthcare-inc---moh-302720205.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/hims--hers-health-investigation-initiated-kahn-swick--foti-llc-investigates-the-officers-and-directors-of-hims--hers-health-inc---hims-302720204.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/gemini-space-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-gemini-space-station-inc---gemi-302720200.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/driven-brands-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-driven-brands-holdings-inc---drvn-302720202.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/kyndryl-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuits-against-kyndryl-holdings-inc---kd-302720196.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/tripcom-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-tripcom-group-limited---tcom-302720201.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/soleno-therapeutics-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-soleno-therapeutics-inc---slno-302720195.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/apollo-global-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-apollo-global-management-inc---apo-302720198.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/navan-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-navan-inc---navn-302720193.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/corcept-therapeutics-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-corcept-therapeutics-incorporated---cort-302720190.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/enphase-energy-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-enphase-energy-inc---enph-302720185.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/uniqure-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-uniqure-nv---qure-302720186.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/ultragenyx-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-ultragenyx-pharmaceutical-inc---rare-302720192.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/shareholder-alert-ademi-llp-investigates-claims-of-securities-fraud-against-super-micro-computer-inc-302720247.html": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DWIY_z2DPCu/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DWIXC3rj_Rg/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Photo shared by Female",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.zovora.ai/trends/palmer-luckey-s-crypto-bank-just-raised-635-million-in-a-seed-round-mmzoivxs": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05",
+    "linkedin_url": "",
+    "founder_name": "The investors include",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/the-next-web_montis-vc-just-raised-50m-for-europes-energy-activity-7440678431601881088-a7cs": {
+    "valid": false
+  },
+  "https://en.wowtale.net/2026/03/21/233729/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wowtale.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "editor@wowtale.net",
+    "twitter_url": "https://x.com/mushman1970"
   }
 }

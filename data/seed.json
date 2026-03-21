@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-21T01:18:11.759516Z",
-  "count": 30,
-  "enriched_count": 20,
+  "generated_at": "2026-03-21T05:04:06.543110Z",
+  "count": 28,
+  "enriched_count": 19,
   "articles": [
     {
       "source": "Google Alerts",
@@ -338,34 +338,6 @@
       "founder_linkedin_url": "",
       "contact_email": "support@parallelcorp.com",
       "twitter_url": ""
-    },
-    {
-      "source": "SiliconAngle",
-      "title": "On-demand GPU startup Andromeda raises funding at $1.5B valuation",
-      "article_url": "https://siliconangle.com/2026/03/18/demand-gpu-startup-andromeda-raises-funding-1-5b-valuation/",
-      "company": "On-demand GPU startup Andromeda",
-      "amount_str": "$1.5B",
-      "pub_date": "2026-03-19T01:39:24Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "SiliconAngle",
-      "title": "RunSybil raises $40M to automate offensive security with AI agents",
-      "article_url": "https://siliconangle.com/2026/03/18/runsybil-raises-40m-automate-offensive-security-ai-agents/",
-      "company": "RunSybil",
-      "amount_str": "$40M",
-      "pub_date": "2026-03-19T00:27:32Z",
-      "website": "https://www.runsybil.com",
-      "linkedin_url": "https://linkedin.com/company/runsybil",
-      "founder_name": "Palo Alto Networks",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/runsybil"
     },
     {
       "source": "tech.eu",
