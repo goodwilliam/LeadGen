@@ -11195,5 +11195,56 @@
   },
   "https://opentools.ai/news/why-your-startup-funding-is-on-hold-trust-and-reputation-hold-the-key": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-aldeyra-therapeutics-inc-investors-to-inquire-about-securities-class-action-investigation--aldx-302720336.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/waarschuwing-voor-investeerders-berger-montague-canada-pc-vertegenwoordigt-beleggers-die-aandelen-van-super-micro-computer-inc-hebben-gekocht-die-genoteerd-zijn-op-cboe-canada-en-andere-beurzen-302721403.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/anlegerhinweis-goeasy-ltd-aktionarssammelklage-302721400.html": {
+    "valid": false
+  },
+  "https://www.theglobeandmail.com/investing/markets/stocks/INTC/pressreleases/881383/got-1000-this-under-the-radar-ai-stock-could-be-a-future-10-bagger/": {
+    "valid": true,
+    "company": "Hyperlume had just",
+    "amount_str": "$12.5 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://voice.lapaas.com/amazon-acquires-delivery-robot-startup-rivr/?amp=1": {
+    "valid": false
+  },
+  "https://mezha.net/eng/bukvy/amazon_acquired_rivr/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/03/21/manifold-announces-8m-seed-funding-round-to-secure-autonomous-endpoint-ai-agents-at-runtime/": {
+    "valid": true,
+    "company": "Manifold",
+    "amount_str": "$8M",
+    "website": "https://www.manifold.bio",
+    "linkedin_url": "https://linkedin.com/company/manifold-bio",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "team@manifold.bio",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/03/21/niv-ai-raises-12m-to-optimize-power-efficiency-for-ai-data-centers/": {
+    "valid": true,
+    "company": "Niv-AI",
+    "amount_str": "$12M",
+    "website": "https://www.prnewswire.com",
+    "linkedin_url": "https://linkedin.com/company/pr-newswire",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/PRNewswire"
   }
 }

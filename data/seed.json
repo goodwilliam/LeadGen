@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-03-21T16:21:56.256513Z",
-  "count": 20,
-  "enriched_count": 17,
+  "generated_at": "2026-03-21T20:18:52.265147Z",
+  "count": 23,
+  "enriched_count": 19,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Got $1,000? This Under-the-Radar AI Stock Could Be a Future 10-Bagger - The Globe and Mail",
+      "article_url": "https://www.theglobeandmail.com/investing/markets/stocks/INTC/pressreleases/881383/got-1000-this-under-the-radar-ai-stock-could-be-a-future-10-bagger/",
+      "company": "Hyperlume had just",
+      "amount_str": "$12.5 m",
+      "pub_date": "2026-03-21T17:27:55Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Manifold Announces $8M Seed Funding Round to Secure Autonomous Endpoint AI Agents ...",
+      "article_url": "https://theaiinsider.tech/2026/03/21/manifold-announces-8m-seed-funding-round-to-secure-autonomous-endpoint-ai-agents-at-runtime/",
+      "company": "Manifold",
+      "amount_str": "$8M",
+      "pub_date": "2026-03-21T17:14:45Z",
+      "website": "https://www.manifold.bio",
+      "linkedin_url": "https://linkedin.com/company/manifold-bio",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "team@manifold.bio",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Niv-AI Raises $12M to Optimize Power Efficiency for AI Data Centers - AI Insider",
+      "article_url": "https://theaiinsider.tech/2026/03/21/niv-ai-raises-12m-to-optimize-power-efficiency-for-ai-data-centers/",
+      "company": "Niv-AI",
+      "amount_str": "$12M",
+      "pub_date": "2026-03-21T16:14:49Z",
+      "website": "https://www.prnewswire.com",
+      "linkedin_url": "https://linkedin.com/company/pr-newswire",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/PRNewswire"
+    },
     {
       "source": "Google Alerts",
       "title": "FusionStays Raises INR 75 Lakhs in Pre-Seed Funding Led by Vruddhi Capital Kolkata, India",
