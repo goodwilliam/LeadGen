@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-03-21T12:34:24.378383Z",
-  "count": 21,
+  "generated_at": "2026-03-21T16:21:56.256513Z",
+  "count": 20,
   "enriched_count": 17,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "FusionStays Raises INR 75 Lakhs in Pre-Seed Funding Led by Vruddhi Capital Kolkata, India",
+      "article_url": "https://www.ahmedabadmirror.com/fusionstays-raises-inr-75-lakhs-in-pre-seed-funding-led-by-vruddhi-capital-kolkata-india/81910229.html",
+      "company": "FusionStays",
+      "amount_str": "",
+      "pub_date": "2026-03-21T13:32:52Z",
+      "website": "https://www.fusionstays.com",
+      "linkedin_url": "https://linkedin.com/company/fusionstays",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Aamra Seniors Club Secures $150K in Pre-Seed Funding Round - Siliconindia",
@@ -47,20 +61,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "AI Wellness Wearable Startup Secures Seed Funding - InforCapital",
-      "article_url": "https://inforcapital.com/news/%E6%B8%AF%E4%B8%AD%E6%96%8795%E5%90%8E%E5%8D%9A%E5%A3%ABoppo%E5%91%98%E5%B7%A5%E5%81%9A%E4%BA%86%E6%AC%BEai%E5%8F%AF%E7%A9%BF%E6%88%B4%E7%A1%AC%E4%BB%B6%E8%A6%81%E6%88%90%E4%B8%BA%E7%94%A8%E6%88%B7%E5%85%A8%E5%A4%A9%E5%80%99%E6%83%85%E6%84%9F%E5%AF%BC%E5%B8%88%E7%A1%AC%E6%B0%AA%E9%A6%96%E5%8F%91/",
-      "company": "Wellness Wearable Startup",
-      "amount_str": "",
-      "pub_date": "2026-03-20T22:52:05Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "Founder Friday: How two lifelong friends turned 15 open tabs into a platform used by ...",
       "article_url": "https://dynamicbusiness.com/featured/founder-friday/how-two-lifelong-friends-turned-15-open-tabs-into-a-platform-used-by-450000-shoppers.html",
       "company": "The founders",
@@ -84,20 +84,6 @@
       "linkedin_url": "",
       "founder_name": "",
       "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Redcliffe Labs Announces Strategic Appointment of Dr. Sonal Saxena to Lead Next Phase ...",
-      "article_url": "https://indiatechnologynews.in/redcliffe-labs-announces-strategic-appointment-of-dr-sonal-saxena-to-lead-next-phase-of-preventive-diagnostics/",
-      "company": "Redcliffe Labs",
-      "amount_str": "",
-      "pub_date": "2026-03-20T17:31:48Z",
-      "website": "https://redcliffelabs.com",
-      "linkedin_url": "https://linkedin.com/company/redcliffelabs",
-      "founder_name": "",
-      "founder_linkedin_url": "https://linkedin.com/in/adityakandoi",
       "contact_email": "",
       "twitter_url": ""
     },

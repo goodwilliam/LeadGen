@@ -11106,5 +11106,94 @@
   },
   "https://beinsure.com/news/neptune-flood-launches-chatgpt-quoting-app/": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/nuscale-power-corporation-smr-securities-fraud-class-action-lawsuit-filed-april-20-2026-lead-plaintiff-deadline-302720255.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/kyndryl-holdings-inc-kd-class-action-lawsuit-investors-face-april-13-2026-deadline-302720238.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/mondaycom-ltd-mndy-class-action-lawsuit-investors-face-may-11-2026-deadline-302720237.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/ramaco-deadline-metc-investors-have-opportunity-to-lead-ramaco-resources-inc-securities-fraud-lawsuit-302720101.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-alert-tripcom-group-limited-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit--rgrd-law-302720211.html": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/sports/other/everything-speedy-claxton-hofstra-said-after-getting-eliminated-by-alabama/ar-AA1Z5okz?cvid=69be64a71634446595c419e9df779763&ocid=uxbndlbing": {
+    "valid": false
+  },
+  "https://www.binance.com/en/square/post/303833383056129": {
+    "valid": false
+  },
+  "https://www.turkiyetoday.com/business/turkish-forbes-30u30-founders-of-32m-startup-delve-face-fraud-claims-in-us-3216648": {
+    "valid": false
+  },
+  "https://incrypted.com/en/follow-the-money-the-acquisition-of-bvnk-1-billion-for-kalshi-and-the-rise-of-corporate-financing/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://connect.facebook.net",
+    "linkedin_url": "",
+    "founder_name": "including TD Bank",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.reddit.com/r/startups/comments/1rzt9fw/raising_preseed_feels_like_selling_ice_to/": {
+    "valid": false
+  },
+  "https://www.startupresearcher.com/news/ai-legal-platform-miai-law-raises-usd1-3-million-pre-seed-funding": {
+    "valid": false
+  },
+  "https://crypto-fundraising.info/blog/dates-15-21-mar-2026/": {
+    "valid": false
+  },
+  "https://www.ahmedabadmirror.com/fusionstays-raises-inr-75-lakhs-in-pre-seed-funding-led-by-vruddhi-capital-kolkata-india/81910229.html": {
+    "valid": true,
+    "company": "FusionStays",
+    "amount_str": "",
+    "website": "https://www.fusionstays.com",
+    "linkedin_url": "https://linkedin.com/company/fusionstays",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://medial.app/post/69be1836aa18cca17e0b9b41": {
+    "valid": false
+  },
+  "https://blockzeit.com/virtuals-protocol-to-bring-ai-agents-to-xrp-ledger/": {
+    "valid": false
+  },
+  "https://wepitched.com/blog/exact-agentic-ai-startup-seed-funding-requirements-for-2026": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdnjs.cloudflare.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupgrantsindia.com/iima-ventures-aerospace-defence-acceleration-fund-425": {
+    "valid": false
+  },
+  "https://inc42.com/buzz/from-neo-to-atlys-indian-startups-raised-228-mn-this-week/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://opentools.ai/news/why-your-startup-funding-is-on-hold-trust-and-reputation-hold-the-key": {
+    "valid": false
   }
 }
