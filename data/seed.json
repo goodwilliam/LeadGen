@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T05:04:06.543110Z",
-  "count": 28,
+  "generated_at": "2026-03-21T08:23:26.426292Z",
+  "count": 27,
   "enriched_count": 19,
   "articles": [
     {
@@ -170,20 +170,6 @@
       "founder_linkedin_url": "",
       "contact_email": "emma.thompson@email.com",
       "twitter_url": "https://x.com/bricksdotsh"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Jenia AI Automation Startup Secures Seed Funding - InforCapital",
-      "article_url": "https://inforcapital.com/news/lai-agency-italiana-jenia-chiude-il-suo-primo-round-seed-entra-nel-capitale-con-il-15-mamisa-la-family-holding-della-famiglia-spezzani-keraglass/",
-      "company": "Jenia AI Automation Startup",
-      "amount_str": "",
-      "pub_date": "2026-03-20T14:27:55Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "Google Alerts",

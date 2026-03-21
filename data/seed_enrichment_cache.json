@@ -10944,5 +10944,37 @@
     "founder_linkedin_url": "",
     "contact_email": "editor@wowtale.net",
     "twitter_url": "https://x.com/mushman1970"
+  },
+  "https://www.prnewswire.com/news-releases/pom-investors-have-opportunity-to-lead-pomdoctor-ltd-securities-fraud-lawsuit-302720328.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-pennymac-financial-services-inc-investors-to-inquire-about-securities-class-action-investigation--pfsi-302720335.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-gsi-technology-inc-investors-to-inquire-about-securities-class-action-investigation--gsit-302720334.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/nktr-investors-have-opportunity-to-lead-nektar-therapeutics-securities-fraud-lawsuit-302720332.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/lake-investors-have-opportunity-to-lead-lakeland-industries-inc-securities-fraud-lawsuit-302720331.html": {
+    "valid": false
+  },
+  "https://inc42.com/buzz/from-neo-to-atlys-indian-startups-raised-228-mn-this-week-2/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/SynBioBeta/status/2035070432165109760": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/parallel-raises-20-million-in-series-a": {
+    "valid": false
   }
 }
