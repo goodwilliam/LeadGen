@@ -10702,5 +10702,158 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": "https://x.com/MiAi_Law"
+  },
+  "https://techcrunch.com/2026/03/20/elon-musk-misled-twitter-investors-while-trying-to-get-out-of-acquisition-jury-says/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/20/cloud-native-ecosystem-k8s-ai-kubeconeu/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/eose-investor-alert-eos-energy-enterprises-inc-investors-with-substantial-losses-have-opportunity-to-lead-the-eos-energy-class-action-lawsuit-302720130.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/camping-world-holdings-inc-investors-with-substantial-losses-have-opportunity-to-lead-investor-class-action-lawsuit---rgrd-law-302720122.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/alerte-aux-investisseurs--recours-collectif-dactionnaires-de-goeasy-ltd-302720302.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-dnow-inc-investors-to-inquire-about-securities-class-action-investigation--dnow-302720183.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-alert-berger-montague-canada-pc-vertritt-investoren-die-aktien-von-super-micro-computer-inc-gekauft-haben-die-an-der-cboe-canada-und-anderswo-notiert-sind-302720263.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/alerte-aux-investisseurs--berger-montague-canada-pc-represente-les-investisseurs-qui-ont-achete-des-actions-de-super-micro-computer-inc-cotees-sur-le-cboe-canada-et-ailleurs-302720261.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/gemi-stockholder-alert-robbins-llp-reminds-investors-of-the-class-action-lawsuit-against-gemini-space-station-inc-302720120.html": {
+    "valid": false
+  },
+  "https://www.on3.com/teams/alabama-crimson-tide/news/what-hofstra-coach-speedy-claxton-said-after-ncaa-tournament-loss-to-alabama/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://resiliencemedia.co/the-perfect-swarm-how-swarmer-got-its-timing-just-right-by-accident-and-saw-its-us-ipo-pop/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/montis-vc-hits-e50m-first-close-a-new-polish-vc-fund-backing-europes-industrial-future/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/a16z-and-menlo-ventures-back-arc-boat-companys-50m-round-as-electric-boat-race-heats-up/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/cloaked-built-by-brothers-this-startup-just-raised-375m-as-ai-driven-scams-turn-privacy-into-enterprise-priority/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://beinsure.com/news/azos-raises-24mn-to-expand-ai-push-in-brazil/": {
+    "valid": true,
+    "company": "Azos",
+    "amount_str": "$24 m",
+    "website": "https://www.xtreme-gardening.com",
+    "linkedin_url": "https://linkedin.com/company/azos-seguros",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/xtremegardening"
+  },
+  "https://winbuzzer.com/2026/03/20/amazon-acquires-robotics-startup-rivr-doorstep-delivery-xcxwbn/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.aboutchromebooks.com/growth-navigate-funding/": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/hamilton-ai-raises-7-5m-seed-round": {
+    "valid": false
+  },
+  "https://www.datacenterdynamics.com/en/news/energy-management-saas-pado-raises-6m-in-seed-round/": {
+    "valid": true,
+    "company": "Energy management SaaS PADO",
+    "amount_str": "$6m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.ctol.digital/news/amazon-buys-rivr-the-last-100-yards-just-got-a-robot/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/meadow-raises-9m-in-series-a-funding.html": {
+    "valid": false
+  },
+  "https://dynamicbusiness.com/featured/founder-friday/how-two-lifelong-friends-turned-15-open-tabs-into-a-platform-used-by-450000-shoppers.html": {
+    "valid": true,
+    "company": "The founders",
+    "amount_str": "$1.26 m",
+    "website": "https://www.foundersclubofficial.com",
+    "linkedin_url": "https://linkedin.com/company/join-the-founders-club",
+    "founder_name": "million as young female",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/FoundersClubUS"
+  },
+  "https://inforcapital.com/news/qura-chiude-round-pre-seed-di-15-mln-guidato-da-united-ventures-per-costruire-piattaforma-integrata-di-salute-preventiva-basata-sullai/": {
+    "valid": true,
+    "company": "Qura AI Health Platform",
+    "amount_str": "\u20ac1.5M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://inforcapital.com/news/%E6%B8%AF%E4%B8%AD%E6%96%8795%E5%90%8E%E5%8D%9A%E5%A3%ABoppo%E5%91%98%E5%B7%A5%E5%81%9A%E4%BA%86%E6%AC%BEai%E5%8F%AF%E7%A9%BF%E6%88%B4%E7%A1%AC%E4%BB%B6%E8%A6%81%E6%88%90%E4%B8%BA%E7%94%A8%E6%88%B7%E5%85%A8%E5%A4%A9%E5%80%99%E6%83%85%E6%84%9F%E5%AF%BC%E5%B8%88%E7%A1%AC%E6%B0%AA%E9%A6%96%E5%8F%91/": {
+    "valid": true,
+    "company": "Wellness Wearable Startup",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.hpcwire.com/bigdatawire/2026/03/20/autoscience-secures-new-funding-to-scale-its-autonomous-ai-research-lab/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/inside-redbud-vcs-25m-fund-strategy-as-it-looks-for-founders-outside-of-silicon-valley/": {
+    "valid": false
+  },
+  "https://www.lsu.edu/innovation/news/2026/acornbids_bridge.php": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://use.typekit.net/nni7rmd.css",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
