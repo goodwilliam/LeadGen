@@ -11246,5 +11246,144 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": "https://x.com/PRNewswire"
+  },
+  "https://www.prnewswire.com/news-releases/cigl-investors-have-opportunity-to-lead-concorde-international-group-ltd-securities-fraud-lawsuit-302720245.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/tcom-investors-have-opportunity-to-lead-tripcom-group-limited-securities-fraud-lawsuit-first-filed-by-the-rosen-law-firm-302720141.html": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/": {
+    "valid": false
+  },
+  "https://www.crowdfundinsider.com/2026/03/267922-quorus-closes-5m-seed-round/": {
+    "valid": true,
+    "company": "Quorus",
+    "amount_str": "$5M",
+    "website": "https://www.quorus.io",
+    "linkedin_url": "https://linkedin.com/company/quorusinc",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "https://linkedin.com/in/scott-shumway-4a767737",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bwdisrupt.com/article/neo-group-enters-unicorn-club-with-rs-500-cr-investment-from-tvs-capital-598710": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://entrackr.com/report/weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-mar-16-mar-21-11250390": {
+    "valid": true,
+    "company": "Growth-stage startups",
+    "amount_str": "$272.1 m",
+    "website": "https://startupik.com",
+    "linkedin_url": "https://linkedin.com/company/startupik",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/startupik"
+  },
+  "https://bayelsawatch.com/obinnew-yorks-obin-ai-banks-7m/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://chatgpt.com",
+    "linkedin_url": "",
+    "founder_name": "Pramod Pawar",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bwdisrupt.com/article/zetwerk-plans-confidential-ipo-filing-targets-4-bn-valuation-for-listing-598656": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Piyush Goyal Meets Zepto",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.digitaltoday.co.kr/en/view/42151/autoscience-raises-14-million-seed-round-to-develop-ai-models-with-ai": {
+    "valid": true,
+    "company": "Autoscience",
+    "amount_str": "$14 m",
+    "website": "https://www.autoscience.ai",
+    "linkedin_url": "https://linkedin.com/company/autoscienceai",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/AutoScienceAI"
+  },
+  "https://www.instagram.com/reel/DWJxAgRiM_N/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "partner of Andreessen Horowitz",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://en.wowtale.net/2026/03/21/233724/": {
+    "valid": false
+  },
+  "https://indianstartupnews.com/funding/gurugram-based-d2c-pet-care-startup-moe-puppy-raises-rs-2-crore-from-pedalstart-others-11220655": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.ampproject.org/v0.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://firstindia.co.in/articles/beyond-policy-closing-indias-credit-gap-for-women-entrepreneurs": {
+    "valid": false
+  },
+  "https://firstindia.co.in/articles/fusionstays-raises-inr-75-lakhs-in-pre-seed-funding-led-by-vruddhi-capital-kolkata-india": {
+    "valid": true,
+    "company": "FusionStays",
+    "amount_str": "",
+    "website": "https://www.fusionstays.com",
+    "linkedin_url": "https://linkedin.com/company/fusionstays",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.youtube.com/watch?v=1RxeE0iN-ig": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/03/21/grapevine-secures-4-1m-to-scale-ai-driven-job-discovery-and-interview-tools/": {
+    "valid": true,
+    "company": "Grapevine",
+    "amount_str": "$4.1M",
+    "website": "http://grapevinetexas.gov",
+    "linkedin_url": "https://linkedin.com/company/67656",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/GrapevineTXCity"
+  },
+  "https://x.com/vesting_tv/status/2035189502063296626": {
+    "valid": true,
+    "company": "Y Combinator Startup Lance (@TryLance)",
+    "amount_str": "$3.7 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/jyotibansal",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
