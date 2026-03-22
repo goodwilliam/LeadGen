@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-03-22T12:33:34.357019Z",
-  "count": 26,
-  "enriched_count": 22,
+  "generated_at": "2026-03-22T16:26:13.287358Z",
+  "count": 27,
+  "enriched_count": 23,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Startup Raises $8M to Secure Autonomous AI Agents in the Enterprise - i-HLS",
+      "article_url": "https://i-hls.com/archives/135426",
+      "company": "Startup",
+      "amount_str": "$8M",
+      "pub_date": "2026-03-22T13:49:01Z",
+      "website": "https://www.sitebuilderreport.com",
+      "linkedin_url": "https://linkedin.com/company/start",
+      "founder_name": "",
+      "founder_linkedin_url": "https://linkedin.com/in/kristencooper23",
+      "contact_email": "",
+      "twitter_url": "https://x.com/SquarespaceHelp"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "VerbaFlo raises $7 million led by Pi Labs - ET Realty",
+      "article_url": "https://realty.economictimes.indiatimes.com/news/startups/verbaflo-secures-7-million-funding-to-transform-real-estate-with-ai/129732001",
+      "company": "VerbaFlo",
+      "amount_str": "$7 m",
+      "pub_date": "2026-03-22T12:16:48Z",
+      "website": "https://www.verbaflo.ai",
+      "linkedin_url": "https://linkedin.com/company/verbaflo-ai",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "contact@verbaflo.ai",
+      "twitter_url": "https://x.com/VerbaFloAI"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "FusionStays raises Rs 75 lakhs in pre-seed funding led by Vruddhi Capital Kolkata, India ...",
+      "article_url": "https://x.com/IndianVCA/status/2035627602233143484",
+      "company": "FusionStays",
+      "amount_str": "",
+      "pub_date": "2026-03-22T12:13:15Z",
+      "website": "https://www.fusionstays.com",
+      "linkedin_url": "https://linkedin.com/company/fusionstays",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Grapevine Secures $4.1M to Scale AI-Driven Job Discovery and Interview Tools - AI Insider",
@@ -117,20 +159,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "FusionStays Raises INR 75 Lakhs in Pre-Seed Funding Led by Vruddhi Capital Kolkata, India",
-      "article_url": "https://firstindia.co.in/articles/fusionstays-raises-inr-75-lakhs-in-pre-seed-funding-led-by-vruddhi-capital-kolkata-india",
-      "company": "FusionStays",
-      "amount_str": "",
-      "pub_date": "2026-03-21T16:14:35Z",
-      "website": "https://www.fusionstays.com",
-      "linkedin_url": "https://linkedin.com/company/fusionstays",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "Anna Mastykina's Post - LinkedIn",
       "article_url": "https://www.linkedin.com/posts/anna-mastykina_yann-lecun-just-raised-103b-at-the-seed-activity-7441106910789124096-nkEU",
       "company": "Yann LeCun just",
@@ -156,20 +184,6 @@
       "founder_linkedin_url": "",
       "contact_email": "abc@mail.com",
       "twitter_url": "https://x.com/aamralife"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "BREAKING: Y Combinator Startup Lance (@TryLance) announces $3.7 million seed funding raise ...",
-      "article_url": "https://x.com/vesting_tv/status/2035189502063296626",
-      "company": "Y Combinator Startup Lance (@TryLance)",
-      "amount_str": "$3.7 m",
-      "pub_date": "2026-03-21T08:43:55Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "https://linkedin.com/in/jyotibansal",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "tech.eu",
