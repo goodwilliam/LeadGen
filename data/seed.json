@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-22T05:17:02.390901Z",
+  "generated_at": "2026-03-22T08:26:04.801639Z",
   "count": 26,
-  "enriched_count": 23,
+  "enriched_count": 22,
   "articles": [
     {
       "source": "Google Alerts",
@@ -44,6 +44,20 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": "https://x.com/startupik"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "L'Or\u00e9al eyes majority stake in Innovist to expand India business - Indian Retailer",
+      "article_url": "https://www.indianretailer.com/news/loreal-eyes-majority-stake-innovist-expand-india-business",
+      "company": "Neurotechnology startup Mave Health",
+      "amount_str": "$2.1 m",
+      "pub_date": "2026-03-21T18:55:29Z",
+      "website": "https://www.msn.com",
+      "linkedin_url": "",
+      "founder_name": "Stanford Angels",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
     },
     {
       "source": "Google Alerts",
@@ -154,20 +168,6 @@
       "linkedin_url": "",
       "founder_name": "",
       "founder_linkedin_url": "https://linkedin.com/in/jyotibansal",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Mave Health Raises $2.1 Million to Bring Neurotechnology Wearables to Global Markets",
-      "article_url": "https://www.indianstartuptimes.com/investment/mave-health-raises-2-1-million-to-bring-neurotechnology-wearables-to-global-markets/",
-      "company": "Mave Health",
-      "amount_str": "$2.1 M",
-      "pub_date": "2026-03-21T07:38:18Z",
-      "website": "https://www.businesswire.com",
-      "linkedin_url": "https://linkedin.com/company/mavehealth",
-      "founder_name": "",
-      "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
     },

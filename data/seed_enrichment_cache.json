@@ -11413,5 +11413,25 @@
   },
   "https://www.facebook.com/Kuensel/posts/winning-a-startup-competition-is-the-easy-part-surviving-the-aftermath-is-the-re/1352548420241858/": {
     "valid": false
+  },
+  "https://www.businesstoday.in/amp/latest/corporate/story/this-healthcare-startup-raises-1-million-to-tackle-indias-rising-gut-and-liver-disorders-521738-2026-03-22": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DWLGpmjABgF/": {
+    "valid": false
+  },
+  "https://financialit.net/news/fundraising-news/apexx-global-announces-10-million-investment-finch-capital-accelerate-global-growth?page=125": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cutt.ly/Dmn3XBe",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/Inc42/photos/funding-momentum-in-the-indian-startup-ecosystem-remained-steady-this-week-despi/1501670591557058/": {
+    "valid": false
   }
 }
