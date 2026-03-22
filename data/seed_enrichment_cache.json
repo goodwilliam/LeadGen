@@ -11684,5 +11684,140 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/22/the-sec-drops-its-four-year-old-investigation-into-ev-startup-faraday-future/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://venturebeat.com/technology/you-thought-the-generalist-was-dead-in-the-vibe-work-era-theyre-more": {
+    "valid": false
+  },
+  "https://venturebeat.com/orchestration/testing-autonomous-agents-or-how-i-learned-to-stop-worrying-and-embrace": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/tripcom-group-limited-tcom-class-action-lawsuit-investors-face-may-11-2026-deadline-302720288.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-hub-group-inc-investors-to-inquire-about-securities-class-action-investigation--hubg-302720282.html": {
+    "valid": false
+  },
+  "https://www.pressreader.com/new-zealand/the-new-zealand-herald/20260323/281852945096501": {
+    "valid": false
+  },
+  "https://www.aol.com/articles/why-unusual-machines-stock-just-163145808.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://s.yimg.com/oa/consent.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://ramaonhealthcare.com/maternal-health-startup-raises-5-7m-to-expand-doula-network-nationwide/": {
+    "valid": true,
+    "company": "Flourish Care",
+    "amount_str": "$5.7 m",
+    "website": "https://flourishcommunitycare.com",
+    "linkedin_url": "https://linkedin.com/company/flourish-collective-incorporated",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.deccanchronicle.com/southern-states/telangana/hyderabad-startup-bioreform-wins-un-recognition-1945615": {
+    "valid": true,
+    "company": "Hyderabad Startup BioReform",
+    "amount_str": "",
+    "website": "https://hiswai.com",
+    "linkedin_url": "https://linkedin.com/company/hiswai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/hiswai"
+  },
+  "https://www.indianweb2.com/2026/03/amazon-buys-rivr-to-put-stair-climbing.html": {
+    "valid": false
+  },
+  "https://ekhbary.com/news/sophia-space-secures-10-million-in-seed-funding-to-advance-orbital-computing-infrastructure-648-2.html?lang=zh": {
+    "valid": false
+  },
+  "https://bharatfast.com/english/start-up/pet-care-startup-moe-puppy-secures-rs-2-crore-funding-to-expand-grooming-and-wellness-product-range/31854/": {
+    "valid": true,
+    "company": "Pet Care Startup Moe Puppy",
+    "amount_str": "",
+    "website": "https://www.bwdisrupt.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DWMF_I2iWus/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://inforcapital.com/news/fusionstays-raises-inr-75-lakhs-in-pre-seed-funding-led-by-vruddhi-capital/": {
+    "valid": true,
+    "company": "FusionStays",
+    "amount_str": "",
+    "website": "https://www.fusionstays.com",
+    "linkedin_url": "https://linkedin.com/company/fusionstays",
+    "founder_name": "He further noted the",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/theceo.in/posts/personal-care-startup-laani-has-raised-rs-91-crore-in-a-pre-seed-funding-round-l/1388766663278887/": {
+    "valid": false
+  },
+  "https://www.facebook.com/theceo.in/photos/personal-care-startup-laani-has-raised-rs-91-crore-in-a-pre-seed-funding-round-l/1388766626612224/": {
+    "valid": false
+  },
+  "https://i-hls.com/archives/135456": {
+    "valid": false
+  },
+  "https://i-hls.com/archives/135449": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DWLv2ozguMn/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/southflorida/news/2026/03/22/veryai-bets-palm-scans-can-beat-ai-deepfakes.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Zach Meltz Founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/theceo.in/photos/neurotechnology-startup-mave-health-has-secured-21-million-in-seed-funding-led-b/1388906109931609/": {
+    "valid": false
   }
 }
