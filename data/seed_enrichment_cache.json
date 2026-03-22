@@ -11433,5 +11433,40 @@
   },
   "https://www.facebook.com/Inc42/photos/funding-momentum-in-the-indian-startup-ecosystem-remained-steady-this-week-despi/1501670591557058/": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/shareholder-reminder-faruqi--faruqi-llp-continues-investigation-of-potential-securities-claims-against-hub-group-nasdaq-hubg-investors-302720138.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/tcom-deadline-alert-faruqi--faruqi-llp-reminds-tripcom-group-tcom-investors-of-securities-class-action-deadline-on-may-11-2026-302720140.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/slno-deadline-alert-faruqi--faruqi-llp-reminds-soleno-therapeutics-slno-investors-of-securities-class-action-deadline-on-may-5-2026-302720137.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/snow-deadline-alert-faruqi--faruqi-llp-reminds-snowflake-snow-investors-of-securities-class-action-deadline-on-april-27-2026-302720131.html": {
+    "valid": false
+  },
+  "https://www.startupticker.ch/en/newsletter-archive/an-anticipated-bombshell": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DWLvkN2lD1N/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupresearcher.com/news/personal-care-startup-laani-secures-usd1-million-pre-seed-funding": {
+    "valid": false
+  },
+  "https://www.pressreader.com/saudi-arabia/arab-news/20260322/281921664572651": {
+    "valid": false
   }
 }
