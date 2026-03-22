@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-22T01:26:51.398181Z",
-  "count": 25,
-  "enriched_count": 22,
+  "generated_at": "2026-03-22T05:17:02.390901Z",
+  "count": 26,
+  "enriched_count": 23,
   "articles": [
     {
       "source": "Google Alerts",
@@ -114,6 +114,20 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Anna Mastykina's Post - LinkedIn",
+      "article_url": "https://www.linkedin.com/posts/anna-mastykina_yann-lecun-just-raised-103b-at-the-seed-activity-7441106910789124096-nkEU",
+      "company": "Yann LeCun just",
+      "amount_str": "$1.03B",
+      "pub_date": "2026-03-21T15:09:25Z",
+      "website": "https://thenextweb.com",
+      "linkedin_url": "https://linkedin.com/company/the-next-web",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "j3j5@hachyderm.io",
+      "twitter_url": "https://x.com/thenextweb"
     },
     {
       "source": "Google Alerts",

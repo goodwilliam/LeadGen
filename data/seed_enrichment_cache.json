@@ -11385,5 +11385,33 @@
     "founder_linkedin_url": "https://linkedin.com/in/jyotibansal",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.aol.com/articles/united-just-opened-bookings-most-121000242.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://s.yimg.com/oa/consent.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/anna-mastykina_yann-lecun-just-raised-103b-at-the-seed-activity-7441106910789124096-nkEU": {
+    "valid": true,
+    "company": "Yann LeCun just",
+    "amount_str": "$1.03B",
+    "website": "https://thenextweb.com",
+    "linkedin_url": "https://linkedin.com/company/the-next-web",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "j3j5@hachyderm.io",
+    "twitter_url": "https://x.com/thenextweb"
+  },
+  "https://www.digitimes.com/news/a20260319PD222/spacex-elon-musk-technology-design-2026.html": {
+    "valid": false
+  },
+  "https://www.facebook.com/Kuensel/posts/winning-a-startup-competition-is-the-easy-part-surviving-the-aftermath-is-the-re/1352548420241858/": {
+    "valid": false
   }
 }
