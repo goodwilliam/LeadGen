@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-21T18:23:11Z",
+  "generated_at": "2026-03-22T01:17:45Z",
   "count": 22,
   "jobs": [
     {
@@ -199,20 +199,6 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D88819&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28844"
     },
     {
-      "id": 89229,
-      "title": "Motion Designer",
-      "jobType": "fulltime",
-      "location": "London, England, GB / New York, NY, US",
-      "roleType": "Animation",
-      "companyName": "Solve Intelligence",
-      "companySlug": "solve-intelligence",
-      "companyBatch": "S23",
-      "companyOneLiner": "AI patent drafting, prosecution, harvesting and more for legal teams.",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/cdb4c71ccbddd0ad292fc773c3cfb169d2a4a5ba.png",
-      "companyLastActiveAt": null,
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89229&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28825"
-    },
-    {
       "id": 77217,
       "title": "Design Engineer",
       "jobType": "fulltime",
@@ -227,6 +213,20 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D77217&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28825"
     },
     {
+      "id": 89229,
+      "title": "Motion Designer",
+      "jobType": "fulltime",
+      "location": "London, England, GB / New York, NY, US",
+      "roleType": "Animation",
+      "companyName": "Solve Intelligence",
+      "companySlug": "solve-intelligence",
+      "companyBatch": "S23",
+      "companyOneLiner": "AI patent drafting, prosecution, harvesting and more for legal teams.",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/cdb4c71ccbddd0ad292fc773c3cfb169d2a4a5ba.png",
+      "companyLastActiveAt": null,
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89229&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28825"
+    },
+    {
       "id": 88550,
       "title": "Founding Designer",
       "jobType": "fulltime",
@@ -237,7 +237,7 @@
       "companyBatch": "S23",
       "companyOneLiner": "The fastest way to build AI assistants on technical content",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/274c05ef6658ba8b2d341c95ee4d90f16444919c.png",
-      "companyLastActiveAt": "15 days ago",
+      "companyLastActiveAt": "16 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D88550&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28663"
     },
     {
