@@ -12356,5 +12356,302 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/": {
+    "valid": true,
+    "company": "Littlebird",
+    "amount_str": "$11M",
+    "website": "https://littlebird.ai",
+    "linkedin_url": "https://linkedin.com/company/littlebirdai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/LittlebirdAI"
+  },
+  "https://venturebeat.com/technology/from-lab-to-market-rose-rock-bridge-fast-tracks-energy-innovation-in-tulsa": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://dn0qt3r0xannq.cloudfront.net/venturebeat-ZUVdMvorYO/venturebeat-longform/prebid-load.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/23/credo-ventures-raises-88m-fund-5-to-double-down-on-pre-seed-in-cee-and-its-global-diaspora/": {
+    "valid": true,
+    "company": "Credo Ventures",
+    "amount_str": "$88M",
+    "website": "https://pitchbook.com",
+    "linkedin_url": "https://linkedin.com/company/credo-ventures",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/23/dash0-raises-110m-1b-valuation-change-cloud-observability-ai-agents/": {
+    "valid": true,
+    "company": "Dash0",
+    "amount_str": "$110M",
+    "website": "https://www.dash0.com",
+    "linkedin_url": "https://linkedin.com/company/dash0hq",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/dash0hq"
+  },
+  "https://www.prnewswire.com/news-releases/driven-by-people-powering-the-future-302721532.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/timothy-laros-launches-guardians-of-the-baobab-a-powerful-call-to-protect-madagascars-endangered-giants-302722256.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/sumo-logic-extends-soc-analyst-agent-to-recommend-remediation-actions-accelerating-and-enhancing-threat-detection-investigation-and-response-302721762.html": {
+    "valid": false
+  },
+  "https://fortune.com/2026/03/23/interloom-ai-agents-raises-16-million-venture-funding/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cxense.com/ari.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/dash0-becomes-a-unicorn-after-balderton-led-110m-round-counts-zalando-and-taco-bell-as-customers/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/nebius-raises-4-3b-to-expand-ai-infrastructure-just-a-week-after-announcing-nvidia-meta-deals/": {
+    "valid": true,
+    "company": "Nebius",
+    "amount_str": "$4.3B",
+    "website": "https://nebius.com",
+    "linkedin_url": "https://linkedin.com/company/nebius",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/arkady-volozh",
+    "contact_email": "",
+    "twitter_url": "https://x.com/nebiusai"
+  },
+  "https://techfundingnews.com/hyground-3m-partech-sovereign-ai-sre-agent/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/withings-backer-360-capital-closes-e85m-of-e100m-target-for-new-deeptech-fund/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/partech-backs-happy-pays-5m-round-to-scale-interest-free-bnpl-in-south-africa/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/amazon-backed-x-energy-files-for-ipo-hot-on-the-heels-of-1-4b-raise-to-scale-small-modular-nuclear-reactors/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/gen-z-solo-founder-raises-422k-from-the-british-business-bank-for-next-gen-wind-turbines/": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/nikhil-singh-9531b2300_someone-just-raised-a-seed-round-selling-activity-7441489352347668480-c-Ix": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://therecursive.com/credo-stage-5-88m-cee-preseed-fund/": {
+    "valid": false
+  },
+  "http://thenextweb.com/news/interloom-16-5m-seed-dn-capital-enterprise": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://img-cdn.tnwcdn.com/image",
+    "linkedin_url": "",
+    "founder_name": "Founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://launchbaseafrica.com/2026/03/23/time-to-talk-tech-startups-in-angola-luanda-passes-bill-for-ecosystem-running-on-2-funding/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://launchbaseafrica.gumroad.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/03/german-startup-interloom-lands-e14-2-million-seed-funding-for-ai-agent-knowledge-infrastructure/": {
+    "valid": false
+  },
+  "https://yourstory.com/2026/03/startup-news-updates-daily-roundup-march-23-2026": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.calcalistech.com/ctechnews/article/sjrecjr5wx": {
+    "valid": true,
+    "company": "Eight-month-old Israeli cyber startup Above Security",
+    "amount_str": "$43 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.mexc.co/en-IN/news/974199": {
+    "valid": true,
+    "company": "Happy Pay",
+    "amount_str": "$5 m",
+    "website": "https://happypay.co.za",
+    "linkedin_url": "https://linkedin.com/company/choosehappypay",
+    "founder_name": "said Wesley Billett",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ChooseHappyPay"
+  },
+  "https://web.facebook.com/TechCabal/posts/happy-pay-a-south-african-buy-now-pay-later-bnpl-startup-has-raised-a-5-million-/1587095720092051/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupsmagazine.co.uk/the-rise-of-women-led-investment-consortiums-whats-changing-in-2026-and-why-now": {
+    "valid": false
+  },
+  "https://thenextweb.com/news/egide-air-defence-startup-8m-seed-round-europe": {
+    "valid": false
+  },
+  "https://techgraph.co/stock-market/nvidia-ceo-jensen-huang-reports-437908-shares-disposal-at-181-93-each/": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DWOPacfjZ3T/": {
+    "valid": false
+  },
+  "https://ca.finance.yahoo.com/news/exclusive-interloom-startup-capturing-tacit-070000121.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https:&#x2F;&#x2F;ca.yahoo.com&#x2F;",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.cryptopolitan.com/why-cloud-mining-is-growing-in-2026-6-bitcoin-platforms-offering-flexible-hardware-free-mining/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/cislunar-industries-raises-2-6m-in-seed-funding.html": {
+    "valid": true,
+    "company": "CisLunar Industries",
+    "amount_str": "$2.6M",
+    "website": "https://www.cislunarindustries.com",
+    "linkedin_url": "https://linkedin.com/company/cislunarindustries",
+    "founder_name": "and CEO",
+    "founder_linkedin_url": "",
+    "contact_email": "info@cislunarindustries.com",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://www.finsmes.com/2026/03/mayson-closes-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/03/23/frontline-secures-700k-to-build-ai-workforce-platform-for-enterprise-operations/": {
+    "valid": true,
+    "company": "Frontline",
+    "amount_str": "$700K",
+    "website": "https://www.pbs.org",
+    "linkedin_url": "https://linkedin.com/company/frontline-org",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "newsletter-signup-background_1440@2x.avif",
+    "twitter_url": "https://x.com/PBS"
+  },
+  "https://news.webindia123.com/news/Articles/Business/20260323/4430505.html": {
+    "valid": false
+  },
+  "https://exosome-rna.com/evis-bioscience-successfully-closes-e740k-pre-seed-round-on-capital-cell/": {
+    "valid": true,
+    "company": "EVis Bioscience Successfully",
+    "amount_str": "\u20ac740K",
+    "website": "https://www.startupticker.ch",
+    "linkedin_url": "https://linkedin.com/company/startupticker-ch",
+    "founder_name": "Elita Montanari",
+    "founder_linkedin_url": "",
+    "contact_email": "news@startupticker.ch",
+    "twitter_url": "https://x.com/startuptickerch"
+  },
+  "https://www.aninews.in/news/business/priority-for-mining-affected-areas-must-guide-district-mineral-fund-usage-not-political-gap-g-kishan-reddy20260323173052?amp=1": {
+    "valid": false
+  },
+  "https://www.tribuneindia.com/news/business/sungrow-hydrogen-powers-global-green-transition-with-new-project-shipments-across-three-continents/amp": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/akshay-srivastava-novostack_mayson-raises-pre-seed-funding-for-its-full-stack-activity-7441796457537630208-MtjQ": {
+    "valid": true,
+    "company": "Mayson",
+    "amount_str": "",
+    "website": "https://mayson.store",
+    "linkedin_url": "https://linkedin.com/company/mayson-llc",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/mayson-greer-1098133b6",
+    "contact_email": "support@mayson.store",
+    "twitter_url": ""
+  },
+  "http://www.bizwireexpress.com/showstoryPRN.php?rkey=20260323EN16339&filter=2276": {
+    "valid": true,
+    "company": "Mayson",
+    "amount_str": "",
+    "website": "https://mayson.store",
+    "linkedin_url": "https://linkedin.com/company/mayson-llc",
+    "founder_name": "Akshay Srivastava",
+    "founder_linkedin_url": "",
+    "contact_email": "support@mayson.store",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DWO6oHMlE68/": {
+    "valid": true,
+    "company": "Autoscience",
+    "amount_str": "$14 m",
+    "website": "https://autoscience.ai",
+    "linkedin_url": "https://linkedin.com/company/autoscienceai",
+    "founder_name": "Eliot Cowan",
+    "founder_linkedin_url": "https://linkedin.com/in/eliotcowan",
+    "contact_email": "",
+    "twitter_url": "https://x.com/AutoScienceAI"
+  },
+  "https://www.startupresearcher.com/news/ai-memory-platform-interloom-secures-16-5m-seed-funding": {
+    "valid": false
+  },
+  "https://www.mexc.com/news/974473": {
+    "valid": true,
+    "company": "Happy Pay",
+    "amount_str": "$5m",
+    "website": "https://happypay.co.za",
+    "linkedin_url": "https://linkedin.com/company/choosehappypay",
+    "founder_name": "said Wesley Billett",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ChooseHappyPay"
+  },
+  "https://www.thesaasnews.com/news/search-os-secures-seed-funding-round": {
+    "valid": false
   }
 }
