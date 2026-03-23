@@ -11819,5 +11819,87 @@
   },
   "https://www.facebook.com/theceo.in/photos/neurotechnology-startup-mave-health-has-secured-21-million-in-seed-funding-led-b/1388906109931609/": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/zyxiq-deadline-alert-faruqi--faruqi-llp-reminds-zynex-zyxiq-investors-of-securities-class-action-deadline-on-april-21-2026-302720294.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/data-breach-alert-edelson-lechtzin-llp-investigates-navia-benefit-solutions-data-breach-impacting-millions-302721513.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/wolf-haldenstein-adler-freeman--herz-llp-announces-that-it-has-filed-a-class-action-lawsuit-against-chowchow-cloud-international-holdings-limited-nyse-american-chow-302721518.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/nyse-gddy-investigation-reminder-kessler-topaz-meltzer--check-llp-encourages-godaddy-inc-nyse-gddy-investors-to-contact-the-firm-302720244.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/aqst-investors-have-opportunity-to-lead-aquestive-therapeutics-inc-securities-fraud-lawsuit-302720285.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/nasdaq-frpt-investigation-alert-kessler-topaz-meltzer--check-llp-encourages-freshpet-inc-nasdaq-frpt-investors-to-contact-the-firm-302720242.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/apo-investors-have-opportunity-to-lead-apollo-global-management-inc-securities-fraud-lawsuit-filed-by-the-rosen-law-firm-302719980.html": {
+    "valid": false
+  },
+  "https://www.crowdfundinsider.com/2026/03/267718-transfi-attracts-19-2m-in-funding/": {
+    "valid": false
+  },
+  "https://www.sci-tech-today.com/news/hamilton-ai-raises-7-5m/": {
+    "valid": true,
+    "company": "Hamilton AI",
+    "amount_str": "",
+    "website": "https://www.hamilton.ai",
+    "linkedin_url": "https://linkedin.com/company/hamilton-ai",
+    "founder_name": "Pramod Pawar",
+    "founder_linkedin_url": "",
+    "contact_email": "myname@company.com",
+    "twitter_url": ""
+  },
+  "https://financialit.net/news/fundraising-news/apexx-global-announces-10-million-investment-finch-capital-accelerate-global-growth?page=101": {
+    "valid": true,
+    "company": "Egyptian fintech MoneyFellows",
+    "amount_str": "$31 m",
+    "website": "https://panfinance.net",
+    "linkedin_url": "https://linkedin.com/company/panfinance",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@panfinance.net",
+    "twitter_url": "https://x.com/PanFinanceMag"
+  },
+  "https://bharatfast.com/english/start-up/coindcx-founders-questioned-in-%E2%82%B971-lakh-crypto-fraud-case-as-firm-denies-role-in-impersonation-scam/31850/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "Authorities reportedly called the",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.sci-tech-today.com/news/ciaodott-secured-e1-5m/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://chatgpt.com",
+    "linkedin_url": "",
+    "founder_name": "According to CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/audiumcp/status/2035630976613675185": {
+    "valid": true,
+    "company": "FusionStays",
+    "amount_str": "",
+    "website": "https://www.fusionstays.com",
+    "linkedin_url": "https://linkedin.com/company/fusionstays",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://parsers.vc/startup/creem.io/": {
+    "valid": false
   }
 }

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-22T20:21:06.362701Z",
-  "count": 25,
-  "enriched_count": 21,
+  "generated_at": "2026-03-23T01:26:37.253604Z",
+  "count": 23,
+  "enriched_count": 20,
   "articles": [
     {
       "source": "Google Alerts",
@@ -29,6 +29,20 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Hamilton AI Raises $ 7.5M to Build Deterministic AI 'Execution Layer' for Private Aviation",
+      "article_url": "https://www.sci-tech-today.com/news/hamilton-ai-raises-7-5m/",
+      "company": "Hamilton AI",
+      "amount_str": "",
+      "pub_date": "2026-03-22T18:48:04Z",
+      "website": "https://www.hamilton.ai",
+      "linkedin_url": "https://linkedin.com/company/hamilton-ai",
+      "founder_name": "Pramod Pawar",
+      "founder_linkedin_url": "",
+      "contact_email": "myname@company.com",
       "twitter_url": ""
     },
     {
@@ -89,59 +103,17 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Quorus Closes $5M Seed Round | Crowdfund Insider",
-      "article_url": "https://www.crowdfundinsider.com/2026/03/267922-quorus-closes-5m-seed-round/",
-      "company": "Quorus",
-      "amount_str": "$5M",
-      "pub_date": "2026-03-21T21:24:32Z",
-      "website": "https://www.quorus.io",
-      "linkedin_url": "https://linkedin.com/company/quorusinc",
-      "founder_name": "founder and",
-      "founder_linkedin_url": "https://linkedin.com/in/scott-shumway-4a767737",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Funding and acquisitions in Indian startup this week [Mar 16 - Mar 21] - Entrackr",
-      "article_url": "https://entrackr.com/report/weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-mar-16-mar-21-11250390",
-      "company": "Growth-stage startups",
-      "amount_str": "$272.1 m",
-      "pub_date": "2026-03-21T19:43:31Z",
-      "website": "https://startupik.com",
-      "linkedin_url": "https://linkedin.com/company/startupik",
+      "title": "Fundraising News | Page 102 | Financial IT",
+      "article_url": "https://financialit.net/news/fundraising-news/apexx-global-announces-10-million-investment-finch-capital-accelerate-global-growth?page=101",
+      "company": "Egyptian fintech MoneyFellows",
+      "amount_str": "$31 m",
+      "pub_date": "2026-03-22T05:01:17Z",
+      "website": "https://panfinance.net",
+      "linkedin_url": "https://linkedin.com/company/panfinance",
       "founder_name": "",
       "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/startupik"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "L'Or\u00e9al eyes majority stake in Innovist to expand India business - Indian Retailer",
-      "article_url": "https://www.indianretailer.com/news/loreal-eyes-majority-stake-innovist-expand-india-business",
-      "company": "Neurotechnology startup Mave Health",
-      "amount_str": "$2.1 m",
-      "pub_date": "2026-03-21T18:55:29Z",
-      "website": "https://www.msn.com",
-      "linkedin_url": "",
-      "founder_name": "Stanford Angels",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Autoscience raises $14 million seed round to develop AI models with AI",
-      "article_url": "https://www.digitaltoday.co.kr/en/view/42151/autoscience-raises-14-million-seed-round-to-develop-ai-models-with-ai",
-      "company": "Autoscience",
-      "amount_str": "$14 m",
-      "pub_date": "2026-03-21T16:29:18Z",
-      "website": "https://www.autoscience.ai",
-      "linkedin_url": "https://linkedin.com/company/autoscienceai",
-      "founder_name": "founder and",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/AutoScienceAI"
+      "contact_email": "info@panfinance.net",
+      "twitter_url": "https://x.com/PanFinanceMag"
     },
     {
       "source": "Google Alerts",
