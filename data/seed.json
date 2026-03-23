@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-03-23T05:28:59.796853Z",
-  "count": 22,
-  "enriched_count": 19,
+  "generated_at": "2026-03-23T08:47:27.266126Z",
+  "count": 25,
+  "enriched_count": 22,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Rhonexum raises USD 1 million to advance cryogenic electronics for quantum computing",
+      "article_url": "https://ggba.swiss/en/rhonexum-raises-usd-1-million-to-advance-cryogenic-electronics-for-quantum-computing/",
+      "company": "Rhonexum",
+      "amount_str": "",
+      "pub_date": "2026-03-23T08:12:19Z",
+      "website": "https://www.rhonexum.com",
+      "linkedin_url": "https://linkedin.com/company/rhonexum",
+      "founder_name": "Vicente Carbon contributes",
+      "founder_linkedin_url": "",
+      "contact_email": "contact@rhonexum.com",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Neurotechnology startup Mave Health secures $2.1 Mn in seed funding round led by Blume Ventures",
+      "article_url": "https://thestartuptrends.com/Blog/7461/Neurotechnology-startup-Mave-Health-secures-2-1-Mn-in-seed-funding-round-led-by-Blume-Ventures.aspx",
+      "company": "Neurotechnology startup Mave Health",
+      "amount_str": "$2.1 M",
+      "pub_date": "2026-03-23T06:13:06Z",
+      "website": "https://entrackr.com",
+      "linkedin_url": "https://linkedin.com/company/entrackr",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/entrackr"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Indian Startup Funding Week \u2014 $228M March 2026",
+      "article_url": "https://startupsamadhan.com/indian-startup-funding-228-million-march-2026/",
+      "company": "Neo Group",
+      "amount_str": "$53.4 m",
+      "pub_date": "2026-03-23T05:40:32Z",
+      "website": "https://www.neogroup.com",
+      "linkedin_url": "https://linkedin.com/company/neogroup1",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Pet Care Startup Moe Puppy Secures Rs 2 Crore Funding to Expand Grooming and ...",

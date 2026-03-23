@@ -11994,5 +11994,70 @@
   },
   "https://healthexec.com/topics/healthcare-management/healthcare-economics/ftc-homes-healthcare": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/openssf-celebrates-new-members-no-cost-tooling-and-project-milestones-302720108.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/diamyd-medical-enters-into-equity-financing-agreements-with-new-us-sector-specialist-investors-for-up-to-usd-125-million-and-announces-full-enrollment-in-phase-3-trial-302721837.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/bellring-brands-inc-investigated-for-securities-fraud-violations---contact-the-djs-law-group-to-discuss-your-rights--brbr-302721774.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/european-technical-raises-the-bar-for-property-maintenance-services-across-dubai-302721834.html": {
+    "valid": false
+  },
+  "https://en.incarabia.com/uaeheadquartered-crescent-enterprises-coleads-usbased-xcath%E2%80%99s-us30-million-series-c-round-836641.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://entrackr.com/news/toy-manufacturing-startup-bidso-secures-rs-63-cr-in-series-a-led-by-blume-ventures-11254502": {
+    "valid": false
+  },
+  "https://ggba.swiss/en/rhonexum-raises-usd-1-million-to-advance-cryogenic-electronics-for-quantum-computing/": {
+    "valid": true,
+    "company": "Rhonexum",
+    "amount_str": "",
+    "website": "https://www.rhonexum.com",
+    "linkedin_url": "https://linkedin.com/company/rhonexum",
+    "founder_name": "Vicente Carbon contributes",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@rhonexum.com",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/03/globalcomix-raises-13m-in-funding.html": {
+    "valid": false
+  },
+  "https://thestartuptrends.com/Blog/7461/Neurotechnology-startup-Mave-Health-secures-2-1-Mn-in-seed-funding-round-led-by-Blume-Ventures.aspx": {
+    "valid": true,
+    "company": "Neurotechnology startup Mave Health",
+    "amount_str": "$2.1 M",
+    "website": "https://entrackr.com",
+    "linkedin_url": "https://linkedin.com/company/entrackr",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/entrackr"
+  },
+  "https://startupsamadhan.com/indian-startup-funding-228-million-march-2026/": {
+    "valid": true,
+    "company": "Neo Group",
+    "amount_str": "$53.4 m",
+    "website": "https://www.neogroup.com",
+    "linkedin_url": "https://linkedin.com/company/neogroup1",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://anff.org.au/news/sa-nano-receives-anff-c-pre-seed-funding/": {
+    "valid": false
   }
 }
