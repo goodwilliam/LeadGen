@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-23T01:18:13Z",
+  "generated_at": "2026-03-23T06:58:33Z",
   "count": 22,
   "jobs": [
     {
@@ -43,20 +43,6 @@
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/84ad3ef04aef30c103f98a1ef15865998e62738e.png",
       "companyLastActiveAt": null,
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D88812&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=30346"
-    },
-    {
-      "id": 83902,
-      "title": "Founding Product Designer OR Design Engineer",
-      "jobType": "fulltime",
-      "location": "New York, NY, US",
-      "roleType": "UI / UX",
-      "companyName": "Trata",
-      "companySlug": "trata",
-      "companyBatch": "W25",
-      "companyOneLiner": "AI-powered research desk for hedge funds",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/508cd0aa179903aea336ffc42458a82d33d548ac.png",
-      "companyLastActiveAt": null,
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D83902&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=30274"
     },
     {
       "id": 89621,
@@ -195,22 +181,8 @@
       "companyBatch": "S23",
       "companyOneLiner": "AI-Native CPQ & Billing for Modern Pricing Models",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/2e2a3ced5969028060bbaaf152193b5b6a2b3982.png",
-      "companyLastActiveAt": "11 days ago",
+      "companyLastActiveAt": "12 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D88819&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28844"
-    },
-    {
-      "id": 89229,
-      "title": "Motion Designer",
-      "jobType": "fulltime",
-      "location": "London, England, GB / New York, NY, US",
-      "roleType": "Animation",
-      "companyName": "Solve Intelligence",
-      "companySlug": "solve-intelligence",
-      "companyBatch": "S23",
-      "companyOneLiner": "AI patent drafting, prosecution, harvesting and more for legal teams.",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/cdb4c71ccbddd0ad292fc773c3cfb169d2a4a5ba.png",
-      "companyLastActiveAt": null,
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89229&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28825"
     },
     {
       "id": 77217,
@@ -225,6 +197,20 @@
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/cdb4c71ccbddd0ad292fc773c3cfb169d2a4a5ba.png",
       "companyLastActiveAt": "2 months ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D77217&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28825"
+    },
+    {
+      "id": 89229,
+      "title": "Motion Designer",
+      "jobType": "fulltime",
+      "location": "London, England, GB / New York, NY, US",
+      "roleType": "Animation",
+      "companyName": "Solve Intelligence",
+      "companySlug": "solve-intelligence",
+      "companyBatch": "S23",
+      "companyOneLiner": "AI patent drafting, prosecution, harvesting and more for legal teams.",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/cdb4c71ccbddd0ad292fc773c3cfb169d2a4a5ba.png",
+      "companyLastActiveAt": null,
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89229&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28825"
     },
     {
       "id": 88550,
@@ -265,22 +251,8 @@
       "companyBatch": "W23",
       "companyOneLiner": "Autonomous hospital operations",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/39b420a8e248116ad9ee8ad0c1e42d137c914f80.png",
-      "companyLastActiveAt": "17 days ago",
+      "companyLastActiveAt": "18 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D91163&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=27959"
-    },
-    {
-      "id": 71479,
-      "title": "Senior Product Designer",
-      "jobType": "fulltime",
-      "location": "New York, NY, US",
-      "roleType": "Product design",
-      "companyName": "Hadrius",
-      "companySlug": "hadrius",
-      "companyBatch": "W23",
-      "companyOneLiner": "Automating Securities Compliance",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/860789e4b5347ff0d9c534e39f80af9c01143ab3.png",
-      "companyLastActiveAt": "17 days ago",
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D71479&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=27943"
     },
     {
       "id": 91639,
@@ -297,6 +269,20 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D91639&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=27943"
     },
     {
+      "id": 71479,
+      "title": "Senior Product Designer",
+      "jobType": "fulltime",
+      "location": "New York, NY, US",
+      "roleType": "Product design",
+      "companyName": "Hadrius",
+      "companySlug": "hadrius",
+      "companyBatch": "W23",
+      "companyOneLiner": "Automating Securities Compliance",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/860789e4b5347ff0d9c534e39f80af9c01143ab3.png",
+      "companyLastActiveAt": "18 days ago",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D71479&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=27943"
+    },
+    {
       "id": 84438,
       "title": "Senior Product Designer",
       "jobType": "fulltime",
@@ -309,6 +295,20 @@
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/9ce9a2d0eb717408f7a56ad8fd6c76940b02a6a9.png",
       "companyLastActiveAt": "25 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D84438&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=27811"
+    },
+    {
+      "id": 56839,
+      "title": "UI/UX Lead",
+      "jobType": "fulltime",
+      "location": "Hyderabad, TG, IN",
+      "roleType": "UI / UX",
+      "companyName": "Landeed",
+      "companySlug": "landeed",
+      "companyBatch": "S22",
+      "companyOneLiner": "Landeed is India\u2019s digital infrastructure for property intelligence,\u2026",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/6ad200a24281fdd6a8a1c278067a5acc87ff1dab.png",
+      "companyLastActiveAt": "3 months ago",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D56839&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=27252"
     }
   ]
 }
