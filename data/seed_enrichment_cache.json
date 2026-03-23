@@ -12059,5 +12059,302 @@
   },
   "https://anff.org.au/news/sa-nano-receives-anff-c-pre-seed-funding/": {
     "valid": false
+  },
+  "https://news.crunchbase.com/startups/missed-state-federal-tax-credits-garba-burkland/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/23/interloom-raises-165m-to-develop-enterprise-memory-for-ai-agents/": {
+    "valid": true,
+    "company": "Interloom",
+    "amount_str": "$16.5M",
+    "website": "https://www.interloom.com",
+    "linkedin_url": "https://linkedin.com/company/interloom",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@interloom.com",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/23/french-defencetech-egide-raises-eur8m-seed-round-to-build-affordable-interceptor-systems-for-modern-warfare/": {
+    "valid": true,
+    "company": "EGIDE",
+    "amount_str": "\u20ac8M",
+    "website": "https://www.egide-group.com",
+    "linkedin_url": "https://linkedin.com/company/egide-group",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/egide-marga-7314783b7",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/23/newly-secures-2m-in-funding-to-advance-native-app-creation-platform/": {
+    "valid": true,
+    "company": "Newly",
+    "amount_str": "$2M",
+    "website": "https://newly-official.com",
+    "linkedin_url": "https://linkedin.com/company/newly-dev",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "company@brothworks.com",
+    "twitter_url": "https://x.com/newly______"
+  },
+  "https://tech.eu/2026/03/23/nathan-benaich-s-air-street-raises-232m-fund-iii-becoming-europe-s-largest-solo-gp-venture-firm/": {
+    "valid": true,
+    "company": "Nathan Benaich's Air Street",
+    "amount_str": "$232M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/23/european-tech-weekly-recap-more-than-55-tech-funding-deals-worth-over-eur504m/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/real-estate-investors-account-for-32-of-q4-2025-home-purchases-according-to-investor-pulse-report-from-batchdata-302721604.html": {
+    "valid": false
+  },
+  "http://www.uniindia.com/aippt-com-introduces-nano-banana-2-to-better-serve-growing-presentation-needs/prnewswire/news/3784200.html": {
+    "valid": false
+  },
+  "https://www.aninews.in/news/business/on-world-water-day-bhumi-pednekar-visits-community-pure-water-centre-in-rural-telangana-highlighting-indias-urgent-water-challenge20260323161202?amp=1": {
+    "valid": false
+  },
+  "https://www.aninews.in/news/business/taiwans-expertise-committed-to-supporting-digital-transformation-in-india-estella-chen20260323160115?amp=1": {
+    "valid": false
+  },
+  "https://aninews.in/news/business/taiwans-expertise-committed-to-supporting-digital-transformation-in-india-estella-chen20260323160115": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://d3lzcn6mbbadaf.cloudfront.net/static/css/bundle.css",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bez-kabli.pl/technology-news-23-03-2026/": {
+    "valid": false
+  },
+  "https://www.venturedailydigest.com/p/openai-to-nearly-double-workforce?utm_source=substack&utm_medium=email&utm_content=share&action=share": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://substackcdn.com",
+    "linkedin_url": "",
+    "founder_name": "of tech professionals",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.aninews.in/news/business/huntingcubeai-launches-ai-powered-recruitment-engine-targeting-the-global-hft-amp-quant-trading-talent-market20260323144111?amp=1": {
+    "valid": false
+  },
+  "https://globalindianalpha.com/gurugram-based-d2c-pet-care-startup-moe-puppy-raises-rs-2-crore-from-pedalstart-others/": {
+    "valid": false
+  },
+  "https://www.tribuneindia.com/news/business/huntingcube-ai-launches-ai-powered-recruitment-engine-targeting-the-global-hft-quant-trading-talent-market/amp": {
+    "valid": false
+  },
+  "https://www.tribuneindia.com/news/business/indias-pre-seed-ecosystem-enters-a-new-era-eximius-ventures-launches-2026-report-on-the-first-cheque-economy/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/qcraft-raises-100m-in-series-d-funding.html": {
+    "valid": false
+  },
+  "https://www.aninews.in/news/business/manoj-tripathis-crime-thriller-dabish-is-based-on-true-events-releasing-on-this-april20260323144911?amp=1": {
+    "valid": false
+  },
+  "https://www.tribuneindia.com/news/business/ltm-expands-blueverse-tech-with-appiq-agentiq-and-fusioniq-to-accelerate-ai-led-engineering/amp/?utm=relatedarticles": {
+    "valid": false
+  },
+  "https://www.aninews.in/news/business/ltm-expands-blueverse8482-tech-with-appiq-agentiq-and-fusioniq-to-accelerate-ai-led-engineering20260323144000?amp=1": {
+    "valid": false
+  },
+  "https://www.siliconindia.com/startup/startup-funding/halter-secures-funding-at-2-billion-led-by-founders-fund-nwid-53803.html": {
+    "valid": true,
+    "company": "Halter",
+    "amount_str": "$2 B",
+    "website": "https://www.halterhq.com",
+    "linkedin_url": "https://linkedin.com/company/halter-limited",
+    "founder_name": "Billion Led by",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://sg.finance.yahoo.com/news/mayson-raises-pre-seed-funding-085600773.html": {
+    "valid": true,
+    "company": "Mayson",
+    "amount_str": "",
+    "website": "https://mayson.com",
+    "linkedin_url": "https://linkedin.com/company/mayson-llc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/03/arc-raises-50m-in-series-c-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/laigo-bio-closes-e17m-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.indianretailer.com/news/funding-alert-workroom-automation-raises-rs-62-cr-seed-funding-led-equirus-innovatex": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DWOGkWQCc7y/": {
+    "valid": false
+  },
+  "https://iol.co.za/business-report/companies/2026-03-23-happy-pay-secures-5m-to-build-ad-subsidised-payments-network-for-sa-shoppers/": {
+    "valid": true,
+    "company": "Happy Pay",
+    "amount_str": "$5M",
+    "website": "https://happypay.co.za",
+    "linkedin_url": "https://linkedin.com/company/choosehappypay",
+    "founder_name": "Wesley Billett",
+    "founder_linkedin_url": "https://linkedin.com/in/wesley-billett-a6a3a1127",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ChooseHappyPay"
+  },
+  "https://fortune.com/2026/03/23/antithesis-janestreet-ethereum-will-wilson-foundationdb-software/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cxense.com/ari.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.sportsbusinessjournal.com/Articles/2026/03/23/nurivatech-launches-smartphone-training-app-with-8m-seed-advice-from-mlb-veterans-girardi-kipnis-calhoun/": {
+    "valid": true,
+    "company": "NurivaTech",
+    "amount_str": "$8M",
+    "website": "https://www.nurivatech.ai",
+    "linkedin_url": "https://linkedin.com/company/nurivatech",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@nurivatech.com",
+    "twitter_url": "https://x.com/NurivaTech"
+  },
+  "https://innovation-village.com/south-african-fintech-happy-pay-secures-5m-to-scale-interest-free-buy-now-pay-later/": {
+    "valid": true,
+    "company": "Happy Pay",
+    "amount_str": "$5M",
+    "website": "https://happypay.co.za",
+    "linkedin_url": "https://linkedin.com/company/choosehappypay",
+    "founder_name": "Update\n\nWindows OS",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ChooseHappyPay"
+  },
+  "https://www.inc.com/jennifer-conrad/low-abv-spirits-have-a-taste-problem-this-startup-says-they-have-the-science-to-solve-it/91315833": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Richard Schatzberger",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://carbonherald.com/sequestra-locks-in-over-3m-to-advance-carbon-mineralization/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theouut.com/sas-happy-pay-raises-5m-seed-round-to-scale-ad-subsidised-payments-network/": {
+    "valid": true,
+    "company": "SA's Happy Pay",
+    "amount_str": "$5M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Wesley Billett",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.devdiscourse.com/article/technology/3847259-maysons-ai-platform-secures-pre-seed-funding-to-transform-software-development": {
+    "valid": true,
+    "company": "Mayson's AI Platform",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/03/grub-lab-raises-6m-in-funding.html": {
+    "valid": false
+  },
+  "https://resiliencemedia.co/egide-lands-e8m-to-build-low-cost-interceptors-as-europe-races-to-counter-drone-swarms/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/eternal-ag-raises-eur-8m-in-funding.html": {
+    "valid": false
+  },
+  "https://www.bioxconomy.com/investment/crossbow-therapeutics-hits-the-target-with-77m-series-b-funding": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cookielaw.org",
+    "linkedin_url": "",
+    "founder_name": "founders vacate",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://launchbaseafrica.com/2026/03/23/moniepoints-ma-spree-moves-into-restaurant-tech/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://launchbaseafrica.gumroad.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bizcommunity.com/article/cape-town-startup-happypay-raises-r86m-to-expand-bnpl-service-955384a": {
+    "valid": false
+  },
+  "https://www.indianstartuptimes.com/investment/workroom-automation-raises-rs-6-2-crore-seed-round-to-scale-connected-factory-platform/": {
+    "valid": true,
+    "company": "Workroom Automation",
+    "amount_str": "",
+    "website": "https://onworkroom.com",
+    "linkedin_url": "https://linkedin.com/company/leapsquare-labs",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://aimgroup.com/2026/03/23/dim-ria-war-accelerates-remote-home-buying-in-ukraine/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
