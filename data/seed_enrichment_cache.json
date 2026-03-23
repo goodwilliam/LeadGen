@@ -11901,5 +11901,98 @@
   },
   "https://parsers.vc/startup/creem.io/": {
     "valid": false
+  },
+  "https://siliconangle.com/2026/03/23/navi-ai-debuts-flight-training-ai-platform-6-7m-funding/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/navan-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights---navn-302721761.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/cort-investors-have-opportunity-to-lead-corcept-therapeutics-incorporated-securities-fraud-lawsuit-with-the-schall-law-firm-302721707.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/snowflake-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--snow-302721692.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/snow-investors-have-opportunity-to-lead-snowflake-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302721686.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/odd-investors-have-opportunity-to-lead-oddity-tech-ltd-securities-fraud-lawsuit-with-the-schall-law-firm-302721702.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/nktr-investors-have-opportunity-to-lead-nektar-therapeutics-securities-fraud-lawsuit-with-the-schall-law-firm-302721680.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/oddity-tech-ltd-group-limited-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--odd-302721671.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/eose-investors-have-opportunity-to-lead-eos-energy-enterprises-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302721666.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/cigl-investors-have-opportunity-to-lead-concorde-international-group-ltd-securities-fraud-lawsuit-with-the-schall-law-firm-302721674.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/concorde-international-group-ltd-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--cigl-302721661.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/mndy-investors-have-opportunity-to-lead-mondaycom-ltd-securities-fraud-lawsuit-with-the-schall-law-firm-302721579.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/aixcrypto-acknowledges-conclusion-of-sec-investigation-with-no-enforcement-action-involving-majority-controlling-stockholder-faraday-future-and-reaffirms-strategic-focus-302721716.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/mondaycom-ltd-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--mndy-302721575.html": {
+    "valid": false
+  },
+  "https://impactalpha.com/sequestra-lands-e3-million-in-to-scale-industrial-carbon-removal/": {
+    "valid": false
+  },
+  "https://www.newsbytesapp.com/news/business/kluiszai-in-talks-to-raise-25-million-led-by-greenoaks/tldr": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.moneycontrol.com/news/business/startup/greenoaks-in-talks-to-invest-in-indian-ai-data-centre-startup-kluisz-s-25-million-round-13867542.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://sb.scorecardresearch.com/beacon.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/03/cleavr-raises-e1m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.reddit.com/r/microsaas/comments/1s14tez/at_the_preseed_stage_how_do_investors_evaluate/": {
+    "valid": false
+  },
+  "https://financialit.net/news/fundraising-news/apexx-global-announces-10-million-investment-finch-capital-accelerate-global-growth?page=83": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cutt.ly/Dmn3XBe",
+    "linkedin_url": "",
+    "founder_name": "Guillermo Rauch",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://carbon-pulse.com/495754/": {
+    "valid": false
+  },
+  "https://www.reddit.com/r/AngelInvesting/comments/1s14nui/at_the_preseed_stage_how_do_investors_evaluate/": {
+    "valid": false
+  },
+  "https://healthexec.com/topics/healthcare-management/healthcare-economics/ftc-homes-healthcare": {
+    "valid": false
   }
 }
