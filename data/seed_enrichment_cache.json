@@ -12653,5 +12653,188 @@
   },
   "https://www.thesaasnews.com/news/search-os-secures-seed-funding-round": {
     "valid": false
+  },
+  "https://venturebeat.com/technology/cursors-composer-2-was-secretly-built-on-a-chinese-ai-model-and-it-exposes-a": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/business/us-startup-funding-slows-march-2026-data/": {
+    "valid": false
+  },
+  "https://betakit.com/calgarys-new-cleantech-research-centre-gets-4-25-million-boost-from-federal-government/": {
+    "valid": false
+  },
+  "https://betakit.com/bkr-capital-secures-initial-20-million-for-second-black-innovation-fund/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/23/ai-infrastructure-must-evolve-agentic-computing-nvidiagtcai/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/nurse-capital-welcomes-healthcare-innovation-veteran-dan-weberg-phd-as-general-partner-302722462.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/zions-bancorporation-to-acquire-fannie-mae-and-freddie-mac-business-line-from-basis-investment-group-302722406.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/smart-sand-inc-to-participate-in-the-lytham-partners-2026-industrials--basic-materials-investor-summit-on-april-1-2026-302722399.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/ziegler-announces-nancy-hooks-as-catholic-elder-care-and-post-acute-specialist-302721795.html": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/expert-comment-jeff-bezos-in-early-talks-to-raise-100b-for-ai-automation-fund/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/cloudberry-ventures-raises-e50m-to-back-ai-compute-and-infrastructure-startups-from-seed-to-series-a/": {
+    "valid": false
+  },
+  "https://www.law360.com/articles/2456147/legal-billing-ai-pointone-raises-16m-series-a": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/bounti-raises-4-million-in-seed-round": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/paraform-raises-40-million-in-series-b": {
+    "valid": false
+  },
+  "https://www.startlandnews.com/2026/03/dscribe-ai-rebulk/": {
+    "valid": false
+  },
+  "https://www.pymnts.com/artificial-intelligence-2/2026/obin-builds-ai-for-precision-in-financial-operations/": {
+    "valid": true,
+    "company": "Obin AI",
+    "amount_str": "$7 m",
+    "website": "https://www.obin.ai",
+    "linkedin_url": "https://linkedin.com/company/obin-ai",
+    "founder_name": "CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@obin.ai",
+    "twitter_url": ""
+  },
+  "https://techbuild.africa/happy-pay-bnpl-with-5m-seed-round/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://lifestyleandtech.co.za/company-news/article/2026-03-23/cape-town-startup-happy-pay-raises-5m-seed-round-to-scale-the-first-ad-subsidised-payments-network-to-deliver-cost-free-buy-now-pay-later-payments-for-sa-consumers": {
+    "valid": true,
+    "company": "Cape Town startup Happy Pay",
+    "amount_str": "$5M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupresearcher.com/news/french-defencetech-egide-raises-usd9-2-million-to-counter-drone-threats": {
+    "valid": false
+  },
+  "https://techfundingnews.com/uks-dash0-becomes-a-unicorn-after-balderton-led-110m-round-counts-zalando-and-taco-bell-as-customers/": {
+    "valid": false
+  },
+  "https://www.siliconindia.com/startup/startup-funding/workroom-automation-raises-seed-round-led-by-equirus-innovatex-nwid-53825.html": {
+    "valid": true,
+    "company": "Workroom Automation",
+    "amount_str": "",
+    "website": "https://onworkroom.com",
+    "linkedin_url": "https://linkedin.com/company/leapsquare-labs",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://technotrenz.com/news/stewards-5m-raise/": {
+    "valid": true,
+    "company": "Steward's $5M",
+    "amount_str": "$5M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "of Lemonade and Fiverr",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.reddit.com/r/startups/comments/1s1m1vr/uk_startups_at_pre_seedseed_what_level_of/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/egide-raises-e8m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/hamilton-ai-raises-7-5m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.cam.ac.uk/business-and-enterprise/news/cambridge-enterprise-driving-spinout-success": {
+    "valid": false
+  },
+  "https://entarabi.com/en/2026/03/pvp-completes-third-closing-of-pvpif-backed-by-new-investors/": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DWOXZFulOFG/": {
+    "valid": true,
+    "company": "Mayson",
+    "amount_str": "",
+    "website": "https://mayson.com",
+    "linkedin_url": "https://linkedin.com/company/mdstrategicconsulting",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.axios.com/pro/all-deals/2026/03/23/pro-rata-premium-first-look": {
+    "valid": false
+  },
+  "https://www.mobihealthnews.com/news/flourish-care-raises-57m-expand-doula-focused-care-platform": {
+    "valid": true,
+    "company": "Flourish Care",
+    "amount_str": "$5.7M",
+    "website": "https://flourishcommunitycare.com",
+    "linkedin_url": "https://linkedin.com/company/flourish-collective-incorporated",
+    "founder_name": "Melissa Bowley",
+    "founder_linkedin_url": "https://linkedin.com/in/melissa-bowley-2b41b55",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.capitalbrief.com/briefing/silicon-quantum-computing-secures-20m-investment-from-nrf-3874cac4-d5d3-452f-b5af-3699878119f2/": {
+    "valid": true,
+    "company": "Silicon Quantum Computing",
+    "amount_str": "$20m",
+    "website": "https://www.sqc.com.au",
+    "linkedin_url": "https://linkedin.com/company/silicon-quantum-computing-pty-ltd",
+    "founder_name": "David Gall said",
+    "founder_linkedin_url": "",
+    "contact_email": "info@sqc.com.au",
+    "twitter_url": ""
+  },
+  "https://www.startupmag.co.uk/funding/mysalescoach-2026-seed-funding/": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/03/23/apis-partners-portfolio-realisations-surpass-us1-billion/": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/03/british-healthtech-jaaq-closes-e15-million-series-a-to-grow-enterprise-partnerships/": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/03/23/german-startup-interloom-lands-e14-2-million-seed-funding-for-ai-agent-knowledge-infrastructure/": {
+    "valid": false
+  },
+  "https://kokomolantern.substack.com/p/kokomo-little-links-ready-for-summer": {
+    "valid": false
   }
 }
