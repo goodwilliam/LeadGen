@@ -13177,5 +13177,92 @@
   },
   "https://bebeez.eu/2026/03/23/metanet-to-migrate-client-data-to-green-operated-data-centers-in-zurich-switzerland/": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/03/23/delve-halts-demos-insight-partners-scrubs-investment-post-amid-fake-compliance-allegations/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/24/agents-for-finance-startup-zalos-raises-3-6m-to-transform-finance-departments/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/24/foreverland-lands-eur6m-to-tackle-cocoa-supply-with-alternatives/": {
+    "valid": true,
+    "company": "Foreverland",
+    "amount_str": "\u20ac6M",
+    "website": "https://foreverland.com",
+    "linkedin_url": "https://linkedin.com/company/theforeverland",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/nagarro-announces-preliminary-numbers-for-fy-2025-guidance-for-fy-2026-and-conclusion-of-independent-investigation-302723084.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/jre-jeunes-restaurateurs-and-united-waterways-partner-to-elevate-culinary-river-experiences-302720111.html": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/workroom-automation-raises-6-2-crore-seed-round": {
+    "valid": false
+  },
+  "https://www.moneycontrol.com/news/business/funding/quick-food-delivery-startup-swish-raises-38-million-led-by-hara-global-bain-capital-ventures-13868873.html/amp": {
+    "valid": true,
+    "company": "Quick food delivery startup Swish",
+    "amount_str": "$38 m",
+    "website": "https://startuparticle.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://yourstory.com/2026/03/rtp-global-leads-62-mn-bet-on-baby-focused-quick-commerce-startup-ozi": {
+    "valid": true,
+    "company": "Quick commerce startup OZi",
+    "amount_str": "$6.2 m",
+    "website": "https://brandzmagazine.com",
+    "linkedin_url": "https://linkedin.com/company/brandzmagazine",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.forbes.com.au/news/entrepreneurs/australian-ai-startup-heidi-health-launches-its-first-hardware-device/": {
+    "valid": true,
+    "company": "Heidi Health",
+    "amount_str": "",
+    "website": "https://www.heidihealth.com",
+    "linkedin_url": "https://linkedin.com/company/heidi",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@heidihealth.com",
+    "twitter_url": "https://x.com/tryheidi"
+  },
+  "https://www.thesaasnews.com/news/novaworks-raises-8-million-seed-round": {
+    "valid": false
+  },
+  "https://www.theglobeandmail.com/investing/markets/markets-news/Newsfile/911577/foryou-announces-official-launch-and-reports-momentum-toward-seven-figure-seed-round/": {
+    "valid": true,
+    "company": "ForYou",
+    "amount_str": "",
+    "website": "https://takeforyou.com",
+    "linkedin_url": "https://linkedin.com/company/takeforyou",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.electronicsforyou.biz/industry-buzz/factory-intelligence-startup-workroom-automation-raises-%E2%82%B962-million/": {
+    "valid": false
+  },
+  "https://www.fairfield.edu/news/2026/march/record-applicant-pool-21-percent-admit-rate.html": {
+    "valid": false
   }
 }
