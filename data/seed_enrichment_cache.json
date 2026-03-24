@@ -13086,5 +13086,96 @@
   },
   "https://www.linkedin.com/posts/fairfielddolan_students-to-compete-for-50k-in-seed-funding-activity-7441886500226547712-m7CM": {
     "valid": false
+  },
+  "https://venturebeat.com/orchestration/what-is-deerflow-and-what-should-enterprises-know-about-this-new-local-ai": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/23/multi-chip-inference-cloud-startup-gimlet-labs-receives-80m-solve-one-ais-biggest-bottlenecks/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-immutep-ltd-investors-to-inquire-about-securities-class-action-investigation--immp-302722735.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/fanuc-america-announces-90-million-investment-to-create-production-ready-capacity-for-robot-manufacturing-in-the-us-302722608.html": {
+    "valid": true,
+    "company": "FANUC America",
+    "amount_str": "$90 M",
+    "website": "https://www.fanucamerica.com",
+    "linkedin_url": "https://linkedin.com/company/fanuc-america-corporation",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/michael-cicco-a8265914",
+    "contact_email": "",
+    "twitter_url": "https://x.com/fanucamerica"
+  },
+  "https://www.prnewswire.com/news-releases/robbins-llp-urges-bsx-stockholders-who-lost-money-investing-in-boston-scientific-corporation-to-contact-the-firm-for-information-about-leading-the-class-action-302722574.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/robbins-llp-urges-aqst-stockholders-who-lost-money-investing-in-aquestive-therapeutics-inc-to-contact-the-firm-for-information-about-leading-the-class-action-302722573.html": {
+    "valid": false
+  },
+  "https://www.accion.org/news/backchannel-raises-4-75-million-in-seed-round-to-reduce-textile-waste-in-brazil/": {
+    "valid": true,
+    "company": "BackChannel",
+    "amount_str": "$4.75 m",
+    "website": "https://www.scam-detector.com",
+    "linkedin_url": "https://linkedin.com/company/backchannel",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/eu-startups-menlo-media_german-startup-interloom-lands-142-million-activity-7441831594115387392-9s_n": {
+    "valid": false
+  },
+  "https://inforcapital.com/news/pace-club-raises-eur5-million-in-pre-seed-to-redefine-urban-fitness-with-boutique-performance-gyms/": {
+    "valid": true,
+    "company": "Pace Club",
+    "amount_str": "\u20ac5M",
+    "website": "https://www.pace-club.com",
+    "linkedin_url": "https://linkedin.com/company/paceclub",
+    "founder_name": "with significant contributions from",
+    "founder_linkedin_url": "",
+    "contact_email": "info@pace-club.com",
+    "twitter_url": ""
+  },
+  "https://bebeez.eu/2026/03/23/london-based-huel-joins-danone-in-a-billion-deal-to-scale-plant-based-nutrition-globally/": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/mayson-secures-pre-seed-funding": {
+    "valid": false
+  },
+  "https://pressreleasehub.pa.media/article/geordie-ai-named-most-innovative-startup-at-rsac-2026-innovation-sandbox-69322.html": {
+    "valid": false
+  },
+  "https://techstartups.com/2026/03/23/top-startup-and-tech-funding-news-march-23-2025/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://humansand.ai",
+    "linkedin_url": "",
+    "founder_name": "led by",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/humansand"
+  },
+  "https://www.techinasia.com/news/indian-food-delivery-startup-swish-secures-38m-series-b": {
+    "valid": false
+  },
+  "https://www.techinasia.com/news/indian-food-delivery-startup-swish-secures-38m-series-b/amp/": {
+    "valid": false
+  },
+  "https://zyner.io/blog/startup-funding-options": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://framer.com/edit/init.mjs",
+    "linkedin_url": "",
+    "founder_name": "better fit than",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bebeez.eu/2026/03/23/metanet-to-migrate-client-data-to-green-operated-data-centers-in-zurich-switzerland/": {
+    "valid": false
   }
 }

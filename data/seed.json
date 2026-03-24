@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-03-24T01:22:45.111513Z",
-  "count": 27,
-  "enriched_count": 21,
+  "generated_at": "2026-03-24T05:22:12.243407Z",
+  "count": 28,
+  "enriched_count": 22,
   "articles": [
+    {
+      "source": "PR Newswire",
+      "title": "FANUC America Announces $90 Million Investment to Create Production-Ready Capacity for Robot Manufacturing in the U.S.",
+      "article_url": "https://www.prnewswire.com/news-releases/fanuc-america-announces-90-million-investment-to-create-production-ready-capacity-for-robot-manufacturing-in-the-us-302722608.html",
+      "company": "FANUC America",
+      "amount_str": "$90 M",
+      "pub_date": "2026-03-24T04:01:00Z",
+      "website": "https://www.fanucamerica.com",
+      "linkedin_url": "https://linkedin.com/company/fanuc-america-corporation",
+      "founder_name": "",
+      "founder_linkedin_url": "https://linkedin.com/in/michael-cicco-a8265914",
+      "contact_email": "",
+      "twitter_url": "https://x.com/fanucamerica"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Sam Kroonenburg's Cuttable raises $5.7 million , opens in New York - Startup Daily",
+      "article_url": "https://www.startupdaily.net/topic/funding/sam-kroonenburgs-cuttable-raises-5-7-million-opens-in-new-york/",
+      "company": "Sam Kroonenburg's Cuttable",
+      "amount_str": "$5.7 m",
+      "pub_date": "2026-03-23T23:58:49Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "Sam Kroonenburg previous startup",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "SiliconAngle",
       "title": "Chip interconnect startup Kandou AI raises $225M in funding",
@@ -19,6 +47,20 @@
     },
     {
       "source": "Google Alerts",
+      "title": "Pace Club Raises \u20ac5M for Boutique Gym Expansion - InforCapital",
+      "article_url": "https://inforcapital.com/news/pace-club-raises-eur5-million-in-pre-seed-to-redefine-urban-fitness-with-boutique-performance-gyms/",
+      "company": "Pace Club",
+      "amount_str": "\u20ac5M",
+      "pub_date": "2026-03-23T22:25:20Z",
+      "website": "https://www.pace-club.com",
+      "linkedin_url": "https://linkedin.com/company/paceclub",
+      "founder_name": "with significant contributions from",
+      "founder_linkedin_url": "",
+      "contact_email": "info@pace-club.com",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
       "title": "Support Fusion raises AUD $1 million, expands to US &amp; UK - SecurityBrief New Zealand",
       "article_url": "https://securitybrief.co.nz/story/support-fusion-raises-aud-1-million-expands-to-us-uk",
       "company": "Support Fusion",
@@ -27,6 +69,20 @@
       "website": "https://suppfusion.com",
       "linkedin_url": "https://linkedin.com/company/support-fusion",
       "founder_name": "founder and",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "BackChannel raises $4.75 million in seed round to reduce textile waste in Brazil - Accion.org",
+      "article_url": "https://www.accion.org/news/backchannel-raises-4-75-million-in-seed-round-to-reduce-textile-waste-in-brazil/",
+      "company": "BackChannel",
+      "amount_str": "$4.75 m",
+      "pub_date": "2026-03-23T20:36:05Z",
+      "website": "https://www.scam-detector.com",
+      "linkedin_url": "https://linkedin.com/company/backchannel",
+      "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
@@ -75,20 +131,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Flourish Care raises $5.7M to expand doula-focused care platform | MobiHealthNews",
-      "article_url": "https://www.mobihealthnews.com/news/flourish-care-raises-57m-expand-doula-focused-care-platform",
-      "company": "Flourish Care",
-      "amount_str": "$5.7M",
-      "pub_date": "2026-03-23T18:30:42Z",
-      "website": "https://flourishcommunitycare.com",
-      "linkedin_url": "https://linkedin.com/company/flourish-collective-incorporated",
-      "founder_name": "Melissa Bowley",
-      "founder_linkedin_url": "https://linkedin.com/in/melissa-bowley-2b41b55",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "Obin Builds AI for Precision in Financial Operations | PYMNTS.com",
       "article_url": "https://www.pymnts.com/artificial-intelligence-2/2026/obin-builds-ai-for-precision-in-financial-operations/",
       "company": "Obin AI",
@@ -99,20 +141,6 @@
       "founder_name": "CEO and",
       "founder_linkedin_url": "",
       "contact_email": "contact@obin.ai",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Silicon Quantum Computing secures $20m investment from NRF - Capital Brief",
-      "article_url": "https://www.capitalbrief.com/briefing/silicon-quantum-computing-secures-20m-investment-from-nrf-3874cac4-d5d3-452f-b5af-3699878119f2/",
-      "company": "Silicon Quantum Computing",
-      "amount_str": "$20m",
-      "pub_date": "2026-03-23T18:08:11Z",
-      "website": "https://www.sqc.com.au",
-      "linkedin_url": "https://linkedin.com/company/silicon-quantum-computing-pty-ltd",
-      "founder_name": "David Gall said",
-      "founder_linkedin_url": "",
-      "contact_email": "info@sqc.com.au",
       "twitter_url": ""
     },
     {
@@ -212,20 +240,6 @@
       "founder_linkedin_url": "",
       "contact_email": "newsletter-signup-background_1440@2x.avif",
       "twitter_url": "https://x.com/PBS"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Cape Town startup Happy Pay raises $5M seed round to scale the first ad-subsidised ...",
-      "article_url": "https://lifestyleandtech.co.za/company-news/article/2026-03-23/cape-town-startup-happy-pay-raises-5m-seed-round-to-scale-the-first-ad-subsidised-payments-network-to-deliver-cost-free-buy-now-pay-later-payments-for-sa-consumers",
-      "company": "Cape Town startup Happy Pay",
-      "amount_str": "$5M",
-      "pub_date": "2026-03-23T14:18:06Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "Google Alerts",
