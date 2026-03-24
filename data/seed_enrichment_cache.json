@@ -13992,5 +13992,220 @@
   },
   "https://www.startupresearcher.com/news/finfinity-secures-usd2-4-million-in-seed-funding": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/03/24/bkr-capital-raises-14-5m-so-far-to-invest-in-black-founders/": {
+    "valid": true,
+    "company": "BKR Capital",
+    "amount_str": "$14.5M",
+    "website": "https://www.bkrcapital.ca",
+    "linkedin_url": "https://linkedin.com/company/bkr-capital",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@bkrcapital.ca",
+    "twitter_url": "https://x.com/BKRCapital"
+  },
+  "https://techcrunch.com/2026/03/24/crunchyroll-confirms-data-breach-after-hacker-claims-unauthorized-access/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/24/doss-raises-55m-for-ai-inventory-management-that-plugs-into-erp/": {
+    "valid": true,
+    "company": "Doss",
+    "amount_str": "$55M",
+    "website": "https://www.dossaudio.com",
+    "linkedin_url": "https://linkedin.com/company/doss-com",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "example@yourdomain.com",
+    "twitter_url": ""
+  },
+  "https://venturebeat.com/technology/anthropics-claude-can-now-control-your-mac-escalating-the-fight-to-build-ai": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/fmc-corporation-announces-date-for-first-quarter-2026-earnings-release-and-webcast-conference-call-302723507.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/new-report-finds-outdated-government-systems-are-blocking-gap-closing-startups-from-solving-public-problems-at-scale-302723968.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/smci-investigation-alert-investigation-launched-into-super-micro-computer-inc-attorneys-encourage-investors-and-potential-witnesses-to-contact-law-firm-302723831.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/eog-resources-schedules-conference-call-and-webcast-of-first-quarter-2026-results-for-may-6-2026-302723842.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/associated-banc-corp-to-announce-first-quarter-2026-earnings-and-hold-conference-call-on-april-23-2026-302723938.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-deadline-gartner-inc-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit-302723822.html": {
+    "valid": false
+  },
+  "https://techfundingnews.com/foreverland%E2%80%91italian%E2%80%91chocolate%E2%80%91without%E2%80%91cocoa%E2%80%91startup%E2%80%91raises%E2%80%916m/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/03/24/deeptune-raises-43m-to-build-virtual-training-environments-for-ai-agents/": {
+    "valid": true,
+    "company": "Deeptune",
+    "amount_str": "$43 m",
+    "website": "https://deeptune.com",
+    "linkedin_url": "https://linkedin.com/company/trydeeptune",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "tim@deeptune.ai",
+    "twitter_url": ""
+  },
+  "https://www.axios.com/pro/all-deals/2026/03/24/pro-rata-premium-first-look": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://heatmap.news/carbon-removal/ctrl-s-direct-air-capture": {
+    "valid": false
+  },
+  "https://getlatka.com/blog/how-sastrify-grew-to-140k-monthly-revenue-with-strategic-saas-management/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/03/24/fanuc-america-plans-90m-for-future-robotics-expansion-in-the-us/": {
+    "valid": false
+  },
+  "https://www.unmannedairspace.info/counter-uas-systems-and-policies/french-start-up-egide-raises-eur8-million-to-develop-ai-driven-low-cost-interceptrs/": {
+    "valid": true,
+    "company": "French start-up Egide",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.tipranks.com/news/private-companies/onit-security-raises-11-million-to-automate-exposure-remediation-at-scale": {
+    "valid": false
+  },
+  "https://www.tipranks.com/news/private-companies/littlebird-secures-11-million-seed-to-launch-context-aware-ai-assistant-for-mac": {
+    "valid": true,
+    "company": "Littlebird",
+    "amount_str": "$11 M",
+    "website": "https://www.golittlebird.com",
+    "linkedin_url": "https://linkedin.com/company/golittlebird",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/akshatgoel1",
+    "contact_email": "info@golittlebird.com",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/pavel-livshiz-68b3183a_cyber-startup-onit-raises-11-million-seed-activity-7442214211272863744-dKYN": {
+    "valid": true,
+    "company": "Cyber startup Onit",
+    "amount_str": "$11 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupbeat.com/immunebridge-raises-7-7-million-to-turn-its-cell-therapy-manufacturing-edge-into-into-an-industry-platform/39023/": {
+    "valid": true,
+    "company": "ImmuneBridge",
+    "amount_str": "$7.7 m",
+    "website": "https://immunebridge.com",
+    "linkedin_url": "https://linkedin.com/company/immunebridge",
+    "founder_name": "and was named",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@immunebridge.com",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/ctech-by-calcalist_cyber-startup-onit-raises-11-million-seed-activity-7442208849488408576-o5Tw": {
+    "valid": true,
+    "company": "Cyber startup Onit",
+    "amount_str": "$11 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/avtal-raises-24-million-in-funding": {
+    "valid": false
+  },
+  "https://innovation-village.com/are-tech-solutions-fixing-mobility-in-african-cities-or-just-masking-the-problem/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/elevenlabs-uipath-backer-credo-ventures-closes-88m-fund-to-back-cee-pre-seeds/": {
+    "valid": true,
+    "company": "ElevenLabs, UiPath backer Credo Ventures",
+    "amount_str": "$88M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/defence-ai-govtech/": {
+    "valid": false
+  },
+  "https://www.indianretailer.com/news/funding-alert-rn-kids-raises-rs-71-cr-pre-seed-funding-build-pediatric-wellness-brand": {
+    "valid": false
+  },
+  "https://www.reddit.com/r/startups/comments/1s2liqa/a_1_billion_seed_round_means_the_foundational_ai/": {
+    "valid": false
+  },
+  "https://www.ibj.com/articles/newly-formed-hotel-company-planning-motorsports-themed-hotels-in-central-indiana": {
+    "valid": false
+  },
+  "https://www.rdworldonline.com/a-new-approach-to-cytosolic-delivery-aims-to-solve-the-endosomal-entrapment-problem-that-has-long-plagued-large-molecule-therapeutics/": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/03/norways-lace-lithography-lands-e34-5-million-to-extend-moores-law-by-replacing-light-with-atoms/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/03/24/above-security-announces-50m-in-funding-to-solve-insider-risk-in-the-agentic-era/": {
+    "valid": true,
+    "company": "Above Security",
+    "amount_str": "$50M",
+    "website": "http://www.above.security",
+    "linkedin_url": "https://linkedin.com/company/abovesec",
+    "founder_name": "and CEO",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupmag.co.uk/funding/numonic-2026-pre-seed-funding/": {
+    "valid": false
+  },
+  "https://www.startupmag.co.uk/funding/stateful-robotics-2026-pre-seed-funding/": {
+    "valid": false
+  },
+  "https://www.ipoplatform.com/Funding-news/rn-kids-raises-rs-710-cr-in-pre-seed-funding-round": {
+    "valid": false
+  },
+  "https://letsdatascience.com/news/onit-security-raises-11-million-to-automate-fixes-2601330c": {
+    "valid": false
+  },
+  "https://www.startupbusiness.it/en/mamazens-ih1-appoints-daniela-castegnaro-as-head-of-venture-capital-and-ma/159113/": {
+    "valid": false
   }
 }
