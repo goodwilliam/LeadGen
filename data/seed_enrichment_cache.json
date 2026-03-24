@@ -13264,5 +13264,261 @@
   },
   "https://www.fairfield.edu/news/2026/march/record-applicant-pool-21-percent-admit-rate.html": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/03/23/insight-partners-scrubs-investment-post-amid-fake-compliance-allegations/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/24/climatetech-platform-zevero-raises-7m-amid-growing-global-demand-for-carbon-data/": {
+    "valid": true,
+    "company": "Climatetech platform Zevero",
+    "amount_str": "$7M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/24/team-scaleup-launches-to-close-europes-post-seed-funding-gap/": {
+    "valid": true,
+    "company": "Team Scaleup",
+    "amount_str": "",
+    "website": "https://scaleupinc.com",
+    "linkedin_url": "https://linkedin.com/company/team-scaleup",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "mbuelvas@scaleupinc.com",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/24/why-top-banking-executives-are-choosing-startups-and-what-it-takes-to-get-them-there/": {
+    "valid": false
+  },
+  "https://betakit.com/spark-microsystems-secures-additional-17-million-in-series-b-funding/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/24/zalos-raises-3-6m-develop-erp-computer-agents-operate-finance-systems-like-humans/": {
+    "valid": true,
+    "company": "Zalos",
+    "amount_str": "$3.6M",
+    "website": "https://www.zalos.ai",
+    "linkedin_url": "https://linkedin.com/company/zalos",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/new-health-it-purchasing-forecast-report-from-sage-growth-partners-reveals-c-suites-health-it-investment-plans-for-2026-2027-302722412.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/kaplan-north-america-data-breach-alert-issued-by-wolf-haldenstein-302722936.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/boxwood-partners-advises-franchise-creator-a-portfolio-company-of-liftout-capital-on-its-sale-to-franchise-fastlane-a-portfolio-company-of-southfield-capital-302722717.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/shareholders-who-lost-money-in-shares-of-corcept-therapeutics-nasdaq-cort-should-contact-wolf-haldenstein--immediately-302722927.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/zillow-group-to-highlight-ai-native-housing-platform-strategy-at-ai-summit-for-investors-302722922.html": {
+    "valid": false
+  },
+  "https://techfundingnews.com/oxford-spinout-stateful-robotics-lands-4-8m-to-build-robots-that-learn-remember-and-adapt/": {
+    "valid": false
+  },
+  "https://businessday.ng/technology/article/littlefish-secures-9-5m-series-a-to-scale-merchant-infrastructure-for-african-banks/": {
+    "valid": true,
+    "company": "Littlefish",
+    "amount_str": "$9.5 m",
+    "website": "https://littlefish.com",
+    "linkedin_url": "https://linkedin.com/company/littlefishapp",
+    "founder_name": "said Brandon Roberts",
+    "founder_linkedin_url": "",
+    "contact_email": "partners@littlefish.com",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/doctronic-raises-40-million-series-b": {
+    "valid": false
+  },
+  "https://www.wamda.com/2026/03/people-data-summit-maps-egypt-ai-roadmap-startups-investors": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/boston/news/2026/03/24/mit-spinout-growthfactor-secures-52m-seed-round.html": {
+    "valid": true,
+    "company": "MIT spinout GrowthFactor",
+    "amount_str": "$5.2M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thenextweb.com/news/dash0-110m-series-b-observability-unicorn": {
+    "valid": false
+  },
+  "https://yourstory.com/2026/03/startup-news-and-updates-daily-roundup-march-24-2026": {
+    "valid": false
+  },
+  "https://www.bwdisrupt.com/article/quick-commerce-platform-ozi-raises-6-2-mn-series-a-led-by-rtp-global-existing-investors-598992": {
+    "valid": true,
+    "company": "Quick Commerce Platform OZi",
+    "amount_str": "$6.2 M",
+    "website": "https://inc42.com",
+    "linkedin_url": "https://linkedin.com/company/inc42",
+    "founder_name": "and CEO",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Inc42"
+  },
+  "https://www.bwdisrupt.com/article/deeptech-startup-pranos-fusion-raises-6-8-mn-in-funding-round-co-led-by-pi-ventures-ankur-capital-report-598999": {
+    "valid": true,
+    "company": "Pranos Fusion",
+    "amount_str": "$6.8 M",
+    "website": "https://www.pranosfusion.energy",
+    "linkedin_url": "https://linkedin.com/company/pranos-fusion",
+    "founder_name": "including Groww",
+    "founder_linkedin_url": "",
+    "contact_email": "info@pranosfusion.energy",
+    "twitter_url": ""
+  },
+  "https://www.bwdisrupt.com/article/bengaluru-based-food-delivery-startup-swish-secures-38-mn-in-series-b-round-598990": {
+    "valid": true,
+    "company": "Bengaluru-based Food Delivery Startup Swish",
+    "amount_str": "$38 M",
+    "website": "https://economictimes.indiatimes.com",
+    "linkedin_url": "https://linkedin.com/company/economictimes",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/economictimes"
+  },
+  "https://m.economictimes.com/tech/artificial-intelligence/early-investors-fight-to-stay-competitive/amp_articleshow/129758898.cms": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.ampproject.org",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techflowpost.com/en-US/newsletter/117801": {
+    "valid": false
+  },
+  "https://fortune.com/2026/03/24/the-rise-and-uncertain-future-of-29-billion-ai-coding-startup-cursor/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cxense.com/ari.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.streetinsider.com/Globe+Newswire/Focal+Named+to+Fast+Companys+List+of+the+Worlds+Most+Innovative+Companies+of+2026/26206397.html": {
+    "valid": false
+  },
+  "https://amp.kr-asia.com/deals-in-brief-qcraft-raises-series-d-funding-grab-acquires-foodpandas-taiwan-delivery-business-seven-china-investments-and-more": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/chintanzalani_52-early-stage-ai-startups-raised-329m-in-activity-7441945571432501248-Jh5Y": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://sea.peoplemattersglobal.com/news/funding-and-investment/hirequotient-raises-dollar18-million-to-automate-hiring-interviews-48925": {
+    "valid": false
+  },
+  "https://www.aninews.in/news/business/agentic-ai-may-disrupt-some-software-firms-but-also-create-opportunities-investors-need-to-be-selective-goldman-sachs20260324110154/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://d3lzcn6mbbadaf.cloudfront.net/static/css/bundle.css",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://m.thewire.in/article/ptiprnews/mayson-raises-pre-seed-funding-for-its-full-stack-vibe-coding-platform": {
+    "valid": true,
+    "company": "Mayson",
+    "amount_str": "",
+    "website": "https://mayson.store",
+    "linkedin_url": "https://linkedin.com/company/mayson-llc",
+    "founder_name": "said Akshay Srivastava",
+    "founder_linkedin_url": "",
+    "contact_email": "support@mayson.store",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/support-fusion_weve-closed-a-1m-pre-seed-funding-round-activity-7441972443193221120-8WZX": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Steve Rudakov",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://entarabi.com/en/2026/03/us-based-xcath-raises-30-million-in-series-c-to-advance-neuro-endovascular-surgical-robotics/": {
+    "valid": true,
+    "company": "XCath",
+    "amount_str": "$30 m",
+    "website": "https://xcath.com",
+    "linkedin_url": "https://linkedin.com/company/xcath",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@xcath.com",
+    "twitter_url": ""
+  },
+  "https://mlq.ai/news/delve-pauses-product-demos-as-insight-partners-deletes-investment-endorsement-over-compliance-fraud-claims/": {
+    "valid": true,
+    "company": "Y Combinator-backed startup",
+    "amount_str": "$3.3 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Its Turkish",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://incubees.com/uae-blockchain-startup-utexo-raises-7-5-m-seed-funding-from-tether/": {
+    "valid": false
+  },
+  "https://www.webdisclosure.com/article/mig-capital-ag-epa-mig-capital-overcomes-market-challenges-in-2025-5orJAQaUXN7": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://rsms.me",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://kr-asia.com/deals-in-brief-qcraft-raises-series-d-funding-grab-acquires-foodpandas-taiwan-delivery-business-seven-china-investments-and-more": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/03/24/italys-angels-incubators-and-venture-capital-weekly-roundup-news-from-ciaodott-the-techshop-vento-club-degli-investitori-growth-engine-alpha-venture-and-more/": {
+    "valid": false
+  },
+  "https://inc42.com/features/boxed-in-the-war-shock-for-d2c/": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/03/italys-foreverland-unwraps-e6-million-to-sweeten-the-european-expansion-of-its-cocoa-free-chocolate-alternative/": {
+    "valid": false
+  },
+  "https://medial.app/news/workroom-automation-raises-seed-funding-led-by-equirus-innovatex-fund-6b6714ca8b7b3": {
+    "valid": false
   }
 }
