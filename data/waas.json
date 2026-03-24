@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T18:43:08Z",
-  "count": 22,
+  "generated_at": "2026-03-24T01:11:26Z",
+  "count": 23,
   "jobs": [
     {
       "id": 92095,
@@ -223,7 +223,7 @@
       "companyBatch": "S23",
       "companyOneLiner": "The fastest way to build AI assistants on technical content",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/274c05ef6658ba8b2d341c95ee4d90f16444919c.png",
-      "companyLastActiveAt": "17 days ago",
+      "companyLastActiveAt": "18 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D88550&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28663"
     },
     {
@@ -239,6 +239,48 @@
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/973d2f0c6c4d07505113e974a08d18864eb95d54.png",
       "companyLastActiveAt": null,
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89060&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28650"
+    },
+    {
+      "id": 92398,
+      "title": "Product Designer",
+      "jobType": "fulltime",
+      "location": "Boston, MA, US / Remote (US)",
+      "roleType": "Product design",
+      "companyName": "Vector",
+      "companySlug": "vector",
+      "companyBatch": "W23",
+      "companyOneLiner": "Advertising for the new internet",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/cbf1d46970daada2c04ef49b49592227799f0224.png",
+      "companyLastActiveAt": null,
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92398&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28178"
+    },
+    {
+      "id": 77880,
+      "title": "Product Designer",
+      "jobType": "fulltime",
+      "location": "San Francisco",
+      "roleType": "Web design",
+      "companyName": "Pylon",
+      "companySlug": "pylon-2",
+      "companyBatch": "W23",
+      "companyOneLiner": "The only customer support platform built for B2B.",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/412a6b3ef532664df77532bc5d7ae3c1233de965.png",
+      "companyLastActiveAt": null,
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D77880&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28069"
+    },
+    {
+      "id": 89704,
+      "title": "Visual Product Designer",
+      "jobType": "fulltime",
+      "location": "San Francisco",
+      "roleType": "Web design",
+      "companyName": "Pylon",
+      "companySlug": "pylon-2",
+      "companyBatch": "W23",
+      "companyOneLiner": "The only customer support platform built for B2B.",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/412a6b3ef532664df77532bc5d7ae3c1233de965.png",
+      "companyLastActiveAt": null,
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89704&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28069"
     },
     {
       "id": 91163,
@@ -281,34 +323,6 @@
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/860789e4b5347ff0d9c534e39f80af9c01143ab3.png",
       "companyLastActiveAt": null,
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D91639&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=27943"
-    },
-    {
-      "id": 84438,
-      "title": "Senior Product Designer",
-      "jobType": "fulltime",
-      "location": "New York City Office",
-      "roleType": "Web design",
-      "companyName": "Tennr",
-      "companySlug": "tennr",
-      "companyBatch": "W23",
-      "companyOneLiner": "Fast, Transparent Patient Experiences",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/9ce9a2d0eb717408f7a56ad8fd6c76940b02a6a9.png",
-      "companyLastActiveAt": "26 days ago",
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D84438&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=27811"
-    },
-    {
-      "id": 56839,
-      "title": "UI/UX Lead",
-      "jobType": "fulltime",
-      "location": "Hyderabad, TG, IN",
-      "roleType": "UI / UX",
-      "companyName": "Landeed",
-      "companySlug": "landeed",
-      "companyBatch": "S22",
-      "companyOneLiner": "Landeed is India\u2019s digital infrastructure for property intelligence,\u2026",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/6ad200a24281fdd6a8a1c278067a5acc87ff1dab.png",
-      "companyLastActiveAt": "3 months ago",
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D56839&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=27252"
     }
   ]
 }
