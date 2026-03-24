@@ -12836,5 +12836,255 @@
   },
   "https://kokomolantern.substack.com/p/kokomo-little-links-ready-for-summer": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/03/23/emil-michael-now-a-senior-pentagon-official-says-hell-never-forgive-uber-investors-who-ousted-him-and-kalanick/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/03/23/bengaluru-food-startup-swish-raises-38m-in-its-third-round-in-18-months/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/03/23/zipline-snaps-up-another-200m-to-fuel-its-drone-delivery-expansion/": {
+    "valid": false
+  },
+  "https://venturebeat.com/technology/calling-all-gen-ai-disruptors-of-the-enterprise-apply-now-to-present-at-transform-2026": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://dn0qt3r0xannq.cloudfront.net/venturebeat-ZUVdMvorYO/venturebeat-longform/prebid-load.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/23/chip-interconnect-startup-kandou-ai-raises-225m-funding/": {
+    "valid": true,
+    "company": "Chip interconnect startup Kandou AI",
+    "amount_str": "$225M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/slno-investors-have-opportunity-to-lead-soleno-therapeutics-inc-securities-fraud-lawsuit-302721496.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-elauwit-connection-inc-investors-to-inquire-about-securities-class-action-investigation--elwt-302721495.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/exit-rebound-and-positive-net-distributions-signal-optimism-in-asia-pacific-private-equity-market-in-2026-302719500.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/qure-investors-have-opportunity-to-lead-uniqure-nv-securities-fraud-lawsuit-302721494.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/pypl-investors-have-opportunity-to-lead-paypal-holdings-inc-securities-fraud-lawsuit-302721492.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/orcl-investors-have-opportunity-to-lead-oracle-corporation-securities-fraud-lawsuit-302721491.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/gtn-completes-asia-pacific-dual-hub-strategy-with-hong-kong-sfc-licence-302722481.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/fbrt-investors-have-opportunity-to-lead-franklin-bsp-realty-trust-inc-securities-fraud-lawsuit-first-filed-by-the-rosen-law-firm-302722577.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/it-investors-have-opportunity-to-lead-gartner-inc-securities-fraud-lawsuit-302722564.html": {
+    "valid": false
+  },
+  "https://techfundingnews.com/baird-capital-ai-data-investment-strategy-europe-us/": {
+    "valid": false
+  },
+  "https://m.economictimes.com/tech/artificial-intelligence/early-stage-investors-fight-to-stay-competitive/articleshow/129762047.cms": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://img.etimg.com/photo/104857408.cms",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.biofuelsdigest.com/bdigest/mewery-raises-funds-for-cultivated-pork-rollout/": {
+    "valid": false
+  },
+  "https://www.unite.ai/interloom-raises-16-5m-to-bring-memory-to-enterprise-ai-agents/": {
+    "valid": true,
+    "company": "Interloom",
+    "amount_str": "$16.5M",
+    "website": "https://interloom.com",
+    "linkedin_url": "https://linkedin.com/company/interloom",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@interloom.com",
+    "twitter_url": ""
+  },
+  "https://www.startupdaily.net/topic/funding/sam-kroonenburgs-cuttable-raises-5-7-million-opens-in-new-york/": {
+    "valid": true,
+    "company": "Sam Kroonenburg's Cuttable",
+    "amount_str": "$5.7 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Sam Kroonenburg previous startup",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.axios.com/pro/biotech-deals/2026/03/23/cell-therapy-biotech-immunebridge": {
+    "valid": false
+  },
+  "https://mlq.ai/news/cloud-observability-startup-dash0-raises-110-million-series-b-funding-round/": {
+    "valid": true,
+    "company": "Dash0",
+    "amount_str": "$110 m",
+    "website": "https://www.dash0.com",
+    "linkedin_url": "https://linkedin.com/company/dash0hq",
+    "founder_name": "native observability category that",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/dash0hq"
+  },
+  "https://www.instagram.com/p/DWN2d8aEQ1V/": {
+    "valid": false
+  },
+  "https://entarabi.com/en/2026/03/savvy-games-group-to-acquire-moonton-to-strengthen-saudi-arabias-gaming-sector/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://securitybrief.co.nz/story/support-fusion-raises-aud-1-million-expands-to-us-uk": {
+    "valid": true,
+    "company": "Support Fusion",
+    "amount_str": "$1 m",
+    "website": "https://suppfusion.com",
+    "linkedin_url": "https://linkedin.com/company/support-fusion",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/SynBioBeta/status/2036166298212946163": {
+    "valid": false
+  },
+  "https://www.reddit.com/r/startups/comments/1s1s3pb/advice_on_preseed_fundraising_for_robotics_i_will/": {
+    "valid": false
+  },
+  "https://www.africabusinessplus.com/en/832621/happy-pay-welcomes-partech-as-a-shareholder/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.jeuneafrique.com",
+    "linkedin_url": "https://linkedin.com/company/jeune-afrique",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Jeune_Afrique"
+  },
+  "https://botmemo.substack.com/p/manufacturing-and-energy-warmin-up": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/IndiaRelease/status/2036056901801349554": {
+    "valid": true,
+    "company": "Mayson",
+    "amount_str": "",
+    "website": "https://maysonguitars.eu",
+    "linkedin_url": "https://linkedin.com/company/mayson-llc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/mayson_guitars"
+  },
+  "https://www.devdiscourse.com/article/business/3847227-bidsos-innovative-leap-secures-rs-63-crore-for-global-expansion": {
+    "valid": true,
+    "company": "BIDSO's Innovative Leap:",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupresearcher.com/news/verbund-x-ventures-leads-seed-plus-funding-for-quantum-tech-startup-zerothird": {
+    "valid": false
+  },
+  "https://x.com/TradedVC/status/2036113272470896737": {
+    "valid": false
+  },
+  "https://www.facebook.com/yourstorycom/posts/digital-lending-platform-finfinity-has-raised-24-mn-in-a-seed-round-led-by-manki/1410783247750312/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://builtindelhi.in/articles/mayson-raises-pre-seed-funding-20260323": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://static.builtin.com/dist/images/favicon.png",
+    "linkedin_url": "",
+    "founder_name": "and CTO",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.forbes.com/sites/amyfeldman/2026/03/20/this-serial-entrepreneur-wants-the-fda-to-approve-his-ai-doctor-certuma-martin-varsavsky/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bioxconomy.com/clinical-and-research/rivia-raises-15m-to-scale-agentic-ai-platform-for-clinical-trials-expand-us-presence": {
+    "valid": true,
+    "company": "Rivia",
+    "amount_str": "$15M",
+    "website": "https://www.rivia.com",
+    "linkedin_url": "https://linkedin.com/company/rivia-sa",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@rivia.ch",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/03/23/autoscience-raises-14m-to-build-the-worlds-first-automated-ai-research-lab/": {
+    "valid": true,
+    "company": "Autoscience",
+    "amount_str": "$14M",
+    "website": "https://autoscience.ai",
+    "linkedin_url": "https://linkedin.com/company/autoscienceai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/AutoScienceAI"
+  },
+  "https://www.linkedin.com/posts/fairfielddolan_students-to-compete-for-50k-in-seed-funding-activity-7441886500226547712-m7CM": {
+    "valid": false
   }
 }
