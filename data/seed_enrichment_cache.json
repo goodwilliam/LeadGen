@@ -13520,5 +13520,477 @@
   },
   "https://medial.app/news/workroom-automation-raises-seed-funding-led-by-equirus-innovatex-fund-6b6714ca8b7b3": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/venture/kleiner-perkins-raises-ai-focused-funds/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/24/stateful-robotics-secures-48m-to-advance-long-term-robot-intelligence/": {
+    "valid": true,
+    "company": "Stateful Robotics",
+    "amount_str": "$4.8M",
+    "website": "https://pitchbook.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/24/90m-funding-notraffic-will-use-ai-end-gridlock-americas-cities/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/tripcom-group-tcom-shares-crater-amid-questions-over-ai-price-adjustment-tool-anti-monopoly-regulatory-probe-securities-class-action-pending----hagens-berman-302723713.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.cision.com/about/accessibility",
+    "linkedin_url": "https://linkedin.com/company/cision",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@cision.com",
+    "twitter_url": "https://x.com/cision"
+  },
+  "https://www.prnewswire.com/news-releases/drvn-shareholder-notice-hagens-berman-notifies-driven-brands-drvn-investors-to-securities-class-action-alleging-pervasive-accounting-errors-and-internal-control-failures-spanning-20232025-302723706.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/soleno-therapeutics-slno-faces-securities-class-action-amid-hyperphagia-drug-launch-disruptions----hagens-berman-302723693.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.cision.com/about/accessibility",
+    "linkedin_url": "https://linkedin.com/company/cision",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@cision.com",
+    "twitter_url": "https://x.com/cision"
+  },
+  "https://www.prnewswire.com/news-releases/eos-energy-enterprises-eose-faces-securities-class-action-amid-analyst-questions-over-managements-transparency-shares-crater-39----hagens-berman-302723702.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/apo-shareholder-alert-hagens-berman-alerts-apollo-global-management-apo-investors-to-securities-class-action-stemming-from-epstein-files-revelations-302723685.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/navn-shareholder-alert-lawsuit-alleges-navans-navn-ipo-materials-omitted-to-surge-in-sales--marketing-expenses--hagens-berman-302723696.html": {
+    "valid": false
+  },
+  "https://bayelsawatch.com/novaworks-secures-8m/": {
+    "valid": true,
+    "company": "Novaworks",
+    "amount_str": "$8M",
+    "website": "https://novaworks.ai",
+    "linkedin_url": "https://linkedin.com/company/novaworksinc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/novaworks_AI"
+  },
+  "https://techfundingnews.com/kalshi-and-polymarket-ceos-back-5c-capitals-35m-prediction-markets-fund/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/atomico-m12-back-lace-lithographys-40m-round-to-replace-light-with-atoms-in-chipmaking/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/tokyo-vc-invests-in-london-carbon-management-startup-zeveros-5-23m-round-despite-cooling-of-climate-tech/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/ai-meets-finance-zalos-snaps-3-6m-to-build-computer-agents-for-cfos/": {
+    "valid": true,
+    "company": "Zalos",
+    "amount_str": "$3.6M",
+    "website": "https://www.zalos.ai",
+    "linkedin_url": "https://linkedin.com/company/zalos",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/german-rocket-startup-isar-aerospace-eyes-e2b-valuation-ahead-of-orbit-launch-this-week/": {
+    "valid": false
+  },
+  "https://www.backscoop.com/newsletter-posts/700k-for-singapores-virdalis-to-develop-protein-from-duckweed": {
+    "valid": false
+  },
+  "https://www.newsbytesapp.com/news/business/seed-funding-of-68-million-for-fusion-energy-startup-pranos/tldr": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "Lalit Keshre",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://heatmap.news/climate-tech/molten-salt-solutions-deal": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/03/24/novaworks-ai-launches-agentic-operating-system-for-total-workforce-management-raises-8m-seed-round/": {
+    "valid": true,
+    "company": "Novaworks.ai",
+    "amount_str": "",
+    "website": "https://www.prnewswire.com",
+    "linkedin_url": "https://linkedin.com/company/pr-newswire",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/PRNewswire"
+  },
+  "https://www.floridatrend.com/news/2026/03/24/tuesdays-afternoon-update/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://files.tampabay.com/resources/florida-trend/favicon-96x96.png",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/03/24/lovable-accelerates-ai-platform-expansion-with-strategic-acquisition-push/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/03/24/verily-secures-300m-investment-to-advance-its-precision-health-ai-strategy/": {
+    "valid": true,
+    "company": "Verily",
+    "amount_str": "$300M",
+    "website": "https://verily.com",
+    "linkedin_url": "https://linkedin.com/company/verily",
+    "founder_name": "Chairman and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Verily"
+  },
+  "https://techcrunch.com/2026/03/24/cauldron-ferm-has-turned-microbes-into-nonstop-assembly-lines/": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/03/24/londons-zalos-raises-e3-1-million-seed-to-bring-ai-agents-to-enterprise-finance-workflows/": {
+    "valid": false
+  },
+  "https://www.globenewswire.com/news-release/2026/03/24/3261268/0/en/Zalos-raises-3-6M-to-build-Computer-Agents-that-operate-finance-systems-the-way-humans-do.html": {
+    "valid": true,
+    "company": "Zalos",
+    "amount_str": "$3.6M",
+    "website": "https://www.zalos.ai",
+    "linkedin_url": "https://linkedin.com/company/zalos",
+    "founder_name": "William Fairbairn",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.calcalistech.com/ctechnews/article/rkotvmeo11l": {
+    "valid": true,
+    "company": "Cyber startup Onit",
+    "amount_str": "$11 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thenextweb.com/news/zevero-7m-carbon-management": {
+    "valid": true,
+    "company": "Zevero",
+    "amount_str": "$7M",
+    "website": "https://www.zevero.earth/press-releases/zevero-raises-7-million-global-demand-carbon-data-accelerates",
+    "linkedin_url": "https://linkedin.com/company/zevero-earth",
+    "founder_name": "Tomokazu Okuno",
+    "founder_linkedin_url": "",
+    "contact_email": "info@zevero.earth",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/orlando/news/2026/03/24/orlando-startup-company-new-venture-capital-funds.html": {
+    "valid": true,
+    "company": "Orlando fintech",
+    "amount_str": "",
+    "website": "https://startupill.com",
+    "linkedin_url": "https://linkedin.com/company/the-startup-pill",
+    "founder_name": "expand\n\nWorth AI",
+    "founder_linkedin_url": "",
+    "contact_email": "admin@startupill.com",
+    "twitter_url": "https://x.com/startupill"
+  },
+  "https://www.businessinsider.com/onit-security-funding-seed-ai-agents-vulnerabilities-pitch-deck-2026-3": {
+    "valid": true,
+    "company": "Onit Security",
+    "amount_str": "$11 M",
+    "website": "https://onit.security",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/03/londons-zalos-raises-e3-1-million-seed-to-bring-ai-agents-to-enterprise-finance-workflows/": {
+    "valid": false
+  },
+  "https://techgraph.co/fintech/how-nbbl-new-technology-stack-is-transforming-the-future-of-payments/": {
+    "valid": false
+  },
+  "https://www.esgtoday.com/zevero-raises-7-million-to-scale-carbon-management-platform-across-new-markets/": {
+    "valid": true,
+    "company": "Zevero",
+    "amount_str": "$7 M",
+    "website": "https://www.zevero.earth",
+    "linkedin_url": "https://linkedin.com/company/zevero-earth",
+    "founder_name": "Shigeo Taniuchi",
+    "founder_linkedin_url": "",
+    "contact_email": "info@zevero.earth",
+    "twitter_url": "https://x.com/zevero_earth"
+  },
+  "https://thetechportal.com/2026/03/24/food-delivery-firm-swish-secures-38mn-funding-valuation-nearly-doubles-to-140mn/": {
+    "valid": true,
+    "company": "Food delivery firm Swish",
+    "amount_str": "$38M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://dabafinance.com/en/news/happy-pay-seed-funding-bnpl-south-africa-adtech-payments": {
+    "valid": true,
+    "company": "Happy Pay",
+    "amount_str": "$5M",
+    "website": "https://happypay.co.za",
+    "linkedin_url": "https://linkedin.com/company/choosehappypay",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ChooseHappyPay"
+  },
+  "https://www.nytimes.com/athletic/7141487/2026/03/24/pro-padel-league-investment-rick-schnall/": {
+    "valid": true,
+    "company": "PPL had previously",
+    "amount_str": "$10 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/interloom-raises-16-5-million-in-funding": {
+    "valid": false
+  },
+  "https://www.tekedia.com/happy-pay-secures-5m-seed-round-to-scale-africas-first-ad-subsidised-bnpl-network/": {
+    "valid": true,
+    "company": "Happy Pay",
+    "amount_str": "$5M",
+    "website": "https://happypay.co.za",
+    "linkedin_url": "https://linkedin.com/company/choosehappypay",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ChooseHappyPay"
+  },
+  "https://theaiinsider.tech/2026/03/24/air-street-capital-closes-232m-fund-to-back-next-generation-of-ai-first-startups/": {
+    "valid": true,
+    "company": "Air Street Capital",
+    "amount_str": "$232M",
+    "website": "https://www.airstreet.com",
+    "linkedin_url": "https://linkedin.com/company/airstreetcapital",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/airstreet"
+  },
+  "https://www.tipranks.com/news/private-companies/focal-named-to-fast-companys-2026-most-innovative-list-as-it-scales-ai-driven-personal-heating-platform": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.globenewswire.com/news-release/2026/03/24/3261534/0/en/Doppel-Games-Partners-with-Kash-to-Bring-Real-Time-Prediction-Markets-for-AI-Agent-Battles-Directly-to-X.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://blog.doppelgames.co/doppel-games-partners-with-kash-trade-agent-vs-agent-outcomes-directly-on-x",
+    "linkedin_url": "",
+    "founder_name": "Isaac Valadez",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/kash_bot"
+  },
+  "https://www.finsmes.com/2026/03/innovative-systems-acquires-actifai.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/braingrid-raises-1m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/notraffic-raises-90m-in-series-c-funding.html": {
+    "valid": false
+  },
+  "https://ground.news/article/focal-named-to-fast-companys-list-of-the-worlds-most-innovative-companies-of-2026_710129": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/03/24/mayson-raises-pre-seed-funding-for-its-full-stack-vibe-coding-platform/": {
+    "valid": true,
+    "company": "Mayson",
+    "amount_str": "",
+    "website": "https://mayson.store",
+    "linkedin_url": "https://linkedin.com/company/mayson-llc",
+    "founder_name": "of Mayson",
+    "founder_linkedin_url": "",
+    "contact_email": "support@mayson.store",
+    "twitter_url": ""
+  },
+  "https://houston.innovationmap.com/tag/michael-perry": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://assets.rebelmouse.io",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.analyticsinsight.net/tech-news/funding-updates-openai-bags-110-billion-flags-microsoft-risk-firmable-raises-14-million": {
+    "valid": true,
+    "company": "OpenAI",
+    "amount_str": "$110 B",
+    "website": "https://platform.openai.com",
+    "linkedin_url": "https://linkedin.com/company/openai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://houston.innovationmap.com/persona-ai-michael-perry-2676592376.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy82NTM5NTA4MS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTgwNDAwMTY0OX0.PoqNO-jIVcz7eZ49YpyEt905CvxcB7axZ02gee932ZE/img.jpg",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.businesswire.com/news/home/20260324890752/en/Soxton-AI-Acquires-Realtime-Agentic-Security-Company-Cipher-Expanding-Its-Full-Stack-AI-Law-Firm": {
+    "valid": false
+  },
+  "https://www.artificiallawyer.com/2026/03/24/newmod-soxton-acquires-cipher-security-company/": {
+    "valid": false
+  },
+  "https://inforcapital.com/news/mayson-closes-pre-seed-funding/": {
+    "valid": true,
+    "company": "Mayson",
+    "amount_str": "",
+    "website": "https://mayson.store",
+    "linkedin_url": "https://linkedin.com/company/mayson-llc",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/mike-parsegian-904ba53b6",
+    "contact_email": "support@mayson.store",
+    "twitter_url": ""
+  },
+  "https://inforcapital.com/news/newly-secures-2m-in-funding-to-advance-native-app-creation-platform/": {
+    "valid": true,
+    "company": "Builder Newly",
+    "amount_str": "$2M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://dabafinance.com/en/news/miftah-proptech-syria-real-estate-marketplace-verification": {
+    "valid": true,
+    "company": "Miftah",
+    "amount_str": "",
+    "website": "https://www.miftah.org",
+    "linkedin_url": "https://linkedin.com/company/miftahpal",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@miftah.org",
+    "twitter_url": "https://x.com/miftahpal"
+  },
+  "https://medial.app/news/mayson-secures-pre-seed-funding-or-the-saas-news-0c24794ebc675": {
+    "valid": false
+  },
+  "https://www.law.com/legaltechnews/2026/03/24/legal-timekeeping-startup-pointone-raises-16m-in-series-a-funding/": {
+    "valid": true,
+    "company": "Legal Timekeeping Startup PointOne",
+    "amount_str": "$16M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.genomeweb.com/cancer/rybodyn-raises-10m-seed-funding-explore-dark-proteome": {
+    "valid": true,
+    "company": "RyboDyn",
+    "amount_str": "$10M",
+    "website": "https://rybodyn.com",
+    "linkedin_url": "https://linkedin.com/company/rybodyn",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/kerry-wilson-phd",
+    "contact_email": "user@domain.com",
+    "twitter_url": ""
+  },
+  "https://www.startupresearcher.com/news/mayson-raises-pre-seed-funding-to-turn-prompts-into-production-grade-software": {
+    "valid": false
+  },
+  "https://www.startuphub.ai/ai-news/ai-research/2026/onit-security-raises-11m-for-exposure-management": {
+    "valid": true,
+    "company": "Onit Security",
+    "amount_str": "$11 m",
+    "website": "https://onit.security",
+    "linkedin_url": "",
+    "founder_name": "known vulnerability in",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.law.com/legaltechnews/2026/03/24/legal-support-startup-soxton-announces-acquisition-of-cipher-technologies/": {
+    "valid": false
+  },
+  "https://www.bignewsnetwork.com/news/278941147/ai-wealthtech-startup-novelty-wealth-raises-14m-led-by-indiaquotient-to-scale-their-wealth-advisory-platform-for-indian-investors": {
+    "valid": true,
+    "company": "Wealthtech Startup Novelty Wealth",
+    "amount_str": "$1.4M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://itbrief.asia/story/zalos-raises-usd-3-6-million-for-finance-ai-agents": {
+    "valid": true,
+    "company": "Zalos",
+    "amount_str": "$3.6 m",
+    "website": "https://www.zalos.ai",
+    "linkedin_url": "https://linkedin.com/company/zalos",
+    "founder_name": "William Fairbairn",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://inforcapital.com/news/agents-for-finance-startup-zalos-raises-36m-to-transform-finance-departments/": {
+    "valid": true,
+    "company": "Finance Automation Startup Zalos",
+    "amount_str": "$3.6M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Complementing this",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupresearcher.com/news/finfinity-secures-usd2-4-million-in-seed-funding": {
+    "valid": false
   }
 }
