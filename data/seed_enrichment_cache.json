@@ -14384,5 +14384,91 @@
     "founder_linkedin_url": "",
     "contact_email": "marketing@mst.edu",
     "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/24/insurance-tech-startup-shepherd-raises-42m-underwrite-physical-layer-ai/": {
+    "valid": true,
+    "company": "Insurance tech startup Shepherd",
+    "amount_str": "$42M",
+    "website": "https://www.shepherdinsurance.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/money-talks-investor-turnout-to-set-record-302724190.html": {
+    "valid": false
+  },
+  "https://www.genomeweb.com/molecular-diagnostics/womens-health-firms-aim-earlier-endometriosis-diagnoses-through-menstrual": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.precisionmedicineonline.com/molecular-diagnostics/womens-health-firms-aim-earlier-endometriosis-diagnoses-through-menstrual",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "customerservice@genomeweb.com",
+    "twitter_url": ""
+  },
+  "https://latamlist.com/rexi-raises-1-2m-pre-seed-funding/": {
+    "valid": true,
+    "company": "Rexi",
+    "amount_str": "$1.2M",
+    "website": "https://www.rexi.finance",
+    "linkedin_url": "https://linkedin.com/company/rexifinance",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@rexi.financ",
+    "twitter_url": ""
+  },
+  "https://www.startuphub.ai/ai-news/technology/2026/databricks-launches-open-security-lakehouse": {
+    "valid": false
+  },
+  "https://youthsportsbusinessreport.com/nurivatech-raises-8m-for-smartphone-based-baseball-training-app-with-mlb-veteran-advisory/": {
+    "valid": true,
+    "company": "NurivaTech",
+    "amount_str": "$8M",
+    "website": "https://www.nurivatech.ai",
+    "linkedin_url": "https://linkedin.com/company/nurivatech",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@nurivatech.com",
+    "twitter_url": "https://x.com/NurivaTech"
+  },
+  "https://latamlist.com/rexi-raises-1-2m-pre-seed-funding/amp/": {
+    "valid": true,
+    "company": "Rexi",
+    "amount_str": "$1.2M",
+    "website": "https://www.rexi.finance",
+    "linkedin_url": "https://linkedin.com/company/rexifinance",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@rexi.financ",
+    "twitter_url": ""
+  },
+  "https://www.theinformation.com/briefings/amazon-buys-fauna-humanoid-startup": {
+    "valid": false
+  },
+  "https://www.panewslab.com/en/articles/019d2253-3383-746d-8c7f-f6c775802122": {
+    "valid": true,
+    "company": "Ethereum block builder Eureka Labs",
+    "amount_str": "$6.7 m",
+    "website": "https://www.theblock.co",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DWQ43TUE3JU/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "post from",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
