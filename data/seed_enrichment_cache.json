@@ -14656,5 +14656,197 @@
   },
   "https://bizprospex.com/product/startup-funding-rounds-database/": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/": {
+    "valid": true,
+    "company": "Lucid Bots",
+    "amount_str": "$20M",
+    "website": "https://www.lucidbots.com",
+    "linkedin_url": "https://linkedin.com/company/lucidbots",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Lucid_Bots"
+  },
+  "https://tech.eu/2026/03/25/entrix-raises-eur43m-as-contracted-battery-storage-portfolio-reaches-3gw/": {
+    "valid": true,
+    "company": "Entrix",
+    "amount_str": "\u20ac43M",
+    "website": "https://www.entrixenergy.com",
+    "linkedin_url": "https://linkedin.com/company/entrixenergy",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "aleksandra.radwanska@entrixenergy.com",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/25/with-eur30m-series-a-subbyx-scales-its-subscription-model-across-europe/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/25/with-8m-eunice-brings-institutional-grade-ai-to-due-diligence/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/25/building-the-path-to-3d-printed-organs-cellbricks-raises-eur10m-for-biofabricated-tissue-implants/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/25/deeptech-startup-renasens-lands-eur10m-to-scale-textile-recycling-in-europe/": {
+    "valid": true,
+    "company": "Renasens",
+    "amount_str": "\u20ac10M",
+    "website": "https://www.renasens.com",
+    "linkedin_url": "https://linkedin.com/company/renasens",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@renasens.com",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/25/pave-space-secures-40m-to-fast-track-satellite-deployment/": {
+    "valid": true,
+    "company": "PAVE Space",
+    "amount_str": "$40M",
+    "website": "https://pave.space",
+    "linkedin_url": "https://linkedin.com/company/pavespace",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/25/nick-candy-backed-fintech-vibepay-falls-into-liquidation-job-losses/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/25/origin-raises-30m-series-a-to-improve-global-benefits-efficiency/": {
+    "valid": true,
+    "company": "Origin",
+    "amount_str": "$30M",
+    "website": "https://7origin.netmarble.com",
+    "linkedin_url": "https://linkedin.com/company/origin-financialsf",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/7DSO_EN"
+  },
+  "https://betakit.com/chexy-raises-14-million-series-a-led-by-khosla-ventures/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/25/rocketlane-bags-60m-investors-accelerate-professional-services-automation-ai-agents/": {
+    "valid": true,
+    "company": "Rocketlane",
+    "amount_str": "$60M",
+    "website": "https://www.rocketlane.com",
+    "linkedin_url": "https://linkedin.com/company/rocketlane",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/srikrishnang",
+    "contact_email": "care@rocketlane.com",
+    "twitter_url": "https://x.com/RocketlaneHQ"
+  },
+  "https://siliconangle.com/2026/03/25/notch-raises-30m-expand-ai-operating-system-regulated-industries/": {
+    "valid": true,
+    "company": "Notch",
+    "amount_str": "$30M",
+    "website": "https://www.notch.cx",
+    "linkedin_url": "https://linkedin.com/company/notchapp",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Notchcx"
+  },
+  "https://www.prnewswire.com/news-releases/varun-nagaraj-decano-de-spjimr-ha-sido-nombrado-miembro-del-consejo-de-administracion-de-aacsb-302724850.html": {
+    "valid": false
+  },
+  "https://www.sagoodnews.co.za/cost-free-buy-now-pay-later-payments-for-sa-consumers/": {
+    "valid": false
+  },
+  "https://entrackr.com/snippets/accel-prosus-back-six-startups-under-atoms-x-programme-11261219": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.ampproject.org/v0.js",
+    "linkedin_url": "",
+    "founder_name": "the programme will provide",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/highlight-ai-raises-40-million-in-series-a-funding": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/eunice-raises-8m-in-pre-seed-and-seed-funding.html": {
+    "valid": true,
+    "company": "Eunice",
+    "amount_str": "$8M",
+    "website": "http://www.cityofeunice.org",
+    "linkedin_url": "https://linkedin.com/company/eunice-european-university",
+    "founder_name": "Nakeema Stefflbauer",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://femtechinsider.com/remi-health-raises-e5m-to-scale-diagnostics-as-a-service-platform-across-europe/": {
+    "valid": false
+  },
+  "https://www.panewslab.com/en/articles/019d246b-003b-7691-aceb-83d2e13dc310": {
+    "valid": false
+  },
+  "https://yourstory.com/2026/03/startup-news-and-updates-daily-roundup-march-25-2026": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/halter-raises-220m-in-series-e-funding.html": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/kirstylloydjukes_we-just-announced-48m-in-pre-seed-funding-activity-7442223341610000385-sk7V": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://lnkd.in/eCR2aWju",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/TFNBreakingNews/status/2036442853405237625": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.f1dc7e4a.js",
+    "linkedin_url": "",
+    "founder_name": "of Five",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/grishinrobotics_stateful-robotics-has-raised-48m-in-pre-seed-activity-7442237551538499584-wndw": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Kirsty Lloyd",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
