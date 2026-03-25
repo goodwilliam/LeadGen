@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T12:43:57Z",
-  "count": 22,
+  "generated_at": "2026-03-25T18:43:23Z",
+  "count": 23,
   "jobs": [
     {
       "id": 92095,
@@ -13,7 +13,7 @@
       "companyBatch": "W26",
       "companyOneLiner": "Multimodal data provider for robotics and world modeling",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/ce063ef00a3ec0da3649fb79a819c0e6c1e88ebf.png",
-      "companyLastActiveAt": "6 days ago",
+      "companyLastActiveAt": "about 2 hours ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92095&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=31205"
     },
     {
@@ -153,7 +153,7 @@
       "companyBatch": "W24",
       "companyOneLiner": "AI coach for your entire life",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/0586276952946e7eb368770c1670669a2ac319d6.png",
-      "companyLastActiveAt": "13 days ago",
+      "companyLastActiveAt": "14 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D91097&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29422"
     },
     {
@@ -251,7 +251,7 @@
       "companyBatch": "S23",
       "companyOneLiner": "AI patent drafting, prosecution, harvesting and more for legal teams.",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/cdb4c71ccbddd0ad292fc773c3cfb169d2a4a5ba.png",
-      "companyLastActiveAt": null,
+      "companyLastActiveAt": "about 1 hour ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89229&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28825"
     },
     {
@@ -293,22 +293,36 @@
       "companyBatch": "W23",
       "companyOneLiner": "Advertising for the new internet",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/cbf1d46970daada2c04ef49b49592227799f0224.png",
-      "companyLastActiveAt": "about 20 hours ago",
+      "companyLastActiveAt": "about 1 hour ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92398&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28178"
     },
     {
-      "id": 91163,
-      "title": "Senior Product Designer",
+      "id": 77880,
+      "title": "Product Designer",
       "jobType": "fulltime",
-      "location": "San Francisco HQ",
+      "location": "San Francisco",
       "roleType": "Web design",
-      "companyName": "Vitalize",
-      "companySlug": "vitalize",
+      "companyName": "Pylon",
+      "companySlug": "pylon-2",
       "companyBatch": "W23",
-      "companyOneLiner": "Autonomous hospital operations",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/39b420a8e248116ad9ee8ad0c1e42d137c914f80.png",
-      "companyLastActiveAt": "20 days ago",
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D91163&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=27959"
+      "companyOneLiner": "The only customer support platform built for B2B.",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/412a6b3ef532664df77532bc5d7ae3c1233de965.png",
+      "companyLastActiveAt": null,
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D77880&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28069"
+    },
+    {
+      "id": 89704,
+      "title": "Visual Product Designer",
+      "jobType": "fulltime",
+      "location": "San Francisco",
+      "roleType": "Web design",
+      "companyName": "Pylon",
+      "companySlug": "pylon-2",
+      "companyBatch": "W23",
+      "companyOneLiner": "The only customer support platform built for B2B.",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/412a6b3ef532664df77532bc5d7ae3c1233de965.png",
+      "companyLastActiveAt": null,
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89704&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28069"
     }
   ]
 }
