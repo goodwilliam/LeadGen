@@ -14848,5 +14848,459 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/25/harvey-confirms-11b-valuation-sequoia-triples-down/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/": {
+    "valid": true,
+    "company": "Granola",
+    "amount_str": "$125M",
+    "website": "https://www.granola.ai/blog/series-c",
+    "linkedin_url": "https://linkedin.com/company/meetgranola",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/meetgranola"
+  },
+  "https://techcrunch.com/2026/03/25/a16z-backed-glimpse-raises-new-funds-accelerates-dispute-tracking-automation-for-cpg-brands/": {
+    "valid": true,
+    "company": "After pivoting, Y Combinator grad Glimpse",
+    "amount_str": "$35M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/25/arinna-4-million-seed-round-solar-energy-space-power-problem/": {
+    "valid": true,
+    "company": "Arinna",
+    "amount_str": "$4M",
+    "website": "https://www.arinna.xyz",
+    "linkedin_url": "https://linkedin.com/company/arinna",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@arinna.xyz",
+    "twitter_url": ""
+  },
+  "https://news.crunchbase.com/venture/construction-tech-automation-trayd-ai-seriesa/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/25/futurepresent-emerges-from-stealth-with-300m-fund-i-to-back-ai-across-infrastructure-and-industry/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/25/granola-raises-125m-at-1-5bn-valuation/": {
+    "valid": true,
+    "company": "Granola",
+    "amount_str": "$125M",
+    "website": "https://1800granola.com",
+    "linkedin_url": "https://linkedin.com/company/meetgranola",
+    "founder_name": "Chris Pedregal",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/25/y-combinator-backed-mandel-ai-raises-3-9m-to-automate-global-supply-chains/": {
+    "valid": true,
+    "company": "Y Combinator-backed Mandel AI",
+    "amount_str": "$3.9M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://betakit.com/miraterra-announces-16-million-to-advance-its-soil-measurement-tech/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/25/epic-microsystems-raises-21m-revolutionize-power-next-gen-ai-datacenters/": {
+    "valid": true,
+    "company": "Epic Microsystems",
+    "amount_str": "$21M",
+    "website": "https://epicmicro.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.geekwire.com/2026/aetheon-raises-1-2m-to-translate-lived-experiences-into-job-read-skills/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/granola-raises-125m-series-c-company-context-ai/": {
+    "valid": false
+  },
+  "https://www.inkl.com/news/ai-chips-are-getting-too-expensive-and-too-power-hungry-this-startup-just-raised-50m-to-change-that": {
+    "valid": true,
+    "company": "This startup just",
+    "amount_str": "$50M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Faris Sbahi",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/mandel-ai-raises-3-9m-supply-chain-coordination/": {
+    "valid": false
+  },
+  "https://www.the-daily-record.com/press-release/story/47243/huckleberry-launches-the-ai-professional-coach-for-everyone/": {
+    "valid": true,
+    "company": "Huckleberry",
+    "amount_str": "",
+    "website": "https://www.huckleberryband.com",
+    "linkedin_url": "https://linkedin.com/company/gethuckleberry",
+    "founder_name": "says Aaron Ward",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://agfundernews.com/how-lumi-ai-helps-cpgs-find-multi-million-dollar-opportunities-hidden-in-their-supply-chain-data": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "http://browsehappy.com",
+    "linkedin_url": "",
+    "founder_name": "Lumi AI",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.theblock.co/post/395106/stablecoin-startup-payy-funding-private-transactions?utm_source=news.xml&utm_medium=rss": {
+    "valid": true,
+    "company": "Stablecoin startup Payy",
+    "amount_str": "$6 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techflowpost.com/en-US/newsletter/117994": {
+    "valid": true,
+    "company": "Stablecoin startup Payy",
+    "amount_str": "$6 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techafricanews.com/2026/03/25/littlefish-raises-9-5m-series-a-to-scale-merchant-infrastructure-across-africa/": {
+    "valid": true,
+    "company": "littlefish",
+    "amount_str": "$9.5M",
+    "website": "https://littlefishapp.com",
+    "linkedin_url": "https://linkedin.com/company/littlefishapp",
+    "founder_name": "Brandon Roberts",
+    "founder_linkedin_url": "https://linkedin.com/in/brandon-roberts-177b208a",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.entrepreneur.com/entrepreneurs/ex-apple-engineer-is-now-building-ai-startup-alcatraz": {
+    "valid": false
+  },
+  "https://fortune.com/2026/03/25/normal-computing-raises-50m-from-samsung-catalyst-ai-chip-costs-power-demands/": {
+    "valid": true,
+    "company": "AI chip startup Normal Computing",
+    "amount_str": "$50M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/03/vuelo-secures-e64-million-in-seed-funding-to-build-an-ai-native-travel-booking-experience/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/swish-raises-38m-series-b-to-crack-freshness-in-india-food-delivery/": {
+    "valid": true,
+    "company": "Swish",
+    "amount_str": "$38M",
+    "website": "https://www.swish.com",
+    "linkedin_url": "https://linkedin.com/company/getswish",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/aniketshah30",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.fstech.co.uk/fst/China_bars_founders_of_AI_agent_Manus_from_leaving_country_following_Meta_acquisition.php": {
+    "valid": false
+  },
+  "https://www.techbuzz.ai/articles/arinna-raises-4m-to-build-next-gen-solar-cells-for-space": {
+    "valid": true,
+    "company": "Arinna",
+    "amount_str": "$4M",
+    "website": "https://www.arinna.xyz",
+    "linkedin_url": "https://linkedin.com/company/arinna",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@arinna.xyz",
+    "twitter_url": ""
+  },
+  "https://www.biospace.com/press-releases/cellbricks-therapeutics-raises-10-million-new-capital-to-move-living-tissue-implants-toward-the-clinic": {
+    "valid": false
+  },
+  "https://www.facebook.com/startup.pedia7/posts/anvisha-pai-a-former-dropbox-product-manager-and-mit-graduate-has-officially-unv/1414072614067230/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://spacenews.com/pave-space-raises-40-million-to-develop-european-heavy-kickstage/": {
+    "valid": true,
+    "company": "Pave Space",
+    "amount_str": "$40 m",
+    "website": "https://pave.space",
+    "linkedin_url": "https://linkedin.com/company/pavespace",
+    "founder_name": "CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.businessinsider.com/krane-funding-pitch-deck-ai-agents-construction-data-centers-2026-3": {
+    "valid": true,
+    "company": "See the pitch deck it used to",
+    "amount_str": "$9 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Krane founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.ecotextile.com/2026032562183/news/materials-production-news/renasens-closes-e10m-seed-to-scale-textile-recycling/": {
+    "valid": false
+  },
+  "https://www.queerty.com/buzz-builds-around-unexpected-douching-hack-hungry-bottoms-are-all-in-20260325/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.cloudflare.com/5xx-error-landing",
+    "linkedin_url": "https://linkedin.com/company/cloudflare",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/cloudflare"
+  },
+  "https://bebeez.eu/2026/03/25/eunice-raises-8m-to-replace-manual-due-diligence-with-institutional-grade-ai-infrastructure/": {
+    "valid": true,
+    "company": "Eunice",
+    "amount_str": "$8m",
+    "website": "https://eunice.ai",
+    "linkedin_url": "https://linkedin.com/company/euniceai",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/ehan0190",
+    "contact_email": "support@eunice.ai",
+    "twitter_url": "https://x.com/eunice_ai1"
+  },
+  "https://fintech.global/2026/03/25/eunice-raises-8m-to-transform-alternative-asset-due-diligence/": {
+    "valid": true,
+    "company": "Eunice",
+    "amount_str": "$8m",
+    "website": "https://eunice.ai",
+    "linkedin_url": "https://linkedin.com/company/euniceai",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/ehan0190",
+    "contact_email": "support@eunice.ai",
+    "twitter_url": "https://x.com/eunice_ai1"
+  },
+  "https://theaiinsider.tech/2026/03/25/amazon-acquires-humanoid-robot-maker-fauna-robotics/": {
+    "valid": false
+  },
+  "https://www.reddit.com/r/startups/comments/1s3d8kh/preseed_founders_almost_killed_their_brand_in_24/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/azos-raises-us24m-in-series-c-funding.html": {
+    "valid": false
+  },
+  "https://partechpartners.com/news/hyground-raises-3m-pre-seed-round-to-build-the-sovereign-sre-agent-for-enterprise-it-operatons": {
+    "valid": false
+  },
+  "https://techfundingnews.com/y-combinator-backs-female-founded-construction-tech-trayd-in-10m-series-a/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/epic-microsystems-emerges-from-stealth-with-21m-from-intel-capital-to-power-ai-data-centres/": {
+    "valid": false
+  },
+  "https://inc42.com/buzz/blume-ventures-backed-zivy-pivots-to-fintech-compliance-amid-rise-of-ai-agents/": {
+    "valid": false
+  },
+  "https://www.reddit.com/r/startups/comments/1s38943/preseed_i_will_not_promote_navigating_a/": {
+    "valid": false
+  },
+  "https://www.bitget.com/amp/news/detail/12560605303269": {
+    "valid": true,
+    "company": "London compliance technology firm Eunice",
+    "amount_str": "$8 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startuprise.io/braingrid-raises-1m-in-pre-seed-funding/": {
+    "valid": true,
+    "company": "BrainGrid",
+    "amount_str": "$1M",
+    "website": "https://www.braingrid.ai",
+    "linkedin_url": "https://linkedin.com/company/braingridai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/BrainGridAI"
+  },
+  "https://medial.app/news/zalos-raises-dollar36-million-in-seed-round-or-the-saas-news-b702836bdbe08": {
+    "valid": false
+  },
+  "https://x.com/entrackr/status/2036726796662743093": {
+    "valid": true,
+    "company": "Fashion supply startup Thread Factory",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.securityweek.com/onit-security-raises-11-million-for-exposure-management-platform/": {
+    "valid": true,
+    "company": "Onit Security",
+    "amount_str": "$11 M",
+    "website": "https://www.upguard.com",
+    "linkedin_url": "https://linkedin.com/company/7579497",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@upguard.com",
+    "twitter_url": "https://x.com/UpGuard"
+  },
+  "https://www.theblock.co/post/395106/stablecoin-startup-payy-funding-private-transactions": {
+    "valid": true,
+    "company": "Stablecoin startup Payy",
+    "amount_str": "$6 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://technical.ly/entrepreneurship/philadelphia-startup-accelerator-guide/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.datawrapper.de/_/jUhg1",
+    "linkedin_url": "",
+    "founder_name": "full guide for",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://entrackr.com/snippets/fashion-supply-startup-thread-factory-raises-pre-seed-funding-led-by-ajvc-11261936": {
+    "valid": true,
+    "company": "Fashion supply startup Thread Factory",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.greenqueen.com.hk/future-food-quick-bites-impossible-big-boi-oatly-strawberry-matcha-upside-foods/": {
+    "valid": false
+  },
+  "https://www.bloomberg.com/news/articles/2026-03-25/ai-science-startup-periodic-labs-is-in-deal-talks-at-about-7-billion-valuation": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://mlq.ai/news/ai-roundup/2026-03-25/muratis-nvidia-megadeal-and-lecuns-1b-seed-ignite-ai-funding-frenzy/": {
+    "valid": false
+  },
+  "https://entrackr.com/snippets/biomaterials-startup-canvaloop-raises-15-mn-11262208": {
+    "valid": true,
+    "company": "Canvaloop",
+    "amount_str": "$1.5 m",
+    "website": "https://www.canvaloop.com",
+    "linkedin_url": "https://linkedin.com/company/canvaloop",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@canvaloop.com",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://europeanspaceflight.com/switzerlands-pave-space-closes-40-million-seed-funding-round/": {
+    "valid": true,
+    "company": "Switzerland's PAVE Space",
+    "amount_str": "$40 M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.globenewswire.com/news-release/2026/03/25/3262291/0/en/Embargoed-Technical-Briefing-NACO-Releases-Recommendations-on-Canada-s-1-75B-Venture-Capital-Strategy.html": {
+    "valid": false
+  },
+  "https://payloadspace.com/pave-space-raises-40m-for-in-space-propulsion-tech/": {
+    "valid": true,
+    "company": "Swiss startup PAVE Space",
+    "amount_str": "$40M",
+    "website": "https://www.binance.com",
+    "linkedin_url": "",
+    "founder_name": "according to",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thenextweb.com/news/pave-space-40m-orbital-transfer-vehicle": {
+    "valid": true,
+    "company": "PAVE",
+    "amount_str": "$40 m",
+    "website": "https://pave.space",
+    "linkedin_url": "https://linkedin.com/company/pave",
+    "founder_name": "When the programme concluded",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupsamadhan.com/euler-motors-raises-437-crore-series-e-funding/": {
+    "valid": false
   }
 }
