@@ -14207,5 +14207,182 @@
   },
   "https://www.startupbusiness.it/en/mamazens-ih1-appoints-daniela-castegnaro-as-head-of-venture-capital-and-ma/159113/": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/": {
+    "valid": false
+  },
+  "https://venturebeat.com/technology/openai-is-shutting-down-sora-its-powerful-ai-video-app": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/24/ai-productivity-startup-highlight-ai-raises-40m-appoints-new-ceo/": {
+    "valid": true,
+    "company": "AI productivity startup Highlight AI",
+    "amount_str": "$40M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "appoints new",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/24/onit-security-raises-11m-launches-platform-automate-vulnerability-remediation-processes/": {
+    "valid": true,
+    "company": "Onit Security",
+    "amount_str": "$11M",
+    "website": "https://onit.security",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/24/doss-raises-55m-expand-ai-powered-operations-platform-erp-integrated-workflows/": {
+    "valid": true,
+    "company": "Doss",
+    "amount_str": "$55M",
+    "website": "https://www.doss.com",
+    "linkedin_url": "https://linkedin.com/company/doss-com",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@doss.com",
+    "twitter_url": "https://x.com/doss_hq"
+  },
+  "https://www.prnewswire.com/news-releases/cwh-investors-have-opportunity-to-lead-camping-world-holdings-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302721785.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/camping-world-holdings-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--cwh-302721782.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/valeo-breaks-ground-on-225-million-high-tech-plant-in-mcallen-texas-for-software-defined-vehicle-technology-302724085.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/uniqure-nv-qure-securities-fraud-class-action-lawsuit-filed-april-13-2026-lead-plaintiff-deadline-302720253.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rgnx-investors-have-opportunity-to-lead-regenxbio-inc-securities-fraud-lawsuit-302723940.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/snow-investors-have-opportunity-to-lead-snowflake-inc-securities-fraud-lawsuit-302723936.html": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/florianbachelot_we-just-raised-3m-seed-led-by-daphni-to-activity-7442125605464215552-z-nc": {
+    "valid": false
+  },
+  "https://spacenews.com/chinas-astronstone-raises-29-million-for-reusable-rocket-with-chopstick-style-recovery/": {
+    "valid": true,
+    "company": "China's Astronstone",
+    "amount_str": "$29 m",
+    "website": "https://spacenews.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.nzherald.co.nz/business/halter-raises-377m-at-33-billion-valuation-reveals-customer-numbers/premium/TQQEMUA52RCFHHSJHZF4KDTLUI/": {
+    "valid": true,
+    "company": "Halter",
+    "amount_str": "$377 m",
+    "website": "https://www.halterhq.com",
+    "linkedin_url": "https://linkedin.com/company/halter-limited",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startuphub.ai/ai-news/funding-round/2026/zalos-raises-3-6m-for-ai-finance-agents": {
+    "valid": true,
+    "company": "Zalos",
+    "amount_str": "$3.6M",
+    "website": "https://www.zalos.ai",
+    "linkedin_url": "https://linkedin.com/company/zalos",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/Calcalistech/status/2036443050306601453": {
+    "valid": true,
+    "company": "Cyber startup Onit",
+    "amount_str": "$11 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.devdiscourse.com/article/technology/3849533-tech-giants-collaborate-on-missile-defense-software": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.jsdelivr.net",
+    "linkedin_url": "https://linkedin.com/company/jsdelivr",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "d@jsdelivr.com",
+    "twitter_url": "https://x.com/jsdelivr"
+  },
+  "https://www.reddit.com/r/SaaS/comments/1s2qyk0/i_sell_for_preseed_start_ups_ama/": {
+    "valid": false
+  },
+  "https://x.com/SuperteamNG/status/2036502332968448039/photo/1": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/anjan-umamaheswaran-b-76b871124_curiouscatsai-raises-pre-seed-funding-from-activity-7442167450571472896-ikKy": {
+    "valid": true,
+    "company": "CuriousCats.ai",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "seed funding from Healthify",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.ainvest.com/news/rybodyn-tiny-4m-pre-seed-raise-hyped-dark-proteome-race-bridge-execution-gap-2603/": {
+    "valid": true,
+    "company": "RyboDyn's Tiny $4M Pre-Seed",
+    "amount_str": "$4M",
+    "website": "https://rybodyn.com/news/blog-rybodyn-seed-financing",
+    "linkedin_url": "https://linkedin.com/company/rybodyn",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@rybodyn.com",
+    "twitter_url": ""
+  },
+  "https://www.techbuzz.ai/articles/accel-prosus-bet-up-to-12m-on-six-off-map-indian-startups": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://privacy-proxy.usercentrics.eu/latest/uc-block.bundle.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://westfaironline.com/fairfield/students-to-compete-for-50k-at-april-23-fairfield-university-event/": {
+    "valid": false
+  },
+  "https://www.unlv.edu/news/unlvtoday/reminder-ai-big-data-irda-seed-grants-opportunity-collaboration-catalyst": {
+    "valid": false
+  },
+  "https://news.mst.edu/2026/03/st-students-faculty-and-staff-to-pitch-at-investmidwest/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://calendar.mst.edu",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "marketing@mst.edu",
+    "twitter_url": ""
   }
 }

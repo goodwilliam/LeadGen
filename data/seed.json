@@ -1,8 +1,64 @@
 {
-  "generated_at": "2026-03-24T20:38:52.539281Z",
-  "count": 29,
+  "generated_at": "2026-03-25T01:27:06.385547Z",
+  "count": 31,
   "enriched_count": 22,
   "articles": [
+    {
+      "source": "SiliconAngle",
+      "title": "AI productivity startup Highlight AI raises $40M, appoints new CEO",
+      "article_url": "https://siliconangle.com/2026/03/24/ai-productivity-startup-highlight-ai-raises-40m-appoints-new-ceo/",
+      "company": "AI productivity startup Highlight AI",
+      "amount_str": "$40M",
+      "pub_date": "2026-03-24T23:58:24Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "appoints new",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "China's Astronstone raises $29 million for reusable rocket with chopstick-style recovery",
+      "article_url": "https://spacenews.com/chinas-astronstone-raises-29-million-for-reusable-rocket-with-chopstick-style-recovery/",
+      "company": "China's Astronstone",
+      "amount_str": "$29 m",
+      "pub_date": "2026-03-24T22:19:46Z",
+      "website": "https://spacenews.com",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "RyboDyn Raises $10M in Seed Funding to Explore the Dark Proteome | GenomeWeb",
+      "article_url": "https://www.genomeweb.com/cancer/rybodyn-raises-10m-seed-funding-explore-dark-proteome",
+      "company": "RyboDyn",
+      "amount_str": "$10M",
+      "pub_date": "2026-03-24T20:44:01Z",
+      "website": "https://rybodyn.com",
+      "linkedin_url": "https://linkedin.com/company/rybodyn",
+      "founder_name": "",
+      "founder_linkedin_url": "https://linkedin.com/in/kerry-wilson-phd",
+      "contact_email": "user@domain.com",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Halter raises $377 million at $3.3 billion valuation, reveals what's next - NZ Herald",
+      "article_url": "https://www.nzherald.co.nz/business/halter-raises-377m-at-33-billion-valuation-reveals-customer-numbers/premium/TQQEMUA52RCFHHSJHZF4KDTLUI/",
+      "company": "Halter",
+      "amount_str": "$377 m",
+      "pub_date": "2026-03-24T20:31:13Z",
+      "website": "https://www.halterhq.com",
+      "linkedin_url": "https://linkedin.com/company/halter-limited",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Deeptune Raises $43M to Build Virtual Training Environments for AI Agents - AI Insider",
@@ -15,6 +71,34 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "tim@deeptune.ai",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "CuriousCats.ai raises pre-seed funding from Healthify founders | Anjan Umamaheswaran B",
+      "article_url": "https://www.linkedin.com/posts/anjan-umamaheswaran-b-76b871124_curiouscatsai-raises-pre-seed-funding-from-activity-7442167450571472896-ikKy",
+      "company": "CuriousCats.ai",
+      "amount_str": "",
+      "pub_date": "2026-03-24T18:23:20Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "seed funding from Healthify",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "RyboDyn's Tiny $4M Pre-Seed Raise in a Hyped Dark Proteome Race - AInvest",
+      "article_url": "https://www.ainvest.com/news/rybodyn-tiny-4m-pre-seed-raise-hyped-dark-proteome-race-bridge-execution-gap-2603/",
+      "company": "RyboDyn's Tiny $4M Pre-Seed",
+      "amount_str": "$4M",
+      "pub_date": "2026-03-24T18:21:42Z",
+      "website": "https://rybodyn.com/news/blog-rybodyn-seed-financing",
+      "linkedin_url": "https://linkedin.com/company/rybodyn",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "info@rybodyn.com",
       "twitter_url": ""
     },
     {
@@ -158,34 +242,6 @@
       "twitter_url": ""
     },
     {
-      "source": "Google Alerts",
-      "title": "Verily Secures $300M Investment to Advance its Precision Health AI Strategy - AI Insider",
-      "article_url": "https://theaiinsider.tech/2026/03/24/verily-secures-300m-investment-to-advance-its-precision-health-ai-strategy/",
-      "company": "Verily",
-      "amount_str": "$300M",
-      "pub_date": "2026-03-24T15:01:05Z",
-      "website": "https://verily.com",
-      "linkedin_url": "https://linkedin.com/company/verily",
-      "founder_name": "Chairman and",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/Verily"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "RyboDyn Raises $10M in Seed Funding to Explore the Dark Proteome | GenomeWeb",
-      "article_url": "https://www.genomeweb.com/cancer/rybodyn-raises-10m-seed-funding-explore-dark-proteome",
-      "company": "RyboDyn",
-      "amount_str": "$10M",
-      "pub_date": "2026-03-24T14:44:00Z",
-      "website": "https://rybodyn.com",
-      "linkedin_url": "https://linkedin.com/company/rybodyn",
-      "founder_name": "",
-      "founder_linkedin_url": "https://linkedin.com/in/kerry-wilson-phd",
-      "contact_email": "user@domain.com",
-      "twitter_url": ""
-    },
-    {
       "source": "tech.eu",
       "title": "Stateful Robotics secures $4.8M to advance long-term robot intelligence",
       "article_url": "https://tech.eu/2026/03/24/stateful-robotics-secures-48m-to-advance-long-term-robot-intelligence/",
@@ -212,20 +268,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": "https://x.com/novaworks_AI"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "ElevenLabs, UiPath backer Credo Ventures closes $88M fund to back CEE pre-seeds",
-      "article_url": "https://techfundingnews.com/elevenlabs-uipath-backer-credo-ventures-closes-88m-fund-to-back-cee-pre-seeds/",
-      "company": "ElevenLabs, UiPath backer Credo Ventures",
-      "amount_str": "$88M",
-      "pub_date": "2026-03-24T14:10:56Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "tech.eu",
@@ -296,20 +338,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
-    },
-    {
-      "source": "SiliconAngle",
-      "title": "Dash0 raises $110M at $1B valuation to change cloud observability with AI agents",
-      "article_url": "https://siliconangle.com/2026/03/23/dash0-raises-110m-1b-valuation-change-cloud-observability-ai-agents/",
-      "company": "Dash0",
-      "amount_str": "$110M",
-      "pub_date": "2026-03-23T15:30:57Z",
-      "website": "https://www.dash0.com",
-      "linkedin_url": "https://linkedin.com/company/dash0hq",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/dash0hq"
     },
     {
       "source": "tech.eu",
