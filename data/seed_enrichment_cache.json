@@ -15302,5 +15302,282 @@
   },
   "https://startupsamadhan.com/euler-motors-raises-437-crore-series-e-funding/": {
     "valid": false
+  },
+  "https://venturebeat.com/infrastructure/googles-new-turboquant-algorithm-speeds-up-ai-memory-8x-cutting-costs-by-50": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/webcast-alert-borgwarner-2026-first-quarter-results-conference-call-302725175.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/diamondrock-hospitality-receives-nareits-2026-leader-in-the-light-award-302725140.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/millerknoll-inc-reports-third-quarter-fiscal-2026-results-302725241.html": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/atlantic-vc_pave-space-sa-just-raised-40m-one-activity-7442526138490445824--4Zp": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://sifted.eu/articles/pave-space-fundraise-sovereignty",
+    "linkedin_url": "https://linkedin.com/company/siftedeu",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/siftedeu"
+  },
+  "https://www.linkedin.com/posts/natacha-brami_pave-space-sa-just-raised-40m-seed-to-activity-7442527152048099328-rRPB": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://sifted.eu/articles/pave-space-fundraise-sovereignty",
+    "linkedin_url": "https://linkedin.com/company/siftedeu",
+    "founder_name": "and her",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/siftedeu"
+  },
+  "https://www.linkedin.com/posts/prithvi-jadwani_respan-formerly-keywords-ai-has-just-raised-activity-7442540927669415937-xdrW": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Help AI",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.crowdfundinsider.com/2026/03/269025-private-stablecoin-platform-payy-network-raises-6-million-seed-round/": {
+    "valid": true,
+    "company": "Private Stablecoin Platform Payy Network",
+    "amount_str": "$6 M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "of Payy Network",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://neofeed.com.br/startups/gestoras-internacionais-compram-tese-de-fintech-para-avancar-em-pagamentos-via-stablecoins-no-pais/en/": {
+    "valid": false
+  },
+  "https://www.weex.com/news/detail/stablecoin-startup-payy-completes-6-million-seed-round-financing-led-by-firstmark-capital-410272": {
+    "valid": false
+  },
+  "https://techfundingnews.com/pave-space-40m-seed-orbital-logistics/": {
+    "valid": false
+  },
+  "https://www.startupresearcher.com/news/arinna-closes-usd4-million-seed-round-for-next-gen-space-solar-technology": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/03/25/littlebird-raises-11m-to-build-context-aware-ai-productivity-platform/": {
+    "valid": true,
+    "company": "Littlebird",
+    "amount_str": "$11 m",
+    "website": "https://www.golittlebird.com",
+    "linkedin_url": "https://linkedin.com/company/golittlebird",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@golittlebird.com",
+    "twitter_url": ""
+  },
+  "https://www.bitget.com/news/detail/12560605304193": {
+    "valid": false
+  },
+  "https://finance.yahoo.com/sectors/technology/articles/exclusive-normal-computing-raises-50m-120000778.html": {
+    "valid": true,
+    "company": "Normal Computing",
+    "amount_str": "$50M",
+    "website": "https://www.normalcomputing.com",
+    "linkedin_url": "https://linkedin.com/company/normal-computing-corporation",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@normalcomputing.ai",
+    "twitter_url": ""
+  },
+  "https://aijourn.com/tali-introduces-ai-real-time-billing-agent-to-help-clinics-capture-revenue-and-reduce-administrative-burden/": {
+    "valid": false
+  },
+  "https://aijourn.com/infosys-to-acquire-leading-insurance-consulting-technology-company-stratus/": {
+    "valid": false
+  },
+  "https://aijourn.com/omnitrust-breaks-the-certificate-lifecycle-management-model-with-99000-pki-and-unlimited-certificates/": {
+    "valid": false
+  },
+  "https://aijourn.com/a4a-launches-thanks-tsa-campaign-to-recognize-officers-working-without-pay-during-ongoing-government-shutdown/": {
+    "valid": false
+  },
+  "https://www.wfmz.com/business/hope-for-a-possible-end-to-the-war-with-iran-send-us-stocks-higher-and/article_ebb8dc97-04fc-576f-9eaf-b78ecf6ffae7.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/victus-technologies-raises-seed-round-to-advance-contested-autonomy-platform-302725321.html": {
+    "valid": true,
+    "company": "VICTUS Technologies",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/victustech",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bitget.com/news/detail/12560605302989": {
+    "valid": false
+  },
+  "https://www.bitget.com/amp/news/detail/12560605302994": {
+    "valid": false
+  },
+  "https://www.bitget.com/amp/news/detail/12560605302940": {
+    "valid": true,
+    "company": "Tori Finance",
+    "amount_str": "",
+    "website": "https://tori.finance",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "partnerships@tori.financ",
+    "twitter_url": "https://x.com/tori_finance"
+  },
+  "https://www.bitget.com/news/detail/12560605302940": {
+    "valid": true,
+    "company": "Tori Finance",
+    "amount_str": "",
+    "website": "https://tori.finance",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "partnerships@tori.financ",
+    "twitter_url": "https://x.com/tori_finance"
+  },
+  "https://ffnews.com/newsarticle/funding/eunice-raises-8m-to-replace-manual-due-diligence-with-institutional-grade-ai-infrastructure/": {
+    "valid": false
+  },
+  "https://amp.axios.com/pro-rata-premium-first-look-ef300104-d792-4745-8eeb-d6759eb8f7b5.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "of Square at Block",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.odaily.news/en/post/5209931": {
+    "valid": false
+  },
+  "https://techfundingnews.com/female-co-founded-bkr-capital-secures-ca-20m-first-close-to-address-funding-gap-for-black-founders/": {
+    "valid": true,
+    "company": "Female co-founded BKR Capital",
+    "amount_str": "$20M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/renasens-secures-e10m-from-extantia-and-norrsken-launcher-for-textile-recycling-pilot-plant-in-europe/": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/founderstoday_stateful-robotics-raises-48m-pre-seed-to-activity-7442550077740494848--7oh": {
+    "valid": true,
+    "company": "Stateful Robotics",
+    "amount_str": "$4.8M",
+    "website": "https://pitchbook.com",
+    "linkedin_url": "",
+    "founder_name": "Silicon Valley",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/03/25/oxford-spinout-stateful-robotics-raises-4-8m-in-pre-seed-funding-to-develop-long-term-memory-for-physical-ai/": {
+    "valid": true,
+    "company": "Oxford Spinout Stateful Robotics",
+    "amount_str": "$4.8M",
+    "website": "https://www.uktechnews.info",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://inforcapital.com/news/vienna-based-minimist-closes-1-million-pre-seed-to-power-second-hand-retail-with-ai/": {
+    "valid": true,
+    "company": "Minimist",
+    "amount_str": "\u20ac1M",
+    "website": "https://mnm.st",
+    "linkedin_url": "https://linkedin.com/company/mnmst",
+    "founder_name": "of Eversports",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@mnm.st",
+    "twitter_url": ""
+  },
+  "https://today.marquette.edu/2026/03/brewed-ideas-challenge-2026-showcases-student-led-startup-pitches-april-24/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://use.typekit.net/eqa2idl.css",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://alleywatch.com/2026/03/the-alleywatch-startup-daily-funding-report-3-25-2026/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.mexc.com/news/981429": {
+    "valid": true,
+    "company": "Privacy-focused stablecoin payment network Payy",
+    "amount_str": "$6 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupmag.co.uk/funding/instepai-2026-pre-seed-funding/": {
+    "valid": false
+  },
+  "https://techlabari.com/ev-startup-goswap-secures-seed-funding-to-electrify-morocco/": {
+    "valid": true,
+    "company": "EV Startup GoSwap",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://phemex.com/news/article/stablecoin-startup-payy-secures-6-million-in-seed-funding-69009": {
+    "valid": true,
+    "company": "Stablecoin startup Payy",
+    "amount_str": "$6 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
