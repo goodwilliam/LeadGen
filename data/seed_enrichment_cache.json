@@ -14470,5 +14470,191 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/25/galtea-lands-32m-to-cut-costly-ai-testing-delays/": {
+    "valid": true,
+    "company": "Galtea",
+    "amount_str": "$3.2M",
+    "website": "https://galtea.ai",
+    "linkedin_url": "https://linkedin.com/company/galtea-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@galtea.ai",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/25/epoch-biodesign-raises-12m-to-bring-recycled-nylon-to-scale/": {
+    "valid": true,
+    "company": "Epoch Biodesign",
+    "amount_str": "$12M",
+    "website": "https://www.epochbiodesign.com",
+    "linkedin_url": "https://linkedin.com/company/epochbiodesign",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/itxcomweb"
+  },
+  "https://tech.eu/2026/03/25/german-incirt-secures-eur48m-to-power-next-gen-chip-architecture-in-europe/": {
+    "valid": true,
+    "company": "INCIRT",
+    "amount_str": "\u20ac4.8M",
+    "website": "https://www.incirt.de",
+    "linkedin_url": "https://linkedin.com/company/incirt",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@incirt.de",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/physicians-committee-and-wilberforce-institute-urge-nih-and-rfk-jr-to-cancel-countrys-oldest-taxpayer-funded-dog-experiments-302724317.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/arrow-global-lance-arrow-global-insurance-302720076.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/arrow-global-launches-arrow-global-insurance-302719959.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/arrow-global-lanciert-arrow-global-insurance-302720072.html": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/nagarajs_halter-just-raised-220-million-of-new-financing-activity-7442362256404746240-yRAe": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://lnkd.in/gtnhm9cG",
+    "linkedin_url": "",
+    "founder_name": "Craig Piggott",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/sunilnagaraj"
+  },
+  "https://www.eu-startups.com/2026/03/barcelonas-galtea-raises-e2-7-million-backed-by-mozilla-ventures-for-its-ai-evaluation-platform/": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/03/25/vienna-based-minimist-closes-e1-million-pre-seed-to-power-secondhand-retail-with-ai/": {
+    "valid": false
+  },
+  "https://en.ilsole24ore.com/art/subbyx-closes-new-round-30-million-and-targets-europe-AI9fTU8B": {
+    "valid": true,
+    "company": "Subbyx",
+    "amount_str": "",
+    "website": "https://www.joinchargeback.com",
+    "linkedin_url": "https://linkedin.com/company/joinchargeback",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://technical.ly/entrepreneurship/midsummer-studios-raises-2m-avoid-shutdown/": {
+    "valid": true,
+    "company": "Midsummer Studios",
+    "amount_str": "$2M",
+    "website": "https://www.midsummerstudios.com",
+    "linkedin_url": "https://linkedin.com/company/midsummer-studios",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "user@domain.com",
+    "twitter_url": "https://x.com/ItsMidsummer"
+  },
+  "https://www.startupdaily.net/topic/funding/high-steaks-kiwi-agtech-scanabull-hits-the-scales-with-920000/": {
+    "valid": false
+  },
+  "https://www.theblock.co/post/394923/ethereum-block-builder-eureka-labs-funding-programmable-blocks": {
+    "valid": true,
+    "company": "Ethereum block builder Eureka Labs",
+    "amount_str": "$6.7 m",
+    "website": "https://www.theblock.co",
+    "linkedin_url": "",
+    "founder_name": "Scott Keto",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/03/vienna-based-minimist-closes-e1-million-pre-seed-to-power-secondhand-retail-with-ai/": {
+    "valid": false
+  },
+  "https://www.bitget.com/amp/news/detail/12560605301973": {
+    "valid": false
+  },
+  "https://www.blufftontoday.com/press-release/story/64607/ai-launches-with-50m-seed-round-2b-infrastructure-capital-to-scale-a-vertically-integrated-ai-platform-from-japan/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/03/24/lululemon-bets-epoch-biodesign-can-eat-its-shorts-literally/": {
+    "valid": false
+  },
+  "https://www.bwdisrupt.com/article/euler-motors-secures-47-mn-in-series-e-round-led-by-lightrock-599156": {
+    "valid": true,
+    "company": "Euler Motors",
+    "amount_str": "$47 M",
+    "website": "https://www.eulermotors.com",
+    "linkedin_url": "https://linkedin.com/company/eulermotors",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/o-gowan-sawyere-74ba2a3b7",
+    "contact_email": "customercare@eulermotors.com",
+    "twitter_url": "https://x.com/Euler_Motors"
+  },
+  "https://www.startupdaily.net/advice/business-strategy/canva-gets-outdoors-with-30-million-doohly-acquistion/": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/onit-security-raises-11m-in-seed-funding": {
+    "valid": false
+  },
+  "https://technode.global/2026/03/25/southeast-asia-focused-seax-ventures-invests-10m-in-rybodyns-ai-driven-cancer-research/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/fidelity-paradigm-back-ziplines-200m-round-at-7-6b-valuation/": {
+    "valid": false
+  },
+  "https://www.techinasia.com/news/ai-startup-octen-raises-10m-seed-to-build-search-infra": {
+    "valid": false
+  },
+  "https://eu.36kr.com/de/p/3737667859398665": {
+    "valid": false
+  },
+  "https://refreshmiami.com/news/when-gps-goes-dark-this-florida-startup-wants-to-keep-the-signal-alive/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.miamitechpod.com",
+    "linkedin_url": "",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/miamitechpod"
+  },
+  "https://allafrica.com/stories/202603240669.html": {
+    "valid": true,
+    "company": "Happy Pay",
+    "amount_str": "$5 m",
+    "website": "https://happypay.co.za",
+    "linkedin_url": "https://linkedin.com/company/choosehappypay",
+    "founder_name": "for the latest headlines",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ChooseHappyPay"
+  },
+  "https://www.siliconindia.com/startup/startup-funding/letzryd-raises-4-million-in-series-a-to-expand-fleet-solutions-nwid-53837.html": {
+    "valid": true,
+    "company": "LetzRyd",
+    "amount_str": "$4 M",
+    "website": "https://letzryd.com",
+    "linkedin_url": "https://linkedin.com/company/letzryd",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "admin@letzryd.com",
+    "twitter_url": ""
+  },
+  "https://techstartups.com/2026/03/24/top-startup-and-tech-funding-news-march-24-2025/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://gimletlabs.ai/blog/announcing-series-a",
+    "linkedin_url": "https://linkedin.com/company/gimletlabs",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@gimletlabs.ai",
+    "twitter_url": "https://x.com/zainasgar"
+  },
+  "https://bizprospex.com/product/startup-funding-rounds-database/": {
+    "valid": false
   }
 }
