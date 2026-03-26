@@ -15579,5 +15579,206 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/": {
+    "valid": true,
+    "company": "Mercor competitor Deccan AI",
+    "amount_str": "$25M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/25/agentic-retail-dispute-resolution-startup-glimpse-raises-35m-andreessen-horowitz-others/": {
+    "valid": true,
+    "company": "Agentic retail dispute resolution startup Glimpse",
+    "amount_str": "$35M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/25/krane-raises-9m-expand-ai-driven-construction-supply-chain-platform/": {
+    "valid": true,
+    "company": "Krane",
+    "amount_str": "$9M",
+    "website": "https://www.krane.tech",
+    "linkedin_url": "https://linkedin.com/company/krane",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/25/normal-computing-raises-50m-tackle-soaring-energy-demands-ai-chips/": {
+    "valid": true,
+    "company": "Normal Computing",
+    "amount_str": "$50M",
+    "website": "https://normalcomputing.com",
+    "linkedin_url": "https://linkedin.com/company/normal-computing-corporation",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@normalcomputing.ai",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/25/granola-raises-125m-1-5b-valuation-ai-note-taking-app/": {
+    "valid": true,
+    "company": "Granola",
+    "amount_str": "$125M",
+    "website": "https://www.granola.ai/blog/two-dot-zero",
+    "linkedin_url": "https://linkedin.com/company/meetgranola",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/meetgranola"
+  },
+  "https://siliconangle.com/2026/03/25/legal-ai-startup-harvey-valued-11b-new-200m-round/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://d15shllkswkct0.cloudfront.net/wp-includes/wlwmanifest.xml",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/cellebrite-change-la-donne-en-matiere-dinvestigations-avec-le-lancement-de-genesis-une-solution-dia-agentique-revolutionnaire-qui-vise-a-rendre-notre-monde-plus-sur-302725482.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/drvn-investors-have-opportunity-to-lead-driven-brands-holdings-inc-securities-fraud-lawsuit-302725437.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-pennymac-financial-services-inc-investors-to-inquire-about-securities-class-action-investigation--pfsi-302725432.html": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/money/smallbusiness/worth-the-startup-from-the-founders-of-stax-just-raised-30-million-to-deliver-simplicity-for-small-businesses/ar-AA1Zo6t7": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "the startup from the",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.smartcompany.com.au/startupsmart/canva-snaps-up-doohly-acquisition-30-million-outdoor-advertising/": {
+    "valid": false
+  },
+  "https://www.techinafrica.com/nigerian-startup-bumpa-and-kenyan-startup-flowcart-receive-funding-from-jobtech-alliance/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://whatsapp.com/channel/0029Vb3xgMr42DcfICgi7T1N",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/whatsapp"
+  },
+  "https://cryptonews.net/news/finance/32606117/": {
+    "valid": true,
+    "company": "Payy",
+    "amount_str": "$6m",
+    "website": "https://payy.services",
+    "linkedin_url": "https://linkedin.com/company/payy",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@payyservices.com",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/galtea-barcelona-ai-testing-platform-raises-3-2m-seed-round-42cap/": {
+    "valid": true,
+    "company": "Galtea",
+    "amount_str": "$3.2M",
+    "website": "https://galtea.ai",
+    "linkedin_url": "https://linkedin.com/company/galtea-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@galtea.ai",
+    "twitter_url": ""
+  },
+  "https://www.startupresearcher.com/news/mandel-ai-raises-usd3-9-million-seed-round-to-automate-supply-chains": {
+    "valid": false
+  },
+  "https://www.bitget.com/amp/news/detail/12560605304193": {
+    "valid": false
+  },
+  "https://inforcapital.com/news/hyground-raises-3m-pre-seed-round-to-build-the-sovereign-sre-agent-for-enterprise-it-operations/": {
+    "valid": true,
+    "company": "Hyground",
+    "amount_str": "\u20ac3M",
+    "website": "https://hyground.ai",
+    "linkedin_url": "https://linkedin.com/company/hyground",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@hyground.ai",
+    "twitter_url": ""
+  },
+  "https://entarabi.com/en/2026/03/binace-and-beyon-connect-sign-strategic-agreement-for-digital-identity-verification-in-bahrain/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/sanfrancisco/news/2026/03/25/sfbt-digest-wednesday-in-n-out-oakland-meta-trial.html": {
+    "valid": false
+  },
+  "https://www.sportsbusinessjournal.com/Articles/2026/03/25/tech-speed-reads/": {
+    "valid": false
+  },
+  "https://www.startupmag.co.uk/funding/voxelo-2026-pre-seed-funding-2/": {
+    "valid": false
+  },
+  "https://www.mexc.com/news/981808": {
+    "valid": true,
+    "company": "Payy",
+    "amount_str": "$6m",
+    "website": "https://payy.services",
+    "linkedin_url": "https://linkedin.com/company/payy",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@payyservices.com",
+    "twitter_url": ""
+  },
+  "https://sprintlaw.co.uk/articles/vc-funding-rounds-explained-each-startup-fundraising-stage/": {
+    "valid": false
+  },
+  "https://www.genomeweb.com/proteomics-protein-research/kth-spinout-proteomedge-offering-absolute-quantitation-plasma-proteins": {
+    "valid": false
+  },
+  "https://x.com/TheBlockCo/status/2036835551869821269": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.f1dc7e4a.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/0xzxcom/status/2036837019163263244": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.f1dc7e4a.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.theblock.co/amp/post/395106/stablecoin-startup-payy-funding-private-transactions": {
+    "valid": false
   }
 }
