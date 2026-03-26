@@ -15780,5 +15780,48 @@
   },
   "https://www.theblock.co/amp/post/395106/stablecoin-startup-payy-funding-private-transactions": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/afsp-illinois-outlines-legislative-priorities-during-2026-advocacy-day-302725522.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/coast-wealth-management-expands-fiduciary-retirement-planning-services-nationwide-302725617.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/nktr-investors-have-opportunity-to-lead-nektar-therapeutics-securities-fraud-lawsuit-302725460.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/navn-investors-have-opportunity-to-lead-navan-inc-securities-lawsuit-302725464.html": {
+    "valid": false
+  },
+  "https://getlatka.com/blog/how-nutrisense-achieved-3-3-million-monthly-revenue-with-strategic-growth-tactics/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "For Dan Zavarotti",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-us/news/insight/lecun-s-ai-startup-scores-1b-and-new-ceo/gm-GM6637F6B7?gemSnapshotKey=GM6637F6B7-snapshot-0&uxmode=ruby": {
+    "valid": false
+  },
+  "https://discoverestevan.com/articles/rural-startup-pitch-competition-returns-to-estevan-april-16": {
+    "valid": false
+  },
+  "https://letsdatascience.com/news/neosapien-launches-neo-1-wearable-ai-assistant-0ba2f02d": {
+    "valid": false
+  },
+  "https://www.rootdata.com/news/588886": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://rsms.me/inter/font-files/InterVariable.woff2",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }

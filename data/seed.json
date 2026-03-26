@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-26T01:31:50.503444Z",
-  "count": 30,
-  "enriched_count": 21,
+  "generated_at": "2026-03-26T05:29:07.936497Z",
+  "count": 29,
+  "enriched_count": 20,
   "articles": [
     {
       "source": "TechCrunch",
@@ -182,20 +182,6 @@
       "linkedin_url": "",
       "founder_name": "",
       "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "littlefish Raises $9.5M Series A to Scale Merchant Infrastructure Across Africa",
-      "article_url": "https://techafricanews.com/2026/03/25/littlefish-raises-9-5m-series-a-to-scale-merchant-infrastructure-across-africa/",
-      "company": "littlefish",
-      "amount_str": "$9.5M",
-      "pub_date": "2026-03-25T15:24:45Z",
-      "website": "https://littlefishapp.com",
-      "linkedin_url": "https://linkedin.com/company/littlefishapp",
-      "founder_name": "Brandon Roberts",
-      "founder_linkedin_url": "https://linkedin.com/in/brandon-roberts-177b208a",
       "contact_email": "",
       "twitter_url": ""
     },
