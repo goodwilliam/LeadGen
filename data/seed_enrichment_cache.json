@@ -16590,5 +16590,146 @@
   },
   "https://x.com/TFNBreakingNews/status/2037124416682000702": {
     "valid": false
+  },
+  "https://betakit.com/mila-teams-up-with-mozilla-to-build-open-source-ai-tools/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/hellonation-highlights-city-of-freeports-emerging-contaminants-grant-award-for-new-well-and-water-quality-improvements-302726725.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/consumer-watchdog-files-new-supreme-court-brief-challenging-unlawful-tariff-modifications-that-raise-prices-for-working-families-302726726.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/enph-investors-have-opportunity-to-lead-enphase-energy-inc-securities-fraud-lawsuit-302726588.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/enph-investors-have-opportunity-to-lead-enphase-energy-inc-securities-fraud-lawsuit-302726587.html": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/southflorida/news/2026/03/26/company-uses-ai-security-footage-search.html": {
+    "valid": false
+  },
+  "https://www.bitget.com/amp/news/detail/12560605306982": {
+    "valid": true,
+    "company": "Payy announced it",
+    "amount_str": "$6 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "According to Sid Gandhi",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/ctech-by-calcalist_israeli-ai-startup-conntour-raises-7-million-activity-7442911287497498624-0jTB": {
+    "valid": true,
+    "company": "Conntour",
+    "amount_str": "$7 m",
+    "website": "https://www.conntour.com",
+    "linkedin_url": "https://linkedin.com/company/conntour",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@conntour.com",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/rocketlane-raises-60-million-in-series-c": {
+    "valid": false
+  },
+  "https://www.axios.com/pro/merger-deals/2026/03/26/pro-rata-premium-first-look": {
+    "valid": false
+  },
+  "https://techfundingnews.com/amazon-theia-8m-financial-markets-ai/": {
+    "valid": true,
+    "company": "Ex-Amazon founded Theia Insights",
+    "amount_str": "$8M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/slatornews/status/2037092232885379095": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/fintech-global_grand-raises-5m-pre-seed-to-build-ai-trade-activity-7442962829889949697-OB7Q": {
+    "valid": true,
+    "company": "Grand",
+    "amount_str": "$5m",
+    "website": "https://www.grand-seiko.com",
+    "linkedin_url": "https://linkedin.com/company/grandtalent",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/demishassabis",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/femtechinsider_prickly-pear-health-expands-pre-seed-to-over-activity-7442950014374596608-juO-": {
+    "valid": false
+  },
+  "https://i-hls.com/archives/135559": {
+    "valid": true,
+    "company": "Space Propulsion Startup",
+    "amount_str": "$40M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://citywire.com/ria/news/advisor-comms-startup-currentclient-raises-1-25m-in-seed-funding/a2486783": {
+    "valid": true,
+    "company": "Advisor comms startup CurrentClient",
+    "amount_str": "$1.25m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://athletechnews.com/next-race-in-wearable-tech-is-for-your-brain-mave-neurable/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://atn-disrupt.vfairs.com/en",
+    "linkedin_url": "https://linkedin.com/company/relive-health",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "customersupport@vfairs.com",
+    "twitter_url": ""
+  },
+  "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-891168": {
+    "valid": true,
+    "company": "Israeli entrepreneurs",
+    "amount_str": "$11 m",
+    "website": "https://www.startups.co.il",
+    "linkedin_url": "https://linkedin.com/company/tlv-partners",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/startupscoil"
+  },
+  "https://www.phocuswire.com/news/finance/vuelo-buy-now-pay-later-travel": {
+    "valid": false
+  },
+  "https://www.startupmag.co.uk/funding/keith-2026-seed-funding": {
+    "valid": false
+  },
+  "https://x.com/payloadspace/status/2037190338465415588": {
+    "valid": false
+  },
+  "https://www.startupmag.co.uk/funding/allday-goods-2026-pre-seed-funding/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/blossom-health-secures-20m-from-headline-and-general-catalyst-to-bring-bring-ai-copilots-to-psychiatry-care/": {
+    "valid": true,
+    "company": "Blossom Health",
+    "amount_str": "$20M",
+    "website": "https://blossomdpc.com",
+    "linkedin_url": "https://linkedin.com/company/blossomshealth",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@blossomhealthdpc.com",
+    "twitter_url": ""
   }
 }
