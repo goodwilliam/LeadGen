@@ -16252,5 +16252,343 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/": {
+    "valid": false
+  },
+  "https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6": {
+    "valid": false
+  },
+  "https://venturebeat.com/orchestration/the-consequential-ai-work-that-actually-moves-the-needle-for-enterprises": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/26/qualified-health-raises-125m-transform-enterprise-healthcare-systems-adopt-ai/": {
+    "valid": true,
+    "company": "Qualified Health",
+    "amount_str": "$125M",
+    "website": "https://www.qualifiedhealthai.com",
+    "linkedin_url": "https://linkedin.com/company/qualified-health",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@qualifiedhealthai.com",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/26/steno-raises-49m-change-court-reporting-ai-enabled-transcript-analysis/": {
+    "valid": true,
+    "company": "Steno",
+    "amount_str": "$49M",
+    "website": "https://steno.com",
+    "linkedin_url": "https://linkedin.com/company/steno-inc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "concierge@steno.com",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/berger-montague-pc-investigates-walmart-incs-board-of-directors-for-breach-of-fiduciary-duty-nasdaq-wmt-302725777.html": {
+    "valid": false
+  },
+  "https://www.aol.com/articles/8th-grader-stands-alone-last-131443710.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://s.yimg.com/oa/consent.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.aol.com/articles/exclusive-blossom-health-raises-20-120000419.html": {
+    "valid": true,
+    "company": "Blossom Health",
+    "amount_str": "$20 m",
+    "website": "https://www.blossomhealthservices.com",
+    "linkedin_url": "https://linkedin.com/company/blossomshealth",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://www.inkl.com/news/exclusive-blossom-health-raises-20-million-to-bring-an-ai-copilot-to-psychiatry": {
+    "valid": true,
+    "company": "Blossom Health",
+    "amount_str": "$20 m",
+    "website": "https://blossomdpc.com",
+    "linkedin_url": "https://linkedin.com/company/blossomshealth",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@blossomhealthdpc.com",
+    "twitter_url": ""
+  },
+  "https://x.com/TFNBreakingNews/status/2036818615538950443": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.f1dc7e4a.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/SebJohnsonUK/status/2036760006629142734": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.f1dc7e4a.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://polsky.uchicago.edu/2026/03/26/george-shultz-innovation-fund-announces-4-finalists-pitching-for-potential-investment/": {
+    "valid": true,
+    "company": "George Shultz Innovation Fund",
+    "amount_str": "",
+    "website": "https://polsky.uchicago.edu",
+    "linkedin_url": "https://linkedin.com/company/polsky-center",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "polsky@uchicago.edu",
+    "twitter_url": "https://x.com/polskycenter"
+  },
+  "https://www.techbuzz.ai/articles/conntour-raises-7m-to-make-security-cameras-searchable-with-ai": {
+    "valid": true,
+    "company": "Conntour",
+    "amount_str": "$7M",
+    "website": "https://conntour.com",
+    "linkedin_url": "https://linkedin.com/company/conntour",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://arcticstartup.com/galdera-labs-raises-e1-5m-pre-seed/?amp=1": {
+    "valid": true,
+    "company": "Klarna alumni",
+    "amount_str": "\u20ac1.5M",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/03/industrial-heating-drives-20-of-global-energy-demand-as-solidwatts-secures-e1-9-million-seed-round/": {
+    "valid": false
+  },
+  "https://www.clevelandjewishnews.com/jns/israel-s-pre-seed-startups-see-17-valuation-jump-as-ai-drives-competition-for-top/article_45a8f97d-cd44-510e-bc2e-505b5897c5c2.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/25/deleteme-acquires-social-media-security-tool-block-party/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.panewslab.com/en/articles/019d2a0b-bc11-757d-80ef-219e5522daf7": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/03/26/renasens-raises-e10m-seed/": {
+    "valid": false
+  },
+  "https://www.morningstar.com/news/pr-newswire/20260326ln19175/conntour-transforms-video-intelligence-with-limitless-ai-search-launches-with-7m-seed-round": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/il/news-releases/conntour-transforms-video-intelligence-with-limitless-ai-search-launches-with-7m-seed-round-302726063.html": {
+    "valid": false
+  },
+  "https://arcticstartup.com/noru-raises-e553-9k/": {
+    "valid": false
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/sigmas-raises-1m-seed-round-124500084.html": {
+    "valid": true,
+    "company": "SIGMAS",
+    "amount_str": "$1M",
+    "website": "https://sigmas.com",
+    "linkedin_url": "https://linkedin.com/company/sigmasinc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.calcalistech.com/ctechnews/article/rk5onjgjbe": {
+    "valid": true,
+    "company": "Conntour",
+    "amount_str": "$7 m",
+    "website": "https://www.conntour.com",
+    "linkedin_url": "https://linkedin.com/company/conntour",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@conntour.com",
+    "twitter_url": ""
+  },
+  "https://fintech.global/2026/03/26/grand-raises-5m-pre-seed-to-build-ai-trade-trust-network/": {
+    "valid": true,
+    "company": "Grand",
+    "amount_str": "$5m",
+    "website": "https://heygrand.com",
+    "linkedin_url": "https://linkedin.com/company/heygrand",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/heygrandhq"
+  },
+  "https://www.reddit.com/r/startups/comments/1s4aox4/i_will_not_promote_how_do_you_compensate_for_vc/": {
+    "valid": false
+  },
+  "https://www.executivebiz.com/articles/escape-velocity-diffraqtion-quantum": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/prickly-pear-health-raises-over-600k-in-pre-seed-extension-funding.html": {
+    "valid": false
+  },
+  "https://femtechinsider.com/prickly-pear-health-expands-pre-seed-to-over-600k-for-ai-powered-womens-brain-health-platform/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://pricklypear.io",
+    "linkedin_url": "https://linkedin.com/company/prickly-pear-health",
+    "founder_name": "Prickly Pear Health",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://finance.yahoo.com/sectors/healthcare/articles/arizona-femtech-startup-prickly-pear-130100415.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https:&#x2F;&#x2F;www.yahoo.com&#x2F;",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.tipranks.com/news/private-companies/prickly-pear-health-expands-pre-seed-round-to-600k-to-scale-ai-womens-brain-health-platform": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thebesttimes.com/financial/arizona-femtech-startup-prickly-pear-health-expands-pre-seed-funding-to-more-than-600k-with/article_d57a0dc8-3774-5efb-8b62-8061fd433cef.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thebridge.jp/en/tag/innovative-space-carrier": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/arizona-femtech-startup-prickly-pear-health-expands-pre-seed-funding-to-more-than-600k-with-investment-from-emmeline-ventures-302725910.html": {
+    "valid": false
+  },
+  "https://incubees.com/magical-nest-operator-raanro-raises-rs-4-12-cr-pre-seed-funding/": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DWTpTdKCpoX/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "post from",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://beamstart.com/news/seed-funding-hasnt-stalled-but-17745233647582": {
+    "valid": false
+  },
+  "https://www.statnews.com/2026/03/26/data-show-people-racing-to-chatbots-health-tech/": {
+    "valid": false
+  },
+  "https://indianstartupnews.com/funding/qweebi-a-startup-that-allows-schools-to-run-hands-on-engineering-and-robotics-projects-raises-500000-11358713": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.ampproject.org/v0.js",
+    "linkedin_url": "",
+    "founder_name": "Qweebi founders Vivek Seetharaman",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.wamda.com/2026/03/goswap-secures-backing-azur-innovation-fund-expand-urban-mobility-network": {
+    "valid": true,
+    "company": "GoSwap",
+    "amount_str": "",
+    "website": "https://help.goswap.exchange",
+    "linkedin_url": "https://linkedin.com/company/goswap-sarl",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://inc42.com/startups/ai-wearables-neosapien-make-the-most-of-this-wave/": {
+    "valid": false
+  },
+  "https://www.colorado.edu/business/deming/news/2026/03/24/how-zoe-unsell-flexing-her-entrepreneurship-muscle": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://foreverbuffsnetwork.com/groups/4/feed",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bwdisrupt.com/article/qweebi-raises-500k-from-ipv-to-scale-stem-learning-across-schools-599359": {
+    "valid": true,
+    "company": "Qweebi",
+    "amount_str": "$500K",
+    "website": "https://qweebi.squarespace.com",
+    "linkedin_url": "https://linkedin.com/company/qweebi",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@qweebi.com",
+    "twitter_url": "https://x.com/qweebi"
+  },
+  "https://theouut.com/moroccos-goswap-secures-seed-funding-to-scale-battery-swap-ev-infrastructure-nationwide/": {
+    "valid": true,
+    "company": "Morocco's GoSwap",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "of GoSwap",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/TFNBreakingNews/status/2037124416682000702": {
+    "valid": false
   }
 }
