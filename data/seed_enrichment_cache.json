@@ -15823,5 +15823,131 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/26/giraffe360-raises-10m-series-b-financing-led-by-cipio-partners/": {
+    "valid": true,
+    "company": "Giraffe360",
+    "amount_str": "$10M",
+    "website": "https://www.giraffe360.com",
+    "linkedin_url": "https://linkedin.com/company/giraffe360",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/26/sous-secures-eur4m-to-develop-ai-growth-tools-for-restaurants/": {
+    "valid": true,
+    "company": "SOUS",
+    "amount_str": "\u20ac4M",
+    "website": "https://sus-sous.jp",
+    "linkedin_url": "https://linkedin.com/company/sousai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@sus-sous.jp",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/allergan-aesthetics-reinforces-scientific-differentiation-and-leadership-with-21-evidence-based-e-posters-at-the-2026-aesthetic--anti-aging-medicine-world-congress-amwc-302725131.html": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/03/26/amsterdam-based-sous-raises-e4-million-to-become-the-ai-powered-sous-chef-for-restaurant-growth/": {
+    "valid": false
+  },
+  "https://en.wowtale.net/2026/03/26/233744/": {
+    "valid": true,
+    "company": "LPHYSIO",
+    "amount_str": "$200K",
+    "website": "https://lphysio.co.kr",
+    "linkedin_url": "",
+    "founder_name": "said Heesung Lee",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DWTD31JDVtu/": {
+    "valid": true,
+    "company": "Pranos Fusion",
+    "amount_str": "$6.8 m",
+    "website": "https://www.pranosfusion.energy",
+    "linkedin_url": "https://linkedin.com/company/pranos-fusion",
+    "founder_name": "Photo by",
+    "founder_linkedin_url": "",
+    "contact_email": "info@pranosfusion.energy",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/eunice-raises-8-million-in-funding": {
+    "valid": false
+  },
+  "https://letsdatascience.com/news/krane-raises-9-million-for-ai-agents-86513ac3": {
+    "valid": false
+  },
+  "https://www.mexc.com/news/981700": {
+    "valid": true,
+    "company": "Payy",
+    "amount_str": "$6 m",
+    "website": "https://payy.services",
+    "linkedin_url": "https://linkedin.com/company/payy",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@payyservices.com",
+    "twitter_url": ""
+  },
+  "https://ventureburn.com/littlebird-raises-11m-for-full%E2%80%91context-ai-assistant/": {
+    "valid": true,
+    "company": "Littlebird",
+    "amount_str": "$11M",
+    "website": "https://littlebird.ai",
+    "linkedin_url": "https://linkedin.com/company/littlebirdai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/LittlebirdAI"
+  },
+  "https://www.artificiallawyer.com/2026/03/26/newmod-general-legal-hits-11-5m-funding-in-3-months/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wp.me/p8cny6-a6F",
+    "linkedin_url": "",
+    "founder_name": "who previously was",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.venturelab.swiss/SolidWatts-raises-CHF-18M-to-switch-industrial-heating-from-gas-to-clean-electricity": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/03/amsterdam-based-sous-raises-e4-million-to-become-the-ai-powered-sous-chef-for-restaurant-growth/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/seed-speed-backs-leads-sous-e4m-round-to-build-ai-growth-platform-for-restaurants/": {
+    "valid": false
+  },
+  "https://x.com/TweetThreatNews/status/2036956323808477590": {
+    "valid": true,
+    "company": "Onit Security",
+    "amount_str": "$11 M",
+    "website": "https://www.prnewswire.com",
+    "linkedin_url": "https://linkedin.com/company/pr-newswire",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/PRNewswire"
+  },
+  "https://www.linkedin.com/posts/eu-startups-menlo-media_vuelo-secures-64-million-in-seed-funding-activity-7442582734478163968-XDTM": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/news/opinion/the-startup-funding-roadmap-navigating-every-vc-stage/ar-AA1ZoJhe": {
+    "valid": false
+  },
+  "https://crypto.news/payy-raises-6m-seed-to-build-private-stablecoin-payments-on-zero-knowledge-rails/": {
+    "valid": true,
+    "company": "Payy",
+    "amount_str": "$6m",
+    "website": "https://payy.network",
+    "linkedin_url": "https://linkedin.com/company/payy",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@payy.link",
+    "twitter_url": "https://x.com/payy_link"
   }
 }
