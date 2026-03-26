@@ -15949,5 +15949,308 @@
     "founder_linkedin_url": "",
     "contact_email": "hello@payy.link",
     "twitter_url": "https://x.com/payy_link"
+  },
+  "https://news.crunchbase.com/venture/seed-funding-skewing-larger-ai-competitive-data/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/26/allday-goods-raises-ps765k-to-scale-its-cult-recycled-plastic-knife-brand/": {
+    "valid": true,
+    "company": "Allday Goods",
+    "amount_str": "\u00a3765K",
+    "website": "https://www.alldaygoods.co.uk",
+    "linkedin_url": "https://linkedin.com/company/alldaygoods",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@alldaygoods.co.uk",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/26/most-uk-startups-aren-t-in-london-but-most-funding-still-is/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/26/theia-insights-grabs-8m-to-map-the-global-economy-with-ai/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/26/klarna-veterans-launch-galdera-with-eur15m-for-ai-financial-modeling/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/26/from-early-stage-depth-to-global-scale-ups-the-finnish-tech-ecosystem/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/new-book-provides-an-essential-roadmap-to-a-successful-business-exit-302725642.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/sigmas-raises-1m-seed-round-led-by-mucker-capital-and-hongshan-capital-formerly-sequoia-china-302725851.html": {
+    "valid": true,
+    "company": "SIGMAS",
+    "amount_str": "$1M",
+    "website": "https://sigmas.com",
+    "linkedin_url": "https://linkedin.com/company/sigmasinc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.businessinsider.com/startup-just-raised-6-million-from-8vc-and-marc-benioff-2026-3": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://i.insider.com/69c4295248461c18d7be605c",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.businesspost.ie/tech/repeat-founders-raise-5m-for-new-ai-payments-startup-grand/": {
+    "valid": true,
+    "company": "Repeat founders",
+    "amount_str": "$5m",
+    "website": "https://www.repeat.vc",
+    "linkedin_url": "https://linkedin.com/company/repeatfounders",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/mountly-raises-600k-alps-food-delivery/": {
+    "valid": false
+  },
+  "https://www.aol.com/articles/verizon-receives-vote-confidence-goldman-164203133.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://s.yimg.com/oa/consent.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/sous-raises-4-million-seed-round": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/krane-raises-9-million-in-seed-round": {
+    "valid": true,
+    "company": "Krane",
+    "amount_str": "$9 M",
+    "website": "https://www.krane.tech",
+    "linkedin_url": "https://linkedin.com/company/krane",
+    "founder_name": "Eshan Jayamanne",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fortune.com/2026/03/26/xfx-17-million-series-a-stablecoins-fiat-castle-island-ventures/": {
+    "valid": true,
+    "company": "Foreign exchange startup XFX",
+    "amount_str": "$17 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/charlotte/news/2026/03/26/setsale-funding-hvac-ai-york-ie-palmetto-finturf.html": {
+    "valid": true,
+    "company": "Charlotte-based SetSale has recently",
+    "amount_str": "$2 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://invidis.com/news/2026/03/30m-deal-canva-goes-ooh-with-doohly-acquisition/": {
+    "valid": false
+  },
+  "https://impactalpha.com/sunna-ventures-leads-4-8-million-seed-round-in-backchannel-to-expand-brazils-surplus-fashion-marketplace/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupticker.ch/en/news/mesh-secures-us-3-8-million-seed-round-to-automate-rebar-construction-globally": {
+    "valid": false
+  },
+  "https://www.inc.com/ali-donaldson/brooke-shields-got-inspiration-for-commerce-in-an-unlikely-place-zoom/91319484": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.calcalistech.com/ctechnews/article/sjxtowmsbe": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://newmedia.calcalist.co.il/ctech/testimonials/index.html",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "judith.hoffmann@calcalist.co.il",
+    "twitter_url": ""
+  },
+  "https://www.startupdaily.net/topic/funding/twiggy-forrest-backed-emissions-agtech-rumin8-raises-4-3-million-for-kiwi-plans/": {
+    "valid": true,
+    "company": "Twiggy Forrest-backed emissions agtech Rumin8",
+    "amount_str": "$4.3 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "cofounder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/former-openai-and-deepmind-researchers-eye-7b-valuation-for-ai-startup-periodic-labs/": {
+    "valid": false
+  },
+  "https://www.startupdaily.net/other/online-retailer-koala-raises-20-million-for-public-listing/": {
+    "valid": true,
+    "company": "Online retailer Koala",
+    "amount_str": "$20 m",
+    "website": "https://www.startupdaily.net",
+    "linkedin_url": "https://linkedin.com/company/startup-daily",
+    "founder_name": "Mitch Taylor",
+    "founder_linkedin_url": "",
+    "contact_email": "very.unusual.@.unusual.com",
+    "twitter_url": "https://x.com/startupdailyanz"
+  },
+  "https://fortune.com/2026/03/26/the-one-person-unicorn-myth-miracle-future-of-startups-polsia/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cookielaw.org/consent/906dc33b-1fc3-4b2c-a324-8bc0b7db9050/OtAutoBlock.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://uk.news.yahoo.com/firms-behind-200m-investment-surge-093000750.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://consent.cmp.oath.com/version/7.0.1/cmp.js",
+    "linkedin_url": "",
+    "founder_name": "Resurrect Bio CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/reel/DWV01bGym5c/": {
+    "valid": false
+  },
+  "https://x.com/jobosonchisa/status/2036961325587288447": {
+    "valid": false
+  },
+  "https://inforcapital.com/news/argentine-fintech-rexi-secures-12m-in-pre-seed-funding/": {
+    "valid": true,
+    "company": "Rexi",
+    "amount_str": "$1.2M",
+    "website": "https://app.rexiportal.com",
+    "linkedin_url": "https://linkedin.com/company/rexifinance",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/cryptogics/status/2036794733586952516": {
+    "valid": true,
+    "company": "Previously Perle",
+    "amount_str": "$17.5M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.chemeurope.com/en/news/1188364/gennate-secures-550-000-in-seed-funding-for-its-nano-fertiliser-platform.html": {
+    "valid": true,
+    "company": "Gennate",
+    "amount_str": "",
+    "website": "https://gennate.com",
+    "linkedin_url": "https://linkedin.com/company/gennate",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@gennate.com",
+    "twitter_url": ""
+  },
+  "https://bigtechthisweek.com/p/the-most-consequential-african-startup-of-this-decade-takes-flight": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "of Terra Industries",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/dailyexcelsior/posts/bioinnovate-2026-kicks-off-at-csir-iiim-potential-startup-received-seed-fundingr/1357525776412297/": {
+    "valid": false
+  },
+  "https://thenextweb.com/news/sous-4m-seed-ai-restaurant-growth-platform": {
+    "valid": false
+  },
+  "https://techfundingnews.com/german-us-vc-futurepresent-steps-out-of-stealth-with-300m-fund-to-back-ai-startups/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.mexc.com/news/982929": {
+    "valid": true,
+    "company": "PeakAI",
+    "amount_str": "$2M",
+    "website": "https://www.peakai.com",
+    "linkedin_url": "https://linkedin.com/company/peakai01",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://financialit.net/news/fundraising-news/eunice-raises-8m-replace-manual-due-diligence-institutional-grade-ai": {
+    "valid": true,
+    "company": "Eunice",
+    "amount_str": "$8M",
+    "website": "http://www.cityofeunice.org",
+    "linkedin_url": "https://linkedin.com/company/eunice-european-university",
+    "founder_name": "The round includes",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
