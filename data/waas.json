@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T12:52:10Z",
-  "count": 23,
+  "generated_at": "2026-03-26T18:53:10Z",
+  "count": 22,
   "jobs": [
     {
       "id": 92095,
@@ -13,7 +13,7 @@
       "companyBatch": "W26",
       "companyOneLiner": "Multimodal data provider for robotics and world modeling",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/ce063ef00a3ec0da3649fb79a819c0e6c1e88ebf.png",
-      "companyLastActiveAt": "about 21 hours ago",
+      "companyLastActiveAt": "1 day ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92095&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=31205"
     },
     {
@@ -87,6 +87,20 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D90485&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29989"
     },
     {
+      "id": 92507,
+      "title": "Product Designer",
+      "jobType": "fulltime",
+      "location": "Bangalore",
+      "roleType": "Web design",
+      "companyName": "Emergent",
+      "companySlug": "emergent",
+      "companyBatch": "S24",
+      "companyOneLiner": "AI app builder that turns your ideas into monetizable software.",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/86f3eae4a9616e976acbe6b16031d057f3c2fbc8.png",
+      "companyLastActiveAt": null,
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92507&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29765"
+    },
+    {
       "id": 78058,
       "title": "Product Designer",
       "jobType": "fulltime",
@@ -153,7 +167,7 @@
       "companyBatch": "W24",
       "companyOneLiner": "AI coach for your entire life",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/0586276952946e7eb368770c1670669a2ac319d6.png",
-      "companyLastActiveAt": "14 days ago",
+      "companyLastActiveAt": "15 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D91097&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29422"
     },
     {
@@ -251,7 +265,7 @@
       "companyBatch": "S23",
       "companyOneLiner": "AI patent drafting, prosecution, harvesting and more for legal teams.",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/cdb4c71ccbddd0ad292fc773c3cfb169d2a4a5ba.png",
-      "companyLastActiveAt": "about 20 hours ago",
+      "companyLastActiveAt": "1 day ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89229&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28825"
     },
     {
@@ -293,36 +307,8 @@
       "companyBatch": "W23",
       "companyOneLiner": "Advertising for the new internet",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/cbf1d46970daada2c04ef49b49592227799f0224.png",
-      "companyLastActiveAt": "about 19 hours ago",
+      "companyLastActiveAt": "1 day ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92398&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28178"
-    },
-    {
-      "id": 89704,
-      "title": "Visual Product Designer",
-      "jobType": "fulltime",
-      "location": "San Francisco",
-      "roleType": "Web design",
-      "companyName": "Pylon",
-      "companySlug": "pylon-2",
-      "companyBatch": "W23",
-      "companyOneLiner": "The only customer support platform built for B2B.",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/412a6b3ef532664df77532bc5d7ae3c1233de965.png",
-      "companyLastActiveAt": null,
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89704&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28069"
-    },
-    {
-      "id": 77880,
-      "title": "Product Designer",
-      "jobType": "fulltime",
-      "location": "San Francisco",
-      "roleType": "Web design",
-      "companyName": "Pylon",
-      "companySlug": "pylon-2",
-      "companyBatch": "W23",
-      "companyOneLiner": "The only customer support platform built for B2B.",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/412a6b3ef532664df77532bc5d7ae3c1233de965.png",
-      "companyLastActiveAt": null,
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D77880&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28069"
     }
   ]
 }
