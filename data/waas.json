@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-27T01:21:28Z",
+  "generated_at": "2026-03-27T06:56:40Z",
   "count": 22,
   "jobs": [
     {
@@ -27,7 +27,7 @@
       "companyBatch": "F25",
       "companyOneLiner": "TikTok for language learning",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/a9603ad6a62ae3ee9c8723521f8f2d852d664a89.png",
-      "companyLastActiveAt": "about 6 hours ago",
+      "companyLastActiveAt": "about 11 hours ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D90847&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=30848"
     },
     {
@@ -129,20 +129,6 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D88318&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29510"
     },
     {
-      "id": 88842,
-      "title": "Senior Product Designer",
-      "jobType": "fulltime",
-      "location": "San Francisco Bay Area",
-      "roleType": "Web design",
-      "companyName": "Retell AI",
-      "companySlug": "retell-ai",
-      "companyBatch": "W24",
-      "companyOneLiner": "Supercharge Your Contact Center Operations with AI Phone Agents",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/e52cdc0c1e4177276aba7fa2d8e4326d287620ca.png",
-      "companyLastActiveAt": "3 days ago",
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D88842&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29441"
-    },
-    {
       "id": 92338,
       "title": "Senior Product Designer | Full-Time | Remote",
       "jobType": "contract",
@@ -155,6 +141,20 @@
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/e52cdc0c1e4177276aba7fa2d8e4326d287620ca.png",
       "companyLastActiveAt": "5 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92338&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29441"
+    },
+    {
+      "id": 88842,
+      "title": "Senior Product Designer",
+      "jobType": "fulltime",
+      "location": "San Francisco Bay Area",
+      "roleType": "Web design",
+      "companyName": "Retell AI",
+      "companySlug": "retell-ai",
+      "companyBatch": "W24",
+      "companyOneLiner": "Supercharge Your Contact Center Operations with AI Phone Agents",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/e52cdc0c1e4177276aba7fa2d8e4326d287620ca.png",
+      "companyLastActiveAt": "3 days ago",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D88842&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29441"
     },
     {
       "id": 91097,
@@ -237,8 +237,22 @@
       "companyBatch": "S23",
       "companyOneLiner": "AI-Native CPQ & Billing for Modern Pricing Models",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/2e2a3ced5969028060bbaaf152193b5b6a2b3982.png",
-      "companyLastActiveAt": "15 days ago",
+      "companyLastActiveAt": "16 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D88819&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28844"
+    },
+    {
+      "id": 89229,
+      "title": "Motion Designer",
+      "jobType": "fulltime",
+      "location": "London, England, GB / New York, NY, US",
+      "roleType": "Animation",
+      "companyName": "Solve Intelligence",
+      "companySlug": "solve-intelligence",
+      "companyBatch": "S23",
+      "companyOneLiner": "AI patent drafting, prosecution, harvesting and more for legal teams.",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/cdb4c71ccbddd0ad292fc773c3cfb169d2a4a5ba.png",
+      "companyLastActiveAt": "1 day ago",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89229&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28825"
     },
     {
       "id": 77217,
@@ -255,18 +269,18 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D77217&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28825"
     },
     {
-      "id": 89229,
-      "title": "Motion Designer",
+      "id": 92532,
+      "title": "\ud83d\ude80 Founding Design Engineer",
       "jobType": "fulltime",
-      "location": "London, England, GB / New York, NY, US",
-      "roleType": "Animation",
-      "companyName": "Solve Intelligence",
-      "companySlug": "solve-intelligence",
+      "location": "San Francisco, CA, US",
+      "roleType": "Product design",
+      "companyName": "Readily",
+      "companySlug": "readily",
       "companyBatch": "S23",
-      "companyOneLiner": "AI patent drafting, prosecution, harvesting and more for legal teams.",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/cdb4c71ccbddd0ad292fc773c3cfb169d2a4a5ba.png",
-      "companyLastActiveAt": "1 day ago",
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89229&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28825"
+      "companyOneLiner": "AI Compliance Platform for Healthcare Organizations",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/b6ed6b92c1866d1321f5db92edcd357309239ed5.png",
+      "companyLastActiveAt": null,
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92532&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28809"
     },
     {
       "id": 88550,
@@ -295,20 +309,6 @@
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/973d2f0c6c4d07505113e974a08d18864eb95d54.png",
       "companyLastActiveAt": null,
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89060&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28650"
-    },
-    {
-      "id": 92398,
-      "title": "Product Designer",
-      "jobType": "fulltime",
-      "location": "US / Remote (US)",
-      "roleType": "Product design",
-      "companyName": "Vector",
-      "companySlug": "vector",
-      "companyBatch": "W23",
-      "companyOneLiner": "Advertising for the new internet",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/cbf1d46970daada2c04ef49b49592227799f0224.png",
-      "companyLastActiveAt": "1 day ago",
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92398&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28178"
     }
   ]
 }
