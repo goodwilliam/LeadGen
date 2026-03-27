@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-03-27T05:32:18.212989Z",
-  "count": 32,
-  "enriched_count": 23,
+  "generated_at": "2026-03-27T08:44:21.835427Z",
+  "count": 31,
+  "enriched_count": 21,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "STEM Edtech Startup Qweebi Secures $500K Funding for US Expansion - Outlook Business",
+      "article_url": "https://www.outlookbusiness.com/corporate/stem-edtech-startup-qweebi-secures-500k-funding-for-us-expansion",
+      "company": "STEM Edtech Startup Qweebi",
+      "amount_str": "$500K",
+      "pub_date": "2026-03-27T05:48:47Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "IT collaboration startup Support Fusion raises $1 million pre-Seed for offshore ambitions",
+      "article_url": "https://www.startupdaily.net/topic/funding/it-collaboration-startup-support-fusion-raises-1-million-pre-seed-for-offshore-ambitions/",
+      "company": "IT collaboration startup Support Fusion",
+      "amount_str": "$1 m",
+      "pub_date": "2026-03-27T05:01:03Z",
+      "website": "https://www.startupdaily.net",
+      "linkedin_url": "https://linkedin.com/company/startup-daily",
+      "founder_name": "Support Fusion",
+      "founder_linkedin_url": "",
+      "contact_email": "very.unusual.@.unusual.com",
+      "twitter_url": "https://x.com/startupdailyanz"
+    },
     {
       "source": "Google Alerts",
       "title": "Megapot raises $5 million in funding, led by Dragonfly, with the aim of reshaping the global ...",
@@ -33,17 +61,17 @@
     },
     {
       "source": "Google Alerts",
-      "title": "IT collaboration startup Support Fusion raises $1 million pre-Seed for offshore ambitions",
-      "article_url": "https://www.linkedin.com/posts/startup-daily_it-collaboration-startup-support-fusion-raises-activity-7443069635349991424-tAJ2",
-      "company": "IT collaboration startup Support Fusion",
-      "amount_str": "$1 m",
-      "pub_date": "2026-03-27T01:15:25Z",
-      "website": "https://www.startupdaily.net",
-      "linkedin_url": "https://linkedin.com/company/startup-daily",
+      "title": "Former Meta AI pioneer Yann LeCun raises over $1 billion for new startup - MSN",
+      "article_url": "https://www.msn.com/en-us/money/companies/former-meta-ai-pioneer-yann-lecun-raises-over-1-billion-for-new-startup/ar-AA1XTGZC?uxmode=ruby",
+      "company": "Meta AI pioneer Yann LeCun",
+      "amount_str": "$1 b",
+      "pub_date": "2026-03-26T23:47:11Z",
+      "website": "https://www.wsj.com",
+      "linkedin_url": "",
       "founder_name": "",
       "founder_linkedin_url": "",
-      "contact_email": "very.unusual.@.unusual.com",
-      "twitter_url": "https://x.com/startupdailyanz"
+      "contact_email": "",
+      "twitter_url": ""
     },
     {
       "source": "Google Alerts",
@@ -228,20 +256,6 @@
       "twitter_url": "https://x.com/polskycenter"
     },
     {
-      "source": "Google Alerts",
-      "title": "Klarna alumni raises \u20ac1.5M pre-seed to build AI-native financial modeling platform - ArcticStartup",
-      "article_url": "https://arcticstartup.com/galdera-labs-raises-e1-5m-pre-seed/?amp=1",
-      "company": "Klarna alumni",
-      "amount_str": "\u20ac1.5M",
-      "pub_date": "2026-03-26T15:21:42Z",
-      "website": "",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
       "source": "SiliconAngle",
       "title": "Qualified Health raises $125M to transform how enterprise healthcare systems adopt AI",
       "article_url": "https://siliconangle.com/2026/03/26/qualified-health-raises-125m-transform-enterprise-healthcare-systems-adopt-ai/",
@@ -253,20 +267,6 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "contact@qualifiedhealthai.com",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Israeli AI startup Conntour raises $7 million Seed round to transform video surveillance | CTech",
-      "article_url": "https://www.linkedin.com/posts/ctech-by-calcalist_israeli-ai-startup-conntour-raises-7-million-activity-7442911287497498624-0jTB",
-      "company": "Conntour",
-      "amount_str": "$7 m",
-      "pub_date": "2026-03-26T15:10:04Z",
-      "website": "https://www.conntour.com",
-      "linkedin_url": "https://linkedin.com/company/conntour",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "contact@conntour.com",
       "twitter_url": ""
     },
     {
@@ -435,20 +435,6 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "aleksandra.radwanska@entrixenergy.com",
-      "twitter_url": ""
-    },
-    {
-      "source": "tech.eu",
-      "title": "PAVE Space secures $40M to fast-track satellite deployment",
-      "article_url": "https://tech.eu/2026/03/25/pave-space-secures-40m-to-fast-track-satellite-deployment/",
-      "company": "PAVE Space",
-      "amount_str": "$40M",
-      "pub_date": "2026-03-25T11:00:00Z",
-      "website": "https://pave.space",
-      "linkedin_url": "https://linkedin.com/company/pavespace",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
       "twitter_url": ""
     }
   ]

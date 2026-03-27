@@ -17023,5 +17023,94 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/max-stock-limited-announces-change-in-shares-held-by-an-interested-party-302727055.html": {
+    "valid": false
+  },
+  "https://quasa.io/media/how-a-5-000-check-sparked-a-700-000-chain-reaction-never-dismiss-a-small-investor": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://mc.yandex.ru/metrika/tag.js",
+    "linkedin_url": "",
+    "founder_name": "The Brutal Lesson Every",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/03/utrechts-laigo-bio-completes-final-close-of-e17-million-seed-round-to-advance-cancer-and-autoimmune-therapies/": {
+    "valid": false
+  },
+  "https://www.techpartner.news/news/support-fusion-raises-1-million-in-pre-seed-round-624623": {
+    "valid": true,
+    "company": "Support Fusion",
+    "amount_str": "$1 m",
+    "website": "https://suppfusion.com",
+    "linkedin_url": "https://linkedin.com/company/support-fusion",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.outlookbusiness.com/corporate/stem-edtech-startup-qweebi-secures-500k-funding-for-us-expansion": {
+    "valid": true,
+    "company": "STEM Edtech Startup Qweebi",
+    "amount_str": "$500K",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupdaily.net/topic/funding/it-collaboration-startup-support-fusion-raises-1-million-pre-seed-for-offshore-ambitions/": {
+    "valid": true,
+    "company": "IT collaboration startup Support Fusion",
+    "amount_str": "$1 m",
+    "website": "https://www.startupdaily.net",
+    "linkedin_url": "https://linkedin.com/company/startup-daily",
+    "founder_name": "Support Fusion",
+    "founder_linkedin_url": "",
+    "contact_email": "very.unusual.@.unusual.com",
+    "twitter_url": "https://x.com/startupdailyanz"
+  },
+  "https://infotechlead.com/tech/venture-capital-funding-miraterra-soil-victus-technologies-harvey-94702": {
+    "valid": false
+  },
+  "https://nordic9.com/news/grand-raised-5m-in-a-pre-seed-funding-round-led-by-20vc-with-participation-from-nap-and-firedrop/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.tamradar.com/funding-rounds/hyground-pre-seed-3m-sovereign-sre": {
+    "valid": false
+  },
+  "https://www.businesstimes.com.sg/startups-tech/time-its-different-launchpad-one-norths-next-act-signals-maturing-startup-ecosystem": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-us/money/companies/former-meta-ai-pioneer-yann-lecun-raises-over-1-billion-for-new-startup/ar-AA1XTGZC?uxmode=ruby": {
+    "valid": true,
+    "company": "Meta AI pioneer Yann LeCun",
+    "amount_str": "$1 b",
+    "website": "https://www.wsj.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
