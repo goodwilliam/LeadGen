@@ -17271,5 +17271,293 @@
   },
   "https://techfundingnews.com/sequoia-and-gic-co-lead-harveys-200m-round-at-11b-valuation-to-scale-ai-agents-across-law-firms/": {
     "valid": false
+  },
+  "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-openai-shield/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/27/kandou-ai-bags-225m-series-a/": {
+    "valid": true,
+    "company": "Kandou AI",
+    "amount_str": "$225M",
+    "website": "https://www.kandou.com",
+    "linkedin_url": "https://linkedin.com/company/kandou-bus-s-a-",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "sales@kandou.ai",
+    "twitter_url": "https://x.com/kandoubus"
+  },
+  "https://www.prnewswire.com/news-releases/deccan-ai-raises-25-million-to-build-super-accurate-ai-302727157.html": {
+    "valid": true,
+    "company": "Deccan AI",
+    "amount_str": "$25 M",
+    "website": "https://www.deccan.ai",
+    "linkedin_url": "https://linkedin.com/company/ai-deccan",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hey@deccan.ai",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/consumers-energys-reliability-action-plan-provides-dollars-to-power-a-stronger-michigan-electric-grid-302727421.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/cellebrite-lanza-guardian-investigate-el-centro-neuralgico-impulsado-por-ia-302727393.html": {
+    "valid": false
+  },
+  "https://dot.la/la-startup-steno-49m-lawsuits-2676629662.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://assets.rebelmouse.io",
+    "linkedin_url": "",
+    "founder_name": "created by",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://businesscloud.co.uk/news/this-co-founders-launch-utterly-different-business-in-keith/": {
+    "valid": false
+  },
+  "https://www.backscoop.com/newsletter-posts/octen-emerges-from-stealth-and-raises-a-10m-seed": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.prod.website-files.com/610765628ce81c43489ae361/css/backscoop-test.webflow.shared.96d77d034.css",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://innovation-village.com/moroccan-startup-goswap-secures-funding-to-boost-ev-battery-swapping-in-morocco/": {
+    "valid": true,
+    "company": "Moroccan startup GoSwap",
+    "amount_str": "",
+    "website": "https://techbuild.africa",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.fintechfutures.com/venture-capital-funding/icymi-fintech-funding-round-up-chexy-littlefish-happy-pay-and-more": {
+    "valid": false
+  },
+  "https://www.dealstreetasia.com/stories/bellatrix-aerospace-uncia-477318": {
+    "valid": true,
+    "company": "Bellatrix Aerospace eyes funding; Uncia",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/26/16-of-the-most-interesting-startups-from-yc-w26-demo-day/": {
+    "valid": false
+  },
+  "https://thenextweb.com/news/laigo-bio-17m-seed-round": {
+    "valid": true,
+    "company": "Laigo Bio",
+    "amount_str": "\u20ac17M",
+    "website": "https://www.laigobio.com/en",
+    "linkedin_url": "https://linkedin.com/company/laigobio",
+    "founder_name": "who was confirmed as",
+    "founder_linkedin_url": "",
+    "contact_email": "contactus@laigobio.com",
+    "twitter_url": "https://x.com/LaigoBio"
+  },
+  "https://thequantuminsider.com/2026/03/27/rigetti-computing-intends-to-invest-100-million-in-uk-to-accelerate-quantum-computing-development/": {
+    "valid": false
+  },
+  "https://therecursive.com/cee-startup-weekly-funding-venture-capital-march/": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/conntour-raises-7-million-seed-round": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/deaku-raises-480k-pre-seed-funding": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/zypl-ai-bags-5-5m-bridge-round": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/origin-lands-30-million-series-a": {
+    "valid": false
+  },
+  "https://launchbaseafrica.com/2026/03/27/african-startup-deal-tracker-newest-deals-20/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://launchbaseafrica.gumroad.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/03/a-law-firm-that-never-sleeps-uk-based-keith-raises-e2-3-million-ahead-of-q3-2026-launch/": {
+    "valid": false
+  },
+  "https://www.bebeez.eu/2026/03/27/unleash-raises-35-million-series-b/": {
+    "valid": true,
+    "company": "Unleash",
+    "amount_str": "$35 m",
+    "website": "https://www.unleashtheavatargame.com",
+    "linkedin_url": "https://linkedin.com/company/unleash",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/utathegame"
+  },
+  "https://www.techloy.com/latin-americas-biggest-startup-funding-rounds-in-week-13-led-by-prestamype-with-big-bets-on-fintech-and-ai/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techloy.com/week-13s-biggest-startup-funding-rounds-in-the-middle-east-and-africa-led-by-notraffic-as-cybersecurity-and-ai-drew-the-biggest-checks/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/03/ai-raises-50m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.rockefeller.edu/news/39242-new-club-helps-early-career-scientists-explore-the-challenges-and-rewards-of-becoming-an-entrepreneur": {
+    "valid": false
+  },
+  "https://news.fintech.io/post/102mo9g/cleavr-raises-1m-in-pre-seed-funding": {
+    "valid": false
+  },
+  "https://x.com/Crypto_Dealflow/status/2037520057807392863": {
+    "valid": false
+  },
+  "https://entarabi.com/en/2026/03/cma-approves-new-regulations-for-financing-investment-funds-to-boost-market-growth/": {
+    "valid": false
+  },
+  "https://entarabi.com/en/2026/03/sama-licenses-two-firms-to-provide-open-banking-services-in-saudi-arabia/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.tamradar.com/funding-rounds/megapot-pre-seed-5m": {
+    "valid": true,
+    "company": "Megapot",
+    "amount_str": "$5M",
+    "website": "https://megapot.io",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@megapot.io",
+    "twitter_url": "https://x.com/megapot"
+  },
+  "https://fortune.com/2026/03/27/vc-firms-rarely-reinvent-themselves-kleiner-perkins-did-3-5-billion/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cookielaw.org/consent/906dc33b-1fc3-4b2c-a324-8bc0b7db9050/OtAutoBlock.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/instep-ai-secures-900k-pre-seed": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/cifrato-raises-over-1m-seed-round": {
+    "valid": false
+  },
+  "https://www.eurekamagazine.co.uk/content/news/stateful-robotics-raises-48m-to-advance-robotics-ai": {
+    "valid": true,
+    "company": "Stateful Robotics",
+    "amount_str": "$4.8m",
+    "website": "https://www.oxfordscienceenterprises.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "connect@oxfordsciences.com",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/03/soxton-ai-acquires-cipher.html": {
+    "valid": false
+  },
+  "https://x.com/TheSaaSNews/status/2037445869075927372": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/danielaalpert_arizona-femtech-startup-prickly-pear-health-activity-7443039077483933696-vn24": {
+    "valid": false
+  },
+  "https://www.panewslab.com/en/articles/019d2ead-4ae0-775f-8433-d5139a740732": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cloud.umami.is/script.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.analyticsinsight.net/amp/story/startups/weekly-funding-roundup-kandou-ai-raises-225-million-as-allure-security-hits-17-million": {
+    "valid": false
+  },
+  "https://www.startupresearcher.com/news/solidwatts-secures-usd2-2-million-to-decarbonize-industrial-heating": {
+    "valid": false
+  },
+  "https://techfundingnews.com/openai-backs-isara-ai-agents-94-million-funding/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/meta-9-trillion-valuation-executive-stock-options-2031/": {
+    "valid": false
+  },
+  "https://beamstart.com/news/israeli-ai-startup-conntour-raises-17745700221731": {
+    "valid": true,
+    "company": "Conntour",
+    "amount_str": "$7M",
+    "website": "https://www.conntour.com",
+    "linkedin_url": "https://linkedin.com/company/conntour",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@conntour.com",
+    "twitter_url": ""
+  },
+  "https://energycapitalpower.com/senegals-new-technological-deal-spurs-7-digital-projects-boosting-extractive-sector-potential/": {
+    "valid": false
+  },
+  "https://wublock.substack.com/p/wublockchain-weekly-us-real-estate": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/cxo-digital-pulse_edtech-startup-qweebi-secures-seed-funding-activity-7443254254238244865-l2iv": {
+    "valid": true,
+    "company": "Qweebi",
+    "amount_str": "",
+    "website": "https://qweebi.squarespace.com",
+    "linkedin_url": "https://linkedin.com/company/qweebi",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@qweebi.com",
+    "twitter_url": "https://x.com/qweebi"
+  },
+  "https://streamlinefeed.co.ke/news/new-venture-gateway-challenges-tech-funding-stagnation": {
+    "valid": false
   }
 }
