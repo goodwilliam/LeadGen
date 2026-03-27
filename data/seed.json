@@ -1,8 +1,64 @@
 {
-  "generated_at": "2026-03-27T01:31:24.669562Z",
-  "count": 29,
-  "enriched_count": 22,
+  "generated_at": "2026-03-27T05:32:18.212989Z",
+  "count": 32,
+  "enriched_count": 23,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Megapot raises $5 million in funding, led by Dragonfly, with the aim of reshaping the global ...",
+      "article_url": "https://www.panewslab.com/en/articles/019d2d0f-f25e-728c-b2eb-814e48e2ea86",
+      "company": "Megapot",
+      "amount_str": "$5 m",
+      "pub_date": "2026-03-27T03:55:59Z",
+      "website": "https://mega-pot.com",
+      "linkedin_url": "",
+      "founder_name": "and the",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "SiliconAngle",
+      "title": "Satellite navigation startup Xona Space nabs $170M investment",
+      "article_url": "https://siliconangle.com/2026/03/26/satellite-navigation-startup-xona-space-nabs-170m-investment/",
+      "company": "Satellite navigation startup Xona Space",
+      "amount_str": "$170M",
+      "pub_date": "2026-03-27T01:42:45Z",
+      "website": "https://www.msn.com",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "IT collaboration startup Support Fusion raises $1 million pre-Seed for offshore ambitions",
+      "article_url": "https://www.linkedin.com/posts/startup-daily_it-collaboration-startup-support-fusion-raises-activity-7443069635349991424-tAJ2",
+      "company": "IT collaboration startup Support Fusion",
+      "amount_str": "$1 m",
+      "pub_date": "2026-03-27T01:15:25Z",
+      "website": "https://www.startupdaily.net",
+      "linkedin_url": "https://linkedin.com/company/startup-daily",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "very.unusual.@.unusual.com",
+      "twitter_url": "https://x.com/startupdailyanz"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Eunice raises $8m in Seed funding, Chris King - News by FinTech Collective",
+      "article_url": "https://news.fintech.io/post/102mo82/eunice-raises-8m-in-seed-funding",
+      "company": "Eunice",
+      "amount_str": "$8m",
+      "pub_date": "2026-03-26T22:32:12Z",
+      "website": "http://www.cityofeunice.org",
+      "linkedin_url": "https://linkedin.com/company/eunice-european-university",
+      "founder_name": "",
+      "founder_linkedin_url": "https://linkedin.com/in/eunice-dawson-b7268b45",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Idel raises $10.4M for intracellular pan-cancer drug delivery tech | BioWorld",
@@ -15,20 +71,6 @@
       "founder_name": "",
       "founder_linkedin_url": "https://linkedin.com/in/iverson-idel-6765a03b8",
       "contact_email": "info@idel.it",
-      "twitter_url": ""
-    },
-    {
-      "source": "SiliconAngle",
-      "title": "Theia Insights raises $8M to build dynamic classification system for financial markets",
-      "article_url": "https://siliconangle.com/2026/03/26/theia-insights-raises-8m-build-dynamic-classification-system-financial-markets/",
-      "company": "Theia Insights",
-      "amount_str": "$8M",
-      "pub_date": "2026-03-26T22:21:30Z",
-      "website": "https://www.theiainsights.com",
-      "linkedin_url": "https://linkedin.com/company/theia-insights",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
       "twitter_url": ""
     },
     {
@@ -47,17 +89,17 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Space Propulsion Startup Secures $40M for Dual-Use Technology - iHLS",
-      "article_url": "https://i-hls.com/archives/135559",
-      "company": "Space Propulsion Startup",
+      "title": "'AI doctor' Doctronic raises $40M Series B, but faces controversy on autonomous Rx ...",
+      "article_url": "https://telecareaware.com/ai-doctor-doctronic-raises-40m-series-b-but-faces-controversy-on-autonomous-rx-renewals-in-utah-and-effectiveness-claims/",
+      "company": "'AI doctor' Doctronic",
       "amount_str": "$40M",
-      "pub_date": "2026-03-26T19:05:24Z",
-      "website": "https://duck.ai",
+      "pub_date": "2026-03-26T20:50:16Z",
+      "website": "https://telecareaware.com",
       "linkedin_url": "",
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
-      "twitter_url": ""
+      "twitter_url": "https://x.com/telecareaware"
     },
     {
       "source": "Google Alerts",

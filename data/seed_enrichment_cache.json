@@ -16912,5 +16912,116 @@
     "founder_linkedin_url": "",
     "contact_email": "hey@deccan.ai",
     "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/26/satellite-navigation-startup-xona-space-nabs-170m-investment/": {
+    "valid": true,
+    "company": "Satellite navigation startup Xona Space",
+    "amount_str": "$170M",
+    "website": "https://www.msn.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/cort-investors-have-opportunity-to-lead-corcept-therapeutics-incorporated-securities-fraud-lawsuit-302726790.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/cigl-investors-have-opportunity-to-lead-concorde-international-group-ltd-securities-fraud-lawsuit-302726792.html": {
+    "valid": false
+  },
+  "https://x.com/joinplejj/status/2036960737579397271": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.f1dc7e4a.js",
+    "linkedin_url": "",
+    "founder_name": "Meanwhile the average",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupresearcher.com/news/sous-secures-usd4-6-million-to-empower-restaurants-with-ai": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/startup-daily_it-collaboration-startup-support-fusion-raises-activity-7443069635349991424-tAJ2": {
+    "valid": true,
+    "company": "IT collaboration startup Support Fusion",
+    "amount_str": "$1 m",
+    "website": "https://www.startupdaily.net",
+    "linkedin_url": "https://linkedin.com/company/startup-daily",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "very.unusual.@.unusual.com",
+    "twitter_url": "https://x.com/startupdailyanz"
+  },
+  "https://telecareaware.com/ai-doctor-doctronic-raises-40m-series-b-but-faces-controversy-on-autonomous-rx-renewals-in-utah-and-effectiveness-claims/": {
+    "valid": true,
+    "company": "'AI doctor' Doctronic",
+    "amount_str": "$40M",
+    "website": "https://telecareaware.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/telecareaware"
+  },
+  "https://www.panewslab.com/en/articles/019d2d0f-f25e-728c-b2eb-814e48e2ea86": {
+    "valid": true,
+    "company": "Megapot",
+    "amount_str": "$5 m",
+    "website": "https://mega-pot.com",
+    "linkedin_url": "",
+    "founder_name": "and the",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.datacenterdynamics.com/en/news/rigetti-to-invest-up-100m-in-uk-to-accelerate-quantum-computing-development/": {
+    "valid": false
+  },
+  "https://news.fintech.io/post/102mo84/grand-raises-5m-in-pre-seed-funding": {
+    "valid": true,
+    "company": "Grand",
+    "amount_str": "$5m",
+    "website": "https://www.grand-seiko.com",
+    "linkedin_url": "https://linkedin.com/company/grandtalent",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://news.fintech.io/post/102mo82/eunice-raises-8m-in-seed-funding": {
+    "valid": true,
+    "company": "Eunice",
+    "amount_str": "$8m",
+    "website": "http://www.cityofeunice.org",
+    "linkedin_url": "https://linkedin.com/company/eunice-european-university",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/eunice-dawson-b7268b45",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/pulse2news/posts/victus-technologies-seed-funding-raised-for-contested-autonomy-platform-developm/1616913767102313/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://parsers.vc/startup/inferact.ai/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
