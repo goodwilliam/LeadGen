@@ -17559,5 +17559,171 @@
   },
   "https://streamlinefeed.co.ke/news/new-venture-gateway-challenges-tech-funding-stagnation": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/betterinvesting-magazine-update-on-nvidia-corp-nasdaq-nvda-and-tennant-company-nyse-tnc-302727567.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/alliancebernstein-national-municipal-income-fund-inc-reports-first-quarter-earnings-302727484.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/fiee-inc-to-invest-approximately-3-0-million-to-build-ai-music-ecosystem-302727314.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/health-in-tech-announces-closing-of-7-0-million-private-placement-302727315.html": {
+    "valid": true,
+    "company": "Health In Tech",
+    "amount_str": "$7.0 M",
+    "website": "https://healthintech.com",
+    "linkedin_url": "https://linkedin.com/company/health-in-tech",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/dawson-geophysical-to-issue-fourth-quarter-and-year-end-2025-results-and-hold-investor-conference-call-302727569.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/alight-inc-alit-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302727568.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/power-solutions-international-inc-psix-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302727570.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/paysafe-limited-psfe-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302727566.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/hercules-capital-inc-htgc-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302727562.html": {
+    "valid": false
+  },
+  "https://impactalpha.com/the-weeks-dealflow-march-27-2026/": {
+    "valid": false
+  },
+  "https://techbullion.com/how-industry-publications-help-fintech-startups-gain-recognition/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "http://feeds.feedburner.com/Techbullion",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://innovation-village.com/south-african-fintech-littlefish-secures-9-5m-series-a-funding-to-boost-bank-merchant-services/": {
+    "valid": true,
+    "company": "South African fintech littlefish",
+    "amount_str": "$9.5M",
+    "website": "https://dabafinance.com",
+    "linkedin_url": "https://linkedin.com/company/dabafinance",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "team@joindaba.com",
+    "twitter_url": "https://x.com/dabafinance"
+  },
+  "https://www.startupresearcher.com/news/laigo-bio-extends-seed-round-to-usd9-6-mllion-for-cancer-and-autoimmune-therapies": {
+    "valid": false
+  },
+  "https://www.vestbee.com/insights/articles/laigo-bio-secures-17-m": {
+    "valid": true,
+    "company": "Utrecht-based biotech startup Laigo Bio",
+    "amount_str": "\u20ac17M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "with support from",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/yourstorycom/photos/chennai-based-startup-uncia-has-secured-3-million-25-cr-in-a-seed-round-led-by-p/1414808417347795/": {
+    "valid": false
+  },
+  "https://x.com/Calcalistech/status/2037145536508170646": {
+    "valid": true,
+    "company": "Conntour",
+    "amount_str": "$7 m",
+    "website": "https://www.conntour.com",
+    "linkedin_url": "https://linkedin.com/company/conntour",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@conntour.com",
+    "twitter_url": ""
+  },
+  "https://news.fintech.io/post/102mo98/happypay-raises-5m-in-seed-funding": {
+    "valid": true,
+    "company": "HappyPay",
+    "amount_str": "$5m",
+    "website": "https://www.happypayusa.com",
+    "linkedin_url": "https://linkedin.com/company/happypay",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.smartcompany.com.au/startupsmart/australian-startup-funding-march-2026-halter-silicon-quantum-computing-cauldron/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://growth-summit.com.au",
+    "linkedin_url": "",
+    "founder_name": "Halter founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "events@smartcomedia.com.au",
+    "twitter_url": ""
+  },
+  "https://www.indianretailer.com/news/funding-alert-10on10-foods-raises-rs-2-cr-pre-seed-round-expand-fresh-staples-d2c-business": {
+    "valid": true,
+    "company": "{Funding Alert} 10on10 Foods",
+    "amount_str": "",
+    "website": "https://www.indianretailer.com",
+    "linkedin_url": "https://linkedin.com/company/indianretailer",
+    "founder_name": "capital of around Rs",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/hvrcnf"
+  },
+  "https://www.whalesbook.com/news/English/startupsvc/Aetherflux-Eyes-dollar2B-Valuation-for-Space-AI-Data-Centers/69c6d0c163d6db8f4b5930d3": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://images.whalesbook.com",
+    "linkedin_url": "",
+    "founder_name": "Bhatt humorously called",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.mexc.com/news/987074": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://trochilus-web.gotoda.co/trochilus-web-sdk-integration.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.datacenterdynamics.com/en/news/data-center-energy-efficiency-startup-niv-ai-emerges-from-stealth-with-12m-fundraise/": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/03/27/a-law-firm-that-never-sleeps-uk-based-keith-raises-e2-3-million-ahead-of-q3-2026-launch/": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/sanfrancisco/news/2026/03/26/sfbt-digest-thursday-openai-san-rafael-us-census.html": {
+    "valid": false
+  },
+  "https://www.vccircle.com/elmedlife-sciences-qweebi-raise-early-stage-capital": {
+    "valid": true,
+    "company": "Elmed Life Sciences, Qweebi",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Pruthivin Reddy Madduri",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
