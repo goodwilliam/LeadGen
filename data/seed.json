@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-03-26T20:33:46.809997Z",
-  "count": 27,
-  "enriched_count": 18,
+  "generated_at": "2026-03-27T01:31:24.669562Z",
+  "count": 29,
+  "enriched_count": 22,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Idel raises $10.4M for intracellular pan-cancer drug delivery tech | BioWorld",
+      "article_url": "https://www.bioworld.com/articles/729904-idel-raises-104m-for-intracellular-pan-cancer-drug-delivery-tech",
+      "company": "Idel",
+      "amount_str": "$10.4M",
+      "pub_date": "2026-03-26T22:31:46Z",
+      "website": "https://www.idel.it",
+      "linkedin_url": "https://linkedin.com/company/idel",
+      "founder_name": "",
+      "founder_linkedin_url": "https://linkedin.com/in/iverson-idel-6765a03b8",
+      "contact_email": "info@idel.it",
+      "twitter_url": ""
+    },
+    {
+      "source": "SiliconAngle",
+      "title": "Theia Insights raises $8M to build dynamic classification system for financial markets",
+      "article_url": "https://siliconangle.com/2026/03/26/theia-insights-raises-8m-build-dynamic-classification-system-financial-markets/",
+      "company": "Theia Insights",
+      "amount_str": "$8M",
+      "pub_date": "2026-03-26T22:21:30Z",
+      "website": "https://www.theiainsights.com",
+      "linkedin_url": "https://linkedin.com/company/theia-insights",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "SiliconAngle",
+      "title": "Defense startup Shield AI raises $2B, acquires flight simulation company Aechelon",
+      "article_url": "https://siliconangle.com/2026/03/26/defense-startup-shield-ai-raises-2b-acquires-flight-simulation-company-aechelon/",
+      "company": "Defense startup Shield AI",
+      "amount_str": "$2B",
+      "pub_date": "2026-03-26T21:15:16Z",
+      "website": "",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Space Propulsion Startup Secures $40M for Dual-Use Technology - iHLS",
@@ -33,6 +75,48 @@
     },
     {
       "source": "Google Alerts",
+      "title": "EdTech Startup Qweebi Raises Seed Funding Led By Inflection Point - Corpwhizz",
+      "article_url": "https://corpwhizz.com/2026/03/26/edtech-startup-qweebi-raises-seed-funding-led-by-inflection-point-ventures/",
+      "company": "Qweebi",
+      "amount_str": "",
+      "pub_date": "2026-03-26T18:31:28Z",
+      "website": "https://www.qweebi.com",
+      "linkedin_url": "https://linkedin.com/company/qweebi",
+      "founder_name": "and Arpit Jain",
+      "founder_linkedin_url": "",
+      "contact_email": "hello@qweebi.com",
+      "twitter_url": "https://x.com/qweebi"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Deccan AI Raises $25 Mn To Supply Training Data For Enterprise AI Models - Inc42",
+      "article_url": "https://inc42.com/buzz/deccan-ai-raises-25-mn-to-supply-training-data-for-enterprise-ai-models/",
+      "company": "Deccan AI",
+      "amount_str": "$25 M",
+      "pub_date": "2026-03-26T18:22:48Z",
+      "website": "https://www.deccan.ai",
+      "linkedin_url": "https://linkedin.com/company/ai-deccan",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "hey@deccan.ai",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Vuelo Raises \u00a356M to Launch AI-Native Travel Platform - Ventureburn",
+      "article_url": "https://ventureburn.com/vuelo-raises-56m-to-launch-ai-native-travel-platform/?amp=1",
+      "company": "Vuelo",
+      "amount_str": "\u00a356M",
+      "pub_date": "2026-03-26T18:18:25Z",
+      "website": "https://getvuelo.com",
+      "linkedin_url": "https://linkedin.com/company/getvuelo",
+      "founder_name": "commented Jasper Dykes",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
       "title": "Israeli entrepreneurs raise $11 million to fight vulnerabilities exploited by Iranian hackers",
       "article_url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-891168",
       "company": "Israeli entrepreneurs",
@@ -47,23 +131,23 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Ex-Amazon founded Theia Insights raises $8M to fix financial markets with AI model of the economy",
-      "article_url": "https://techfundingnews.com/amazon-theia-8m-financial-markets-ai/",
-      "company": "Ex-Amazon founded Theia Insights",
-      "amount_str": "$8M",
-      "pub_date": "2026-03-26T18:03:45Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "",
+      "title": "BrainGrid Raises $1M for AI Product Planning Platform - InforCapital",
+      "article_url": "https://inforcapital.com/news/braingrid-raises-1m-in-pre-seed-funding/",
+      "company": "BrainGrid",
+      "amount_str": "$1M",
+      "pub_date": "2026-03-26T17:01:33Z",
+      "website": "https://www.braingridlab.com",
+      "linkedin_url": "https://linkedin.com/company/braingridai",
+      "founder_name": "particularly for",
       "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
+      "contact_email": "support@braingridlab.com",
+      "twitter_url": "https://x.com/wix"
     },
     {
       "source": "Google Alerts",
       "title": "Payy raises $6 million to expand private payments with USDC. | Bitget News",
       "article_url": "https://www.bitget.com/amp/news/detail/12560605306982",
-      "company": "Payy announced it",
+      "company": "Payy",
       "amount_str": "$6 m",
       "pub_date": "2026-03-26T16:43:46Z",
       "website": "https://duck.ai",
@@ -172,20 +256,6 @@
       "twitter_url": ""
     },
     {
-      "source": "Google Alerts",
-      "title": "SIGMAS Raises $1M Seed Round Led by Mucker Capital and HongShan Capital ... - Yahoo Finance",
-      "article_url": "https://finance.yahoo.com/markets/stocks/articles/sigmas-raises-1m-seed-round-124500084.html",
-      "company": "SIGMAS",
-      "amount_str": "$1M",
-      "pub_date": "2026-03-26T12:55:55Z",
-      "website": "https://sigmas.com",
-      "linkedin_url": "https://linkedin.com/company/sigmasinc",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
       "source": "tech.eu",
       "title": "Allday Goods raises \u00a3765K to scale its cult, recycled-plastic knife brand",
       "article_url": "https://tech.eu/2026/03/26/allday-goods-raises-ps765k-to-scale-its-cult-recycled-plastic-knife-brand/",
@@ -197,6 +267,20 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "hello@alldaygoods.co.uk",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "VICTUS Technologies Raises Seed Round | citybiz",
+      "article_url": "https://www.citybiz.co/article/823701/victus-technologies-raises-seed-round/",
+      "company": "VICTUS Technologies",
+      "amount_str": "",
+      "pub_date": "2026-03-26T09:34:02Z",
+      "website": "",
+      "linkedin_url": "https://linkedin.com/company/victustech",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
       "twitter_url": ""
     },
     {
@@ -225,20 +309,6 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "info@sus-sous.jp",
-      "twitter_url": ""
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Mercor competitor Deccan AI raises $25M, sources experts from India",
-      "article_url": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/",
-      "company": "Mercor competitor Deccan AI",
-      "amount_str": "$25M",
-      "pub_date": "2026-03-26T00:30:00Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
       "twitter_url": ""
     },
     {
@@ -284,20 +354,6 @@
       "twitter_url": ""
     },
     {
-      "source": "Google Alerts",
-      "title": "VICTUS Technologies Raises Seed Round to Advance Contested Autonomy Platform",
-      "article_url": "https://www.prnewswire.com/news-releases/victus-technologies-raises-seed-round-to-advance-contested-autonomy-platform-302725321.html",
-      "company": "VICTUS Technologies",
-      "amount_str": "",
-      "pub_date": "2026-03-25T19:51:24Z",
-      "website": "",
-      "linkedin_url": "https://linkedin.com/company/victustech",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
       "source": "tech.eu",
       "title": "Granola raises $125M at $1.5BN valuation",
       "article_url": "https://tech.eu/2026/03/25/granola-raises-125m-at-1-5bn-valuation/",
@@ -326,20 +382,6 @@
       "twitter_url": ""
     },
     {
-      "source": "SiliconAngle",
-      "title": "Epic Microsystems raises $21M to revolutionize power for next-gen AI datacenters",
-      "article_url": "https://siliconangle.com/2026/03/25/epic-microsystems-raises-21m-revolutionize-power-next-gen-ai-datacenters/",
-      "company": "Epic Microsystems",
-      "amount_str": "$21M",
-      "pub_date": "2026-03-25T13:30:43Z",
-      "website": "https://epicmicro.com",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
       "source": "tech.eu",
       "title": "Entrix raises \u20ac43M as contracted battery storage portfolio reaches 3GW",
       "article_url": "https://tech.eu/2026/03/25/entrix-raises-eur43m-as-contracted-battery-storage-portfolio-reaches-3gw/",
@@ -352,20 +394,6 @@
       "founder_linkedin_url": "",
       "contact_email": "aleksandra.radwanska@entrixenergy.com",
       "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Tori Finance raises seed round led by Delphi Ventures | Bitget News",
-      "article_url": "https://www.bitget.com/amp/news/detail/12560605302940",
-      "company": "Tori Finance",
-      "amount_str": "",
-      "pub_date": "2026-03-25T11:07:34Z",
-      "website": "https://tori.finance",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "partnerships@tori.financ",
-      "twitter_url": "https://x.com/tori_finance"
     },
     {
       "source": "tech.eu",
