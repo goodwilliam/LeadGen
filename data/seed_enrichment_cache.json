@@ -17112,5 +17112,164 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://news.crunchbase.com/venture/all-time-high-funding-to-austin-startups-2025-ai-robotics-manufacturing/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/27/hiro-capital-boss-on-lecun-clegg-and-ai-investing/": {
+    "valid": false
+  },
+  "https://betakit.com/canadian-vcs-are-starting-to-fear-an-ai-driven-saaspocalypse/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/eqt-real-estate-announces-sale-of-7-million-square-foot-logistics-portfolio-in-key-industrial-markets-across-the-us-302727268.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/stratum-biosciences-secures-2m-seed-round-to-accelerate-ai-powered-skin-biology-discovery-and-expanded-rd-partnerships-302726796.html": {
+    "valid": true,
+    "company": "Stratum Biosciences",
+    "amount_str": "$2M",
+    "website": "https://stratumbio.com",
+    "linkedin_url": "https://linkedin.com/company/stratum-bio",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/matt-james-francis_we-just-raised-3m-heres-why-the-world-activity-7442980859076382721-YbJP": {
+    "valid": true,
+    "company": "We just",
+    "amount_str": "$3M",
+    "website": "https://www.davemasonmusic.com",
+    "linkedin_url": "https://linkedin.com/company/we-just-clean-inc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "admin@davemasonmusic.com",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/ghost-hunters_big-milestone-for-krane-the-team-at-krane-activity-7442620065138782208-fylv": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "is building",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://impactalpha.com/the-weeks-dealflow-march-27-2026-2/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techgraph.co/stock-market/vanguard-reports-stock-below-5-in-google-alphabet/": {
+    "valid": false
+  },
+  "https://www.crainsdetroit.com/technology/cdb-pitchmi-competition-championship-20260324/": {
+    "valid": false
+  },
+  "https://m.economictimes.com/small-biz/entrepreneurship/beyond-modernisation-the-new-playbook-for-enterprise-reinvention/articleshow/129839028.cms": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://connect.facebook.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.mexc.com/news/985654": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://trochilus-web.gotoda.co/trochilus-web-sdk-integration.js",
+    "linkedin_url": "",
+    "founder_name": "chair of the",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://magazine.hankyung.com/job-joy/amp/202603271136d": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://hkstatic.hankyung.com/favicon.ico",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/arcticstartup_klarna-alumni-raises-15m-pre-seed-to-build-activity-7442938677233754112-LHoe": {
+    "valid": false
+  },
+  "https://yourstory.com/2026/03/antler-india-3rd-cohort-us-market-entry-programme-for-startups": {
+    "valid": true,
+    "company": "Antler India",
+    "amount_str": "",
+    "website": "https://www.antler.co",
+    "linkedin_url": "https://linkedin.com/company/antlerglobal",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/AntlerGlobal"
+  },
+  "https://www.calcalistech.com/ctechnews/article/hjezb14o11g": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://newmedia.calcalist.co.il/ctech/testimonials/index.html",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "judith.hoffmann@calcalist.co.il",
+    "twitter_url": ""
+  },
+  "https://bebeez.eu/2026/03/27/female-founded-tozero-launches-industrial-battery-recycling-plant-to-build-europes-domestic-supply-of-critical-raw-materials/": {
+    "valid": false
+  },
+  "https://restauranttechnologynews.com/2026/03/sous-raises-4-3-million-to-expand-its-ai-platform-for-restaurant-visibility-sales-and-customer-engagement/": {
+    "valid": true,
+    "company": "SOUS",
+    "amount_str": "$4.3 M",
+    "website": "https://poweredbysous.com",
+    "linkedin_url": "https://linkedin.com/company/poweredbysous",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/beamstart_arinna-a-cutting-edge-startup-has-raised-activity-7443099625412145153-Gf8i": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://beamstart.com/news/arinna-raises-4m-seed-round-17744436935362",
+    "linkedin_url": "https://linkedin.com/company/beamstart",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@beamstart.com",
+    "twitter_url": ""
+  },
+  "https://www.panewslab.com/en/articles/019d2d4c-bf46-741c-9bd8-6d04a24f32e3": {
+    "valid": true,
+    "company": "Verse8",
+    "amount_str": "$5 m",
+    "website": "https://preview.verse8.io",
+    "linkedin_url": "https://linkedin.com/company/verse-eight",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/sequoia-and-gic-co-lead-harveys-200m-round-at-11b-valuation-to-scale-ai-agents-across-law-firms/": {
+    "valid": false
   }
 }
