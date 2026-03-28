@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-03-28T08:31:40.948988Z",
-  "count": 22,
-  "enriched_count": 15,
+  "generated_at": "2026-03-28T12:37:48.389438Z",
+  "count": 21,
+  "enriched_count": 13,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Pavestone Leads $3 Mn Seed Round in Uncia to Scale AI-Driven Lending Solutions ... - Bharat Fast",
+      "article_url": "https://bharatfast.com/english/business/uncia-raises-3mn-seed-funding-pavestone-ai-lending-india-global-expansion/31910/",
+      "company": "Chennai-based fintech startup Uncia",
+      "amount_str": "$3 m",
+      "pub_date": "2026-03-28T07:12:14Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "Fino Payments Bank",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Seifert Dynamics Secures $3.3M Seed Round to Transform Real-Time Operational Intelligence",
@@ -116,6 +130,20 @@
       "twitter_url": ""
     },
     {
+      "source": "Google Alerts",
+      "title": "India Digest: Bellatrix Aerospace eyes funding; Uncia raises seed round - DealStreetAsia",
+      "article_url": "https://www.dealstreetasia.com/stories/bellatrix-aerospace-uncia-477318",
+      "company": "Bellatrix Aerospace eyes funding; Uncia",
+      "amount_str": "",
+      "pub_date": "2026-03-27T17:40:47Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
       "source": "tech.eu",
       "title": "Kandou AI bags $225M Series A, Kobalt is sold for \u20ac1.3B, and meet Europe's Microsoft alternative",
       "article_url": "https://tech.eu/2026/03/27/kandou-ai-bags-225m-series-a/",
@@ -152,34 +180,6 @@
       "pub_date": "2026-03-27T14:31:28Z",
       "website": "https://www.happypayusa.com",
       "linkedin_url": "https://linkedin.com/company/happypay",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "South African fintech littlefish secures $9.5M Series A funding to boost bank-merchant services",
-      "article_url": "https://innovation-village.com/south-african-fintech-littlefish-secures-9-5m-series-a-funding-to-boost-bank-merchant-services/",
-      "company": "South African fintech littlefish",
-      "amount_str": "$9.5M",
-      "pub_date": "2026-03-27T14:30:37Z",
-      "website": "https://dabafinance.com",
-      "linkedin_url": "https://linkedin.com/company/dabafinance",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "team@joindaba.com",
-      "twitter_url": "https://x.com/dabafinance"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "India Digest: Bellatrix Aerospace eyes funding; Uncia raises seed round - DealStreetAsia",
-      "article_url": "https://www.dealstreetasia.com/stories/bellatrix-aerospace-uncia-477318",
-      "company": "Bellatrix Aerospace eyes funding; Uncia",
-      "amount_str": "",
-      "pub_date": "2026-03-27T14:26:57Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
@@ -225,20 +225,6 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "We just raised $3M. Here's why. The world needs more hardware. More medical devices ... - LinkedIn",
-      "article_url": "https://www.linkedin.com/posts/matt-james-francis_we-just-raised-3m-heres-why-the-world-activity-7442980859076382721-YbJP",
-      "company": "We just",
-      "amount_str": "$3M",
-      "pub_date": "2026-03-26T21:00:13Z",
-      "website": "https://www.davemasonmusic.com",
-      "linkedin_url": "https://linkedin.com/company/we-just-clean-inc",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "admin@davemasonmusic.com",
       "twitter_url": ""
     },
     {

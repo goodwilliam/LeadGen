@@ -18040,5 +18040,52 @@
   },
   "https://www.tice.news/tice-dispatch/the-bay-area-engineer-who-shipped-a-working-ai-incident-response-system-into-awss-biggest-open-source-project-11364505": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/03/28/from-moon-hotels-to-cattle-herding-8-startups-investors-chased-at-yc-demo-day/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/visa-street-soccer-usa-and-bank-of-america-to-bring-visa-street-soccer-parks-to-every-fifa-world-cup-2026-host-city-in-the-us-302727680.html": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DWbMDWAEdVD/": {
+    "valid": false
+  },
+  "https://www.bitget.com/amp/news/detail/12560605313021": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/news/insight/robotics-startup-races-toward-11b-valuation/gm-GM520CE809?gemSnapshotKey=GM520CE809-snapshot-1": {
+    "valid": false
+  },
+  "https://www.panewslab.com/en/articles/019d2e82-8bff-75a0-b15f-30d2988b42a8": {
+    "valid": false
+  },
+  "https://x.com/audiumcp/status/2037574179927564350": {
+    "valid": false
+  },
+  "https://inc42.com/startups/inside-s45-plan-to-disrupt-investment-banking-with-ai/": {
+    "valid": false
+  },
+  "https://www.techinasia.com/ai-health": {
+    "valid": false
+  },
+  "https://theglobalfilipinomagazine.com/ex-ofws-puto-bumbong-tart-fusion-wins-p500000-dmw-startup-prize/": {
+    "valid": false
+  },
+  "https://bharatfast.com/english/business/uncia-raises-3mn-seed-funding-pavestone-ai-lending-india-global-expansion/31910/": {
+    "valid": true,
+    "company": "Chennai-based fintech startup Uncia",
+    "amount_str": "$3 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Fino Payments Bank",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prittleprattlenews.com/technology/stpi-gorakhpur-centre-startup-it-exports-eastern-uttar-pradesh/": {
+    "valid": false
+  },
+  "https://www.naijapreneur.com/the-16-million-seed-wave-how-transcorp-and-tef-are-financing-the-next-generation-of-african-industry/": {
+    "valid": false
   }
 }
