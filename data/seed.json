@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-03-28T01:25:18.692029Z",
-  "count": 20,
-  "enriched_count": 14,
+  "generated_at": "2026-03-28T05:20:59.265819Z",
+  "count": 21,
+  "enriched_count": 15,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Galdera Labs Secures \u20ac1.5M Pre-Seed Funding - Techno Trenz",
+      "article_url": "https://technotrenz.com/news/galdera-labs-secures-e1-5m/",
+      "company": "Galdera Labs",
+      "amount_str": "\u20ac1.5M",
+      "pub_date": "2026-03-28T03:27:57Z",
+      "website": "https://www.galderalabs.com",
+      "linkedin_url": "https://linkedin.com/company/galdera-labs",
+      "founder_name": "specifically cited the",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Alpine Eagle Secures \u20ac10.25M Seed Funding to Advance Counter-Drone Technology - N24",
+      "article_url": "https://n24.com.tr/sectoral/alpine-eagle-secures-1025m-seed-funding-to-advance-counter-drone-technology",
+      "company": "Alpine Eagle",
+      "amount_str": "\u20ac10.25M",
+      "pub_date": "2026-03-27T22:48:47Z",
+      "website": "https://alpineeagle.com",
+      "linkedin_url": "https://linkedin.com/company/alpineeagle",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Cambridge-Based Mutable Tactics Secures \u20ac1.8 Million Pre-Seed Fundi\u2026 - N24",
@@ -16,6 +44,20 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Fashion supply startup Thread Factory raises pre- seed funding led by AJVC https://t.co/f6dihDZKeg",
+      "article_url": "https://x.com/IndianVCA/status/2037530362750898442",
+      "company": "Fashion supply startup Thread Factory",
+      "amount_str": "",
+      "pub_date": "2026-03-27T21:29:27Z",
+      "website": "https://entrackr.com",
+      "linkedin_url": "https://linkedin.com/company/entrackr",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/entrackr"
     },
     {
       "source": "Google Alerts",
@@ -128,34 +170,6 @@
       "founder_linkedin_url": "",
       "contact_email": "contactus@laigobio.com",
       "twitter_url": "https://x.com/LaigoBio"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Antler India launches 3rd cohort of US market entry programme for startups - YourStory.com",
-      "article_url": "https://yourstory.com/2026/03/antler-india-3rd-cohort-us-market-entry-programme-for-startups",
-      "company": "Antler India",
-      "amount_str": "",
-      "pub_date": "2026-03-27T12:08:28Z",
-      "website": "https://www.antler.co",
-      "linkedin_url": "https://linkedin.com/company/antlerglobal",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/AntlerGlobal"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Stateful Robotics Raises $4.8m To Advance Robotics AI - Eureka Magazine",
-      "article_url": "https://www.eurekamagazine.co.uk/content/news/stateful-robotics-raises-48m-to-advance-robotics-ai",
-      "company": "Stateful Robotics",
-      "amount_str": "$4.8m",
-      "pub_date": "2026-03-27T12:06:57Z",
-      "website": "https://www.oxfordscienceenterprises.com",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "connect@oxfordsciences.com",
-      "twitter_url": ""
     },
     {
       "source": "SiliconAngle",
