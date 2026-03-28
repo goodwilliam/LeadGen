@@ -17993,5 +17993,52 @@
   },
   "https://www.instagram.com/p/DWYvQ3xFGXz/": {
     "valid": false
+  },
+  "https://www.mexc.co/news/988407": {
+    "valid": true,
+    "company": "Seifert Dynamics",
+    "amount_str": "$3.3M",
+    "website": "https://seifertdynamics.com",
+    "linkedin_url": "https://linkedin.com/company/seifert-dynamics-l-l-c",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/seifertdynamics"
+  },
+  "https://www.aol.com/finance/foreign-exchange-startup-xfx-raises-120000351.html": {
+    "valid": true,
+    "company": "Foreign exchange startup XFX",
+    "amount_str": "$17 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techbullion.com/seifert-dynamics-secures-3-3m-seed-round-to-transform-real-time-operational-intelligence/": {
+    "valid": true,
+    "company": "Seifert Dynamics",
+    "amount_str": "$3.3M",
+    "website": "https://seifertdynamics.com",
+    "linkedin_url": "https://linkedin.com/company/seifert-dynamics-l-l-c",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/seifertdynamics"
+  },
+  "https://www.cashfree.com/blog/startup-india-seed-fund-scheme-sisfs-eligibility-how-to-apply/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts-api.wp.com/css",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.tice.news/tice-dispatch/the-bay-area-engineer-who-shipped-a-working-ai-incident-response-system-into-awss-biggest-open-source-project-11364505": {
+    "valid": false
   }
 }

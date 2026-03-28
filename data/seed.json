@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-03-28T05:20:59.265819Z",
-  "count": 21,
+  "generated_at": "2026-03-28T08:31:40.948988Z",
+  "count": 22,
   "enriched_count": 15,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Seifert Dynamics Secures $3.3M Seed Round to Transform Real-Time Operational Intelligence",
+      "article_url": "https://www.mexc.co/news/988407",
+      "company": "Seifert Dynamics",
+      "amount_str": "$3.3M",
+      "pub_date": "2026-03-28T06:26:37Z",
+      "website": "https://seifertdynamics.com",
+      "linkedin_url": "https://linkedin.com/company/seifert-dynamics-l-l-c",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/seifertdynamics"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Foreign exchange startup XFX raises $17 million to help businesses go between cash and ...",
+      "article_url": "https://www.aol.com/finance/foreign-exchange-startup-xfx-raises-120000351.html",
+      "company": "Foreign exchange startup XFX",
+      "amount_str": "$17 m",
+      "pub_date": "2026-03-28T04:36:35Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Galdera Labs Secures \u20ac1.5M Pre-Seed Funding - Techno Trenz",
@@ -47,7 +75,7 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Fashion supply startup Thread Factory raises pre- seed funding led by AJVC https://t.co/f6dihDZKeg",
+      "title": "Fashion supply startup Thread Factory raises pre-seed funding led by AJVC https://t.co/f6dihDZKeg",
       "article_url": "https://x.com/IndianVCA/status/2037530362750898442",
       "company": "Fashion supply startup Thread Factory",
       "amount_str": "",
@@ -156,20 +184,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Laigo Bio closes \u20ac17M seed to advance SureTACs - TNW",
-      "article_url": "https://thenextweb.com/news/laigo-bio-17m-seed-round",
-      "company": "Laigo Bio",
-      "amount_str": "\u20ac17M",
-      "pub_date": "2026-03-27T13:17:47Z",
-      "website": "https://www.laigobio.com/en",
-      "linkedin_url": "https://linkedin.com/company/laigobio",
-      "founder_name": "who was confirmed as",
-      "founder_linkedin_url": "",
-      "contact_email": "contactus@laigobio.com",
-      "twitter_url": "https://x.com/LaigoBio"
     },
     {
       "source": "SiliconAngle",
