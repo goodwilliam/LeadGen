@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-03-27T20:33:26.281780Z",
-  "count": 22,
-  "enriched_count": 16,
+  "generated_at": "2026-03-28T01:25:18.692029Z",
+  "count": 20,
+  "enriched_count": 14,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Cambridge-Based Mutable Tactics Secures \u20ac1.8 Million Pre-Seed Fundi\u2026 - N24",
+      "article_url": "https://n24.com.tr/technology/cambridge-based-mutable-tactics-secures-18-million-pre-seed-funding-for-ai-driven-drone-autonomy",
+      "company": "Cambridge-Based Mutable Tactics",
+      "amount_str": "\u20ac1.8 M",
+      "pub_date": "2026-03-27T21:32:42Z",
+      "website": "https://www.eu-startups.com",
+      "linkedin_url": "",
+      "founder_name": "Colin MacLeod",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Occam Secures \u20ac3 Million to Enhance Drone Autonomy for Ukraine's Fr\u2026 - N24",
+      "article_url": "https://n24.com.tr/technology/occam-secures-3-million-to-enhance-drone-autonomy-for-ukraines-frontline",
+      "company": "Occam",
+      "amount_str": "\u20ac3 M",
+      "pub_date": "2026-03-27T21:22:45Z",
+      "website": "https://dctd.cancer.gov",
+      "linkedin_url": "https://linkedin.com/company/occam-global",
+      "founder_name": "founder and",
+      "founder_linkedin_url": "https://linkedin.com/in/williamholodnak",
+      "contact_email": "ncidctdinfo@mail.nih.gov",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Arctus raises $2.6 million in fresh funding to develop unmanned aircraft",
+      "article_url": "http://www.msn.com/en-in/news/world/arctus-raises-2-6-million-in-fresh-funding-to-develop-unmanned-aircraft/ar-AA1RbFnP?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "company": "Arctus",
+      "amount_str": "$2.6 m",
+      "pub_date": "2026-03-27T18:09:17Z",
+      "website": "https://www.arctus.com",
+      "linkedin_url": "https://linkedin.com/company/arctus",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "tech.eu",
       "title": "Kandou AI bags $225M Series A, Kobalt is sold for \u20ac1.3B, and meet Europe's Microsoft alternative",
@@ -75,20 +117,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Elmed Life Sciences, Qweebi raise early-stage capital; A91 bets on Deccan AI - VCCircle",
-      "article_url": "https://www.vccircle.com/elmedlife-sciences-qweebi-raise-early-stage-capital",
-      "company": "Elmed Life Sciences, Qweebi",
-      "amount_str": "",
-      "pub_date": "2026-03-27T13:38:58Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "Pruthivin Reddy Madduri",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "Laigo Bio closes \u20ac17M seed to advance SureTACs - TNW",
       "article_url": "https://thenextweb.com/news/laigo-bio-17m-seed-round",
       "company": "Laigo Bio",
@@ -127,34 +155,6 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "connect@oxfordsciences.com",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "{Funding Alert} 10on10 Foods raises Rs 2 cr in pre-seed round to expand fresh staples D2C ...",
-      "article_url": "https://www.indianretailer.com/news/funding-alert-10on10-foods-raises-rs-2-cr-pre-seed-round-expand-fresh-staples-d2c-business",
-      "company": "{Funding Alert} 10on10 Foods",
-      "amount_str": "",
-      "pub_date": "2026-03-27T11:23:48Z",
-      "website": "https://www.indianretailer.com",
-      "linkedin_url": "https://linkedin.com/company/indianretailer",
-      "founder_name": "capital of around Rs",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/hvrcnf"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Israeli AI startup Conntour raises $7 million Seed round to transform video surveilla | Ctech",
-      "article_url": "https://x.com/Calcalistech/status/2037145536508170646",
-      "company": "Conntour",
-      "amount_str": "$7 m",
-      "pub_date": "2026-03-27T11:15:28Z",
-      "website": "https://www.conntour.com",
-      "linkedin_url": "https://linkedin.com/company/conntour",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "contact@conntour.com",
       "twitter_url": ""
     },
     {
@@ -214,20 +214,6 @@
       "twitter_url": ""
     },
     {
-      "source": "SiliconAngle",
-      "title": "Qualified Health raises $125M to transform how enterprise healthcare systems adopt AI",
-      "article_url": "https://siliconangle.com/2026/03/26/qualified-health-raises-125m-transform-enterprise-healthcare-systems-adopt-ai/",
-      "company": "Qualified Health",
-      "amount_str": "$125M",
-      "pub_date": "2026-03-26T15:15:14Z",
-      "website": "https://www.qualifiedhealthai.com",
-      "linkedin_url": "https://linkedin.com/company/qualified-health",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "contact@qualifiedhealthai.com",
-      "twitter_url": ""
-    },
-    {
       "source": "tech.eu",
       "title": "Allday Goods raises \u00a3765K to scale its cult, recycled-plastic knife brand",
       "article_url": "https://tech.eu/2026/03/26/allday-goods-raises-ps765k-to-scale-its-cult-recycled-plastic-knife-brand/",
@@ -239,20 +225,6 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "hello@alldaygoods.co.uk",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "VICTUS Technologies Raises Seed Round | citybiz",
-      "article_url": "https://www.citybiz.co/article/823701/victus-technologies-raises-seed-round/",
-      "company": "VICTUS Technologies",
-      "amount_str": "",
-      "pub_date": "2026-03-26T09:34:02Z",
-      "website": "",
-      "linkedin_url": "https://linkedin.com/company/victustech",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
       "twitter_url": ""
     },
     {

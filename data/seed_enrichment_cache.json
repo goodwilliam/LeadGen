@@ -17725,5 +17725,147 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/": {
+    "valid": false
+  },
+  "https://betakit.com/more-than-6-million-in-federal-defence-funding-bound-for-alberta/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/data-breach-alert-edelson-lechtzin-llp-investigates-new-york-city-health-and-hospitals-corporation-data-breach-302727756.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/think-together-and-att-expand-digital-learning-opportunities-for-lynwood-students-through-the-achievery-302727789.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/plug-deadline-alert-faruqi--faruqi-llp-reminds-plug-power-investors-of-securities-class-action-deadline-on-april-3-2026-302727667.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/psfe-investors-have-opportunity-to-lead-paysafe-limited-securities-fraud-lawsuit-302727732.html": {
+    "valid": false
+  },
+  "https://finovate.com/finovate-global-africa-stablecoins-digital-payments-and-funding-infrastructure/": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/orlando/inno/newsletter/44943286?skip=0": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/03/female-founded-tozero-launches-industrial-battery-recycling-plant-to-build-europes-domestic-supply-of-critical-raw-materials/": {
+    "valid": false
+  },
+  "https://letsdatascience.com/news/stratum-biosciences-raises-2m-seed-to-scale-platform-a77a0cb1": {
+    "valid": false
+  },
+  "https://vator.tv/openai-opens-initiative-for-students-innovating-with-ai-qualified-health-raises-125m-the-ftc-launches-healthcare-task-force/": {
+    "valid": false
+  },
+  "https://startup.siliconindia.com/startup-funding/pavestone-leads-3-million-seed-round-in-lending-solutions-startup-uncia-nwid-53890.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.siliconindia.com/startup/startup-funding/pavestone-leads-3-million-seed-round-in-lending-solutions-startup-uncia-nwid-53890.html",
+    "linkedin_url": "https://linkedin.com/company/siliconindia",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/SINewsUpdates"
+  },
+  "https://www.apparelviews.com/veocel-lyocell-production-expands-to-asia-launching-a-new-chapter-for-nonwovens-in-the-region": {
+    "valid": false
+  },
+  "https://www.dealstreetasia.com/stories/beyond-the-buyout-dpi-exits-477274": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://telegram.me/share/url",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/telegram"
+  },
+  "https://n24.com.tr/en/automotive/audi-ceo-dollner-confirms-electric-concept-c-arrives-in-2027": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://n24.com.tr/technology/occam-secures-3-million-to-enhance-drone-autonomy-for-ukraines-frontline": {
+    "valid": true,
+    "company": "Occam",
+    "amount_str": "\u20ac3 M",
+    "website": "https://dctd.cancer.gov",
+    "linkedin_url": "https://linkedin.com/company/occam-global",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "https://linkedin.com/in/williamholodnak",
+    "contact_email": "ncidctdinfo@mail.nih.gov",
+    "twitter_url": ""
+  },
+  "https://femtechinsider.com/uk-company-verso-biosense-developing-smart-iud-to-monitor-the-uterus-in-real-time/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.versobiosense.com",
+    "linkedin_url": "https://linkedin.com/company/verso-biosense",
+    "founder_name": "Kate Rowley",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "http://www.msn.com/en-in/news/world/arctus-raises-2-6-million-in-fresh-funding-to-develop-unmanned-aircraft/ar-AA1RbFnP?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": true,
+    "company": "Arctus",
+    "amount_str": "$2.6 m",
+    "website": "https://www.arctus.com",
+    "linkedin_url": "https://linkedin.com/company/arctus",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.binance.com/en/square/post/306035127142209": {
+    "valid": false
+  },
+  "https://barlamantoday.com/2026/03/27/moroccos-goswap-secures-azur-funding-to-scale-battery-swapping-network/": {
+    "valid": false
+  },
+  "https://www.startupresearcher.com/news/mesh-raises-usd3-8-million-to-scale-rebar-robotics": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/sous-raises-e4m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://n24.com.tr/technology/cambridge-based-mutable-tactics-secures-18-million-pre-seed-funding-for-ai-driven-drone-autonomy": {
+    "valid": true,
+    "company": "Cambridge-Based Mutable Tactics",
+    "amount_str": "\u20ac1.8 M",
+    "website": "https://www.eu-startups.com",
+    "linkedin_url": "",
+    "founder_name": "Colin MacLeod",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.law360.com/pulse/amp/articles/2458509": {
+    "valid": false
+  },
+  "https://www.law360.com/articles/2458509/uk-based-legal-ai-startup-keith-raises-2m-in-seed-funding": {
+    "valid": false
+  },
+  "https://cryptorank.io/news/feed/444c1-biggest-funding-rounds-ai-defense-openai-shield": {
+    "valid": false
   }
 }
