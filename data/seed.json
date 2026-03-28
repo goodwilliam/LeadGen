@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-03-28T12:37:48.389438Z",
-  "count": 21,
-  "enriched_count": 13,
+  "generated_at": "2026-03-28T16:27:50.534009Z",
+  "count": 20,
+  "enriched_count": 14,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Mind Robotics raises Series A to develop AI-driven industrial automation - The Robot Report",
+      "article_url": "https://www.therobotreport.com/mind-robotics-raises-series-a-develop-ai-driven-industrial-automation/",
+      "company": "Mind Robotics",
+      "amount_str": "",
+      "pub_date": "2026-03-28T12:33:06Z",
+      "website": "https://www.mindrobotics.com",
+      "linkedin_url": "https://linkedin.com/company/mindrobotics",
+      "founder_name": "RJ Scaringe",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Pavestone Leads $3 Mn Seed Round in Uncia to Scale AI-Driven Lending Solutions ... - Bharat Fast",
@@ -69,20 +83,6 @@
       "website": "https://alpineeagle.com",
       "linkedin_url": "https://linkedin.com/company/alpineeagle",
       "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Cambridge-Based Mutable Tactics Secures \u20ac1.8 Million Pre-Seed Fundi\u2026 - N24",
-      "article_url": "https://n24.com.tr/technology/cambridge-based-mutable-tactics-secures-18-million-pre-seed-funding-for-ai-driven-drone-autonomy",
-      "company": "Cambridge-Based Mutable Tactics",
-      "amount_str": "\u20ac1.8 M",
-      "pub_date": "2026-03-27T21:32:42Z",
-      "website": "https://www.eu-startups.com",
-      "linkedin_url": "",
-      "founder_name": "Colin MacLeod",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
@@ -156,20 +156,6 @@
       "founder_linkedin_url": "",
       "contact_email": "sales@kandou.ai",
       "twitter_url": "https://x.com/kandoubus"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Moroccan startup GoSwap secures funding to boost EV battery-swapping in Morocco",
-      "article_url": "https://innovation-village.com/moroccan-startup-goswap-secures-funding-to-boost-ev-battery-swapping-in-morocco/",
-      "company": "Moroccan startup GoSwap",
-      "amount_str": "",
-      "pub_date": "2026-03-27T14:50:58Z",
-      "website": "https://techbuild.africa",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "Google Alerts",
