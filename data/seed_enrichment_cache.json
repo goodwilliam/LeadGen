@@ -18748,5 +18748,69 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-americas-car-mart-inc-investors-to-inquire-about-securities-class-action-investigation--crmt-302727848.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-deadline-gartner-inc-it-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit-302727981.html": {
+    "valid": false
+  },
+  "https://glenbrook.com/payments_news/gajigesa-a-fintech-startup-serving-underbanked-indonesian-workers-raises-2-5-million-seed-round/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://gajigesa.com",
+    "linkedin_url": "https://linkedin.com/company/gajigesa",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/GajiGesa"
+  },
+  "https://www.growsapph.com/blog": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "investor matching platform",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startuphub.ai/tag/AI%20Customer%20Analysis": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://timesofindia.indiatimes.com/city/ranchi/jharkhand-to-establish-j-hub-incubation-centre-aimed-at-empowering-young-entrepreneurs-with-essential-resources-and-mentorship/articleshow/129884966.cms": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://static.toiimg.com/thumb/msid-129884966,imgsize-199344,width-400,height-225,resizemode-72/129884966.jpg",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://newsbywire.com/oiti-computer-training-and-digital-solutions-joins-fastercapital-equitypilot-to-scale-tech-solutions/": {
+    "valid": false
+  },
+  "https://www.siliconindia.com/startup/startup-funding/crypto-taxation-and-itr-filing-platform-taxnodes-bags-usd-16-million-seed-funding-nwid-39142.html": {
+    "valid": true,
+    "company": "Taxation and ITR filing Platform TaxNodes",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Rahul Pagidipati",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
