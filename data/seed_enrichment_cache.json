@@ -18386,5 +18386,68 @@
   },
   "https://www.zhihu.com/en/article/26446051": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/htgc-investors-have-opportunity-to-lead-hercules-capital-inc-securities-fraud-lawsuit-302727774.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/psix-investors-have-opportunity-to-lead-power-solutions-international-inc-securities-fraud-lawsuit-302727772.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/lu-investors-have-opportunity-to-lead-lufax-holding-ltd-securities-fraud-lawsuit-first-filed-by-the-firm-302727770.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/fbrt-investors-have-opportunity-to-lead-franklin-bsp-realty-trust-inc-securities-fraud-lawsuit-first-filed-by-the-rosen-law-firm-302727765.html": {
+    "valid": false
+  },
+  "https://www.pressreader.com/canada/toronto-star/20260328/281728391057458": {
+    "valid": false
+  },
+  "https://n24.com.tr/companies-en/browser-use-secures-17m-to-build-text-based-web-automation-for-ai": {
+    "valid": true,
+    "company": "California-based Browser Use",
+    "amount_str": "$17 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techinasia.com/news/spacetech-startup-bellatrix-raises-20m-funding": {
+    "valid": false
+  },
+  "https://www.futurefemhealth.com/p/prickly-pear-health-expands-pre-seed": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DWb708yCeG2/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Kunal Shah",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DWb_j-Lk2tT/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://refreshmiami.com/news/8-things-to-know-in-miamitech-idb-coming-to-miami-plus-news-about-a-new-teen-tech-center-d-wave-emerge-americas-defense-tech-myosin-addigy-more/": {
+    "valid": false
+  },
+  "https://patmcguinness.substack.com/p/ai-week-in-review-260328": {
+    "valid": false
+  },
+  "https://n24.com.tr/en/sectoral/6m-partnership-announced-to-support-1000-african-entrepreneurs": {
+    "valid": false
   }
 }
