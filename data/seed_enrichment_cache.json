@@ -18449,5 +18449,16 @@
   },
   "https://n24.com.tr/en/sectoral/6m-partnership-announced-to-support-1000-african-entrepreneurs": {
     "valid": false
+  },
+  "https://www.instagram.com/p/DWb6k4EietH/": {
+    "valid": true,
+    "company": "Digital lending marketplace Finfinity",
+    "amount_str": "$2.4 m",
+    "website": "https://www.bwdisrupt.com",
+    "linkedin_url": "https://linkedin.com/company/bw-disrupt",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "ravi.khatri@businessworld.in",
+    "twitter_url": "https://x.com/BwDisrupt"
   }
 }

@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-03-29T01:45:58.837772Z",
-  "count": 20,
-  "enriched_count": 12,
+  "generated_at": "2026-03-29T05:42:26.473284Z",
+  "count": 22,
+  "enriched_count": 13,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Digital lending marketplace Finfinity has raised $2.4 million in a seed funding round led ... - Instagram",
+      "article_url": "https://www.instagram.com/p/DWb6k4EietH/",
+      "company": "Digital lending marketplace Finfinity",
+      "amount_str": "$2.4 m",
+      "pub_date": "2026-03-28T20:31:16Z",
+      "website": "https://www.bwdisrupt.com",
+      "linkedin_url": "https://linkedin.com/company/bw-disrupt",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "ravi.khatri@businessworld.in",
+      "twitter_url": "https://x.com/BwDisrupt"
+    },
     {
       "source": "Google Alerts",
       "title": "Galdera Labs Secures \u20ac1.5M Pre-Seed Funding - Techno Trenz",
@@ -153,6 +167,20 @@
       "website": "https://duck.ai",
       "linkedin_url": "",
       "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Imperial College Founders Secure \u20ac2.8 Million for Satellite Data Compression Startup",
+      "article_url": "https://n24.com.tr/technology/imperial-college-founders-secure-28-million-for-satellite-data-compression-startup",
+      "company": "Imperial College Founders",
+      "amount_str": "\u20ac2.8 M",
+      "pub_date": "2026-03-27T22:57:22Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "Imperial College",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
