@@ -18612,5 +18612,141 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": "https://x.com/ekospeaks"
+  },
+  "https://www.prnewswire.com/news-releases/kd-investors-have-opportunity-to-lead-kyndryl-holdings-inc-securities-fraud-lawsuit-filed-by-the-rosen-law-firm-302727773.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/coty-deadline-alert-faruqi--faruqi-llp-reminds-coty-coty-investors-of-securities-class-action-deadline-on-may-22-2026-302727849.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/kd-deadline-alert-faruqi--faruqi-llp-reminds-kyndryl-investors-of-securities-class-action-deadline-on-april-13-2026-302727845.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/it-deadline-alert-faruqi--faruqi-llp-reminds-gartner-it-investors-of-securities-class-action-deadline-on-may-18-2026-302727846.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/ino-deadline-alert-faruqi--faruqi-llp-reminds-inovio-pharmaceuticals-investors-of-securities-class-action-deadline-on-april-7-2026-302727843.html": {
+    "valid": false
+  },
+  "https://bayelsawatch.com/bioretec-ltd-raises-1-5b/": {
+    "valid": true,
+    "company": "Bioretec Ltd.",
+    "amount_str": "$1.5B",
+    "website": "https://bioretec.com/bioretec-ltds-business-review-q1-2025-strong-net-sales-in-the-first-quarter-ce-approval-with-comprehensive-indications-received-in-january-accelerates-the-future-expansion-of-remeos-products",
+    "linkedin_url": "https://linkedin.com/company/bioretec-ltd-",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "kustaa.poutiainen@stephenindustries.com",
+    "twitter_url": ""
+  },
+  "https://www.calcalistech.com/ctechnews/article/s1mrlulswe": {
+    "valid": true,
+    "company": "Tel Aviv startups",
+    "amount_str": "$14.1 b",
+    "website": "https://topstartups.io",
+    "linkedin_url": "https://linkedin.com/company/joinpogo",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.calcalistech.com/ctechnews/article/rjxbyqisze": {
+    "valid": true,
+    "company": "Sett",
+    "amount_str": "$30 m",
+    "website": "https://wiki.leagueoflegends.com",
+    "linkedin_url": "https://linkedin.com/company/sett-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/ivelina-dineva-nft_startups-fundraising-funding-activity-7443997905730048000-90oc": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thenextweb.com/news/recap-europes-top-funding-rounds-this-week-23-29-march": {
+    "valid": true,
+    "company": "Granola",
+    "amount_str": "$125 m",
+    "website": "https://anaholagranola.com",
+    "linkedin_url": "https://linkedin.com/company/meetgranola",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/audiumcp/status/2038130488536113325": {
+    "valid": true,
+    "company": "Infrastructure Startup 'Pipeshift'",
+    "amount_str": "$2.5 m",
+    "website": "https://www.siliconindia.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://inforcapital.com/news/nyad-raises-13m-for-ai-wastewater-treatment-platform": {
+    "valid": true,
+    "company": "Water Treatment Startup Nyad",
+    "amount_str": "$1.3M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/theceo.in/posts/uncia-has-secured-3-million-in-a-seed-round-led-by-pavestone-to-expand-its-ai-dr/1394370999385120/": {
+    "valid": true,
+    "company": "Uncia",
+    "amount_str": "$3 m",
+    "website": "https://www.unciaactive.com",
+    "linkedin_url": "https://linkedin.com/company/unciatechnologies",
+    "founder_name": "Magazine\n\nURL Source",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/audiumcp/status/2038130603183243371": {
+    "valid": true,
+    "company": "BizPay",
+    "amount_str": "",
+    "website": "https://www.bizpay.com",
+    "linkedin_url": "https://linkedin.com/company/bizpaygroup",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.amestrib.com/press-release/story/91041/hardshell-raises-1-1m-to-deliver-the-data-centric-foundation-of-ai-security/": {
+    "valid": true,
+    "company": "Hardshell",
+    "amount_str": "$1.1M",
+    "website": "http://www.hardshell.com",
+    "linkedin_url": "https://linkedin.com/company/hardshell-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/timothyashields",
+    "contact_email": "info@hardshell.co.uk",
+    "twitter_url": "https://x.com/hardshellgroup"
+  },
+  "https://inforcapital.com/news/nyad-raises-13m-for-ai-wastewater-treatment-platform/": {
+    "valid": true,
+    "company": "Water Treatment Startup Nyad",
+    "amount_str": "$1.3M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
