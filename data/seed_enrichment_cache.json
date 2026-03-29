@@ -18460,5 +18460,84 @@
     "founder_linkedin_url": "",
     "contact_email": "ravi.khatri@businessworld.in",
     "twitter_url": "https://x.com/BwDisrupt"
+  },
+  "https://www.calcalistech.com/ctechnews/article/ry5womlszx": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://newmedia.calcalist.co.il/ctech/testimonials/index.html",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "judith.hoffmann@calcalist.co.il",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-us/money/other/yann-lecun-s-startup-has-a-new-ceo-and-1-billion/ar-AA1XSZRi?uxmode=ruby&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/money/other/yann-lecun-s-startup-has-a-new-ceo-and-1-billion/ar-AA1XSZRi?uxmode=ruby": {
+    "valid": false
+  },
+  "https://www.msn.com/en-in/news/world/funding-for-non-metro-startup-grows-but-gaps-remain-report/ar-AA1ZtPdo?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": false
+  },
+  "https://www.siliconindia.com/startup/startup-funding/bizpay-raises-seed-round-funding-for-a-revolutionary-corporate-expense-management-revolution-nwid-40486.html": {
+    "valid": true,
+    "company": "BizPay",
+    "amount_str": "",
+    "website": "https://www.bizpay.com",
+    "linkedin_url": "https://linkedin.com/company/bizpaygroup",
+    "founder_name": "of BizPay",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.reddit.com/r/SaaS/comments/1s6fmtd/founders_whove_raised_preseedseed_how_did_you/": {
+    "valid": false
+  },
+  "https://x.com/CiOL_News/status/2037801137605357626": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.f1dc7e4a.js",
+    "linkedin_url": "",
+    "founder_name": "seed funding from Healthify",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://innovation-village.com/kenyan-startup-twiva-secures-funding-from-jobtech-alliance-to-boost-creator-commerce/": {
+    "valid": false
+  },
+  "https://entrackr.com/report/weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-mar-23-mar-28-11429211": {
+    "valid": false
+  },
+  "https://techstory.in/indian-startup-funding-weekly-286-mn-raised-across-30-deals/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bayelsawatch.com/sherweb-secures-125m/": {
+    "valid": true,
+    "company": "Sherweb",
+    "amount_str": "$125M",
+    "website": "https://www.sherweb.com/news/sherweb-secures-125-million-investment-to-accelerate-global-expansion",
+    "linkedin_url": "https://linkedin.com/company/sherweb",
+    "founder_name": "CEOs and",
+    "founder_linkedin_url": "",
+    "contact_email": "koneill@sherweb.com",
+    "twitter_url": "https://x.com/SherWeb"
+  },
+  "https://n24.com.tr/en/sectoral/forward-looking-fintech-nsave-raises-eur-175-million-to-expand-global-services": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DWaQfCOjqv1/": {
+    "valid": false
   }
 }

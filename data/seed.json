@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-03-29T05:42:26.473284Z",
+  "generated_at": "2026-03-29T08:33:43.932450Z",
   "count": 22,
-  "enriched_count": 13,
+  "enriched_count": 14,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Sherweb Secures $125M to Drive Global MSP Growth - Bayelsa Watch",
+      "article_url": "https://bayelsawatch.com/sherweb-secures-125m/",
+      "company": "Sherweb",
+      "amount_str": "$125M",
+      "pub_date": "2026-03-29T00:20:50Z",
+      "website": "https://www.sherweb.com/news/sherweb-secures-125-million-investment-to-accelerate-global-expansion",
+      "linkedin_url": "https://linkedin.com/company/sherweb",
+      "founder_name": "CEOs and",
+      "founder_linkedin_url": "",
+      "contact_email": "koneill@sherweb.com",
+      "twitter_url": "https://x.com/SherWeb"
+    },
     {
       "source": "Google Alerts",
       "title": "Digital lending marketplace Finfinity has raised $2.4 million in a seed funding round led ... - Instagram",
@@ -75,6 +89,20 @@
     },
     {
       "source": "Google Alerts",
+      "title": "BizPay raises seed round funding for a revolutionary corporate expense management Revolution",
+      "article_url": "https://www.siliconindia.com/startup/startup-funding/bizpay-raises-seed-round-funding-for-a-revolutionary-corporate-expense-management-revolution-nwid-40486.html",
+      "company": "BizPay",
+      "amount_str": "",
+      "pub_date": "2026-03-28T08:03:23Z",
+      "website": "https://www.bizpay.com",
+      "linkedin_url": "https://linkedin.com/company/bizpaygroup",
+      "founder_name": "of BizPay",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
       "title": "Audio Streaming Giant Spotify acquires Startup Podz to Improve Podcast Experience",
       "article_url": "https://www.siliconindia.com/startup/startup-funding/audio-streaming-giant-spotify-acquires-startup-podz-to-improve-podcast-experience-nwid-28299.html",
       "company": "The startup has recently",
@@ -97,34 +125,6 @@
       "website": "https://www.siliconindia.com",
       "linkedin_url": "",
       "founder_name": "Sagar Mithiya",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Seifert Dynamics Secures $3.3M Seed Round to Transform Real-Time Operational Intelligence",
-      "article_url": "https://www.mexc.co/news/988407",
-      "company": "Seifert Dynamics",
-      "amount_str": "$3.3M",
-      "pub_date": "2026-03-28T06:26:37Z",
-      "website": "https://seifertdynamics.com",
-      "linkedin_url": "https://linkedin.com/company/seifert-dynamics-l-l-c",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/seifertdynamics"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Foreign exchange startup XFX raises $17 million to help businesses go between cash and ...",
-      "article_url": "https://www.aol.com/finance/foreign-exchange-startup-xfx-raises-120000351.html",
-      "company": "Foreign exchange startup XFX",
-      "amount_str": "$17 m",
-      "pub_date": "2026-03-28T04:36:35Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
