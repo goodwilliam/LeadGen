@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-03-29T08:33:43.932450Z",
+  "generated_at": "2026-03-29T12:37:58.688032Z",
   "count": 22,
-  "enriched_count": 14,
+  "enriched_count": 15,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Turgo.ai Launches with $1M Pre-Seed from Top Tech Executives to Start &quot;Super Marketer&quot; Movement",
+      "article_url": "https://www.blufftontoday.com/press-release/story/51043/turgo-ai-launches-with-1m-pre-seed-from-top-tech-executives-to-start-super-marketer-movement/",
+      "company": "Turgo.ai",
+      "amount_str": "$1M",
+      "pub_date": "2026-03-29T03:11:24Z",
+      "website": "http://turgo.ai",
+      "linkedin_url": "https://linkedin.com/company/growstack-inc",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "sales@turgo.ai",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Sherweb Secures $125M to Drive Global MSP Growth - Bayelsa Watch",
@@ -58,6 +72,20 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Eko India Financial Services bags Rs 30 Cr equity investment from EXXORA - Siliconindia",
+      "article_url": "https://www.siliconindia.com/startup/startup-funding/eko-india-financial-services-bags-rs-30-cr-equity-investment-from-exxora-nwid-37364.html",
+      "company": "Eko India Financial Services",
+      "amount_str": "",
+      "pub_date": "2026-03-28T09:37:22Z",
+      "website": "https://signup.eko.in",
+      "linkedin_url": "https://linkedin.com/company/eko-india-financial-services-private-limited",
+      "founder_name": "The founder",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/ekospeaks"
     },
     {
       "source": "Google Alerts",
@@ -145,20 +173,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "The Bland Company Secures $2.7M for Upcycled Proteins - N24",
-      "article_url": "https://n24.com.tr/en/sectoral/the-bland-company-secures-27m-for-upcycled-proteins",
-      "company": "Bland Company",
-      "amount_str": "$2.7M",
-      "pub_date": "2026-03-28T01:03:14Z",
-      "website": "https://blandcompany.com",
-      "linkedin_url": "https://linkedin.com/company/bland-company",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "Browser Use secures $17M to build text-based web automation for AI - N24",
       "article_url": "https://n24.com.tr/companies-en/browser-use-secures-17m-to-build-text-based-web-automation-for-ai",
       "company": "California-based Browser Use",
@@ -172,26 +186,12 @@
       "twitter_url": ""
     },
     {
-      "source": "Google Alerts",
-      "title": "Imperial College Founders Secure \u20ac2.8 Million for Satellite Data Compression Startup",
-      "article_url": "https://n24.com.tr/technology/imperial-college-founders-secure-28-million-for-satellite-data-compression-startup",
-      "company": "Imperial College Founders",
-      "amount_str": "\u20ac2.8 M",
-      "pub_date": "2026-03-27T22:57:22Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "Imperial College",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
       "source": "tech.eu",
       "title": "Kandou AI bags $225M Series A, Kobalt is sold for \u20ac1.3B, and meet Europe's Microsoft alternative",
       "article_url": "https://tech.eu/2026/03/27/kandou-ai-bags-225m-series-a/",
       "company": "Kandou AI",
       "amount_str": "$225M",
-      "pub_date": "2026-03-27T15:23:18Z",
+      "pub_date": "2026-03-27T15:23:00Z",
       "website": "https://www.kandou.com",
       "linkedin_url": "https://linkedin.com/company/kandou-bus-s-a-",
       "founder_name": "",

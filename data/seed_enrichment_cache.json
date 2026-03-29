@@ -18539,5 +18539,78 @@
   },
   "https://www.instagram.com/p/DWaQfCOjqv1/": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/mndy-deadline-alert-faruqi--faruqi-llp-reminds-mondaycom-mndy-investors-of-securities-class-action-deadline-on-may-11-2026-302727828.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/smr-deadline-alert-faruqi--faruqi-llp-reminds-nuscale-smr-investors-of-securities-class-action-deadline-on-april-20-2026-302727827.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/ibrx-shareholder-notice-faruqi--faruqi-llp-reminds-immunitybio-ibrx-investors-of-securities-class-action-deadline-on-may-26-2026-302727825.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/pypl-deadline-alert-faruqi--faruqi-llp-reminds-paypal-investors-of-securities-class-action-deadline-on-april-20-2026-302727822.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/qure-deadline-alert-faruqi--faruqi-llp-reminds-uniqure-qure-investors-of-securities-class-action-deadline-on-april-13-2026-302727824.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/psfe-deadline-alert-faruqi--faruqi-llp-reminds-paysafe-psfe-investors-of-securities-class-action-deadline-on-april-7-2026-302727819.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rare-deadline-alert-faruqi--faruqi-llp-reminds-ultragenyx-investors-of-securities-class-action-deadline-on-april-6-2026-302727816.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/pmi-deadline-alert-faruqi--faruqi-llp-reminds-picard-medical-pmi-investors-of-securities-class-action-deadline-on-april-13-2026-302727817.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/tcom-deadline-alert-faruqi--faruqi-llp-reminds-tripcom-group-tcom-investors-of-securities-class-action-deadline-on-may-11-2026-302727812.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rr-deadline-alert-faruqi--faruqi-llp-reminds-richtech-robotics-investors-of-the-securities-class-action-lawsuit-deadline-on-april-3-2026-302727811.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rgnx-deadline-alert-faruqi--faruqi-llp-reminds-regenxbio-investors-of-securities-class-action-deadline-on-april-14-2026-302727809.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/metc-deadline-alert-faruqi--faruqi-llp-reminds-ramaco-investors-of-securities-class-action-deadline-on-march-31-2026-302727801.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/pom-deadline-alert-faruqi--faruqi-llp-reminds-pomdoctor-investors-of-securities-class-action-deadline-on-april-13-2026-302727795.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/enph-deadline-alert-faruqi--faruqi-llp-reminds-enphase-energy-investors-of-securities-class-action-deadline-on-april-20-2026-302727792.html": {
+    "valid": false
+  },
+  "https://www.blufftontoday.com/press-release/story/51043/turgo-ai-launches-with-1m-pre-seed-from-top-tech-executives-to-start-super-marketer-movement/": {
+    "valid": true,
+    "company": "Turgo.ai",
+    "amount_str": "$1M",
+    "website": "http://turgo.ai",
+    "linkedin_url": "https://linkedin.com/company/growstack-inc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "sales@turgo.ai",
+    "twitter_url": ""
+  },
+  "https://www.panewslab.com/en/articles/019d3731-4f85-72f8-9bdb-1e3fc78cf723": {
+    "valid": false
+  },
+  "https://ttybrandafrica.com/tony-elumelu-foundation-2026-cohort-north-africa-entrepreneurs/": {
+    "valid": false
+  },
+  "https://www.startupecosystem.ca/news/physical-intelligence-raises-1-billion-to-advance-general-ai-for-robotics/": {
+    "valid": false
+  },
+  "https://www.siliconindia.com/startup/startup-funding/eko-india-financial-services-bags-rs-30-cr-equity-investment-from-exxora-nwid-37364.html": {
+    "valid": true,
+    "company": "Eko India Financial Services",
+    "amount_str": "",
+    "website": "https://signup.eko.in",
+    "linkedin_url": "https://linkedin.com/company/eko-india-financial-services-private-limited",
+    "founder_name": "The founder",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ekospeaks"
   }
 }
