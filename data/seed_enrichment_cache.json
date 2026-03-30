@@ -18923,5 +18923,39 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.mexc.com/news/990679": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/kailo-pharma-raises-approx-2-1m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://inc42.com/buzz/agentic-ai-platform-war-the-second-screen-economy-more/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/deeplify-raises-e2m-from-d11z-ventures-and-ewor-to-modernise-safety-critical-inspection-workflows/": {
+    "valid": false
+  },
+  "https://www.thedp.com/article/2026/03/penn-engineering-seed-fund-faculty-research-startups": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.jsdelivr.net",
+    "linkedin_url": "https://linkedin.com/company/jsdelivr",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "d@jsdelivr.com",
+    "twitter_url": "https://x.com/jsdelivr"
+  },
+  "https://o.parsers.vc/startup/dashamlabs.com/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "Ankit Jhanwar",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }

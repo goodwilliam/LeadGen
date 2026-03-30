@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-30T01:49:35.230166Z",
-  "count": 25,
-  "enriched_count": 19,
+  "generated_at": "2026-03-30T05:56:37.259303Z",
+  "count": 23,
+  "enriched_count": 18,
   "articles": [
     {
       "source": "Google Alerts",
@@ -198,34 +198,6 @@
       "founder_linkedin_url": "https://linkedin.com/in/timothyashields",
       "contact_email": "info@hardshell.co.uk",
       "twitter_url": "https://x.com/hardshellgroup"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Eko India Financial Services bags Rs 30 Cr equity investment from EXXORA - Siliconindia",
-      "article_url": "https://www.siliconindia.com/startup/startup-funding/eko-india-financial-services-bags-rs-30-cr-equity-investment-from-exxora-nwid-37364.html",
-      "company": "Eko India Financial Services",
-      "amount_str": "",
-      "pub_date": "2026-03-28T09:37:22Z",
-      "website": "https://signup.eko.in",
-      "linkedin_url": "https://linkedin.com/company/eko-india-financial-services-private-limited",
-      "founder_name": "The founder",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/ekospeaks"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Pavestone leads $3 Mn seed round in lending solutions platform Uncia - Medial App",
-      "article_url": "https://medial.app/news/pavestone-leads-dollar3-mn-seed-round-in-lending-solutions-platform-uncia-d4fd9c76f9783",
-      "company": "Lending solutions platform Uncia",
-      "amount_str": "$3 m",
-      "pub_date": "2026-03-28T09:11:21Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "tech.eu",
