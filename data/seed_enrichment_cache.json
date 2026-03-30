@@ -19035,5 +19035,66 @@
   },
   "https://www.prnewswire.com/news-releases/franklin-bsp-realty-trust-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--fbrt-302728226.html": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/": {
+    "valid": true,
+    "company": "Mistral AI",
+    "amount_str": "$830M",
+    "website": "https://mistral.ai",
+    "linkedin_url": "https://linkedin.com/company/mistralai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "press@mistral.ai",
+    "twitter_url": "https://x.com/mistralai"
+  },
+  "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/": {
+    "valid": true,
+    "company": "Qodo",
+    "amount_str": "$70M",
+    "website": "https://www.qodo.ai",
+    "linkedin_url": "https://linkedin.com/company/qodoai",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/feeneydavid",
+    "contact_email": "",
+    "twitter_url": "https://x.com/QodoAI"
+  },
+  "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/": {
+    "valid": true,
+    "company": "Starcloud",
+    "amount_str": "$170 m",
+    "website": "https://www.starcloud.com",
+    "linkedin_url": "https://linkedin.com/company/starcloudinc",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/philipjohnst0n",
+    "contact_email": "",
+    "twitter_url": "https://x.com/starcloud_inc1"
+  },
+  "https://tech.eu/2026/03/30/maguar-takes-significant-stake-in-globalsuite-solutions-to-capitalise-on-surging-demand-for-compliance-tech/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/30/midas-closes-50m-series-a-to-scale-onchain-investment-products/": {
+    "valid": true,
+    "company": "Midas",
+    "amount_str": "$50M",
+    "website": "https://www.midas.com",
+    "linkedin_url": "https://linkedin.com/company/midas-international",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/jason-svajda-8b81a1a2",
+    "contact_email": "Midas-Logo-OpenGraph-BlkGold@2x.webp",
+    "twitter_url": "https://x.com/midas"
+  },
+  "https://siliconangle.com/2026/03/30/huskeys-launches-8m-modernize-waf-security-edge-security-management/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/deadline-tomorrow-berger-montague-advises-ramaco-resources-inc-nasdaq-metc-investors-to-inquire-about-a-securities-fraud-class-action-by-march-31-2026-302728217.html": {
+    "valid": false
   }
 }
