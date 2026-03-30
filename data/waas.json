@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T01:25:48Z",
+  "generated_at": "2026-03-30T07:16:09Z",
   "count": 22,
   "jobs": [
     {
@@ -13,7 +13,7 @@
       "companyBatch": "W26",
       "companyOneLiner": "Multimodal data provider for robotics and world modeling",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/ce063ef00a3ec0da3649fb79a819c0e6c1e88ebf.png",
-      "companyLastActiveAt": "4 days ago",
+      "companyLastActiveAt": "5 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92095&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=31205"
     },
     {
@@ -129,20 +129,6 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D88318&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29510"
     },
     {
-      "id": 92338,
-      "title": "Senior Product Designer | Full-Time | Remote",
-      "jobType": "contract",
-      "location": "Remote (US)",
-      "roleType": "Product design",
-      "companyName": "Retell AI",
-      "companySlug": "retell-ai",
-      "companyBatch": "W24",
-      "companyOneLiner": "Supercharge Your Contact Center Operations with AI Phone Agents",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/e52cdc0c1e4177276aba7fa2d8e4326d287620ca.png",
-      "companyLastActiveAt": "8 days ago",
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92338&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29441"
-    },
-    {
       "id": 88842,
       "title": "Senior Product Designer",
       "jobType": "fulltime",
@@ -155,6 +141,20 @@
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/e52cdc0c1e4177276aba7fa2d8e4326d287620ca.png",
       "companyLastActiveAt": "6 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D88842&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29441"
+    },
+    {
+      "id": 92338,
+      "title": "Senior Product Designer | Full-Time | Remote",
+      "jobType": "contract",
+      "location": "Remote (US)",
+      "roleType": "Product design",
+      "companyName": "Retell AI",
+      "companySlug": "retell-ai",
+      "companyBatch": "W24",
+      "companyOneLiner": "Supercharge Your Contact Center Operations with AI Phone Agents",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/e52cdc0c1e4177276aba7fa2d8e4326d287620ca.png",
+      "companyLastActiveAt": "8 days ago",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92338&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29441"
     },
     {
       "id": 91097,
@@ -237,7 +237,7 @@
       "companyBatch": "S23",
       "companyOneLiner": "AI-Native CPQ & Billing for Modern Pricing Models",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/2e2a3ced5969028060bbaaf152193b5b6a2b3982.png",
-      "companyLastActiveAt": "18 days ago",
+      "companyLastActiveAt": "19 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D88819&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28844"
     },
     {
@@ -265,7 +265,7 @@
       "companyBatch": "S23",
       "companyOneLiner": "AI patent drafting, prosecution, harvesting and more for legal teams.",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/cdb4c71ccbddd0ad292fc773c3cfb169d2a4a5ba.png",
-      "companyLastActiveAt": "4 days ago",
+      "companyLastActiveAt": "5 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89229&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28825"
     },
     {
@@ -279,7 +279,7 @@
       "companyBatch": "S23",
       "companyOneLiner": "AI Compliance Platform for Healthcare Organizations",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/b6ed6b92c1866d1321f5db92edcd357309239ed5.png",
-      "companyLastActiveAt": "2 days ago",
+      "companyLastActiveAt": "3 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92532&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28809"
     },
     {
