@@ -18957,5 +18957,83 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/30/terraspark-advances-space-based-solar-power-with-eur5m-funding/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/30/miros-raises-eur11m-to-bring-on-demand-workpods-to-public-spaces/": {
+    "valid": true,
+    "company": "miros",
+    "amount_str": "\u20ac1.1M",
+    "website": "https://miros.jp",
+    "linkedin_url": "https://linkedin.com/company/mirosai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/30/mistral-and-accenture-strike-deal-to-help-businesses-deploy-ai/": {
+    "valid": true,
+    "company": "Mistral",
+    "amount_str": "$830M",
+    "website": "https://www.mistral.com",
+    "linkedin_url": "https://linkedin.com/company/mistralai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/30/european-tech-weekly-recap-more-than-55-tech-funding-deals-worth-over-eur850m/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/30/iqm-secures-eur50m-to-accelerate-global-growth/": {
+    "valid": true,
+    "company": "IQM",
+    "amount_str": "\u20ac50M",
+    "website": "https://iqm.com",
+    "linkedin_url": "https://linkedin.com/company/iqm-quantum-computers",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "IQM-1@4x-2-min-png-e1737776988736.webp",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/30/german-deeplify-raises-eur2m-to-modernise-infrastructure-inspections/": {
+    "valid": true,
+    "company": "German deeplify",
+    "amount_str": "\u20ac2M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/rgnx-investors-have-opportunity-to-lead-regenxbio-inc-securities-fraud-lawsuit-302728195.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/fbrt-investors-have-opportunity-to-lead-franklin-bsp-realty-trust-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302728194.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/snow-investors-have-opportunity-to-lead-snowflake-inc-securities-fraud-lawsuit-302728192.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/franklin-bsp-realty-trust-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--fbrt-302728226.html": {
+    "valid": false
   }
 }
