@@ -18812,5 +18812,116 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/atra-investors-have-opportunity-to-lead-atara-biotherapeutics-inc-securities-fraud-lawsuit-302727853.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/plug-deadline-plug-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-plug-power-inc-securities-fraud-lawsuit-302727850.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-alert-eos-energy-enterprises-inc-eose-investors-with-substantial-losses-have-opportunity-to-lead-investor-class-action-lawsuit-302727982.html": {
+    "valid": false
+  },
+  "https://kr-asia.com/catl-byd-join-over-100-china-firms-in-perovskite-solar-cell-race": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://asia.nikkei.com/business/business-trends/catl-byd-join-over-100-china-firms-in-perovskite-solar-cell-race",
+    "linkedin_url": "https://linkedin.com/company/nikkeiasia",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/NikkeiAsia"
+  },
+  "https://www.smartcompany.com.au/startupsmart/viral-ads-to-asx-koala-raises-20-million-public-listing-ipo/": {
+    "valid": true,
+    "company": "Viral online retailer Koala",
+    "amount_str": "$20 m",
+    "website": "https://www.startupdaily.net",
+    "linkedin_url": "https://linkedin.com/company/startup-daily",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "very.unusual.@.unusual.com",
+    "twitter_url": "https://x.com/startupdailyanz"
+  },
+  "https://bharatfast.com/english/business/chennai-based-fintech-startup-uncia-raises-3-million-to-expand-ai-powered-lending-solutions-across-mena-and-north-america/31930/": {
+    "valid": true,
+    "company": "Chennai-based fintech startup Uncia",
+    "amount_str": "$3 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bharatfast.com/english/business/pm-e-drive-subsidy-extension-electric-two-three-wheelers-india/31926/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.munich-startup.de/en/118763/munich-startup-recap-13-26/": {
+    "valid": false
+  },
+  "https://letsdatascience.com/news/galdera-raises-17m-pre-seed-to-build-financial-models-8ef4bf70": {
+    "valid": true,
+    "company": "Galdera",
+    "amount_str": "$1.7M",
+    "website": "https://www.galderalabs.com",
+    "linkedin_url": "https://linkedin.com/company/galdera-labs",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.pymnts.com/news/investment-tracker/2026/klarna-vets-galdera-raises-1-7-million-for-ai-financial-modeling/": {
+    "valid": true,
+    "company": "Klarna Vets' Galdera",
+    "amount_str": "$1.7 M",
+    "website": "https://www.klarna.com/us",
+    "linkedin_url": "",
+    "founder_name": "Finexio CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://entarabi.com/en/2026/03/lime-partners-with-cippo-egypt-to-provide-financing-and-education-solutions-for-children-with-special-needs/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "Ahmed Mohsen",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://inforcapital.com/news/triangle-health-raises-4-million-for-ai-health-navigation-platform/": {
+    "valid": true,
+    "company": "Triangle Health",
+    "amount_str": "$4M",
+    "website": "https://www.trianglehealth.com",
+    "linkedin_url": "https://linkedin.com/company/triangle-health-llc",
+    "founder_name": "deeply personal experience of",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://timesofindia.indiatimes.com/city/ranchi/jharkhand-to-establish-j-hub-incubation-centre-aimed-at-empowering-young-entrepreneurs-with-essential-resources-and-mentorship/amp_articleshow/129884966.cms": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.ampproject.org/v0.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
