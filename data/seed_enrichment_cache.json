@@ -19096,5 +19096,198 @@
   },
   "https://www.prnewswire.com/news-releases/deadline-tomorrow-berger-montague-advises-ramaco-resources-inc-nasdaq-metc-investors-to-inquire-about-a-securities-fraud-class-action-by-march-31-2026-302728217.html": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/30/sycamore-raises-65m-silicon-valley-heavyweights-build-governance-layer-enterprise-ai-agents/": {
+    "valid": true,
+    "company": "Sycamore",
+    "amount_str": "$65M",
+    "website": "https://sycamore.so",
+    "linkedin_url": "https://linkedin.com/company/sycamore-labs",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/sycamorelabs"
+  },
+  "https://siliconangle.com/2026/03/30/machine-identities-ai-rsac-thecubepod/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/30/rebellions-inc-lands-400m-funding-lead-south-korean-revolt-nvidia-chips/": {
+    "valid": true,
+    "company": "Rebellions",
+    "amount_str": "$400M",
+    "website": "https://rebellions.ai/rebellions-product/rebellions-sdk",
+    "linkedin_url": "https://linkedin.com/company/rebellions-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/RebellionsAI"
+  },
+  "https://www.prnewswire.com/news-releases/newmark-arranges-1-65-billion-refinancing-of-one-madison-avenue-in-new-york-city-302728875.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/shareholder-alert-the-ademi-firm-investigates-whether-kezar-life-sciences-inc-is-obtaining-a-fair-price-for-public-shareholders-302728630.html": {
+    "valid": false
+  },
+  "https://www.binance.com/en/square/post/307124686386993": {
+    "valid": false
+  },
+  "https://www.startupmag.co.uk/funding/rivulo-2026-pre-seed-funding/": {
+    "valid": false
+  },
+  "https://www.ndtv.com/video/chhattisgarh-pushes-startups-boosts-youth-jobs-1077930": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/dallas/news/2026/03/30/startups-to-watch-new-list.html": {
+    "valid": false
+  },
+  "https://letsdatascience.com/news/sycamore-raises-65m-to-build-agent-os-1e2ce9d4": {
+    "valid": true,
+    "company": "Sycamore",
+    "amount_str": "$65M",
+    "website": "https://app.sycamorecampus.com",
+    "linkedin_url": "https://linkedin.com/company/sycamore-partners",
+    "founder_name": "Sri Viswanath",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/": {
+    "valid": false
+  },
+  "https://www.mexc.com/news/991803": {
+    "valid": true,
+    "company": "Valinor",
+    "amount_str": "$25 m",
+    "website": "https://www.valinor.co",
+    "linkedin_url": "https://linkedin.com/company/valinor-enterprises",
+    "founder_name": "crypto division",
+    "founder_linkedin_url": "",
+    "contact_email": "info@valinor.co",
+    "twitter_url": ""
+  },
+  "https://bebeez.eu/2026/03/30/luxembourgs-terraspark-raises-over-e5-million-to-harness-solar-energy-from-space-and-deliver-it-wirelessly-to-earth/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/03/30/report-physical-intelligence-to-raise-1b-with-valuation-north-of-11b/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.indianstartuptimes.com/investment/epik-raises-1-million-to-reinvent-electronics-shopping-with-try-buy-quick-commerce-model/": {
+    "valid": true,
+    "company": "The company",
+    "amount_str": "$1 m",
+    "website": "https://www.thecompanystore.com",
+    "linkedin_url": "https://linkedin.com/company/the-company-lab",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "custserv@thecompanystore.com",
+    "twitter_url": "https://x.com/thecompanystore"
+  },
+  "https://techfundingnews.com/bayern-kapital-backs-nature-robots-e4m-seed-round-to-power-next-gen-autonomous-agriculture/": {
+    "valid": false
+  },
+  "https://yourstory.com/2026/03/startup-news-and-updates-daily-roundup-march-30-2026": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.esgtoday.com/fairglow-raises-e3-million-to-decarbonize-beauty-supply-chain/": {
+    "valid": false
+  },
+  "https://www.bitget.com/news/detail/12560605317242": {
+    "valid": true,
+    "company": "Blockchain-Based Private Credit Startup Valinor",
+    "amount_str": "$25 M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.securityweek.com/huskeys-emerges-from-stealth-with-8-million-in-funding/amp/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupcity.hamburg/news-events/news/hyground-secures-3-million-euros-in-funding-round": {
+    "valid": true,
+    "company": "Hyground",
+    "amount_str": "",
+    "website": "https://hyground.ai",
+    "linkedin_url": "https://linkedin.com/company/hyground",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@hyground.ai",
+    "twitter_url": ""
+  },
+  "https://qubit.capital/blog/india-seed-weekly-funding-roundup-week-5-march-2026": {
+    "valid": false
+  },
+  "https://m.economictimes.com/tech/funding/electronics-quick-commerce-firm-epik-raises-1-million-led-by-info-edge-ventures/articleshow/129900746.cms": {
+    "valid": true,
+    "company": "Electronics quick commerce firm Epik",
+    "amount_str": "$1 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.calcalistech.com/ctechnews/article/hkjas0dj11l": {
+    "valid": true,
+    "company": "Huskeys",
+    "amount_str": "$8 m",
+    "website": "https://huskeys-dairy-bar.res-menu.net",
+    "linkedin_url": "https://linkedin.com/company/huskeys",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techflowpost.com/en-US/newsletter/118413": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.blockflow.news",
+    "linkedin_url": "",
+    "founder_name": "and the",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/BlockFlow_News"
   }
 }
