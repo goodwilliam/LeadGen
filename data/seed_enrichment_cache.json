@@ -20939,5 +20939,298 @@
   },
   "https://www.globenewswire.com/news-release/2026/03/31/3265345/0/en/Venture-Capital-Market-to-Surpass-USD-596-Bn-by-2031-with-Initial-Public-Offerings-Segment-Growing-at-9-45-CAGR-Says-Mordor-Intelligence.html": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/03/31/whoop-valuation-10b-series-g-fundraise/": {
+    "valid": false
+  },
+  "https://venturebeat.com/orchestration/slack-adds-30-ai-features-to-slackbot-its-most-ambitious-update-since-the": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/venture/wearable-fitness-tech-ai-whoop-seriesg-funding/": {
+    "valid": false
+  },
+  "https://betakit.com/naco-wants-feds-to-use-their-750-million-in-vc-funding-to-back-startups-earlier/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/31/companies-bet-agentic-soc-ai-reshapes-security-rsac26/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/31/nvidia-invests-2b-marvell-part-new-interconnect-partnership/": {
+    "valid": false
+  },
+  "https://www.geekwire.com/2026/seattle-vr-gaming-studio-polyarc-announces-significant-layoffs/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/katten-advises-marc-zahr-and-the-chaifetz-group-in-acquisition-of-portland-trail-blazers-302730598.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/spire-completes-acquisition-of-tennessee-piedmont-natural-gas-business-from-duke-energy-302730161.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/siriusxm-to-report-first-quarter-2026-operating-and-financial-results-302730422.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-alert-super-micro-computer-inc-smci-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit-302730377.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/sunstone-hotel-investors-schedules-first-quarter-2026-earnings-release-and-conference-call-302730586.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/aberdeen-investments-us-closed-end-funds-announce-distribution-payment-details-302730536.html": {
+    "valid": false
+  },
+  "https://www.techbuzz.ai/articles/nomadic-raises-8-4m-to-turn-av-camera-feeds-into-gold": {
+    "valid": true,
+    "company": "Nomadic",
+    "amount_str": "$8.4M",
+    "website": "https://gonomadic.com",
+    "linkedin_url": "https://linkedin.com/company/go-nomadic",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/nomadicvisas"
+  },
+  "https://www.eu-startups.com/2026/03/paris-based-kestra-lands-e21-million-series-a-for-orchestration-platform-expansion/": {
+    "valid": false
+  },
+  "https://eletric-vehicles.com/rivian/also/rivians-also-signs-autonomous-delivery-deal-with-doordash-funding-reaches-500m/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://ads.adthrive.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thenextweb.com/news/nexus-4-3m-seed": {
+    "valid": true,
+    "company": "Nexus",
+    "amount_str": "$4.3M",
+    "website": "https://agent.nexus",
+    "linkedin_url": "https://linkedin.com/company/nexusgpt",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/biraj-jeebun-37598636a",
+    "contact_email": "",
+    "twitter_url": "https://x.com/nexus_gpt"
+  },
+  "https://markets.financialcontent.com/stocks/article/pulsebulletin-2026-3-31-voltify-and-30-million-seed-round-signal-new-push-to-electrify-rail-without-overhead-wires": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://images.financialcontent.com/investcenter/favicon.svg",
+    "linkedin_url": "",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bhbusiness.com/2026/03/31/jimini-health-gets-17m-to-enhance-patient-facing-ai-infrastructure/": {
+    "valid": false
+  },
+  "https://www.capitalbrief.com/article/proseek-bio-raises-15-million-to-bring-ovarian-cancer-blood-test-to-market-66081d18-caa2-4de4-bd57-4fae054a3056/": {
+    "valid": true,
+    "company": "Brisbane-based startup",
+    "amount_str": "$1.5 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "https://linkedin.com/company/navibord",
+    "founder_name": "Proseek Bio",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/03/31/littlebird-launches-full-context-ai-assistant-with-11-million-seed-funding/": {
+    "valid": true,
+    "company": "Insider Brief Nomadic",
+    "amount_str": "$8.4 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/starcloud-170m-series-a-benchmark-eqt-nvidia-h100-space/": {
+    "valid": false
+  },
+  "https://www.biospace.com/press-releases/semarion-secures-3-8-million-to-scale-next-generation-cell-assay-technology-and-accelerate-pharma-adoption": {
+    "valid": true,
+    "company": "Semarion",
+    "amount_str": "$3.8 M",
+    "website": "https://www.semarion.com",
+    "linkedin_url": "https://linkedin.com/company/semarion",
+    "founder_name": "Jeroen Verheyen",
+    "founder_linkedin_url": "https://linkedin.com/in/jeroenverheyen",
+    "contact_email": "info@semarion.com",
+    "twitter_url": "https://x.com/semarion_ltd"
+  },
+  "https://www.geekwire.com/2026/ai-startup-oumi-from-microsoft-and-google-vets-launches-commercial-platform-for-custom-ai-models/": {
+    "valid": false
+  },
+  "https://www.biospace.com/press-releases/sub-q-bionics-closes-1-5m-pre-seed-round-to-advance-next-generation-solution-for-lymphedema-care": {
+    "valid": true,
+    "company": "Sub-Q Bionics",
+    "amount_str": "$1.5M",
+    "website": "https://subqbionics.com",
+    "linkedin_url": "https://linkedin.com/company/sub-q-bionics",
+    "founder_name": "said Jordan Pollack",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.jpost.com/consumerism/article-891745": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.axios.com/local/indianapolis/2026/03/30/burb-bites-westfields-plan-to-add-nearly-2000-homes-and-apartments": {
+    "valid": false
+  },
+  "https://www.morningstar.com/news/pr-newswire/20260331la22555/cara-raises-8-million-to-help-every-insurance-brokerage-grow-its-book": {
+    "valid": true,
+    "company": "CARA",
+    "amount_str": "$8 M",
+    "website": "https://officialcara.com",
+    "linkedin_url": "https://linkedin.com/company/caraai",
+    "founder_name": "of Cara",
+    "founder_linkedin_url": "https://linkedin.com/in/zemotion",
+    "contact_email": "",
+    "twitter_url": "https://x.com/CaraQuici"
+  },
+  "https://www.axios.com/pro/all-deals/2026/03/31/pro-rata-premium-first-look": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Former BP",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/WevolverApp/videos/the-global-photonics-engineering-contest-2026-is-ongoing-submit-your-photonics-i/1659850108770054/": {
+    "valid": false
+  },
+  "https://thelogic.co/news/naco-angel-capital-investment-startups-canada/": {
+    "valid": false
+  },
+  "https://www.indianweb2.com/2026/03/fandom-platform-fanon-raises-1-mn-in.html": {
+    "valid": true,
+    "company": "Fandom Platform Fanon",
+    "amount_str": "$1 M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.saurenergy.com/solar-energy-news/terraspark-raises-5-million-to-advance-space-based-solar-power-technology-11438192": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/earlyasset-raises-2m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.techbuzznews.com/earlyasset-raises-2m/": {
+    "valid": true,
+    "company": "Earlyasset",
+    "amount_str": "$2 M",
+    "website": "https://earlyasset.com",
+    "linkedin_url": "https://linkedin.com/company/earlyasset",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@earlyasset.com",
+    "twitter_url": "https://x.com/earlyasset"
+  },
+  "https://smestreet.in/infocus/skillsvest-raises-capital-to-support-student-financing-11439557": {
+    "valid": false
+  },
+  "https://nationaltoday.com/us/mn/stillwater-mn/news/2026/03/31/sub-q-bionics-raises-1-5m-for-lymphedema-treatment/": {
+    "valid": true,
+    "company": "Sub-Q Bionics",
+    "amount_str": "$1.5M",
+    "website": "https://subqbionics.com",
+    "linkedin_url": "https://linkedin.com/company/sub-q-bionics",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techround.co.uk/interviews/avion-gray-ceo-belong/": {
+    "valid": false
+  },
+  "https://www.panewslab.com/en/articles/019d41bf-f2b1-74e5-8928-c05154762ff2": {
+    "valid": true,
+    "company": "Blockchain infrastructure platform Uniblock",
+    "amount_str": "$5.2 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Exclusive interview with Tyler",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://medicaex.com/businesswire/sub-q-bionics-closes-1-5m-pre-seed-round-to-advance-next-generation-solution-for-lymphedema-care/": {
+    "valid": true,
+    "company": "Sub-Q Bionics",
+    "amount_str": "$1.5M",
+    "website": "https://subqbionics.com",
+    "linkedin_url": "https://linkedin.com/company/sub-q-bionics",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.vccircle.com/bachattfanon-duggar-finvest-pocket-early-stage-cheques": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://connect.facebook.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://entarabi.com/en/2026/03/openai-shuts-down-sora-a-strategic-shift-beyond-video-generation/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://wnhub.io/news/investment/item-50464": {
+    "valid": false
+  },
+  "https://www.shu.edu/business/news/entrepreneurs-apply-for-pirates-launchpad-today.html": {
+    "valid": false
+  },
+  "https://www.finextra.com/newsarticle/47518/ethical-savings-app-zero-ceases-trading": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/03/31/rebellions-announces-400m-to-accelerate-ai-inference-chip-expansion-ahead-of-ipo/": {
+    "valid": true,
+    "company": "Insider Brief Nomadic",
+    "amount_str": "$8.4 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupmag.co.uk/funding/riplo-2026-pre-seed-funding/": {
+    "valid": false
   }
 }
