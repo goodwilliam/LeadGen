@@ -20206,5 +20206,395 @@
   },
   "https://www.founderstoday.news/post/page/248/": {
     "valid": false
+  },
+  "https://venturebeat.com/technology/softr-launches-ai-native-platform-to-help-nontechnical-teams-build-business": {
+    "valid": false
+  },
+  "https://venturebeat.com/infrastructure/nvidia-backed-thinklabs-ai-raises-usd28-million-to-tackle-a-growing-power": {
+    "valid": true,
+    "company": "Nvidia-backed ThinkLabs AI",
+    "amount_str": "$28 m",
+    "website": "https://www.nvidia.com/en-us/omniverse",
+    "linkedin_url": "",
+    "founder_name": "Sergej Mahnovski",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/nvidiaomniverse"
+  },
+  "https://news.crunchbase.com/venture/data-largest-seed-rounds-ai-startups/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/03/31/brickken-secures-eur3m-to-expand-tokenization-infrastructure/": {
+    "valid": true,
+    "company": "Brickken",
+    "amount_str": "\u20ac3M",
+    "website": "https://www.brickken.com",
+    "linkedin_url": "https://linkedin.com/company/brickken",
+    "founder_name": "including Marco Podini",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Brickken"
+  },
+  "https://tech.eu/2026/03/31/kestra-raises-25m-series-a-to-build-the-enterprise-orchestration-standard/": {
+    "valid": true,
+    "company": "Kestra",
+    "amount_str": "$25M",
+    "website": "https://www.kestrarestaurant.com",
+    "linkedin_url": "https://linkedin.com/company/kestra-medical-technologies-inc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "forms@tambourine.com",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/31/belgium-crypto-startup-keyrock-hits-unicorn-status-says-valuation-quadrupled/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/31/semarion-raises-38m-to-scale-cell-assay-technology/": {
+    "valid": true,
+    "company": "Semarion",
+    "amount_str": "$3.8M",
+    "website": "https://www.semarion.com",
+    "linkedin_url": "https://linkedin.com/company/33255511",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@semarion.com",
+    "twitter_url": "https://x.com/Semarion_Ltd"
+  },
+  "https://tech.eu/2026/03/31/riplo-raises-ps23m-to-build-an-ai-operating-system-for-consulting/": {
+    "valid": true,
+    "company": "Riplo",
+    "amount_str": "\u00a32.3M",
+    "website": "http://www.riplo.com",
+    "linkedin_url": "https://linkedin.com/company/riplo",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/31/jimini-health-raises-17m-clinically-supervised-mental-healthcare-chatbot-app/": {
+    "valid": true,
+    "company": "Jimini Health",
+    "amount_str": "$17M",
+    "website": "https://jiminihealth.com",
+    "linkedin_url": "https://linkedin.com/company/jiminihealth",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@jiminihealth.com",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/nyse-content-update-a-sweet-time-at-the-nyse-as-hershey-hosts-its-investor-day-302730033.html": {
+    "valid": false
+  },
+  "https://indianstartupnews.com/funding/ai-led-savings-and-wealth-platform-bachatt-raises-12-million-from-accel-existing-investors-11439892": {
+    "valid": true,
+    "company": "AI-led savings and wealth platform Bachatt",
+    "amount_str": "$12 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bebeez.eu/2026/03/31/tot-for-iot-safety-test-of-things-raises-e1-2-million-to-automate-cybersecurity-testing/": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/openbox-ai-bags-5m-seed-round": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/03/31/uk-chip-startup-fractile-looking-to-raise-200m-at-1bn-valuation-report/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.globenewswire.com/news-release/2026/03/31/3265301/0/en/Nexus-Raises-4-3M-Seed-Round-to-Help-Business-Teams-Deploy-AI-Agents.html": {
+    "valid": true,
+    "company": "Nexus",
+    "amount_str": "$4.3M",
+    "website": "https://agent.nexus",
+    "linkedin_url": "https://linkedin.com/company/nexusgpt",
+    "founder_name": "said Assem Chammah",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/nexus_gpt"
+  },
+  "https://yourstory.com/2026/03/bachatt-raises-12-million-in-series-a-led-by-accel": {
+    "valid": true,
+    "company": "Bachatt",
+    "amount_str": "$12M",
+    "website": "https://bachatt.in",
+    "linkedin_url": "https://linkedin.com/company/bachatt",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@bachatt.app",
+    "twitter_url": "https://x.com/bachattapp"
+  },
+  "https://www.eu-startups.com/2026/03/tot-for-iot-safety-test-of-things-raises-e1-2-million-to-automate-cybersecurity-testing-of-connected-products/": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/03/31/female-founded-swedish-startup-enkei-closes-pre-seed-round-to-turn-construction-waste-into-design-grade-materials/": {
+    "valid": true,
+    "company": "Female-founded Swedish startup Enkei",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "of Lendager Group",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.forbes.com/sites/zinnialee/2026/03/31/hong-kong-property-tycoon-peter-lee-leads-300-million-round-in-us-battery-startup/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://i.forbesimg.com/48X48-F.png",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thenextweb.com/news/enkei-raises-a-pre-seed-round-to-scale-a-material-made-from-construction-waste-that-replaces-marble-and-concrete": {
+    "valid": true,
+    "company": "Enkei",
+    "amount_str": "",
+    "website": "https://www.enkei.world",
+    "linkedin_url": "https://linkedin.com/company/101322380",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hi@enkei.world",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/03/female-founded-swedish-startup-enkei-closes-pre-seed-round-to-turn-construction-waste-into-design-grade-materials/": {
+    "valid": false
+  },
+  "https://impactalpha.com/nature-robots-lands-e4-million-to-automate-organic-and-regenerative-agriculture/": {
+    "valid": false
+  },
+  "https://m.economictimes.com/small-biz/entrepreneurship/dugar-finance-raises-5-million-in-pre-series-a-round-led-by-hegdinvst/articleshow/129917957.cms": {
+    "valid": true,
+    "company": "Dugar Finance",
+    "amount_str": "$5 m",
+    "website": "https://dugar.co.in",
+    "linkedin_url": "https://linkedin.com/company/dugar-finance-investments-limited",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.globenewswire.com/news-release/2026/03/31/3265328/0/en/Earlyasset-Raises-2M-to-Unlock-Liquidity-in-Venture-Secondaries.html": {
+    "valid": true,
+    "company": "Earlyasset",
+    "amount_str": "$2M",
+    "website": "https://earlyasset.com",
+    "linkedin_url": "https://linkedin.com/company/earlyasset",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@earlyasset.com",
+    "twitter_url": "https://x.com/earlyasset"
+  },
+  "https://www.verdict.co.uk/starcloud-secures-170m-funding/": {
+    "valid": true,
+    "company": "US-based space tech company Starcloud",
+    "amount_str": "$170m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Databricks EMEA",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.streetinsider.com/Globe+Newswire/Lubit+CEO+Kris+Ewald+Discusses+Energy+Price+Prediction+Market+at+EcoSummit/26244887.html": {
+    "valid": false
+  },
+  "https://www.finextra.com/pressarticle/109327/due-dilligence-startup-eunice-raises-8-million": {
+    "valid": false
+  },
+  "https://www.uniindia.com/toshiba-begins-sampling-of-30-34tb-smr-nearline-hard-disk-drives/prnewswire/news/3793279.html": {
+    "valid": false
+  },
+  "http://www.uniindia.com/deakin-university-advances-global-agenda-for-affordable-health-through-raah-roundtable/prnewswire/news/3793557.html": {
+    "valid": false
+  },
+  "https://www.instagram.com/reel/DWizOmcj8M7/": {
+    "valid": false
+  },
+  "https://www.artificiallawyer.com/2026/03/31/how-do-ai-native-law-firms-work/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wp.me/p8cny6-a7G",
+    "linkedin_url": "",
+    "founder_name": "who previously was",
+    "founder_linkedin_url": "",
+    "contact_email": "phoebe@cosmonauts.biz",
+    "twitter_url": ""
+  },
+  "https://businessreviewlive.com/proho-raises-1m-pre-seed-to-slash-resale-friction-with-ai-powered-guaranteed-sales/": {
+    "valid": true,
+    "company": "Proho",
+    "amount_str": "$1M",
+    "website": "https://www.proho.in",
+    "linkedin_url": "https://linkedin.com/company/prohoindia",
+    "founder_name": "and Shalin Gandhi",
+    "founder_linkedin_url": "",
+    "contact_email": "info@proho.in",
+    "twitter_url": ""
+  },
+  "https://www.aninews.in/news/business/amid-rising-geopolitical-tensions-and-trade-restrictions-ai-emerges-as-key-driver-of-global-trade-growth-mckinsey20260331121412?amp=1": {
+    "valid": false
+  },
+  "https://www.aninews.in/news/business/from-doomscroll-to-page-turner-bookxcess-launches-the-brain-un-rot-library-to-help-rebuild-a-generations-focus20260331114058?amp=1": {
+    "valid": false
+  },
+  "https://www.aninews.in/news/business/arnold-schwarzenegger-receives-honorary-doctorate-from-ulster-university20260331100050/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://d3lzcn6mbbadaf.cloudfront.net/static/css/bundle.css",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/electronics-quick-commerce-firm-epik-raises-1-million-led-by-info-edge-ventures/129916750": {
+    "valid": true,
+    "company": "Electronics quick commerce firm Epik",
+    "amount_str": "$1 m",
+    "website": "https://economictimes.indiatimes.com",
+    "linkedin_url": "https://linkedin.com/company/economictimes",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/economictimes"
+  },
+  "https://www.businessupturn.com/brand-post/proho-raises-1-million-pre-seed-funding-to-scale-its-ai-powered-guaranteed-home-resale-platform-tackling-uncertainty-in-property-transactions/": {
+    "valid": true,
+    "company": "Proho",
+    "amount_str": "$1 M",
+    "website": "https://wranglerstarmerch.com",
+    "linkedin_url": "https://linkedin.com/company/prohoindia",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://businessreviewlive.com/fanon-secures-1m-pre-seed-in-funding-to-revolutionize-fan-storytelling/": {
+    "valid": true,
+    "company": "Fanon",
+    "amount_str": "$1M",
+    "website": "https://www.fanon.co/home",
+    "linkedin_url": "https://linkedin.com/company/thisisfanon",
+    "founder_name": "and Nesar Rao",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://indianstartupnews.com/funding/bengaluru-startup-fanon-raises-1-million-to-grow-its-gen-z-focused-fandom-storytelling-platform-11439079": {
+    "valid": true,
+    "company": "Bengaluru startup Fanon",
+    "amount_str": "$1 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Abhijeet Pai",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.datacenterdynamics.com/en/news/uk-chip-startup-fractile-looking-to-raise-200m-at-1bn-valuation-report/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.theinformation.com/newsletters/ai-agenda/anthropics-success-sparks-server-crunch": {
+    "valid": false
+  },
+  "https://techfundingnews.com/jimini-health-secures-17m-from-m13-zetta-to-scale-safe-ai-in-behavioural-health/": {
+    "valid": true,
+    "company": "Jimini Health",
+    "amount_str": "$17M",
+    "website": "https://jiminihealth.com",
+    "linkedin_url": "https://linkedin.com/company/jiminihealth",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@jiminihealth.com",
+    "twitter_url": ""
+  },
+  "https://bebeez.eu/2026/03/31/danish-startup-cernel-secures-e4-million-seed-to-fix-broken-product-data-in-ecommerce/": {
+    "valid": false
+  },
+  "https://www.statnews.com/2026/03/31/jimini-health-raises-funding-ai-chatbot-sage-mental-health/": {
+    "valid": true,
+    "company": "Jimini Health",
+    "amount_str": "$17 m",
+    "website": "https://jiminihealth.com",
+    "linkedin_url": "https://linkedin.com/company/jiminihealth",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@jiminihealth.com",
+    "twitter_url": ""
+  },
+  "https://andpurpose.world/applications-invited-for-nidhi-seed-support-program-ssp-phase-3/": {
+    "valid": false
+  },
+  "https://americanentrepreneurship.com/seed-funding-explained-how-to-raise-and-scale-in-2026/": {
+    "valid": false
+  },
+  "https://en.incarabia.com/egf-invests-us1225-million-in-dubaibased-carnistore-to-support-expansion-in-uae-premium-protein-sector-839626.html": {
+    "valid": true,
+    "company": "Dubai-Based CarniStore",
+    "amount_str": "$12.25 M",
+    "website": "https://www.msn.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://en.wowtale.net/2026/03/31/233781/": {
+    "valid": true,
+    "company": "Mediwhale",
+    "amount_str": "$13.3M",
+    "website": "https://mediwhale.com/ko",
+    "linkedin_url": "https://linkedin.com/company/14538013",
+    "founder_name": "Taegeun Choi",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Mediwhale"
+  },
+  "https://www.sky9capital.com/blog/seed-funding-early-stage-startups-prioritize/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "support covers three areas",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/riplo-raises-2-3m-to-build-ai-os-for-consulting-firms/": {
+    "valid": false
   }
 }
