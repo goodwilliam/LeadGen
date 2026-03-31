@@ -20034,5 +20034,177 @@
     "founder_linkedin_url": "",
     "contact_email": "feedback@pymnts.com",
     "twitter_url": "https://x.com/pymnts"
+  },
+  "https://tech.eu/2026/03/31/building-europes-deeptech-backbone-inside-european-deeptech-week-2026/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/31/standing-ovation-raises-eur30m-to-scale-precision-fermentation-dairy-proteins-globally/": {
+    "valid": true,
+    "company": "Standing Ovation",
+    "amount_str": "\u20ac30M",
+    "website": "https://www.standingovationdancecomp.com",
+    "linkedin_url": "https://linkedin.com/company/standingovation",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "office@standingovationdancecomp.com",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://tech.eu/2026/03/31/endform-secures-eur15m-for-high-performance-web-testing-tools/": {
+    "valid": true,
+    "company": "Endform",
+    "amount_str": "\u20ac1.5M",
+    "website": "https://chatgate.ai",
+    "linkedin_url": "https://linkedin.com/company/endform",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/31/qover-raises-12m-from-cibc-as-it-celebrates-10-years-of-embedded-insurance-growth/": {
+    "valid": true,
+    "company": "Qover",
+    "amount_str": "$12M",
+    "website": "https://www.qover.com",
+    "linkedin_url": "https://linkedin.com/company/qover",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "michael.scott@yourcompany.com",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/03/31/enkei-secures-pre-seed-funding-to-develop-circular-design-materials/": {
+    "valid": true,
+    "company": "Enkei",
+    "amount_str": "",
+    "website": "https://enkei.com",
+    "linkedin_url": "https://linkedin.com/company/enkei-america-inc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/bacvalley/status/2038783335015780857/photo/1": {
+    "valid": true,
+    "company": "Verse8 just",
+    "amount_str": "$5M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/Nic_Wenzel_1/status/2038663462071755245": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.f1dc7e4a.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/alexzwilling_terraspark-just-raised-a-54m-pre-seed-activity-7444296130349281280-2L_n": {
+    "valid": false
+  },
+  "https://www.wsj.com/articles/startup-raises-2-million-to-expand-secondary-market-in-venture-capital-546fd3e8": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/03/31/the-silicon-valley-congressional-race-is-getting-ugly/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/female-led-enkei-secures-e0-4m-from-radcap-and-ex-tarkett-ceo-to-scale-circular-design-material-receramix/": {
+    "valid": false
+  },
+  "https://www.calcalistech.com/ctechnews/article/gi39vw1br": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://newmedia.calcalist.co.il/ctech/testimonials/index.html",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "judith.hoffmann@calcalist.co.il",
+    "twitter_url": ""
+  },
+  "https://www.cxodigitalpulse.com/former-coatue-partner-raises-65-million-seed-funding-for-enterprise-ai-agent-startup/": {
+    "valid": true,
+    "company": "Coatue Partner",
+    "amount_str": "$65 M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "and Databricks",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/scaleops-raises-130-million-series-c": {
+    "valid": true,
+    "company": "ScaleOps",
+    "amount_str": "$130 M",
+    "website": "https://scaleops.com",
+    "linkedin_url": "https://linkedin.com/company/scaleops-sh",
+    "founder_name": "Led by",
+    "founder_linkedin_url": "",
+    "contact_email": "team@scaleops.com",
+    "twitter_url": "https://x.com/scaleops"
+  },
+  "https://finance.yahoo.com/markets/crypto/articles/ex-blackstone-staffers-raise-25-120000232.html": {
+    "valid": true,
+    "company": "Ex\u2013Blackstone staffers",
+    "amount_str": "$25 m",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.dealstreetasia.com/stories/zetwerk-rentomojo-477486/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://telegram.me/share/url",
+    "linkedin_url": "",
+    "founder_name": "with former",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/telegram"
+  },
+  "https://tech.eu/tag/enkei/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DWiZeTDkeub/": {
+    "valid": false
+  },
+  "https://x.com/PlanetDefi/status/2038634229626450306/photo/1": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.f1dc7e4a.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.founderstoday.news/post/page/248/": {
+    "valid": false
   }
 }
