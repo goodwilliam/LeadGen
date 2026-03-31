@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T01:23:04Z",
+  "generated_at": "2026-03-31T07:02:21Z",
   "count": 22,
   "jobs": [
     {
@@ -13,7 +13,7 @@
       "companyBatch": "W26",
       "companyOneLiner": "Multimodal data provider for robotics and world modeling",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/ce063ef00a3ec0da3649fb79a819c0e6c1e88ebf.png",
-      "companyLastActiveAt": "5 days ago",
+      "companyLastActiveAt": "6 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92095&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=31205"
     },
     {
@@ -167,7 +167,7 @@
       "companyBatch": "W24",
       "companyOneLiner": "Real-time and two-way sync between CRMs and Databases",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/86069ba7639f52c1874bb95448db4e4cd2310e5e.png",
-      "companyLastActiveAt": "about 17 hours ago",
+      "companyLastActiveAt": "about 23 hours ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92545&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29434"
     },
     {
@@ -251,22 +251,8 @@
       "companyBatch": "S23",
       "companyOneLiner": "AI-Native CPQ & Billing for Modern Pricing Models",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/2e2a3ced5969028060bbaaf152193b5b6a2b3982.png",
-      "companyLastActiveAt": "19 days ago",
+      "companyLastActiveAt": "20 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D88819&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28844"
-    },
-    {
-      "id": 89229,
-      "title": "Motion Designer",
-      "jobType": "fulltime",
-      "location": "London, England, GB / New York, NY, US",
-      "roleType": "Animation",
-      "companyName": "Solve Intelligence",
-      "companySlug": "solve-intelligence",
-      "companyBatch": "S23",
-      "companyOneLiner": "AI patent drafting, prosecution, harvesting and more for legal teams.",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/cdb4c71ccbddd0ad292fc773c3cfb169d2a4a5ba.png",
-      "companyLastActiveAt": "5 days ago",
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89229&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28825"
     },
     {
       "id": 77217,
@@ -283,6 +269,20 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D77217&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28825"
     },
     {
+      "id": 89229,
+      "title": "Motion Designer",
+      "jobType": "fulltime",
+      "location": "London, England, GB / New York, NY, US",
+      "roleType": "Animation",
+      "companyName": "Solve Intelligence",
+      "companySlug": "solve-intelligence",
+      "companyBatch": "S23",
+      "companyOneLiner": "AI patent drafting, prosecution, harvesting and more for legal teams.",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/cdb4c71ccbddd0ad292fc773c3cfb169d2a4a5ba.png",
+      "companyLastActiveAt": "6 days ago",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89229&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28825"
+    },
+    {
       "id": 92532,
       "title": "\ud83d\ude80 Founding Design Engineer",
       "jobType": "fulltime",
@@ -293,7 +293,7 @@
       "companyBatch": "S23",
       "companyOneLiner": "AI Compliance Platform for Healthcare Organizations",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/b6ed6b92c1866d1321f5db92edcd357309239ed5.png",
-      "companyLastActiveAt": "3 days ago",
+      "companyLastActiveAt": "4 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92532&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28809"
     },
     {
