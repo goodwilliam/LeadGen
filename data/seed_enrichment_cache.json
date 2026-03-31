@@ -19607,5 +19607,303 @@
   },
   "https://www.startupresearcher.com/news/ai-agtech-nature-robots-closes-usd4-6-million-seed-round": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/": {
+    "valid": true,
+    "company": "Coatue partner",
+    "amount_str": "$65M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/30/ai-generated-code-verification-startup-qodo-raises-70m/": {
+    "valid": true,
+    "company": "AI-generated code verification startup Qodo",
+    "amount_str": "$70M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/30/space-data-center-startup-starcloud-raises-170m-1-1b-valuation/": {
+    "valid": true,
+    "company": "Space data center startup Starcloud",
+    "amount_str": "$170M",
+    "website": "https://www.datacenterdynamics.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/30/sett-raises-30m-grow-agent-based-ai-platform-game-studios/": {
+    "valid": true,
+    "company": "Sett",
+    "amount_str": "$30M",
+    "website": "https://www.sett.ai",
+    "linkedin_url": "https://linkedin.com/company/sett-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "luigi@rive.app",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/30/scaleops-reels-130m-make-cloud-environments-efficient/": {
+    "valid": false
+  },
+  "https://www.geekwire.com/2026/singapores-pixverse-picks-seattle-area-for-its-first-u-s-office-amid-300m-funding-round/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/epg-adds-over-us100-million-in-series-b-financing-expanding-strategic-backing-for-global-ai-data-center-growth-302729206.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/epg-adds-over-us100-million-in-series-b-financing-expanding-strategic-backing-for-global-ai-data-center-growth-302729236.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-syla-technologies-co-ltd-investors-to-inquire-about-securities-class-action-investigation--syt-302728319.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/coty-investors-have-opportunity-to-lead-coty-inc-securities-fraud-lawsuit-302728273.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-chanson-international-holding-investors-to-inquire-about-securities-class-action-investigation--chsn-302728281.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/naver-d2sf-makes-follow-on-investment-in-nuvilab-ai-nutrition-analytics-startup-302728401.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/naver-d2sf-makes-follow-on-investment-in-soundable-health-an-ai-driven-health-tech-startup-scaling-in-the-us-market-302728398.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/richtech-robotics-deadline-rr-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-richtech-robotics-inc-securities-fraud-lawsuit-first-filed-by-the-rosen-law-firm-302729211.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/paypal-holdings-inc-pypl-investors-april-20-2026-filing-deadline-in-securities-fraud-class-action---contact-kessler-topaz-meltzer--check-llp-302728357.html": {
+    "valid": false
+  },
+  "https://m.economictimes.com/tech/funding/social-media-platform-fanon-raises-1-million-in-round-led-by-kalaari-gruhas/articleshow/129909342.cms": {
+    "valid": true,
+    "company": "Fanon",
+    "amount_str": "$1 m",
+    "website": "https://www.fanon.co",
+    "linkedin_url": "https://linkedin.com/company/thisisfanon",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://colombiaone.com/2026/03/30/robigo-engineered-microbes-living-biopesticide-agriculture/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://nationaltoday.com/us/ca/san-francisco/news/2026/03/30/former-coatue-partner-raises-65m-seed-for-enterprise-ai-agent-startup/": {
+    "valid": true,
+    "company": "Coatue Partner",
+    "amount_str": "$65M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bebeez.eu/2026/03/30/ex-reuters-team-out-of-denmark-raises-e1-5-million-for-ai-newsroom-financial-news-system/": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/03/30/berlin-based-midas-lands-e43-million-to-expand-tokenised-investment-infrastructure/": {
+    "valid": false
+  },
+  "https://www.techbuzz.ai/articles/former-coatue-partner-raises-65m-seed-for-ai-agent-startup": {
+    "valid": true,
+    "company": "Coatue Partner",
+    "amount_str": "$65M",
+    "website": "https://coatue.com",
+    "linkedin_url": "https://linkedin.com/company/coatue",
+    "founder_name": "and reflects how",
+    "founder_linkedin_url": "",
+    "contact_email": "media@coatue.com",
+    "twitter_url": "https://x.com/coatuemgmt"
+  },
+  "https://crypto.news/valinor-raises-25m-to-put-private-credit-on-chain/": {
+    "valid": true,
+    "company": "Ex-Blackstone staffers",
+    "amount_str": "$25M",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "and the",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startlandnews.com/2026/03/investmidwest-kansas-city-2026/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/scaleops-130m-series-c-insight-partners-ai-infra/": {
+    "valid": false
+  },
+  "https://www.aol.com/articles/ex-blackstone-staffers-raise-25-120000630.html": {
+    "valid": true,
+    "company": "Ex\u2013Blackstone staffers",
+    "amount_str": "$25 m",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bebeez.eu/2026/03/30/germanys-nature-robots-raises-e4-million-to-tackle-agricultures-triple-threat-with-ai-and-robotics/": {
+    "valid": false
+  },
+  "https://www.monash.edu/monash-innovation-labs/news/articles/how-proton-intelligence-grew-at-milabs": {
+    "valid": false
+  },
+  "https://techstartups.com/2026/03/30/top-startup-and-tech-funding-news-march-30-2025/": {
+    "valid": true,
+    "company": "ScaleOps",
+    "amount_str": "$130 m",
+    "website": "https://scaleops.com",
+    "linkedin_url": "https://linkedin.com/company/scaleops-sh",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "team@scaleops.com",
+    "twitter_url": "https://x.com/scaleops"
+  },
+  "https://inforcapital.com/news/ex-reuters-team-out-of-denmark-raises-15-million-for-ai-newsroom-financial-news-system/": {
+    "valid": true,
+    "company": "Financial News Startup",
+    "amount_str": "\u20ac1.5M",
+    "website": "https://www.foxbusiness.com",
+    "linkedin_url": "https://linkedin.com/company/fox-business-network",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/static"
+  },
+  "https://techfundingnews.com/qodo-70m-series-b-qumra-capital-ai-code-review/": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/founderstoday_deeplify-bags-2m-pre-seed-to-digitise-industrial-activity-7444449884155355136-rFTe": {
+    "valid": false
+  },
+  "https://www.redtech.pro/spotwise-ai-broadcast-sales-platform-funding/amp/": {
+    "valid": true,
+    "company": "Spotwise",
+    "amount_str": "$450K",
+    "website": "https://spotwise.ai",
+    "linkedin_url": "https://linkedin.com/company/spotwise-ai",
+    "founder_name": "of Spotwise",
+    "founder_linkedin_url": "https://linkedin.com/in/robertslevics",
+    "contact_email": "support@spotwise.ai",
+    "twitter_url": "https://x.com/spotwise_ai"
+  },
+  "https://www.linkedin.com/posts/neilchennoufi_weve-raised-chf-1m-in-pre-seed-funding-activity-7444393822379397120-ts-m": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.geekwire.com/2026/portal-space-mini-nova-in-orbit/": {
+    "valid": false
+  },
+  "https://carta.com/data/disappearing-middle-pre-seed-market/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "says Samyr Laine",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://finance.yahoo.com/sectors/technology/articles/vcs-continue-pile-ai-inference-231614785.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https:&#x2F;&#x2F;www.yahoo.com&#x2F;",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.newelectronics.co.uk/content/news/rebellions-secures-400m-pre-ipo-funding-and-unveils-new-ai-infrastructure-platforms": {
+    "valid": true,
+    "company": "Rebellions",
+    "amount_str": "$400m",
+    "website": "http://www.rebellions.ai",
+    "linkedin_url": "https://linkedin.com/company/rebellions-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/RebellionsAI"
+  },
+  "https://x.com/FairfieldU/status/2038712118996787341": {
+    "valid": false
+  },
+  "https://regtechanalyst.com/edge-security-startup-huskeys-launches-with-8m-seed-round/": {
+    "valid": false
+  },
+  "https://www.axios.com/pro/all-deals/2026/03/30/pro-rata-premium-first-look": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.cashfree.com/blog/what-is-seed-funding/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts-api.wp.com/css",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.cashfree.com/blog/what-is-series-a-funding/": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/fairfield-university_students-to-compete-for-50k-in-seed-funding-activity-7444440327639302144-5scm": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://naturerobots.com/en/news/seed-invest/": {
+    "valid": false
+  },
+  "https://cryptorank.io/news/feed/35fbb-mantis-biotech-digital-twins-medicine": {
+    "valid": false
   }
 }
