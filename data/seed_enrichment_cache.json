@@ -19905,5 +19905,134 @@
   },
   "https://cryptorank.io/news/feed/35fbb-mantis-biotech-digital-twins-medicine": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/family-seed-launches-canadas-first-values-based-fertility-marketplace-302728133.html": {
+    "valid": false
+  },
+  "https://www.newsbytesapp.com/news/business/bengaluru-startup-fanon-raises-1-million-pre-seed-to-empower-fans/tldr": {
+    "valid": true,
+    "company": "Bengaluru startup Fanon",
+    "amount_str": "$1 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.businesspost.ie/article/irish-investor-finn-murphys-early-bet-on-starcloud-pays-off-as-it-reaches-1-1bn-valuation/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/03/huskeys-interview-with-ceo-itai-gafni.html": {
+    "valid": false
+  },
+  "https://ground.news/article/ex-blackstone-staffers-raise-25-million-for-startup-valinor-which-aims-to-put-private-credit-on-the-blockchain": {
+    "valid": true,
+    "company": "Ex-Blackstone staffers",
+    "amount_str": "$25 m",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fathomjournal.org/2ba2ffb1smm/7c6efffc-qnrgJw1JEx8.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "http://browsehappy.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.kucoin.com/news/flash/wu-outperforms-solana-s-p-and-nasdaq-amid-stablecoin-strategy-shift": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://assets.staticimg.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://pulse2.com/egide-e8-million-seed-round-raised-for-affordable-defense-systems-development/": {
+    "valid": false
+  },
+  "https://ministryofsport.com/steve-smiths-8-5-million-koala-windfall-a-masterclass-in-strategic-athlete-investing/": {
+    "valid": false
+  },
+  "https://www.techinasia.com/news/ai-agent-startup-sycamore-raises-65m-seed-funding": {
+    "valid": true,
+    "company": "AI agent startup Sycamore",
+    "amount_str": "$65m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "The scale ties to",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.africaglobalfunds.com/news/private-equity/deals/partech-backs-happy-pay-with-5m/": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/money/other/yann-lecun-s-ami-labs-raises-103-billion-to-build-world-models/ar-AA1XSqvG": {
+    "valid": true,
+    "company": "Yann LeCun's AMI Labs",
+    "amount_str": "$1.03 b",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.mexc.co/en-PH/news/993070": {
+    "valid": true,
+    "company": "The news comes after the firm",
+    "amount_str": "$6.1 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Tesla and SpaceX",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupresearcher.com/news/valinor-digital-secures-25-million-seed-round-to-modernize-credit-markets": {
+    "valid": false
+  },
+  "https://www.aol.com/finance/ex-blackstone-staffers-raise-25-120000630.html": {
+    "valid": true,
+    "company": "Ex\u2013Blackstone staffers",
+    "amount_str": "$25 m",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.reddit.com/r/startups/comments/1s87vtk/pre_seed_funding_in_the_ai_space_i_will_not/": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/kevin-dowd-7ba281a8_over-the-past-two-years-the-percentage-of-activity-7444513158448271360-kStf": {
+    "valid": false
+  },
+  "https://www.startups.com/requests/8eea305c-3b5b-4dc8-8cb6-2b2fc0889c80": {
+    "valid": false
+  },
+  "https://www.joyceshen.com/joyce-shens-picks-musings-and-readings-in-ai-ml-march-30-2026/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.pymnts.com/study_posts/why-identity-silos-are-failing-in-the-ai-era",
+    "linkedin_url": "https://linkedin.com/company/trulioo",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "feedback@pymnts.com",
+    "twitter_url": "https://x.com/pymnts"
   }
 }
