@@ -21751,5 +21751,128 @@
   },
   "https://www.pedalstart.com/blog/how-to-lead-a-successful-seed-round-a-complete-guide-with-pedalstart": {
     "valid": false
+  },
+  "https://betakit.com/feds-invest-over-16-million-in-trio-of-prairies-based-cleantech-research-projects/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/01/alien-raises-7-1m-build-identity-infrastructure-humans-ai-agents/": {
+    "valid": true,
+    "company": "Alien",
+    "amount_str": "$7.1M",
+    "website": "https://alien.org",
+    "linkedin_url": "",
+    "founder_name": "Founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/alienorg"
+  },
+  "https://siliconangle.com/2026/04/01/sona-raises-45m-help-businesses-manage-frontline-operations-ai/": {
+    "valid": true,
+    "company": "Sona",
+    "amount_str": "$45M",
+    "website": "https://www.sona.ai",
+    "linkedin_url": "https://linkedin.com/company/getsona",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/investor-alert-gartner-inc-it-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit-302731582.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/green-courte-partners-acquires-expansion-site-adjacent-to-existing-industrial-outdoor-storage-property-in-nashville-tennessee-msa-302731586.html": {
+    "valid": false
+  },
+  "https://x.com/Jessseglee/status/2039303432813650430": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.f1dc7e4a.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.reddit.com/r/startups/comments/1s95wi2/i_just_raised_370ki_will_not_promote/": {
+    "valid": false
+  },
+  "https://www.wsj.com/cio-journal/caltech-researchers-claim-radical-compression-of-high-fidelity-ai-models-e66f31c9": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/reel/DWlvRiMDCI_/": {
+    "valid": false
+  },
+  "https://finance.yahoo.com/sectors/technology/articles/nomad-raises-2m-oversubscribed-seed-140000234.html": {
+    "valid": true,
+    "company": "Nomad",
+    "amount_str": "$2M",
+    "website": "https://nomadgoods.com",
+    "linkedin_url": "https://linkedin.com/company/nomad-goods",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/gavanjames",
+    "contact_email": "",
+    "twitter_url": "https://x.com/nomadgoods"
+  },
+  "https://www.reddit.com/r/StartUpIndia/comments/1s9i1xp/pre_seed_funding_hunt/": {
+    "valid": false
+  },
+  "https://www.trendingtopics.eu/vc-hits-297-billion-in-one-quarter-ai-swallows-81-of-funding/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.tiktok.com/@trendingtopics.eu",
+    "linkedin_url": "",
+    "founder_name": "of OPenAI",
+    "founder_linkedin_url": "",
+    "contact_email": "u002F@trendingtopics.eu",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/sanjose/news/2026/04/01/sycamore-seed-round-65-million.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/audicin-raises-1-6m-oura-co-founder-business-finland-nervous-system-recovery-wearables/": {
+    "valid": false
+  },
+  "https://arcticstartup.com/whitebridge-ai-raises-e2-6-seed/": {
+    "valid": true,
+    "company": "Lithuanian WhiteBridge AI",
+    "amount_str": "\u20ac2.6 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/greenoaks-leads-also-200m-small-evs-last-mile/": {
+    "valid": false
+  },
+  "https://www.sdbj.com/life-sciences/biotech-life-sciences/dark-genome-startup-rybodyn-raises-10m-seed/": {
+    "valid": true,
+    "company": "Dark Genome Startup RyboDyn",
+    "amount_str": "$10M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
