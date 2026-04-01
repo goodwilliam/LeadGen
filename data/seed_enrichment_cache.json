@@ -21487,5 +21487,82 @@
   },
   "https://coverager.com/cara-raises-8-million/": {
     "valid": false
+  },
+  "https://venturebeat.com/orchestration/metas-new-structured-prompting-technique-makes-llms-significantly-better-at": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/31/nomadic-making-video-data-searchable-ai-model-training-raising-8-4m-funding/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/pins-investors-have-opportunity-to-lead-pinterest-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302730831.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/ibrx-investors-have-opportunity-to-lead-immunitybio-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302730809.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/reju-obtient-un-financement-de-135-millions-deuros-aupres-du-programme-neerlandais-niki-pour-un-centre-de-regeneration-de-textile-a-textile-a-lechelle-industrielle-dans-le-parc-industriel-de-chemelot-aux-pays-bas-302730845.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/reju-secures-135-million-in-dutch-niki-funding-for-industrial-scale-textile-to-textile-regeneration-hub-at-chemelot-industrial-park-the-netherlands-302730637.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/reju-secures-135-million-in-dutch-niki-funding-for-industrial-scale-textile-to-textile-regeneration-hub-at-chemelot-industrial-park-the-netherlands-302730558.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/elliott-management-statement-on-mitsui-osk-lines-ltd-302730859.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.cision.com/about/accessibility",
+    "linkedin_url": "https://linkedin.com/company/cision",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@cision.com",
+    "twitter_url": "https://x.com/cision"
+  },
+  "https://nationaltoday.com/us/ca/palo-alto/news/2026/03/31/sycamore-labs-raises-65-million-seed-round/": {
+    "valid": true,
+    "company": "Sycamore Labs",
+    "amount_str": "$65 M",
+    "website": "https://sycamorelabs.co.uk",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "dave@sycamorelabs.co.uk",
+    "twitter_url": ""
+  },
+  "https://www.binance.com/en/square/post/307613633895393": {
+    "valid": false
+  },
+  "https://news.metal.com/en/newscontent/103835523-SMM-PV-News-TerraSpark-Raises-%E2%82%AC54M-to-Advance-Space-Based-Solar-Power": {
+    "valid": false
+  },
+  "https://news.ventureintelligence.com/private-equity/content-discovery-platform-curiouscats.ai-raises-funding": {
+    "valid": true,
+    "company": "Content discovery platform CuriousCats.ai",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bayelsawatch.com/riplo-raises-e2-6m/": {
+    "valid": false
+  },
+  "https://pulse2.com/soxton-ai-acquires-cipher-to-add-agentic-security/": {
+    "valid": false
+  },
+  "https://ventureburn.com/sycamore-secures-65m-seed-to-build-enterprise-ai-agent-os/": {
+    "valid": true,
+    "company": "Sycamore",
+    "amount_str": "$65M",
+    "website": "https://sycamore.so/labs",
+    "linkedin_url": "https://linkedin.com/company/sycamore-labs",
+    "founder_name": "such as Databricks",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/sycamorelabs"
   }
 }

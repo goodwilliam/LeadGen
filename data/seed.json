@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-04-01T01:55:25.755789Z",
+  "generated_at": "2026-04-01T05:53:05.400986Z",
   "count": 31,
-  "enriched_count": 22,
+  "enriched_count": 24,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Sycamore Labs Raises $65 Million Seed Round - Palo Alto Today",
+      "article_url": "https://nationaltoday.com/us/ca/palo-alto/news/2026/03/31/sycamore-labs-raises-65-million-seed-round/",
+      "company": "Sycamore Labs",
+      "amount_str": "$65 M",
+      "pub_date": "2026-04-01T02:13:16Z",
+      "website": "https://sycamorelabs.co.uk",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "dave@sycamorelabs.co.uk",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Content discovery platform CuriousCats.ai raises funding | News - Venture Intelligence",
+      "article_url": "https://news.ventureintelligence.com/private-equity/content-discovery-platform-curiouscats.ai-raises-funding",
+      "company": "Content discovery platform CuriousCats.ai",
+      "amount_str": "",
+      "pub_date": "2026-04-01T00:02:24Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "SiliconAngle",
       "title": "Saronic raises $1.75B at $9.25B valuation to gear up autonomous ship production",
@@ -72,6 +100,20 @@
       "founder_linkedin_url": "",
       "contact_email": "contact@earlyasset.com",
       "twitter_url": "https://x.com/earlyasset"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Sycamore Secures $65M Seed to Build Enterprise AI Agent OS - Ventureburn",
+      "article_url": "https://ventureburn.com/sycamore-secures-65m-seed-to-build-enterprise-ai-agent-os/",
+      "company": "Sycamore",
+      "amount_str": "$65M",
+      "pub_date": "2026-03-31T22:09:18Z",
+      "website": "https://sycamore.so/labs",
+      "linkedin_url": "https://linkedin.com/company/sycamore-labs",
+      "founder_name": "such as Databricks",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/sycamorelabs"
     },
     {
       "source": "Google Alerts",
@@ -145,14 +187,14 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Former Coatue Partner Raises $65 Million Seed Funding for Enterprise AI Agent Startup",
-      "article_url": "https://www.cxodigitalpulse.com/former-coatue-partner-raises-65-million-seed-funding-for-enterprise-ai-agent-startup/",
-      "company": "Coatue Partner",
-      "amount_str": "$65 M",
-      "pub_date": "2026-03-31T17:12:59Z",
+      "title": "Fandom Platform Fanon Raises $1 Mn in a Pre-seed Round Led by Kalaari Capital and Gruhas",
+      "article_url": "https://www.indianweb2.com/2026/03/fandom-platform-fanon-raises-1-mn-in.html",
+      "company": "Fandom Platform Fanon",
+      "amount_str": "$1 M",
+      "pub_date": "2026-03-31T16:52:55Z",
       "website": "https://duck.ai",
       "linkedin_url": "",
-      "founder_name": "and Databricks",
+      "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
@@ -256,20 +298,6 @@
       "twitter_url": ""
     },
     {
-      "source": "VentureBeat",
-      "title": "Nvidia-backed ThinkLabs AI raises $28 million to tackle a growing power grid crunch",
-      "article_url": "https://venturebeat.com/infrastructure/nvidia-backed-thinklabs-ai-raises-usd28-million-to-tackle-a-growing-power",
-      "company": "Nvidia-backed ThinkLabs AI",
-      "amount_str": "$28 m",
-      "pub_date": "2026-03-31T10:00:00Z",
-      "website": "https://www.nvidia.com/en-us/omniverse",
-      "linkedin_url": "",
-      "founder_name": "Sergej Mahnovski",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/nvidiaomniverse"
-    },
-    {
       "source": "tech.eu",
       "title": "Riplo raises \u00a32.3M to build an AI operating system for consulting",
       "article_url": "https://tech.eu/2026/03/31/riplo-raises-ps23m-to-build-an-ai-operating-system-for-consulting/",
@@ -354,20 +382,6 @@
       "twitter_url": ""
     },
     {
-      "source": "Google Alerts",
-      "title": "Bengaluru startup Fanon raises $1 million pre seed to empower fans - NewsBytes",
-      "article_url": "https://www.newsbytesapp.com/news/business/bengaluru-startup-fanon-raises-1-million-pre-seed-to-empower-fans/tldr",
-      "company": "Bengaluru startup Fanon",
-      "amount_str": "$1 m",
-      "pub_date": "2026-03-31T01:10:08Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
       "source": "SiliconAngle",
       "title": "AI-generated code verification startup Qodo raises $70M",
       "article_url": "https://siliconangle.com/2026/03/30/ai-generated-code-verification-startup-qodo-raises-70m/",
@@ -393,20 +407,6 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "luigi@rive.app",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Ex-Blackstone staffers raise $25 million for startup Valinor, which aims to put private credit ...",
-      "article_url": "https://ground.news/article/ex-blackstone-staffers-raise-25-million-for-startup-valinor-which-aims-to-put-private-credit-on-the-blockchain",
-      "company": "Ex-Blackstone staffers",
-      "amount_str": "$25 m",
-      "pub_date": "2026-03-30T20:21:04Z",
-      "website": "",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
       "twitter_url": ""
     },
     {
