@@ -21232,5 +21232,260 @@
   },
   "https://www.startupmag.co.uk/funding/riplo-2026-pre-seed-funding/": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/03/31/robotaxi-companies-refuse-to-say-how-often-their-avs-need-remote-help/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/03/31/its-not-your-imagination-ai-seed-startups-are-commanding-higher-valuations/": {
+    "valid": false
+  },
+  "https://venturebeat.com/security/rsac-2026-agentic-soc-agent-telemetry-security-gap": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/31/saronic-raises-1-75b-9-25b-valuation-ramp-autonomous-ship-production/": {
+    "valid": true,
+    "company": "Saronic",
+    "amount_str": "$1.75B",
+    "website": "https://www.saronic.com",
+    "linkedin_url": "https://linkedin.com/company/saronic-technologies",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/ethanausburn2026",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Saronic"
+  },
+  "https://siliconangle.com/2026/03/31/openai-just-closed-record-breaking-122b-funding-round-brings-value-852b/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/03/31/depthfirst-raises-80m-expand-ai-native-security-platform-train-domain-specific-models/": {
+    "valid": true,
+    "company": "Depthfirst",
+    "amount_str": "$80M",
+    "website": "https://depthfirst.com",
+    "linkedin_url": "https://linkedin.com/company/depthfirst",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "_@astro.JbGtJqXb.css",
+    "twitter_url": "https://x.com/depthfirstlabs"
+  },
+  "https://siliconangle.com/2026/03/31/linx-security-raises-50m-new-funding-grow-identity-access-platform/": {
+    "valid": true,
+    "company": "Linx Security",
+    "amount_str": "$50M",
+    "website": "https://www.linx.security",
+    "linkedin_url": "https://linkedin.com/company/linx-security",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/03/31/cybersecurity-services-startup-tenex-raises-250m-funding/": {
+    "valid": true,
+    "company": "Cybersecurity services startup Tenex",
+    "amount_str": "$250M",
+    "website": "https://www.rankiteo.com",
+    "linkedin_url": "https://linkedin.com/company/rankiteo",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Rankiteo_Cyber"
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-dnow-inc-investors-to-inquire-about-securities-class-action-investigation--dnow-302730723.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/tcom-investors-have-opportunity-to-lead-tripcom-group-limited-securities-fraud-lawsuit-first-filed-by-the-rosen-law-firm-302730718.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/data-breach-alert-edelson-lechtzin-llp-investigates-carecloud-inc-data-breach-302730766.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/eightco-nasdaq--orbs-declare-des-avoirs-totaux-de-326-millions-de-dollars-dont-pres-de-280-millions-de-worldcoin-et-plus-de-11-000-eth-302730734.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/driven-brands-holdings-inc-drvn-class-action-lawsuit-investors-face-may-8-2026-deadline-302728433.html": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/03/31/zypl-ai-raises-5-5m-to-expand-synthetic-data-ai-platform-for-financial-services/": {
+    "valid": true,
+    "company": "Insider Brief Nomadic",
+    "amount_str": "$8.4 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/": {
+    "valid": false
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/not-imagination-ai-seed-startups-210000509.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https:&#x2F;&#x2F;www.yahoo.com&#x2F;",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/": {
+    "valid": true,
+    "company": "Runway",
+    "amount_str": "$10M",
+    "website": "https://runwayml.com",
+    "linkedin_url": "https://linkedin.com/company/runwayml",
+    "founder_name": "Chang She",
+    "founder_linkedin_url": "",
+    "contact_email": "press@runwayml.com",
+    "twitter_url": "https://x.com/02EFzZu9kqNjyMW00TW2fffK8TzfA01LDy8hCF38dGxEkI"
+  },
+  "https://www.bitget.com/amp/news/detail/12560605323755": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "according to",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.law.com/legaltechnews/2026/03/31/legal-contracting-startup-crosby-secures-60m-in-series-b-round/": {
+    "valid": true,
+    "company": "Legal Contracting Startup Crosby",
+    "amount_str": "$60M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bebeez.eu/2026/03/31/paris-based-kestra-lands-e21-million-series-a-for-orchestration-platform-expansion/": {
+    "valid": false
+  },
+  "https://www.investegate.co.uk/announcement/rns/sure-ventures--sure/q4-2025-nav-calculation-and-portfolio-update-/9499249": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.uknewswire.co.uk",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.utahbusiness.com/press-releases/2026/03/31/earlyasset-raises-2-million-unlock-liquidity-venture-secondaries-startup/": {
+    "valid": true,
+    "company": "Earlyasset",
+    "amount_str": "$2M",
+    "website": "http://www.earlyasset.com",
+    "linkedin_url": "https://linkedin.com/company/earlyasset",
+    "founder_name": "held by",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@earlyasset.com",
+    "twitter_url": "https://x.com/earlyasset"
+  },
+  "https://www.rdworldonline.com/unitelabs-is-building-the-software-layer-for-automated-labs/": {
+    "valid": false
+  },
+  "https://alleywatch.com/2026/03/the-alleywatch-startup-daily-funding-report-3-31-2026/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.alleywatch.com.com",
+    "linkedin_url": "",
+    "founder_name": "most active",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://cfotech.asia/story/earlyasset-raises-2-million-to-tackle-venture-liquidity": {
+    "valid": true,
+    "company": "Earlyasset",
+    "amount_str": "$2 m",
+    "website": "https://earlyasset.com",
+    "linkedin_url": "https://linkedin.com/company/earlyasset",
+    "founder_name": "It also estimates that",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@earlyasset.com",
+    "twitter_url": "https://x.com/earlyasset"
+  },
+  "https://www.finsmes.com/2026/03/openbox-ai-raises-5m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/founderstoday_fns-secures-15m-pre-seed-to-advance-ai-activity-7444807186813288449-1w5j": {
+    "valid": false
+  },
+  "https://techfundingnews.com/keyrock-belgian-digital-asset-unicorn-11b-valuation-sc-ventures-ripple/": {
+    "valid": false
+  },
+  "https://finance.yahoo.com/markets/crypto/articles/crypto-startup-uses-polymarket-bet-210724917.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://decrypt.co/362977/crypto-startup-polymarket-bet-fundraise-blindsiding-backers",
+    "linkedin_url": "https://linkedin.com/company/decrypt-media",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "you@emailaddress.com",
+    "twitter_url": "https://x.com/P2Pdotme"
+  },
+  "https://www.techbuzz.ai/articles/ai-seed-rounds-hit-40m-valuations-at-y-combinator": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://privacy-proxy.usercentrics.eu/latest/uc-block.bundle.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupmag.co.uk/funding/semarion-2026-seed-funding/": {
+    "valid": false
+  },
+  "https://www.dmagazine.com/business-economy/2026/03/ben-lamm-astromech-colossal/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://hitconsultant.net/2026/03/31/mystoria-1-6m-seed-funding-ai-patient-care-coordination-reproductive-health/": {
+    "valid": true,
+    "company": "myStoria",
+    "amount_str": "$1.6M",
+    "website": "https://www.mystoria.com",
+    "linkedin_url": "https://linkedin.com/company/mystoria",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@mystoria.com",
+    "twitter_url": ""
+  },
+  "https://nextunicorn.ventures/arinna-secures-4-million-seed-funding-to-revolutionize-space-solar-power/": {
+    "valid": true,
+    "company": "Arinna",
+    "amount_str": "$4 M",
+    "website": "https://www.arinna.xyz",
+    "linkedin_url": "https://linkedin.com/company/arinna",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@arinna.xyz",
+    "twitter_url": ""
+  },
+  "https://www.dakota.com/resources/blog/top-5-companies-likely-to-transact-mar-31-2026": {
+    "valid": false
+  },
+  "https://coverager.com/cara-raises-8-million/": {
+    "valid": false
   }
 }
