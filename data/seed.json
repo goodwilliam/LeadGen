@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-04-01T05:53:05.400986Z",
+  "generated_at": "2026-04-01T08:56:46.071407Z",
   "count": 31,
-  "enriched_count": 24,
+  "enriched_count": 25,
   "articles": [
+    {
+      "source": "tech.eu",
+      "title": "Sensmet secures \u20ac1.5M to scale real-time metals monitoring for Europe\u2019s raw materials supply",
+      "article_url": "https://tech.eu/2026/04/01/sensmet-secures-1-5m-to-scale-real-time-metals-monitoring-for-europe-s-raw-materials-supply/",
+      "company": "Sensmet",
+      "amount_str": "\u20ac1.5M",
+      "pub_date": "2026-04-01T08:41:11Z",
+      "website": "https://www.sensmet.com",
+      "linkedin_url": "https://linkedin.com/company/sensmet",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "contact@sensmet.com",
+      "twitter_url": ""
+    },
+    {
+      "source": "tech.eu",
+      "title": "Audicin raises $1.9M to expand real-time nervous system tech",
+      "article_url": "https://tech.eu/2026/04/01/audicin-raises-19m-to-expand-real-time-nervous-system-tech/",
+      "company": "Audicin",
+      "amount_str": "$1.9M",
+      "pub_date": "2026-04-01T07:00:00Z",
+      "website": "https://www.audicin.com",
+      "linkedin_url": "https://linkedin.com/company/audicin",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Sycamore Labs Raises $65 Million Seed Round - Palo Alto Today",
@@ -368,20 +396,6 @@
       "twitter_url": ""
     },
     {
-      "source": "Google Alerts",
-      "title": "and it is built on @StoryProtocol . 3.5M users. 5K active creators. 25K games since launch ...",
-      "article_url": "https://x.com/bacvalley/status/2038783335015780857/photo/1",
-      "company": "Verse8 just",
-      "amount_str": "$5M",
-      "pub_date": "2026-03-31T05:01:30Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
       "source": "SiliconAngle",
       "title": "AI-generated code verification startup Qodo raises $70M",
       "article_url": "https://siliconangle.com/2026/03/30/ai-generated-code-verification-startup-qodo-raises-70m/",
@@ -422,20 +436,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
-    },
-    {
-      "source": "tech.eu",
-      "title": "Midas closes $50M Series A to scale on-chain investment products",
-      "article_url": "https://tech.eu/2026/03/30/midas-closes-50m-series-a-to-scale-onchain-investment-products/",
-      "company": "Midas",
-      "amount_str": "$50M",
-      "pub_date": "2026-03-30T11:00:00Z",
-      "website": "https://www.midas.com",
-      "linkedin_url": "https://linkedin.com/company/midas-international",
-      "founder_name": "",
-      "founder_linkedin_url": "https://linkedin.com/in/jason-svajda-8b81a1a2",
-      "contact_email": "Midas-Logo-OpenGraph-BlkGold@2x.webp",
-      "twitter_url": "https://x.com/midas"
     }
   ]
 }

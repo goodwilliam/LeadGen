@@ -21564,5 +21564,67 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": "https://x.com/sycamorelabs"
+  },
+  "https://tech.eu/2026/04/01/sensmet-secures-1-5m-to-scale-real-time-metals-monitoring-for-europe-s-raw-materials-supply/": {
+    "valid": true,
+    "company": "Sensmet",
+    "amount_str": "\u20ac1.5M",
+    "website": "https://www.sensmet.com",
+    "linkedin_url": "https://linkedin.com/company/sensmet",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@sensmet.com",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/01/six-months-out-of-stealth-credibur-hits-eur2b-in-facility-volume/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/01/audicin-raises-19m-to-expand-real-time-nervous-system-tech/": {
+    "valid": true,
+    "company": "Audicin",
+    "amount_str": "$1.9M",
+    "website": "https://www.audicin.com",
+    "linkedin_url": "https://linkedin.com/company/audicin",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/01/metafuels-awarded-eur192m-to-develop-rotterdam-e-saf-project/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/litfincon-annonce-ses-debuts-en-europe--la-serie-de-conferences-sur-le-financement-des-litiges-se-deroule-a-amsterdam-302731148.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/litfincon-announces-european-debut-global-litigation-finance-conference-series-comes-to-amsterdam-302730807.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/litfincon-announces-european-debut-global-litigation-finance-conference-series-comes-to-amsterdam-302730820.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/psix-investors-have-opportunity-to-lead-power-solutions-international-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302730837.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/power-solutions-international-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--psix-302730840.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/banco-angolano-de-investimentos-selects-finastra-to-scale-with-customer-and-industry-demands-302729333.html": {
+    "valid": false
   }
 }
