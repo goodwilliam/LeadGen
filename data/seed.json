@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-04-01T08:56:46.071407Z",
-  "count": 31,
-  "enriched_count": 25,
+  "generated_at": "2026-04-01T13:02:00.143460Z",
+  "count": 30,
+  "enriched_count": 23,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Palmer Luckey\u2011backed Valar lands $450M at $2B valuation to power AI with small reactors",
+      "article_url": "https://techfundingnews.com/palmer-luckey-backed-valar-atomics-450m-2b-valuation-ai/",
+      "company": "Palmer Luckey\u2011backed Valar",
+      "amount_str": "$450M",
+      "pub_date": "2026-04-01T11:59:27Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Israeli startups raise over $1.15 billion in March as war fails to slow AI investment | Ctech",
+      "article_url": "https://www.calcalistech.com/ctechnews/article/hy8t7fcobe",
+      "company": "Israeli startups",
+      "amount_str": "$1.15 b",
+      "pub_date": "2026-04-01T11:50:22Z",
+      "website": "https://www.startups.co.il",
+      "linkedin_url": "https://linkedin.com/company/startup-israel",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/startupscoil"
+    },
     {
       "source": "tech.eu",
       "title": "Sensmet secures \u20ac1.5M to scale real-time metals monitoring for Europe\u2019s raw materials supply",
@@ -18,6 +46,20 @@
       "twitter_url": ""
     },
     {
+      "source": "Google Alerts",
+      "title": "AI Startup InStep Raises $900K To Scale Product &amp; Team Growth",
+      "article_url": "https://www.facebook.com/RealtyNXT/posts/newsupdate-instep-ai-has-secured-900k-in-pre-seed-funding-to-accelerate-product-/1403277531816936/",
+      "company": "InStep",
+      "amount_str": "$900K",
+      "pub_date": "2026-04-01T08:14:05Z",
+      "website": "https://insteptrailers.com",
+      "linkedin_url": "https://linkedin.com/company/instepuk",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
       "source": "tech.eu",
       "title": "Audicin raises $1.9M to expand real-time nervous system tech",
       "article_url": "https://tech.eu/2026/04/01/audicin-raises-19m-to-expand-real-time-nervous-system-tech/",
@@ -27,6 +69,20 @@
       "website": "https://www.audicin.com",
       "linkedin_url": "https://linkedin.com/company/audicin",
       "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Stratum Biosciences Closes $2M Seed Round to Accelerate AI-Powered Skin Biology ...",
+      "article_url": "https://theaiinsider.tech/2026/03/31/stratum-biosciences-secures-2m-seed-round-to-accelerate-ai-powered-skin-biology-discovery-and-expanded-rd-partnerships/",
+      "company": "Stratum Biosciences",
+      "amount_str": "$2M",
+      "pub_date": "2026-04-01T05:50:55Z",
+      "website": "https://stratumbio.com",
+      "linkedin_url": "https://linkedin.com/company/stratum-bio",
+      "founder_name": "Ross Pearlman",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
@@ -131,20 +187,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Sycamore Secures $65M Seed to Build Enterprise AI Agent OS - Ventureburn",
-      "article_url": "https://ventureburn.com/sycamore-secures-65m-seed-to-build-enterprise-ai-agent-os/",
-      "company": "Sycamore",
-      "amount_str": "$65M",
-      "pub_date": "2026-03-31T22:09:18Z",
-      "website": "https://sycamore.so/labs",
-      "linkedin_url": "https://linkedin.com/company/sycamore-labs",
-      "founder_name": "such as Databricks",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/sycamorelabs"
-    },
-    {
-      "source": "Google Alerts",
       "title": "Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups",
       "article_url": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
       "company": "Runway",
@@ -173,34 +215,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "myStoria Secures $1.6M to Launch AI-Powered Reproductive Health Platform",
-      "article_url": "https://hitconsultant.net/2026/03/31/mystoria-1-6m-seed-funding-ai-patient-care-coordination-reproductive-health/",
-      "company": "myStoria",
-      "amount_str": "$1.6M",
-      "pub_date": "2026-03-31T20:51:15Z",
-      "website": "https://www.mystoria.com",
-      "linkedin_url": "https://linkedin.com/company/mystoria",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "info@mystoria.com",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Arinna Secures $4 Million Seed Funding to Revolutionize Space Solar Power - Next Unicorn",
-      "article_url": "https://nextunicorn.ventures/arinna-secures-4-million-seed-funding-to-revolutionize-space-solar-power/",
-      "company": "Arinna",
-      "amount_str": "$4 M",
-      "pub_date": "2026-03-31T20:29:40Z",
-      "website": "https://www.arinna.xyz",
-      "linkedin_url": "https://linkedin.com/company/arinna",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "info@arinna.xyz",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "Nexus raises $4.3M to make enterprise AI agent deployment - TNW",
       "article_url": "https://thenextweb.com/news/nexus-4-3m-seed",
       "company": "Nexus",
@@ -212,6 +226,20 @@
       "founder_linkedin_url": "https://linkedin.com/in/biraj-jeebun-37598636a",
       "contact_email": "",
       "twitter_url": "https://x.com/nexus_gpt"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Proseek Bio raises $1.5 million to bring ovarian cancer blood test to market - Capital Brief",
+      "article_url": "https://www.capitalbrief.com/article/proseek-bio-raises-15-million-to-bring-ovarian-cancer-blood-test-to-market-66081d18-caa2-4de4-bd57-4fae054a3056/",
+      "company": "Brisbane-based startup",
+      "amount_str": "$1.5 m",
+      "pub_date": "2026-03-31T18:09:48Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "https://linkedin.com/company/navibord",
+      "founder_name": "Proseek Bio",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
     },
     {
       "source": "Google Alerts",
@@ -352,48 +380,6 @@
       "founder_linkedin_url": "",
       "contact_email": "office@standingovationdancecomp.com",
       "twitter_url": "https://x.com/suricate"
-    },
-    {
-      "source": "tech.eu",
-      "title": "Endform secures \u20ac1.5M for high-performance web testing tools",
-      "article_url": "https://tech.eu/2026/03/31/endform-secures-eur15m-for-high-performance-web-testing-tools/",
-      "company": "Endform",
-      "amount_str": "\u20ac1.5M",
-      "pub_date": "2026-03-31T07:30:00Z",
-      "website": "https://chatgate.ai",
-      "linkedin_url": "https://linkedin.com/company/endform",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "tech.eu",
-      "title": "Qover raises $12M from CIBC as it celebrates 10 years of embedded insurance growth",
-      "article_url": "https://tech.eu/2026/03/31/qover-raises-12m-from-cibc-as-it-celebrates-10-years-of-embedded-insurance-growth/",
-      "company": "Qover",
-      "amount_str": "$12M",
-      "pub_date": "2026-03-31T07:00:00Z",
-      "website": "https://www.qover.com",
-      "linkedin_url": "https://linkedin.com/company/qover",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "michael.scott@yourcompany.com",
-      "twitter_url": ""
-    },
-    {
-      "source": "tech.eu",
-      "title": "Enkei secures pre-seed funding to develop circular design materials",
-      "article_url": "https://tech.eu/2026/03/31/enkei-secures-pre-seed-funding-to-develop-circular-design-materials/",
-      "company": "Enkei",
-      "amount_str": "",
-      "pub_date": "2026-03-31T06:05:00Z",
-      "website": "https://enkei.com",
-      "linkedin_url": "https://linkedin.com/company/enkei-america-inc",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "SiliconAngle",

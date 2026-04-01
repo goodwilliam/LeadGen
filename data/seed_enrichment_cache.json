@@ -21626,5 +21626,130 @@
   },
   "https://www.prnewswire.com/news-releases/banco-angolano-de-investimentos-selects-finastra-to-scale-with-customer-and-industry-demands-302729333.html": {
     "valid": false
+  },
+  "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/01/digital-brains-for-experts-as-pickmybrain-raises-21m/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://betakit.com/lockheed-martin-canada-invests-3-6-million-into-lemay-ai/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/ciso-benchmark-report-finds-ai-driving-new-era-of-cybersecurity-risk-and-investment-in-retail-and-hospitality-302730923.html": {
+    "valid": false
+  },
+  "https://www.theinsurer.com/ti/news/insurance-ai-startup-cara-raises-8-million-to-expand-brokerage-automation-2026-04-01/": {
+    "valid": false
+  },
+  "https://therecursive.com/serbian-startup-funding-2025-garaza-milena-commentary/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/palmer-luckey-backed-valar-atomics-450m-2b-valuation-ai/": {
+    "valid": true,
+    "company": "Palmer Luckey\u2011backed Valar",
+    "amount_str": "$450M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.calcalistech.com/ctechnews/article/hy8t7fcobe": {
+    "valid": true,
+    "company": "Israeli startups",
+    "amount_str": "$1.15 b",
+    "website": "https://www.startups.co.il",
+    "linkedin_url": "https://linkedin.com/company/startup-israel",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/startupscoil"
+  },
+  "https://www.forbes.com/sites/zennonkapron/2026/04/01/why-the-2026-fintech-funding-boom-is-about-more-than-ai/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://i.forbesimg.com/48X48-F.png",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/04/brussels-based-nexus-lands-e3-7-million-to-bring-ai-agents-into-core-business-operations/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/ex-nvidia-snowflake-alums-whirl-ai-emerges-from-stealth-with-8-9m-from-iconiq/": {
+    "valid": false
+  },
+  "https://medcitynews.com/2026/03/jimini-ai-mental-health/": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/boston/news/2026/04/01/vc-funding-update-1-billion-in-march.html": {
+    "valid": false
+  },
+  "https://www.bwdisrupt.com/article/future-wealth-launches-50-mn-fund-to-back-early-stage-startup-founders-600226": {
+    "valid": false
+  },
+  "https://slator.com/investment-funding/page/2/": {
+    "valid": false
+  },
+  "https://fintechgate.net/2026/04/01/estaie-raises-7-figure-pre-seed-round-to-build-the-worlds-first-ai-native-extended-stay-platform/": {
+    "valid": false
+  },
+  "https://www.bwdisrupt.com/article/ian-group-backs-rymo-technologies-in-rs-10-cr-seed-funding-round-600304": {
+    "valid": false
+  },
+  "https://www.facebook.com/RealtyNXT/posts/newsupdate-instep-ai-has-secured-900k-in-pre-seed-funding-to-accelerate-product-/1403277531816936/": {
+    "valid": true,
+    "company": "InStep",
+    "amount_str": "$900K",
+    "website": "https://insteptrailers.com",
+    "linkedin_url": "https://linkedin.com/company/instepuk",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/pickmybrain-ai-expert-economy-platform-sergei-verbitski/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/metafuels-secures-1-92-million-dutch-grant-rotterdam-esaf-plant/": {
+    "valid": false
+  },
+  "https://www.citybiz.co/article/826428/jimini-health-raises-13m-from-m13-town-hall-ventures-others/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/03/31/stratum-biosciences-secures-2m-seed-round-to-accelerate-ai-powered-skin-biology-discovery-and-expanded-rd-partnerships/": {
+    "valid": true,
+    "company": "Stratum Biosciences",
+    "amount_str": "$2M",
+    "website": "https://stratumbio.com",
+    "linkedin_url": "https://linkedin.com/company/stratum-bio",
+    "founder_name": "Ross Pearlman",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.pedalstart.com/blog/how-to-lead-a-successful-seed-round-a-complete-guide-with-pedalstart": {
+    "valid": false
   }
 }
