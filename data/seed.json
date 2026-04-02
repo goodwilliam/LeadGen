@@ -1,8 +1,78 @@
 {
-  "generated_at": "2026-04-02T05:31:19.830328Z",
-  "count": 28,
-  "enriched_count": 24,
+  "generated_at": "2026-04-02T08:50:22.880521Z",
+  "count": 33,
+  "enriched_count": 27,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "CORRECTING and REPLACING Starcloud Raises $170M Series A at $1.1bn Valuation Led ...",
+      "article_url": "https://www.morningstar.com/news/business-wire/20260330024111/correcting-and-replacing-starcloud-raises-170m-series-a-at-11bn-valuation-led-by-benchmark-and-eqt-ventures",
+      "company": "CORRECTING and REPLACING Starcloud",
+      "amount_str": "$170M",
+      "pub_date": "2026-04-02T07:08:46Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "Philip Johnston",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "SiliconAngle",
+      "title": "Generare raises $23.2M to discover unknown molecules and advance new drugs",
+      "article_url": "https://siliconangle.com/2026/04/02/generare-raises-23-2m-discover-unknown-molecules-advance-new-drugs/",
+      "company": "Generare",
+      "amount_str": "$23.2M",
+      "pub_date": "2026-04-02T06:00:37Z",
+      "website": "https://generare.bio",
+      "linkedin_url": "https://linkedin.com/company/generare-bioscience",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "contact@generare.bio",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Ex-McKinsey duo lands $4.1M led by Seedcamp to give C-suite an AI analyst that never sleeps",
+      "article_url": "https://techfundingnews.com/omniscient-4-1m-pre-seed-corporate-reputation-ai/",
+      "company": "Ex-McKinsey duo",
+      "amount_str": "$4.1M",
+      "pub_date": "2026-04-02T05:18:32Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "RAPEECH Raises $995K to Advance Next-Gen Conversational AI Solutions Through ... - Wowtale",
+      "article_url": "https://en.wowtale.net/2026/04/02/233797/",
+      "company": "RAPEECH",
+      "amount_str": "$995K",
+      "pub_date": "2026-04-02T04:22:30Z",
+      "website": "https://www.rapeech.com",
+      "linkedin_url": "https://linkedin.com/company/rapeech",
+      "founder_name": "said Kyunghoi Kim",
+      "founder_linkedin_url": "",
+      "contact_email": "admin@rapeech.com",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Sub-Q Bionics Closes $1.5M Pre-Seed - VC News Daily",
+      "article_url": "https://vcnewsdaily.com/sub-q-bionics/venture-capital-funding/xdbdxtvvsp",
+      "company": "Sub-Q Bionics",
+      "amount_str": "$1.5M",
+      "pub_date": "2026-04-02T02:14:21Z",
+      "website": "https://subqbionics.com",
+      "linkedin_url": "https://linkedin.com/company/sub-q-bionics",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "BambooBox Raise over $6M to Build Managed ABM Operating System",
@@ -15,6 +85,20 @@
       "founder_name": "",
       "founder_linkedin_url": "https://linkedin.com/in/divyesh-dixit",
       "contact_email": "abc123@abc.com",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "myStoria Closes $1.625M Seed Round Led by Graphite Ventures to Expand Reproductive ...",
+      "article_url": "https://tech.einnews.com/pr_news/902788192/mystoria-closes-1-625m-seed-round-led-by-graphite-ventures-to-expand-reproductive-health-platform",
+      "company": "myStoria",
+      "amount_str": "$1.625M",
+      "pub_date": "2026-04-02T00:36:45Z",
+      "website": "https://mystoria.com",
+      "linkedin_url": "https://linkedin.com/company/mystoria",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "info@mystoria.com",
       "twitter_url": ""
     },
     {
@@ -75,17 +159,17 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Bachatt Raises $12 Million Series A Funding Led by Accel to Scale AI Savings Platform",
-      "article_url": "https://knowstartup.com/news/bachatt-raises-12-million-series-a-accel-ai-savings-platform/",
-      "company": "Bachatt",
-      "amount_str": "$12 M",
-      "pub_date": "2026-04-01T22:34:00Z",
-      "website": "https://bachatt.in",
-      "linkedin_url": "https://linkedin.com/company/bachatt",
-      "founder_name": "said Anugrah Jain",
+      "title": "AI Expert Avatars Raise $2.1M Seed Funding - InforCapital",
+      "article_url": "https://inforcapital.com/news/pickmybrain-raises-21m-to-turn-experts-into-ai-digital-brains/",
+      "company": "Expert Avatars",
+      "amount_str": "$2.1M",
+      "pub_date": "2026-04-01T20:54:23Z",
+      "website": "https://logosnet.org",
+      "linkedin_url": "https://linkedin.com/company/logosnet-learning-development",
+      "founder_name": "of Rovio",
       "founder_linkedin_url": "",
-      "contact_email": "support@bachatt.app",
-      "twitter_url": "https://x.com/bachattapp"
+      "contact_email": "",
+      "twitter_url": ""
     },
     {
       "source": "Google Alerts",
@@ -117,20 +201,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Whirl AI Raises $8.9M Seed Funding - Let's Data Science",
-      "article_url": "https://letsdatascience.com/news/whirl-ai-raises-89m-seed-funding-8e058e4f",
-      "company": "Whirl AI",
-      "amount_str": "$8.9M",
-      "pub_date": "2026-04-01T19:45:27Z",
-      "website": "https://www.whirlai.com",
-      "linkedin_url": "https://linkedin.com/company/whirl-ai",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "Fanon Raises $1 million in a Pre- Seed Round Led by Kalaari Capital and Gruhas | Medial",
       "article_url": "https://medial.app/news/fanon-raises-dollar1-million-in-a-pre-seed-round-led-by-kalaari-capital-and-gruhas-490ba0f3da459",
       "company": "AI-driven platform Pulse",
@@ -142,20 +212,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Israeli startups raise over $1.15 billion in March as war fails to slow AI investment boom",
-      "article_url": "https://www.calcalistech.com/ctechnews/article/hy8t7fcobe",
-      "company": "Israeli startups",
-      "amount_str": "$1.15 b",
-      "pub_date": "2026-04-01T17:49:35Z",
-      "website": "https://www.startups.co.il",
-      "linkedin_url": "https://linkedin.com/company/startup-israel",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/startupscoil"
     },
     {
       "source": "SiliconAngle",
@@ -226,6 +282,34 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "OpenFX Raises $94M to Expand Stablecoin Network for Cross-Border Payments",
+      "article_url": "https://www.mexc.com/news/996329",
+      "company": "OpenFX",
+      "amount_str": "$94M",
+      "pub_date": "2026-04-01T05:08:51Z",
+      "website": "https://openfx.org",
+      "linkedin_url": "https://linkedin.com/company/openfx",
+      "founder_name": "Hyperliquid Strategies",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Uniblock Raises $5.2M to Unify Blockchain APIs | MEXC News",
+      "article_url": "https://www.mexc.com/news/996434",
+      "company": "Uniblock",
+      "amount_str": "$5.2M",
+      "pub_date": "2026-04-01T05:07:22Z",
+      "website": "https://www.uniblock.ai",
+      "linkedin_url": "https://linkedin.com/company/vruniblock",
+      "founder_name": "founder and",
+      "founder_linkedin_url": "https://linkedin.com/in/hazem-mokhtar-a755bb19a",
+      "contact_email": "user@domain.com",
+      "twitter_url": "https://x.com/vruniblock"
     },
     {
       "source": "SiliconAngle",
@@ -380,20 +464,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
-    },
-    {
-      "source": "tech.eu",
-      "title": "Standing Ovation raises \u20ac30M to scale precision fermentation dairy proteins globally",
-      "article_url": "https://tech.eu/2026/03/31/standing-ovation-raises-eur30m-to-scale-precision-fermentation-dairy-proteins-globally/",
-      "company": "Standing Ovation",
-      "amount_str": "\u20ac30M",
-      "pub_date": "2026-03-31T08:00:00Z",
-      "website": "https://www.standingovationdancecomp.com",
-      "linkedin_url": "https://linkedin.com/company/standingovation",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "office@standingovationdancecomp.com",
-      "twitter_url": "https://x.com/suricate"
     }
   ]
 }

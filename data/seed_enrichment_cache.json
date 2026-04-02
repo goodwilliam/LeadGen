@@ -22642,5 +22642,141 @@
   },
   "https://letsdatascience.com/news/variance-raises-215m-to-expand-investigative-agents-3ff4ef24": {
     "valid": false
+  },
+  "https://tech.eu/2026/04/02/from-fragmented-funding-to-growing-maturity-the-italian-tech-ecosystem/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/02/generare-raises-23-2m-discover-unknown-molecules-advance-new-drugs/": {
+    "valid": true,
+    "company": "Generare",
+    "amount_str": "$23.2M",
+    "website": "https://generare.bio",
+    "linkedin_url": "https://linkedin.com/company/generare-bioscience",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@generare.bio",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/omniscient-4-1m-pre-seed-corporate-reputation-ai/": {
+    "valid": true,
+    "company": "Ex-McKinsey duo",
+    "amount_str": "$4.1M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/linx-security-raises-50m-in-series-b": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/sona-raises-45-million-series-b": {
+    "valid": false
+  },
+  "https://tech.einnews.com/pr_news/902788192/mystoria-closes-1-625m-seed-round-led-by-graphite-ventures-to-expand-reproductive-health-platform": {
+    "valid": true,
+    "company": "myStoria",
+    "amount_str": "$1.625M",
+    "website": "https://mystoria.com",
+    "linkedin_url": "https://linkedin.com/company/mystoria",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@mystoria.com",
+    "twitter_url": ""
+  },
+  "https://www.mexc.co/en-NG/news/996430": {
+    "valid": false
+  },
+  "https://www.mexc.com/news/996329": {
+    "valid": true,
+    "company": "OpenFX",
+    "amount_str": "$94M",
+    "website": "https://openfx.org",
+    "linkedin_url": "https://linkedin.com/company/openfx",
+    "founder_name": "Hyperliquid Strategies",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.mexc.com/news/996434": {
+    "valid": true,
+    "company": "Uniblock",
+    "amount_str": "$5.2M",
+    "website": "https://www.uniblock.ai",
+    "linkedin_url": "https://linkedin.com/company/vruniblock",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "https://linkedin.com/in/hazem-mokhtar-a755bb19a",
+    "contact_email": "user@domain.com",
+    "twitter_url": "https://x.com/vruniblock"
+  },
+  "https://vcnewsdaily.com/sub-q-bionics/venture-capital-funding/xdbdxtvvsp": {
+    "valid": true,
+    "company": "Sub-Q Bionics",
+    "amount_str": "$1.5M",
+    "website": "https://subqbionics.com",
+    "linkedin_url": "https://linkedin.com/company/sub-q-bionics",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://inforcapital.com/news/pickmybrain-raises-21m-to-turn-experts-into-ai-digital-brains/": {
+    "valid": true,
+    "company": "Expert Avatars",
+    "amount_str": "$2.1M",
+    "website": "https://logosnet.org",
+    "linkedin_url": "https://linkedin.com/company/logosnet-learning-development",
+    "founder_name": "of Rovio",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techinasia.com/news/peak-xv-backs-ai-insurance-startup-rosellas-us-push": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.morningstar.com/news/business-wire/20260330024111/correcting-and-replacing-starcloud-raises-170m-series-a-at-11bn-valuation-led-by-benchmark-and-eqt-ventures": {
+    "valid": true,
+    "company": "CORRECTING and REPLACING Starcloud",
+    "amount_str": "$170M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Philip Johnston",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://en.wowtale.net/2026/04/02/233797/": {
+    "valid": true,
+    "company": "RAPEECH",
+    "amount_str": "$995K",
+    "website": "https://www.rapeech.com",
+    "linkedin_url": "https://linkedin.com/company/rapeech",
+    "founder_name": "said Kyunghoi Kim",
+    "founder_linkedin_url": "",
+    "contact_email": "admin@rapeech.com",
+    "twitter_url": ""
+  },
+  "https://startupfortune.com/spacex-is-quietly-building-an-ai-empire-alongside-its-rockets/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://api.whatsapp.com/send",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/whatsapp"
+  },
+  "https://cryptonews.net/news/finance/32640691/": {
+    "valid": false
   }
 }
