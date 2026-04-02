@@ -23423,5 +23423,245 @@
   },
   "https://www.instagram.com/p/DWn6hhWDcdx/": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/04/02/gateway-capital-dana-guthrie-milwaukee-first-close-fund-ii/": {
+    "valid": false
+  },
+  "https://venturebeat.com/technology/google-releases-gemma-4-under-apache-2-0-and-that-license-change-may-matter": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/kyndryl-holdings-inc-kd-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302733165.html": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/activity-7445476190431113216-x0iV": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/leander-zaiser-2b4211151_yann-lecun-just-raised-103-billion-in-seed-activity-7445379604141461506-RuM7": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-us/sports/nba/carmelo-anthony-gives-his-reasoning-on-sga-being-his-pick-to-win-mvp-over-victor-wembanyama/ar-AA1ZV2Tb?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/sports/nba/why-bulls-are-ecstatic-after-blazers-big-win-over-clippers/ar-AA1ZVo1X": {
+    "valid": false
+  },
+  "https://polsky.uchicago.edu/2026/04/02/cavilinq-secures-8-8m-seed-round-to-unlock-utility-scale-quantum-computing/": {
+    "valid": true,
+    "company": "CavilinQ",
+    "amount_str": "$8.8M",
+    "website": "https://www.cavilinq.com",
+    "linkedin_url": "",
+    "founder_name": "of CavilinQ",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@cavilinq.com",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://www.bizjournals.com/austin/news/2026/04/02/march-atx-startup-venture-capital-funding.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://mlq.ai/news/intel-ceo-lip-bu-tan-joins-board-of-ai-chip-design-startup-cognichip-after-60m-series-a/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.cloudflare.com/5xx-error-landing",
+    "linkedin_url": "https://linkedin.com/company/cloudflare",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/cloudflare"
+  },
+  "https://www.finextra.com/pressarticle/109366/stripe-and-coinbase-vets-raise-8m-for-stablecoin-startup": {
+    "valid": false
+  },
+  "https://www.aol.com/finance/exclusive-former-a16z-crypto-investor-123000770.html": {
+    "valid": true,
+    "company": "Former a16z crypto investor",
+    "amount_str": "$10 m",
+    "website": "https://www.msn.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://pressreleasehub.pa.media/article/daydream-raises-15m-series-a-to-build-the-worlds-best-ai-native-agency-for-seo-70300.html": {
+    "valid": true,
+    "company": "daydream",
+    "amount_str": "$15M",
+    "website": "https://daydream.ing",
+    "linkedin_url": "https://linkedin.com/company/daydream-ing",
+    "founder_name": "said Thenuka Karunaratne",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.registerguard.com/press-release/story/51134/gai-insights-secures-500000-pre-seed-round-to-scale-its-ai-navigator-platform-for-financial-and-enterprise-markets/": {
+    "valid": false
+  },
+  "https://entarabi.com/en/2026/04/ghanem-issues-sukuk-for-saudi-arabias-first-tokenized-real-estate-investment-opportunity/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://amp.axios.com/pro-rata-premium-first-look-4137a96d-1e1b-4362-9f7e-3723a2bc2fab.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://hypepotamus.com/startup-news/askari-defense-launches-in-atlanta/": {
+    "valid": false
+  },
+  "https://www.mexc.com/news/1000761": {
+    "valid": true,
+    "company": "GAI Insights",
+    "amount_str": "",
+    "website": "https://gaiinsights.com",
+    "linkedin_url": "https://linkedin.com/company/gai-insights",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "Paul.Baier@GAlinsights.com",
+    "twitter_url": "https://x.com/cards"
+  },
+  "https://x.com/TheBlockCo/status/2039704457319956670": {
+    "valid": false
+  },
+  "https://x.com/bindureddy/status/2039514276315181067": {
+    "valid": false
+  },
+  "https://www.workboat.com/bulwark-dynamics-unmanned-resupply-demo-autonomous-landing-vessel": {
+    "valid": false
+  },
+  "https://www.mobihealthnews.com/news/jimini-health-raises-17m-expand-ai-behavioral-health-platform": {
+    "valid": true,
+    "company": "Jimini Health",
+    "amount_str": "$17M",
+    "website": "https://jiminihealth.com",
+    "linkedin_url": "https://linkedin.com/company/jiminihealth",
+    "founder_name": "Luis Voloch",
+    "founder_linkedin_url": "",
+    "contact_email": "support@jiminihealth.com",
+    "twitter_url": ""
+  },
+  "https://news.bettingstartups.com/p/megapot-5m-pre-seed-funding-for-global-lottery-dragonfly": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "and the",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.ainvest.com/news/pumpcade-completes-1-million-pre-seed-funding-led-pump-fun-2604-26/": {
+    "valid": true,
+    "company": "Kalshi and Polymarket have",
+    "amount_str": "$1 b",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://aijourn.com/soma-energy-emerges-from-stealth-with-7-million-in-funding-to-unlock-power-for-the-ai-economy/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://aijournal.beehiiv.com",
+    "linkedin_url": "https://linkedin.com/company/the-ai-journal",
+    "founder_name": "He is joined by",
+    "founder_linkedin_url": "",
+    "contact_email": "0409abfa150e5836265cfca81ae7722c@o922922.ingest.us.sentry.io",
+    "twitter_url": "https://x.com/TheAIJournal1"
+  },
+  "https://www.bitget.com/amp/news/detail/12560605330409": {
+    "valid": false
+  },
+  "https://www.theblock.co/post/396213/pump-fun-pre-seed-funding-round-livestream-prediction-markets-pumpcade?utm_source=companies.xml&utm_medium=rss": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.cloudflare.com/5xx-error-landing",
+    "linkedin_url": "https://linkedin.com/company/cloudflare",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/cloudflare"
+  },
+  "https://www.axios.com/pro/all-deals/2026/04/02/pro-rata-premium-first-look": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/nvidia-2-billion-marvell-nvlink-fusion-ai-ecosystem/": {
+    "valid": false
+  },
+  "https://startupsmagazine.co.uk/130m-fund-closes-to-back-female-led-investment-team": {
+    "valid": true,
+    "company": "\u00a3130M fund",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Stephanie Heller",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.luxtimes.lu/businessandfinance/luxembourg-company-wins-1m-investment-from-us-billionaire/145015174.html": {
+    "valid": true,
+    "company": "Luxembourg company",
+    "amount_str": "$1m",
+    "website": "https://www.info-clipper.com",
+    "linkedin_url": "",
+    "founder_name": "European Commission",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-us/money/companies/sequoia-capital-s-early-investment-in-a-trillion-dollar-tech-giant-with-questionable-management/ar-AA200RkP": {
+    "valid": false
   }
 }
