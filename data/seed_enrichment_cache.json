@@ -22778,5 +22778,289 @@
   },
   "https://cryptonews.net/news/finance/32640691/": {
     "valid": false
+  },
+  "https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/venture/foundational-ai-startup-funding-doubled-openai-anthropic-xai-q1-2026/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/02/new-belgian-ai-platform-backbone-aims-to-cut-costly-quality-failures-in-food-production/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/02/paparuda-studio-lands-eur210k-to-launch-moldovas-next-generation-of-game-development-talent/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/02/omniscient-raises-4-1m-ai-driven-decision-intelligence-platform/": {
+    "valid": true,
+    "company": "Omniscient",
+    "amount_str": "$4.1M",
+    "website": "https://www.omniscient.so",
+    "linkedin_url": "https://linkedin.com/company/omniscient-digital",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@omniscient.so",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/pennsylvania-american-water-invests-722-million-to-strengthen-water-and-wastewater-service-in-2025-302732821.html": {
+    "valid": false
+  },
+  "https://thenextweb.com/news/omniscient-4-1m-seedcamp": {
+    "valid": true,
+    "company": "Omniscient",
+    "amount_str": "$4.1M",
+    "website": "https://www.omniscient.so",
+    "linkedin_url": "https://linkedin.com/company/omniscient-digital",
+    "founder_name": "who serves as",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@omniscient.so",
+    "twitter_url": ""
+  },
+  "https://techlabari.com/a-paris-startup-just-raised-6-2-million-to-let-you-spend-crypto-like-cash/": {
+    "valid": false
+  },
+  "https://dawgpounddaily.com/nfl-insider-myles-garrett-trade-take-will-have-fans-sharpening-their-pitchforks-nfl": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thenextweb.com/news/covalo-3-5m-hi-inov-personal-care-data-infrastructure": {
+    "valid": false
+  },
+  "https://thenextweb.com/news/generare-20m-series-a": {
+    "valid": false
+  },
+  "https://techfundingnews.com/generare-20m-series-a-evolution-drug-discovery-data/": {
+    "valid": false
+  },
+  "https://x.com/SaaiArora/status/2039421670658896021": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.f1dc7e4a.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.reddit.com/r/TechPartners/comments/1s9tj6c/you_just_raised_your_seed_round_heres_how_not_to/": {
+    "valid": false
+  },
+  "https://www.bwdisrupt.com/article/gabify-raises-175k-pre-seed-round-led-by-inflection-point-ventures-600556": {
+    "valid": false
+  },
+  "https://www.bwdisrupt.com/article/sahi-eyes-80-mn-funding-round-led-by-accel-growth-bessemer-600450": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Marc Pilgrem To Exit",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://eu.36kr.com/en/p/3747016769143297": {
+    "valid": true,
+    "company": "Matrix Pixel",
+    "amount_str": "",
+    "website": "https://shop.app",
+    "linkedin_url": "",
+    "founder_name": "was founded by",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/buffalo/news/2026/04/02/azuna-scott-dancy-buffalo-startup-growth.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "expand\n\nScott Foster",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://impactalpha.com/impact-dealflow-in-latin-america-april-2026/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/04/02/gander-robotics-closes-1-1m-pre-seed-round-to-build-autonomous-search-and-rescue-robots/": {
+    "valid": true,
+    "company": "Gander Robotics",
+    "amount_str": "$1.1M",
+    "website": "https://ganderrobotics.com/#hero",
+    "linkedin_url": "https://linkedin.com/company/ganderrobotics",
+    "founder_name": "CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.businessinsider.com/daydream-raises-15-m-ai-human-seo-expertise-2026-4": {
+    "valid": true,
+    "company": "Daydream",
+    "amount_str": "$15M",
+    "website": "https://www.daydreamrecordsofficial.com",
+    "linkedin_url": "https://linkedin.com/company/daydream-ing",
+    "founder_name": "CEO Thenuka Karunaratne and",
+    "founder_linkedin_url": "",
+    "contact_email": "user@domain.com",
+    "twitter_url": ""
+  },
+  "https://arcticstartup.com/financial-news-systems-raises-e1-5m-pre-seed/?amp=1": {
+    "valid": false
+  },
+  "https://www.gainesville.com/press-release/story/99093/montreal-startup-launches-construction-of-canadas-first-autonomous-dark-factory/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/covalo-3-5m-seed-extension-personal-care-data-backbone/": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/04/paris-based-omniscient-raises-e3-5-million-to-bring-ai-powered-decision-intelligence-to-the-c-suite/": {
+    "valid": false
+  },
+  "https://www.localsamosa.com/news/gabify-raises-175000-dollars-11446144": {
+    "valid": false
+  },
+  "https://fintechnews.ch/fintechusa/rosella-raises-3-7m-ai-commercial-insurance/82836/": {
+    "valid": false
+  },
+  "https://launchbaseafrica.com/2026/04/02/five-brutal-truths-about-african-tech-in-q1-2026/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://launchbaseafrica.gumroad.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.lboro.ac.uk/news-events/news/2026/april/myomaker-bio-secures-investment/": {
+    "valid": false
+  },
+  "https://indianstartupnews.com/funding/gabify-an-indian-startup-solving-neurodevelopmental-challenges-in-children-raises-175000-in-funding-11445717": {
+    "valid": false
+  },
+  "https://english.loktej.com/article/25184/india%E2%80%99s-first-global-jewelery-newsletter-launched-by-jcs-jewel-creations-with-grand-unveiling-by-astro-parduman": {
+    "valid": false
+  },
+  "https://www.biospectrumindia.com/article/pdf/27605": {
+    "valid": false
+  },
+  "https://www.biospectrumindia.com/news/16/27605/gabify-raises-175000-in-pre-seed-funding-round-to-advance-ai-driven-neurodevelopmental-care.html": {
+    "valid": false
+  },
+  "https://indiatechnologynews.in/gabify-raises-175000-in-pre-seed-funding-led-by-inflection-point-ventures-to-advance-ai-driven-neurodevelopmental-care-in-india/": {
+    "valid": true,
+    "company": "Gabify",
+    "amount_str": "",
+    "website": "https://www.gabify.life",
+    "linkedin_url": "https://linkedin.com/company/gabify-life",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/omniscient-raises-4-1m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.indianstartuptimes.com/investment/skillsvest-raises-%E2%82%B95-5-crore-to-reinvent-study-abroad-financing-with-pay-only-if-you-earn-model/": {
+    "valid": true,
+    "company": "Skillsvest",
+    "amount_str": "",
+    "website": "https://www.skillsvest.com",
+    "linkedin_url": "https://linkedin.com/company/skillsvest",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@skillsvest.com",
+    "twitter_url": ""
+  },
+  "https://www.indianretailer.com/news/funding-alert-healthtech-startup-gabify-raises-funds-scale-neurodevelopmental-care-platform": {
+    "valid": true,
+    "company": "TenderCuts",
+    "amount_str": "$2 m",
+    "website": "https://tendercuts.in",
+    "linkedin_url": "https://linkedin.com/company/tendercuts",
+    "founder_name": "and actor",
+    "founder_linkedin_url": "",
+    "contact_email": "cs@tendercuts.in",
+    "twitter_url": ""
+  },
+  "https://entrackr.com/snippets/gabify-raises-175k-in-pre-seed-round-led-by-inflection-point-ventures-11445677": {
+    "valid": false
+  },
+  "https://aimgroup.com/2026/04/02/ireland-based-startup-talenthunter-raises-pre-seed-funding/": {
+    "valid": true,
+    "company": "Ireland-based startup TalentHunter",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.blufftontoday.com/press-release/story/67765/gander-robotics-closes-1-1m-pre-seed-round-to-build-autonomous-search-and-rescue-robots/": {
+    "valid": true,
+    "company": "Gander Robotics",
+    "amount_str": "$1.1M",
+    "website": "https://ganderrobotics.com",
+    "linkedin_url": "https://linkedin.com/company/ganderrobotics",
+    "founder_name": "Michael Autery",
+    "founder_linkedin_url": "https://linkedin.com/in/michael-autery",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.axios.com/pro/fintech-deals/2026/04/02/numos-ai-finance-general-catalyst": {
+    "valid": true,
+    "company": "Numos",
+    "amount_str": "$4.25 m",
+    "website": "https://www.numos.net",
+    "linkedin_url": "https://linkedin.com/company/numosai",
+    "founder_name": "million in seed funding",
+    "founder_linkedin_url": "",
+    "contact_email": "046c982186afa15dc9513490293d26b1@o37417.ingest.sentry.io",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://www.statesman.com/news/education/article/ut-student-entrepreneurs-builders-bullpen-startups-22093758.php": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupfortune.com/two-brothers-ai-and-a-18-billion-valuation/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://api.whatsapp.com/send",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/whatsapp"
+  },
+  "https://www.cxodigitalpulse.com/rowan-raises-3-3m-in-seed-funding-to-modernize-small-business-succession-with-ai/": {
+    "valid": true,
+    "company": "Rowan",
+    "amount_str": "$3.3M",
+    "website": "https://forrowan.com",
+    "linkedin_url": "https://linkedin.com/company/forrowan",
+    "founder_name": "Founder and",
+    "founder_linkedin_url": "https://linkedin.com/in/matthew-rowan-design",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
