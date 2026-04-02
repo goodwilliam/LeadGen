@@ -22307,5 +22307,233 @@
   },
   "https://www.vccircle.com/bajajfinserv-leads-nowpurchase-s-series-b-funding-round": {
     "valid": false
+  },
+  "https://siliconangle.com/2026/04/01/cognichip-raises-60m-reinvent-chip-design-physics-inspired-ai-models/": {
+    "valid": true,
+    "company": "Cognichip",
+    "amount_str": "$60M",
+    "website": "https://www.cognichip.ai",
+    "linkedin_url": "https://linkedin.com/company/cognichip",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "legal@cognichip.ai",
+    "twitter_url": "https://x.com/Cognichip"
+  },
+  "https://www.geekwire.com/2026/report-puts-seattle-among-leading-global-innovation-cities-but-it-needs-more-premium-office-space/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/ga-technologies-rebrands-renters-warehouse-as-renosy-by-renters-warehouse-to-accelerate-us-growth-302731042.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/chic-2026-honors-landmark-deals-and-financings-at-annual-awards-gala-302731217.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/qure-deadline-qure-investors-have-opportunity-to-lead-uniqure-nv-securities-fraud-lawsuit-302732039.html": {
+    "valid": false
+  },
+  "https://www.beritaja.com/startup-funding-shatters-all-records-in-q1-beritaja-412765.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.aol.com/articles/avoid-common-seed-starting-blunder-150000603.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://s.yimg.com/oa/consent.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/stabledash/status/2039089148556931343": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.f1dc7e4a.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo-in-push-for-finding-the-future-of-mobility/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.enterprisenews.com/press-release/story/94969/sahor-one-raises-2m-seed-to-fix-the-execution-layer-of-the-service-economy/": {
+    "valid": true,
+    "company": "Sahor One",
+    "amount_str": "$2M",
+    "website": "https://sahorone.com",
+    "linkedin_url": "https://linkedin.com/company/sahoronetechnologies",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@sahorone.com",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/redstone-2m-pre-seed-zurich-neurotech-connectome-health/": {
+    "valid": false
+  },
+  "https://www.indexbox.io/blog/p2pme-apologizes-for-betting-on-its-own-fundraising-outcome/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "of MetaDAO",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.sportsbusinessjournal.com/Articles/2026/04/01/sbj-tech-funding-roundup-q1-2026/": {
+    "valid": false
+  },
+  "https://www.indexbox.io/blog/ai-startup-seed-valuations-surge-as-investor-focus-intensifies/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "recalled that raising",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.sportsbusinessjournal.com/sb-blogs/newsletter-tech/2026/04/01/": {
+    "valid": false
+  },
+  "https://www.knoxnews.com/press-release/story/164681/deafmetal-opens-seed-round-and-launches-audiology-clinic-program-to-scale-hearing-aid-jewelry-globally/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bebeez.eu/2026/04/01/whitebridge-ai-raises-e2-6-seed/": {
+    "valid": false
+  },
+  "https://medial.app/news/fanon-raises-dollar1-million-in-a-pre-seed-round-led-by-kalaari-capital-and-gruhas-490ba0f3da459": {
+    "valid": true,
+    "company": "AI-driven platform Pulse",
+    "amount_str": "$1.4 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.yugma.ai/bizshortz/agentic-ai-startup-sycamore-raises-65-million-in-seed-round": {
+    "valid": true,
+    "company": "Agentic AI startup Sycamore",
+    "amount_str": "$65 m",
+    "website": "https://inshorts.com",
+    "linkedin_url": "",
+    "founder_name": "including Intel",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/inshorts"
+  },
+  "https://cryptorank.io/news/feed/83e37-kulipa-seed-funding-stablecoin-card": {
+    "valid": false
+  },
+  "https://www.law360.com/articles/2460033/crosby-raises-60m-series-b-to-expand-hybrid-ai-law-practice": {
+    "valid": false
+  },
+  "https://www.marinelink.com/news/gander-robotics-gains-preseed-funding-537603": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.maritimejobs.com/jobs/job/chief-radio-electronics-technician-434169",
+    "linkedin_url": "",
+    "founder_name": "Michael Autery",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/MaritimeJob"
+  },
+  "https://www.theblock.co/post/396063/stablecoin-card-kulipa-seed-round": {
+    "valid": false
+  },
+  "https://en.sharikatmubasher.com/media-hub/news/21542307/estaie-raises-7-figure-pre-seed-round-to-accelerate-regional-expansion?lang=en": {
+    "valid": true,
+    "company": "Estaie",
+    "amount_str": "",
+    "website": "https://estaie.com",
+    "linkedin_url": "https://linkedin.com/company/estaie",
+    "founder_name": "Osama Shawky",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/founderstoday_endform-raises-15m-pre-seed-to-scale-parallel-activity-7445166933307609088-Epr8": {
+    "valid": false
+  },
+  "https://www.wamda.com/2026/04/estaie-secures-7-figure-pre-seed-led-plus-vc": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/sanfrancisco/news/2026/04/01/sfbt-digest-wednesday-rh-golden-gate-fields-omiai.html": {
+    "valid": false
+  },
+  "https://x.com/SpaceWatchGL/status/2039356655700168816": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/incarabia_uae-based-estaie-wraps-up-seven-figure-pre-seed-activity-7444994563301257216-vxDl": {
+    "valid": false
+  },
+  "https://www.demandgenreport.com/industry-news/news-brief/bamboobox-raise-over-6m-to-build-managed-abm-operating-system/52275/": {
+    "valid": true,
+    "company": "BambooBox",
+    "amount_str": "$6M",
+    "website": "http://www.bamboobox.ai",
+    "linkedin_url": "https://linkedin.com/company/bamboobox",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/divyesh-dixit",
+    "contact_email": "abc123@abc.com",
+    "twitter_url": ""
+  },
+  "https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-1-2026/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.alleywatch.com.com",
+    "linkedin_url": "",
+    "founder_name": "most innovative",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/tenex-raises-250m-1b-ai-mdr-cybersecurity/": {
+    "valid": false
+  },
+  "https://www.finextra.com/newsarticle/47529/kulipa-raises-62m-for-stablecoin-native-card-issuing-infrastructure-platform": {
+    "valid": false
+  },
+  "https://techfundingnews.com/runway-co-founders-launch-10m-ai-media-fund/": {
+    "valid": false
+  },
+  "https://www.fayobserver.com/press-release/story/73869/deafmetal-opens-seed-round-and-launches-audiology-clinic-program-to-scale-hearing-aid-jewelry-globally/": {
+    "valid": false
   }
 }
