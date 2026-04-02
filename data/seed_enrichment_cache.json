@@ -22535,5 +22535,112 @@
   },
   "https://www.fayobserver.com/press-release/story/73869/deafmetal-opens-seed-round-and-launches-audiology-clinic-program-to-scale-hearing-aid-jewelry-globally/": {
     "valid": false
+  },
+  "https://www.themirror.com/news/politics/white-house-releases-bizarre-video-1769700": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://feliz-web.data.tm-awx.com/smile-web.min.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bayelsawatch.com/brussels-based-nexus-raises-3-7m/": {
+    "valid": true,
+    "company": "Brussels-based Nexus",
+    "amount_str": "\u20ac3.7M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Pramod Pawar",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.marinelink.com/news/french-navy-chief-expects-engagement-537602": {
+    "valid": false
+  },
+  "https://techfundingnews.com/the-capital-lands-as-openai-positions-itself-as-both-a-consumer-ai-platform-and-an-infrastructure-supplier-for-businesses-and-developers-the-company-said-demand-is-shifting-beyond/": {
+    "valid": false
+  },
+  "https://www.bioworld.com/articles/729985-financings-for-april-1-2026": {
+    "valid": false
+  },
+  "https://enterpriseam.com/uae/2026/04/02/adib-targets-healthcare-sector-more-supply-chain-support-in-abu-dhabi-borouge-international-lands-long-term-stay-startup-secures-funds-indias-pb-fintech-invests-in-uae-arm/": {
+    "valid": false
+  },
+  "https://msmeafricaonline.com/call-for-applications-startup-innovation-challenge-2026-for-nigerian-startups-smes-and-entreprenuers-over-%E2%82%A6100-million-in-prizes/": {
+    "valid": false
+  },
+  "https://discoveryalert.com.au/mining-technology-revolution-2026-global-resource-investment/": {
+    "valid": false
+  },
+  "https://startupfortune.com/swedish-legal-ai-startup-legora-hits-100m-arr-in-under-18-months/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://api.whatsapp.com/send",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/whatsapp"
+  },
+  "https://medicalbuyer.co.in/sub-q-bionics-closes-usd-1-5m-pre-seed-round/": {
+    "valid": false
+  },
+  "https://news.ventureintelligence.com/others/edfintech-startup-skillsvest-raises-rs.5.5-cr-led-by-plug-and-play-ventures": {
+    "valid": false
+  },
+  "https://www.indianretailer.com/news/licious-reports-47-percent-revenue-growth-fy26-targets-rs-1800-crore-fy27": {
+    "valid": true,
+    "company": "TenderCuts",
+    "amount_str": "$2 m",
+    "website": "https://tendercuts.in",
+    "linkedin_url": "https://linkedin.com/company/tendercuts",
+    "founder_name": "Sasikumar Kallanai",
+    "founder_linkedin_url": "https://linkedin.com/in/sasikumarkallanai",
+    "contact_email": "cs@tendercuts.in",
+    "twitter_url": ""
+  },
+  "https://techstory.in/sycamore-raises-65-mn-to-tackle-the-next-big-ai-challenge/": {
+    "valid": true,
+    "company": "Sycamore",
+    "amount_str": "$65 M",
+    "website": "https://sycamoretokyo.com",
+    "linkedin_url": "https://linkedin.com/company/sycamore-partners",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://msmeafricaonline.com/adeosun-entrepreneurs-launch-platform-against-startup-failures/": {
+    "valid": false
+  },
+  "https://knowstartup.com/news/bachatt-raises-12-million-series-a-accel-ai-savings-platform/": {
+    "valid": true,
+    "company": "Bachatt",
+    "amount_str": "$12 M",
+    "website": "https://bachatt.in",
+    "linkedin_url": "https://linkedin.com/company/bachatt",
+    "founder_name": "said Anugrah Jain",
+    "founder_linkedin_url": "",
+    "contact_email": "support@bachatt.app",
+    "twitter_url": "https://x.com/bachattapp"
+  },
+  "https://letsdatascience.com/news/variance-raises-215m-to-expand-investigative-agents-3ff4ef24": {
+    "valid": false
   }
 }
