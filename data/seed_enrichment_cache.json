@@ -23062,5 +23062,366 @@
     "founder_linkedin_url": "https://linkedin.com/in/matthew-rowan-design",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://news.crunchbase.com/venture/ai-interviewer-miravoice-raises-seed-funding-unusual/": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/robotics/physical-ai-custom-robot-builder-seed-funding-anvil/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/02/omniscient-raises-41m-to-strengthen-data-driven-executive-decision-making/": {
+    "valid": true,
+    "company": "Omniscient",
+    "amount_str": "$4.1M",
+    "website": "https://www.omniscient-ai.io",
+    "linkedin_url": "https://linkedin.com/company/omniscient-digital",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@omniscient.so",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/02/generare-secures-eur20m-to-scale-molecular-discovery-platform/": {
+    "valid": true,
+    "company": "Generare",
+    "amount_str": "\u20ac20M",
+    "website": "https://generare.bio",
+    "linkedin_url": "https://linkedin.com/company/generare-bioscience",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@generare.bio",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/02/covalo-lands-eur35m-funding-extension-to-advance-personal-care-data-platform/": {
+    "valid": true,
+    "company": "Covalo",
+    "amount_str": "\u20ac3.5M",
+    "website": "http://www.covalo.com",
+    "linkedin_url": "https://linkedin.com/company/joincovalo",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://betakit.com/feds-invest-79-million-in-aspect-biosystems-to-develop-3d-printed-tissue-treatment/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/daydream-raises-15m-series-a-to-build-the-worlds-best-ai-native-agency-for-seo-302732302.html": {
+    "valid": true,
+    "company": "daydream",
+    "amount_str": "$15M",
+    "website": "https://www.daydreamrecordsofficial.com",
+    "linkedin_url": "https://linkedin.com/company/daydream-ing",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "user@domain.com",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/daydream-raises-15m-series-a-to-build-the-worlds-best-ai-native-agency-for-seo-302732323.html": {
+    "valid": true,
+    "company": "daydream",
+    "amount_str": "$15M",
+    "website": "https://daydream.ing",
+    "linkedin_url": "https://linkedin.com/company/daydream-ing",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/ors-haircare-raises-the-bar-with-ors-unapologetic-a-science-backed-length-retention-and-styling-collection-co-created-with-crystal-renee-hayslett-302733071.html": {
+    "valid": false
+  },
+  "https://beinsure.com/news/yupp-shuts-down-after-33mn-seed/": {
+    "valid": false
+  },
+  "https://www.gainesville.com/press-release/story/99632/gander-robotics-closes-1-1m-pre-seed-round-to-build-autonomous-search-and-rescue-robots/": {
+    "valid": true,
+    "company": "Gander Robotics",
+    "amount_str": "$1.1M",
+    "website": "https://ganderrobotics.com",
+    "linkedin_url": "https://linkedin.com/company/ganderrobotics",
+    "founder_name": "Michael Autery",
+    "founder_linkedin_url": "https://linkedin.com/in/michael-autery",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.rgj.com/press-release/story/152905/gai-insights-secures-500000-pre-seed-round-to-scale-its-ai-navigator-platform-for-financial-and-enterprise-markets/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/04/02/diverse-teams-start-with-diverse-vcs/": {
+    "valid": false
+  },
+  "https://www.finextra.com/pressarticle/109357/onchain-investment-fintech-midas-raises-50-million": {
+    "valid": false
+  },
+  "https://www.cnbc.com/2026/04/02/family-offices-stall-deal-making-during-iran-conflict.html": {
+    "valid": false
+  },
+  "https://thefr.com/news/hype-moats-and-the-wealthtech-exit-problem": {
+    "valid": true,
+    "company": "Jump recently",
+    "amount_str": "$80 m",
+    "website": "https://www.cbr.com",
+    "linkedin_url": "https://linkedin.com/company/officialcbr",
+    "founder_name": "But the",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/cbr"
+  },
+  "https://theaiinsider.tech/2026/04/02/ngen-announces-79-5m-in-new-ai-projects-to-help-canadian-manufacturers-compete-globally/": {
+    "valid": true,
+    "company": "NGen",
+    "amount_str": "$79.5M",
+    "website": "https://www.ngen-mc.com",
+    "linkedin_url": "https://linkedin.com/company/ngen-mc",
+    "founder_name": "Jayson Myers",
+    "founder_linkedin_url": "https://linkedin.com/in/jaysonmyers",
+    "contact_email": "info@ngen-mc.com",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/04/02/antaris-secures-28m-series-a-to-advance-ai-powered-satellite-mission-platform/": {
+    "valid": true,
+    "company": "Antaris",
+    "amount_str": "$28M",
+    "website": "https://www.antaris.space",
+    "linkedin_url": "https://linkedin.com/company/antaris-space",
+    "founder_name": "CEO Tom Barton and",
+    "founder_linkedin_url": "",
+    "contact_email": "user@domain.com",
+    "twitter_url": "https://x.com/antarissoftware"
+  },
+  "https://launchbaseafrica.com/2026/04/02/flourish-ventures-backs-flutterwave-stablecoin-partner-kulipa-in-6-2m-seed-round/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://launchbaseafrica.gumroad.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startup-weekly.com/Nomad-land-2m-in-oversubscribed-seed-round-to-transform-fleet-management-with-AI/": {
+    "valid": true,
+    "company": "Nomad",
+    "amount_str": "$2m",
+    "website": "https://nomadgoods.com",
+    "linkedin_url": "https://linkedin.com/company/nomad-goods",
+    "founder_name": "Founder and",
+    "founder_linkedin_url": "https://linkedin.com/in/arianna-cignarale-993602a3",
+    "contact_email": "",
+    "twitter_url": "https://x.com/nomadgoods"
+  },
+  "https://www.vestbee.com/insights/articles/top-european-funding-rounds-closed-in-march-2026": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.wonderful.ai",
+    "linkedin_url": "https://linkedin.com/company/wonderfulcx",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/wonderful_ai"
+  },
+  "https://arcticstartup.com/enkei-raises-pre-seed/?amp=1": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/pickmybrain-raises-2-1m-pre-seed": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/v1c-raises-krw-13-4b-pre-series-a": {
+    "valid": false
+  },
+  "https://medial.app/news/credresolve-raises-pre-series-a-round-led-by-merak-ventures-710496ec68dbb": {
+    "valid": true,
+    "company": "Ikin Global",
+    "amount_str": "$1 m",
+    "website": "http://www.ikilnk.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "example@domain.com",
+    "twitter_url": "https://x.com/IkinGlobal"
+  },
+  "https://www.tipranks.com/news/private-companies/soma-energy-raises-7-million-to-unlock-grid-capacity-for-ai-data-centers": {
+    "valid": true,
+    "company": "Soma Energy",
+    "amount_str": "$7 M",
+    "website": "https://www.soma.energy",
+    "linkedin_url": "https://linkedin.com/company/somaenergy",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@soma.energy",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/04/02/jimini-health-announces-17m-funding-round-to-build-clinician-supervised-ai-infrastructure-for-behavioral-health/": {
+    "valid": true,
+    "company": "Jimini Health",
+    "amount_str": "$17 m",
+    "website": "https://jiminihealth.com",
+    "linkedin_url": "https://linkedin.com/company/jiminihealth",
+    "founder_name": "Led by",
+    "founder_linkedin_url": "",
+    "contact_email": "support@jiminihealth.com",
+    "twitter_url": ""
+  },
+  "https://www.founderstoday.news/pickmybrain-bags-1-8-millions/": {
+    "valid": false
+  },
+  "https://gaiinsights.substack.com/p/gai-insights-secures-500000-pre-seed": {
+    "valid": true,
+    "company": "GAI Insights",
+    "amount_str": "",
+    "website": "https://gaiinsights.com",
+    "linkedin_url": "https://linkedin.com/company/gai-insights",
+    "founder_name": "syndicate of three",
+    "founder_linkedin_url": "",
+    "contact_email": "Paul.Baier@GAlinsights.com",
+    "twitter_url": "https://x.com/cards"
+  },
+  "https://news.fintech.io/post/102moqf/cara-raises-8m-in-seed-funding": {
+    "valid": true,
+    "company": "Cara",
+    "amount_str": "$8m",
+    "website": "https://officialcara.com",
+    "linkedin_url": "https://linkedin.com/company/caraai",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/cara-l-65153223b",
+    "contact_email": "",
+    "twitter_url": "https://x.com/CaraQuici"
+  },
+  "https://www.theblock.co/post/396213/pump-fun-pre-seed-funding-round-livestream-prediction-markets-pumpcade?utm_source=news.xml&utm_medium=rss": {
+    "valid": false
+  },
+  "https://www.techflowpost.com/en-US/newsletter/118823": {
+    "valid": false
+  },
+  "https://radiotoday.co.uk/2026/04/ai-startup-spotwise-raises-pre-seed-funding-to-expand-in-europe/": {
+    "valid": true,
+    "company": "Spotwise",
+    "amount_str": "",
+    "website": "https://spotwise.ai",
+    "linkedin_url": "https://linkedin.com/company/spotwise-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@spotwise.ai",
+    "twitter_url": "https://x.com/spotwise_ai"
+  },
+  "https://www.desertsun.com/press-release/story/123552/gai-insights-secures-500000-pre-seed-round-to-scale-its-ai-navigator-platform-for-financial-and-enterprise-markets/": {
+    "valid": false
+  },
+  "https://world.einnews.com/amp/pr_news/903302002/gai-insights-secures-500-000-pre-seed-round-to-scale-its-ai-navigator-platform-for-financial-and-enterprise-markets": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/proho-raises-1m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.marketwatch.com/story/sequoia-capitals-early-investment-in-a-trillion-dollar-tech-giant-with-questionable-management-f05d2763": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/estaie-raises-7-figure-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.manilatimes.net/2026/04/02/tmt-newswire/globenewswire/leading-aeo-platform-launches-lead-referral-program-for-marketing-agencies/2313406": {
+    "valid": true,
+    "company": "Leading AEO Platform",
+    "amount_str": "",
+    "website": "https://www.botdeploy.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@botdeploy.ai",
+    "twitter_url": ""
+  },
+  "https://www.globenewswire.com/news-release/2026/04/02/3267315/0/en/Leading-AEO-Platform-Launches-Lead-Referral-Program-for-Marketing-Agencies.html": {
+    "valid": false
+  },
+  "https://www.moomoo.com/news/post/67842198/mission-biocapital-announces-opening-of-4-million-2026-platinum-program": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/mission-biocapital-announces-opening-of-4-million-2026-platinum-program-contest-and-2025-platinum-ticket-investments-302731624.html": {
+    "valid": true,
+    "company": "Mission BioCapital",
+    "amount_str": "$4 M",
+    "website": "https://www.missionbiocapital.com",
+    "linkedin_url": "https://linkedin.com/company/missionbiocapital",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@missionbiocapital.com",
+    "twitter_url": "https://x.com/missionbiocap"
+  },
+  "https://nationaltoday.com/us/ca/san-francisco/news/2026/04/02/numos-raises-seed-funding-to-build-ai-finance-platform/": {
+    "valid": true,
+    "company": "Numos",
+    "amount_str": "",
+    "website": "https://www.numos.net",
+    "linkedin_url": "https://linkedin.com/company/numosai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "046c982186afa15dc9513490293d26b1@o37417.ingest.sentry.io",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://businessofsandiego.substack.com/p/vc-funding-report-san-diego-sees-ca1": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "depth profiles of",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.theinformation.com/newsletters/ai-agenda/ai-storytelling-startup-pace-generate-100-million-annual-sales": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.cloudflare.com/5xx-error-landing",
+    "linkedin_url": "https://linkedin.com/company/cloudflare",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/cloudflare"
+  },
+  "https://www.bizjournals.com/sanjose/news/2026/04/02/openinfer-san-mateo-jean.html": {
+    "valid": true,
+    "company": "The 13-person company",
+    "amount_str": "$8 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.indianstartuptimes.com/investment/neurodevelopmental-startup-gabify-secures-175k-pre-seed-to-scale-ai-therapy/": {
+    "valid": false
+  },
+  "https://www.marketwatch.com/story/sequoia-capitals-early-investment-in-a-trillion-dollar-tech-giant-with-questionable-management-f05d2763?mod=home_ln": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://musically.com/2026/04/02/create-music-group-leads-2m-funding-for-marketing-startup-soundlink/": {
+    "valid": false
+  },
+  "https://www.axios.com/pro/climate-deals/2026/04/02/soma-energy-grid-ai-seed": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DWn6hhWDcdx/": {
+    "valid": false
   }
 }
