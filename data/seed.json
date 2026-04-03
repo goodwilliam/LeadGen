@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T01:33:17.675777Z",
-  "count": 33,
+  "generated_at": "2026-04-03T05:30:39.832729Z",
+  "count": 32,
   "enriched_count": 28,
   "articles": [
     {
@@ -117,6 +117,20 @@
     },
     {
       "source": "Google Alerts",
+      "title": "Voltify Secures $30 Million in Seed Funding to Advance Rail Electrification - Raising.fi",
+      "article_url": "https://raising.fi/news/voltify-seed-march-2026",
+      "company": "Voltify",
+      "amount_str": "$30 M",
+      "pub_date": "2026-04-02T19:40:38Z",
+      "website": "https://voltify.com",
+      "linkedin_url": "https://linkedin.com/company/justvoltify",
+      "founder_name": "who serves as the",
+      "founder_linkedin_url": "",
+      "contact_email": "contact@voltify.com",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
       "title": "CavilinQ Secures $8.8M Seed Round to Unlock Utility-Scale Quantum Computing",
       "article_url": "https://polsky.uchicago.edu/2026/04/02/cavilinq-secures-8-8m-seed-round-to-unlock-utility-scale-quantum-computing/",
       "company": "CavilinQ",
@@ -201,20 +215,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "\u00a3130M fund closes to back female-led investment team | Startups Magazine",
-      "article_url": "https://startupsmagazine.co.uk/130m-fund-closes-to-back-female-led-investment-team",
-      "company": "\u00a3130M fund",
-      "amount_str": "",
-      "pub_date": "2026-04-02T16:27:57Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "Stephanie Heller",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "Gander Robotics Closes $1.1M Pre- Seed Round to Build Autonomous Search and Rescue Robots",
       "article_url": "https://www.gainesville.com/press-release/story/99632/gander-robotics-closes-1-1m-pre-seed-round-to-build-autonomous-search-and-rescue-robots/",
       "company": "Gander Robotics",
@@ -226,20 +226,6 @@
       "founder_linkedin_url": "https://linkedin.com/in/michael-autery",
       "contact_email": "",
       "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Numos Raises Seed Funding to Build AI Finance Platform - San Francisco Today",
-      "article_url": "https://nationaltoday.com/us/ca/san-francisco/news/2026/04/02/numos-raises-seed-funding-to-build-ai-finance-platform/",
-      "company": "Numos",
-      "amount_str": "",
-      "pub_date": "2026-04-02T15:03:09Z",
-      "website": "https://www.numos.net",
-      "linkedin_url": "https://linkedin.com/company/numosai",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "046c982186afa15dc9513490293d26b1@o37417.ingest.sentry.io",
-      "twitter_url": "https://x.com/suricate"
     },
     {
       "source": "tech.eu",

@@ -23926,5 +23926,65 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/04/03/pitchbook-us-venture-funding-surges-record-267b-openai-anthropic-xai-dominate-ai-deals/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/smci-investors-have-opportunity-to-lead-super-micro-computer-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302733366.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/super-micro-computer-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--smci-302733357.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/aldeyra-therapeutics-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--aldx-302733360.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/ibrx-investors-have-opportunity-to-lead-immunitybio-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302733361.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/vitl-investors-have-opportunity-to-lead-vital-farms-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302733358.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/pinterest-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--pins-302733354.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/pins-investors-have-opportunity-to-lead-pinterest-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302733352.html": {
+    "valid": false
+  },
+  "https://www.mrweb.com/drno/news39642.htm": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.omniscient.so",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@omniscient.so",
+    "twitter_url": ""
+  },
+  "https://www.phocuswire.com/news/startups/travel-startup-funding-acquisitions-q1-2026": {
+    "valid": false
+  },
+  "https://cryptorank.io/news/feed/220c3-ai-interviewer-miravoice-raises-seed-funding-unusual": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://t.me/CryptoRankNews",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/CryptoRank_io"
+  },
+  "https://raising.fi/news/voltify-seed-march-2026": {
+    "valid": true,
+    "company": "Voltify",
+    "amount_str": "$30 M",
+    "website": "https://voltify.com",
+    "linkedin_url": "https://linkedin.com/company/justvoltify",
+    "founder_name": "who serves as the",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@voltify.com",
+    "twitter_url": ""
   }
 }
