@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-04-03T05:30:39.832729Z",
-  "count": 32,
-  "enriched_count": 28,
+  "generated_at": "2026-04-03T08:44:48.923542Z",
+  "count": 30,
+  "enriched_count": 26,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "CavilinQ Secures $8.8M Seed Round to Develop Modular Quantum Interconnects",
+      "article_url": "https://quantumcomputingreport.com/cavilinq-secures-8-8m-seed-round-to-develop-modular-quantum-interconnects/",
+      "company": "CavilinQ",
+      "amount_str": "$8.8M",
+      "pub_date": "2026-04-03T00:58:22Z",
+      "website": "https://www.cavilinq.com",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "contact@cavilinq.com",
+      "twitter_url": "https://x.com/suricate"
+    },
     {
       "source": "Google Alerts",
       "title": "Rosella raises AUD $3.7 million for AI insurance brokerage - CFOtech Australia",
@@ -26,6 +40,20 @@
       "pub_date": "2026-04-02T23:49:06Z",
       "website": "https://www.alcatraz.ai",
       "linkedin_url": "https://linkedin.com/company/alcatraz",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Mission BioCapital Announces Opening of $4 Million 2026 Platinum Program Contest and ...",
+      "article_url": "https://finance.yahoo.com/sectors/healthcare/articles/mission-biocapital-announces-opening-4-120000998.html",
+      "company": "Mission BioCapital",
+      "amount_str": "$4 M",
+      "pub_date": "2026-04-02T23:32:13Z",
+      "website": "https://www.missionbiocapital.com/platinum-program-3",
+      "linkedin_url": "https://linkedin.com/company/missionbiocapital",
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
@@ -117,6 +145,20 @@
     },
     {
       "source": "Google Alerts",
+      "title": "Enclave Secures $6 Million in Seed Funding Led by 8VC - Raising.fi",
+      "article_url": "https://raising.fi/news/enclave-seed-march-2026",
+      "company": "Enclave",
+      "amount_str": "$6 M",
+      "pub_date": "2026-04-02T19:44:08Z",
+      "website": "https://enclave.ai",
+      "linkedin_url": "https://linkedin.com/company/enclaveai",
+      "founder_name": "including Patrick Collison",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
       "title": "Voltify Secures $30 Million in Seed Funding to Advance Rail Electrification - Raising.fi",
       "article_url": "https://raising.fi/news/voltify-seed-march-2026",
       "company": "Voltify",
@@ -128,20 +170,6 @@
       "founder_linkedin_url": "",
       "contact_email": "contact@voltify.com",
       "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "CavilinQ Secures $8.8M Seed Round to Unlock Utility-Scale Quantum Computing",
-      "article_url": "https://polsky.uchicago.edu/2026/04/02/cavilinq-secures-8-8m-seed-round-to-unlock-utility-scale-quantum-computing/",
-      "company": "CavilinQ",
-      "amount_str": "$8.8M",
-      "pub_date": "2026-04-02T19:32:03Z",
-      "website": "https://www.cavilinq.com",
-      "linkedin_url": "",
-      "founder_name": "of CavilinQ",
-      "founder_linkedin_url": "",
-      "contact_email": "contact@cavilinq.com",
-      "twitter_url": "https://x.com/suricate"
     },
     {
       "source": "Google Alerts",
@@ -173,20 +201,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Jimini Health raises $17M to expand AI behavioral health platform | MobiHealthNews",
-      "article_url": "https://www.mobihealthnews.com/news/jimini-health-raises-17m-expand-ai-behavioral-health-platform",
-      "company": "Jimini Health",
-      "amount_str": "$17M",
-      "pub_date": "2026-04-02T16:54:44Z",
-      "website": "https://jiminihealth.com",
-      "linkedin_url": "https://linkedin.com/company/jiminihealth",
-      "founder_name": "Luis Voloch",
-      "founder_linkedin_url": "",
-      "contact_email": "support@jiminihealth.com",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "Former a16z crypto investor raises $10 million to launch stablecoin clearinghouse Better Money",
       "article_url": "https://www.aol.com/finance/exclusive-former-a16z-crypto-investor-123000770.html",
       "company": "Former a16z crypto investor",
@@ -210,20 +224,6 @@
       "linkedin_url": "https://linkedin.com/company/daydream-ing",
       "founder_name": "said Thenuka Karunaratne",
       "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Gander Robotics Closes $1.1M Pre- Seed Round to Build Autonomous Search and Rescue Robots",
-      "article_url": "https://www.gainesville.com/press-release/story/99632/gander-robotics-closes-1-1m-pre-seed-round-to-build-autonomous-search-and-rescue-robots/",
-      "company": "Gander Robotics",
-      "amount_str": "$1.1M",
-      "pub_date": "2026-04-02T15:21:42Z",
-      "website": "https://ganderrobotics.com",
-      "linkedin_url": "https://linkedin.com/company/ganderrobotics",
-      "founder_name": "Michael Autery",
-      "founder_linkedin_url": "https://linkedin.com/in/michael-autery",
       "contact_email": "",
       "twitter_url": ""
     },
@@ -380,34 +380,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "OpenFX Raises $94M to Expand Stablecoin Network for Cross-Border Payments",
-      "article_url": "https://www.mexc.com/news/996329",
-      "company": "OpenFX",
-      "amount_str": "$94M",
-      "pub_date": "2026-04-01T05:08:51Z",
-      "website": "https://openfx.org",
-      "linkedin_url": "https://linkedin.com/company/openfx",
-      "founder_name": "Hyperliquid Strategies",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Uniblock Raises $5.2M to Unify Blockchain APIs | MEXC News",
-      "article_url": "https://www.mexc.com/news/996434",
-      "company": "Uniblock",
-      "amount_str": "$5.2M",
-      "pub_date": "2026-04-01T05:07:22Z",
-      "website": "https://www.uniblock.ai",
-      "linkedin_url": "https://linkedin.com/company/vruniblock",
-      "founder_name": "founder and",
-      "founder_linkedin_url": "https://linkedin.com/in/hazem-mokhtar-a755bb19a",
-      "contact_email": "user@domain.com",
-      "twitter_url": "https://x.com/vruniblock"
     },
     {
       "source": "tech.eu",

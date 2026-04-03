@@ -23986,5 +23986,70 @@
     "founder_linkedin_url": "",
     "contact_email": "contact@voltify.com",
     "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/gossamer-bio-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--goss-302733365.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/vital-farms-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--vitl-302733368.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/immunitybio-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--ibrx-302733362.html": {
+    "valid": false
+  },
+  "https://quantumcomputingreport.com/cavilinq-secures-8-8m-seed-round-to-develop-modular-quantum-interconnects/": {
+    "valid": true,
+    "company": "CavilinQ",
+    "amount_str": "$8.8M",
+    "website": "https://www.cavilinq.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@cavilinq.com",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://www.fintechfutures.com/venture-capital-funding/icymi-fintech-funding-round-up-accesspay-qover-brickken-and-more": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/omniscient-raises-4-1m-pre-seed": {
+    "valid": false
+  },
+  "https://finance.yahoo.com/sectors/healthcare/articles/mission-biocapital-announces-opening-4-120000998.html": {
+    "valid": true,
+    "company": "Mission BioCapital",
+    "amount_str": "$4 M",
+    "website": "https://www.missionbiocapital.com/platinum-program-3",
+    "linkedin_url": "https://linkedin.com/company/missionbiocapital",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.theblock.co/post/396213/pump-fun-pre-seed-funding-round-livestream-prediction-markets-pumpcade": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/04/dutch-startup-brilliance-raises-e6-million-to-tackle-ar-hardwares-key-bottleneck-with-rgb-laser-chip-technology/": {
+    "valid": false
+  },
+  "https://x.com/Crypto_Dealflow/status/2039752872053592243/photo/1": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.f1dc7e4a.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://raising.fi/news/enclave-seed-march-2026": {
+    "valid": true,
+    "company": "Enclave",
+    "amount_str": "$6 M",
+    "website": "https://enclave.ai",
+    "linkedin_url": "https://linkedin.com/company/enclaveai",
+    "founder_name": "including Patrick Collison",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
