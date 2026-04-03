@@ -24506,5 +24506,172 @@
     "founder_linkedin_url": "",
     "contact_email": "custserv@thecompanystore.com",
     "twitter_url": "https://x.com/thecompanystore"
+  },
+  "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-wearables-energy-saronic/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/alight-inc-alit-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302733931.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/driven-brands-holdings-inc-drvn-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302733935.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/kyndryl-kd-faces-expanded-class-action-investors-see-april-13-deadline--hagens-berman-302733933.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/leading-parkinsons-organizations-urge-congress-to-preserve-progress-and-strengthen-parkinsons-research-funding-at-the-national-institutes-of-health-302734044.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/meauxmentum-strategies-and-investments-troy-morrison-named-chicken-salad-chick-owner-and-developer-of-the-year-302732896.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/lakeland-industries-inc-lake-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302733938.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/paysafe-limited-psfe-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302733925.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/atara-biotherapeutics-inc-atra-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302733929.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/boston-scientific-corporation-bsx-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302733927.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/oddity-tech-ltd-odd-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302733922.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/enphase-energy-inc-class-action-reminder--robbins-llp-encourages-enph-stockholders-to-contact-the-firm-for-information-about-their-rights-302733915.html": {
+    "valid": false
+  },
+  "https://dot.la/valar-atomics-nuclear-power-ai-2676661768.html": {
+    "valid": false
+  },
+  "https://www.financialexpress.com/business/news/there-is-a-broad-based-concern-around-follow-on-capital-rahul-chandra-md-at-arkam-ventures/4194672/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://finance.yahoo.com/markets/crypto/articles/prediction-markets-news-competition-intensifies-171758183.html": {
+    "valid": true,
+    "company": "Competition Intensifies Amid Surging Volumes, Regulatory",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.indianstartuptimes.com/interviews/revolutionizing-indias-beauty-ecosystem-how-saiful-islam-is-building-glowbook-to-digitize-local-salons/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://stats.wp.com/e-202614.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.businessworld.in/article/sarvam-ai-350-million-funding-bessemer-nvidia-amazon-2026-600618": {
+    "valid": false
+  },
+  "https://m.economictimes.com/tech/newsletters/tech-top-5/rupee-slide-boosts-it-gupshups-valuation-markdown/articleshow/130001838.cms": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://connect.facebook.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/04/03/pickmybrain-secures-e1-8m-to-scale-ai-powered-digital-brains-for-experts-and-public-figures/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/04/03/verbaflo-announces-7m-in-funding-to-expand-ai-leasing-and-communications-platform-for-student-housing-and-multifamily-operators/": {
+    "valid": true,
+    "company": "VerbaFlo",
+    "amount_str": "$7M",
+    "website": "https://www.verbaflo.ai",
+    "linkedin_url": "https://linkedin.com/company/verbaflo-ai",
+    "founder_name": "Sayantan Biswas",
+    "founder_linkedin_url": "https://linkedin.com/in/sayantan-biswas-",
+    "contact_email": "contact@verbaflo.ai",
+    "twitter_url": "https://x.com/VerbaFloAI"
+  },
+  "https://financefeeds.com/pump-fun-backs-pumpcade-with-1-million-bet-on-livestream-prediction-markets/": {
+    "valid": false
+  },
+  "https://technotrenz.com/news/omniscient-secures-3-5m/": {
+    "valid": true,
+    "company": "Omniscient",
+    "amount_str": "\u20ac3.5M",
+    "website": "https://usa.kinokuniya.com",
+    "linkedin_url": "https://linkedin.com/company/omniscient-digital",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "user@domain.com",
+    "twitter_url": "https://x.com/KinokuniyaUSA"
+  },
+  "https://www.finsmes.com/2026/04/carnistore-receives-usd12-25m-investment-from-emirates-growth-fund.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/syneron-bio-closes-150m-series-b-financing.html": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/sanfrancisco/news/2026/04/03/sfbt-digest-friday-trump-alcatraz-diablo-canyon-sf.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupfortune.com/wmf-ai-global-summit-returns-as-enterprise-adoption-accelerates/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://api.whatsapp.com/send",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/whatsapp"
+  },
+  "https://pulse2.com/connectome-2-million-raised-for-neurotech-platform-to-track-brain-health-over-time/": {
+    "valid": true,
+    "company": "Connectome",
+    "amount_str": "$2 m",
+    "website": "https://connectome.health",
+    "linkedin_url": "https://linkedin.com/company/connectome-health",
+    "founder_name": "Lucas Scherdel",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupintros.com/orgs/favs": {
+    "valid": true,
+    "company": "Favs",
+    "amount_str": "$1.0M",
+    "website": "https://favshq.com",
+    "linkedin_url": "https://linkedin.com/company/favshq",
+    "founder_name": "and angels including Techstars",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://ceoindiamagazine.com/startup-funding-in-india-guide/": {
+    "valid": false
   }
 }
