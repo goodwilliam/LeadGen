@@ -1,12 +1,68 @@
 {
-  "generated_at": "2026-04-03T08:44:48.923542Z",
-  "count": 30,
-  "enriched_count": 26,
+  "generated_at": "2026-04-03T12:46:40.407275Z",
+  "count": 27,
+  "enriched_count": 22,
   "articles": [
     {
       "source": "Google Alerts",
+      "title": "Rosella Raises $2.6M Pre-Seed Funding to Transform AI-Powered Commercial Insurance ...",
+      "article_url": "https://beamstart.com/news/ai-powered-insurance-broker-rosella-17752054918336",
+      "company": "Rosella",
+      "amount_str": "$2.6M",
+      "pub_date": "2026-04-03T11:16:32Z",
+      "website": "https://byrosella.com",
+      "linkedin_url": "https://linkedin.com/company/rosellabrokerage",
+      "founder_name": "",
+      "founder_linkedin_url": "https://linkedin.com/in/rosella-d-051804266",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "tech.eu",
+      "title": "Wearable Robotics closes \u20ac5M Series A to scale development",
+      "article_url": "https://tech.eu/2026/04/03/wearable-robotics-closes-eur5m-series-a-to-scale-development/",
+      "company": "Wearable Robotics",
+      "amount_str": "\u20ac5M",
+      "pub_date": "2026-04-03T08:58:44Z",
+      "website": "https://wearable-robotics.com",
+      "linkedin_url": "https://linkedin.com/company/wearable-robotics",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Pumpcade Secures $1M Pre-Seed Funding for Prediction Platfor | Phemex News",
+      "article_url": "https://phemex.com/news/article/pumpcade-raises-1m-in-preseed-round-to-enhance-prediction-platform-70729",
+      "company": "Pumpcade",
+      "amount_str": "$1 m",
+      "pub_date": "2026-04-03T08:49:37Z",
+      "website": "http://pumpcade.com",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Avito Jobs launches branded vacancy ads - AIM Group",
+      "article_url": "https://aimgroup.com/2026/04/02/avito-jobs-launches-branded-vacancy-ads/",
+      "company": "Avito Jobs",
+      "amount_str": "",
+      "pub_date": "2026-04-03T08:35:41Z",
+      "website": "",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
       "title": "CavilinQ Secures $8.8M Seed Round to Develop Modular Quantum Interconnects",
-      "article_url": "https://quantumcomputingreport.com/cavilinq-secures-8-8m-seed-round-to-develop-modular-quantum-interconnects/",
+      "article_url": "https://quantumcomputingreport.com/cavilinq-secures-8-8m-seed-round-to-develop-modular-quantum-interconnects/amp/",
       "company": "CavilinQ",
       "amount_str": "$8.8M",
       "pub_date": "2026-04-03T00:58:22Z",
@@ -16,20 +72,6 @@
       "founder_linkedin_url": "",
       "contact_email": "contact@cavilinq.com",
       "twitter_url": "https://x.com/suricate"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Rosella raises AUD $3.7 million for AI insurance brokerage - CFOtech Australia",
-      "article_url": "https://cfotech.com.au/story/rosella-raises-aud-3-7-million-for-ai-insurance-brokerage",
-      "company": "Rosella",
-      "amount_str": "$3.7 m",
-      "pub_date": "2026-04-03T00:32:29Z",
-      "website": "https://byrosella.com",
-      "linkedin_url": "https://linkedin.com/company/rosellabrokerage",
-      "founder_name": "Sean Stuart",
-      "founder_linkedin_url": "https://linkedin.com/in/sean-stuart-507208141",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "SiliconAngle",
@@ -103,34 +145,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Financial News Systems Raises \u20ac1.5 Million to Build Fully AI-Driven Financial Newsroom",
-      "article_url": "https://theaiinsider.tech/2026/04/02/financial-news-systems-raises-e1-5-million-to-build-fully-ai-driven-financial-newsroom/",
-      "company": "Financial News Systems",
-      "amount_str": "\u20ac1.5 M",
-      "pub_date": "2026-04-02T20:59:18Z",
-      "website": "https://www.financialnewssystems.com",
-      "linkedin_url": "https://linkedin.com/company/financial-news-systems",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "hello@financialnewssystems.com",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Gabify Raises $175K for AI Neurodevelopmental Care - InforCapital",
-      "article_url": "https://inforcapital.com/news/gabify-raises-175000-in-pre-seed-funding-led-by-inflection-point-ventures-to-advance-ai-driven-neurodevelopmental-care-in-india/",
-      "company": "Gabify",
-      "amount_str": "$175K",
-      "pub_date": "2026-04-02T20:14:39Z",
-      "website": "https://www.gabify.life",
-      "linkedin_url": "https://linkedin.com/company/gabify-life",
-      "founder_name": "Ankur Mittal",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "Whirl AI Secures $8.9 Million in Seed Funding Led by ICONIQ | Raising.fi",
       "article_url": "https://raising.fi/news/whirl-ai-seed-march-2026",
       "company": "Whirl AI",
@@ -173,20 +187,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "GAI Insights Secures $500,000 Pre-Seed Round to Scale Its AI Navigator Platform for ...",
-      "article_url": "https://www.mexc.com/news/1000761",
-      "company": "GAI Insights",
-      "amount_str": "",
-      "pub_date": "2026-04-02T18:45:19Z",
-      "website": "https://gaiinsights.com",
-      "linkedin_url": "https://linkedin.com/company/gai-insights",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "Paul.Baier@GAlinsights.com",
-      "twitter_url": "https://x.com/cards"
-    },
-    {
-      "source": "Google Alerts",
       "title": "MakerSights, Used by Levi's and Allbirds, Raises $8.5 Million Series A - WWD",
       "article_url": "https://wwd.com/sourcing-journal/industry-news/makersights-series-a-1238735883/",
       "company": "MakerSights, Used by Levi's and Allbirds",
@@ -209,20 +209,6 @@
       "website": "https://www.msn.com",
       "linkedin_url": "",
       "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "daydream Raises $15M Series A to Build the World's Best AI-Native Agency for SEO",
-      "article_url": "https://pressreleasehub.pa.media/article/daydream-raises-15m-series-a-to-build-the-worlds-best-ai-native-agency-for-seo-70300.html",
-      "company": "daydream",
-      "amount_str": "$15M",
-      "pub_date": "2026-04-02T16:31:20Z",
-      "website": "https://daydream.ing",
-      "linkedin_url": "https://linkedin.com/company/daydream-ing",
-      "founder_name": "said Thenuka Karunaratne",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
@@ -282,20 +268,6 @@
       "founder_linkedin_url": "",
       "contact_email": "legal@cognichip.ai",
       "twitter_url": "https://x.com/Cognichip"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Palmer Luckey\u2011backed Valar lands $450M at $2B valuation to power AI with small reactors",
-      "article_url": "https://techfundingnews.com/palmer-luckey-backed-valar-atomics-450m-2b-valuation-ai/",
-      "company": "Palmer Luckey\u2011backed Valar",
-      "amount_str": "$450M",
-      "pub_date": "2026-04-01T23:31:20Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "SiliconAngle",
@@ -408,20 +380,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
-    },
-    {
-      "source": "tech.eu",
-      "title": "Brickken secures \u20ac3M to expand tokenisation infrastructure",
-      "article_url": "https://tech.eu/2026/03/31/brickken-secures-eur3m-to-expand-tokenization-infrastructure/",
-      "company": "Brickken",
-      "amount_str": "\u20ac3M",
-      "pub_date": "2026-03-31T12:05:00Z",
-      "website": "https://www.brickken.com",
-      "linkedin_url": "https://linkedin.com/company/brickken",
-      "founder_name": "including Marco Podini",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/Brickken"
     }
   ]
 }

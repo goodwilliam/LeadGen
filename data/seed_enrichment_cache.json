@@ -24051,5 +24051,126 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://news.crunchbase.com/venture/data-early-stage-unicorns-seed-ai-defense-tech/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/03/wearable-robotics-closes-eur5m-series-a-to-scale-development/": {
+    "valid": true,
+    "company": "Wearable Robotics",
+    "amount_str": "\u20ac5M",
+    "website": "https://wearable-robotics.com",
+    "linkedin_url": "https://linkedin.com/company/wearable-robotics",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/cwh-investor-deadline-approaching-faruqi--faruqi-llp-reminds-camping-world-holdings-cwh-investors-of-securities-class-action-deadline-on-may-11-2026-302733236.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/aldx-investor-deadline-approaching-faruqi--faruqi-llp-reminds-aldeyra-therapeutics-aldx-investors-of-securities-class-action-deadline-on-may-29-2026-302733296.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/alit-investor-deadline-approaching-faruqi--faruqi-llp-reminds-alight-alit-investors-of-securities-class-action-deadline-on-may-15-2026-302733231.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/go-investor-deadline-approaching-faruqi--faruqi-llp-reminds-grocery-outlet-go-investors-of-securities-class-action-deadline-on-may-15-2026-302733227.html": {
+    "valid": false
+  },
+  "https://cairoscene.com/Business/How-Strataphy-Geothermal-Cooling-to-Manage-AI-s-Energy-Demands": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/boston/news/2026/04/03/mit-sloan-spinout-raises-1million-four-months.html": {
+    "valid": false
+  },
+  "https://quantumcomputingreport.com/cavilinq-secures-8-8m-seed-round-to-develop-modular-quantum-interconnects/amp/": {
+    "valid": true,
+    "company": "CavilinQ",
+    "amount_str": "$8.8M",
+    "website": "https://www.cavilinq.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@cavilinq.com",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://fortune.com/2026/04/03/health-care-fax-machine-problem-insight-health-series-a-11-million-ai-assistants/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cookielaw.org/consent/906dc33b-1fc3-4b2c-a324-8bc0b7db9050/OtAutoBlock.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://beamstart.com/news/ai-powered-insurance-broker-rosella-17752054918336": {
+    "valid": true,
+    "company": "Rosella",
+    "amount_str": "$2.6M",
+    "website": "https://byrosella.com",
+    "linkedin_url": "https://linkedin.com/company/rosellabrokerage",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/rosella-d-051804266",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.therisepost.com/news/articles/omniscient-raises-dollar41m-pre-seed-led-by-seedcamp-to-deliver-real-time-ai-reputation-intelligence-to-the-c-suite-69ce9fd2da1f80d00148818f": {
+    "valid": true,
+    "company": "Omniscient",
+    "amount_str": "$4.1M",
+    "website": "https://usa.kinokuniya.com",
+    "linkedin_url": "https://linkedin.com/company/omniscient-digital",
+    "founder_name": "gap that",
+    "founder_linkedin_url": "",
+    "contact_email": "user@domain.com",
+    "twitter_url": "https://x.com/KinokuniyaUSA"
+  },
+  "https://www.theblock.co/post/396275/circle-plans-wrapped-bitcoin-token-cirbtc": {
+    "valid": false
+  },
+  "https://phemex.com/news/article/pumpcade-raises-1m-in-preseed-round-to-enhance-prediction-platform-70729": {
+    "valid": true,
+    "company": "Pumpcade",
+    "amount_str": "$1 m",
+    "website": "http://pumpcade.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://technode.global/2026/04/03/ai-powered-insurance-broker-rosella-raises-2-6m-in-funding-led-by-peak-xv-partners-intact-private-capital/": {
+    "valid": true,
+    "company": "AI-powered insurance broker Rosella",
+    "amount_str": "$2.6M",
+    "website": "https://technode.global",
+    "linkedin_url": "https://linkedin.com/company/technodeglobal",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/technodeglobal"
+  },
+  "https://aimgroup.com/2026/04/02/avito-jobs-launches-branded-vacancy-ads/": {
+    "valid": true,
+    "company": "Avito Jobs",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.navlindaily.com/article/30074/world-vaccine-congress-sanofi-s-vaccine-portfolio-development": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/soma-energy-raises-7m-in-pre-seed-and-seed-funding.html": {
+    "valid": false
+  },
+  "https://startupintros.com/orgs/valor-vc": {
+    "valid": false
   }
 }
