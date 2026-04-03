@@ -24172,5 +24172,339 @@
   },
   "https://startupintros.com/orgs/valor-vc": {
     "valid": false
+  },
+  "https://tech.eu/2026/04/03/mistral-raises-830m-9fin-hits-unicorn-status-and-new-tech-eu-summit-speakers-unveiled/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/03/spacexs-stratospheric-ipo-hopes-openais-ridiculous-round-agentic-ai-gap/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://d15shllkswkct0.cloudfront.net/wp-includes/wlwmanifest.xml",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/plug-deadline-today-plug-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-plug-power-inc-securities-fraud-lawsuit-302733772.html": {
+    "valid": false
+  },
+  "https://siliconprairienews.com/2026/04/omaha-based-grapple-raises-1-million-to-remove-barriers-to-data-analytics/": {
+    "valid": true,
+    "company": "Omaha-based Grapple",
+    "amount_str": "$1 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Grapple founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.hpcwire.com/off-the-wire/cavilinq-secures-8-8m-seed-round-to-develop-quantum-interconnects-for-scalable-systems/": {
+    "valid": false
+  },
+  "https://www.bwdisrupt.com/article/sarvam-nears-300-mn-funding-at-1-5-bn-valuation-600745": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.sj-r.com/press-release/story/51316/octostar-closes-seed-round-at-e6-1m-as-demand-for-sovereign-defence-and-intelligence-platforms-accelerates/": {
+    "valid": true,
+    "company": "Octostar",
+    "amount_str": "",
+    "website": "https://www.octostar.com",
+    "linkedin_url": "https://linkedin.com/company/octostar",
+    "founder_name": "said Giovanni Tummarello",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thequantuminsider.com/2026/04/03/cavilinq-raises-8-8m-quantum-interconnect/": {
+    "valid": true,
+    "company": "CavilinQ",
+    "amount_str": "$8.8M",
+    "website": "https://www.cavilinq.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@cavilinq.com",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://www.calcalistech.com/ctechnews/article/h177r76izg": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://newmedia.calcalist.co.il/ctech/testimonials/index.html",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "judith.hoffmann@calcalist.co.il",
+    "twitter_url": ""
+  },
+  "https://www.digitalnewsasia.com/business/leet-launchpad-vol-4-bridging-gap-between-corporate-demand-and-startup-supply": {
+    "valid": false
+  },
+  "https://indianstartupnews.com/funding/stock-market-investor-ashish-kacholia-ipv-invest-2-million-in-spacetech-startup-xovian-aerospace-11445806": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.ampproject.org/v0.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/miravoice-secures-6-3m-in-seed-funding": {
+    "valid": false
+  },
+  "https://www.techloy.com/latin-americas-biggest-startup-funding-rounds-in-week-14-led-by-somos-internet-with-big-bets-on-telecom-and-healthtech/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techloy.com/week-14-biggest-startup-funding-rounds-in-africa-and-the-middle-east-led-by-scaleops-as-ai-and-cybersecurity-drew-the-biggest-checks/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.panewslab.com/en/articles/019d5142-5e1a-709d-af9d-b8fffe2d7fec": {
+    "valid": true,
+    "company": "Web3 chess project Pixie Chess",
+    "amount_str": "$5.2 m",
+    "website": "https://www.panewslab.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bwdisrupt.com/article/pronto-crosses-500-000-monthly-bookings-hits-22-000-daily-orders-in-march-600619": {
+    "valid": false
+  },
+  "https://bayelsawatch.com/pickmybrain-raises-2-1m/": {
+    "valid": true,
+    "company": "Pickmybrain",
+    "amount_str": "$2.1M",
+    "website": "http://pickmybrain.com",
+    "linkedin_url": "https://linkedin.com/company/pickmybrain-com",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techloy.com/asias-top-startup-funding-in-week-14-led-by-rebellions-epg-and-nazara-technologies/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://refreshmiami.com/news/south-floridas-grocerylist-expands-by-digitizing-shopping-in-the-caribbean/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.miamitechpod.com",
+    "linkedin_url": "",
+    "founder_name": "Morgan and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/miamitechpod"
+  },
+  "https://aimgroup.com/2026/04/03/china-based-job-boards-receive-listing-guidance-from-regulator/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/glimpse-raises-35m-in-series-a-funding.html": {
+    "valid": false
+  },
+  "https://indiatechnologynews.in/luxid-tech-enters-ar-vr-wearable-space-with-vue-ar-glasses-vuering/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://n24.com.tr/en/technology/gander-robotics-secures-11m-for-sea-rescue-tech": {
+    "valid": true,
+    "company": "Gander Robotics",
+    "amount_str": "$1.1M",
+    "website": "https://ganderrobotics.com",
+    "linkedin_url": "https://linkedin.com/company/ganderrobotics",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/acurion-closes-4-3m-seed-funding-round.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/alien-raises-7-1m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.cxodigitalpulse.com/peak-xv-backs-ai-insurance-startup-rosellas-expansion-into-the-us-market/": {
+    "valid": true,
+    "company": "Rosella recently",
+    "amount_str": "$3.7 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/numos-raises-4-25m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://inforcapital.com/news/pumpcade-raises-1m-in-pre-seed-funding/": {
+    "valid": false
+  },
+  "https://www.digitalhealthnews.com/gabify-raises-175k-to-scale-ai-driven-neurodevelopmental-care-in-india-": {
+    "valid": true,
+    "company": "Gabify",
+    "amount_str": "$175K",
+    "website": "https://www.gabify.life",
+    "linkedin_url": "https://linkedin.com/company/gabify-life",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/braingrid-raises-1m-pre-seed": {
+    "valid": false
+  },
+  "https://www.redesk.ai/resources/about": {
+    "valid": false
+  },
+  "https://www.thecrimson.com/article/2026/4/3/dropouts-scrutiny/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thetimes.com/business/companies-markets/article/fermtech-seed-funding-waste-sustainable-chocolate-dx7fmwngh": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupfortune.com/moonbounce-raises-12m-to-solve-ais-content-moderation-problem/": {
+    "valid": true,
+    "company": "Moonbounce",
+    "amount_str": "$12M",
+    "website": "https://www.getmoonbounce.com",
+    "linkedin_url": "https://linkedin.com/company/moonbounceio",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupfortune.com/apple-at-50-the-quiet-strategy-keeping-techs-oldest-startup-relevant/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://en.wikipedia.org/wiki/HTTP_cookie",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/04/03/italy-startup-wearable-robotics-raises-e5m-in-series-a-funding/": {
+    "valid": false
+  },
+  "https://www.gulfafricareview.com/goswap-to-expand-ev-battery-swapping-network-in-morocco/": {
+    "valid": true,
+    "company": "GoSwap",
+    "amount_str": "",
+    "website": "https://www.goswap.org",
+    "linkedin_url": "https://linkedin.com/company/goswapmorocco",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://news.crunchbase.com/ai/strategic-risks-automating-everything-sagie/": {
+    "valid": false
+  },
+  "https://wublock.substack.com/p/wublockchain-weekly-us-proposes-relaxing": {
+    "valid": false
+  },
+  "https://spacedaily.com/sd-n-fortastras-talent-raid-signals-a-new-phase-in-the-pentagons-push-for-space-defense-startups/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Sahil Desai as vice",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://m.economictimes.com/tech/technology/openais-tbpn-acquisition-rooted-in-decade-long-founder-ties-says-john-coogan/amp_articleshow/129998318.cms": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.ampproject.org",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupintros.com/orgs/tako": {
+    "valid": true,
+    "company": "The company",
+    "amount_str": "$5.75M",
+    "website": "https://www.thecompanystore.com",
+    "linkedin_url": "https://linkedin.com/company/the-company-lab",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "custserv@thecompanystore.com",
+    "twitter_url": "https://x.com/thecompanystore"
   }
 }
