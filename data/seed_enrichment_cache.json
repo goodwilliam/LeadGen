@@ -23663,5 +23663,268 @@
   },
   "https://www.msn.com/en-us/money/companies/sequoia-capital-s-early-investment-in-a-trillion-dollar-tech-giant-with-questionable-management/ar-AA200RkP": {
     "valid": false
+  },
+  "https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/02/cursor-refreshes-vibe-coding-platform-focus-ai-agents/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/02/alcatraz-raises-50m-bring-apple-face-id-style-security-physical-buildings/": {
+    "valid": true,
+    "company": "Alcatraz",
+    "amount_str": "$50M",
+    "website": "https://www.alcatraz.ai",
+    "linkedin_url": "https://linkedin.com/company/alcatraz",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/goss-stockholder-alert-shareholder-rights-law-firm-robbins-llp-reminds-investors-of-the-class-action-lawsuit-filed-against-gossamer-bio-inc-302733350.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-flow-cryptocurrency-investors-to-inquire-about-securities-class-action-investigation-302733269.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/vitl-investors-have-opportunity-to-lead-vital-farms-inc-securities-fraud-lawsuit-filed-by-the-rosen-law-firm-302733245.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/fbrt-investors-have-opportunity-to-lead-franklin-bsp-realty-trust-inc-securities-fraud-lawsuit-first-filed-by-the-rosen-law-firm-302733258.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/superior-roofing-completes-ownership-transition-302733333.html": {
+    "valid": false
+  },
+  "https://www.backscoop.com/newsletter-posts/500k-for-nightify-to-help-you-book-your-next-night-out": {
+    "valid": false
+  },
+  "https://www.newcomer.co/p/scoop-y-combinator-startups-land": {
+    "valid": false
+  },
+  "https://e.vnexpress.net/news/tech/enterprises/hong-kong-s-former-second-richest-billionaire-lee-shau-kee-s-son-peter-leads-300m-round-in-us-battery-startup-5057243.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://s.vnecdn.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.global-agriculture.com/investment-startups/aquapulse-raises-inr-25-crore-in-series-a-round-led-by-nabventures-ltd/": {
+    "valid": true,
+    "company": "Aquapulse",
+    "amount_str": "",
+    "website": "https://www.aquapulse.technology",
+    "linkedin_url": "https://linkedin.com/company/aquapulse-asia",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@aquapulse.net",
+    "twitter_url": ""
+  },
+  "https://www.geekwire.com/2026/startup-launched-by-former-aws-energy-team-emerges-with-7m-to-help-solve-data-center-power-crunch/": {
+    "valid": false
+  },
+  "https://www.startupbusiness.it/en/e5-million-series-a-funding-round-for-wearable-robotics/160722/": {
+    "valid": false
+  },
+  "https://www.jdsupra.com/legalnews/emergence-of-satellite-energy-stealth-5132882/": {
+    "valid": false
+  },
+  "https://wwd.com/sourcing-journal/industry-news/makersights-series-a-1238735883/": {
+    "valid": true,
+    "company": "MakerSights, Used by Levi's and Allbirds",
+    "amount_str": "$8.5 M",
+    "website": "https://sourcingjournal.com",
+    "linkedin_url": "https://linkedin.com/company/sourcing-journal",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/sourcingjournal"
+  },
+  "https://www.startupdaily.net/topic/climate-tech/page/15/?fbclid=IwZXh0bgNhZW0BMABhZGlkAasl--xIToMBHkydIcoZOuIcGvjWGfA9XMMf8sS6FlwzPTEsUZlH8XlSzHfazwIpOaO1wnsR_aem_d0aJmhvwBLZhpyGWi47qqA&utm_medium=paid&utm_source=fb-SiteLink&utm_id=120230829792010787&utm_content=120230830910260787&utm_term=120230830910250787&utm_campaign=120230829792010787": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://growth-summit.com.au",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "events@smartcomedia.com.au",
+    "twitter_url": ""
+  },
+  "https://entrackr.com/report/quarterly-funding-report/indian-startup-funding-climbs-to-nearly-4-bn-in-q1-2026-powered-by-neysa-and-early-stage-deals-11445029": {
+    "valid": false
+  },
+  "https://cfotech.com.au/story/rosella-raises-aud-3-7-million-for-ai-insurance-brokerage": {
+    "valid": true,
+    "company": "Rosella",
+    "amount_str": "$3.7 m",
+    "website": "https://byrosella.com",
+    "linkedin_url": "https://linkedin.com/company/rosellabrokerage",
+    "founder_name": "Sean Stuart",
+    "founder_linkedin_url": "https://linkedin.com/in/sean-stuart-507208141",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-2-2026/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.alleywatch.com.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.dealstreetasia.com/stories/peak-xv-partners-rosella-477893": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://telegram.me/share/url",
+    "linkedin_url": "",
+    "founder_name": "said Sean Stuart",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/telegram"
+  },
+  "https://techcouver.com/2026/04/02/soma-energy-raises-7m-to-power-ai-growth/": {
+    "valid": true,
+    "company": "Soma Energy",
+    "amount_str": "$7M",
+    "website": "https://www.soma.energy",
+    "linkedin_url": "https://linkedin.com/company/somaenergy",
+    "founder_name": "The founding team includes",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@soma.energy",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/04/02/financial-news-systems-raises-e1-5-million-to-build-fully-ai-driven-financial-newsroom/": {
+    "valid": true,
+    "company": "Financial News Systems",
+    "amount_str": "\u20ac1.5 M",
+    "website": "https://www.financialnewssystems.com",
+    "linkedin_url": "https://linkedin.com/company/financial-news-systems",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@financialnewssystems.com",
+    "twitter_url": ""
+  },
+  "https://www.photonics.com/Videos/NVIDIA-Invests-2-Billion-in-Marvell-NASA/p5/v1106": {
+    "valid": false
+  },
+  "https://inforcapital.com/news/gabify-raises-175000-in-pre-seed-funding-led-by-inflection-point-ventures-to-advance-ai-driven-neurodevelopmental-care-in-india/": {
+    "valid": true,
+    "company": "Gabify",
+    "amount_str": "$175K",
+    "website": "https://www.gabify.life",
+    "linkedin_url": "https://linkedin.com/company/gabify-life",
+    "founder_name": "Ankur Mittal",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/founderstoday_pickmybrain-bags-18m-in-pre-seed-funding-activity-7445536586378903552-ek0n": {
+    "valid": false
+  },
+  "https://startuptalky.com/news/gabify-raises-175k-pre-seed-funding-led-by-inflection-point-ventures/": {
+    "valid": false
+  },
+  "https://www.aninews.in/topic/pre-seed-funding/page/5/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://d3lzcn6mbbadaf.cloudfront.net/static/css/bundle.css",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.dealstreetasia.com/stories/peak-xv-partners-rosella-477893/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://telegram.me/share/url",
+    "linkedin_url": "",
+    "founder_name": "said Sean Stuart",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/telegram"
+  },
+  "https://nationaltoday.com/us/ma/cambridge/news/2026/04/02/cavilinq-raises-8-8m-to-develop-modular-quantum-interconnects/": {
+    "valid": true,
+    "company": "CavilinQ",
+    "amount_str": "$8.8M",
+    "website": "https://www.cavilinq.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@cavilinq.com",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://techfundingnews.com/paysend-raises-25m-claret-capital-cross-border-payments/": {
+    "valid": false
+  },
+  "https://arcticstartup.com/events/twohundred-forum-2026/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.clarionledger.com/press-release/story/132905/gai-insights-secures-500000-pre-seed-round-to-scale-its-ai-navigator-platform-for-financial-and-enterprise-markets/": {
+    "valid": false
+  },
+  "https://ventureburn.com/thinklabs-ai-raises-28m-to-modernize-power-grid-systems/?amp=1": {
+    "valid": true,
+    "company": "ThinkLabs AI",
+    "amount_str": "$28M",
+    "website": "https://thinklabs.ai",
+    "linkedin_url": "https://linkedin.com/company/thinklabs-ai",
+    "founder_name": "Josh Wong",
+    "founder_linkedin_url": "https://linkedin.com/in/joshua-wong-tl",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.providencejournal.com/press-release/story/50952/maisa-among-four-global-set-diamonds-defining-the-future-of-enterprise-ai-according-to-new-report/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://providencejournal.xpr-gannett.com/feed",
+    "linkedin_url": "",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://raising.fi/news/whirl-ai-seed-march-2026": {
+    "valid": true,
+    "company": "Whirl AI",
+    "amount_str": "$8.9 M",
+    "website": "https://www.whirlai.com",
+    "linkedin_url": "https://linkedin.com/company/whirl-ai",
+    "founder_name": "According to",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.londontechwatch.com/2026/04/the-london-techwatch-startup-daily-funding-report-1-4-2026/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://techwatch.media",
+    "linkedin_url": "",
+    "founder_name": "most active",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
