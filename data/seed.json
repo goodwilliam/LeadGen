@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-04-04T08:33:18.036673Z",
-  "count": 22,
-  "enriched_count": 19,
+  "generated_at": "2026-04-04T12:38:25.154627Z",
+  "count": 20,
+  "enriched_count": 17,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "How do I raise non-dilutive seed round funding for my deep-tech hardware startup ? - Reddit",
+      "article_url": "https://www.reddit.com/r/indianstartups/comments/1sc3p43/how_do_i_raise_nondilutive_seed_round_funding_for/",
+      "company": "How do I",
+      "amount_str": "",
+      "pub_date": "2026-04-04T08:51:30Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Miravoice Raises $6.3M to Deploy AI Voice Agents - Bayelsa Watch",
@@ -41,20 +55,6 @@
       "website": "https://subqbionics.com",
       "linkedin_url": "https://linkedin.com/company/sub-q-bionics",
       "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Pakistan's Startups Have a $159 Billion Problem. Here Is Why. - TechJuice",
-      "article_url": "https://www.techjuice.pk/pakistans-startups-have-a-159-billion-problem-here-is-why/",
-      "company": "Bangladesh",
-      "amount_str": "$37 m",
-      "pub_date": "2026-04-03T19:17:46Z",
-      "website": "https://en.wikipedia.org",
-      "linkedin_url": "https://linkedin.com/company/who-bangladesh",
-      "founder_name": "more than the idea",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
@@ -117,20 +117,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "AI-powered insurance broker Rosella raises $2.6M in funding led by Peak XV Partners ...",
-      "article_url": "https://technode.global/2026/04/03/ai-powered-insurance-broker-rosella-raises-2-6m-in-funding-led-by-peak-xv-partners-intact-private-capital/",
-      "company": "AI-powered insurance broker Rosella",
-      "amount_str": "$2.6M",
-      "pub_date": "2026-04-03T14:41:18Z",
-      "website": "https://technode.global",
-      "linkedin_url": "https://linkedin.com/company/technodeglobal",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/technodeglobal"
-    },
-    {
-      "source": "Google Alerts",
       "title": "Omaha-based Grapple raises $1 million to remove barriers to data analytics",
       "article_url": "https://siliconprairienews.com/2026/04/omaha-based-grapple-raises-1-million-to-remove-barriers-to-data-analytics/",
       "company": "Omaha-based Grapple",
@@ -139,20 +125,6 @@
       "website": "https://duck.ai",
       "linkedin_url": "",
       "founder_name": "Grapple founder and",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Peak XV Backs AI Insurance Startup Rosella's Expansion into the US Market",
-      "article_url": "https://www.cxodigitalpulse.com/peak-xv-backs-ai-insurance-startup-rosellas-expansion-into-the-us-market/",
-      "company": "Rosella recently",
-      "amount_str": "$3.7 m",
-      "pub_date": "2026-04-03T12:58:19Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
