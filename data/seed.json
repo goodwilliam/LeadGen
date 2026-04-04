@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-04-04T05:20:35.954855Z",
-  "count": 23,
+  "generated_at": "2026-04-04T08:33:18.036673Z",
+  "count": 22,
   "enriched_count": 19,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Miravoice Raises $6.3M to Deploy AI Voice Agents - Bayelsa Watch",
+      "article_url": "https://bayelsawatch.com/miravoice-raises-6-3m/",
+      "company": "Miravoice",
+      "amount_str": "$6.3M",
+      "pub_date": "2026-04-04T07:04:58Z",
+      "website": "https://www.miravoice.com",
+      "linkedin_url": "https://linkedin.com/company/miravoice",
+      "founder_name": "profile angels including Ramp",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/MiravoiceAI"
+    },
     {
       "source": "Google Alerts",
       "title": "Gander Robotics Closes $1.1M Pre-Seed Round to Build Autonomous Search and Rescue Robots",
@@ -117,20 +131,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Moonbounce Raises $12M to Solve AI's Content Moderation Problem | Startup Fortune",
-      "article_url": "https://startupfortune.com/moonbounce-raises-12m-to-solve-ais-content-moderation-problem/",
-      "company": "Moonbounce",
-      "amount_str": "$12M",
-      "pub_date": "2026-04-03T14:09:20Z",
-      "website": "https://www.getmoonbounce.com",
-      "linkedin_url": "https://linkedin.com/company/moonbounceio",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "Omaha-based Grapple raises $1 million to remove barriers to data analytics",
       "article_url": "https://siliconprairienews.com/2026/04/omaha-based-grapple-raises-1-million-to-remove-barriers-to-data-analytics/",
       "company": "Omaha-based Grapple",
@@ -139,20 +139,6 @@
       "website": "https://duck.ai",
       "linkedin_url": "",
       "founder_name": "Grapple founder and",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Anvil Robotics Secures $5.5M for Physical AI Hardware - N24",
-      "article_url": "https://n24.com.tr/en/technology/anvil-robotics-secures-55m-for-physical-ai-hardware",
-      "company": "San Francisco-based Anvil Robotics",
-      "amount_str": "$5.5 m",
-      "pub_date": "2026-04-03T13:48:55Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "Effective Hardware Solutions",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""

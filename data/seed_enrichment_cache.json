@@ -24884,5 +24884,59 @@
     "founder_linkedin_url": "https://linkedin.com/in/michael-autery",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-chanson-international-holding-investors-to-inquire-about-securities-class-action-investigation--chsn-302734175.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/it-investors-have-opportunity-to-lead-gartner-inc-securities-fraud-lawsuit-302734171.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-syla-technologies-co-ltd-investors-to-inquire-about-securities-class-action-investigation--syt-302734180.html": {
+    "valid": false
+  },
+  "https://bayelsawatch.com/miravoice-raises-6-3m/": {
+    "valid": true,
+    "company": "Miravoice",
+    "amount_str": "$6.3M",
+    "website": "https://www.miravoice.com",
+    "linkedin_url": "https://linkedin.com/company/miravoice",
+    "founder_name": "profile angels including Ramp",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/MiravoiceAI"
+  },
+  "https://www.bwdisrupt.com/article/garuda-aerospace-files-confidential-ipo-papers-to-raise-rs-1-000-cr-600776": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Small Businesses",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupresearcher.com/news/movements-raises-usd345-000-pre-seed-to-scale-citizen-activism": {
+    "valid": false
+  },
+  "https://startupfortune.com/ai-startups-are-winning-market-share-from-legacy-tech-firms/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://api.whatsapp.com/send",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/whatsapp"
+  },
+  "https://news.ventureintelligence.com/private-equity/autism-focused-health-tech-startup-gabify-raises-%24175-k-led-by-ipv": {
+    "valid": false
+  },
+  "https://www.startupecosystem.ca/news/amazon-ordered-to-negotiate-with-staten-island-warehouse-union/": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/04/03/dutch-startup-brilliance-raises-e6-million-to-tackle-ar-hardwares-key-bottleneck-with-rgb-laser-chip-technology/": {
+    "valid": false
   }
 }
