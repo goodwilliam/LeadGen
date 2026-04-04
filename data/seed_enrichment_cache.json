@@ -24673,5 +24673,101 @@
   },
   "https://ceoindiamagazine.com/startup-funding-in-india-guide/": {
     "valid": false
+  },
+  "https://siliconangle.com/2026/04/03/report-edge-ai-chip-startup-hailo-go-public-via-spac-merger/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/03/anthropic-reportedly-acquires-medical-ai-startup-coefficient-bio-400m/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/corcept-therapeutics-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-corcept-therapeutics-incorporated---cort-302734076.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/enphase-energy-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-enphase-energy-inc---enph-302734065.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/uniqure-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-uniqure-nv---qure-302734068.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/snow-investors-have-opportunity-to-lead-snowflake-inc-securities-fraud-lawsuit-302733943.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/data-breach-alert-edelson-lechtzin-llp-investigates-hims--hers-inc-data-breach-302734127.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/drvn-investor-alert-driven-brands-drvn-sued-following-accounting-errors-internal-control-failures--hagens-berman-302734082.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/slno-investor-alert-soleno-slno-sued-after-dccr-launch-setback-share-drop---hagens-berman-302734088.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/eose-investor-alert-eos-energy-eose-securities-class-action-alleges-misstatements-on-production-scale-guidance--hagens-berman-302734081.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/apollo-apo-faces-securities-class-action-over-alleged-misstatements-on-epstein-links--hagens-berman-302734079.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/navan-navn-facing-securities-class-action-over-ipo-disclosures-investors-face-april-24-deadline--hagens-berman-302734078.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/corcept-cort-class-action-alleges-misstatements-on-fda-data-concerns--hagens-berman-302734072.html": {
+    "valid": false
+  },
+  "https://www.hpcwire.com/2026/04/03/prismml-emerges-from-stealth-with-1-bit-llm-family/": {
+    "valid": false
+  },
+  "https://vator.tv/whoop-raises-575m-aif-closes-its-second-fund-for-autism-and-mental-health-startups-trump-levies-100-pharma-tarrif/": {
+    "valid": false
+  },
+  "https://fintechgate.net/2026/04/03/al-junaidi-real-estate-launches-flexible-payment-plan-for-altay-villas-in-sharjah-prices-starting-from-aed-2-85-million-with-monthly-plans-from-aed-7500-supporting-both-homeowners/": {
+    "valid": false
+  },
+  "https://www.startupecosystem.ca/news/stellantis-and-leapmotor-consider-building-evs-at-brampton-plant/": {
+    "valid": false
+  },
+  "https://startupfortune.com/anthropic-acquires-biotech-ai-startup-coefficient-bio-for-400m/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://api.whatsapp.com/send",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/whatsapp"
+  },
+  "https://digitallearning.eletsonline.com/2026/04/india-introduces-ai-curriculum-for-students-from-class-3-says-dharmendra-pradhan/": {
+    "valid": false
+  },
+  "https://www.techjuice.pk/pakistans-startups-have-a-159-billion-problem-here-is-why/": {
+    "valid": true,
+    "company": "Bangladesh",
+    "amount_str": "$37 m",
+    "website": "https://en.wikipedia.org",
+    "linkedin_url": "https://linkedin.com/company/who-bangladesh",
+    "founder_name": "more than the idea",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://digitallearning.eletsonline.com/2026/04/why-india-needs-a-new-education-to-employment-model-in-2026-and-why-karnataka-is-leading-the-shift/": {
+    "valid": false
+  },
+  "https://dailytrust.com/nile-university-of-nigeria-alumni-win-%E2%82%A650-million-federal-government-venture-capital-grant/": {
+    "valid": false
+  },
+  "https://www.prittleprattlenews.com/health/gabify-pre-seed-funding-ai-neurodevelopmental-care-india/": {
+    "valid": false
+  },
+  "https://n24.com.tr/en/technology/anvil-robotics-secures-55m-for-physical-ai-hardware": {
+    "valid": true,
+    "company": "San Francisco-based Anvil Robotics",
+    "amount_str": "$5.5 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Effective Hardware Solutions",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
