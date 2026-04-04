@@ -25263,5 +25263,153 @@
     "founder_linkedin_url": "",
     "contact_email": "hello@qweebi.com",
     "twitter_url": "https://x.com/qweebi"
+  },
+  "https://venturebeat.com/security/ocsf-explained-the-shared-data-language-security-teams-have-been-missing": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rare-deadline-rare-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-ultragenyx-pharmaceutical-inc-securities-fraud-lawsuit-302733834.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-zspace-inc-investors-to-inquire-about-securities-class-action-investigation--zspc-302734139.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-barclays-plc-investors-to-inquire-about-securities-class-action-investigation--bcs-302734048.html": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/sports/other/geno-auriemma-transfer-portal-revenue-sharing-led-to-death-of-mid-majors/ar-AA202sqj": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/sports/other/march-madness-will-expand-to-76-teams-reports-say/ar-AA206qWw": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/sports/other/texas-vs-ucla-final-score-result-bruins-blank-longhorns-to-advance-to-first-ncaa-title-game/ar-AA206PyG?gemSnapshotKey=GM2663B437-snapshot-1&uxmode=ruby&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/sports/other/where-is-kennesaw-state-located-explaining-city-and-more-to-know-about-owls-basketball-program/ar-AA1Z0GkG?uxmode=ruby": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/sports/other/has-arizona-ever-won-a-championship-in-basketball-history-of-wildcats-final-four-appearances/ar-AA2037co?gemSnapshotKey=GM7E41B2D0-snapshot-24&uxmode=ruby&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/health/other/elliot-cadeau-rejoins-wolverines-after-allergic-reaction/ar-AA201J6y?uxmode=ruby&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/sports/tennis/charleston-iva-jovic-ousts-no-8-seed-to-set-up-sf-showdown-with-jessica-pegula/ar-AA206FfU?uxmode=ruby": {
+    "valid": false
+  },
+  "http://www.msn.com/en-us/lifestyle/home-and-garden/is-it-too-soon-to-mow-your-lawn-3-signs-it-s-finally-ready/ar-AA200Kj7?ocid=FW79805&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": false
+  },
+  "http://www.msn.com/en-us/sports/nba/nba-fans-blaming-jj-redick-for-catastrophic-luka-doncic-injury/ar-AA205clR?cvid=69d05d5518ff4faea33d53e235129cd6&ocid=ob-fb-heil-600&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-us/news/technology/bumblebees-can-perceive-rhythm-despite-their-brains-being-the-size-of-a-sesame-seed/ar-AA204KCw?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/04/04/anthropic-expands-ai-strategy-with-political-push-biotech-acquisition-and-surging-market-demand/": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/southflorida/news/2026/04/04/contour-raises-millions-for-ai-powered-tech.html": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/04/04/chinese-robotics-startup-galaxea-ai-raises-290m-usd-in-series-b-funding-valued-at-29b-usd/": {
+    "valid": true,
+    "company": "Robotics Startup Galaxea AI",
+    "amount_str": "$290M",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://m.dailyhunt.in/news/india/english/startup+talky-epaper-stuptaky/ai+recruitment+startup+hirebound+raises+2+million+seed+round+led+by+kalaari+capital-newsid-n702100262": {
+    "valid": true,
+    "company": "Recruitment Startup HireBound",
+    "amount_str": "$2 M",
+    "website": "https://yourstory.com",
+    "linkedin_url": "https://linkedin.com/company/yourstory-com",
+    "founder_name": "Sharad Vij",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/YourStoryCo"
+  },
+  "https://www.startupresearcher.com/news/nuvidio-raises-usd1-1-million-to-expand-its-ai-anti-fraud-solution": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/founderstoday_omniscient-raises-35m-pre-seed-to-develop-activity-7446247542574698496-BWWO": {
+    "valid": false
+  },
+  "https://n24.com.tr/en/sectoral/hepsiburada-blutv-sold-top-turkish-exits-of-2021-2026": {
+    "valid": false
+  },
+  "https://m.dailyhunt.in/news/india/english/entrackr+english-epaper-entrackr/student+mobility+startup+zeromoblt+raises+preseed+round-newsid-n702138722": {
+    "valid": true,
+    "company": "Student mobility startup ZeroMoblt",
+    "amount_str": "",
+    "website": "https://entrackr.com",
+    "linkedin_url": "https://linkedin.com/company/entrackr",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/entrackr"
+  },
+  "https://pulse2.com/gander-robotics-1-1-million-raised-for-autonomous-maritime-rescue-systems/amp/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.ampproject.org",
+    "linkedin_url": "",
+    "founder_name": "we look for",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://mining.com.au/company/australian-government/page/3/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-us/health/other/saudi-healthtech-startup-nuxera-ai-raises-us-25-million-in-pre-seed-round/ar-AA1O7HGB?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": false
+  },
+  "https://editorialge.com/southeast-asia-startup-scene-guide/": {
+    "valid": false
+  },
+  "https://startupfortune.com/y-combinator-p25-startup-mbodi-ai-builds-robotics-team/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://api.whatsapp.com/send",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/whatsapp"
+  },
+  "https://www.financialexpress.com/business/start-ups/we-got-massively-outgunned-overnight-indian-startup-founder-shares-how-google-chatgpt-crushed-his-ai-startup/4195507/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }

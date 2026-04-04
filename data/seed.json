@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-04-04T16:30:27.357341Z",
-  "count": 22,
+  "generated_at": "2026-04-04T20:25:45.554496Z",
+  "count": 23,
   "enriched_count": 20,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Chinese Robotics Startup Galaxea AI Raises $290M USD in Series B+ Funding, Valued at ...",
+      "article_url": "https://theaiinsider.tech/2026/04/04/chinese-robotics-startup-galaxea-ai-raises-290m-usd-in-series-b-funding-valued-at-29b-usd/",
+      "company": "Robotics Startup Galaxea AI",
+      "amount_str": "$290M",
+      "pub_date": "2026-04-04T18:04:50Z",
+      "website": "",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Numos Closes Seed Round from General Catalyst to Build AI Finance Platform CFOs Can Trust",
@@ -33,6 +47,20 @@
     },
     {
       "source": "Google Alerts",
+      "title": "Student mobility startup ZeroMoblt raises pre-seed round - Dailyhunt",
+      "article_url": "https://m.dailyhunt.in/news/india/english/entrackr+english-epaper-entrackr/student+mobility+startup+zeromoblt+raises+preseed+round-newsid-n702138722",
+      "company": "Student mobility startup ZeroMoblt",
+      "amount_str": "",
+      "pub_date": "2026-04-04T13:38:02Z",
+      "website": "https://entrackr.com",
+      "linkedin_url": "https://linkedin.com/company/entrackr",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/entrackr"
+    },
+    {
+      "source": "Google Alerts",
       "title": "{Funding Alert} Uppercase Raises Rs 20 Cr from Existing Investors, Valuation Remains Flat",
       "article_url": "https://www.indianretailer.com/news/funding-alert-uppercase-raises-rs-20-cr-existing-investors-valuation-remains-flat",
       "company": "Palmonas",
@@ -44,6 +72,20 @@
       "founder_linkedin_url": "",
       "contact_email": "care@palmonas.com",
       "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "AI Recruitment Startup HireBound Raises $2 Million Seed Round Led by Kalaari Capital",
+      "article_url": "https://m.dailyhunt.in/news/india/english/startup+talky-epaper-stuptaky/ai+recruitment+startup+hirebound+raises+2+million+seed+round+led+by+kalaari+capital-newsid-n702100262",
+      "company": "Recruitment Startup HireBound",
+      "amount_str": "$2 M",
+      "pub_date": "2026-04-04T11:09:36Z",
+      "website": "https://yourstory.com",
+      "linkedin_url": "https://linkedin.com/company/yourstory-com",
+      "founder_name": "Sharad Vij",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/YourStoryCo"
     },
     {
       "source": "Google Alerts",
@@ -139,34 +181,6 @@
       "website": "https://duck.ai",
       "linkedin_url": "",
       "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "VerbaFlo Announces $7M in Funding to Expand AI Leasing and Communications Platform ...",
-      "article_url": "https://theaiinsider.tech/2026/04/03/verbaflo-announces-7m-in-funding-to-expand-ai-leasing-and-communications-platform-for-student-housing-and-multifamily-operators/",
-      "company": "VerbaFlo",
-      "amount_str": "$7M",
-      "pub_date": "2026-04-03T17:59:52Z",
-      "website": "https://www.verbaflo.ai",
-      "linkedin_url": "https://linkedin.com/company/verbaflo-ai",
-      "founder_name": "Sayantan Biswas",
-      "founder_linkedin_url": "https://linkedin.com/in/sayantan-biswas-",
-      "contact_email": "contact@verbaflo.ai",
-      "twitter_url": "https://x.com/VerbaFloAI"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Connectome: $2 Million Raised For Neurotech Platform To Track Brain Health Over Time",
-      "article_url": "https://pulse2.com/connectome-2-million-raised-for-neurotech-platform-to-track-brain-health-over-time/",
-      "company": "Connectome",
-      "amount_str": "$2 m",
-      "pub_date": "2026-04-03T16:39:33Z",
-      "website": "https://connectome.health",
-      "linkedin_url": "https://linkedin.com/company/connectome-health",
-      "founder_name": "Lucas Scherdel",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
