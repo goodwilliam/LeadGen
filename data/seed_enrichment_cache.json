@@ -24769,5 +24769,120 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://venturebeat.com/technology/anthropic-cuts-off-the-ability-to-use-claude-subscriptions-with-openclaw-and": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/atra-investors-have-opportunity-to-lead-atara-biotherapeutics-inc-securities-fraud-lawsuit-302734179.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/door-deadline-door-investors-have-opportunity-to-lead-masonite-international-corporation-securities-fraud-lawsuit-302734170.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-notice-immunitybio-inc-ibrx-investors-with-substantial-losses-have-opportunity-to-lead-the-immunitybio-class-action-lawsuit-302733992.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-deadline-eos-energy-enterprises-inc-eose-investors-with-substantial-losses-have-opportunity-to-lead-investor-class-action-lawsuit-302734004.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-notice-robbins-geller-rudman--dowd-llp-announces-that-super-micro-computer-inc-smci-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit-302734025.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/ibrx-investor-alert-immunitybio-ibrx-sued-after-fda-flags-misleading-cancer-claims-shares-plunge-21-2b-market-cap-lost----hagens-berman-302734104.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/coty-investor-alert-coty-inc-coty-sued-after-surprise-profit-decline-ceo-exit-and-withdrawn-2026-guidance----hagens-berman-302734112.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/hercules-capital-htgc-under-fire-class-action-filed-after-allegations-of-copying-google-ventures-misstated-marks-and-pik-loans----hagens-berman-302734101.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/gemi-investor-alert-gemini-gemi-post-ipo-meltdown-sparks-securities-class-action-as-investors-seek-recovery--hagens-berman-302734102.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/odd-investor-alert-oddity-tech-odd-sued-after-shares-plunge-49-on-ai-platform-disruption-and-revenue-decline----hagens-berman-302734099.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/tcom-investor-alert-tripcom-tcom-facing-class-action-after-ai-pricing-controversy-and-anti-monopoly-probe-sends-shares-tumbling----hagens-berman-302734097.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/fortinet-investigation-initiated-kahn-swick--foti-llc-investigates-the-officers-and-directors-of-fortinet-inc---ftnt-302734098.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/immunitybio-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-immunitybio-inc---ibrx-302734094.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/super-micro-computer-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-super-micro-computer-inc---smci-302734090.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/gemini-space-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-gemini-space-station-inc---gemi-302734092.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/driven-brands-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-driven-brands-holdings-inc---drvn-302734086.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/tripcom-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-tripcom-group-limited---tcom-302734084.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/kyndryl-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuits-against-kyndryl-holdings-inc---kd-302734083.html": {
+    "valid": false
+  },
+  "https://www.chaincatcher.com/en/article/2256684": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://github.com/ChainCatcherOfficial",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ChainCatcher_"
+  },
+  "https://coinmarketcap.com/academy/article/prediction-markets-news-competition-intensifies-amid-surging-volumes-regulatory-wins": {
+    "valid": true,
+    "company": "Competition Intensifies Amid Surging Volumes, Regulatory",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techbuild.africa/kulipa-stablecoin-infrastructure-africa-markets/": {
+    "valid": true,
+    "company": "Kulipa",
+    "amount_str": "$6.2M",
+    "website": "https://www.kulipa.xyz",
+    "linkedin_url": "https://linkedin.com/company/kulipa-inc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/KulipaXYZ"
+  },
+  "https://venturecapital.com/headlines/funding-events/subq-bionics-secures-15-million-preseed-funding-for-lymphedema-care-solutions-v1": {
+    "valid": true,
+    "company": "Sub-Q Bionics",
+    "amount_str": "$1.5 M",
+    "website": "https://subqbionics.com",
+    "linkedin_url": "https://linkedin.com/company/sub-q-bionics",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/orenmeetsworld/status/2040151402534850930": {
+    "valid": false
+  },
+  "https://www.savannahnow.com/press-release/story/50698/gander-robotics-closes-1-1m-pre-seed-round-to-build-autonomous-search-and-rescue-robots/": {
+    "valid": true,
+    "company": "Gander Robotics",
+    "amount_str": "$1.1M",
+    "website": "https://ganderrobotics.com",
+    "linkedin_url": "https://linkedin.com/company/ganderrobotics",
+    "founder_name": "Michael Autery",
+    "founder_linkedin_url": "https://linkedin.com/in/michael-autery",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }

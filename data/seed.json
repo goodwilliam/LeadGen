@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-04-04T01:25:10.633114Z",
-  "count": 22,
-  "enriched_count": 18,
+  "generated_at": "2026-04-04T05:20:35.954855Z",
+  "count": 23,
+  "enriched_count": 19,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Gander Robotics Closes $1.1M Pre-Seed Round to Build Autonomous Search and Rescue Robots",
+      "article_url": "https://www.savannahnow.com/press-release/story/50698/gander-robotics-closes-1-1m-pre-seed-round-to-build-autonomous-search-and-rescue-robots/",
+      "company": "Gander Robotics",
+      "amount_str": "$1.1M",
+      "pub_date": "2026-04-03T22:56:26Z",
+      "website": "https://ganderrobotics.com",
+      "linkedin_url": "https://linkedin.com/company/ganderrobotics",
+      "founder_name": "Michael Autery",
+      "founder_linkedin_url": "https://linkedin.com/in/michael-autery",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Sub-Q Bionics Secures $1.5 Million Pre-Seed Funding for Lymphedema Care Solutions",
+      "article_url": "https://venturecapital.com/headlines/funding-events/subq-bionics-secures-15-million-preseed-funding-for-lymphedema-care-solutions-v1",
+      "company": "Sub-Q Bionics",
+      "amount_str": "$1.5 M",
+      "pub_date": "2026-04-03T22:17:06Z",
+      "website": "https://subqbionics.com",
+      "linkedin_url": "https://linkedin.com/company/sub-q-bionics",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Pakistan's Startups Have a $159 Billion Problem. Here Is Why. - TechJuice",
@@ -13,6 +41,20 @@
       "website": "https://en.wikipedia.org",
       "linkedin_url": "https://linkedin.com/company/who-bangladesh",
       "founder_name": "more than the idea",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Prediction Markets News: Competition Intensifies Amid Surging Volumes, Regulatory Wins",
+      "article_url": "https://coinmarketcap.com/academy/article/prediction-markets-news-competition-intensifies-amid-surging-volumes-regulatory-wins",
+      "company": "Competition Intensifies Amid Surging Volumes, Regulatory",
+      "amount_str": "",
+      "pub_date": "2026-04-03T18:48:48Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
@@ -33,20 +75,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Prediction Markets News: Competition Intensifies Amid Surging Volumes, Regulatory Wins",
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/prediction-markets-news-competition-intensifies-171758183.html",
-      "company": "Competition Intensifies Amid Surging Volumes, Regulatory",
-      "amount_str": "",
-      "pub_date": "2026-04-03T17:54:58Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "Connectome: $2 Million Raised For Neurotech Platform To Track Brain Health Over Time",
       "article_url": "https://pulse2.com/connectome-2-million-raised-for-neurotech-platform-to-track-brain-health-over-time/",
       "company": "Connectome",
@@ -58,6 +86,20 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Kulipa Bags $6.2M To Strengthen Stablecoin Infrastructure In Africa And Other Key Markets",
+      "article_url": "https://techbuild.africa/kulipa-stablecoin-infrastructure-africa-markets/",
+      "company": "Kulipa",
+      "amount_str": "$6.2M",
+      "pub_date": "2026-04-03T14:43:28Z",
+      "website": "https://www.kulipa.xyz",
+      "linkedin_url": "https://linkedin.com/company/kulipa-inc",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/KulipaXYZ"
     },
     {
       "source": "Google Alerts",
@@ -117,20 +159,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Gander Robotics Secures $1.1M for Sea Rescue Tech - N24",
-      "article_url": "https://n24.com.tr/en/technology/gander-robotics-secures-11m-for-sea-rescue-tech",
-      "company": "Gander Robotics",
-      "amount_str": "$1.1M",
-      "pub_date": "2026-04-03T13:48:54Z",
-      "website": "https://ganderrobotics.com",
-      "linkedin_url": "https://linkedin.com/company/ganderrobotics",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "Peak XV Backs AI Insurance Startup Rosella's Expansion into the US Market",
       "article_url": "https://www.cxodigitalpulse.com/peak-xv-backs-ai-insurance-startup-rosellas-expansion-into-the-us-market/",
       "company": "Rosella recently",
@@ -170,20 +198,6 @@
       "founder_linkedin_url": "",
       "contact_email": "contact@cavilinq.com",
       "twitter_url": "https://x.com/suricate"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Gabify raises $175K to scale AI-driven neurodevelopmental care in India",
-      "article_url": "https://www.digitalhealthnews.com/gabify-raises-175k-to-scale-ai-driven-neurodevelopmental-care-in-india-",
-      "company": "Gabify",
-      "amount_str": "$175K",
-      "pub_date": "2026-04-03T11:57:30Z",
-      "website": "https://www.gabify.life",
-      "linkedin_url": "https://linkedin.com/company/gabify-life",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "tech.eu",
