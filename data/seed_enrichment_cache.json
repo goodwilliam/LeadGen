@@ -25411,5 +25411,136 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "old founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/tcpc-deadline-tcpc-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-blackrock-tcp-capital-corp-securities-fraud-lawsuit-302733973.html": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/grishinrobotics_numos-just-raised-425m-in-seed-funding-activity-7446313200616349696-D8uK": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-us/sports/other/south-carolina-defeats-uconn-in-final-four-upset/vi-AA208Mh2?ocid=Peregrine": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/lifestyle/home-and-garden/avoid-this-raised-bed-mistake-that-can-cause-stunted-crops-in-your-garden/ar-AA2081Gq?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/sports/other/where-unc-must-turn-to-save-this-coaching-search-after-getting-spurned-by-tommy-lloyd/ar-AA205qCf?cvid=69d0465e703e46b88944bf5b7b5e976e&ocid=m402lp%E2%80%8B&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": false
+  },
+  "https://www.arabnews.pk/node/2638778/business-economy": {
+    "valid": true,
+    "company": "US-based healthtech company WHOOP",
+    "amount_str": "$575 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://echopointglobal.com/startup-news/europe/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://smbtech.au/news/sydney-founded-rosella-raises-3-7-million-to-build-ai-native-commercial-insurance-brokerage/": {
+    "valid": true,
+    "company": "Rosella",
+    "amount_str": "$3.7 m",
+    "website": "https://byrosella.com",
+    "linkedin_url": "https://linkedin.com/company/rosellabrokerage",
+    "founder_name": "Sean Stuart",
+    "founder_linkedin_url": "https://linkedin.com/in/sean-stuart-507208141",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://pulse2.com/soma-energy-7-million-raised-to-accelerate-ai-data-center-power-capacity/amp/": {
+    "valid": false
+  },
+  "https://startupfortune.com/meta-and-block-are-killing-the-middle-manager-ai-is-the-new-boss/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://api.whatsapp.com/send",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/whatsapp"
+  },
+  "https://startupfortune.com/gold-and-the-iran-war-why-a-market-that-thrives-on-fear-is-struggling-in-an-actual-war/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://api.whatsapp.com/send",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/whatsapp"
+  },
+  "https://inforcapital.com/news/nightify-raises-500k-in-seed-funding/": {
+    "valid": true,
+    "company": "Nightify",
+    "amount_str": "",
+    "website": "https://business.nightify.co",
+    "linkedin_url": "https://linkedin.com/company/nightify",
+    "founder_name": "who serves as",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.dinamalar.com/amp/news/kalvimalar-news-en/iit-ism-dhanbad-to-host-2-day-rd-fair-from-apr-6/59414": {
+    "valid": false
+  },
+  "https://startupfortune.com/sllm-wants-to-split-your-gpu-costs-with-a-cohort-sharing-model/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://api.whatsapp.com/send",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/whatsapp"
+  },
+  "https://x.com/CeoVine/status/2040339644085354694": {
+    "valid": false
+  },
+  "https://thefoundersspace.com/2026/04/03/startup-funding-news-seed-vc-strategies/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "and evolving market conditions",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
