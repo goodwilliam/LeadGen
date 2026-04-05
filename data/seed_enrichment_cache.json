@@ -25542,5 +25542,41 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.lapressedevesoul.com/actualite-56856-un-courageux-client-pourchasse-un-cambrioleur.html?live-news-1707761-2026-04-01-the-startup-is-developing-ai-powered-rf-satellites-that-transform-radio-frequenc": {
+    "valid": true,
+    "company": "Xovian Aerospace",
+    "amount_str": "$2M",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/xovianaero",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/cole-harris-0a19893aa_im-launching-a-1000000-pre-seed-funding-activity-7446342786817241088-HtMp": {
+    "valid": false
+  },
+  "https://convertix.io/blog/braingrid-raises-1m-pre-seed-funding-expand-ai-product-planning-offerings/": {
+    "valid": true,
+    "company": "BrainGrid",
+    "amount_str": "$1M",
+    "website": "https://brainstorm.vc",
+    "linkedin_url": "https://linkedin.com/company/brainstormventures",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/BrainstormVC"
+  },
+  "https://deh-africa.org/To-Raise-2M-In-Pre-Seed-Funding-For-AI-TTS-233088/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }

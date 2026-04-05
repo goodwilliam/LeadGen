@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-05T01:48:17.592211Z",
-  "count": 24,
-  "enriched_count": 21,
+  "generated_at": "2026-04-05T05:42:51.853957Z",
+  "count": 22,
+  "enriched_count": 20,
   "articles": [
     {
       "source": "Google Alerts",
@@ -16,6 +16,20 @@
       "founder_linkedin_url": "https://linkedin.com/in/sean-stuart-507208141",
       "contact_email": "",
       "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "BrainGrid raises $1M pre-seed funding to expand AI product planning offerings - Convertix",
+      "article_url": "https://convertix.io/blog/braingrid-raises-1m-pre-seed-funding-expand-ai-product-planning-offerings/",
+      "company": "BrainGrid",
+      "amount_str": "$1M",
+      "pub_date": "2026-04-04T23:36:24Z",
+      "website": "https://brainstorm.vc",
+      "linkedin_url": "https://linkedin.com/company/brainstormventures",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/BrainstormVC"
     },
     {
       "source": "Google Alerts",
@@ -159,20 +173,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Sub-Q Bionics Secures $1.5 Million Pre-Seed Funding for Lymphedema Care Solutions",
-      "article_url": "https://venturecapital.com/headlines/funding-events/subq-bionics-secures-15-million-preseed-funding-for-lymphedema-care-solutions-v1",
-      "company": "Sub-Q Bionics",
-      "amount_str": "$1.5 M",
-      "pub_date": "2026-04-03T22:17:06Z",
-      "website": "https://subqbionics.com",
-      "linkedin_url": "https://linkedin.com/company/sub-q-bionics",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "Octostar closes Seed+ Round at \u20ac6.1M as Demand for Sovereign Defence and Intelligence ...",
       "article_url": "https://www.ydr.com/press-release/story/47919/octostar-closes-seed-round-at-e6-1m-as-demand-for-sovereign-defence-and-intelligence-platforms-accelerates/",
       "company": "Octostar",
@@ -184,34 +184,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Prediction Markets News: Competition Intensifies Amid Surging Volumes, Regulatory Wins",
-      "article_url": "https://coinmarketcap.com/academy/article/prediction-markets-news-competition-intensifies-amid-surging-volumes-regulatory-wins",
-      "company": "Competition Intensifies Amid Surging Volumes, Regulatory",
-      "amount_str": "",
-      "pub_date": "2026-04-03T18:48:48Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Kulipa Bags $6.2M To Strengthen Stablecoin Infrastructure In Africa And Other Key Markets",
-      "article_url": "https://techbuild.africa/kulipa-stablecoin-infrastructure-africa-markets/",
-      "company": "Kulipa",
-      "amount_str": "$6.2M",
-      "pub_date": "2026-04-03T14:43:28Z",
-      "website": "https://www.kulipa.xyz",
-      "linkedin_url": "https://linkedin.com/company/kulipa-inc",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/KulipaXYZ"
     },
     {
       "source": "tech.eu",
