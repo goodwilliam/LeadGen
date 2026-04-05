@@ -25765,5 +25765,93 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/tcom-investors-have-opportunity-to-lead-tripcom-group-limited-securities-fraud-lawsuit-first-filed-by-the-rosen-law-firm-302733972.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/picard-medical-inc-investors-have-opportunity-to-lead-picard-medical-inc-securities-fraud-lawsuit-302734114.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/kyndryl-kd-faces-class-action-alleging-reported-free-cash-flow-metrics-concealed-true-financial-condition-prior-to-55-stock-collapse-investors-see-april-13-deadline--hagens-berman-302734293.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/qure-investor-notice-hagens-berman-updates-uniqure-qure-probe-after-fda-criticism-lawsuit-filed-april-13-deadline-nears-302734292.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-dnow-inc-investors-to-inquire-about-securities-class-action-investigation--dnow-302733934.html": {
+    "valid": false
+  },
+  "https://letsdatascience.com/news/numos-raises-425m-seed-to-scale-finance-ai-54250ea1": {
+    "valid": false
+  },
+  "https://www.aol.com/finance/startup-looking-solve-health-care-112825430.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://s.yimg.com/oa/consent.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.crowdfundinsider.com/tag/intact-private-capital/": {
+    "valid": false
+  },
+  "https://www.crowdfundinsider.com/2026/04/271197-peak-xv-intact-back-rosella-in-a3-7m-pre-seed-for-ai-insurance-platform/": {
+    "valid": false
+  },
+  "https://editorialge.com/startup-funding-in-emerging-markets/": {
+    "valid": false
+  },
+  "https://timesofindia.indiatimes.com/technology/tech-news/xovian-aerospace-secures-2-million-strategic-investment/amp_articleshow/130043305.cms": {
+    "valid": true,
+    "company": "Xovian Aerospace",
+    "amount_str": "$2 m",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/xovianaero",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://timesofindia.indiatimes.com/technology/tech-news/xovian-aerospace-secures-2-million-strategic-investment/articleshow/130043305.cms": {
+    "valid": true,
+    "company": "Xovian Aerospace",
+    "amount_str": "$2 m",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/xovianaero",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/generare-raises-e20m-in-series-a-funding.html": {
+    "valid": false
+  },
+  "https://go-legal.ai/pre-seed-vs-seed-round-legal-differences-for-uk-startups/": {
+    "valid": false
+  },
+  "https://www.ciol.com/funding-acquistion-merger/gabify-raises-175000-to-build-ai-tools-for-early-diagnosis-11454224": {
+    "valid": true,
+    "company": "Gabify",
+    "amount_str": "",
+    "website": "https://www.gabify.life",
+    "linkedin_url": "https://linkedin.com/company/gabify-life",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bitget.com/amp/news/detail/12560605338115": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }

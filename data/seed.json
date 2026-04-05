@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-05T16:30:08.866726Z",
-  "count": 21,
-  "enriched_count": 19,
+  "generated_at": "2026-04-05T20:25:06.860939Z",
+  "count": 18,
+  "enriched_count": 17,
   "articles": [
     {
       "source": "Google Alerts",
@@ -89,20 +89,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "BrainGrid raises $1M pre-seed funding to expand AI product planning offerings - Convertix",
-      "article_url": "https://convertix.io/blog/braingrid-raises-1m-pre-seed-funding-expand-ai-product-planning-offerings/",
-      "company": "BrainGrid",
-      "amount_str": "$1M",
-      "pub_date": "2026-04-04T23:36:24Z",
-      "website": "https://brainstorm.vc",
-      "linkedin_url": "https://linkedin.com/company/brainstormventures",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/BrainstormVC"
-    },
-    {
-      "source": "Google Alerts",
       "title": "Startups secure fresh funding as regional momentum builds - Arab News PK",
       "article_url": "https://www.arabnews.pk/node/2638778/business-economy",
       "company": "US-based healthtech company WHOOP",
@@ -131,45 +117,17 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Chinese Robotics Startup Galaxea AI Raises $290M USD in Series B+ Funding, Valued at ...",
-      "article_url": "https://theaiinsider.tech/2026/04/04/chinese-robotics-startup-galaxea-ai-raises-290m-usd-in-series-b-funding-valued-at-29b-usd/",
-      "company": "Robotics Startup Galaxea AI",
-      "amount_str": "$290M",
-      "pub_date": "2026-04-04T18:04:50Z",
+      "title": "Xovian Aerospace Secures $2M to Accelerate AI-Powered RF Satellite Intelligence Platform",
+      "article_url": "https://www.lapressedevesoul.com/actualite-56856-un-courageux-client-pourchasse-un-cambrioleur.html?live-news-1707761-2026-04-01-the-startup-is-developing-ai-powered-rf-satellites-that-transform-radio-frequenc",
+      "company": "Xovian Aerospace",
+      "amount_str": "$2M",
+      "pub_date": "2026-04-04T16:02:16Z",
       "website": "",
-      "linkedin_url": "",
+      "linkedin_url": "https://linkedin.com/company/xovianaero",
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Student mobility startup ZeroMoblt raises pre-seed round - Dailyhunt",
-      "article_url": "https://m.dailyhunt.in/news/india/english/entrackr+english-epaper-entrackr/student+mobility+startup+zeromoblt+raises+preseed+round-newsid-n702138722",
-      "company": "Student mobility startup ZeroMoblt",
-      "amount_str": "",
-      "pub_date": "2026-04-04T13:38:02Z",
-      "website": "https://entrackr.com",
-      "linkedin_url": "https://linkedin.com/company/entrackr",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/entrackr"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "AI Recruitment Startup HireBound Raises $2 Million Seed Round Led by Kalaari Capital",
-      "article_url": "https://m.dailyhunt.in/news/india/english/startup+talky-epaper-stuptaky/ai+recruitment+startup+hirebound+raises+2+million+seed+round+led+by+kalaari+capital-newsid-n702100262",
-      "company": "Recruitment Startup HireBound",
-      "amount_str": "$2 M",
-      "pub_date": "2026-04-04T11:09:36Z",
-      "website": "https://yourstory.com",
-      "linkedin_url": "https://linkedin.com/company/yourstory-com",
-      "founder_name": "Sharad Vij",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/YourStoryCo"
     },
     {
       "source": "tech.eu",
