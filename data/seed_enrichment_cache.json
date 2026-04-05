@@ -25578,5 +25578,58 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.whalesbook.com/news/Hinglish/healthcarebiotech/Indias-Age-Tech-Boom-Startups-Face-Trust-Affordability-Hurdles/69d1d2e469ec081354e89133": {
+    "valid": false
+  },
+  "https://www.whalesbook.com/news/English/healthcarebiotech/Indias-Age-Tech-Boom-Startups-Face-Trust-Affordability-Hurdles/69d1d2e469ec081354e89133": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://images.whalesbook.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupfortune.com/andrej-karpathy-unveils-llm-wiki-a-living-archive-for-ai-ideas/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://api.whatsapp.com/send",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/whatsapp"
+  },
+  "https://m.economictimes.com/tech/artificial-intelligence/what-is-project-maven-pentagons-flagship-ai-program-powering-us-strikes-on-iran/amp_articleshow/130033752.cms": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.ampproject.org",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.beenews.com/amherst_bee/news/six-finalists-to-compete-for-75k-in-startup-funding-at-ub-entrepreneurship-competition/article_9ec20361-4b3d-4975-a043-34b50bd05ad9.html": {
+    "valid": false
+  },
+  "https://ideasai.com/idea/a-tool-to-help-startups-with-the-cost-of-raising-seed-fundin-15311": {
+    "valid": false
+  },
+  "https://startupfortune.com/why-monthly-job-numbers-will-keep-swinging-between-gains-and-losses/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://api.whatsapp.com/send",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/whatsapp"
   }
 }

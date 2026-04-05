@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-05T05:42:51.853957Z",
-  "count": 22,
-  "enriched_count": 20,
+  "generated_at": "2026-04-05T08:35:49.805148Z",
+  "count": 21,
+  "enriched_count": 19,
   "articles": [
     {
       "source": "Google Alerts",
@@ -156,20 +156,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Miravoice Raises $6.3M to Deploy AI Voice Agents - Bayelsa Watch",
-      "article_url": "https://bayelsawatch.com/miravoice-raises-6-3m/",
-      "company": "Miravoice",
-      "amount_str": "$6.3M",
-      "pub_date": "2026-04-04T07:04:58Z",
-      "website": "https://www.miravoice.com",
-      "linkedin_url": "https://linkedin.com/company/miravoice",
-      "founder_name": "profile angels including Ramp",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/MiravoiceAI"
     },
     {
       "source": "Google Alerts",
