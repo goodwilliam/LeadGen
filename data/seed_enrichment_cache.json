@@ -25634,5 +25634,136 @@
   },
   "https://www.fundingspotter.com/news/sports-balls-distribution-pre-seed-round": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-trubridge-inc-investors-to-inquire-about-securities-class-action-investigation--tbrg-302734105.html": {
+    "valid": false
+  },
+  "https://www.arabianbusiness.com/abnews/startups-across-the-gulf-continue-to-secure-fresh-funding-despite-the-ongoing-conflict-in-the-region": {
+    "valid": false
+  },
+  "https://thenextweb.com/news/europes-top-funding-rounds-30-march-5-april": {
+    "valid": true,
+    "company": "Mistral AI",
+    "amount_str": "$830 m",
+    "website": "https://mistral.ai",
+    "linkedin_url": "https://linkedin.com/company/mistralai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "press@mistral.ai",
+    "twitter_url": "https://x.com/mistralai"
+  },
+  "https://www.msn.com/en-us/news/insight/barron-trump-launches-1m-yerba-mate-venture/gm-5C6664B8E6?gemSnapshotKey=5C6664B8E6-snapshot-0&ocid=wispr": {
+    "valid": false
+  },
+  "https://fashionbypassion.com/phoebe-gates-and-sophia-kianni-secure-8-million-seed-round-for-phia-as-fashion-tech-startup-reaches-500000-users/": {
+    "valid": true,
+    "company": "Phoebe Gates and Sophia Kianni",
+    "amount_str": "",
+    "website": "https://time.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "feedback@time.com",
+    "twitter_url": "https://x.com/time"
+  },
+  "https://www.binance.com/en/square/post/308929415706385": {
+    "valid": false
+  },
+  "https://www.tekedia.com/pixie-chess-launches-on-base-following-5-2m-seed-round-from-paradigm/": {
+    "valid": false
+  },
+  "https://www.aibusinessreview.org/2026/04/05/spotwise-ai-pre-seed-funding-european-expansion/": {
+    "valid": true,
+    "company": "Spotwise AI",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "https://linkedin.com/company/spotwise-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/grishinrobotics_soma-energy-has-raised-7m-in-seed-and-pre-seed-activity-7446532517307953152-OfY7": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fortune.com/2026/04/05/logan-brown-soxton-founder-2-5-million-ai-powered-law-firm-started-da-office-12-years-old/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cookielaw.org/consent/906dc33b-1fc3-4b2c-a324-8bc0b7db9050/OtAutoBlock.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupsquare.co.in/gabify-funding-healthtech-startup/": {
+    "valid": true,
+    "company": "Gabify",
+    "amount_str": "$175K",
+    "website": "https://www.gabify.life",
+    "linkedin_url": "https://linkedin.com/company/gabify-life",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.reddit.com/r/AngelInvesting/comments/1scznen/seeking_angel_investor_for_preseed_round_in/": {
+    "valid": false
+  },
+  "https://parsers.vc/startup/anmasa.com/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.analyticsinsight.net/amp/story/news/startup-news-today-healthtech-firm-gabify-secures-175000-for-ai-diagnosis-tools": {
+    "valid": false
+  },
+  "https://startupfortune.com/the-pushback-against-always-on-ai-glasses-has-begun/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://api.whatsapp.com/send",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/whatsapp"
+  },
+  "https://startupfortune.com/mistral-leads-a-week-of-european-infrastructure-plays/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://api.whatsapp.com/send",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/whatsapp"
+  },
+  "https://technotrenz.com/news/verse8-secures-5m/": {
+    "valid": true,
+    "company": "Verse8",
+    "amount_str": "$5M",
+    "website": "https://preview.verse8.io",
+    "linkedin_url": "https://linkedin.com/company/verse-eight",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
