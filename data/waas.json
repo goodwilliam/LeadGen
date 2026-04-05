@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T01:26:20Z",
+  "generated_at": "2026-04-05T06:54:51Z",
   "count": 23,
   "jobs": [
     {
@@ -13,7 +13,7 @@
       "companyBatch": "W26",
       "companyOneLiner": "Multimodal data provider for robotics and world modeling",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/ce063ef00a3ec0da3649fb79a819c0e6c1e88ebf.png",
-      "companyLastActiveAt": "10 days ago",
+      "companyLastActiveAt": "11 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92095&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=31205"
     },
     {
@@ -87,20 +87,6 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D90485&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29989"
     },
     {
-      "id": 92507,
-      "title": "Product Designer",
-      "jobType": "fulltime",
-      "location": "Bangalore",
-      "roleType": "Web design",
-      "companyName": "Emergent",
-      "companySlug": "emergent",
-      "companyBatch": "S24",
-      "companyOneLiner": "AI app builder that turns your ideas into monetizable software.",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/86f3eae4a9616e976acbe6b16031d057f3c2fbc8.png",
-      "companyLastActiveAt": null,
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92507&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29765"
-    },
-    {
       "id": 92626,
       "title": "Product Designer",
       "jobType": "fulltime",
@@ -113,6 +99,20 @@
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/86f3eae4a9616e976acbe6b16031d057f3c2fbc8.png",
       "companyLastActiveAt": null,
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92626&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29765"
+    },
+    {
+      "id": 92507,
+      "title": "Product Designer",
+      "jobType": "fulltime",
+      "location": "Bangalore",
+      "roleType": "Web design",
+      "companyName": "Emergent",
+      "companySlug": "emergent",
+      "companyBatch": "S24",
+      "companyOneLiner": "AI app builder that turns your ideas into monetizable software.",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/86f3eae4a9616e976acbe6b16031d057f3c2fbc8.png",
+      "companyLastActiveAt": null,
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92507&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29765"
     },
     {
       "id": 78058,
@@ -265,8 +265,22 @@
       "companyBatch": "S23",
       "companyOneLiner": "AI-Native CPQ & Billing for Modern Pricing Models",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/2e2a3ced5969028060bbaaf152193b5b6a2b3982.png",
-      "companyLastActiveAt": "24 days ago",
+      "companyLastActiveAt": "25 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D88819&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28844"
+    },
+    {
+      "id": 89229,
+      "title": "Motion Designer",
+      "jobType": "fulltime",
+      "location": "London, England, GB / New York, NY, US",
+      "roleType": "Animation",
+      "companyName": "Solve Intelligence",
+      "companySlug": "solve-intelligence",
+      "companyBatch": "S23",
+      "companyOneLiner": "AI patent drafting, prosecution, harvesting and more for legal teams.",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/cdb4c71ccbddd0ad292fc773c3cfb169d2a4a5ba.png",
+      "companyLastActiveAt": "11 days ago",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89229&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28825"
     },
     {
       "id": 77217,
@@ -281,20 +295,6 @@
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/cdb4c71ccbddd0ad292fc773c3cfb169d2a4a5ba.png",
       "companyLastActiveAt": "3 months ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D77217&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28825"
-    },
-    {
-      "id": 89229,
-      "title": "Motion Designer",
-      "jobType": "fulltime",
-      "location": "London, England, GB / New York, NY, US",
-      "roleType": "Animation",
-      "companyName": "Solve Intelligence",
-      "companySlug": "solve-intelligence",
-      "companyBatch": "S23",
-      "companyOneLiner": "AI patent drafting, prosecution, harvesting and more for legal teams.",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/cdb4c71ccbddd0ad292fc773c3cfb169d2a4a5ba.png",
-      "companyLastActiveAt": "10 days ago",
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89229&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28825"
     },
     {
       "id": 92532,
