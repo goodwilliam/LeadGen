@@ -26638,5 +26638,202 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/04/06/tesla-actually-smart-summon-nhtsa-investigation-smart-parking/": {
+    "valid": false
+  },
+  "https://venturebeat.com/orchestration/how-massmutual-and-mass-general-brigham-turned-ai-pilot-sprawl-into": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/06/satellite-data-startup-xoople-closes-130m-investment/": {
+    "valid": true,
+    "company": "Satellite data startup Xoople",
+    "amount_str": "$130M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/universal-health-services-inc-announces-date-for-first-quarter-2026-earnings-release-and-conference-call-302734835.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/ziegler-closes-101-745-000-financing-for-odd-fellows-home-of-california-ca-302734780.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/matisse-capitals-mdcex-wins-2026-lseg-lipper-fund-award-302734960.html": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/boston/news/2026/04/06/quantum-startup-launches-backing-quera-cofounder.html": {
+    "valid": true,
+    "company": "CavilinQ",
+    "amount_str": "$8.8M",
+    "website": "https://www.cavilinq.com",
+    "linkedin_url": "https://linkedin.com/company/cavilinq",
+    "founder_name": "are the",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@cavilinq.com",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://www.hpcwire.com/aiwire/2026/04/06/prismml-emerges-from-stealth-with-1-bit-llm-family/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://launchbaseafrica.com/2026/04/06/optasias-growth-is-coming-from-where-few-investors-are-looking/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://launchbaseafrica.gumroad.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thedefender.media/en/2026/04/grants-eic/": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/04/06/irelands-octostar-closes-seed-extension-round-at-e6-1-million-for-its-sovereign-ai-native-intelligence-platform/": {
+    "valid": true,
+    "company": "Ireland's Octostar",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Product Officer of Octostar",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://m.dailyhunt.in/news/india/english/entrackr+english-epaper-entrackr/spacetech+startup+satleo+labs+raises+22+mn+in+seed+round-newsid-n707386233": {
+    "valid": true,
+    "company": "Spacetech startup SatLeo Labs",
+    "amount_str": "$2.2 M",
+    "website": "https://iimaventures.com",
+    "linkedin_url": "https://linkedin.com/company/ciieindia",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/IIMAVentures"
+  },
+  "https://vctavern.com/helio-ai-raises-1-million-seed-to-scale-ai-powered-recruiting-platform-for-frontline-hiring/": {
+    "valid": true,
+    "company": "Helio AI",
+    "amount_str": "$1 M",
+    "website": "https://app.helioai.tech",
+    "linkedin_url": "https://linkedin.com/company/helioai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://launchbaseafrica.com/2026/04/06/moroccos-hanout-wars-three-startups-10m-and-one-corner-shop/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://launchbaseafrica.gumroad.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thestreet.com/crypto/innovation/the-missing-infrastructure-layer-for-enterprises-": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DWy61tIEcnQ/": {
+    "valid": true,
+    "company": "Pickmybrain",
+    "amount_str": "$2.1 m",
+    "website": "https://pickmybrain.com",
+    "linkedin_url": "https://linkedin.com/company/pickmybrain-com",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/theceo.in/posts/healthtech-startup-gabify-has-raised-175000-in-a-pre-seed-round-led-by-inflectio/1401769238645296/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Magazine\n\nURL Source",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.joyceshen.com/joyce-shens-picks-musings-and-readings-in-ai-ml-april-6-2026/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://futurism.com/artificial-intelligence/hospital-ceo-ai-radiology",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/pulse/stealth-israeli-quantum-startup-q-factor-emerges-24-9zu8f": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://finovate.com/fintech-rundown-a-rapid-review-of-weekly-news-110/": {
+    "valid": false
+  },
+  "https://www.mexc.com/news/1007791": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://trochilus-web.gotoda.co/trochilus-web-sdk-integration.js",
+    "linkedin_url": "",
+    "founder_name": "CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thequantuminsider.com/2026/04/06/q-factor-emerges-from-stealth-with-24-million-and-backing-from-intel-capital/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://resonance.holdings",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thestartupscene.me/INVESTMENTS/Moroccan-Retail-Platform-z-systems-Raises-1-65M-in-Seed-Funding": {
+    "valid": true,
+    "company": "Moroccan Retail Platform z.systems",
+    "amount_str": "$1.65M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
