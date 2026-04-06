@@ -25923,5 +25923,69 @@
   },
   "https://blog.mean.ceo/startup-funding-trends-April-2026/": {
     "valid": false
+  },
+  "https://www.startupresearcher.com/news/z-systems-raises-usd1-65-million-to-digitize-traditional-retail": {
+    "valid": false
+  },
+  "https://m.dailyhunt.in/news/india/english/laffaz-epaper-laffaz/ai+unicorns+defence+tech+and+d2c+what+february+2026+reveals+about+indias+startup+funding-newsid-n702839789": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wa.me",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://pulse2.com/endform-e1-5-million-raised-by-playwright-testing-platform-to-accelerate-end-to-end-test-execution/": {
+    "valid": false
+  },
+  "https://www.msn.com/en-in/money/news/xovian-aerospace-secures-2-million-strategic-investment/ar-AA20dwPi?uxmode=ruby": {
+    "valid": true,
+    "company": "Xovian Aerospace",
+    "amount_str": "$2 m",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/xovianaero",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://en.wowtale.net/2026/04/06/233812/": {
+    "valid": true,
+    "company": "EduSync",
+    "amount_str": "",
+    "website": "https://edusync.kr",
+    "linkedin_url": "https://linkedin.com/company/edusync2025",
+    "founder_name": "Gawon Kwon said in",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://en.wowtale.net/2026/04/06/233815/": {
+    "valid": true,
+    "company": "Feasix AI",
+    "amount_str": "",
+    "website": "https://www.feasix.com",
+    "linkedin_url": "https://linkedin.com/company/feasix-ai",
+    "founder_name": "said Seunghwan Mok",
+    "founder_linkedin_url": "",
+    "contact_email": "email@company.com",
+    "twitter_url": ""
+  },
+  "https://www.startupgrantsindia.com/?search=electric+vehicles": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thefoundersspace.com/2026/04/05/seed-funding-why-its-crucial-for-startup-growth/": {
+    "valid": false
   }
 }

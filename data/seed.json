@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-04-06T01:49:26.911047Z",
-  "count": 16,
-  "enriched_count": 16,
+  "generated_at": "2026-04-06T05:56:56.186217Z",
+  "count": 18,
+  "enriched_count": 18,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "EduSync Secures Seed Funding to Advance Collaborative Learning Platform and Launch AI ...",
+      "article_url": "https://en.wowtale.net/2026/04/06/233812/",
+      "company": "EduSync",
+      "amount_str": "",
+      "pub_date": "2026-04-06T04:22:32Z",
+      "website": "https://edusync.kr",
+      "linkedin_url": "https://linkedin.com/company/edusync2025",
+      "founder_name": "Gawon Kwon said in",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Feasix AI Raises Seed Funding to Deploy Vision AI Robots Across Outdoor Facility Management",
+      "article_url": "https://en.wowtale.net/2026/04/06/233815/",
+      "company": "Feasix AI",
+      "amount_str": "",
+      "pub_date": "2026-04-06T04:22:30Z",
+      "website": "https://www.feasix.com",
+      "linkedin_url": "https://linkedin.com/company/feasix-ai",
+      "founder_name": "said Seunghwan Mok",
+      "founder_linkedin_url": "",
+      "contact_email": "email@company.com",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Xovian Aerospace secures $2 million strategic investment - MSN",
+      "article_url": "https://www.msn.com/en-in/money/news/xovian-aerospace-secures-2-million-strategic-investment/ar-AA20dwPi?uxmode=ruby",
+      "company": "Xovian Aerospace",
+      "amount_str": "$2 m",
+      "pub_date": "2026-04-06T00:10:10Z",
+      "website": "",
+      "linkedin_url": "https://linkedin.com/company/xovianaero",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Verse8 Secures $5M to Expand AI Game Creation Access - Techno Trenz",
@@ -86,20 +128,6 @@
       "founder_linkedin_url": "",
       "contact_email": "feedback@time.com",
       "twitter_url": "https://x.com/time"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Xovian Aerospace Secures $2M to Accelerate AI-Powered RF Satellite Intelligence Platform",
-      "article_url": "https://www.lapressedevesoul.com/actualite-56856-un-courageux-client-pourchasse-un-cambrioleur.html?live-news-1707761-2026-04-01-the-startup-is-developing-ai-powered-rf-satellites-that-transform-radio-frequenc",
-      "company": "Xovian Aerospace",
-      "amount_str": "$2M",
-      "pub_date": "2026-04-04T16:02:16Z",
-      "website": "",
-      "linkedin_url": "https://linkedin.com/company/xovianaero",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "tech.eu",
