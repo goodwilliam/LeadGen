@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T12:48:37Z",
+  "generated_at": "2026-04-06T18:43:07Z",
   "count": 24,
   "jobs": [
     {
@@ -55,7 +55,7 @@
       "companyBatch": "W25",
       "companyOneLiner": "We help law enforcement solve crime",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/c5b9a8ffa191d64a12f160ab46ed4cf4f2dd85dc.png",
-      "companyLastActiveAt": "about 21 hours ago",
+      "companyLastActiveAt": "1 day ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D91640&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=30209"
     },
     {
@@ -157,20 +157,6 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D88318&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29510"
     },
     {
-      "id": 88842,
-      "title": "Senior Product Designer",
-      "jobType": "fulltime",
-      "location": "San Francisco Bay Area",
-      "roleType": "Web design",
-      "companyName": "Retell AI",
-      "companySlug": "retell-ai",
-      "companyBatch": "W24",
-      "companyOneLiner": "Supercharge Your Contact Center Operations with AI Phone Agents",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/e52cdc0c1e4177276aba7fa2d8e4326d287620ca.png",
-      "companyLastActiveAt": "14 days ago",
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D88842&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29441"
-    },
-    {
       "id": 92338,
       "title": "Senior Product Designer | Full-Time | Remote",
       "jobType": "contract",
@@ -183,6 +169,20 @@
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/e52cdc0c1e4177276aba7fa2d8e4326d287620ca.png",
       "companyLastActiveAt": "15 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92338&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29441"
+    },
+    {
+      "id": 88842,
+      "title": "Senior Product Designer",
+      "jobType": "fulltime",
+      "location": "San Francisco Bay Area",
+      "roleType": "Web design",
+      "companyName": "Retell AI",
+      "companySlug": "retell-ai",
+      "companyBatch": "W24",
+      "companyOneLiner": "Supercharge Your Contact Center Operations with AI Phone Agents",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/e52cdc0c1e4177276aba7fa2d8e4326d287620ca.png",
+      "companyLastActiveAt": "14 days ago",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D88842&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29441"
     },
     {
       "id": 92545,
@@ -227,6 +227,20 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D80903&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29290"
     },
     {
+      "id": 89404,
+      "title": "Design Engineering Intern",
+      "jobType": "intern",
+      "location": "Main Office - Toronto",
+      "roleType": "Web design",
+      "companyName": "Tempo",
+      "companySlug": "tempo-2",
+      "companyBatch": "S23",
+      "companyOneLiner": "Visual Editor for React, powered by AI",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/860f478b7cd2ea33eefb86e90c9c693abef2997f.png",
+      "companyLastActiveAt": "13 days ago",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89404&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29150"
+    },
+    {
       "id": 83825,
       "title": "Founding Product Designer ",
       "jobType": "fulltime",
@@ -239,20 +253,6 @@
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/860f478b7cd2ea33eefb86e90c9c693abef2997f.png",
       "companyLastActiveAt": null,
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D83825&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29150"
-    },
-    {
-      "id": 75335,
-      "title": "Agent+ Product Designer",
-      "jobType": "fulltime",
-      "location": "Brazil (Remote) / Remote (US)",
-      "roleType": "Web design",
-      "companyName": "Tempo",
-      "companySlug": "tempo-2",
-      "companyBatch": "S23",
-      "companyOneLiner": "Visual Editor for React, powered by AI",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/860f478b7cd2ea33eefb86e90c9c693abef2997f.png",
-      "companyLastActiveAt": null,
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D75335&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29150"
     },
     {
       "id": 89173,
@@ -335,7 +335,7 @@
       "companyBatch": "S23",
       "companyOneLiner": "AI Compliance Platform for Healthcare Organizations",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/b6ed6b92c1866d1321f5db92edcd357309239ed5.png",
-      "companyLastActiveAt": "5 days ago",
+      "companyLastActiveAt": "6 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92532&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28809"
     }
   ]
