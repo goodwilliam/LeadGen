@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-04-06T05:56:56.186217Z",
-  "count": 18,
-  "enriched_count": 18,
+  "generated_at": "2026-04-06T09:05:48.376196Z",
+  "count": 19,
+  "enriched_count": 19,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "SatLeo Labs Raises $2.2M; Total Seed Funding Brought to $5.5M - FinSMEs",
+      "article_url": "https://www.finsmes.com/2026/04/satleo-labs-raises-2-2m-total-seed-funding-brought-to-5-5m.html",
+      "company": "SatLeo Labs",
+      "amount_str": "$2.2M",
+      "pub_date": "2026-04-06T08:30:43Z",
+      "website": "https://www.satleolabs.com",
+      "linkedin_url": "https://linkedin.com/company/satleo-labs",
+      "founder_name": "Urmil Bakhai",
+      "founder_linkedin_url": "",
+      "contact_email": "info@satleolabs.com",
+      "twitter_url": "https://x.com/satleolabs"
+    },
     {
       "source": "Google Alerts",
       "title": "EduSync Secures Seed Funding to Advance Collaborative Learning Platform and Launch AI ...",
