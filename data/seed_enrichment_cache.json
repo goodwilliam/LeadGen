@@ -26300,5 +26300,343 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/": {
+    "valid": false
+  },
+  "https://venturebeat.com/security/ai-agents-that-automatically-prevent-detect-and-fix-software-issues-are-here": {
+    "valid": false
+  },
+  "https://venturebeat.com/security/closing-the-data-security-maturity-gap-embedding-protection-into-enterprise": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/06/q-factor-emerges-24m-funding-next-big-bet-achieve-quantum-computing-advantage/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-reminder-berger-montague-notifies-gemini-space-station-inc-nasdaq-gemi-investors-of-a-class-action-lawsuit-and-deadline-302734382.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/alit-investors-have-opportunity-to-lead-alight-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302734492.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/driven-brands-holdings-inc-drvn-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302734129.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/navn-investors-have-opportunity-to-lead-navan-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302734485.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/oddity-tech-ltd-odd-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302734135.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/nuscale-power-corporation-smr-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302734143.html": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/": {
+    "valid": false
+  },
+  "https://tech-ish.com/2026/04/06/kulipa-stablecoin-card-issuing-62m/": {
+    "valid": false
+  },
+  "https://tech-ish.com/2026/04/06/littlefish-95m-series-a-africa-banks/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "http://techishkenya.com",
+    "linkedin_url": "https://linkedin.com/company/techishkenya",
+    "founder_name": "CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "mail@tech-ish.com",
+    "twitter_url": "https://x.com/TechishKenya"
+  },
+  "https://yourstory.com/2026/04/startup-news-updates-daily-roundup-april-6-2026": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thenextweb.com/news/satellites-on-fire-wildfire-ai-raises-2-7m": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://calendly.com/assets/external/widget.css",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://vohnetwork.com/news/healthtech/medical-tourism-startup-curemeabroad-clocks-2-5-million-run-rate-in-two-quarters-builds-a-network-of-over-350-hospitals-globally": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Aditya Oza",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.deccanherald.com/business/companies/spacetech-startup-satleo-labs-raises-55-mn-in-seed-funding-3958190": {
+    "valid": true,
+    "company": "Spacetech startup SatLeo Labs",
+    "amount_str": "$5.5 m",
+    "website": "https://iimaventures.com",
+    "linkedin_url": "https://linkedin.com/company/ciieindia",
+    "founder_name": "Urmil Bakhai",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/IIMAVentures"
+  },
+  "https://www.insideprecisionmedicine.com/topics/precision-medicine/top-5-firms-engineering-healthcare-in-the-cns-space/": {
+    "valid": true,
+    "company": "Aerska has already",
+    "amount_str": "$60 m",
+    "website": "https://www.aerska.com",
+    "linkedin_url": "https://linkedin.com/company/aerska",
+    "founder_name": "This team includes",
+    "founder_linkedin_url": "",
+    "contact_email": "Mail@aerska.com",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/04/irelands-octostar-closes-seed-extension-round-at-e6-1-million-for-its-sovereign-ai-native-intelligence-platform/": {
+    "valid": false
+  },
+  "https://www.wamda.com/2026/04/mena-startup-funding-drops-48-3-million-march-2026": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wamdacapital.com",
+    "linkedin_url": "https://linkedin.com/company/wamda-capital",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@wamdacapital.com",
+    "twitter_url": "https://x.com/WamdaCapital"
+  },
+  "https://www.calcalistech.com/ctechnews/article/bj0iyqbhzl": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://newmedia.calcalist.co.il/ctech/testimonials/index.html",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "judith.hoffmann@calcalist.co.il",
+    "twitter_url": ""
+  },
+  "https://quantumcomputingreport.com/q-factor-emerges-from-stealth-with-24m-seed-round-to-scale-neutral-atom-systems/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://q-factor.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://letsdatascience.com/news/ridge-ai-raises-26m-to-embed-dashboards-3e53c6ef": {
+    "valid": false
+  },
+  "https://m.economictimes.com/tech/startups/spacetech-startup-satleo-labs-raises-2-2-million-from-unicorn-ventures/articleshow/130060486.cms": {
+    "valid": true,
+    "company": "Spacetech startup SatLeo Labs",
+    "amount_str": "$2.2 m",
+    "website": "https://beamstart.com",
+    "linkedin_url": "https://linkedin.com/company/beamstart",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@beamstart.com",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/riplo-raises-2-3-million-in-funding": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/insight-health-raises-11-million-series-a": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/kestra-raises-25-million-series-a": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/Albuquerque/inno?page=42": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/04/06/xoople-raises-130m-to-build-ai-driven-satellite-data-platform-for-enterprise/": {
+    "valid": true,
+    "company": "Xoople",
+    "amount_str": "$225 m",
+    "website": "https://www.xoople.com",
+    "linkedin_url": "https://linkedin.com/company/xoople",
+    "founder_name": "CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/04/06/satark-ai-closes-pre-seed-funding-to-build-ai-driven-cyber-risk-intelligence-platform/": {
+    "valid": true,
+    "company": "Xoople",
+    "amount_str": "$130 m",
+    "website": "https://www.xoople.com",
+    "linkedin_url": "https://linkedin.com/company/xoople",
+    "founder_name": "Led by",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/04/06/daydream-secures-15m-series-a-to-build-the-worlds-best-ai-native-agency-for-seo/": {
+    "valid": true,
+    "company": "daydream",
+    "amount_str": "$15M",
+    "website": "https://daydream.ing",
+    "linkedin_url": "https://linkedin.com/company/daydream-ing",
+    "founder_name": "said Thenuka Karunaratne",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/04/06/moonbounce-launches-with-12m-to-give-organizations-real-time-control-over-ai-behavior/": {
+    "valid": false
+  },
+  "https://nationaltoday.com/us/wa/seattle/news/2026/04/06/ridge-ai-raises-2-6m-for-ai-native-analytics/": {
+    "valid": true,
+    "company": "Ridge AI",
+    "amount_str": "$2.6M",
+    "website": "https://www.ridgedata.ai",
+    "linkedin_url": "https://linkedin.com/company/ridgedata-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@ridgedata.ai",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/apnimed-secures-up-to-150m-in-debt-financing.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/ridge-ai-raises-2-6m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/neurocrine-biosciences-acquires-soleno-therapeutics-for-approx-2-9-billion.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/beacon-biosignals-raises-11m-brings-series-b-financing-to-over-97m.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/mezza-raises-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/connecticut-innovations-partners-with-mission-biocapitals-2026-platinum-program-to-accelerate-biotech-startups-in-connecticut-302733692.html": {
+    "valid": false
+  },
+  "https://www.bakersfield.com/ap/news/ridge-ai-emerges-from-stealth-with-2-6m-pre-seed-for-ai-native-analytics-that/article_57af40a4-07d7-59e6-a031-64cf8ac68860.html": {
+    "valid": false
+  },
+  "https://n24.com.tr/en/companies-en/ridge-ai-secures-26m-pre-seed-for-native-b2b-analytics-tech": {
+    "valid": true,
+    "company": "Ridge AI",
+    "amount_str": "$2.6M",
+    "website": "https://www.ridgedata.ai",
+    "linkedin_url": "https://linkedin.com/company/ridgedata-ai",
+    "founder_name": "was established by",
+    "founder_linkedin_url": "",
+    "contact_email": "info@ridgedata.ai",
+    "twitter_url": ""
+  },
+  "https://www.businesswire.com/news/home/20260406788322/en/Ridge-AI-Emerges-from-Stealth-with-%242.6M-Pre-Seed-for-AI-Native-Analytics-That-Prove-a-Product-Teams-Value-in-Hours": {
+    "valid": false
+  },
+  "https://ventureburn.com/noon-raises-44m-in-funding-to-revolutionize-product-design/": {
+    "valid": true,
+    "company": "Noon",
+    "amount_str": "$44M",
+    "website": "https://noon.design",
+    "linkedin_url": "https://linkedin.com/company/nooncom",
+    "founder_name": "Mark Goldberg",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DWy4PFYEZul/": {
+    "valid": false
+  },
+  "https://www.ynetnews.com/tech-and-digital/article/bj3f0nwnbe": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://t.me/ynetnewslatest",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://quantumcomputingreport.com/q-factor-emerges-from-stealth-with-24m-seed-round-to-scale-neutral-atom-systems/amp/": {
+    "valid": false
+  },
+  "https://pulse2.com/estaie-7-figure-pre-seed-raised-for-hospitality-technology-platform-expansion/": {
+    "valid": false
+  },
+  "https://x.com/Analyticsindiam/status/2041091692577882617": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/04/06/ridge-ai-emerges-from-stealth-with-2-6m-pre-seed-for-ai-native-analytics-that-prove-a-product-teams-value-in-hours/": {
+    "valid": false
+  },
+  "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-892228": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.indianstartuptimes.com/investment/satleo-labs-raises-2-2-million-in-seed-round-to-advance-thermal-satellite-technology/": {
+    "valid": true,
+    "company": "SatLeo Labs",
+    "amount_str": "$2.2 M",
+    "website": "https://www.satleolabs.com",
+    "linkedin_url": "https://linkedin.com/company/satleo-labs",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@satleolabs.com",
+    "twitter_url": "https://x.com/satleolabs"
+  },
+  "https://x.com/Inc42/status/2041072527498166543": {
+    "valid": false
+  },
+  "https://cybersecurityventures.com/this-is-how-they-tell-me-the-world-ends/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://embed.radio.co",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://enablersinvestment.com/satleo-labs-has-raised-usd-2-2-million-in-a-seed-funding-round-led-by-unicorn-india-ventures/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.addtoany.com/add_to/facebook",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
