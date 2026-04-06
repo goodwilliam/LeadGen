@@ -25853,5 +25853,75 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/slno-investors-have-opportunity-to-lead-soleno-therapeutics-inc-securities-fraud-lawsuit-302734113.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/paypal-holdings-inc-pypl-investors-april-20-2026-deadline-in-securities-fraud-class-action-lawsuit-302733448.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/mreo-deadline-mreo-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-mereo-biopharma-group-plc-securities-fraud-lawsuit-302733974.html": {
+    "valid": false
+  },
+  "https://www.aol.com/articles/founder-2-5-million-ai-080200984.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://s.yimg.com/oa/consent.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.new-techeurope.com/2026/04/05/voltify-raises-30-million-seed-round-to-build-the-tesla-of-rail-and-transform-rail-energy-infrastructure/": {
+    "valid": true,
+    "company": "Voltify",
+    "amount_str": "$30 M",
+    "website": "https://www.justvoltify.com",
+    "linkedin_url": "https://linkedin.com/company/justvoltify",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@voltify.com",
+    "twitter_url": ""
+  },
+  "https://m.thewire.in/topic/news-funding": {
+    "valid": false
+  },
+  "https://startupfortune.com/when-ai-clones-your-music-and-then-claims-you-copied-it/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://api.whatsapp.com/send",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/whatsapp"
+  },
+  "https://www.msn.com/en-in/money/news/xovian-aerospace-secures-2-million-strategic-investment/ar-AA20dwPi": {
+    "valid": true,
+    "company": "Xovian Aerospace",
+    "amount_str": "$2 m",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/xovianaero",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/tweetKishorec/status/2040270452145406112": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.5c0accda.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://blog.mean.ceo/startup-funding-trends-April-2026/": {
+    "valid": false
   }
 }
