@@ -26835,5 +26835,209 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/06/nvidia-backed-firmus-raises-505m-5-5b-valuation-ahead-asx-ipo/": {
+    "valid": true,
+    "company": "Nvidia-backed Firmus",
+    "amount_str": "$505M",
+    "website": "https://siliconangle.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/thecube"
+  },
+  "https://siliconangle.com/2026/04/06/ai-digital-infrastructure-hybrid-cloud-nutanix-nutanixnext/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-ann-bogart-as-a-pinnacle-professional-member-inner-circle-of-excellence-302735001.html": {
+    "valid": false
+  },
+  "https://businessnewsthisweek.com/business/space-tech-startup-satleo-labs-raises-a-total-of-usd-5-5mn-in-seed-funding-with-new-round-led-by-unicorn-india-ventures/": {
+    "valid": true,
+    "company": "Space-Tech startup SatLeo Labs",
+    "amount_str": "",
+    "website": "https://www.aviation-defence-universe.com",
+    "linkedin_url": "https://linkedin.com/company/aviation-defence-universe",
+    "founder_name": "Shravan Bhati",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ADUmedia"
+  },
+  "https://thequantuminsider.com/2026/04/06/chinese-quantum-startup-qboson-raises-145-million-to-scale-chip-production/": {
+    "valid": true,
+    "company": "Quantum Startup QBoson",
+    "amount_str": "$145 M",
+    "website": "https://www.yicaiglobal.com",
+    "linkedin_url": "https://linkedin.com/company/yicaiglobal",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/yicaichina"
+  },
+  "https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/": {
+    "valid": false
+  },
+  "https://mezha.net/eng/bukvy/zero_shot_closes/": {
+    "valid": true,
+    "company": "Zero Shot",
+    "amount_str": "$100 m",
+    "website": "https://zeroshotlabs.com",
+    "linkedin_url": "https://linkedin.com/company/zero-shot-fund",
+    "founder_name": "according to TechCrunch",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/": {
+    "valid": false
+  },
+  "https://entarabi.com/en/2026/04/moroccos-z-systems-closes-1-65-million-seed-round-to-scale-e-commerce-infrastructure/": {
+    "valid": true,
+    "company": "Morocco's z.systems",
+    "amount_str": "$1.65 m",
+    "website": "https://entarabi.com",
+    "linkedin_url": "https://linkedin.com/company/entarabi",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@entarabi.com",
+    "twitter_url": "https://x.com/entarabicom"
+  },
+  "https://www.swfinstitute.org/transaction/69d3e1aa44c189714a7207bb": {
+    "valid": false
+  },
+  "https://martechseries.com/analytics/ridge-ai-emerges-from-stealth-with-2-6m-pre-seed-for-ai-native-analytics-that-prove-a-product-teams-value-in-hours/": {
+    "valid": false
+  },
+  "https://botmemo.substack.com/p/sycamore-leads-a-2673m-week": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/AlexFinn/status/2041267605747712370": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.5c0accda.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://inforcapital.com/news/data-visualization-all-stars-unveil-ridge-ai-with-26m-to-fix-the-analytics-problem-for-saas-apps/": {
+    "valid": true,
+    "company": "Ridge AI",
+    "amount_str": "$2.6M",
+    "website": "https://www.ridgedata.ai",
+    "linkedin_url": "https://linkedin.com/company/ridgedata-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@ridgedata.ai",
+    "twitter_url": ""
+  },
+  "https://www.mobihealthnews.com/news/century-health-create-steatotic-liver-disease-database": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://use.typekit.net/wyr2jhv.css",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://finance.yahoo.com/sectors/technology/articles/coastal-measures-raises-1-2m-200100256.html": {
+    "valid": true,
+    "company": "Coastal Measures",
+    "amount_str": "$1.2M",
+    "website": "https://www.coastalmeasures.com",
+    "linkedin_url": "https://linkedin.com/company/coastalmeasuresllc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@coastalmeasures.com",
+    "twitter_url": ""
+  },
+  "https://www.trysignalbase.com/news/funding/infiniti-recycling-ltd-raises-17m-in-pre-seed-funding": {
+    "valid": true,
+    "company": "Infiniti Recycling Ltd",
+    "amount_str": "$1.7 m",
+    "website": "https://infinitirecycling.com",
+    "linkedin_url": "https://linkedin.com/company/infinitirecycling",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupresearcher.com/news/connecticut-innovations-and-mission-biocapital-launch-2026-biotech-startup-program": {
+    "valid": false
+  },
+  "https://pulse2.com/earlyasset-2-million-raised-to-build-infrastructure-for-venture-secondary-liquidity/": {
+    "valid": true,
+    "company": "Earlyasset",
+    "amount_str": "$2 m",
+    "website": "https://earlyasset.com",
+    "linkedin_url": "https://linkedin.com/company/earlyasset",
+    "founder_name": "Shawn Bercuson",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@earlyasset.com",
+    "twitter_url": "https://x.com/earlyasset"
+  },
+  "https://kr-asia.com/china-taps-rocket-satellite-startups-to-catch-up-to-spacex": {
+    "valid": false
+  },
+  "https://techfundingnews.com/how-assisted-living-is-evolving-and-where-startups-are-rethinking-senior-care-for-couples/": {
+    "valid": false
+  },
+  "https://cryptorank.io/news/feed/90ae0-xoople-series-b-earth-ai-mapping": {
+    "valid": true,
+    "company": "The company",
+    "amount_str": "$225 m",
+    "website": "https://www.thecompanystore.com",
+    "linkedin_url": "https://linkedin.com/company/linkedin",
+    "founder_name": "CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "custserv@thecompanystore.com",
+    "twitter_url": "https://x.com/thecompanystore"
+  },
+  "https://techfundingnews.com/ai-based-fraud-detection-methods-used-by-modern-businesses/": {
+    "valid": false
+  },
+  "https://amp.axios.com/pro-rata-premium-first-look-stipple-epivax-b0fdf62e-2ec0-481e-af1f-9a47a74dbe94.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/gigilevy_stealth-israeli-quantum-startup-q-factor-activity-7446957960754446336-Avbc": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://sbcamericas.com/2026/04/06/edge-boost-choctaw-casino-deal/": {
+    "valid": false
+  },
+  "https://www.ipoplatform.com/Funding-news/satleo-labs-raises-funding": {
+    "valid": false
   }
 }
