@@ -27303,5 +27303,388 @@
   },
   "https://www.linkedin.com/posts/yoav-sagi-4b98635_stealth-israeli-quantum-startup-q-factor-activity-7446964272674365442-ExTy": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/04/07/hermeus-raises-350m-to-build-autonomous-hypersonic-fighters/": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/venture/interesting-startup-deals-mineral-rights-flying-ferry-ai-clean-tech/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/07/wholesum-tops-up-pre-seed-with-335k-to-fix-ais-trust-problem-in-text-analytics/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://betakit.com/how-sonibel-can-hear-when-a-welder-makes-a-mistake/": {
+    "valid": false
+  },
+  "https://betakit.com/gridbank-raises-6-million-to-monetize-the-videos-in-your-camera-roll/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/07/ai-agent-security-startup-trent-ai-launches-13m-funding/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/07/natter-lands-23m-encourage-employees-open-organizations-ai-video-interviews/": {
+    "valid": true,
+    "company": "Natter",
+    "amount_str": "$23M",
+    "website": "https://www.trynatter.com",
+    "linkedin_url": "https://linkedin.com/company/lets-natter",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "team@natter.co",
+    "twitter_url": "https://x.com/mrareweb"
+  },
+  "https://www.prnewswire.com/news-releases/chick-fil-a-awards-more-than-29-million-in-scholarships-302735778.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/sargento-asks-parents-to-make-the-switch-with-launch-of-sargento-mighty-bites-lunch-snack-kits-302735051.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/braviant-holdings-closes-two-revolving-asset-backed-credit-facilities-and-a-forward-flow-facility-302733844.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/nyse-content-update-starfish-space-adds-over-100-million-in-funding-to-boost-growth-302735783.html": {
+    "valid": false
+  },
+  "https://en.yabiladi.com/articles/details/191829/moroccan-startup-systems-raises-million.html": {
+    "valid": true,
+    "company": "Moroccan startup z.systems",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.opensourceforu.com/2026/04/ridge-ai-raises-2-6m-on-open-source-browser-analytics/": {
+    "valid": true,
+    "company": "Ridge AI",
+    "amount_str": "$2.6M",
+    "website": "https://www.ridgedata.ai",
+    "linkedin_url": "https://linkedin.com/company/ridgedata-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@ridgedata.ai",
+    "twitter_url": ""
+  },
+  "https://legaltechnology.com/2026/04/07/startup-corner-chamelio-from-contract-review-to-end-to-end-legal-intelligence/": {
+    "valid": false
+  },
+  "https://www.dealstreetasia.com/stories/sg-digest-xora-innovation-wavemaker-impact-478171": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://telegram.me/share/url",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/telegram"
+  },
+  "https://www.thesaasnews.com/news/antaris-bags-28-million-series-a": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/ridge-ai-raises-2-6m-pre-seed-round": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/noon-raises-44-million-in-funding": {
+    "valid": false
+  },
+  "https://impactalpha.com/satellites-on-fire-lands-2-7-million-to-bring-early-wildfire-detection-tech-to-the-us/": {
+    "valid": true,
+    "company": "Satellites on Fire",
+    "amount_str": "$2.7 m",
+    "website": "https://www.satellitesonfire.com",
+    "linkedin_url": "https://linkedin.com/company/satellitesonfire",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/ulises-lopez-pacholczak-1a30061b7",
+    "contact_email": "",
+    "twitter_url": "https://x.com/velo"
+  },
+  "https://www.law.com/legaltechnews/2026/04/07/-parrot-founder-launches-ai-workflow-platform-felix-raises-17m-pre-seed-round/": {
+    "valid": true,
+    "company": "Parrot Founder",
+    "amount_str": "$1.7M",
+    "website": "https://www.boost2rank.co.uk",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thenextafrica.com/z-systems-raises-1-65-million-to-digitize-moroccos-traditional-retail-sector/": {
+    "valid": true,
+    "company": "z.systems",
+    "amount_str": "$1.65 M",
+    "website": "https://duck.ai",
+    "linkedin_url": "https://linkedin.com/company/zsystems1",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "http://wamda.com/2026/04/egypt-lucky-secures-23-million-series-b-expand-north-africa": {
+    "valid": true,
+    "company": "Egypt's Lucky",
+    "amount_str": "$23 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "commented Ayman Essawy",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://waya.media/maison-safqa-raises-usd-620k-pre-seed-the-gccs-luxury-overstock-market-is-becoming-a-business-model/": {
+    "valid": true,
+    "company": "Maison Safqa",
+    "amount_str": "",
+    "website": "https://www.maisonsafqa.com",
+    "linkedin_url": "https://linkedin.com/company/maison-safqa",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "team@maisonsafqa.com",
+    "twitter_url": ""
+  },
+  "https://www.kucoin.com/news/flash/rwa-infrastructure-firm-midas-secures-50m-a-round-in-blockchain-week": {
+    "valid": false
+  },
+  "https://keeptrack.space/deep-dive/leolabs": {
+    "valid": false
+  },
+  "https://siliconcanals.com/sc-n-openai-veterans-launch-100m-vc-fund-zero-shot-already-flagging-ai-trends-they-say-are-technically-unfeasible/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Mira Murati and OpenAI",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://businessreviewlive.com/australian-ai-firm-firmus-secures-505m-targets-massive-ai-factory-expansion/": {
+    "valid": true,
+    "company": "Firmus",
+    "amount_str": "$505M",
+    "website": "https://firmus.co",
+    "linkedin_url": "https://linkedin.com/company/firmustechnologies",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "lauren.crystal@firmus.co",
+    "twitter_url": ""
+  },
+  "https://www.asiabusinessoutlook.com/news/israeli-startup-qfactor-raises-24m-to-develop-scalable-quantum-tech-nwid-11682.html": {
+    "valid": true,
+    "company": "Q-Factor",
+    "amount_str": "$24M",
+    "website": "http://global-q.org",
+    "linkedin_url": "",
+    "founder_name": "Chafic Nassif",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/firmus-2b-asx-ipo-10b-debt/": {
+    "valid": true,
+    "company": "Firmus",
+    "amount_str": "$505M",
+    "website": "https://firmusfitness.com",
+    "linkedin_url": "https://linkedin.com/company/firmussec",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@firmus.app",
+    "twitter_url": "https://x.com/FirmusApp"
+  },
+  "https://fortune.com/2026/04/07/spacex-openai-anthropic-reopen-ipo-market-crunchbase/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cookielaw.org/consent/906dc33b-1fc3-4b2c-a324-8bc0b7db9050/OtAutoBlock.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.radiotoday.uk/2026/04/new-plans-unveiled-for-the-elis-james-and-john-robins-show/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.gamesindustry.biz/the-rise-fall-and-resurgence-of-australian-game-development": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.ziffstatic.com/jst/zdconsent.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.businesswire.com/news/home/20260407575240/en/Lumo-and-BizTrip-AI-Announce-Strategic-Partnership-to-Transform-Corporate-Travel-with-Predictive-Intelligence-and-Agentic-AI": {
+    "valid": false
+  },
+  "https://coverager.com/felix-raises-1-7-million-to-automate-insurance-and-financial-workflows/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/felix-raises-1-7m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.global-agriculture.com/investment-startups/india-based-food-startup-kisaansay-raises-usd-4-million-series-a-funding-led-by-nabventures/": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DW0fnEzj4oo/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.reddit.com/r/Businessloans/comments/1ses25g/looking_for_200_loan_to_crowdfund_startup_preseed/": {
+    "valid": false
+  },
+  "https://www.research-live.com/article/news/wholesum-closes-preseed-funding/id/5148273": {
+    "valid": true,
+    "company": "WholeSum",
+    "amount_str": "",
+    "website": "https://wholesum.app",
+    "linkedin_url": "https://linkedin.com/company/28601955",
+    "founder_name": "said Emily Kucharski",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.tamradar.com/funding-rounds/ridge-ai-pre-seed-2-6m": {
+    "valid": true,
+    "company": "Ridge AI",
+    "amount_str": "$2.6M",
+    "website": "https://ridgedata.ai",
+    "linkedin_url": "https://linkedin.com/company/ridgedata-ai",
+    "founder_name": "Ellie Fields explained in",
+    "founder_linkedin_url": "",
+    "contact_email": "info@ridgedata.ai",
+    "twitter_url": ""
+  },
+  "https://lasvegassun.com/news/2026/apr/07/felix-raises-17m-to-build-hyperautomation-for-prof/": {
+    "valid": true,
+    "company": "Felix",
+    "amount_str": "$1.7M",
+    "website": "https://www.felixchevroletstore.com",
+    "linkedin_url": "https://linkedin.com/company/felix-global-corp",
+    "founder_name": "Tomas Scavnicky",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.lelezard.com/en/news-22176790.html": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DW0faIliifF/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Photo by",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/CeoVine/status/2041400301417283899/photo/1": {
+    "valid": false
+  },
+  "https://www.superbcrew.com/ridge-ai-raises-2-6-million-in-pre-seed-funding/": {
+    "valid": true,
+    "company": "Ridge AI",
+    "amount_str": "$2.6 M",
+    "website": "https://www.ridgedata.ai",
+    "linkedin_url": "https://linkedin.com/company/ridgedata-ai",
+    "founder_name": "investment was spearheaded by",
+    "founder_linkedin_url": "",
+    "contact_email": "info@ridgedata.ai",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/Inc42/posts/ai-startup-h2loop-has-raised-2-mn-about-1859-cr-in-its-seed-funding-round-led-by/1515733016817482/": {
+    "valid": true,
+    "company": "H2LooP",
+    "amount_str": "$2 M",
+    "website": "https://www.h2loop.ai",
+    "linkedin_url": "https://linkedin.com/company/h2loop",
+    "founder_name": "Sairanjan Mishra and ex",
+    "founder_linkedin_url": "",
+    "contact_email": "team@h2loop.ai",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/nfuse-lands-2m-from-eleven-ventures-launchub-to-grow-ai-powered-whatsapp-ordering-in-fmcg-trade/": {
+    "valid": true,
+    "company": "Ex-Coca-Cola execs",
+    "amount_str": "$2M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://m.economictimes.com/tech/funding/boat-cofounder-aman-guptas-offbeat-studios-raises-rs-100-crore-in-funding-led-by-bessemer-venture-partners/articleshow/130081590.cms": {
+    "valid": true,
+    "company": "Boat cofounder Aman Gupta's Offbeat Studios",
+    "amount_str": "",
+    "website": "https://economictimes.indiatimes.com",
+    "linkedin_url": "https://linkedin.com/company/economictimes",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/economictimes"
+  },
+  "https://inc42.com/buzz/h2loop-secures-2-mn-seed-funding-to-scale-ai-platform-for-embedded-systems/": {
+    "valid": true,
+    "company": "H2LooP",
+    "amount_str": "$2 M",
+    "website": "https://www.h2loop.ai",
+    "linkedin_url": "https://linkedin.com/company/h2loop",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "team@h2loop.ai",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-in/money/topstories/boat-co-founder-aman-gupta-s-offbeat-raises-rs-100-crore-in-funding-led-by-bessemer/ar-AA20jJ0A?ocid=finance-verthp-feeds": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DW0nwbXgIjp/": {
+    "valid": false
+  },
+  "https://en.wowtale.net/2026/04/07/233825/": {
+    "valid": true,
+    "company": "WEFLO",
+    "amount_str": "$3.65M",
+    "website": "https://www.weflovalve.com",
+    "linkedin_url": "https://linkedin.com/company/weflo-ai",
+    "founder_name": "said Euijeong Kim",
+    "founder_linkedin_url": "",
+    "contact_email": "Info@weflovalve.com",
+    "twitter_url": ""
   }
 }
