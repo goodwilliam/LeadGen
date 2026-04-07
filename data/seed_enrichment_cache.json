@@ -27039,5 +27039,89 @@
   },
   "https://www.ipoplatform.com/Funding-news/satleo-labs-raises-funding": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/aixcrypto-co-ceo-jerry-wang-shares-weekly-investor-update-ai-agent-development-and-internal-testing-progress-302735248.html": {
+    "valid": false
+  },
+  "https://www.forbes.com.au/news/innovation/this-ex-google-duo-just-raised-900k-to-build-an-ai-receptionist-for-aussie-tradies/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "Key Background",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://vocal.media/writers/ten-houses-cannot-warm-a-cold-heart": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DW0P4sCFaAg/": {
+    "valid": false
+  },
+  "https://www.bwdisrupt.com/article/satark-ai-raises-pre-seed-round-at-4-mn-valuation-cap-601056": {
+    "valid": true,
+    "company": "Satark AI",
+    "amount_str": "$4 M",
+    "website": "https://satark.live",
+    "linkedin_url": "https://linkedin.com/company/satark-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.pressreader.com/uk/leicester-mercury/20260407/281595247087990": {
+    "valid": false
+  },
+  "https://vcnewsdaily.com/ridge-ai/venture-capital-funding/yvhrxgzpkb": {
+    "valid": false
+  },
+  "https://www.facebook.com/pulse2news/posts/earlyasset-2-million-raised-to-build-infrastructure-for-venture-secondary-liquid/1627940945999595/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.indianweb2.com/2026/04/nykaa-sees-fastest-quarterly-revenue.html": {
+    "valid": false
+  },
+  "https://entarabi.com/en/2026/04/via-separations-raises-36m-to-expand-refining-and-chemicals-solutions/": {
+    "valid": true,
+    "company": "Via Separations",
+    "amount_str": "$36 m",
+    "website": "https://viaseparations.com",
+    "linkedin_url": "https://linkedin.com/company/via-separations",
+    "founder_name": "Shreya Dave",
+    "founder_linkedin_url": "https://linkedin.com/in/shdave",
+    "contact_email": "info@viaseparations.com",
+    "twitter_url": "https://x.com/ViaSeparations"
+  },
+  "https://www.bwdisrupt.com/article/satleo-labs-raises-2-2-mn-seed-round-led-by-unicorn-india-ventures-601060": {
+    "valid": true,
+    "company": "SatLeo Labs",
+    "amount_str": "$2.2 M",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/satleo-labs",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://news.miami.edu/stories/2026/04/students-get-a-boost-to-expand-their-businessesindex.html": {
+    "valid": true,
+    "company": "Students",
+    "amount_str": "",
+    "website": "https://www.ed.gov",
+    "linkedin_url": "https://linkedin.com/company/usedgov",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/anil-nagar",
+    "contact_email": "",
+    "twitter_url": "https://x.com/usedgov"
   }
 }

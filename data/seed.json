@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-04-07T01:34:47.145564Z",
-  "count": 26,
-  "enriched_count": 22,
+  "generated_at": "2026-04-07T05:45:57.817573Z",
+  "count": 29,
+  "enriched_count": 25,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "SatLeo Labs Raises $2.2 Mn Seed Round Led By Unicorn India Ventures - BW Disrupt",
+      "article_url": "https://www.bwdisrupt.com/article/satleo-labs-raises-2-2-mn-seed-round-led-by-unicorn-india-ventures-601060",
+      "company": "SatLeo Labs",
+      "amount_str": "$2.2 M",
+      "pub_date": "2026-04-07T04:32:22Z",
+      "website": "",
+      "linkedin_url": "https://linkedin.com/company/satleo-labs",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Satark AI Raises Pre-seed Round At $4 Mn Valuation Cap - BW Disrupt",
+      "article_url": "https://www.bwdisrupt.com/article/satark-ai-raises-pre-seed-round-at-4-mn-valuation-cap-601056",
+      "company": "Satark AI",
+      "amount_str": "$4 M",
+      "pub_date": "2026-04-07T03:22:37Z",
+      "website": "https://satark.live",
+      "linkedin_url": "https://linkedin.com/company/satark-ai",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Students get a boost to expand their businesses - University of Miami News",
+      "article_url": "https://news.miami.edu/stories/2026/04/students-get-a-boost-to-expand-their-businessesindex.html",
+      "company": "Students",
+      "amount_str": "",
+      "pub_date": "2026-04-07T01:49:09Z",
+      "website": "https://www.ed.gov",
+      "linkedin_url": "https://linkedin.com/company/usedgov",
+      "founder_name": "",
+      "founder_linkedin_url": "https://linkedin.com/in/anil-nagar",
+      "contact_email": "",
+      "twitter_url": "https://x.com/usedgov"
+    },
     {
       "source": "Google Alerts",
       "title": "Earlyasset: $2 Million Raised To Build Infrastructure For Venture Secondary Liquidity",
@@ -58,6 +100,20 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": "https://x.com/thecube"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Via Separations raises $36M to expand refining and chemicals solutions",
+      "article_url": "https://entarabi.com/en/2026/04/via-separations-raises-36m-to-expand-refining-and-chemicals-solutions/",
+      "company": "Via Separations",
+      "amount_str": "$36 m",
+      "pub_date": "2026-04-06T22:07:57Z",
+      "website": "https://viaseparations.com",
+      "linkedin_url": "https://linkedin.com/company/via-separations",
+      "founder_name": "Shreya Dave",
+      "founder_linkedin_url": "https://linkedin.com/in/shdave",
+      "contact_email": "info@viaseparations.com",
+      "twitter_url": "https://x.com/ViaSeparations"
     },
     {
       "source": "Google Alerts",
@@ -223,20 +279,6 @@
       "website": "https://app.helioai.tech",
       "linkedin_url": "https://linkedin.com/company/helioai",
       "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "daydream Secures $15M Series A to Build the World's Best AI-Native Agency for SEO",
-      "article_url": "https://theaiinsider.tech/2026/04/06/daydream-secures-15m-series-a-to-build-the-worlds-best-ai-native-agency-for-seo/",
-      "company": "daydream",
-      "amount_str": "$15M",
-      "pub_date": "2026-04-06T14:10:07Z",
-      "website": "https://daydream.ing",
-      "linkedin_url": "https://linkedin.com/company/daydream-ing",
-      "founder_name": "said Thenuka Karunaratne",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
