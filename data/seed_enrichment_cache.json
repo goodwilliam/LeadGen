@@ -27123,5 +27123,185 @@
     "founder_linkedin_url": "https://linkedin.com/in/anil-nagar",
     "contact_email": "",
     "twitter_url": "https://x.com/usedgov"
+  },
+  "https://tech.eu/2026/04/07/xoople-raises-130m-series-b-to-build-earths-system-of-record/": {
+    "valid": true,
+    "company": "Xoople",
+    "amount_str": "$130M",
+    "website": "https://www.xoople.com",
+    "linkedin_url": "https://linkedin.com/company/xoople",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/07/nfuse-raises-2m-as-messaging-overtakes-b2b-ordering-apps/": {
+    "valid": true,
+    "company": "nFuse",
+    "amount_str": "$2M",
+    "website": "https://nfuse.ai",
+    "linkedin_url": "https://linkedin.com/company/nfuse-ai",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/04/07/agentic-ai-startup-neubird-raises-19-3m-help-human-site-reliability-engineers-rise-ashes-alert-fatigue/": {
+    "valid": true,
+    "company": "Agentic AI startup NeuBird",
+    "amount_str": "$19.3M",
+    "website": "https://siliconangle.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/thecube"
+  },
+  "https://www.prnewswire.com/news-releases/qure-deadline-qure-investors-have-opportunity-to-lead-uniqure-nv-securities-fraud-lawsuit-302735257.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/pom-deadline-pom-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-pomdoctor-ltd-securities-fraud-lawsuit-302735262.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/psfe-deadline-psfe-investors-have-opportunity-to-lead-paysafe-limited-securities-fraud-lawsuit-302735249.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/cort-investors-have-opportunity-to-lead-corcept-therapeutics-incorporated-securities-fraud-lawsuit-302735252.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/apo-investors-have-opportunity-to-lead-apollo-global-management-inc-securities-fraud-lawsuit-filed-by-the-rosen-law-firm-302735246.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/aqst-investors-have-opportunity-to-lead-aquestive-therapeutics-inc-securities-fraud-lawsuit-302735247.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/cigl-investors-have-opportunity-to-lead-concorde-international-group-ltd-securities-fraud-lawsuit-302735242.html": {
+    "valid": false
+  },
+  "https://finance.yahoo.com/sectors/technology/articles/ai-startup-rocket-offers-vibe-053000905.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https:&#x2F;&#x2F;www.yahoo.com&#x2F;",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.citybiz.co/article/828868/numos-closes-4-3m-seed-round-co-led-by-general-catalyst/": {
+    "valid": true,
+    "company": "Numos",
+    "amount_str": "$4.3M",
+    "website": "https://www.numos.ai",
+    "linkedin_url": "https://linkedin.com/company/numosai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/numos_ai"
+  },
+  "https://www.thesaasnews.com/news/satark-ai-bags-pre-seed-funding": {
+    "valid": false
+  },
+  "https://www.techinasia.com/news/intel-capitalbacked-israeli-quantum-startup-raises-24m-seed": {
+    "valid": true,
+    "company": "Intel Capital-backed Israeli quantum startup",
+    "amount_str": "$24m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "has published",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.kr-asia.com/digital-china-posts-higher-revenue-as-ai-business-expands": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fconsole.kr-asia.com%2Ffeed%2F",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "care@feedly.com",
+    "twitter_url": ""
+  },
+  "https://kr-asia.com/deals-in-brief-kitar-and-policystreet-raise-funding-western-union-completes-dash-acquisition-five-china-investments-and-more": {
+    "valid": true,
+    "company": "Kitar and PolicyStreet",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://cryptorank.io/news/feed/1fa87-openai-alumni-zero-shot-fund": {
+    "valid": false
+  },
+  "https://www.zawya.com/en/press-release/companies-news/maison-safqa-raises-620-000-pre-seed-to-scale-the-off-price-market-for-premium-and-luxury-brands-across-the-gcc-tul4pp3k": {
+    "valid": false
+  },
+  "https://enterpriseam.com/ksa/2026/04/07/aramco-ventures-backs-energy-efficiency-startup-in-usd-36-mn-round/": {
+    "valid": false
+  },
+  "https://www.indianretailer.com/news/funding-alert-dam-good-fish-raises-funding-rs-30-cr-valuation-expand-operations": {
+    "valid": true,
+    "company": "{Funding Alert} Dam Good Fish",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Yagyesh Kanoria",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://inc42.com/buzz/boat-cofounder-aman-guptas-new-venture-off-beat-raises-%E2%82%B9100-cr/": {
+    "valid": false
+  },
+  "https://www.wamda.com/2026/04/backed-sanabil-500-maison-safqa-secures-620000-pre-seed": {
+    "valid": false
+  },
+  "https://www.businesstoday.in/amp/technology/story/ai-startup-h2loop-raises-2-million-funding-led-by-speciale-invest-3one4-capital-524375-2026-04-07": {
+    "valid": true,
+    "company": "H2LooP",
+    "amount_str": "$2 m",
+    "website": "https://www.h2loop.ai",
+    "linkedin_url": "https://linkedin.com/company/h2loop",
+    "founder_name": "said Sairanjan Mishra",
+    "founder_linkedin_url": "",
+    "contact_email": "team@h2loop.ai",
+    "twitter_url": ""
+  },
+  "https://www.bwdisrupt.com/article/aman-gupta-s-off-beat-raises-rs-100-cr-seed-round-led-by-bessemer-601084": {
+    "valid": false
+  },
+  "https://startupsamadhan.com/satleo-labs-raises-2-2-million-seed-funding-unicorn-ventures-2026/": {
+    "valid": true,
+    "company": "SatLeo Labs",
+    "amount_str": "$2.2M",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/satleo-labs",
+    "founder_name": "Bhati serves as",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://filingbuddy.global/en-in/glossary/seed-vs-pre-seed": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.jsdelivr.net",
+    "linkedin_url": "https://linkedin.com/company/jsdelivr",
+    "founder_name": "And so",
+    "founder_linkedin_url": "",
+    "contact_email": "d@jsdelivr.com",
+    "twitter_url": "https://x.com/jsdelivr"
+  },
+  "https://www.techinasia.com/news/posco-group-backs-korean-robot-startup-brils-with-4-6m": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/yoav-sagi-4b98635_stealth-israeli-quantum-startup-q-factor-activity-7446964272674365442-ExTy": {
+    "valid": false
   }
 }
