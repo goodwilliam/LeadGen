@@ -27952,5 +27952,274 @@
   },
   "https://www.bignewsnetwork.com/news/278969046/the-elite-25-indian-startup-school-unveils-new-cohort-as-deep-tech-and-ai-take-center-stage": {
     "valid": false
+  },
+  "https://venturebeat.com/data/amazon-s3-files-gives-ai-agents-a-native-file-system-workspace-ending-the": {
+    "valid": false
+  },
+  "https://venturebeat.com/technology/llm-referred-traffic-converts-at-30-40-and-most-enterprises-arent-optimizing": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/commvault-announces-fourth-quarter-fiscal-year-2026-earnings-release-date-302736039.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/encompass-health-announces-date-of-2026-first-quarter-earnings-call-302735892.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/starz-to-release-first-quarter-earnings-for-2026-and-hold-analyst-and-investor-conference-call-following-market-close-on-thursday-may-7-302736194.html": {
+    "valid": false
+  },
+  "https://blogs.timesofisrael.com/how-israeli-construction-tech-is-accelerating-the-growth-of-major-innovators/": {
+    "valid": false
+  },
+  "https://www.law360.com/articles/2461830/professional-services-ai-felix-launches-with-1-7m-pre-seed": {
+    "valid": false
+  },
+  "https://observer.com/2026/04/jeff-bezos-project-prometheus-new-hires/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.news-journalonline.com/press-release/story/53186/strong-signal-for-investors-and-partners-h2-global-group-and-vr-life-validate-the-value-of-european-medtech-innovation/": {
+    "valid": false
+  },
+  "https://allafrica.com/stories/202604070712.html": {
+    "valid": true,
+    "company": "Morocco-Based Zsystems",
+    "amount_str": "$1.65m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.mexc.co/news/1010766": {
+    "valid": false
+  },
+  "https://innovation-village.com/zsystems-raises-1-65-million-to-digitise-moroccos-40-billion-retail-supply-chain/": {
+    "valid": true,
+    "company": "ZSystems",
+    "amount_str": "$1.65 M",
+    "website": "https://www.z.systems",
+    "linkedin_url": "https://linkedin.com/company/zsystems-database-solutions-gmbh",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@z.system",
+    "twitter_url": ""
+  },
+  "https://athletechnews.com/flora-fertility-raises-5m-for-customer-owned-reproductive-insurance/": {
+    "valid": true,
+    "company": "Flora Fertility",
+    "amount_str": "$5M",
+    "website": "http://heyflora.com",
+    "linkedin_url": "https://linkedin.com/company/heyflora",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@heyflora.com",
+    "twitter_url": ""
+  },
+  "https://www.accessnewswire.com/newsroom/en/healthcare-and-pharmaceutical/heydonto-ai-technology-closes-20-million-seed-round-at-200-million-va-1155071": {
+    "valid": true,
+    "company": "HeyDonto AI Technology",
+    "amount_str": "$20 M",
+    "website": "https://conduitdental.ai",
+    "linkedin_url": "",
+    "founder_name": "CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.oklahoman.com/press-release/story/160439/hexembio-launches-with-10-4m-seed-round-to-advance-blood-stem-cell-rejuvenation-therapy/": {
+    "valid": true,
+    "company": "HexemBio",
+    "amount_str": "$10.4M",
+    "website": "https://hexemb.io",
+    "linkedin_url": "https://linkedin.com/company/hexembio",
+    "founder_name": "of Moderna",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bebeez.eu/2026/04/07/with-74-of-businesses-planning-agentic-ai-deployment-trent-ai-secures-e11-million-in-seed-funding/": {
+    "valid": false
+  },
+  "https://www.northjersey.com/press-release/story/171189/hexembio-launches-with-10-4m-seed-round-to-advance-blood-stem-cell-rejuvenation-therapy/": {
+    "valid": true,
+    "company": "HexemBio",
+    "amount_str": "$10.4M",
+    "website": "https://hexemb.io",
+    "linkedin_url": "https://linkedin.com/company/hexembio",
+    "founder_name": "of Moderna",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://inforcapital.com/news/wholesum-tops-up-pre-seed-with-335k-to-fix-ais-trust-problem-in-text-analytics/": {
+    "valid": true,
+    "company": "WholeSum",
+    "amount_str": "$335K",
+    "website": "https://wholesum.app",
+    "linkedin_url": "https://linkedin.com/company/28601955",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://inforcapital.com/news/maison-safqa-secures-620000-pre-seed-funding-backed-by-sanabil-500/": {
+    "valid": true,
+    "company": "Maison Safqa",
+    "amount_str": "$620K",
+    "website": "https://www.maisonsafqa.com",
+    "linkedin_url": "https://linkedin.com/company/maison-safqa",
+    "founder_name": "such as the",
+    "founder_linkedin_url": "",
+    "contact_email": "team@maisonsafqa.com",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/jin-justin_announcing-giggles-1234567-12m-in-activity-7447303764870402049-JFLu": {
+    "valid": false
+  },
+  "https://www.innovationopenlab.com/news-biz/65473/prism-layer-emerges-from-stealth-with-pre-seed-funding-led-by-fenway-summer.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.channelcity.it",
+    "linkedin_url": "",
+    "founder_name": "said Simone Garreau",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fintech.global/2026/04/07/felix-raises-1-7m-to-automate-professional-services/": {
+    "valid": true,
+    "company": "Felix",
+    "amount_str": "$1.7m",
+    "website": "https://felix.so",
+    "linkedin_url": "https://linkedin.com/company/tryfelix",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/felix-a-28015837",
+    "contact_email": "",
+    "twitter_url": "https://x.com/tryfelixai"
+  },
+  "https://beinsure.com/news/omniscient-raises-e3-5mn-to-bring-ai-intelligence/": {
+    "valid": false
+  },
+  "https://x.com/2048vc/status/2041506765875880238": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.f1dc7e4a.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/adam-kucharski-1a1b0225b_excited-for-next-steps-having-brought-wholesum-activity-7447318397933137920-BqCf": {
+    "valid": false
+  },
+  "https://www.aol.com/finance/founder-2-5-million-ai-080200984.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://s.yimg.com/oa/consent.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DW1DjEVibiH/": {
+    "valid": false
+  },
+  "https://www.blufftontoday.com/press-release/story/69387/strong-signal-for-investors-and-partners-h2-global-group-and-vr-life-validate-the-value-of-european-medtech-innovation/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://blufftontoday.xpr-gannett.com/feed",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bebeez.eu/2026/04/07/neuroclues-raises-e10-million-series-a-to-become-the-brains-stethoscope-for-early-diagnosis-of-neurological-disorders/": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/04/07/spains-xoople-closes-e112-6-million-series-b-to-build-ai-ready-earth-data-infrastructure/": {
+    "valid": false
+  },
+  "https://beinsure.com/news/deeptune-raises-43mn-to-build-ai-agents/": {
+    "valid": true,
+    "company": "Deeptune",
+    "amount_str": "$43 m",
+    "website": "https://deeptune.com",
+    "linkedin_url": "https://linkedin.com/company/trydeeptune",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "tim@deeptune.ai",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-in/entertainment/southcinema/startup-ac-brand-helium-raises-usd-2-million/ar-AA20m2Ig?ocid=finance-verthp-feeds": {
+    "valid": false
+  },
+  "https://www.ajc.com/business/2026/04/georgia-based-hypersonic-plane-startup-hermeus-moves-hq-to-california/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.npttech.com/advertising.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.securityweek.com/trent-ai-emerges-from-stealth-with-13-million-in-funding/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/anthropic-private-equity-ai-joint-venture/": {
+    "valid": false
+  },
+  "https://x.com/startup__pedia/status/2041440911679226373": {
+    "valid": false
+  },
+  "https://www.vccircle.com/h2loopxccelera-raise-early-stage-funding": {
+    "valid": true,
+    "company": "Helium Smart Air",
+    "amount_str": "$2 m",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/heliumair",
+    "founder_name": "Aman Gupta",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.calcalistech.com/ctechnews/article/b5oina3rz": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://newmedia.calcalist.co.il/ctech/testimonials/index.html",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "judith.hoffmann@calcalist.co.il",
+    "twitter_url": ""
+  },
+  "https://www.startupmag.co.uk/funding/wholesum-2026-pre-seed-funding/": {
+    "valid": true,
+    "company": "WholeSum",
+    "amount_str": "",
+    "website": "https://wholesum.app",
+    "linkedin_url": "https://linkedin.com/company/28601955",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
