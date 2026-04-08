@@ -28680,5 +28680,219 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://news.crunchbase.com/venture/data-most-active-highest-spending-startup-investors-q1-2026/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/08/march-2026s-top-10-european-tech-deals-you-need-to-know-about/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/08/handhold-raises-eur3m-to-replace-fragmented-software-buying-journeys-with-ai-account-managers/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/08/funding-dips-but-fundamentals-hold-european-tech-raises-eur75b-in-march/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/08/european-techeu-pulse-key-trends-and-investment-in-march/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/gtis-partners-and-hovnanian-enterprises-announce-closing-of-200-million-homebuilding-joint-venture-portfolio-bringing-total-portfolio-to-1-5-billion-302736581.html": {
+    "valid": true,
+    "company": "GTIS Partners and Hovnanian Enterprises",
+    "amount_str": "$200 M",
+    "website": "https://www.prnewswire.com",
+    "linkedin_url": "https://linkedin.com/company/pr-newswire",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/PRNewswire"
+  },
+  "https://x.com/jbahrdestefano/status/2041533668636626971": {
+    "valid": true,
+    "company": "Modus just",
+    "amount_str": "$85 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.law.com/legaltechnews/2026/04/08/patlytics-secures-40m-in-series-b-funding-with-contribution-from-relativity/": {
+    "valid": true,
+    "company": "Patlytics",
+    "amount_str": "$40M",
+    "website": "https://patlytics.info",
+    "linkedin_url": "https://linkedin.com/company/patlytics",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/patlytics"
+  },
+  "https://ground.news/article/trent-ai-raises-13m-to-secure-the-agentic-age": {
+    "valid": true,
+    "company": "Trent AI",
+    "amount_str": "$13M",
+    "website": "https://trent.ai",
+    "linkedin_url": "https://linkedin.com/company/trentai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/04/estonias-handhold-raises-e3-million-to-give-every-software-buyer-an-ai-account-manager/": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/golden-analytics-raises-7m-seed-round": {
+    "valid": false
+  },
+  "https://techfundingnews.com/handhold-3m-seed-ai-sales-agents/": {
+    "valid": false
+  },
+  "https://e27.co/onsite-raises-us1-3m-to-fix-constructions-whatsapp-problem-20260408/": {
+    "valid": false
+  },
+  "https://www.wsj.com/pro/venture-capital/neo-turned-a-150-million-fund-into-1-2-billion-rare-for-the-2021-vintage-4222191e": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thenextweb.com/news/trent-ai-13m-agentic-security-multi-agent": {
+    "valid": true,
+    "company": "Trent AI",
+    "amount_str": "$13M",
+    "website": "https://trent.ai",
+    "linkedin_url": "https://linkedin.com/company/trentai",
+    "founder_name": "former Vice",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/yourstorycom/posts/accounting-tech-startup-atlas-has-raised-6-million-in-a-seed-round-co-led-by-acc/1425895719572398/": {
+    "valid": true,
+    "company": "Accounting-tech startup Atlas",
+    "amount_str": "$6 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DW23s8-kkqT/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Magazine on Instagram",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/jeito-capital-1b-biopharma-fund-europe/": {
+    "valid": true,
+    "company": "Jeito Capital",
+    "amount_str": "$1.2B",
+    "website": "https://www.jeito.life",
+    "linkedin_url": "https://linkedin.com/company/jeito-life",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/jeito_life"
+  },
+  "https://www.thesaasnews.com/news/felix-raises-1-7-million-pre-seed": {
+    "valid": false
+  },
+  "https://fortune.com/2026/04/08/a16z-infinite-machine-olto/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cookielaw.org/consent/906dc33b-1fc3-4b2c-a324-8bc0b7db9050/OtAutoBlock.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thecondia.com/madica-kilimo-fresh-hakimu-biovana/": {
+    "valid": false
+  },
+  "https://x.com/giggles_app/status/2041527475780583581": {
+    "valid": false
+  },
+  "https://m.dailyhunt.in/news/india/english/entrackr+english-epaper-entrackr/customer+interaction+platform+angoor+ai+raises+preseed+round+led+by+venturizer-newsid-n707657661": {
+    "valid": true,
+    "company": "Customer interaction platform Angoor AI",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://euagenda.eu/news/920226": {
+    "valid": false
+  },
+  "https://e27.co/where-is-your-niche-mr-startup-20260326/": {
+    "valid": false
+  },
+  "https://www.businessinsider.com/pitch-pomo-deck-ai-startup-fundraise-marketing-platform-2026-4": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://i.insider.com/69d448ab6a864f6fcd7bde2f",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DW0xpMbierp/": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/04/dutch-startup-airhub-secures-e4-4-to-build-mission-critical-drone-software-for-europes-security-and-defence-operations/": {
+    "valid": false
+  },
+  "https://inc42.com/buzz/helium-air-bags-2-mn-to-accelerate-smart-ac-development/": {
+    "valid": true,
+    "company": "Helium Air",
+    "amount_str": "$2 M",
+    "website": "https://www.heliumair.in",
+    "linkedin_url": "https://linkedin.com/company/heliumair",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://smestreet.in/technology/angoor-ai-secures-funding-to-expand-product-and-sales-11700894": {
+    "valid": true,
+    "company": "Angoor AI",
+    "amount_str": "",
+    "website": "https://angoor.ai",
+    "linkedin_url": "https://linkedin.com/company/angoor-ai",
+    "founder_name": "Arpit Agarwal",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@angoor.ai",
+    "twitter_url": ""
+  },
+  "https://www.cxodigitalpulse.com/trent-ai-emerges-from-stealth-with-13-million-to-secure-next-generation-ai-agents/": {
+    "valid": false
+  },
+  "https://myhq.in/blog/virtual-office/startup-incubators-investors-india/": {
+    "valid": false
+  },
+  "https://www.instagram.com/reel/DW24RxCkVRO/": {
+    "valid": false
+  },
+  "https://www.electronicsforyou.biz/startups/arvo-the-answer-to-product-authenticity-challenges/": {
+    "valid": false
   }
 }
