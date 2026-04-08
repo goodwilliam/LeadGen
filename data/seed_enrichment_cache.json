@@ -28894,5 +28894,253 @@
   },
   "https://www.electronicsforyou.biz/startups/arvo-the-answer-to-product-authenticity-challenges/": {
     "valid": false
+  },
+  "https://www.geekwire.com/2026/humanly-raises-25m-to-put-ai-to-work-for-job-seekers-not-just-the-companies-hiring-them/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/solar-roadways-introduces-sr5-deploys-at-military-base-and-completes-seventh-government-grant-as-investment-opportunity-opens-to-fund-path-to-mass-manufacturing-302737176.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/treon-obtient-un-investissement-de-6-8-millions-deuros-mene-par-acme-capital-pour-accelerer-linnovation-en-matiere-dia-industrielle-302737253.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-deadline-robbins-geller-rudman--dowd-llp-announces-that-super-micro-computer-inc-smci-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit-302736797.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/heron-finance-launches-private-real-estate-investing-strategy-for-accredited-investors-and-family-offices-302737247.html": {
+    "valid": false
+  },
+  "https://www.theinformation.com/newsletters/ai-agenda/startup-building-code-management-software-tokenmaxxers": {
+    "valid": false
+  },
+  "https://techfundingnews.com/airhub-raises-4-4m-europe-drone-operations/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/04/08/intel-joins-elon-musks-terafab-initiative-to-advance-ai-chip-manufacturing-in-the-u-s/": {
+    "valid": false
+  },
+  "https://www.precisionmedicineonline.com/precision-oncology/digital-pathology-firm-acurion-raises-43m-seed-funding": {
+    "valid": false
+  },
+  "https://letsdatascience.com/news/atlas-secures-6m-to-scale-accounting-ai-platform-6e1ae923": {
+    "valid": false
+  },
+  "https://www.forbes.com/sites/josipamajic/2026/04/08/seed-stage-ai-startups-are-flashing-record-revenue-numbers-and-most-of-them-are-not-what-they-seem/": {
+    "valid": false
+  },
+  "https://www.nosh.com/news/2026/thrive-pushes-suppliers-meet-scope-3-targets-as-epr-rules-loom": {
+    "valid": false
+  },
+  "https://www.wamda.com/2026/04/elgoat-raises-266000-seed-build-skill-based-football-gaming-platform": {
+    "valid": true,
+    "company": "ElGoat",
+    "amount_str": "",
+    "website": "https://www.furaffinity.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://entrackr.com/snippets/defense-tech-firm-tsecondai-raises-215-mn-led-by-msn-holdings-11701077": {
+    "valid": true,
+    "company": "Defense tech firm Tsecond.ai",
+    "amount_str": "$21.5 M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "MD and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://femtechinsider.com/australian-startup-proseek-bio-raises-a1-5m-to-commercialize-ovarian-cancer-detection-blood-test/": {
+    "valid": true,
+    "company": "Proseek Bio",
+    "amount_str": "$1.5M",
+    "website": "https://www.proseekbio.com",
+    "linkedin_url": "https://linkedin.com/company/proseek-bio",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "example@mysite.com",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://www.nosh.com/news/2026/startup-kids-snack-brand-cadootz-raises-3-million-seed-round": {
+    "valid": true,
+    "company": "Kids Snack Brand Cadootz",
+    "amount_str": "$3 M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://entrackr.com/snippets/ian-alpha-fund-leads-rs-22-cr-round-in-deep-tech-startup-roshai-11701674": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.ampproject.org/v0.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/zero-shot-20m-vc-fund-openai-alumni/": {
+    "valid": false
+  },
+  "https://www.bwdisrupt.com/article/ian-alpha-fund-leads-rs-22-cr-round-in-deeptech-startup-roshai-601390": {
+    "valid": false
+  },
+  "https://proptechconnect.com/conxai-raises-e5m-to-bring-agentic-al-to-construction-industry/": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/tampabay/news/2026/04/08/inno-roundup-seagate-space.html": {
+    "valid": false
+  },
+  "https://itbrief.co.uk/story/felix-launches-ai-workflow-platform-with-usd-1-7-million": {
+    "valid": true,
+    "company": "Felix",
+    "amount_str": "$1.7 m",
+    "website": "https://www.felixchevroletstore.com",
+    "linkedin_url": "https://linkedin.com/company/felix-global-corp",
+    "founder_name": "of Felix",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/nfuse-raises-2m-in-funding.html": {
+    "valid": false
+  },
+  "https://sahyadristartups.com/spotlight/kinetic-technologies-secures-usd-85-million-deal-as-cyient-semiconductors-acquires-majority-stake/": {
+    "valid": true,
+    "company": "Kinetic Technologies",
+    "amount_str": "$85 M",
+    "website": "https://www.kinet-ic.com",
+    "linkedin_url": "https://linkedin.com/company/kinetic-technologies",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/hello_kinetic"
+  },
+  "https://x.com/pnxgrp/status/2041826985136030024/photo/1": {
+    "valid": true,
+    "company": "@Giggles_app",
+    "amount_str": "$1.2M",
+    "website": "https://giggles.me",
+    "linkedin_url": "https://linkedin.com/company/freewillagency",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://yourstory.com/2026/04/startup-news-and-updates-daily-roundup-april-8-2026": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.datacenterdynamics.com/en/news/israeli-quantum-computing-startup-q-factor-emerges-from-stealth-with-24m-funding-round/": {
+    "valid": false
+  },
+  "https://sugermint.com/lexar-udaan-2-0-india-partners-thailand-trip/": {
+    "valid": false
+  },
+  "https://www.scworld.com/brief/trent-ai-secures-13-million-seed-funding-to-enhance-ai-cybersecurity": {
+    "valid": true,
+    "company": "Trent AI",
+    "amount_str": "$13 m",
+    "website": "https://trent.ai",
+    "linkedin_url": "https://linkedin.com/company/trentai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.indianstartuptimes.com/investment/atlas-raises-6-million-seed-funding-to-build-ai-tools-for-accounting-firms/": {
+    "valid": true,
+    "company": "Atlas",
+    "amount_str": "$6 M",
+    "website": "https://theatlas.ai",
+    "linkedin_url": "https://linkedin.com/company/atlasailabs",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "you@yourfirm.com",
+    "twitter_url": "https://x.com/the_atlas_ai"
+  },
+  "https://www.finsmes.com/2026/04/satellites-on-fire-raises-2-7m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.instagram.com/reel/DW3e8QyEwAl/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/q-factor-raises-24m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://yourstory.com/2026/04/atlas-raises-seed-funding-round-led-by-stellaris-and-accel": {
+    "valid": true,
+    "company": "Atlas",
+    "amount_str": "$6M",
+    "website": "https://atlas.heart.org",
+    "linkedin_url": "https://linkedin.com/company/atlashxm",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/stlouis/bizwomen/news/profiles-strategies/2026/04/medicaid-birth-maternal-care-doulas-malama-health.html": {
+    "valid": false
+  },
+  "https://businessday.ng/technology/article/madica-bets-600000-on-overlooked-african-startups-as-pre-seed-funding-gap-widens/?amp": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bajajfinserv.in/startup-india-seed-fund-scheme-details": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/04/08/eclipse-raises-1-3b-for-ai-robotics-physical-industries-investments/": {
+    "valid": true,
+    "company": "Eclipse",
+    "amount_str": "$1.3B",
+    "website": "https://eclipse.capital/blog/announcing-eclipse-fund-vi-and-early-growth-iii",
+    "linkedin_url": "https://linkedin.com/company/eclipse-vc",
+    "founder_name": "Eclipse founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "admin@eclipse.capita",
+    "twitter_url": ""
+  },
+  "https://indiantelevision.com/mam/aman-guptas-off-beat-secures-rs-100-crore-seed-funding-round/": {
+    "valid": true,
+    "company": "Aman Gupta's OFF/BEAT",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://dabafinance.com/en/news/africa-startups-cascador-scaleup-program": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://dabafinance-website.s3.amazonaws.com/DabaArrow.svg",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
