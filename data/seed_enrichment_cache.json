@@ -28503,5 +28503,81 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/c2fo-claims-top-ifc-award-in-lisbon-as-global-funding-surpasses-half-trillion-dollar-milestone-302736527.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/c2fo-claims-top-ifc-award-in-lisbon-as-global-funding-surpasses-half-trillion-dollar-milestone-302736511.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/deloitte-global-womens-elite-sports-continue-to-change-the-game-with-revenues-expected-to-reach-at-least-us3-billion-globally-in-2026-302736297.html": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/trent-ai-raises-13m-in-seed-round": {
+    "valid": false
+  },
+  "https://www.agtechnavigator.com/Article/2026/04/08/march-recap-top-10-innovation-startups-industry-trend-stories/": {
+    "valid": true,
+    "company": "Bindbridge",
+    "amount_str": "$3.8 m",
+    "website": "https://www.bindbridge.com",
+    "linkedin_url": "https://linkedin.com/company/bindbridge",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@bindbridge.com",
+    "twitter_url": "https://x.com/bindbridge"
+  },
+  "https://www.techinasia.com/news/singapore-contech-startup-onsite-raises-1-3m-seed": {
+    "valid": true,
+    "company": "Singapore contech startup OnSite",
+    "amount_str": "$1.3m",
+    "website": "https://www.techinasia.com",
+    "linkedin_url": "https://linkedin.com/company/tech-in-asia",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/techinasia"
+  },
+  "https://www.heraldnews.com/press-release/story/133900/hexembio-launches-with-10-4m-seed-round-to-advance-blood-stem-cell-rejuvenation-therapy/": {
+    "valid": true,
+    "company": "HexemBio",
+    "amount_str": "$10.4M",
+    "website": "https://hexemb.io",
+    "linkedin_url": "https://linkedin.com/company/hexembio",
+    "founder_name": "of Moderna",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techinasia.com/news/wavemaker-impact-backs-tech-startup-muun-ai-700k-preseed": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.panewslab.com/en/articles/019d6ad4-0ed7-732d-bf59-0096b39d8f3f": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/04/07/australian-elder-care-robotics-company-andromeda-expanding-into-us-opens-wait-list/": {
+    "valid": false
+  },
+  "https://www.nacleanenergy.com/alternative-energies/supra-extends-pre-seed-funding-round-with-rio-tinto-as-strategic-investor": {
+    "valid": false
+  },
+  "https://technode.global/2026/04/08/singapore-ai-startup-onsite-raises-1-3m-to-solve-construction-inefficiencies/": {
+    "valid": true,
+    "company": "Singapore AI startup OnSite",
+    "amount_str": "$1.3M",
+    "website": "https://technode.global",
+    "linkedin_url": "https://linkedin.com/company/technodeglobal",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/technodeglobal"
   }
 }
