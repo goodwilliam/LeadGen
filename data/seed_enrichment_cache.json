@@ -28221,5 +28221,287 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/04/07/hypersonic-aircraft-startup-hermeus-raises-350m-1b-valuation/": {
+    "valid": true,
+    "company": "Hypersonic aircraft startup Hermeus",
+    "amount_str": "$350M",
+    "website": "https://www.aerotime.aero",
+    "linkedin_url": "https://linkedin.com/company/avia-time",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/AviationNews"
+  },
+  "https://siliconangle.com/2026/04/07/modus-secures-85m-expand-ai-powered-audit-accounting-partnerships/": {
+    "valid": true,
+    "company": "Modus",
+    "amount_str": "$85M",
+    "website": "https://www.modusalliance.com",
+    "linkedin_url": "https://linkedin.com/company/modus-audit-inc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/04/07/white-house-targets-cybersecurity-infrastructure-security-agency-707m-budget-cut/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/07/data-center-switch-maker-aria-networks-raises-125m/": {
+    "valid": true,
+    "company": "Data center switch maker Aria Networks",
+    "amount_str": "$125M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.geekwire.com/2026/golf-star-bryson-dechambeau-leads-acquisition-of-seattle-area-startup-sportsbox-ai/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/data-breach-alert-edelson-lechtzin-llp-investigates-situsamc-holdings-corporation-data-breach-302736391.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-hub-group-inc-investors-to-inquire-about-securities-class-action-investigation--hubg-302734487.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/bsx-investors-have-opportunity-to-lead-boston-scientific-corporation-securities-fraud-lawsuit-302734401.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/aldx-investors-have-opportunity-to-lead-aldeyra-therapeutics-inc-securities-fraud-lawsuit-filed-by-the-rosen-law-firm-302734381.html": {
+    "valid": false
+  },
+  "https://techfundingnews.com/conxai-funding-agentic-ai-construction/": {
+    "valid": false
+  },
+  "https://x.com/foundersai_/status/2041572053325856868": {
+    "valid": true,
+    "company": "Coastal Measures just",
+    "amount_str": "$1.2M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/european-venture-capital-zombie-funds/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/aria-networks-125m-ai-networking/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/ido-ben-natan-576a4483_latitude-just-raised-8m-what-are-they-activity-7447316370259628032-Wgbn": {
+    "valid": false
+  },
+  "https://www.pressreader.com/new-zealand/the-northern-advocate6030/20260408/281801405519938": {
+    "valid": true,
+    "company": "Scentian Bio",
+    "amount_str": "$7m",
+    "website": "https://www.scentianbio.com",
+    "linkedin_url": "https://linkedin.com/company/scentian-bio",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "user@domain.com",
+    "twitter_url": "https://x.com/scentianB"
+  },
+  "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/": {
+    "valid": false
+  },
+  "https://www.indexbox.io/blog/zero-shot-openai-alumni-launch-100m-venture-fund-with-first-close/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "who also serves as",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://mystartupworld.com/lucky-secures-23-million-in-series-b-funding/": {
+    "valid": true,
+    "company": "Lucky",
+    "amount_str": "$23 m",
+    "website": "https://www.ctlottery.org",
+    "linkedin_url": "https://linkedin.com/company/ct-lottery",
+    "founder_name": "commented Ayman Essawy",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ctlottery"
+  },
+  "https://www.crainsdetroit.com/technology/cdb-pitchmi-winner-20260407/": {
+    "valid": true,
+    "company": "Ann Arbor company",
+    "amount_str": "$1M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Adrenaline Interactive",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://hypepotamus.com/startup-news/hermeus-unicorn-350m-atlanta-los-angeles-hq-move/": {
+    "valid": true,
+    "company": "Hermeus Hits $1B Valuation",
+    "amount_str": "$1B",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.hpcwire.com/aiwire/2026/04/07/kimia-raises-7m-to-launch-its-ai-knowledge-platform-for-the-chemical-industry/": {
+    "valid": false
+  },
+  "https://entarabi.com/en/2026/04/maison-safqa-raises-620k-in-pre-seed-round-to-transform-luxury-inventory-sales-in-the-gcc/": {
+    "valid": true,
+    "company": "Maison Safqa",
+    "amount_str": "$620K",
+    "website": "https://www.maisonsafqa.com",
+    "linkedin_url": "https://linkedin.com/company/maison-safqa",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "team@maisonsafqa.com",
+    "twitter_url": ""
+  },
+  "https://www.law360.com/pulse/amp/articles/2461830": {
+    "valid": false
+  },
+  "https://www.bitnovo.com/blog/en/the-startup-that-wants-to-mine-crypto-from-space": {
+    "valid": false
+  },
+  "https://inforcapital.com/news/matriq-raises-seed-round-to-build-silicon-based-superconducting-quantum-systems/": {
+    "valid": true,
+    "company": "MatriQ",
+    "amount_str": "",
+    "website": "https://matriq.ch",
+    "linkedin_url": "https://linkedin.com/company/matriq-ag",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@matriq.ch",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/cardano-draper-dragon-80m-orion-fund/": {
+    "valid": false
+  },
+  "https://news.bitcoin.com/report-meme-prediction-market-app-giggles-raises-1-2m-as-crypto-social-apps-compete-for-gen-z/": {
+    "valid": true,
+    "company": "Meme Prediction Market App Giggles",
+    "amount_str": "$1.2M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/cyberhill-partners-raises-11m-investment-from-baleon-capital.html": {
+    "valid": false
+  },
+  "https://www.marinelink.com/amp/news/tech-talk-time-rethink-watchkeeping-537778": {
+    "valid": false
+  },
+  "https://beinsure.com/news/certiv-raises-4-2-mn-to-secure-autonomous-ai-agents/": {
+    "valid": true,
+    "company": "Certiv",
+    "amount_str": "$4.2 m",
+    "website": "https://certiv.ai",
+    "linkedin_url": "https://linkedin.com/company/certiv",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@certiv.ai",
+    "twitter_url": "https://x.com/certiv_ai"
+  },
+  "https://emobilityplus.com/2026/04/07/hyundai-ioniq-6-n-wins-2026-world-performance-car-strengthening-ev-leadership/": {
+    "valid": false
+  },
+  "https://www.capitalbrief.com/briefing/chemicals-industry-ai-firm-kimia-raises-7m-in-seed-round-c87219aa-cae8-40a2-ba01-7ca23f426982/": {
+    "valid": true,
+    "company": "Chemicals industry AI firm Kimia",
+    "amount_str": "$7m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://nationaltoday.com/us/il/chicago/news/2026/04/07/dental-ai-startup-raises-20m-in-seed-funding/": {
+    "valid": true,
+    "company": "Dental AI Startup",
+    "amount_str": "$20M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.edgeir.com/hosted-ai-raises-19m-to-tackle-gpu-underutilization-and-reshape-ai-infrastructure-economics-20260407": {
+    "valid": true,
+    "company": "UK-based startup NexGen Cloud",
+    "amount_str": "$45m",
+    "website": "https://www.edgeir.com",
+    "linkedin_url": "https://linkedin.com/company/edgeir",
+    "founder_name": "says Ditlev Bredahl",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://nationaltoday.com/us/fl/miami/news/2026/04/07/petwealth-emerges-from-stealth-with-1-7-million-in-funding/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.tiktok.com/@www.nationaltoday.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "u002F@www.nationaltoday.com",
+    "twitter_url": ""
+  },
+  "https://trendtype.com/news/moroccan-digital-retail-platform-z-systems-raises-1-65m-in-seed-funding-round/": {
+    "valid": true,
+    "company": "The new round means the company",
+    "amount_str": "$2.7m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.tipranks.com/news/private-companies/kids-snack-startup-cadootz-raises-3m-seed-to-fund-rapid-dtc-momentum-and-2026-national-retail-rollout": {
+    "valid": true,
+    "company": "Kids snack startup cadootz!",
+    "amount_str": "$3M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://valorinternational.globo.com/google/amp/summit-valor-brazil-china-2026/news/2026/04/07/too-much-money-too-little-ambition-in-startups-investor-says.ghtml": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.ampproject.org",
+    "linkedin_url": "",
+    "founder_name": "of Agemica",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
