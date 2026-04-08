@@ -28579,5 +28579,106 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": "https://x.com/technodeglobal"
+  },
+  "https://www.prnewswire.com/news-releases/central-pattana-announces-3-billion-investment-to-expand-mixed-use-developments-across-thailand-302736826.html": {
+    "valid": true,
+    "company": "Central Pattana",
+    "amount_str": "$3 B",
+    "website": "https://www.centralpattana.co.th",
+    "linkedin_url": "https://linkedin.com/company/centralpattana",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/ribbon-bio-appoints-dr-urs-spitz-as-chair-of-the-board-302735650.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/gtn-appoints-former-etrade-bux-and-capitalcom-executive-salim-sebbata-as-chief-commercial-officer-for-europe-302736035.html": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/louisville/inno/newsletter/31009959?skip=100": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://pandaily.com/matri-q-raises-seed-round-to-build-silicon-based-superconducting-quantum-systems": {
+    "valid": true,
+    "company": "MatriQ",
+    "amount_str": "",
+    "website": "https://matriq.ch",
+    "linkedin_url": "https://linkedin.com/company/matriq-ag",
+    "founder_name": "Wenlong Yu holds",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@matriq.ch",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/cadootz-raises-3m-in-seed-funding.html": {
+    "valid": true,
+    "company": "cadootz!",
+    "amount_str": "$3M",
+    "website": "https://cadootz.com",
+    "linkedin_url": "https://linkedin.com/company/cadootz",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://retail.economictimes.indiatimes.com/news/toys-kids-and-baby/kidswear/filli-me-raises-1-5-cr-pre-seed-led-by-d2c-insider-super-angels-bets-on-early-years-kids-accessories-play/130104884": {
+    "valid": false
+  },
+  "https://e27.co/muun-ai-funding-20260408/": {
+    "valid": false
+  },
+  "https://www.indianretailer.com/news/funding-alert-d2c-ac-startup-helium-smart-air-secures-2-mn-scale-operations": {
+    "valid": false
+  },
+  "https://infotechlead.com/tech/venture-capital-funding-cloud-capital-ridge-ai-neubird-ai-stark-power-94926?amp=1": {
+    "valid": true,
+    "company": "Capital",
+    "amount_str": "$7.7 m",
+    "website": "https://capitaljazz.com",
+    "linkedin_url": "https://linkedin.com/company/capital-group",
+    "founder_name": "Founded by",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.reddit.com/r/AppBusiness/comments/1sfgq1e/can_you_value_your_b2c_tech_company_at_5_million/": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/prism-layer-raises-pre-seed-round": {
+    "valid": false
+  },
+  "https://en.wowtale.net/2026/04/08/233838/": {
+    "valid": true,
+    "company": "REVITA",
+    "amount_str": "",
+    "website": "https://revita.ag",
+    "linkedin_url": "https://linkedin.com/company/revita-anti-aging-center",
+    "founder_name": "COMEUP Future",
+    "founder_linkedin_url": "",
+    "contact_email": "sanghyeokum@revita.kr",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/04/bristols-narwhal-labs-secures-e22-9-million-and-launches-deepblue-os-its-autonomous-communications-platform/": {
+    "valid": false
+  },
+  "https://www.indexbox.io/blog/rocket-ai-platform-launches-to-transform-product-strategy-development/": {
+    "valid": true,
+    "company": "Rocket AI Platform",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
