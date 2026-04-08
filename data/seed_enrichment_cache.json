@@ -29142,5 +29142,143 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/": {
+    "valid": false
+  },
+  "https://venturebeat.com/orchestration/new-framework-lets-ai-agents-rewrite-their-own-skills-without-retraining-the": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/08/felix-launches-1-7m-reliably-automate-professional-services/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/soleno-therapeutics-inc-slno-investors-may-5-2026-deadline-in-securities-fraud-class-action-lawsuit-302737332.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/baltimore-community-foundation-announces-legacy-forward-grant-recipients-supporting-programming-across-baltimore-in-celebration-of-americas-250th-anniversary-302737446.html": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/joerg-gerbig-49b63342_terraspark-just-raised-a-54m-pre-seed-activity-7447650533487763457-lh-F": {
+    "valid": false
+  },
+  "https://entrackr.com/snippets/skincare-brand-clayco-raises-rs-3459-cr-in-series-a-led-by-twenty-nine-capital-11701187": {
+    "valid": true,
+    "company": "Mumbai-based startup had earlier",
+    "amount_str": "$2 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bayelsawatch.com/golden-analytics-secures-7m/": {
+    "valid": true,
+    "company": "Golden Analytics",
+    "amount_str": "$7M",
+    "website": "https://www.goldenanalytics.com",
+    "linkedin_url": "https://linkedin.com/company/goldenanalytics",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "legal@goldenanalytics.com",
+    "twitter_url": "https://x.com/datarockstar"
+  },
+  "https://betakit.com/new-york-times-claims-bitcoin-creator-is-founder-of-canadian-company-blockstream/": {
+    "valid": false
+  },
+  "https://www.courier-journal.com/press-release/story/160089/yellow-blue-raises-%C2%A570m-seed-for-blue-one-pioneering-ai-translation-2-0-for-professionals/": {
+    "valid": false
+  },
+  "https://www.tipranks.com/news/private-companies/giggles-raises-pre-seed-capital-to-monetize-early-viral-video-discovery": {
+    "valid": true,
+    "company": "Giggles",
+    "amount_str": "",
+    "website": "https://linktr.ee",
+    "linkedin_url": "https://linkedin.com/company/gigglesplatforms",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://sg.finance.yahoo.com/news/giggles-raises-1m-turn-viral-183200136.html": {
+    "valid": true,
+    "company": "Giggles",
+    "amount_str": "$1M",
+    "website": "https://giggles.me",
+    "linkedin_url": "https://linkedin.com/company/gigglesplatforms",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://ukbaa.org.uk/blog/2026/04/08/dentadurance-secures-210000-in-pre-seed-funding-to-pioneer-athlete-oral-care-thanks-to-foundercatalyst/": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/edkang99_the-pre-seed-funding-market-is-a-mess-and-activity-7447659724801761280-ls8h": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/2048vc_introducing-2048-ventures-pre-seed-fast-track-activity-7447272446832840704-Y3bR": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/thesaasnews_felix-raises-17-million-pre-seed-the-activity-7447583689234051072-wRCl": {
+    "valid": true,
+    "company": "Felix",
+    "amount_str": "$1.7 M",
+    "website": "https://www.nintendo.com",
+    "linkedin_url": "https://linkedin.com/company/felix-global-corp",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/felix-lalo",
+    "contact_email": "",
+    "twitter_url": "https://x.com/NintendoAmerica"
+  },
+  "https://m.dailyhunt.in/news/india/english/yourstory-epaper-yourstory/startup+news+and+updates+daily+roundup+april+8+2026-newsid-n707711192": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wa.me",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thestartupscene.me/INVESTMENTS/Saudi-Based-Maison-Safqa-Raises-620K-Pre-Seed-From-Global-Investors": {
+    "valid": true,
+    "company": "Saudi-Based Maison Safqa",
+    "amount_str": "$620K",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "including the",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupfortune.com/when-ai-companies-build-fast-and-forget-to-staff-support/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://api.whatsapp.com/send",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/whatsapp"
+  },
+  "https://techfundingnews.com/bondstone-ventures-50m-deeptech-fund-portugal/": {
+    "valid": false
+  },
+  "https://www.startupmag.co.uk/funding/fieldwork-robotics-2026-seed-funding/": {
+    "valid": false
+  },
+  "https://inc42.com/buzz/atlas-nets-6-mn-to-scale-its-accounting-focused-ai-platform/": {
+    "valid": false
   }
 }
