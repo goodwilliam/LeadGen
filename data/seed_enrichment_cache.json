@@ -29869,5 +29869,352 @@
   },
   "https://cryptorank.io/news/feed/f07e3-data-most-active-highest-spending-startup-investors-q1-2026": {
     "valid": false
+  },
+  "https://tech.eu/2026/04/09/edmund-secures-eur25m-to-bring-ai-driven-troubleshooting-to-the-factory-floor/": {
+    "valid": true,
+    "company": "Edmund",
+    "amount_str": "\u20ac2.5M",
+    "website": "https://www.edmundai.com",
+    "linkedin_url": "https://linkedin.com/company/edmundai",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/edmund-saiyo-0a770337a",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/09/qoro-closes-750k-to-bridge-quantum-and-classical-computing/": {
+    "valid": true,
+    "company": "Qoro",
+    "amount_str": "$750K",
+    "website": "https://qoroquantum.net",
+    "linkedin_url": "https://linkedin.com/company/qoro",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://betakit.com/how-new-sred-changes-could-supercharge-canadian-hard-tech-and-manufacturing-startups/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/09/haast-raises-12m-help-legal-teams-make-haste-compliant-ai-generated-content/": {
+    "valid": true,
+    "company": "Haast",
+    "amount_str": "$12M",
+    "website": "https://haast.io",
+    "linkedin_url": "https://linkedin.com/company/haast-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@haast.io",
+    "twitter_url": ""
+  },
+  "https://www.geekwire.com/2026/portal-space-systems-50m-starburst/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/patientpoint-raises-the-bar-on-performance-metrics-with-full-mrc-accreditation-across-national-network-of-digital-screens-302738398.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/icounter-advances-compromise-intelligence-leadership-with-strategic-acquisition-of-parseintel-team-and-capabilities-302738544.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/beach-house-center-for-recovery-announces-in-network-contract-with-ambetter-health-302738541.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/navn-investor-alert-securities-class-action-alleges-navans-navn-ipo-materials-omitted-to-surge-in-sales--marketing-expenses--hagens-berman-302738377.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/kd-4-day-deadline-alert-kyndryl-kd-facing-securities-class-action-amid-55-stock-drop-after-four-bombshell-disclosures---hagens-berman-302738370.html": {
+    "valid": false
+  },
+  "https://businessnewsthisweek.com/business/logistics-startup-daakit-raises-usd-138000-in-pre-seed-round-led-by-inflection-point-ventures/": {
+    "valid": false
+  },
+  "https://businessnewsthisweek.com/technology/angoor-ai-raises-inr-2-crore-in-pre-seed-round-led-by-venturizer/": {
+    "valid": true,
+    "company": "Angoor AI",
+    "amount_str": "",
+    "website": "https://angoor.ai",
+    "linkedin_url": "https://linkedin.com/company/angoor-ai",
+    "founder_name": "Founder and",
+    "founder_linkedin_url": "https://linkedin.com/in/anuj-agrawal-1a85b5169",
+    "contact_email": "hello@angoor.ai",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/flashpass-4-1m-seed-j2-ventures-workforce-ai/": {
+    "valid": true,
+    "company": "Flashpass",
+    "amount_str": "$4.1M",
+    "website": "https://www.flashpass.net",
+    "linkedin_url": "https://linkedin.com/company/flashpass-education",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/flashpass"
+  },
+  "https://www.bnnbloomberg.ca/business/2026/04/09/the-videos-sitting-in-your-camera-roll-could-be-worth-some-money-says-this-montreal-startup/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://tru.am",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://crypto.news/enhanced-labs-raises-1-million-to-widen-on-chain-options-yield/": {
+    "valid": true,
+    "company": "Enhanced Labs",
+    "amount_str": "$1 m",
+    "website": "https://enhancedlabs.com",
+    "linkedin_url": "https://linkedin.com/company/enhanced-labs",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thelogic.co/briefing/flora-fertility-raises-us5m-round/": {
+    "valid": true,
+    "company": "Flora previously",
+    "amount_str": "$1.5 m",
+    "website": "https://en.wikipedia.org",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/phoenix/news/2026/04/09/meet-the-winners-of-the-2026-az-inno-fire-awards.html": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/kansascity/news/2026/04/09/digital-sandbox-umkc-jeff-zhao-startup-funding.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://m.dailyhunt.in/news/india/english/benzinga-epaper-benzinga/vinod+khosla+is+betting+on+this+exciting+company+building+fast+aircraft+as+it+chases+1+billion+valuation-newsid-n707670960": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/money/smallbusiness/seattle-startups-combine-inflection-io-acquires-keyplay-reuniting-longtime-entrepreneurs/ar-AA20scS6?ocid=finance-verthp-feeds": {
+    "valid": false
+  },
+  "https://entarabi.com/en/2026/04/jozo-closes-seed-round-led-by-hamad-bin-saedan-as-strategic-partner/": {
+    "valid": true,
+    "company": "Jozo",
+    "amount_str": "",
+    "website": "https://jozoheritage.com",
+    "linkedin_url": "https://linkedin.com/company/getjozo",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thequantuminsider.com/2026/04/09/quantonation-selects-yaqumo-as-its-first-japanese-investment/": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/atlas-raises-6-million-seed-round": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/golden-owl-raises-1-4m-seed-round": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/handhold-raises-3m-in-seed-round": {
+    "valid": false
+  },
+  "https://www.techjuice.pk/this-startup-is-helping-to-make-ai-agents-as-easy-as-sending-a-text/": {
+    "valid": true,
+    "company": "The company",
+    "amount_str": "$10 m",
+    "website": "https://www.thecompanystore.com",
+    "linkedin_url": "https://linkedin.com/company/linkedin",
+    "founder_name": "According to",
+    "founder_linkedin_url": "",
+    "contact_email": "custserv@thecompanystore.com",
+    "twitter_url": "https://x.com/thecompanystore"
+  },
+  "https://www.panewslab.com/en/articles/019d72ec-ab3f-77dc-9fe2-e6f350aa4081": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cloud.umami.is/script.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.panewslab.com/en/articles/019d72dd-ed10-74cb-bb60-ba3e0b7ad437": {
+    "valid": false
+  },
+  "http://www.odaily.news/en/newsflash/476059": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://turing.captcha.qcloud.com/TJCaptcha.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.investing.com/news/cryptocurrency-news/enhanced-secures-1m-in-strategic-preseed-funding-to-bring-structured-yield-to-more-assets-onchain-4606138": {
+    "valid": true,
+    "company": "Enhanced",
+    "amount_str": "$1M",
+    "website": "https://www.enhanced.com",
+    "linkedin_url": "https://linkedin.com/company/enhanced-games",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "media@enhanced.com",
+    "twitter_url": "https://x.com/enhanced_games"
+  },
+  "https://www.binance.com/en/square/post/310712902006674": {
+    "valid": false
+  },
+  "https://www.ainvest.com/news/enhanced-labs-chaos-labs-secure-funding-defi-tokenization-expands-2604/": {
+    "valid": true,
+    "company": "Enhanced Labs And Chaos Labs",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thestockdork.com/enhanced-secures-1m-in-strategic-pre-seed-funding-to-bring-structured-yield-to-more-assets-onchain/": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DW6j-VZDFh2/": {
+    "valid": false
+  },
+  "https://yourstory.com/2026/04/startup-news-and-updates-daily-roundup-april-9-2026": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://launchbaseafrica.com/2026/04/09/breega-deepens-african-push-with-pre-seed-investment-in-nigerian-energy-startup-powerlabs/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://launchbaseafrica.gumroad.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://entrepreneur.economictimes.indiatimes.com/amp/news/funding/daakit-secures-138000-pre-seed-funding-to-revolutionize-hyperlocal-logistics/130132953": {
+    "valid": true,
+    "company": "DAAKit",
+    "amount_str": "",
+    "website": "https://daakit.com",
+    "linkedin_url": "https://linkedin.com/company/daakit",
+    "founder_name": "said IPV",
+    "founder_linkedin_url": "",
+    "contact_email": "info@daakit.com",
+    "twitter_url": "https://x.com/daakit"
+  },
+  "https://phemex.com/news/article/moonpay-commerce-processes-over-40-million-in-payments-since-launch-72032": {
+    "valid": false
+  },
+  "http://www.odaily.news/en/newsflash/476017": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://turing.captcha.qcloud.com/TJCaptcha.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://proptechconnect.com/vuabl-raises-220k-pre-seed-to-roll-out-smartphone-lidar-property-condition-reporting/": {
+    "valid": true,
+    "company": "Vuabl",
+    "amount_str": "\u00a3220k",
+    "website": "https://vuabl.com",
+    "linkedin_url": "https://linkedin.com/company/vuabl",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/thesaasnews_chime-labs-bags-900k-pre-seed-round-the-activity-7447960696815919104-fuBQ": {
+    "valid": true,
+    "company": "Chime Labs",
+    "amount_str": "$900K",
+    "website": "https://chimelabs.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.panewslab.com/en/articles/019d722d-4894-722c-8c8b-e21b7c426335": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cloud.umami.is/script.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.ohiotechnews.com/ohio-startup-flashpass-raises-to-reskill-workers/": {
+    "valid": true,
+    "company": "Columbus-based Flashpass",
+    "amount_str": "$4.25M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Flashpass Founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/afterquery-gets-30m-from-altos-ventures-to-help-ai-understand-real-world-problems-better/": {
+    "valid": true,
+    "company": "AfterQuery",
+    "amount_str": "$30M",
+    "website": "https://www.afterquery.com",
+    "linkedin_url": "https://linkedin.com/company/afterquery",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/spencermateega",
+    "contact_email": "",
+    "twitter_url": "https://x.com/AfterQuery"
+  },
+  "https://startup-weekly.com/Atlas-raises-6m-seed-funding-to-power-the-next-global-accounting-firm/": {
+    "valid": true,
+    "company": "Atlas",
+    "amount_str": "$6 m",
+    "website": "https://theatlas.ai",
+    "linkedin_url": "https://linkedin.com/company/atlasailabs",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "you@yourfirm.com",
+    "twitter_url": "https://x.com/the_atlas_ai"
+  },
+  "https://www.thesaasnews.com/news/edmund-secures-2-5m-in-funding": {
+    "valid": false
+  },
+  "https://www.realestatenews.com/2026/04/09/shilo-rechat-lofty-add-ai-tools-associations-bolster-agent-safety": {
+    "valid": false
+  },
+  "https://startupfortune.com/tech-workers-are-betting-billions-on-their-own-layoffs/": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/baltimore/news/2026/04/09/bwi-rebokeh-startup-vision-blindness.html": {
+    "valid": false
   }
 }
