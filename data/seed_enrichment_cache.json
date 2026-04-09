@@ -29280,5 +29280,151 @@
   },
   "https://inc42.com/buzz/atlas-nets-6-mn-to-scale-its-accounting-focused-ai-platform/": {
     "valid": false
+  },
+  "https://siliconangle.com/2026/04/08/gitbutler-raises-17m-simplify-git-workflows-developers/": {
+    "valid": true,
+    "company": "GitButler",
+    "amount_str": "$17M",
+    "website": "https://gitbutler.com",
+    "linkedin_url": "https://linkedin.com/company/gitbutler",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.geekwire.com/2026/seattle-startups-combine-inflection-io-acquires-keyplay-reuniting-longtime-entrepreneurs/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/atlanta-dream-announce-landmark-multi-year-jersey-patch-partnership-with-albert-the-personal-financial-assistant-app-302737252.html": {
+    "valid": false
+  },
+  "https://techfundingnews.com/hermeus-1b-unicorn-valuation-supersonic/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/04/08/canva-doubles-down-on-ai-and-marketing-automation-with-simtheory-ortto-acquisitions/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/04/08/heydonto-ai-technology-closes-20m-seed-round-at-200m-valuation-to-scale-conduit-the-dental-interoperability-exchange/": {
+    "valid": true,
+    "company": "HeyDonto AI Technology",
+    "amount_str": "$20M",
+    "website": "https://www.newswire.com",
+    "linkedin_url": "https://linkedin.com/company/newswire-com",
+    "founder_name": "CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/inewswire"
+  },
+  "https://entarabi.com/en/2026/04/falak-startups-achieves-25-5x-exit-from-delta-oil/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/04/08/nfuse-announces-e1-7m-funding-round-to-scale-ai-powered-b2b-ordering-platform-across-global-markets/": {
+    "valid": false
+  },
+  "https://markets.businessinsider.com/news/currencies/pharos-network-announces-44m-series-a-round-bringing-total-funding-to-52m-to-scale-onchain-economy-1036002956": {
+    "valid": true,
+    "company": "Pharos Network",
+    "amount_str": "$44M",
+    "website": "https://www.pharos.xyz",
+    "linkedin_url": "https://linkedin.com/company/pharosnetwork",
+    "founder_name": "led by",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/pharos_network"
+  },
+  "https://theaiinsider.tech/2026/04/08/chinas-d-robotics-raises-usd-150m-in-new-funding-with-series-b-total-of-usd-270m/": {
+    "valid": true,
+    "company": "China's D-Robotics",
+    "amount_str": "$150M",
+    "website": "https://af.net",
+    "linkedin_url": "https://linkedin.com/company/aifod",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hotels@aifod.org",
+    "twitter_url": "https://x.com/aifodforum"
+  },
+  "https://entarabi.com/en/2026/04/elgoat-closes-266k-seed-round-led-by-trigon/": {
+    "valid": true,
+    "company": "ElGoat",
+    "amount_str": "$266K",
+    "website": "https://www.furaffinity.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.femtechworld.co.uk/news/cancer/proseek-bio-raises-au1-5m-for-ovarian-cancer-blood-test-ftsu26/": {
+    "valid": false
+  },
+  "https://x.com/EntrepreneurAPJ/status/2041865677838151989/photo/1": {
+    "valid": false
+  },
+  "https://www.instagram.com/reel/DW48YvzDWmn/": {
+    "valid": false
+  },
+  "https://www.mexc.com/news/1013606": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://trochilus-web.gotoda.co/trochilus-web-sdk-integration.js",
+    "linkedin_url": "",
+    "founder_name": "said Germain Bahri",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://coopboardgames.com/blog/growth-navigate-funding/": {
+    "valid": false
+  },
+  "https://www.westbendnews.net/autonews/20k-investment-made-in-the-small-business-community-in-the-five-county-area/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/04/08/uk-startup-fieldwork-robotics-raises-3m-in-funding-to-scale-autonomous-harvesting-robots/": {
+    "valid": false
+  },
+  "https://www.indianstartuptimes.com/investment/tsecond-ai-raises-over-21-5-million-to-scale-edge-ai-infrastructure-for-defence-and-enterprise-use/": {
+    "valid": true,
+    "company": "Tsecond.ai",
+    "amount_str": "$21.5 M",
+    "website": "https://tsecond.ai",
+    "linkedin_url": "https://linkedin.com/company/tsecondinc",
+    "founder_name": "of Solar Industries India",
+    "founder_linkedin_url": "",
+    "contact_email": "info@tsecond.ai",
+    "twitter_url": "https://x.com/tsecondinc"
+  },
+  "https://techfundingnews.com/from-drones-to-body-armour-why-investors-are-backing-the-full-defence-tech-stack/": {
+    "valid": false
+  },
+  "https://amp.axios.com/pro-rata-premium-first-look-f6295f26-c038-424f-b564-1c6b8ea9e3e1.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
