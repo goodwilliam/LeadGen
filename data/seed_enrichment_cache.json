@@ -30216,5 +30216,298 @@
   },
   "https://www.bizjournals.com/baltimore/news/2026/04/09/bwi-rebokeh-startup-vision-blindness.html": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/": {
+    "valid": false
+  },
+  "https://venturebeat.com/security/mythos-detection-ceiling-security-teams-new-playbook": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/carscom-provides-update-on-business-initiatives-raises-share-repurchase-target-and-reaffirms-guidance-302738742.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rowan-digital-infrastructure-announces-strategic-recapitalization-302738729.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/federated-hermes-inc-completes-acquisition-of-80-majority-interest-in-fcp-fund-manager-lp-302738596.html": {
+    "valid": false
+  },
+  "https://optics.org/news/q-factor-grabs-24m-to-kick-start-development-of-million-qubit-quantum-computer": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://spie.org",
+    "linkedin_url": "https://linkedin.com/company/spie",
+    "founder_name": "Guy Raz",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.axios.com/pro/all-deals/2026/04/09/pro-rata-premium-first-look-luminai-txla-aevex": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.geekwire.com/2026/geekwire-awards-ai-innovation-of-the-year-finalists-transform-hr-retail-biotech-and-more/": {
+    "valid": false
+  },
+  "https://www.mexc.com/news/1015883": {
+    "valid": true,
+    "company": "Africa-founded Refiant AI",
+    "amount_str": "$5 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://resiliencemedia.co/letsdata-catches-the-disinformation-campaign-boomerang/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://bsky.app/profile/resiliencemedia.bsky.social",
+    "linkedin_url": "",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://cryptorank.io/news/feed/d080d-cpa-founded-ai-tax-return-startup-juno-seed-funding": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://t.me/CryptoRankNews",
+    "linkedin_url": "",
+    "founder_name": "Dave Haase",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/CryptoRank_io"
+  },
+  "https://yourstory.com/ai-story/kluisz-rebrands-as-nava-raises-22-million-chase-ai-infra-gap": {
+    "valid": true,
+    "company": "Kluisz rebrands as Nava",
+    "amount_str": "$22M",
+    "website": "https://letsdatascience.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.indianstartuptimes.com/investment/daakit-raises-138k-pre-seed-to-expand-hyperlocal-fulfilment-and-dark-store-network/": {
+    "valid": true,
+    "company": "DAAKit",
+    "amount_str": "$138K",
+    "website": "https://daakit.com",
+    "linkedin_url": "https://linkedin.com/company/daakit",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@daakit.com",
+    "twitter_url": "https://x.com/daakit"
+  },
+  "https://www.prnewswire.com/news-releases/rork-raises-15m-to-power-the-next-generation-of-app-store-entrepreneurs-302736638.html": {
+    "valid": true,
+    "company": "Rork",
+    "amount_str": "$15M",
+    "website": "https://amp.rork.com",
+    "linkedin_url": "https://linkedin.com/company/rork-app",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://waya.media/meta-debuts-muse-spark-as-zuckerbergs-ai-reset-takes-shape/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://echtonlinecasinos.com/review/22-bet",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/southflorida/news/2026/04/09/pet-health-diagnostic-company-launch.html": {
+    "valid": false
+  },
+  "https://dailyhodl.com/2026/04/09/billionaire-steve-cohen-pours-892422000-into-four-stocks-after-dumping-walmart-paypal-and-confluent/": {
+    "valid": false
+  },
+  "https://markets.businessinsider.com/news/currencies/enhanced-secures-1m-in-strategic-pre-seed-funding-to-bring-structured-yield-to-more-assets-onchain-1036007826": {
+    "valid": true,
+    "company": "Enhanced",
+    "amount_str": "$1M",
+    "website": "https://enhanced.finance",
+    "linkedin_url": "https://linkedin.com/company/enhanced-games",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://zycrypto.com/saylors-60000-bitcoin-price-bottom-theory-what-on-chain-data-reveals-about-seller-exhaustion/": {
+    "valid": false
+  },
+  "https://www.binance.com/en/square/post/310715116761314": {
+    "valid": false
+  },
+  "https://br.advfn.com/noticias/CHAINWIRE/2026/artigo/98253228": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://phemex.com/news/article/enhanced-labs-secures-1m-preseed-funding-led-by-maximum-frequency-ventures-72081": {
+    "valid": true,
+    "company": "Enhanced Labs",
+    "amount_str": "$1M",
+    "website": "https://enhancedlabs.com",
+    "linkedin_url": "https://linkedin.com/company/enhanced-labs",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://intellectia.ai/news/crypto/enhanced-labs-secures-1-million-preseed-funding-to-expand-yield-strategies": {
+    "valid": true,
+    "company": "Enhanced Labs",
+    "amount_str": "$1 M",
+    "website": "https://enhancedlabs.com",
+    "linkedin_url": "https://linkedin.com/company/enhanced-labs",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.cryptopolitan.com/upbit-bithumb-look-to-courts-for-wins/": {
+    "valid": false
+  },
+  "https://inforcapital.com/news/angoor-ai-raises-inr-2-crore-in-pre-seed-round-led-by-venturizer/": {
+    "valid": true,
+    "company": "Angoor AI",
+    "amount_str": "",
+    "website": "https://angoor.ai",
+    "linkedin_url": "https://linkedin.com/company/angoor-ai",
+    "founder_name": "of Founders Room Capital",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@angoor.ai",
+    "twitter_url": ""
+  },
+  "https://www.binance.com/es-MX/square/post/04-09-2026-enhanced-labs-secures-1-million-in-pre-seed-funding-for-defi-expansion-310712902006674": {
+    "valid": false
+  },
+  "https://www.tradingview.com/news/chainwire:99decf589094b:0-enhanced-secures-1m-in-strategic-pre-seed-funding-to-bring-structured-yield-to-more-assets-onchain/": {
+    "valid": true,
+    "company": "Enhanced",
+    "amount_str": "$1M",
+    "website": "https://www.enhanced.com",
+    "linkedin_url": "https://linkedin.com/company/enhanced-games",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "media@enhanced.com",
+    "twitter_url": "https://x.com/enhanced_games"
+  },
+  "https://zycrypto.com/enhanced-raises-1-million-in-pre-seed-funding-to-expand-structured-yield-across-onchain-assets/?amp": {
+    "valid": true,
+    "company": "Enhanced",
+    "amount_str": "$1 M",
+    "website": "https://enhanced.finance",
+    "linkedin_url": "https://linkedin.com/company/enhanced-games",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://weetracker.com/2026/04/09/powerlabs-pre-seed-funding-ai-energy-nigeria/": {
+    "valid": false
+  },
+  "https://blockspot.io/enhanced-secures-1m-in-strategic-pre-seed-funding-to-bring-structured-yield-to-more-assets-onchain/": {
+    "valid": true,
+    "company": "Enhanced",
+    "amount_str": "$1M",
+    "website": "https://enhanced.finance",
+    "linkedin_url": "https://linkedin.com/company/enhanced-games",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.latitudemedia.com/news/whats-behind-soma-energy-bottom-up-solution-for-grid-utilization/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/afterquery-30m-series-a-expert-data/": {
+    "valid": true,
+    "company": "AfterQuery",
+    "amount_str": "$30M",
+    "website": "https://www.afterquery.com",
+    "linkedin_url": "https://linkedin.com/company/afterquery",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/spencermateega",
+    "contact_email": "",
+    "twitter_url": "https://x.com/AfterQuery"
+  },
+  "https://www.genomeweb.com/synthetic-biology/genscript-biotech-mimulus-partner-scale-dna-based-data-storage": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://crain-platform-genomeweb-prod.s3.amazonaws.com/app-icons/favicon.ico",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://cryptonews.net/news/finance/32683522/": {
+    "valid": true,
+    "company": "Enhanced Labs",
+    "amount_str": "$1 m",
+    "website": "https://enhancedlabs.com",
+    "linkedin_url": "https://linkedin.com/company/enhanced-labs",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://arcticstartup.com/handhold-raises-e3m-seed/?amp=1": {
+    "valid": false
+  },
+  "https://cryptorank.io/news/feed/dec5e-global-vcs-boost-late-stage-boom-latin-america-q1-2026": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://t.me/CryptoRankNews",
+    "linkedin_url": "",
+    "founder_name": "including Andreessen Horowitz",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/CryptoRank_io"
+  },
+  "https://www.startupmag.co.uk/funding/apex-b2b-2026-seed-funding/": {
+    "valid": false
+  },
+  "https://news.bettingstartups.com/p/packz-raises-10-7m-for-trading-card-platform-draftkings": {
+    "valid": true,
+    "company": "Packz",
+    "amount_str": "$10.7M",
+    "website": "https://www.packz.io",
+    "linkedin_url": "https://linkedin.com/company/packz-b-v-",
+    "founder_name": "CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "support@packz.io",
+    "twitter_url": ""
+  },
+  "https://www.registerkaro.in/post/difference-between-seed-and-series-a-funding": {
+    "valid": false
   }
 }
