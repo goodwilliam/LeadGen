@@ -29676,5 +29676,198 @@
   },
   "https://hackernoon.com/designing-a-fintech-startup-alone-from-bali": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/04/09/collide-capital-raises-95m-fund-to-back-fintech-future-of-work-startups/": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/fintech/cpa-founded-ai-tax-return-startup-juno-seed-funding/": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/venture/global-vcs-boost-late-stage-boom-latin-america-q1-2026/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/09/teiacare-raises-eur7m-to-accelerate-growth-and-internationalisation/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/09/sybol-raises-eur1m-to-advance-its-corporate-digital-identity-wallet/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/09/vinted-s-revenues-top-1bn-but-profits-slide/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/09/plume-raises-3-3m-to-cut-years-from-renewable-energy-development-timelines/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/09/refiant-raises-5m-refine-ai-models-nature-inspired-energy-efficiency/": {
+    "valid": true,
+    "company": "Refiant",
+    "amount_str": "$5M",
+    "website": "https://refiant.ai",
+    "linkedin_url": "https://linkedin.com/company/refiant",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/04/09/sigma-automate-emerges-2-75m-tackle-enterprise-complexity-no-code-automation/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/alpheus-medical-initiates-phase-2b-trial-of-investigational-therapy-for-newly-diagnosed-glioblastoma-302736903.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/luminai-raises-38-million-series-b-to-scale-intelligence-across-health-system-operations-302737804.html": {
+    "valid": true,
+    "company": "Luminai",
+    "amount_str": "$38 m",
+    "website": "https://www.luminai.com",
+    "linkedin_url": "https://linkedin.com/company/luminai1",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@luminai.com",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/kindsight-appoints-chief-community-officer-to-expand-its-community-programming-and-investment-828140156.html": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DW5xBTKjWQa/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "post from",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://waya.media/prosperity7-joins-neubird-ais-usd-19-3m-round-enterprise-ai-infrastructure-is-getting-backed-early/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://echtonlinecasinos.com/review/22-bet",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/04/09/tech-skills-platform-startup-flashpass-raises-4-1m-in-seed-funding-to-address-ai-doomerism/": {
+    "valid": true,
+    "company": "Skills Platform Startup Flashpass",
+    "amount_str": "$4.1M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/theceo.in/photos/spacetech-startup-satleo-labs-has-raised-22-million-in-a-seed-round-led-by-unico/1403297065159180/": {
+    "valid": false
+  },
+  "https://www.facebook.com/theceo.in/photos/cybersecurity-startup-satark-ai-has-raised-an-undisclosed-pre-seed-round-at-a-4-/1402809785207908/": {
+    "valid": false
+  },
+  "https://thequantuminsider.com/2026/04/09/qoro-secures-750k-to-build-the-software-stack-uniting-quantum-and-classical-compute/": {
+    "valid": true,
+    "company": "Qoro",
+    "amount_str": "$750k",
+    "website": "https://qoroquantum.net",
+    "linkedin_url": "https://linkedin.com/company/qoro",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fortune.com/2026/04/09/ark-invest-betting-on-underdog-drone-delivery-company-manna-to-beat-out-alphabet-zipline/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cookielaw.org/consent/906dc33b-1fc3-4b2c-a324-8bc0b7db9050/OtAutoBlock.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.localsamosa.com/news/daakit-raises-138000-dollars-in-pre-seed-round-11705603": {
+    "valid": false
+  },
+  "https://quantumzeitgeist.com/qoro-cuts-integration-code-hybrid/": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/chime-labs-bags-900k-pre-seed-round": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/handhold-raises-e3m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/edmund-raises-e2-5m-in-funding.html": {
+    "valid": false
+  },
+  "https://entrepreneur.economictimes.indiatimes.com/amp/news/funding/angoor-ai-secures-2-crore-pre-seed-funding-from-venturizer-to-transform-customer-engagement/130129770": {
+    "valid": true,
+    "company": "Angoor AI",
+    "amount_str": "",
+    "website": "https://angoor.ai",
+    "linkedin_url": "https://linkedin.com/company/angoor-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@angoor.ai",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.co.uk/news-releases/edgx-launches-first-in-orbit-demonstration-of-its-ai-computing-system-on-spacex-transporter-16-302738209.html": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/04/madrid-based-sybol-lands-e1-million-to-scale-corporate-digital-identity-infrastructure/": {
+    "valid": false
+  },
+  "https://www.techinasia.com/news/indian-food-tech-startup-pluckk-nets-108m-led-euro-gulf": {
+    "valid": true,
+    "company": "Indian food tech startup Pluckk",
+    "amount_str": "$10.8m",
+    "website": "https://www.techinasia.com",
+    "linkedin_url": "https://linkedin.com/company/tech-in-asia",
+    "founder_name": "ouster before",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/techinasia"
+  },
+  "https://startupfortune.com/app-store-flooded-as-ai-coding-tools-fuel-84-surge-in-new-apps/": {
+    "valid": false
+  },
+  "https://agfundernews.com/seadling-founder-simon-davis-on-bringing-long-term-economic-benefit-to-seas-seaweed-farmers": {
+    "valid": false
+  },
+  "https://www.businessinsider.com/openbuilder-pitch-deck-vibe-coding-2026-4": {
+    "valid": true,
+    "company": "OpenBuilder",
+    "amount_str": "$2.2M",
+    "website": "https://docs.theopenbuilder.com",
+    "linkedin_url": "https://linkedin.com/company/openbuilder",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/OpenBuilderAI"
+  },
+  "https://www.startupgrantsindia.com/r-elan-circular-design-challenge-2026": {
+    "valid": false
+  },
+  "https://thefoundersspace.com/2026/04/09/2026-tech-startups-fundable-ethical-and-ai-powered/": {
+    "valid": false
+  },
+  "https://finance.yahoo.com/sectors/technology/articles/atlas-raises-6m-seed-led-052900730.html": {
+    "valid": true,
+    "company": "Atlas",
+    "amount_str": "$6M",
+    "website": "https://atlastiresshop.com",
+    "linkedin_url": "https://linkedin.com/company/atlashxm",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://cryptorank.io/news/feed/f07e3-data-most-active-highest-spending-startup-investors-q1-2026": {
+    "valid": false
   }
 }
