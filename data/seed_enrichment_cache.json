@@ -29525,5 +29525,156 @@
   },
   "https://hackernoon.com/seed-funding-how-it-takes-priority-over-other-design-responsibilities": {
     "valid": false
+  },
+  "https://tech.eu/2026/04/09/from-defence-driven-innovation-to-a-resilient-ecosystem-the-ukrainian-tech-ecosystem/": {
+    "valid": false
+  },
+  "https://betakit.com/bdc-launches-150-million-life-sciences-fund/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/invitation-to-eqts-value-creation-day-2026-302737991.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/invitation-to-vitrolife-groups-presentation-of-the-q1-2026-interim-report-302737988.html": {
+    "valid": false
+  },
+  "https://yourstory.com/ai-story/deeptech-startup-kluisz-rebrands-as-nava-raises-series-a-funding": {
+    "valid": true,
+    "company": "Kluisz rebrands as Nava",
+    "amount_str": "$22M",
+    "website": "https://letsdatascience.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.financialexpress.com/business/start-ups/ai-infra-startup-nava-raises-22-million-in-series-a-round/4201098/": {
+    "valid": true,
+    "company": "AI infra startup Nava",
+    "amount_str": "$22 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techinasia.com/news/indian-ev-finance-startup-astranova-raises-6-4m-series-a": {
+    "valid": true,
+    "company": "EV finance startup Astranova",
+    "amount_str": "$6.4m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bwdisrupt.com/article/enterprise-ai-startup-nava-raises-22-mn-led-by-greenoaks-capital-601488": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/": {
+    "valid": false
+  },
+  "https://www.bwdisrupt.com/article/daakit-raises-138k-pre-seed-round-led-by-inflection-point-ventures-601492": {
+    "valid": true,
+    "company": "DAAKit",
+    "amount_str": "$138K",
+    "website": "https://daakit.com",
+    "linkedin_url": "https://linkedin.com/company/daakit",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@daakit.com",
+    "twitter_url": "https://x.com/daakit"
+  },
+  "https://www.chaincatcher.com/en/article/2257537": {
+    "valid": false
+  },
+  "https://techfundingnews.com/blocks-6m-pre-seed-speedinvest-ai-cloud-costs/": {
+    "valid": true,
+    "company": "Flink founder",
+    "amount_str": "$6M",
+    "website": "https://rocketreach.co",
+    "linkedin_url": "",
+    "founder_name": "Oliver Merkel",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.binance.com/en/square/post/04-09-2026-giggles-secures-1-2-million-in-pre-seed-funding-310533570869826": {
+    "valid": false
+  },
+  "https://www.binance.com/en-NZ/square/post/310533570869826": {
+    "valid": false
+  },
+  "https://www.odaily.news/en/newsflash/475910": {
+    "valid": false
+  },
+  "https://www.odaily.news/en/newsflash/475917": {
+    "valid": false
+  },
+  "https://www.odaily.news/en/newsflash/475919": {
+    "valid": false
+  },
+  "https://www.odaily.news/en/newsflash/475909": {
+    "valid": false
+  },
+  "https://www.odaily.news/en/newsflash/475914": {
+    "valid": false
+  },
+  "https://www.odaily.news/en/newsflash/475913": {
+    "valid": false
+  },
+  "https://www.odaily.news/en/newsflash/475920": {
+    "valid": false
+  },
+  "http://www.odaily.news/en/newsflash/475922": {
+    "valid": false
+  },
+  "https://www.asiabusinessoutlook.com/news/ai-startup-cognition-enters-japan-by-partnering-with-dena-nwid-11697.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://vjs.zencdn.net/7.11.4/video-js.css",
+    "linkedin_url": "",
+    "founder_name": "Chafic Nassif",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://phemex.com/news/article/giggles-secures-12-million-preseed-funding-for-social-trading-app-71934": {
+    "valid": true,
+    "company": "Giggles",
+    "amount_str": "$1.2 M",
+    "website": "https://giggles.me",
+    "linkedin_url": "https://linkedin.com/company/gigglesplatforms",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/04/spains-golden-owl-raises-e1-4-million-to-advance-ai-powered-anticipatory-intelligence-operating-system/": {
+    "valid": false
+  },
+  "https://inc42.com/buzz/ev-financing-asset-management-startup-astranova-mobility-raises-%E2%82%B960-cr/": {
+    "valid": false
+  },
+  "https://itbrief.asia/story/onsite-raises-s-1-7-million-to-build-ai-for-construction": {
+    "valid": false
+  },
+  "https://www.morningstar.com/news/pr-newswire/20260409io30506/atlas-raises-6m-seed-led-by-accel-and-stellaris-to-power-the-next-global-accounting-firm": {
+    "valid": true,
+    "company": "Atlas",
+    "amount_str": "$6M",
+    "website": "https://atlastiresshop.com",
+    "linkedin_url": "https://linkedin.com/company/chooseatlas",
+    "founder_name": "Arpit Maheshwari",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://hackernoon.com/designing-a-fintech-startup-alone-from-bali": {
+    "valid": false
   }
 }
