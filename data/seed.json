@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-04-09T01:27:18.321353Z",
-  "count": 27,
-  "enriched_count": 23,
+  "generated_at": "2026-04-09T05:47:36.145369Z",
+  "count": 29,
+  "enriched_count": 25,
   "articles": [
+    {
+      "source": "PR Newswire",
+      "title": "Atlas Raises $6M Seed Led by Accel and Stellaris to Power the Next Global Accounting Firm",
+      "article_url": "https://www.prnewswire.com/news-releases/atlas-raises-6m-seed-led-by-accel-and-stellaris-to-power-the-next-global-accounting-firm-302737781.html",
+      "company": "Atlas",
+      "amount_str": "$6M",
+      "pub_date": "2026-04-09T05:29:00Z",
+      "website": "https://atlastiresshop.com",
+      "linkedin_url": "https://linkedin.com/company/chooseatlas",
+      "founder_name": "",
+      "founder_linkedin_url": "https://linkedin.com/in/saadhachimi",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Cloud infra company Nava raises $22m in Series A round, led by Greenoaks",
+      "article_url": "https://www.dealstreetasia.com/stories/nava-greenoaks-478426",
+      "company": "Cloud infra company Nava",
+      "amount_str": "$22m",
+      "pub_date": "2026-04-09T02:53:58Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "Abhinav Sinha",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Malama Health raises $9.2M to expand doula care for Medicaid moms",
+      "article_url": "https://www.bizjournals.com/bizwomen/news/profiles-strategies/2026/04/medicaid-birth-maternal-care-doulas-malama-health.html",
+      "company": "Malama Health",
+      "amount_str": "$9.2M",
+      "pub_date": "2026-04-09T02:10:07Z",
+      "website": "https://www.malamahealthllc.com",
+      "linkedin_url": "https://linkedin.com/company/malama-health",
+      "founder_name": "founder and",
+      "founder_linkedin_url": "https://linkedin.com/in/orlandoli",
+      "contact_email": "info@mysite.com",
+      "twitter_url": "https://x.com/suricate"
+    },
     {
       "source": "SiliconAngle",
       "title": "GitButler raises $17M to simplify Git workflows for developers",
@@ -30,6 +72,20 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": "https://x.com/inewswire"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Poke Brings AI Agents to Everyday Users via Text Message - Palo Alto Today",
+      "article_url": "https://nationaltoday.com/us/ca/palo-alto/news/2026/04/08/poke-brings-ai-agents-to-everyday-users-via-text-message/",
+      "company": "Poke",
+      "amount_str": "",
+      "pub_date": "2026-04-08T22:01:09Z",
+      "website": "https://www.pokemoncenter.com",
+      "linkedin_url": "https://linkedin.com/company/pokemarketing",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
     },
     {
       "source": "Google Alerts",
@@ -117,25 +173,11 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Skincare brand ClayCo raises Rs 34.59 Cr in Series A led by Twenty-Nine Capital - Entrackr",
-      "article_url": "https://entrackr.com/snippets/skincare-brand-clayco-raises-rs-3459-cr-in-series-a-led-by-twenty-nine-capital-11701187",
-      "company": "Mumbai-based startup had earlier",
-      "amount_str": "$2 m",
-      "pub_date": "2026-04-08T17:59:33Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "Golden Analytics Secures $7M Seed Funding to Scale AI-Native BI Platform - Bayelsa Watch",
       "article_url": "https://bayelsawatch.com/golden-analytics-secures-7m/",
       "company": "Golden Analytics",
       "amount_str": "$7M",
-      "pub_date": "2026-04-08T17:26:54Z",
+      "pub_date": "2026-04-08T17:12:03Z",
       "website": "https://www.goldenanalytics.com",
       "linkedin_url": "https://linkedin.com/company/goldenanalytics",
       "founder_name": "",
@@ -156,20 +198,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Atlas Raises $6 Million Seed Funding to Build AI Tools for Accounting Firms",
-      "article_url": "https://www.indianstartuptimes.com/investment/atlas-raises-6-million-seed-funding-to-build-ai-tools-for-accounting-firms/",
-      "company": "Atlas",
-      "amount_str": "$6 M",
-      "pub_date": "2026-04-08T15:55:52Z",
-      "website": "https://theatlas.ai",
-      "linkedin_url": "https://linkedin.com/company/atlasailabs",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "you@yourfirm.com",
-      "twitter_url": "https://x.com/the_atlas_ai"
     },
     {
       "source": "Google Alerts",

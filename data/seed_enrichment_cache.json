@@ -29426,5 +29426,104 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/atlas-raises-6m-seed-led-by-accel-and-stellaris-to-power-the-next-global-accounting-firm-302737781.html": {
+    "valid": true,
+    "company": "Atlas",
+    "amount_str": "$6M",
+    "website": "https://atlastiresshop.com",
+    "linkedin_url": "https://linkedin.com/company/chooseatlas",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/saadhachimi",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/privacy-alert-russell-cellular-under-investigation-for-data-breach-of-over-6-million-customer-and-employee-records-302737645.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/privacy-alert-mercorio-corporation-under-investigation-for-data-breach-of-records-302737624.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/privacy-alert-docketwise-under-investigation-for-data-breach-of-over-116-000-records-302737614.html": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DW29eDNFKmS/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/arca-digital-1m-seed-pension-tech-spain/": {
+    "valid": false
+  },
+  "https://www.techinafrica.com/visa-and-zazu-launch-moroccos-first-fully-digital-business-account/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://whatsapp.com/channel/0029Vb3xgMr42DcfICgi7T1N",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/whatsapp"
+  },
+  "https://www.lawfuel.com/legal-ai-justfund-from-divorce-funding-pioneer-to-estate-law-disruptor/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/": {
+    "valid": false
+  },
+  "https://www.dealstreetasia.com/stories/nava-greenoaks-478426": {
+    "valid": true,
+    "company": "Cloud infra company Nava",
+    "amount_str": "$22m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Abhinav Sinha",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thenextweb.com/news/airhub-4-4m-drone-operations": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/bizwomen/news/profiles-strategies/2026/04/medicaid-birth-maternal-care-doulas-malama-health.html": {
+    "valid": true,
+    "company": "Malama Health",
+    "amount_str": "$9.2M",
+    "website": "https://www.malamahealthllc.com",
+    "linkedin_url": "https://linkedin.com/company/malama-health",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "https://linkedin.com/in/orlandoli",
+    "contact_email": "info@mysite.com",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://techfundingnews.com/golden-owl-1-4m-seed-first-drop-intelligence/": {
+    "valid": false
+  },
+  "https://nationaltoday.com/us/ca/palo-alto/news/2026/04/08/poke-brings-ai-agents-to-everyday-users-via-text-message/": {
+    "valid": true,
+    "company": "Poke",
+    "amount_str": "",
+    "website": "https://www.pokemoncenter.com",
+    "linkedin_url": "https://linkedin.com/company/pokemarketing",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/chintanzalani_agentic-startups-raised-65-of-early-stage-activity-7447752398271479809-6PKZ": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.botmemo.com/#newsletter-signup",
+    "linkedin_url": "https://linkedin.com/company/botmemo",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/chintanzalani"
+  },
+  "https://www.binance.com/en/square/post/310285375162194": {
+    "valid": false
+  },
+  "https://hackernoon.com/seed-funding-how-it-takes-priority-over-other-design-responsibilities": {
+    "valid": false
   }
 }
