@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-04-10T05:55:45.827087Z",
+  "generated_at": "2026-04-10T09:04:09.901946Z",
   "count": 27,
-  "enriched_count": 22,
+  "enriched_count": 21,
   "articles": [
+    {
+      "source": "PR Newswire",
+      "title": "Envision Energy Secures $500M Financing Program with BBVA to Accelerate Global Renewable Deployment",
+      "article_url": "https://www.prnewswire.com/news-releases/envision-energy-secures-500m-financing-program-with-bbva-to-accelerate-global-renewable-deployment-302739089.html",
+      "company": "Envision Energy",
+      "amount_str": "$500M",
+      "pub_date": "2026-04-10T07:24:00Z",
+      "website": "http://envisionenergyus.com",
+      "linkedin_url": "https://linkedin.com/company/envision-energy",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "info@envisionenergyus.com",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Atlas raises USD 6 Mn in seed funding round",
@@ -30,6 +44,20 @@
       "founder_linkedin_url": "",
       "contact_email": "contact@beamstart.com",
       "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Enhanced Secures $1M in Strategic Pre-Seed Funding to Bring Structured Yield to More ... - Cod\u00fa",
+      "article_url": "https://www.codu.co/hacker-noon/enhanced-secures-1m-in-strategic-pre-seed-funding-to-bring-structured-yield-to-more-assets-onchain-oA6aNOk",
+      "company": "Enhanced",
+      "amount_str": "$1M",
+      "pub_date": "2026-04-10T02:35:39Z",
+      "website": "https://www.enhanced.com",
+      "linkedin_url": "https://linkedin.com/company/enhanced-games",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "media@enhanced.com",
+      "twitter_url": "https://x.com/enhanced_games"
     },
     {
       "source": "Google Alerts",
@@ -103,20 +131,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Enhanced Secures $1M in Strategic Pre-Seed Funding to Bring Structured Yield to More ... - altFINS",
-      "article_url": "https://altfins.com/crypto-news/article/enhanced-secures-1m-in-strategic-pre-seed-funding-to-bring-structured-yield-to-more-assets-onchain",
-      "company": "Enhanced",
-      "amount_str": "$1M",
-      "pub_date": "2026-04-09T22:25:53Z",
-      "website": "https://www.enhanced.com",
-      "linkedin_url": "https://linkedin.com/company/enhanced-games",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "media@enhanced.com",
-      "twitter_url": "https://x.com/enhanced_games"
-    },
-    {
-      "source": "Google Alerts",
       "title": "Singapore's OnSite raises $1.3M to solve construction inefficiencies on site - BackScoop",
       "article_url": "https://www.backscoop.com/newsletter-posts/singapores-onsite-raises-1-3m-to-solve-construction-inefficiencies-on-site",
       "company": "Singapore's OnSite",
@@ -184,6 +198,20 @@
       "founder_linkedin_url": "",
       "contact_email": "info@daakit.com",
       "twitter_url": "https://x.com/daakit"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "How Do You Secure Venture Capital Seed Funding in UAE Without Warm Introductions or ...",
+      "article_url": "https://theprimeshark.com/blog/venture-capital-seed-funding/",
+      "company": "How Do You",
+      "amount_str": "",
+      "pub_date": "2026-04-09T19:28:18Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "For many startup",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
     },
     {
       "source": "Google Alerts",
@@ -336,34 +364,6 @@
       "linkedin_url": "https://linkedin.com/company/farsight-vision",
       "founder_name": "Viktoriia Yaremchuk",
       "founder_linkedin_url": "https://linkedin.com/in/viktoriia-yaremchuk-3ba80116",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "tech.eu",
-      "title": "Xoople raises $130M Series B to build Earth\u2019s system of record",
-      "article_url": "https://tech.eu/2026/04/07/xoople-raises-130m-series-b-to-build-earths-system-of-record/",
-      "company": "Xoople",
-      "amount_str": "$130M",
-      "pub_date": "2026-04-07T08:00:00Z",
-      "website": "https://www.xoople.com",
-      "linkedin_url": "https://linkedin.com/company/xoople",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "tech.eu",
-      "title": "nFuse raises $2M as messaging overtakes B2B ordering apps",
-      "article_url": "https://tech.eu/2026/04/07/nfuse-raises-2m-as-messaging-overtakes-b2b-ordering-apps/",
-      "company": "nFuse",
-      "amount_str": "$2M",
-      "pub_date": "2026-04-07T07:00:00Z",
-      "website": "https://nfuse.ai",
-      "linkedin_url": "https://linkedin.com/company/nfuse-ai",
-      "founder_name": "founder and",
-      "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
     },
