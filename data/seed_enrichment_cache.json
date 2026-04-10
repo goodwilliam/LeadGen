@@ -31057,5 +31057,377 @@
     "founder_linkedin_url": "",
     "contact_email": "team@h2loop.ai",
     "twitter_url": ""
+  },
+  "https://news.crunchbase.com/venture/biggest-funding-rounds-chips-aviation-biotech-sifive/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/10/aura-aero-secures-340m-europe-s-first-ai-native-m-a-deal-and-baltic-hacker-house/": {
+    "valid": true,
+    "company": "Aura Aero",
+    "amount_str": "\u20ac340M",
+    "website": "https://aura.aero",
+    "linkedin_url": "https://linkedin.com/company/aura-aerospace-llc",
+    "founder_name": "effort to build",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@aura.aero",
+    "twitter_url": ""
+  },
+  "https://www.analyticsinsight.net/business/weekly-funding-roundup-sarvam-ai-nears-350m-perplexity-launches-1m-challenge": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/": {
+    "valid": false
+  },
+  "https://crypto.news/simplechain-lays-new-rails-for-asias-onchain-rwa-freight/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/sifive-400m-series-g-risc-v-ipo/": {
+    "valid": true,
+    "company": "SiFive",
+    "amount_str": "$400M",
+    "website": "https://www.sifive.com",
+    "linkedin_url": "https://linkedin.com/company/sifive",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/SiFive"
+  },
+  "https://thenextweb.com/news/eight-dating-app-3m-seed-video-first-portugal": {
+    "valid": false
+  },
+  "https://www.biospace.com/press-releases/vivatides-therapeutics-announces-oversubscribed-54-million-series-a-financing-to-accelerate-extrahepatic-rna-therapeutics-development": {
+    "valid": true,
+    "company": "Vivatides Therapeutics",
+    "amount_str": "$54 M",
+    "website": "https://www.morningstar.com",
+    "linkedin_url": "https://linkedin.com/company/morningstar",
+    "founder_name": "said Keming Zhou",
+    "founder_linkedin_url": "",
+    "contact_email": "reprints@morningstar.com",
+    "twitter_url": "https://x.com/MorningstarInc"
+  },
+  "https://www.techflowpost.com/en-US/newsletter/119390": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/tampabay/news/2026/04/09/certus-core-investment.html": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/inner-ai-raises-r-30m-seed-round": {
+    "valid": false
+  },
+  "https://www.poconorecord.com/press-release/story/41224/former-disney-channel-star-and-ex-apple-engineer-raise-2-75m-to-make-snail-mail-the-next-social-network/": {
+    "valid": true,
+    "company": "Disney Channel Star and Ex-Apple Engineer",
+    "amount_str": "$2.75M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.cantonrep.com/press-release/story/121263/edtech-startup-sedifly-appoints-harvard-alumnus-george-baxter-as-head-of-us-consulting/": {
+    "valid": false
+  },
+  "https://impactalpha.com/the-weeks-dealflow-april-10-2026/": {
+    "valid": false
+  },
+  "https://innovation-village.com/nigerias-powerlabs-raises-pre-seed-funding-to-scale-ai-driven-energy-orchestration-platform/": {
+    "valid": true,
+    "company": "Nigeria's PowerLabs",
+    "amount_str": "",
+    "website": "https://innovation-village.com",
+    "linkedin_url": "",
+    "founder_name": "Tobe Arize",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/04/portugals-eight-is-raising-a-e3-million-seed-round-to-scale-its-video-first-dating-app-with-over-e256-6k-already-raised/": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/provally-secures-seed-funding": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/04/as-us-and-china-ramp-up-quantum-investment-germanys-pixel-photonics-raises-e13-5-million-to-accelerate-market-entry/": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/04/singapores-staynex-acquires-swiss-hoteltech-startup-sleap-io-in-e12-8-million-deal/": {
+    "valid": false
+  },
+  "https://launchbaseafrica.com/2026/04/10/the-early-stage-hollow-is-the-rise-of-successor-funds-leaving-african-seed-founders-behind/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.binance.com/en/square/post/310837546609106": {
+    "valid": false
+  },
+  "https://techfundingnews.com/meta-coreweave-21b-ai-cloud-deal/": {
+    "valid": false
+  },
+  "https://www.constructionworld.in/latest-construction-technology/daakit-raises--138-000-in-pre-seed-round/89841": {
+    "valid": true,
+    "company": "DAAKit",
+    "amount_str": "",
+    "website": "https://daakit.com",
+    "linkedin_url": "https://linkedin.com/company/daakit",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@daakit.com",
+    "twitter_url": "https://x.com/daakit"
+  },
+  "https://disruptafrica.com/2026/04/10/nigerian-energy-startup-powerlabs-secures-pre-seed-funding-round/": {
+    "valid": true,
+    "company": "Nigerian energy startup PowerLabs",
+    "amount_str": "",
+    "website": "https://techmoonshot.com",
+    "linkedin_url": "https://linkedin.com/company/techmoonshot",
+    "founder_name": "said Tobe Arize",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/techmoonshot_"
+  },
+  "https://www.finsmes.com/2026/04/asian-university-basketball-league-closes-series-a-funding.html": {
+    "valid": false
+  },
+  "https://energycapitalhtx.com/amp/solidec-flathead-forge-preseed-funding-2676671454": {
+    "valid": true,
+    "company": "Solidec",
+    "amount_str": "",
+    "website": "https://solidec.com",
+    "linkedin_url": "https://linkedin.com/company/solidec-inc",
+    "founder_name": "Ryan DuChanois",
+    "founder_linkedin_url": "https://linkedin.com/in/ryanduchanois",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://africa.businessinsider.com/video/the-worlds-biggest-tiktoker-goes-quiet-on-dollar975-million-deal/svycbcp": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://ocdn.eu/radp/biafrica/favicon.ico",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thestreet.com/crypto/press-releases/enhanced-secures-1m-in-strategic-pre-seed-funding-to-bring-structured-yield-to-more-assets-onchain": {
+    "valid": true,
+    "company": "Enhanced",
+    "amount_str": "$1M",
+    "website": "https://www.enhanced.com",
+    "linkedin_url": "https://linkedin.com/company/enhanced-games",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "media@enhanced.com",
+    "twitter_url": "https://x.com/enhanced_games"
+  },
+  "https://tech-ish.com/2026/04/10/madica-600k-three-african-startups/": {
+    "valid": false
+  },
+  "https://www.instagram.com/reel/DW893O-DbSo/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thestreet.com/crypto/innovation/350-billion-in-stablecoins-earn-nothing-for-holders-openeden-wants-to-change-that": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://privatecapitaljournal.com/flora-fertility-secures-us-5m-seed-financing/": {
+    "valid": true,
+    "company": "Flora Fertility",
+    "amount_str": "$5M",
+    "website": "https://www.prnewswire.com",
+    "linkedin_url": "https://linkedin.com/company/pr-newswire",
+    "founder_name": "Elizabeth McCluskey",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/PRNewswire"
+  },
+  "https://www.proteinproductiontechnology.com/post/finally-foods-closes-pre-seed-round-to-scale-plant-based-casein-production-in-potatoes": {
+    "valid": true,
+    "company": "Finally Foods",
+    "amount_str": "",
+    "website": "https://finally-foods.com",
+    "linkedin_url": "https://linkedin.com/company/finally-foods-ltd",
+    "founder_name": "of MCT Dairies",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@finally-foods.com",
+    "twitter_url": ""
+  },
+  "https://africa.businessinsider.com/local/markets/powerlabs-secures-pre-seed-funding-led-by-breega-to-scale-intelligent-energy/1wfwl4l": {
+    "valid": true,
+    "company": "PowerLabs",
+    "amount_str": "",
+    "website": "https://powerlabstech.com/company",
+    "linkedin_url": "https://linkedin.com/company/powerlabstech",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@powerlabstech.com",
+    "twitter_url": "https://x.com/Powerlabshq"
+  },
+  "https://www.greenqueen.com.hk/finally-foods-pre-seed-funding-molecular-farming-casein-protein-potatoes/": {
+    "valid": true,
+    "company": "AI-Led Finally Foods",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fortune.com/2026/04/10/anthropic-too-dangerous-to-release-ai-model-means-for-its-upcoming-ipo/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cookielaw.org/consent/906dc33b-1fc3-4b2c-a324-8bc0b7db9050/OtAutoBlock.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.fintechfutures.com/venture-capital-funding/icymi-fintech-funding-round-up-trent-ai-kulipa-octostar-and-more": {
+    "valid": false
+  },
+  "https://www.gov.uk/government/publications/uk-safety-tech-sector-2025-analysis/uk-safety-tech-sector-2025-analysis": {
+    "valid": false
+  },
+  "https://www.smartcompany.com.au/startupsmart/australian-startups-raise-30-million-funding-april-2026/": {
+    "valid": true,
+    "company": "Compliance startup Haast",
+    "amount_str": "$17 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Proseek Bio",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.brandtimes.com.ng/nigerian-startup-powerlabs-gets-funding-to-scale-intelligent-energy-orchestration-across-africa/": {
+    "valid": false
+  },
+  "https://incubees.com/gabify-raises-175k-pre-seed-funding-from-inflection-point-ventures/": {
+    "valid": false
+  },
+  "https://disruptafrica.com/2026/04/10/nigerian-energy-startup-powerlabs-secures-pre-seed-funding-round/?amp=1": {
+    "valid": true,
+    "company": "Nigerian energy startup PowerLabs",
+    "amount_str": "",
+    "website": "https://techmoonshot.com",
+    "linkedin_url": "https://linkedin.com/company/techmoonshot",
+    "founder_name": "said Tobe Arize",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/techmoonshot_"
+  },
+  "https://www.bizjournals.com/boston/news/2026/04/10/startup-making-aviation-fuel-from-air-adds-funds.html": {
+    "valid": true,
+    "company": "Aviation clean-fuel startup",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tcbmag.com/startup-snapshot-maxwell-labs/": {
+    "valid": true,
+    "company": "The company",
+    "amount_str": "$4.5 m",
+    "website": "https://www.thecompanystore.com",
+    "linkedin_url": "",
+    "founder_name": "Jacob Balma",
+    "founder_linkedin_url": "",
+    "contact_email": "custserv@thecompanystore.com",
+    "twitter_url": "https://x.com/thecompanystore"
+  },
+  "https://disruptafrica.com/2026/04/10/zazu-partners-visa-to-launch-moroccos-first-100-online-business-account/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://africabusinessheroes.org/en/register",
+    "linkedin_url": "https://linkedin.com/company/africasbusinessheroes",
+    "founder_name": "said Ismael Belkhayat",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/africa_heroes"
+  },
+  "https://startupfortune.com/meet-moya-the-170000-humanoid-robot-blurring-the-line-between-ai-companion-and-science-fiction/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://api.whatsapp.com/send",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/whatsapp"
+  },
+  "https://ventureburn.com/elorian-raises-55m-visual-reasoning-ai/": {
+    "valid": true,
+    "company": "Elorian",
+    "amount_str": "$55 m",
+    "website": "https://elorian.ai",
+    "linkedin_url": "https://linkedin.com/company/elorian-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@elorian.ai",
+    "twitter_url": "https://x.com/ElorianAI"
+  },
+  "https://bayelsawatch.com/payment-gateway-statistics/": {
+    "valid": false
+  },
+  "https://www.railwaypro.com/wp/the-israeli-startup-aiming-to-become-the-tesla-of-trains/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://themission.urlsand.com",
+    "linkedin_url": "",
+    "founder_name": "According to CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/yourstorycom/posts/daakit-technologies-private-limited-has-raised-138000-in-a-pre-seed-round-led-by/1427615539400416/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/plume-raises-3-9m-in-funding.html": {
+    "valid": false
+  },
+  "https://globalfintechseries.com/fintech-funding/gov-tech-skills-platform-flashpass-raises-4-25-million-seed-funding/": {
+    "valid": true,
+    "company": "Gov-Tech skills Platform Flashpass",
+    "amount_str": "$4.25 M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Emil Barr",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
