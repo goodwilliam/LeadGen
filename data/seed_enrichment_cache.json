@@ -31026,5 +31026,36 @@
   },
   "https://www.forbeskorea.co.kr/news/articleView.html?idxno=401781": {
     "valid": false
+  },
+  "https://news.crunchbase.com/fintech/global-startup-venture-funding-up-deals-down-q1-2026/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rb-industrial-manufacturing-invests-in-advanced-keyence-vision-system-to-enhance-quality-control-and-precision-302738866.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/oneaz-credit-union-launches-75th-anniversary-celebration-with-750-000-in-legacy-grants-to-arizona-nonprofits-302738827.html": {
+    "valid": false
+  },
+  "https://techfundingnews.com/refiant-funding-ai-efficiency-data-sovereignty/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DW8W1xIDFHa/": {
+    "valid": true,
+    "company": "H2LooP",
+    "amount_str": "$2M",
+    "website": "https://www.h2loop.ai",
+    "linkedin_url": "https://linkedin.com/company/h2loop",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "team@h2loop.ai",
+    "twitter_url": ""
   }
 }
