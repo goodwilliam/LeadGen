@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-04-10T01:54:36.637153Z",
-  "count": 25,
-  "enriched_count": 19,
+  "generated_at": "2026-04-10T05:55:45.827087Z",
+  "count": 27,
+  "enriched_count": 22,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Atlas raises USD 6 Mn in seed funding round",
+      "article_url": "https://x.com/isrchnews/status/2042108548738642361",
+      "company": "Atlas",
+      "amount_str": "",
+      "pub_date": "2026-04-10T03:33:09Z",
+      "website": "https://atlastiresshop.com",
+      "linkedin_url": "https://linkedin.com/company/atlaswearable",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "AI Tax Prep Startup Juno Raises $12M Seed Funding to Automate SMB Accounting Workflows",
+      "article_url": "https://beamstart.com/news/exclusive-juno-cpa-founded-startup-17757399166015",
+      "company": "Tax Prep Startup Juno",
+      "amount_str": "$12M",
+      "pub_date": "2026-04-10T02:59:34Z",
+      "website": "https://beamstart.com",
+      "linkedin_url": "https://linkedin.com/company/beamstart",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "contact@beamstart.com",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Provally Raises Seed Funding to Cut False Positives in Code Security Analysis - WOWTALE",
+      "article_url": "https://en.wowtale.net/2026/04/10/233849/",
+      "company": "Provally",
+      "amount_str": "",
+      "pub_date": "2026-04-10T01:57:53Z",
+      "website": "https://provally.io",
+      "linkedin_url": "https://linkedin.com/company/provally",
+      "founder_name": "founded by Gwangjun Choi",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "SiliconAngle",
       "title": "RISC-V chip design startup SiFive nabs $400M investment",
@@ -15,6 +57,20 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Inner AI raises $6M seed round - LatamList",
+      "article_url": "https://latamlist.com/inner-ai-raises-6m-seed-round/amp/",
+      "company": "Inner AI",
+      "amount_str": "$6M",
+      "pub_date": "2026-04-10T00:35:31Z",
+      "website": "https://innerai.com",
+      "linkedin_url": "https://linkedin.com/company/innerai",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "hello@innerai.com",
       "twitter_url": ""
     },
     {
@@ -145,20 +201,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Rork raises $15 mn to scale AI-powered mobile app development platform - InfotechLead",
-      "article_url": "https://infotechlead.com/tech/rork-raises-15-mn-to-scale-ai-powered-mobile-app-development-platform-94966?amp=1",
-      "company": "Rork",
-      "amount_str": "$15 m",
-      "pub_date": "2026-04-09T17:49:56Z",
-      "website": "https://amp.rork.com",
-      "linkedin_url": "https://linkedin.com/company/rork-app",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "XAUt0 Launches on Conflux, Bringing Omnichain Tokenized Gold to Asia's Blockchain Hub",
       "article_url": "https://br.advfn.com/noticias/CHAINWIRE/2026/artigo/98253065",
       "company": "XAUt0",
@@ -170,20 +212,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": "https://x.com/coingecko"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Kluisz rebrands as Nava, raises $22M to chase AI infra gap - YourStory.com",
-      "article_url": "https://yourstory.com/ai-story/kluisz-rebrands-as-nava-raises-22-million-chase-ai-infra-gap",
-      "company": "Kluisz rebrands as Nava",
-      "amount_str": "$22M",
-      "pub_date": "2026-04-09T15:04:54Z",
-      "website": "https://letsdatascience.com",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "Google Alerts",

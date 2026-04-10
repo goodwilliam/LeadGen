@@ -30799,5 +30799,94 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/04/09/florida-ag-opens-probe-chatgpt-alleging-connection-fsu-shooting/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/data-breach-alert-edelson-lechtzin-llp-investigates-figure-lending-corp-data-breach-affecting-nearly-1-million-users-302738937.html": {
+    "valid": false
+  },
+  "https://www.startupdaily.net/topic/funding/ai-marketing-compliance-startup-haast-pockets-17-million-series-a/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://growth-summit.com.au",
+    "linkedin_url": "",
+    "founder_name": "The Haast",
+    "founder_linkedin_url": "",
+    "contact_email": "events@smartcomedia.com.au",
+    "twitter_url": ""
+  },
+  "https://latamlist.com/inner-ai-raises-6m-seed-round/amp/": {
+    "valid": true,
+    "company": "Inner AI",
+    "amount_str": "$6M",
+    "website": "https://innerai.com",
+    "linkedin_url": "https://linkedin.com/company/innerai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@innerai.com",
+    "twitter_url": ""
+  },
+  "https://news.ventureintelligence.com/private-equity/customer-interaction-platform-angoor-ai-raises-rs.2-cr-led-by-venturizer": {
+    "valid": false
+  },
+  "https://x.com/isrchnews/status/2042108548738642361": {
+    "valid": true,
+    "company": "Atlas",
+    "amount_str": "",
+    "website": "https://atlastiresshop.com",
+    "linkedin_url": "https://linkedin.com/company/atlaswearable",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://beamstart.com/news/exclusive-juno-cpa-founded-startup-17757399166015": {
+    "valid": true,
+    "company": "Tax Prep Startup Juno",
+    "amount_str": "$12M",
+    "website": "https://beamstart.com",
+    "linkedin_url": "https://linkedin.com/company/beamstart",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@beamstart.com",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/jacksonville/news/2026/04/09/young-local-startup-austin-scene.html": {
+    "valid": false
+  },
+  "https://en.wowtale.net/2026/04/10/233849/": {
+    "valid": true,
+    "company": "Provally",
+    "amount_str": "",
+    "website": "https://provally.io",
+    "linkedin_url": "https://linkedin.com/company/provally",
+    "founder_name": "founded by Gwangjun Choi",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startuplist.africa/funding/shortlist-seed-1m-usd-7607fae": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.cxodigitalpulse.com/atlas-raises-6-million-to-scale-ai-powered-accounting-platform/": {
+    "valid": true,
+    "company": "Atlas",
+    "amount_str": "$6 M",
+    "website": "https://atlas.heart.org",
+    "linkedin_url": "https://linkedin.com/company/atlaswearable",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
