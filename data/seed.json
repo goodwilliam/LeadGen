@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-04-10T17:01:48.364272Z",
-  "count": 26,
+  "generated_at": "2026-04-10T20:30:19.123186Z",
+  "count": 24,
   "enriched_count": 18,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Enhanced Secures $1M in Strategic Pre-Seed Funding to Bring Structured Yield to More ...",
+      "article_url": "https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/1244401/enhanced-secures-1m-in-strategic-pre-seed-funding-to-bring-structured-yield-to-more-assets-onchain/",
+      "company": "Enhanced",
+      "amount_str": "$1M",
+      "pub_date": "2026-04-10T15:55:43Z",
+      "website": "https://www.enhanced.com",
+      "linkedin_url": "https://linkedin.com/company/enhanced-games",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "media@enhanced.com",
+      "twitter_url": "https://x.com/enhanced_games"
+    },
     {
       "source": "Google Alerts",
       "title": "DAAKit Raises $138,000 in Pre-Seed Round - Construction World",
@@ -16,6 +30,34 @@
       "founder_linkedin_url": "",
       "contact_email": "info@daakit.com",
       "twitter_url": "https://x.com/daakit"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "AI-native Customer Interaction Platform Angoor AI raises Rs. 2 Crore in pre-seed round led ...",
+      "article_url": "https://m.dailyhunt.in/news/india/english/tvnews4u-epaper-tvnews/ainative+customer+interaction+platform+angoor+ai+raises+rs+2+crore+in+preseed+round+led+by+venturizer-newsid-n707925416",
+      "company": "AI-native Customer Interaction Platform Angoor AI",
+      "amount_str": "",
+      "pub_date": "2026-04-10T15:05:35Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "PowerLabs Raises Pre-Seed Funding to Scale Intelligent Energy Orchestration Across Africa",
+      "article_url": "https://www.thisdaylive.com/2026/04/10/powerlabs-raises-pre-seed-funding-to-scale-intelligent-energy-orchestration-across-africa/",
+      "company": "PowerLabs",
+      "amount_str": "",
+      "pub_date": "2026-04-10T15:03:31Z",
+      "website": "https://gopowerlabs.com",
+      "linkedin_url": "https://linkedin.com/company/gopowerlabs",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "hello@gopowerlabs.com",
+      "twitter_url": ""
     },
     {
       "source": "Google Alerts",
@@ -89,20 +131,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Enhanced Secures $1M in Strategic Pre-Seed Funding to Bring Structured Yield to More ...",
-      "article_url": "https://www.thestreet.com/crypto/press-releases/enhanced-secures-1m-in-strategic-pre-seed-funding-to-bring-structured-yield-to-more-assets-onchain",
-      "company": "Enhanced",
-      "amount_str": "$1M",
-      "pub_date": "2026-04-10T13:51:56Z",
-      "website": "https://www.enhanced.com",
-      "linkedin_url": "https://linkedin.com/company/enhanced-games",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "media@enhanced.com",
-      "twitter_url": "https://x.com/enhanced_games"
-    },
-    {
-      "source": "Google Alerts",
       "title": "SiFive raises $400M from NVIDIA and Apollo in last round before IPO - Tech Funding News",
       "article_url": "https://techfundingnews.com/sifive-400m-series-g-risc-v-ipo/",
       "company": "SiFive",
@@ -159,34 +187,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "PowerLabs secures pre-seed funding led by Breega to scale intelligent energy orchestration ...",
-      "article_url": "https://africa.businessinsider.com/local/markets/powerlabs-secures-pre-seed-funding-led-by-breega-to-scale-intelligent-energy/1wfwl4l",
-      "company": "PowerLabs",
-      "amount_str": "",
-      "pub_date": "2026-04-10T13:07:47Z",
-      "website": "https://powerlabstech.com/company",
-      "linkedin_url": "https://linkedin.com/company/powerlabstech",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "hello@powerlabstech.com",
-      "twitter_url": "https://x.com/Powerlabshq"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "AI-Led Finally Foods Bags New Funding to Grow Dairy Proteins in Potatoes",
-      "article_url": "https://www.greenqueen.com.hk/finally-foods-pre-seed-funding-molecular-farming-casein-protein-potatoes/",
-      "company": "AI-Led Finally Foods",
-      "amount_str": "",
-      "pub_date": "2026-04-10T13:00:47Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "founder and",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "Elorian Raises $55M to Scale Visual Reasoning AI - Ventureburn",
       "article_url": "https://ventureburn.com/elorian-raises-55m-visual-reasoning-ai/",
       "company": "Elorian",
@@ -198,20 +198,6 @@
       "founder_linkedin_url": "",
       "contact_email": "contact@elorian.ai",
       "twitter_url": "https://x.com/ElorianAI"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Five Aussie startups that raised $30.1 million this week - SmartCompany",
-      "article_url": "https://www.smartcompany.com.au/startupsmart/australian-startups-raise-30-million-funding-april-2026/",
-      "company": "Compliance startup Haast",
-      "amount_str": "$17 m",
-      "pub_date": "2026-04-10T12:29:39Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "Proseek Bio",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "Google Alerts",
@@ -237,20 +223,6 @@
       "website": "https://innovation-village.com",
       "linkedin_url": "",
       "founder_name": "Tobe Arize",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Gov-Tech skills Platform Flashpass Raises $4.25 Million Seed Funding",
-      "article_url": "https://globalfintechseries.com/fintech-funding/gov-tech-skills-platform-flashpass-raises-4-25-million-seed-funding/",
-      "company": "Gov-Tech skills Platform Flashpass",
-      "amount_str": "$4.25 M",
-      "pub_date": "2026-04-10T10:12:17Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "Emil Barr",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""

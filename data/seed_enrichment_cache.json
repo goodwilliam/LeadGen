@@ -31429,5 +31429,140 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/alight-inc-alit-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302739493.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/aardvark-therapeutics-aard-faces-investor-scrutiny-amid-56-drop-on-clinical-pause-for-lead-drug-candidate-hagens-berman-302739496.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/aberdeen-investments-us-closed-end-funds-declare-distribution-dates-and-amounts-302739469.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/hercules-capital-inc-htgc-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302739492.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/franklin-bsp-realty-trust-inc-fbrt-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302739490.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/new-era-energy--digital-inc-nuai-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302739434.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/gartner-inc-it-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302739489.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/grocery-outlet-holding-corp-go-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302739488.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.cision.com/about/accessibility",
+    "linkedin_url": "https://linkedin.com/company/cision",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@cision.com",
+    "twitter_url": "https://x.com/cision"
+  },
+  "https://www.prnewswire.com/news-releases/immunitybio-inc-ibrx-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302739486.html": {
+    "valid": false
+  },
+  "https://www.analyticsinsight.net/amp/story/business/weekly-funding-roundup-sarvam-ai-nears-350m-perplexity-launches-1m-challenge": {
+    "valid": false
+  },
+  "https://www.jeccomposites.com/news/by-jec/us25m-for-aerospace-defence-composite-manufacturer-hybron/?news_type=announcement,business&end_use_application=aerospace,defence-security-ballistics&tax_product=carbon-fiber": {
+    "valid": false
+  },
+  "https://techfundingnews.com/altilium-18-5m-drive35-battery-recycling/": {
+    "valid": false
+  },
+  "https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/1244401/enhanced-secures-1m-in-strategic-pre-seed-funding-to-bring-structured-yield-to-more-assets-onchain/": {
+    "valid": true,
+    "company": "Enhanced",
+    "amount_str": "$1M",
+    "website": "https://www.enhanced.com",
+    "linkedin_url": "https://linkedin.com/company/enhanced-games",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "media@enhanced.com",
+    "twitter_url": "https://x.com/enhanced_games"
+  },
+  "https://africa.businessinsider.com/local/markets/rio-tinto-mine-taps-solar-power-in-south-africa-as-energy-crisis-deepens/x2l57md": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://ocdn.eu/radp/biafrica/favicon.ico",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startuplist.africa/funding/conservio-pre-seed-200k-usd-880670f": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://m.dailyhunt.in/news/india/english/tvnews4u-epaper-tvnews/ainative+customer+interaction+platform+angoor+ai+raises+rs+2+crore+in+preseed+round+led+by+venturizer-newsid-n707925416": {
+    "valid": true,
+    "company": "AI-native Customer Interaction Platform Angoor AI",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thisdaylive.com/2026/04/10/powerlabs-raises-pre-seed-funding-to-scale-intelligent-energy-orchestration-across-africa/": {
+    "valid": true,
+    "company": "PowerLabs",
+    "amount_str": "",
+    "website": "https://gopowerlabs.com",
+    "linkedin_url": "https://linkedin.com/company/gopowerlabs",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@gopowerlabs.com",
+    "twitter_url": ""
+  },
+  "https://energycapitalhtx.com/solidec-flathead-forge-preseed-funding": {
+    "valid": true,
+    "company": "Solidec",
+    "amount_str": "",
+    "website": "https://solidec.com",
+    "linkedin_url": "https://linkedin.com/company/solidec-inc",
+    "founder_name": "Ryan DuChanois",
+    "founder_linkedin_url": "https://linkedin.com/in/ryanduchanois",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupfortune.com/how-metas-movie-gen-and-tribe-v2-are-changing-the-viral-video-playbook-for-founders/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://cryptorank.io/news/feed/78c82-biggest-funding-rounds-chips-aviation-biotech-sifive": {
+    "valid": false
+  },
+  "https://www.youtube.com/shorts/PX7NaStexqY": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://i.ytimg.com/generate_204",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
