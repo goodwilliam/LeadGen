@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T07:15:26Z",
+  "generated_at": "2026-04-10T12:45:50Z",
   "count": 24,
   "jobs": [
     {
@@ -27,7 +27,7 @@
       "companyBatch": "F25",
       "companyOneLiner": "TikTok for language learning",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/a9603ad6a62ae3ee9c8723521f8f2d852d664a89.png",
-      "companyLastActiveAt": "14 days ago",
+      "companyLastActiveAt": "15 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D90847&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=30848"
     },
     {
@@ -55,7 +55,7 @@
       "companyBatch": "W25",
       "companyOneLiner": "We help law enforcement solve crime",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/c5b9a8ffa191d64a12f160ab46ed4cf4f2dd85dc.png",
-      "companyLastActiveAt": "about 18 hours ago",
+      "companyLastActiveAt": "about 24 hours ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D91640&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=30209"
     },
     {
@@ -139,7 +139,7 @@
       "companyBatch": "S24",
       "companyOneLiner": "AI agents you can rely on",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/ff410def03c8c58c3adc7db9615becc8164804e3.png",
-      "companyLastActiveAt": "7 days ago",
+      "companyLastActiveAt": "8 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D78058&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29649"
     },
     {
@@ -195,7 +195,7 @@
       "companyBatch": "W24",
       "companyOneLiner": "Real-time and two-way sync between CRMs and Databases",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/86069ba7639f52c1874bb95448db4e4cd2310e5e.png",
-      "companyLastActiveAt": "8 days ago",
+      "companyLastActiveAt": "9 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92545&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29434"
     },
     {
@@ -227,20 +227,6 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D80903&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29290"
     },
     {
-      "id": 75335,
-      "title": "Agent+ Product Designer",
-      "jobType": "fulltime",
-      "location": "Brazil (Remote) / Remote (US)",
-      "roleType": "Web design",
-      "companyName": "Tempo",
-      "companySlug": "tempo-2",
-      "companyBatch": "S23",
-      "companyOneLiner": "Visual Editor for React, powered by AI",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/860f478b7cd2ea33eefb86e90c9c693abef2997f.png",
-      "companyLastActiveAt": null,
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D75335&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29150"
-    },
-    {
       "id": 83825,
       "title": "Founding Product Designer ",
       "jobType": "fulltime",
@@ -253,6 +239,20 @@
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/860f478b7cd2ea33eefb86e90c9c693abef2997f.png",
       "companyLastActiveAt": null,
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D83825&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29150"
+    },
+    {
+      "id": 89404,
+      "title": "Design Engineering Intern",
+      "jobType": "intern",
+      "location": "Main Office - Toronto",
+      "roleType": "Web design",
+      "companyName": "Tempo",
+      "companySlug": "tempo-2",
+      "companyBatch": "S23",
+      "companyOneLiner": "Visual Editor for React, powered by AI",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/860f478b7cd2ea33eefb86e90c9c693abef2997f.png",
+      "companyLastActiveAt": "17 days ago",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89404&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29150"
     },
     {
       "id": 89173,
