@@ -30509,5 +30509,295 @@
   },
   "https://www.registerkaro.in/post/difference-between-seed-and-series-a-funding": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/04/09/risc-v-chip-design-startup-sifive-nabs-400m-investment/": {
+    "valid": true,
+    "company": "RISC-V chip design startup SiFive",
+    "amount_str": "$400M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.geekwire.com/2026/flush-with-cash-washington-startup-lands-up-500m-to-deploy-facilities-treating-sewage-dairy-waste/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/snow-investors-have-opportunity-to-lead-snowflake-inc-securities-fraud-lawsuit-302738793.html": {
+    "valid": false
+  },
+  "https://www.backscoop.com/newsletter-posts/singapores-onsite-raises-1-3m-to-solve-construction-inefficiencies-on-site": {
+    "valid": true,
+    "company": "Singapore's OnSite",
+    "amount_str": "$1.3M",
+    "website": "https://www.digitalnewsasia.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.pymnts.com/artificial-intelligence-2/2026/anthropics-new-agents-product-pressures-a-crowded-startup-category/": {
+    "valid": false
+  },
+  "https://femtechinsider.com/sub-q-bionics-raises-1-5m-and-signs-mayo-clinic-licensing-deal-to-develop-implantable-lymphedema-device/": {
+    "valid": true,
+    "company": "Sub-Q Bionics",
+    "amount_str": "$1.5M",
+    "website": "https://www.subqbionics.com",
+    "linkedin_url": "https://linkedin.com/company/sub-q-bionics",
+    "founder_name": "Jordan Pollack",
+    "founder_linkedin_url": "https://linkedin.com/in/jordan-pollack-81464827",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.theglobeandmail.com/business/article-motorola-acquires-canadian-startup-hyper-known-for-ai-tech-that/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/": {
+    "valid": false
+  },
+  "https://www.citybiz.co/article/830846/veteran-ventures-capital-backs-hybron-technologies-in-20m-seed-round-to-scale-defense-manufacturing/": {
+    "valid": false
+  },
+  "https://entarabi.com/en/2026/04/the-fashion-fund-unveils-its-new-identity-as-saudi-arabias-first-fashion-investment-fund/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "with Majed Alhugail",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.contxto.com/en/healthtech/the-healthtech-industry-is-accelerating-its-growth-with-the-expansion-of-startups-and-new-product-launches/": {
+    "valid": false
+  },
+  "https://www.facebook.com/theceo.in/photos/deeptech-startup-h2loop-has-raised-2-million-in-a-seed-round-co-led-by-speciale-/1404058448416375/": {
+    "valid": false
+  },
+  "https://timesofindia.indiatimes.com/city/ahmedabad/ahmedabad-spacetech-startup-raises-2-2mn-in-seed-round-to-accelerate-thermal-satellite-mission/articleshow/130152132.cms": {
+    "valid": true,
+    "company": "Ahmedabad spacetech startup",
+    "amount_str": "$2.2m",
+    "website": "https://www.financeoutlookindia.com",
+    "linkedin_url": "https://linkedin.com/company/finance-outlook-india",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/financeout1"
+  },
+  "https://mlq.ai/news/portal-space-raises-50m-funding-for-high-power-rocket-engine/": {
+    "valid": true,
+    "company": "Portal Space Systems",
+    "amount_str": "$50 m",
+    "website": "https://www.portalsystems.space",
+    "linkedin_url": "https://linkedin.com/company/portal-space-systems",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@portalsystems.space",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-us/money/smallbusiness/morocco-based-zsystems-raises-us-1-65-million-seed-round-to-expand-b2b-retail-marketplace/ar-AA20v14g?ocid=finance-verthp-feeds": {
+    "valid": false
+  },
+  "https://novobrief.com/spanish-xoople-raises-115m-to-map-the-earth-using-ai/11772/amp/": {
+    "valid": false
+  },
+  "https://farsightvision.com/uk/farsight-vision-raises-seed-round-to-accelerate-ai-driven-decision-making-in-defence": {
+    "valid": true,
+    "company": "Farsight Vision",
+    "amount_str": "",
+    "website": "https://farsightvision.hurma.work/public-vacancies",
+    "linkedin_url": "https://linkedin.com/company/farsight-vision",
+    "founder_name": "Viktoriia Yaremchuk",
+    "founder_linkedin_url": "https://linkedin.com/in/viktoriia-yaremchuk-3ba80116",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://usethebitcoin.com/crypto-live-feed/enhanced-secures-1m-in-strategic-pre-seed-funding-to-bring-structured-yield-to-more-assets-onchain/": {
+    "valid": true,
+    "company": "Enhanced",
+    "amount_str": "$1M",
+    "website": "https://enhanced.finance",
+    "linkedin_url": "https://linkedin.com/company/enhanced-games",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://altfins.com/crypto-news/article/enhanced-secures-1m-in-strategic-pre-seed-funding-to-bring-structured-yield-to-more-assets-onchain": {
+    "valid": true,
+    "company": "Enhanced",
+    "amount_str": "$1M",
+    "website": "https://www.enhanced.com",
+    "linkedin_url": "https://linkedin.com/company/enhanced-games",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "media@enhanced.com",
+    "twitter_url": "https://x.com/enhanced_games"
+  },
+  "https://blockchainreporter.net/enhanced-secures-1m-in-strategic-pre-seed-funding-to-bring-structured-yield-to-more-assets-onchain/": {
+    "valid": true,
+    "company": "Enhanced",
+    "amount_str": "$1M",
+    "website": "https://www.enhanced.com",
+    "linkedin_url": "https://linkedin.com/company/enhanced-games",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "media@enhanced.com",
+    "twitter_url": "https://x.com/enhanced_games"
+  },
+  "https://www.mexc.com/news/1016432": {
+    "valid": false
+  },
+  "https://www.cryptopolitan.com/180m-avax-to-coinbase-is-avalanche-dumping/": {
+    "valid": false
+  },
+  "https://x.com/TheDailyHodl/status/2042259551664357645": {
+    "valid": true,
+    "company": "Enhanced",
+    "amount_str": "$1M",
+    "website": "https://www.enhanced.com",
+    "linkedin_url": "https://linkedin.com/company/enhanced-games",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "media@enhanced.com",
+    "twitter_url": "https://x.com/enhanced_games"
+  },
+  "https://bharatfast.com/english/business/daakit-raises-138k-funding/32141/": {
+    "valid": true,
+    "company": "DAAKit",
+    "amount_str": "",
+    "website": "https://daakit.com",
+    "linkedin_url": "https://linkedin.com/company/daakit",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@daakit.com",
+    "twitter_url": "https://x.com/daakit"
+  },
+  "https://usethebitcoin.com/guides/best-crypto-lending-platforms-2026/": {
+    "valid": false
+  },
+  "https://br.advfn.com/noticias/CHAINWIRE/2026/artigo/98253065": {
+    "valid": true,
+    "company": "XAUt0",
+    "amount_str": "",
+    "website": "https://www.coingecko.com",
+    "linkedin_url": "https://linkedin.com/company/coingecko",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/coingecko"
+  },
+  "https://www.ainvest.com/news/enhanced-1m-pre-seed-liquidity-bet-onchain-options-yield-2604/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://blog.summer.fi/the-defi-yield-landscape-a-map-of-fragmentation",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/summerfinance_"
+  },
+  "https://www.lawfuel.com/legal-ai-news-ai-native-law-firm-keith-secures-2m-to-automate-80-of-conveyancing-work/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://sp-ao.shortpixel.ai",
+    "linkedin_url": "https://linkedin.com/company/shortpixel",
+    "founder_name": "According to",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/shortpixel"
+  },
+  "https://www.einpresswire.com/article/904758970/gov-tech-skills-platform-flashpass-raises-4-25-million-seed-funding": {
+    "valid": true,
+    "company": "Gov-Tech skills platform Flashpass",
+    "amount_str": "$4.25 m",
+    "website": "https://www.livingstondaily.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/livingstondaily"
+  },
+  "https://ground.news/article/refiant-raises-5m-to-cut-ai-energy-use-as-data-centre-demand-surges-tech_02c446": {
+    "valid": true,
+    "company": "Refiant",
+    "amount_str": "$5M",
+    "website": "https://refiant.ai",
+    "linkedin_url": "https://linkedin.com/company/refiant",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/sacramento/news/2026/04/09/aggie-venture-accelerator-startup-investments.html": {
+    "valid": false
+  },
+  "https://www.genomeweb.com/business-news/single-cell-drug-toxicity-prediction-startup-deepcyte-launches-15m-seed-funding": {
+    "valid": false
+  },
+  "https://www.citybiz.co/article/830474/juno-raises-12m-led-by-bonfire-ventures-to-automate-90-of-tax-firm-busy-work/": {
+    "valid": true,
+    "company": "Juno",
+    "amount_str": "$12M",
+    "website": "https://home.juno.com",
+    "linkedin_url": "https://linkedin.com/company/junofinancehq",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://inc42.com/buzz/pluckk-bags-%E2%82%B9100-cr-to-scale-farm-to-door-business-enter-offline-retail/": {
+    "valid": false
+  },
+  "https://www.startuplist.africa/funding/farmula-seed-100k-usd-73ebd10": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.genomeweb.com/new-products/genomics-ltd-mystra-multi-trait-colocalization-feature/651801": {
+    "valid": false
+  },
+  "https://infotechlead.com/tech/rork-raises-15-mn-to-scale-ai-powered-mobile-app-development-platform-94966?amp=1": {
+    "valid": true,
+    "company": "Rork",
+    "amount_str": "$15 m",
+    "website": "https://amp.rork.com",
+    "linkedin_url": "https://linkedin.com/company/rork-app",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
