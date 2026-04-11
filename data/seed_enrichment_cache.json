@@ -32093,5 +32093,142 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/smci-investors-have-opportunity-to-lead-super-micro-computer-inc-securities-fraud-lawsuit-302739624.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-hub-group-inc-investors-to-inquire-about-securities-class-action-investigation--hubg-302739602.html": {
+    "valid": false
+  },
+  "https://www.binance.com/en/square/post/04-11-2026-crypto-startups-secure-76-million-in-funding-in-early-q2-2026-311194491848545": {
+    "valid": false
+  },
+  "https://portugalstartupnews.com/2026/04/11/eight-raising-e3-million-seed-round-to-scale-video-first-dating-app-across-europe/": {
+    "valid": false
+  },
+  "https://phemex.com/news/article/crypto-startups-secure-76m-in-early-q2-2026-funding-72275": {
+    "valid": true,
+    "company": "Crypto startups have",
+    "amount_str": "$76 m",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/EU_Startups/status/2042479892290551814": {
+    "valid": false
+  },
+  "https://www.ad-hoc-news.de/boerse/news/ueberblick/solana-s-institutional-engine-revs-up-as-token-price-idles/69126429": {
+    "valid": false
+  },
+  "https://vctavern.com/skriber-raises-1-3-million-in-oversubscribed-pre-seed-round-to-advance-ai-powered-clinical-documentation/": {
+    "valid": true,
+    "company": "Skriber",
+    "amount_str": "$1.3 M",
+    "website": "https://app.skriber.com",
+    "linkedin_url": "https://linkedin.com/company/skriber",
+    "founder_name": "Founded by",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/punchnewspaper/posts/%F0%9D%97%99%F0%9D%97%B6%F0%9D%97%BF%F0%9D%97%BA-%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%B0%F0%9D%98%82%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%80-%F0%9D%97%B3%F0%9D%98%82%F0%9D%97%BB%F0%9D%97%B1%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-%F0%9D%98%81%F0%9D%97%BC-%F0%9D%97%B3%F0%9D%97%B6%F0%9D%98%85-%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B2%F0%9D%97%B0%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%B6%F0%9D%98%81%F0%9D%98%86-%F0%9D%98%84%F0%9D%97%BC%F0%9D%97%B2%F0%9D%98%80-lagos-start-up-powerlabs-raises-pre/1403962798434566/": {
+    "valid": true,
+    "company": "Firm",
+    "amount_str": "",
+    "website": "https://faq.keleefitness.com",
+    "linkedin_url": "https://linkedin.com/company/firm-inc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://punchng.com/firm-secures-funding-to-fix-electricity-woes/?amp": {
+    "valid": true,
+    "company": "Firm",
+    "amount_str": "",
+    "website": "https://thefirmofficial.com",
+    "linkedin_url": "https://linkedin.com/company/firm-inc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.ad-hoc-news.de/boerse/news/ueberblick/solana-s-contradiction-record-user-growth-meets-capital-flight/69125797": {
+    "valid": false
+  },
+  "https://www.ad-hoc-news.de/boerse/news/ueberblick/solana-s-paradox-a-network-thrives-as-its-token-stumbles/69125796": {
+    "valid": false
+  },
+  "https://inforcapital.com/news/qoro-closes-750k-to-bridge-quantum-and-classical-computing/": {
+    "valid": true,
+    "company": "Qoro Quantum",
+    "amount_str": "$750K",
+    "website": "https://qoroquantum.net",
+    "linkedin_url": "",
+    "founder_name": "Dan Holme",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.tribuneindia.com/topic/codename-coral?page=6": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.ekhbary.com/news/allonic-secures-record-72-million-pre-seed-funding-reimagining-robotics-hardware-534-2.html?lang=sw": {
+    "valid": true,
+    "company": "Allonic",
+    "amount_str": "$7.2 M",
+    "website": "https://allonic.co",
+    "linkedin_url": "https://linkedin.com/company/allonic",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@allonic.co",
+    "twitter_url": ""
+  },
+  "https://m.dailyhunt.in/news/india/english/entrackr+english-epaper-entrackr/funding+and+acquisitions+in+indian+startup+this+week+apr+6+apr+11-newsid-n708056019": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wa.me",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://inforcapital.com/news/juno-raises-12m-seed-round-to-streamline-tax-returns-with-ai/": {
+    "valid": true,
+    "company": "Juno",
+    "amount_str": "$12M",
+    "website": "https://home.juno.com",
+    "linkedin_url": "https://linkedin.com/company/junofinancehq",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "https://linkedin.com/in/arthur-le-jm",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startuprise.io/pomo-raises-4-5m-in-seed-funding/": {
+    "valid": true,
+    "company": "Pomo",
+    "amount_str": "$4.5M",
+    "website": "http://www.kstrom.net",
+    "linkedin_url": "https://linkedin.com/company/pomo",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startuphub.ai/ai-news/investors-news/2026/venture-capital-hits-300b-quarter": {
+    "valid": false
   }
 }
