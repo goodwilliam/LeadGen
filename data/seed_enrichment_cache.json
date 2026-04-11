@@ -31564,5 +31564,145 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/04/10/report-cisco-acquire-ai-agent-security-startup-astrix-security-250m/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/10/ai-training-data-startup-afterquery-nabs-30m-investment/": {
+    "valid": true,
+    "company": "AI training data startup AfterQuery",
+    "amount_str": "$30M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/tcom-investors-have-opportunity-to-lead-tripcom-group-limited-securities-fraud-lawsuit-first-filed-by-the-rosen-law-firm-302739560.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/upst-shareholder-notice-faruqi--faruqi-llp-highlights-securities-class-action-against-upstart-upst-302739533.html": {
+    "valid": false
+  },
+  "https://www.binance.com/en/square/post/311194491848545": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/pacific/news/2026/04/10/olelo-intelligence-startup-world-cup-regional.html": {
+    "valid": true,
+    "company": "Hawaii AI startup",
+    "amount_str": "$1M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "third from left",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.dlnews.com/articles/deals/crypto-startups-kick-off-q2-by-raising-76m-in-the-first-week/": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/sanfrancisco/news/2026/04/10/sfbt-digest-friday-openai-altman-molotov-anthropic.html": {
+    "valid": false
+  },
+  "https://launchbaseafrica.com/2026/04/10/from-kitchens-to-cockpits-the-egyptian-startup-turning-cooking-oil-into-a-25x-investor-return/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://launchbaseafrica.gumroad.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://launchbaseafrica.com/2026/04/10/were-not-monitoring-energy-were-deciding-what-happens-next-inside-powerlabs-bet-on-automation/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://launchbaseafrica.gumroad.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.siliconsnark.com/giggles-raised-a-pre-seed-for-tradable-videos-tiktok-meets-the-trading-floor/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.bunny.net",
+    "linkedin_url": "",
+    "founder_name": "insight here",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startuplist.africa/funding/chekkit-pre-seed-undisclosed-6f206af": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://serrarigroup.com/madicas-vital-600k-deal-for-kilimo-hakimu-biovana/": {
+    "valid": false
+  },
+  "https://x.com/Crypto_Dealflow/status/2042574516942000522": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/vendor.50028efa.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/enhanced-secures-1m-in-strategic-pre-seed-funding-to-bring-structured-yield-to-more-assets-onchain.html": {
+    "valid": false
+  },
+  "https://x.com/DisruptAfrica/status/2042528260525830280": {
+    "valid": true,
+    "company": "Nigerian energy startup PowerLabs",
+    "amount_str": "",
+    "website": "https://techmoonshot.com",
+    "linkedin_url": "https://linkedin.com/company/techmoonshot",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/techmoonshot_"
+  },
+  "https://inforcapital.com/news/nigerian-energy-startup-powerlabs-secures-pre-seed-funding-round/": {
+    "valid": true,
+    "company": "PowerLabs",
+    "amount_str": "",
+    "website": "https://gopowerlabs.com",
+    "linkedin_url": "https://linkedin.com/company/gopowerlabs",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@gopowerlabs.com",
+    "twitter_url": ""
+  },
+  "https://www.thesetonian.com/article/2026/04/student-entrepreneurs-pitch-startup-ideas-at-pirates-pitch-competition": {
+    "valid": false
+  },
+  "https://en.wowtale.net/2026/04/10/233852/": {
+    "valid": true,
+    "company": "AIM Intelligence",
+    "amount_str": "$7M",
+    "website": "https://aim-intelligence.com",
+    "linkedin_url": "https://linkedin.com/company/aim-intelligence-co",
+    "founder_name": "said Sangyun Yoo",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupmag.co.uk/funding/qoro-2026-pre-seed-funding/": {
+    "valid": false
   }
 }
