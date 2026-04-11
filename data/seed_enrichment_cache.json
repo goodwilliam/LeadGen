@@ -31785,5 +31785,90 @@
     "founder_linkedin_url": "",
     "contact_email": "info@efinance.com.eg",
     "twitter_url": ""
+  },
+  "https://phemex.com/news/article/tokedge-launches-with-15m-valuation-eyes-100m-fund-by-2026-72465": {
+    "valid": false
+  },
+  "https://techfundingnews.com/from-lab-discovery-to-market-opportunity-the-rise-of-prex1-in-cancer-diagnostics/": {
+    "valid": false
+  },
+  "https://www.massbio.org/news/member-news/march-update-antibody-industry-trends-q1-2026-insights-trends-analysis/": {
+    "valid": false
+  },
+  "https://www.sciencenews.org/investors-lab/open-wide-and-say-ai-h2o-from-fog-and-more": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.snexplores.org",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/SN_Explores"
+  },
+  "https://knowstartup.com/news/clayco-raises-rs-34-crore-series-a-revenue-jumps-14x/": {
+    "valid": true,
+    "company": "ClayCo",
+    "amount_str": "",
+    "website": "https://claycorp.com",
+    "linkedin_url": "https://linkedin.com/company/73731",
+    "founder_name": "Gen Funahashi",
+    "founder_linkedin_url": "",
+    "contact_email": "info@claycorp.com",
+    "twitter_url": "https://x.com/ClaycoInc"
+  },
+  "https://www.varindia.com/news/Elon-Musk-seeks-removal-of-OpenAI-CEO-Sam-Altman-%E2%80%94-Report": {
+    "valid": false
+  },
+  "https://www.indiaipo.in/daily-reporter/india-ipo-market-news-11-april-2026": {
+    "valid": false
+  },
+  "https://www.reddit.com/r/ycombinator/comments/1si9qdr/preseed_seed_investment_in_pk_for_a_usbased/": {
+    "valid": false
+  },
+  "https://thesun.ng/i-perform-the-crowd-as-much-as-the-music-dj-djdimplenipple/?amp": {
+    "valid": false
+  },
+  "https://thesun.ng/firm-secures-pre-seed-funding-to-scale-intelligent-energy-across-africa/": {
+    "valid": true,
+    "company": "Firm",
+    "amount_str": "",
+    "website": "https://faq.keleefitness.com",
+    "linkedin_url": "https://linkedin.com/company/firm-inc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/pulse2news/status/2042731398361190738": {
+    "valid": false
+  },
+  "https://pulse2.com/prism-layer-pre-seed-funding-raised-for-ai-native-enterprise-risk-management-platform/amp/": {
+    "valid": false
+  },
+  "https://inforcapital.com/news/nigerian-energy-startup-powerlabs-secures-pre-seed-funding-round": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://infrapppworld.com",
+    "linkedin_url": "https://linkedin.com/company/infrappp-world",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/InfraPPP"
+  },
+  "https://m.dailyhunt.in/news/india/english/analytics+insight-epaper-anycinst/weekly+funding+roundup+sarvam+ai+nears+350m+perplexity+launches+1m+challenge-newsid-n707999329": {
+    "valid": true,
+    "company": "Sarvam AI Nears $350M, Perplexity",
+    "amount_str": "$350M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupmag.co.uk/funding/uk-startup-funding-report-10-04-2026/": {
+    "valid": false
   }
 }
