@@ -31870,5 +31870,101 @@
   },
   "https://www.startupmag.co.uk/funding/uk-startup-funding-report-10-04-2026/": {
     "valid": false
+  },
+  "https://mlq.ai/news/afterquery-raises-30m-series-a-at-300m-valuation-for-expert-driven-ai-datasets/": {
+    "valid": true,
+    "company": "AfterQuery",
+    "amount_str": "$30M",
+    "website": "https://experts.afterquery.com",
+    "linkedin_url": "https://linkedin.com/company/afterquery",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/spencermateega",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://incrypted.com/en/follow-the-money-modest-75m-for-venture-investments-one-corporate-deal-and-focus-on-defi/": {
+    "valid": false
+  },
+  "https://www.startupresearcher.com/news/jozo-closes-2-21-million-seed-round-to-boost-saudi-property-tokenization": {
+    "valid": false
+  },
+  "https://m.dailyhunt.in/news/india/english/news+patrolling-epaper-newspatr/logistics+startup+daakit+raises+138000+in+preseed+round+led+by+inflection+point+ventures-newsid-n707789868": {
+    "valid": true,
+    "company": "DAAKit",
+    "amount_str": "",
+    "website": "https://daakit.com",
+    "linkedin_url": "https://linkedin.com/company/daakit",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@daakit.com",
+    "twitter_url": "https://x.com/daakit"
+  },
+  "https://startupsamadhan.com/nava-ai-startup-raises-22-million-greenoaks-capital-series-a/": {
+    "valid": true,
+    "company": "Their startup just",
+    "amount_str": "$22 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "and CEO",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupresearcher.com/news/pulga-secures-pre-seed-funding-to-transform-chilean-second-hand-market": {
+    "valid": false
+  },
+  "https://www.startupresearcher.com/news/powerlabs-secures-pre-seed-funding-to-tackle-nigeria-s-energy-chaos": {
+    "valid": false
+  },
+  "https://m.dailyhunt.in/news/india/english/entrackr+english-epaper-entrackr/daakit+raises+138k+in+preseed+round+led+by+inflection+point+ventures-newsid-n707792369": {
+    "valid": true,
+    "company": "DAAKit",
+    "amount_str": "$138K",
+    "website": "https://daakit.com",
+    "linkedin_url": "https://linkedin.com/company/daakit",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@daakit.com",
+    "twitter_url": "https://x.com/daakit"
+  },
+  "https://www.globalsouthopportunities.com/2026/04/11/fellowship-137/": {
+    "valid": false
+  },
+  "https://venture5.com/vc-deals/inbound-aerospace-raises-1-million-pre-seed/": {
+    "valid": true,
+    "company": "Inbound Aerospace",
+    "amount_str": "$1 m",
+    "website": "https://inboundaerospace.com",
+    "linkedin_url": "https://linkedin.com/company/inboundaerospace",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techinasia.com/quick-weve-quantum-list": {
+    "valid": false
+  },
+  "https://www.railway.supply/voltify-raises-usd-30-million-for-diesel-train-conversion/": {
+    "valid": true,
+    "company": "Voltify",
+    "amount_str": "",
+    "website": "https://voltify.com/about",
+    "linkedin_url": "https://linkedin.com/company/justvoltify",
+    "founder_name": "CEO and",
+    "founder_linkedin_url": "https://linkedin.com/in/maxime-hallot",
+    "contact_email": "contact@voltify.com",
+    "twitter_url": ""
+  },
+  "https://technext24.com/2026/04/11/here-are-the-top-10-telecom-operators-in-africa-in-2026/": {
+    "valid": false
+  },
+  "https://e27.co/the-hard-truth-behind-onmics-quiet-exit-20260410/": {
+    "valid": false
+  },
+  "https://www.streetinsider.com/PRNewswire/Genesis+AI+Hires+Former+Amazon+Leader+Vivian+Sun+to+Advance+Commercialization/26297001.html": {
+    "valid": false
+  },
+  "https://msmeafricaonline.com/call-for-applications-irena-newgen-renewable-energy-accelerator-2026-for-youth-led-startups/": {
+    "valid": false
   }
 }
