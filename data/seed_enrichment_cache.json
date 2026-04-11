@@ -31704,5 +31704,86 @@
   },
   "https://www.startupmag.co.uk/funding/qoro-2026-pre-seed-funding/": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/gemini-space-station-inc-notice-of-may-18-2026-application-deadline-for-class-action-lawsuit---contact-lewis-kahn-esq-at-kahn-swick--foti-llc-before-application-deadline-302739642.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/enphase-energy-inc-notice-of-april-20-2026-application-deadline-for-class-action-lawsuit---contact-lewis-kahn-esq-at-kahn-swick--foti-llc-before-application-deadline-302739653.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/driven-brands-holdings-inc-securities-fraud-class-actions-result-of-erroneous-financial-statements-and-39-stock-decline---investors-may-contact-lewis-kahn-esq-at-kahn-swick--foti-llc-302739650.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/corcept-therapeutics-incorporated-securities-fraud-class-action-result-of-fda-approval-issues-and-50-stock-decline---investors-may-contact-lewis-kahn-esq-at-kahn-swick--foti-llc-302739647.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/apollo-global-management-inc-securities-fraud-class-action-result-of-undisclosed-relationship-with-jeffrey-epstein-and-16-stock-decline---investors-may-contact-lewis-kahn-esq-at-kahn-swick--foti-llc-302739643.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/soleno-therapeutics-inc-notice-of-may-5-2026-application-deadline-for-class-action-lawsuit---contact-lewis-kahn-esq-at-kahn-swick--foti-llc-before-application-deadline-302739632.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/immunitybio-inc-securities-fraud-class-action-result-of-fda-warning-and-21-stock-decline---investors-may-contact-lewis-kahn-esq-at-kahn-swick--foti-llc-302739620.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/super-micro-computer-inc-notice-of-may-26-2026-application-deadline-for-class-action-lawsuits---contact-lewis-kahn-esq-at-kahn-swick--foti-llc-before-application-deadline-302739634.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/trade-desk-investigation-initiated-kahn-swick--foti-llc-investigates-the-officers-and-directors-of-the-trade-desk-inc---ttd-302739639.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/tripcom-group-limited-securities-fraud-class-action-result-of-antitrust-probe-and-19-stock-decline---investors-may-contact-lewis-kahn-esq-at-kahn-swick--foti-llc-302739637.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/navan-inc-notice-of-april-24-2026-application-deadline-for-class-action-lawsuit---contact-lewis-kahn-esq-at-kahn-swick--foti-llc-before-application-deadline-302739629.html": {
+    "valid": false
+  },
+  "https://www.chaincatcher.com/en/article/2257920": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://github.com/ChainCatcherOfficial",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ChainCatcher_"
+  },
+  "https://bravenewcoin.com/press-release/basis-successfully-completes-private-testing-as-base58-labs-prepares-for-full-scale-staking-market-rollout": {
+    "valid": false
+  },
+  "https://www.reddit.com/r/PakStartups/comments/1si8hof/preseed_seed_investment_in_pk_for_a_usbased/": {
+    "valid": false
+  },
+  "https://inc42.com/buzz/from-kreditbee-to-nava-indian-startups-raised-362-mn-this-week/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.nigeriacommunicationsweek.com.ng/powerlabs-to-scale-intelligent-energy-orchestration-across-africa-with-new-funding/": {
+    "valid": false
+  },
+  "https://www.startuplist.africa/funding/suplias-seed-undisclosed-28f4573": {
+    "valid": false
+  },
+  "https://businessday.ng/technology/article/inside-ocean-trends-digital-how-damilare-ajiboye-built-six-llve-products-processed-over-n500-million-and-never-raised-a-naira/": {
+    "valid": false
+  },
+  "https://followict.news/en/african-startup-news-april-10-2026/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.efinance.com.eg",
+    "linkedin_url": "https://linkedin.com/company/e-finance",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@efinance.com.eg",
+    "twitter_url": ""
   }
 }
