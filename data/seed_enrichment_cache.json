@@ -31966,5 +31966,132 @@
   },
   "https://msmeafricaonline.com/call-for-applications-irena-newgen-renewable-energy-accelerator-2026-for-youth-led-startups/": {
     "valid": false
+  },
+  "https://technotrenz.com/news/swiss-proptech-startup-bewy-ag-secures-187-9k/": {
+    "valid": true,
+    "company": "Swiss Proptech Startup Bewy AG",
+    "amount_str": "$187.9K",
+    "website": "https://technotrenz.com",
+    "linkedin_url": "",
+    "founder_name": "strategy consulting",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/Hinshelwood_S/status/2042963379111801082": {
+    "valid": true,
+    "company": "Potpie",
+    "amount_str": "$2.2 m",
+    "website": "https://potpie.ai",
+    "linkedin_url": "https://linkedin.com/company/potpieai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/potpiedotai"
+  },
+  "https://entrepreneur.economictimes.indiatimes.com/amp/tag/startup": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://img.etb2bimg.com/files/cp/upload-1772520469-etentrepreneur-fav-icon-48x48.svg",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://inforcapital.com/news/prism-layer-pre-seed-funding-raised-for-ai-native-enterprise-risk-management-platform/": {
+    "valid": true,
+    "company": "Risk Platform Prism Layer",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/innovationville/status/2042889727150264327": {
+    "valid": true,
+    "company": "Nigeria's PowerLabs",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupsamadhan.com/daakit-raises-138000-pre-seed-25-dark-stores-tier-1-tier-2-cities/": {
+    "valid": true,
+    "company": "DAAKit",
+    "amount_str": "$138K",
+    "website": "https://daakit.com",
+    "linkedin_url": "https://linkedin.com/company/daakit",
+    "founder_name": "Chandan Singh Ghugtyal",
+    "founder_linkedin_url": "https://linkedin.com/in/chandansinghghugtyal",
+    "contact_email": "info@daakit.com",
+    "twitter_url": "https://x.com/daakit"
+  },
+  "https://startupfortune.com/anthropics-claude-steals-the-spotlight-at-major-ai-industry-gathering/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/svietofficial/posts/-fueling-innovation-with-10-lakh-seed-fundinga-big-step-towards-empowering-ideas/1451308973706791/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://inforcapital.com/news/inner-ai-raises-6m-seed-round/": {
+    "valid": true,
+    "company": "Inner AI",
+    "amount_str": "$6M",
+    "website": "https://innerai.com",
+    "linkedin_url": "https://linkedin.com/company/innerai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@innerai.com",
+    "twitter_url": ""
+  },
+  "https://inforcapital.com/news/provally-raises-seed-funding-to-cut-false-positives-in-code-security-analysis/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://infrapppworld.com",
+    "linkedin_url": "https://linkedin.com/company/infrappp-world",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/InfraPPP"
+  },
+  "https://www.startupgrantsindia.com/?search=pitch+day": {
+    "valid": false
+  },
+  "https://opentools.ai/news/perplexity-ai-challenges-founders-in-a-billion-dollar-build-event-is-it-worth-the-hype": {
+    "valid": false
+  },
+  "https://www.genomeweb.com/business-news/people-news-cubit-diagnostics-oxford-nanopore-agilent-devyser-diagnostics-more": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://crain-platform-genomeweb-prod.s3.amazonaws.com/app-icons/favicon.ico",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
