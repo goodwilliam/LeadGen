@@ -32497,5 +32497,170 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://venturebeat.com/security/your-developers-are-already-running-ai-locally-why-on-device-inference-is": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/slno-shareholder-reminder-faruqi--faruqi-llp-reminds-soleno-therapeutics-slno-investors-of-securities-class-action-deadline-on-may-5-2026-302739579.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/snow-shareholder-reminder-faruqi--faruqi-llp-reminds-snowflake-snow-investors-of-securities-class-action-deadline-on-april-27-2026-302739577.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/psix-shareholder-reminder-faruqi--faruqi-llp-reminds-power-solutions-international-psix-investors-of-securities-class-action-deadline-on-may-19-2026-302739575.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/pom-shareholder-reminder-faruqi--faruqi-llp-reminds-pomdoctor-pom-investors-of-securities-class-action-deadline-on-april-13-2026-302739568.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/nuai-shareholder-reminder-faruqi--faruqi-llp-reminds-new-era-energy--digital-nuai-investors-of-securities-class-action-deadline-on-june-1-2026-302739571.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/navn-shareholder-reminder-faruqi--faruqi-llp-reminds-navan-navn-investors-of-securities-class-action-deadline-on-april-24-2026-302739565.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/zyxiq-shareholder-reminder-faruqi--faruqi-llp-reminds-zynex-zyxiq-investors-of-securities-class-action-deadline-on-april-21-2026-302739561.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/vitl-shareholder-reminder-faruqi--faruqi-llp-reminds-vital-farms-vitl-investors-of-securities-class-action-deadline-on-may-26-2026-302739559.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/lake-shareholder-reminder-faruqi--faruqi-llp-reminds-lakeland-industries-lake-investors-of-securities-class-action-deadline-on-april-24-2026-302739555.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/htgc-shareholder-reminder-faruqi--faruqi-llp-reminds-hercules-capital-htgc-investors-of-securities-class-action-deadline-on-may-19-2026-302739544.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/go-shareholder-reminder-faruqi--faruqi-llp-reminds-grocery-outlet-go-investors-of-securities-class-action-deadline-on-may-15-2026-302739539.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/goss-shareholder-reminder-faruqi--faruqi-llp-reminds-gossamer-bio-goss-investors-of-securities-class-action-deadline-on-june-1-2026-302739532.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/eose-shareholder-reminder-faruqi--faruqi-llp-reminds-eos-energy-enterprises-eose-investors-of-securities-class-action-deadline-on-may-5-2026-302739535.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/drvn-shareholder-reminder-faruqi--faruqi-llp-reminds-driven-brands-holdings-drvn-investors-of-securities-class-action-deadline-on-may-8-2026-302739527.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/cigl-shareholder-reminder-faruqi--faruqi-llp-reminds-concorde-international-cigl-investors-of-securities-class-action-deadline-on-may-20-2026-302739526.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/chow-shareholder-reminder-faruqi--faruqi-llp-reminds-chowchow-cloud-chow-investors-of-securities-class-action-deadline-on-may-12-2026-302739528.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/cwh-shareholder-reminder-faruqi--faruqi-llp-reminds-camping-world-holdings-cwh-investors-of-securities-class-action-deadline-on-may-11-2026-302739524.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/aldx-shareholder-reminder-faruqi--faruqi-llp-reminds-aldeyra-therapeutics-aldx-investors-of-securities-class-action-deadline-on-may-29-2026-302739518.html": {
+    "valid": false
+  },
+  "https://medial.app/news/logistics-startup-daakit-raises-dollar138000-in-pre-seed-round-09e6b90233f26": {
+    "valid": false
+  },
+  "https://medial.app/news/juno-raises-dollar12-million-in-seed-funding-or-the-saas-news-e2069e3b4d000": {
+    "valid": true,
+    "company": "Juno",
+    "amount_str": "$12 M",
+    "website": "http://start.juno.com",
+    "linkedin_url": "https://linkedin.com/company/junofinancehq",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://m.dailyhunt.in/news/india/english/inc42-epaper-inc/the+mainstreet+marketplace+secures+funding+to+promote+sneaker+culture-newsid-n512991448": {
+    "valid": true,
+    "company": "Mainstreet Marketplace",
+    "amount_str": "",
+    "website": "https://marketplace.mainstreet.co.in",
+    "linkedin_url": "https://linkedin.com/company/maintreet-marketplace",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "orders@mainstreet.co.in",
+    "twitter_url": ""
+  },
+  "https://unchainedcrypto.com/press-release/tok-edge-debuts-redemption-token-confirms-15m-valuation/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thestockdork.com/tradfi-veterans-launch-tok-edge-with-15m-valuation-targets-100m-crypto-fund/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://medial.app/news/gabify-raises-dollar175k-in-pre-seed-funding-led-by-inflection-point-ventures-f063b3200e798": {
+    "valid": true,
+    "company": "Gabify",
+    "amount_str": "$175K",
+    "website": "https://gabify.care",
+    "linkedin_url": "https://linkedin.com/company/gabify-life",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "care@gabify.life",
+    "twitter_url": ""
+  },
+  "https://unionpost.co.uk/angel-investment-rounds/": {
+    "valid": false
+  },
+  "https://www.instagram.com/reel/DXCVw04ALMf/": {
+    "valid": false
+  },
+  "https://startupfortune.com/anthropic-says-chinese-labs-stole-claudes-intelligence-the-evidence-is-striking/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://medial.app/news/plume-raises-euro33m-in-funding-or-the-saas-news-0f630200e490b": {
+    "valid": true,
+    "company": "Plume",
+    "amount_str": "\u20ac3.3M",
+    "website": "https://www.plume.com",
+    "linkedin_url": "https://linkedin.com/company/plume-wifi",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupfortune.com/how-the-tariff-war-is-quietly-rewiring-the-ai-startup-economy/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://m.dailyhunt.in/news/india/english/yourstory-epaper-yourstory/inamo+raises+8m+in+series+a+funding+to+expand+quick+commerce+infrastructure-newsid-n702867650": {
+    "valid": true,
+    "company": "Inamo",
+    "amount_str": "$8M",
+    "website": "https://inamo.ai",
+    "linkedin_url": "https://linkedin.com/company/inamoai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@inamo.ai",
+    "twitter_url": ""
   }
 }
