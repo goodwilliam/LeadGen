@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-12T05:53:23.086801Z",
-  "count": 27,
-  "enriched_count": 18,
+  "generated_at": "2026-04-12T08:39:19.662343Z",
+  "count": 26,
+  "enriched_count": 17,
   "articles": [
     {
       "source": "Google Alerts",
@@ -167,20 +167,6 @@
       "website": "https://qoroquantum.net",
       "linkedin_url": "",
       "founder_name": "Dan Holme",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Pomo Raises $4.5M in Seed Funding - Startup Rise USA",
-      "article_url": "https://startuprise.io/pomo-raises-4-5m-in-seed-funding/",
-      "company": "Pomo",
-      "amount_str": "$4.5M",
-      "pub_date": "2026-04-11T11:12:11Z",
-      "website": "http://www.kstrom.net",
-      "linkedin_url": "https://linkedin.com/company/pomo",
-      "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
