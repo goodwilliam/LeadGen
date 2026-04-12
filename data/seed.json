@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-04-12T01:52:46.131201Z",
-  "count": 26,
+  "generated_at": "2026-04-12T05:53:23.086801Z",
+  "count": 27,
   "enriched_count": 18,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Climate-tech startup Satellites on Fire raises $2.7M in seed funding led by Dalus Capital to ...",
+      "article_url": "https://x.com/LatamData/status/2043116644881580211",
+      "company": "Climate-tech startup Satellites on Fire",
+      "amount_str": "$2.7M",
+      "pub_date": "2026-04-12T00:54:01Z",
+      "website": "https://thenextweb.com",
+      "linkedin_url": "https://linkedin.com/company/the-next-web",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "j3j5@hachyderm.io",
+      "twitter_url": "https://x.com/thenextweb"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "[Korean Startup Weekly News #113] Mobilint Raises $46.4M Series C, Bets Big on Edge AI",
+      "article_url": "https://en.wowtale.net/2026/04/12/233864/",
+      "company": "[Korean Startup Weekly News #113] Mobilint",
+      "amount_str": "$46.4M",
+      "pub_date": "2026-04-12T00:50:44Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "AGNIT Semiconductors Nets $2.6 Mn To Foray Into Telecom, Power Electronics | Dailyhunt",
@@ -187,20 +215,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Voltify raises USD 30 million for diesel train conversion - Railway Supply",
-      "article_url": "https://www.railway.supply/voltify-raises-usd-30-million-for-diesel-train-conversion/",
-      "company": "Voltify",
-      "amount_str": "",
-      "pub_date": "2026-04-11T09:29:24Z",
-      "website": "https://voltify.com/about",
-      "linkedin_url": "https://linkedin.com/company/justvoltify",
-      "founder_name": "CEO and",
-      "founder_linkedin_url": "https://linkedin.com/in/maxime-hallot",
-      "contact_email": "contact@voltify.com",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "Allonic Secures Record $7.2 Million Pre-Seed Funding , Reimagining Robotics Hardware",
       "article_url": "https://www.ekhbary.com/news/allonic-secures-record-72-million-pre-seed-funding-reimagining-robotics-hardware-534-2.html?lang=sw",
       "company": "Allonic",
@@ -242,20 +256,6 @@
       "twitter_url": ""
     },
     {
-      "source": "Google Alerts",
-      "title": "ClayCo Raises Rs 34.59 Cr Series A as Revenue Jumps 14x to Rs 72 Cr - KnowStartup",
-      "article_url": "https://knowstartup.com/news/clayco-raises-rs-34-crore-series-a-revenue-jumps-14x/",
-      "company": "ClayCo",
-      "amount_str": "",
-      "pub_date": "2026-04-10T22:34:18Z",
-      "website": "https://claycorp.com",
-      "linkedin_url": "https://linkedin.com/company/73731",
-      "founder_name": "Gen Funahashi",
-      "founder_linkedin_url": "",
-      "contact_email": "info@claycorp.com",
-      "twitter_url": "https://x.com/ClaycoInc"
-    },
-    {
       "source": "SiliconAngle",
       "title": "AI training data startup AfterQuery nabs $30M investment",
       "article_url": "https://siliconangle.com/2026/04/10/ai-training-data-startup-afterquery-nabs-30m-investment/",
@@ -268,6 +268,20 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Crypto News Tag Aggregation &amp; Thematic Content | LBank",
+      "article_url": "https://www.lbank.info/news/payy-raises-6m-seed-to-build-private-stablecoin-payments-on-zero-knowledge-rails",
+      "company": "Payy",
+      "amount_str": "$6m",
+      "pub_date": "2026-04-10T15:10:32Z",
+      "website": "https://payy.network",
+      "linkedin_url": "https://linkedin.com/company/payy",
+      "founder_name": "founder and",
+      "founder_linkedin_url": "",
+      "contact_email": "hello@payy.link",
+      "twitter_url": "https://x.com/payy_link"
     },
     {
       "source": "tech.eu",
