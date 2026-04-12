@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-04-12T16:31:43.037908Z",
-  "count": 20,
-  "enriched_count": 16,
+  "generated_at": "2026-04-12T20:30:52.916410Z",
+  "count": 25,
+  "enriched_count": 20,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Proptech Jozo Raises $2.2M Seed Round to Scale Tokenisation Platform - CairoScene",
+      "article_url": "https://cairoscene.com/Business/Proptech-Jozo-Raises-2-2M-Seed-Round-to-Scale-Tokenisation-Platform",
+      "company": "Saudi proptech startup Jozo",
+      "amount_str": "$2.2 m",
+      "pub_date": "2026-04-12T14:46:28Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "The Mainstreet Marketplace Secures Funding To Promote Sneaker Culture | Dailyhunt",
@@ -16,6 +30,20 @@
       "founder_linkedin_url": "",
       "contact_email": "orders@mainstreet.co.in",
       "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Visa processing startup Atlys raises $36 Mn in Series C funding | Dailyhunt",
+      "article_url": "https://m.dailyhunt.in/news/india/english/entrackr+english-epaper-entrackr/visa+processing+startup+atlys+raises+36+mn+in+series+c+funding-newsid-n704785073",
+      "company": "Visa processing startup Atlys",
+      "amount_str": "$36 M",
+      "pub_date": "2026-04-12T14:31:31Z",
+      "website": "https://economictimes.indiatimes.com",
+      "linkedin_url": "https://linkedin.com/company/economictimes",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/economictimes"
     },
     {
       "source": "Google Alerts",
@@ -61,6 +89,20 @@
     },
     {
       "source": "Google Alerts",
+      "title": "Indian startups raised over $385 million from April 06 to April 11, 2026; KreditBee tops the list",
+      "article_url": "https://indianstartupnews.com/funding/indian-startups-raised-over-385-million-from-april-06-to-april-11-2026-kreditbee-tops-the-list-11716943",
+      "company": "Cloud infrastructure startup Nava",
+      "amount_str": "$22 m",
+      "pub_date": "2026-04-12T06:31:21Z",
+      "website": "https://d2vbj8g7upsspg.cloudfront.net",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
       "title": "Inamo raises $8M in Series A funding to expand quick commerce infrastructure | Dailyhunt",
       "article_url": "https://m.dailyhunt.in/news/india/english/yourstory-epaper-yourstory/inamo+raises+8m+in+series+a+funding+to+expand+quick+commerce+infrastructure-newsid-n702867650",
       "company": "Inamo",
@@ -72,6 +114,20 @@
       "founder_linkedin_url": "",
       "contact_email": "hello@inamo.ai",
       "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "SiFive secures $400M from NVIDIA, Apollo ahead of IPO - N24",
+      "article_url": "https://n24.com.tr/en/technology/sifive-secures-400m-from-nvidia-apollo-ahead-of-ipo-488",
+      "company": "SiFive",
+      "amount_str": "$400M",
+      "pub_date": "2026-04-12T04:34:29Z",
+      "website": "https://www.sifive.com",
+      "linkedin_url": "https://linkedin.com/company/sifive",
+      "founder_name": "as stated by",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/SiFive"
     },
     {
       "source": "Google Alerts",
@@ -89,31 +145,17 @@
     },
     {
       "source": "Google Alerts",
-      "title": "[Korean Startup Weekly News #113] Mobilint Raises $46.4M Series C, Bets Big on Edge AI",
-      "article_url": "https://en.wowtale.net/2026/04/12/233864/",
-      "company": "[Korean Startup Weekly News #113] Mobilint",
-      "amount_str": "$46.4M",
-      "pub_date": "2026-04-12T00:50:44Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
+      "title": "Prism Layer raises pre-seed funding for AI-native enterprise risk management platform",
+      "article_url": "https://completeaitraining.com/news/prism-layer-raises-pre-seed-funding-for-ai-native/",
+      "company": "Prism Layer",
+      "amount_str": "",
+      "pub_date": "2026-04-12T00:03:22Z",
+      "website": "https://www.prismlayer.ai",
+      "linkedin_url": "https://linkedin.com/company/prism-layer",
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "AGNIT Semiconductors Nets $2.6 Mn To Foray Into Telecom, Power Electronics | Dailyhunt",
-      "article_url": "https://m.dailyhunt.in/news/india/english/inc42-epaper-inc/agnit+semiconductors+nets+26+mn+to+foray+into+telecom+power+electronics-newsid-n704718119",
-      "company": "AGNIT Semiconductors",
-      "amount_str": "$2.6 M",
-      "pub_date": "2026-04-11T22:42:38Z",
-      "website": "https://tracxn.com",
-      "linkedin_url": "https://linkedin.com/company/tracxn",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "hi@tracxn.com",
-      "twitter_url": "https://x.com/tracxn"
     },
     {
       "source": "Google Alerts",
@@ -156,6 +198,34 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "DAAKit Raises $138K to Launch 25 Dark Stores Across India - Startup Samadhan",
+      "article_url": "https://startupsamadhan.com/daakit-raises-138000-pre-seed-25-dark-stores-tier-1-tier-2-cities/",
+      "company": "DAAKit",
+      "amount_str": "$138K",
+      "pub_date": "2026-04-11T13:34:31Z",
+      "website": "https://daakit.com",
+      "linkedin_url": "https://linkedin.com/company/daakit",
+      "founder_name": "Chandan Singh Ghugtyal",
+      "founder_linkedin_url": "https://linkedin.com/in/chandansinghghugtyal",
+      "contact_email": "info@daakit.com",
+      "twitter_url": "https://x.com/daakit"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Customer interaction platform Angoor AI raises Rs 2 Cr Pre-seed funding from Venturizer",
+      "article_url": "https://incubees.com/customer-interaction-platform-angoor-ai-raises-rs-2-cr-pre-seed-funding-from-venturizer/",
+      "company": "Customer interaction platform Angoor AI",
+      "amount_str": "",
+      "pub_date": "2026-04-11T11:47:46Z",
+      "website": "https://entrackr.com",
+      "linkedin_url": "https://linkedin.com/company/entrackr",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/entrackr"
     },
     {
       "source": "Google Alerts",
