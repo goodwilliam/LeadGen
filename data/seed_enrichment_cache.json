@@ -32230,5 +32230,84 @@
   },
   "https://www.startuphub.ai/ai-news/investors-news/2026/venture-capital-hits-300b-quarter": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/ibrx-investors-have-opportunity-to-lead-immunitybio-inc-securities-fraud-lawsuit-first-filed-by-the-rosen-law-firm-302739652.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/aqst-investors-have-opportunity-to-lead-aquestive-therapeutics-inc-securities-fraud-lawsuit-302739675.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/apo-deadline-apo-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-apollo-global-management-inc-securities-fraud-lawsuit-filed-by-the-rosen-law-firm-302739514.html": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/fundreef_a-27-year-old-team-just-raised-38m-pre-seed-activity-7448725417412263936-xhPf": {
+    "valid": false
+  },
+  "https://fundreef.substack.com/p/a-27-year-old-team-just-raised-38m?utm_source=%2Fbrowse%2Ftechnology&utm_medium=reader2": {
+    "valid": false
+  },
+  "https://www.arabnews.pk/node/2639601/business-economy": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://arab.news/pbm9q",
+    "linkedin_url": "",
+    "founder_name": "Lea Mehaweg",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/arabnewspk"
+  },
+  "https://phemex.com/news/article/crypto-startups-raise-76-million-in-first-week-of-q2-2026-72265": {
+    "valid": true,
+    "company": "Crypto startups",
+    "amount_str": "$76 m",
+    "website": "https://topstartups.io",
+    "linkedin_url": "https://linkedin.com/company/joinpogo",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/thecompasshub/status/2043020054548086794": {
+    "valid": true,
+    "company": "Firm",
+    "amount_str": "",
+    "website": "https://faq.keleefitness.com",
+    "linkedin_url": "https://linkedin.com/company/firm-inc",
+    "founder_name": "statement by",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://m.dailyhunt.in/news/india/english/inc42-epaper-inc/agnit+semiconductors+nets+26+mn+to+foray+into+telecom+power+electronics-newsid-n704718119": {
+    "valid": true,
+    "company": "AGNIT Semiconductors",
+    "amount_str": "$2.6 M",
+    "website": "https://tracxn.com",
+    "linkedin_url": "https://linkedin.com/company/tracxn",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hi@tracxn.com",
+    "twitter_url": "https://x.com/tracxn"
+  },
+  "https://www.startupgrantsindia.com/surge": {
+    "valid": false
+  },
+  "https://www.startupgrantsindia.com/seed-fund-scheme": {
+    "valid": false
+  },
+  "https://www.startupgrantsindia.com/a16z-speedrun": {
+    "valid": false
+  },
+  "https://news.fintech.io/post/102mpbt/juno-raises-12m-in-seed-funding": {
+    "valid": true,
+    "company": "Juno",
+    "amount_str": "$12m",
+    "website": "http://start.juno.com",
+    "linkedin_url": "https://linkedin.com/company/junofinancehq",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
