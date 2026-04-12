@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-12T08:39:19.662343Z",
-  "count": 26,
-  "enriched_count": 17,
+  "generated_at": "2026-04-12T12:43:38.171089Z",
+  "count": 23,
+  "enriched_count": 16,
   "articles": [
     {
       "source": "Google Alerts",
@@ -44,6 +44,20 @@
       "founder_linkedin_url": "",
       "contact_email": "hi@tracxn.com",
       "twitter_url": "https://x.com/tracxn"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "AS Digital Announces $500K Pre-Seed Funding Round",
+      "article_url": "https://asdigitalsolutions.in/blog-funding-500k.html",
+      "company": "AS Digital",
+      "amount_str": "$500K",
+      "pub_date": "2026-04-11T20:25:44Z",
+      "website": "https://www.asdigitalconsulting.com",
+      "linkedin_url": "https://linkedin.com/company/as-digital-",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "marketing@asdigitalconsulting.com",
+      "twitter_url": "https://x.com/suricate"
     },
     {
       "source": "Google Alerts",
@@ -145,6 +159,20 @@
     },
     {
       "source": "Google Alerts",
+      "title": "Customer interaction platform Angoor AI raises Rs 2 Cr Pre-seed funding from Venturizer",
+      "article_url": "https://incubees.com/customer-interaction-platform-angoor-ai-raises-rs-2-cr-pre-seed-funding-from-venturizer/",
+      "company": "Customer interaction platform Angoor AI",
+      "amount_str": "",
+      "pub_date": "2026-04-11T11:47:46Z",
+      "website": "https://entrackr.com",
+      "linkedin_url": "https://linkedin.com/company/entrackr",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/entrackr"
+    },
+    {
+      "source": "Google Alerts",
       "title": "Inner AI Raises $6M Seed Funding for AI Aggregation - InforCapital",
       "article_url": "https://inforcapital.com/news/inner-ai-raises-6m-seed-round/",
       "company": "Inner AI",
@@ -173,48 +201,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Nigeria's PowerLabs raises pre\u2011seed funding to scale AI\u2011driven energy orchestration platform -...",
-      "article_url": "https://x.com/innovationville/status/2042889727150264327",
-      "company": "Nigeria's PowerLabs",
-      "amount_str": "",
-      "pub_date": "2026-04-11T10:18:52Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "AfterQuery Raises $30M Series A at $300M Valuation for Expert-Driven AI Datasets",
-      "article_url": "https://mlq.ai/news/afterquery-raises-30m-series-a-at-300m-valuation-for-expert-driven-ai-datasets/",
-      "company": "AfterQuery",
-      "amount_str": "$30M",
-      "pub_date": "2026-04-11T09:59:41Z",
-      "website": "https://experts.afterquery.com",
-      "linkedin_url": "https://linkedin.com/company/afterquery",
-      "founder_name": "",
-      "founder_linkedin_url": "https://linkedin.com/in/spencermateega",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Allonic Secures Record $7.2 Million Pre-Seed Funding , Reimagining Robotics Hardware",
-      "article_url": "https://www.ekhbary.com/news/allonic-secures-record-72-million-pre-seed-funding-reimagining-robotics-hardware-534-2.html?lang=sw",
-      "company": "Allonic",
-      "amount_str": "$7.2 M",
-      "pub_date": "2026-04-11T09:14:12Z",
-      "website": "https://allonic.co",
-      "linkedin_url": "https://linkedin.com/company/allonic",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "hello@allonic.co",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "Crypto Startups Secure $76M in Early Q2 2026 Funding | Phemex News",
       "article_url": "https://phemex.com/news/article/crypto-startups-raise-76-million-in-first-week-of-q2-2026-72265",
       "company": "Crypto startups",
@@ -223,20 +209,6 @@
       "website": "https://topstartups.io",
       "linkedin_url": "https://linkedin.com/company/joinpogo",
       "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Nava AI Startup Raises $22M Led by Greenoaks Capital",
-      "article_url": "https://startupsamadhan.com/nava-ai-startup-raises-22-million-greenoaks-capital-series-a/",
-      "company": "Nava AI Startup",
-      "amount_str": "$22 m",
-      "pub_date": "2026-04-11T06:36:38Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "and CEO",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
@@ -254,20 +226,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Crypto News Tag Aggregation &amp; Thematic Content | LBank",
-      "article_url": "https://www.lbank.info/news/payy-raises-6m-seed-to-build-private-stablecoin-payments-on-zero-knowledge-rails",
-      "company": "Payy",
-      "amount_str": "$6m",
-      "pub_date": "2026-04-10T15:10:32Z",
-      "website": "https://payy.network",
-      "linkedin_url": "https://linkedin.com/company/payy",
-      "founder_name": "founder and",
-      "founder_linkedin_url": "",
-      "contact_email": "hello@payy.link",
-      "twitter_url": "https://x.com/payy_link"
     },
     {
       "source": "tech.eu",

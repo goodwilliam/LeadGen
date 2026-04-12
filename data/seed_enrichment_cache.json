@@ -32428,5 +32428,74 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.calcalistech.com/ctechnews/article/rk80000tunbl": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://newmedia.calcalist.co.il/ctech/testimonials/index.html",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "judith.hoffmann@calcalist.co.il",
+    "twitter_url": ""
+  },
+  "https://m.dailyhunt.in/news/india/english/inc42-epaper-inc/chasing+the+scent+of+indias+next+d2c+breakout-newsid-n704888489": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wa.me",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://hackernoon.com/lang/es/basis-successfully-completes-private-testing-as-base58-labs-prepares-for-full-scale-staking-market": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://asdigitalsolutions.in/blog-funding-500k.html": {
+    "valid": true,
+    "company": "AS Digital",
+    "amount_str": "$500K",
+    "website": "https://www.asdigitalconsulting.com",
+    "linkedin_url": "https://linkedin.com/company/as-digital-",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "marketing@asdigitalconsulting.com",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://bridgemena.com/news/estaie-secures-seven-figure-pre-seed-funding-to-accelerate-mena-expansion": {
+    "valid": false
+  },
+  "https://incubees.com/customer-interaction-platform-angoor-ai-raises-rs-2-cr-pre-seed-funding-from-venturizer/": {
+    "valid": true,
+    "company": "Customer interaction platform Angoor AI",
+    "amount_str": "",
+    "website": "https://entrackr.com",
+    "linkedin_url": "https://linkedin.com/company/entrackr",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/entrackr"
+  },
+  "https://www.caproasia.com/2026/04/12/china-nuclear-fusion-startup-novafusionx-raised-103-million-cny-700-million-in-seed-funding-round-founded-in-2025-by-guo-houyang-investors-include-legend-capital-lightspeed-china-partners-gaor/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.wsj.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
