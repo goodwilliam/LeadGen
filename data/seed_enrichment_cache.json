@@ -33045,5 +33045,105 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/13/zell-raises-eur500k-to-scale-ai-powered-sales-management/": {
+    "valid": true,
+    "company": "Zell",
+    "amount_str": "\u20ac500K",
+    "website": "https://getzell.com",
+    "linkedin_url": "https://linkedin.com/company/zell-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/13/fewer-deals-bigger-bets-europe-s-venture-market-resets-in-q1-2026/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/13/european-tech-weekly-recap-eur720m-in-deals-and-marchs-highlights/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/13/round-raises-6m-to-scale-its-ai-powered-finance-automation-platform/": {
+    "valid": true,
+    "company": "Round",
+    "amount_str": "$6M",
+    "website": "https://www.roundtreasury.com",
+    "linkedin_url": "https://linkedin.com/company/roundtreasury",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/inxy-raises-7m-in-new-funding.html": {
+    "valid": false
+  },
+  "https://www.theaustralian.com.au/nation/sydney-startup-lands-major-defence-contract-for-ghost-murmur-style-quantum-sensor/news-story/ae21a008b1821b91ab1080be40e768a0": {
+    "valid": false
+  },
+  "https://www.campaignindia.in/article/krafton-and-neptune-launch-global-flick-game-challenge/4gq24xs5x4v531dn334tfhg8mh": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/04/londons-round-treasury-raises-e5-1-million-to-build-ai-powered-finance-automation-platform-for-modern-finance-teams/": {
+    "valid": false
+  },
+  "https://innovation-village.com/south-african-founded-ai-startup-refiant-secures-5-million-to-tackle-ais-energy-challenge/": {
+    "valid": true,
+    "company": "African\u2013Founded AI Startup Refiant",
+    "amount_str": "$5 M",
+    "website": "https://www.slunecno.cz",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://disruptafrica.com/2026/04/13/african-tech-startups-raise-382m-in-q1-2026-up-35-on-same-period-last-year/?amp=1": {
+    "valid": true,
+    "company": "African tech startups",
+    "amount_str": "$382m",
+    "website": "https://disruptafrica.gumroad.com/l/kjrnr",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://pulse2.com/giggles-1-million-raised-to-turn-viral-content-into-a-tradable-video-marketplace/amp/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.ampproject.org",
+    "linkedin_url": "",
+    "founder_name": "Justin Jin",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/THISDAYLIVE/posts/powerlabs-secures-pre-seed-funding-to-scale-ai-energy-platform-sunday-ehigiator-/961121579836935/": {
+    "valid": true,
+    "company": "PowerLabs",
+    "amount_str": "",
+    "website": "https://gopowerlabs.com",
+    "linkedin_url": "https://linkedin.com/company/gopowerlabs",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@gopowerlabs.com",
+    "twitter_url": ""
   }
 }
