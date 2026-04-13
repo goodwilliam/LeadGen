@@ -33262,5 +33262,316 @@
   },
   "https://www.msn.com/en-in/news/India/punjab-to-extend-young-entrepreneurs-programme-to-classes-9-10/ar-AA20sDIB?ocid=finance-verthp-feeds&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-fund-its-affordable-ev-truck-plans/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/13/replenit-raises-25m-to-bring-real-time-ai-decision-making-to-retail/": {
+    "valid": true,
+    "company": "Replenit",
+    "amount_str": "$2.5M",
+    "website": "https://replen.it",
+    "linkedin_url": "https://linkedin.com/company/replenit",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/replenit"
+  },
+  "https://www.prnewswire.com/news-releases/navan-inc-nasdaq-navn-class-action-deadline-approaching-berger-montague-advises-investors-to-inquire-about-a-securities-fraud-class-action-by-april-24-2026-302740125.html": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/04/13/gov-tech-skills-platform-flashpass-raises-4-25m-seed-funding/": {
+    "valid": true,
+    "company": "Gov-Tech Skills Platform Flashpass",
+    "amount_str": "$4.25M",
+    "website": "https://www.livingstondaily.com",
+    "linkedin_url": "",
+    "founder_name": "and Co",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/livingstondaily"
+  },
+  "https://disruptafrica.com/2026/04/13/moroccan-retail-tech-startup-zsystems-secures-1-65m-seed-funding-round/?amp=1": {
+    "valid": true,
+    "company": "Moroccan retail-tech startup Zsystems",
+    "amount_str": "$1.65m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.theinformation.com/newsletters/ai-agenda/reinforcement-learning-gym-startup-buoyed-labs-appetite-training-data-reaches-750-million-valuation": {
+    "valid": false
+  },
+  "https://www.capitalbrief.com/briefing/quantum-sensor-startup-deteqt-closes-5m-seed-round-led-by-main-sequence-fbb05645-3293-4a52-a062-5226cbacf249/": {
+    "valid": true,
+    "company": "Quantum sensor startup Deteqt",
+    "amount_str": "$5m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Deteqt CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thenextweb.com/news/round-6m-seed-ai-finance-automation-treasury-payroll": {
+    "valid": true,
+    "company": "London fintech Round",
+    "amount_str": "$6M",
+    "website": "https://www.startupresearcher.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bebeez.eu/2026/04/13/londons-eka-ventures-closes-e91-5-million-fund-ii-to-back-uk-startups-in-health-wellbeing-and-sustainability/": {
+    "valid": false
+  },
+  "https://www.wearetech.africa/en/fils-uk/brief/nigeria-s-powerlabs-raises-pre-seed-funding-to-expand-ai-driven-energy-system": {
+    "valid": true,
+    "company": "Nigeria's PowerLabs",
+    "amount_str": "",
+    "website": "https://innovation-village.com",
+    "linkedin_url": "",
+    "founder_name": "Mayowa Akande Builds AI",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.femtechworld.co.uk/news/fertility-news/flora-fertility-closes-us5m-seed-round-fert26/": {
+    "valid": false
+  },
+  "https://www.artificiallawyer.com/2026/04/13/legal-tech-raised-2-3b-in-q1-26-but-3-companies-dominate/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wp.me/p8cny6-aaz",
+    "linkedin_url": "",
+    "founder_name": "of Legal Complex",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://hypepotamus.com/startup-news/sigma-automate-raises-2-75-million-it-automation-easy-button/": {
+    "valid": true,
+    "company": "Sigma Automate",
+    "amount_str": "$2.75M",
+    "website": "http://sigma-automate.com",
+    "linkedin_url": "https://linkedin.com/company/sigma-automate",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.wamda.com/2026/04/saudi-proptech-jozo-closes-2-2-million-seed": {
+    "valid": true,
+    "company": "Saudi proptech Jozo",
+    "amount_str": "$2.2 m",
+    "website": "https://www.startupresearcher.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://the-tech.kz/how-an-uzbek-is-building-the-future-of-humanoid-robots-and-attracting-millions-in-silicon-valley/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "of the startup Humanola",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://launchbaseafrica.com/2026/04/13/meet-the-9-vcs-tasked-with-deploying-moroccos-new-270m-startup-war-chest/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://launchbaseafrica.gumroad.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://newsblaze.com/business/technology/automat-it-helps-monce-build-an-aws-foundation-for-faster-industrial-growth_213346/": {
+    "valid": false
+  },
+  "https://www.sportsbusinessjournal.com/Articles/2026/04/13/in-six-years-founder-haley-rosen-takes-just-womens-sports-from-startup-to-power-player/": {
+    "valid": false
+  },
+  "https://europeanbusinessmagazine.com/business/business-european-venture-capital-q1-2026/": {
+    "valid": false
+  },
+  "https://www.bitget.com/news/detail/12560605363259": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "as JP Richardson",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/replenit-raises-2-5m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/13/replenit-raises-25m-to-bring-real-time-ai-decision-making-to-retail//": {
+    "valid": true,
+    "company": "Replenit",
+    "amount_str": "$2.5M",
+    "website": "https://replen.it",
+    "linkedin_url": "https://linkedin.com/company/replenit",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/replenit"
+  },
+  "https://www.bitget.com/news/detail/12560605363149": {
+    "valid": false
+  },
+  "https://www.structuredretailproducts.com/insights/83149/decentralised-finance-firm-enhanced-labs-raises-funds": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/flashpass-raises-4-25m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/flora-fertility-raises-usd5m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/futurefit-ai-receives-strategic-investment.html": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/thesaasnews_wholesum-adds-335k-in-pre-seed-funding-activity-7449398984361664512-YBkd": {
+    "valid": false
+  },
+  "https://www.vestbee.com/insights/articles/replenit-secures-2-5-m": {
+    "valid": true,
+    "company": "Replenit",
+    "amount_str": "$2.5M",
+    "website": "https://replen.it/landing-page/replenit-pre-seed-announcement",
+    "linkedin_url": "https://linkedin.com/company/replenit",
+    "founder_name": "of ElevenLabs",
+    "founder_linkedin_url": "",
+    "contact_email": "sofia@blackunicornpr.com",
+    "twitter_url": "https://x.com/replenit"
+  },
+  "https://www.finsmes.com/2026/04/qoro-quantum-raises-750k-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://zycrypto.com/mexc-reimagined-a-brand-upgrade-built-around-infinite-opportunities-and-zero-fees/": {
+    "valid": false
+  },
+  "https://x.com/THISDAYLIVE/status/2043532865942524372": {
+    "valid": true,
+    "company": "PowerLabs",
+    "amount_str": "",
+    "website": "https://gopowerlabs.com",
+    "linkedin_url": "https://linkedin.com/company/gopowerlabs",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@gopowerlabs.com",
+    "twitter_url": ""
+  },
+  "https://empowerafrica.com/powerlabs-secures-pre-seed-funding-to-tackle-nigerias-persistent-energy-challenges/": {
+    "valid": true,
+    "company": "AFEX",
+    "amount_str": "$26.5 m",
+    "website": "https://www.finnotes.org",
+    "linkedin_url": "https://linkedin.com/company/associated-foreign-exchange",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/wholesum-adds-335k-in-pre-seed-funding": {
+    "valid": false
+  },
+  "https://weetracker.com/2026/04/13/zsystems-morocco-1-65m-seed-retail-b2b2c/": {
+    "valid": false
+  },
+  "https://www.joyceshen.com/joyce-shens-picks-musings-and-readings-in-ai-ml-april-13-2026/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://towardsdatascience.com/why-every-ai-coding-assistant-needs-a-memory-layer",
+    "linkedin_url": "https://linkedin.com/company/towards-data-science",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/TDataScience"
+  },
+  "https://www.finsmes.com/2026/04/slate-raises-650m-in-series-c-funding.html": {
+    "valid": false
+  },
+  "https://www.facebook.com/61576104553617/videos/aman-guptas-new-venture-offbeat-studio-just-raised-100-crore-in-seed-fundingled-/920191047549245/": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DXCPh-1DBuC/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "origin story starts with",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://cryptorank.io/news/feed/d3416-china-leads-startup-funding-ai-seed-growth-asia-q1-2026": {
+    "valid": false
+  },
+  "https://m.dailyhunt.in/news/india/english/news+karnataka-epaper-newskarn/bengaluru+startup+builds+uav+that+can+watch+earth+for+24+hours-newsid-n708235630": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wa.me",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://news.erau.edu/headlines/embry-riddle-student-led-startup-competition-innovations-sustainability-drone-tech-automation": {
+    "valid": false
+  },
+  "https://entarabi.com/en/2026/04/ava-secures-investment-from-plug-and-play-middle-east-to-advance-fintech-services-in-ksa/": {
+    "valid": true,
+    "company": "AVA",
+    "amount_str": "",
+    "website": "https://myavaaddams.com",
+    "linkedin_url": "https://linkedin.com/company/ava",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/ava-w-547ab7210",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://msmeafricaonline.com/call-for-applications-youth-social-innovation-learning-program-catalyst-academy-for-african-entrepreneurs-2026/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.addtoany.com/add_to/facebook",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://msmeafricaonline.com/call-for-applications-agentic-ai-innovation-challenge-2026-win-non-dilutive-funding-aws-credits-worth-millions-of-naira/": {
+    "valid": true,
+    "company": "Agentic AI Innovation Challenge 2026 (",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
