@@ -33573,5 +33573,142 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://venturebeat.com/technology/is-anthropic-nerfing-claude-users-increasingly-report-performance": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/thoma-bravo-announces-agreement-to-combine-hcss-with-the-nemetschek-groups-build--construct-segment-and-create-next-global-construction-technology-leader-302740936.html": {
+    "valid": true,
+    "company": "Thoma Bravo",
+    "amount_str": "",
+    "website": "https://www.thomabravo.com",
+    "linkedin_url": "https://linkedin.com/company/thoma-bravo",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "ThomaBravo-US@fgsglobal.com",
+    "twitter_url": "https://x.com/thomabravo"
+  },
+  "https://www.prnewswire.com/news-releases/hydro-one-to-release-first-quarter-2026-results-on-may-13-2026-before-markets-open-302740905.html": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/tech-funding-news_sales-training-sucks-zell-just-raised-500k-activity-7449481939440549888-3f8C": {
+    "valid": false
+  },
+  "https://recodechinaai.substack.com/p/alibaba-is-bankrolling-chinas-ai?utm_source=substack&utm_medium=email&utm_content=share&action=share": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/reel/DXEnJMHSPN5/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/eka-ventures-107m-fund-ii-health-sustainability/": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/pittsburgh/news/2026/04/13/hexembio-seed-round-announcement.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://vctavern.com/novoflow-raises-3-1-million-seed-round-to-expand-ai-driven-healthcare-operations/": {
+    "valid": true,
+    "company": "Novoflow",
+    "amount_str": "$3.1 M",
+    "website": "https://novoflow.com",
+    "linkedin_url": "https://linkedin.com/company/novoflow-gmbh",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@novoflow.com",
+    "twitter_url": ""
+  },
+  "https://femtechinsider.com/sibel-health-receives-fda-clearance-for-fully-wireless-maternal-fetal-monitoring-platform/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.sibelhealth.com",
+    "linkedin_url": "https://linkedin.com/company/sibel-health",
+    "founder_name": "said CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Sibel_Health"
+  },
+  "https://www.axios.com/pro/all-deals/2026/04/13/pro-rata-premium-first-look": {
+    "valid": true,
+    "company": "Slate Auto",
+    "amount_str": "$650m",
+    "website": "https://en.wikipedia.org",
+    "linkedin_url": "https://linkedin.com/company/slateauto",
+    "founder_name": "was named",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.founderstoday.news/replenit-secures-over-2m-pre-seed-funding/": {
+    "valid": true,
+    "company": "Replenit",
+    "amount_str": "$2.5M",
+    "website": "https://replen.it",
+    "linkedin_url": "https://linkedin.com/company/replenit",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/replenit"
+  },
+  "https://zycrypto.com/zoomex-and-emiliano-martinez-unlock-a-200000-epl-prediction-prize-pool/": {
+    "valid": false
+  },
+  "https://www.businessoutreach.in/startup-funding-in-india-guide-for-founders/": {
+    "valid": true,
+    "company": "How Startups",
+    "amount_str": "",
+    "website": "https://www.shopify.com",
+    "linkedin_url": "https://linkedin.com/company/shopify",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "monique@email.com",
+    "twitter_url": "https://x.com/Shopify"
+  },
+  "https://viterbischool.usc.edu/news/2026/04/think-fast-and-build-things-how-to-innovate-for-sustainability/": {
+    "valid": false
+  },
+  "https://www.ekhbary.com/news/sophia-space-secures-10-million-in-seed-funding-to-advance-orbital-computing-infrastructure-648-2.html?lang=nl": {
+    "valid": true,
+    "company": "Sophia Space",
+    "amount_str": "$10 M",
+    "website": "https://sophia.space",
+    "linkedin_url": "https://linkedin.com/company/sophia-space",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "name@email.com",
+    "twitter_url": ""
+  },
+  "https://mystartupnews.in/news/ai-funding-crisis-seed-stage-startups-struggle-as-big-tech-and-top-firms-dominate-capital-says-y-combinator": {
+    "valid": false
+  },
+  "https://cxotechbot.com/Atlas-Raises-6-Million-Seed-Funding-to-Expand-AI-Powered-Accounting-Platform-Globally": {
+    "valid": true,
+    "company": "Atlas",
+    "amount_str": "$6 M",
+    "website": "https://atlas.heart.org",
+    "linkedin_url": "https://linkedin.com/company/atlashxm",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/austinweatherford",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://n24.com.tr/en/cryptocurrency/bithumb-and-circle-develop-stablecoin-network-in-south-korea": {
+    "valid": false
   }
 }
