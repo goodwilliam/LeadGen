@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T13:01:53Z",
+  "generated_at": "2026-04-13T19:01:24Z",
   "count": 24,
   "jobs": [
     {
@@ -139,7 +139,7 @@
       "companyBatch": "W24",
       "companyOneLiner": "Supercharge Your Contact Center Operations with AI Phone Agents",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/c0856f230de1a84be083cff84a3298664d32f0a3.png",
-      "companyLastActiveAt": "5 days ago",
+      "companyLastActiveAt": "6 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92338&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29441"
     },
     {
@@ -213,10 +213,10 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D80903&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29290"
     },
     {
-      "id": 83825,
-      "title": "Founding Product Designer ",
+      "id": 75335,
+      "title": "Agent+ Product Designer",
       "jobType": "fulltime",
-      "location": "Main Office - Toronto",
+      "location": "Brazil (Remote) / Remote (US)",
       "roleType": "Web design",
       "companyName": "Tempo",
       "companySlug": "tempo-2",
@@ -224,7 +224,7 @@
       "companyOneLiner": "Visual Editor for React, powered by AI",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/860f478b7cd2ea33eefb86e90c9c693abef2997f.png",
       "companyLastActiveAt": null,
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D83825&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29150"
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D75335&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29150"
     },
     {
       "id": 89404,
@@ -307,7 +307,7 @@
       "companyBatch": "S23",
       "companyOneLiner": "AI Compliance Platform for Healthcare Organizations",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/b6ed6b92c1866d1321f5db92edcd357309239ed5.png",
-      "companyLastActiveAt": "12 days ago",
+      "companyLastActiveAt": "13 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92532&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28809"
     },
     {
