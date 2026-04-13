@@ -33145,5 +33145,122 @@
     "founder_linkedin_url": "",
     "contact_email": "hello@gopowerlabs.com",
     "twitter_url": ""
+  },
+  "https://news.crunchbase.com/venture/china-leads-startup-funding-ai-seed-growth-asia-q1-2026/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/13/what-makes-a-seed-vc-say-no-in-30-minutes/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/13/eka-closes-107m-fund-ii-to-becomes-the-uk-s-largest-early-stage-impact-vc/": {
+    "valid": true,
+    "company": "Eka",
+    "amount_str": "$107M",
+    "website": "https://www.ekavc.com",
+    "linkedin_url": "https://linkedin.com/company/eka-mobility",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://betakit.com/harmix-was-a-profitable-music-startup-before-ai-tools-tempted-them-to-build-something-new/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/p2-science-selected-to-receive-2-8m-in-federal-funding-for-new-technologies-that-aim-to-accelerate-catalyst-innovation-through-ai-enhanced-autonomous-labs-302739881.html": {
+    "valid": false
+  },
+  "https://techfundingnews.com/zell-500k-pre-seed-ai-sales-management/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/replenit-2-5m-pre-seed-retail-ai/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/round-6m-seed-finance-automation/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/airmo-raises-e5m-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/shengshu-raises-293m-in-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/blocks-raises-6m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/04/warsaws-replenit-adds-e2-1-million-to-cart-to-build-an-ai-decision-engine-for-retail-backed-by-elevenlabs-co-founder/": {
+    "valid": false
+  },
+  "https://thenextafrica.com/british-council-nigeria-unveils-film-lab-africa-phase-2-screenwriting-cohort/": {
+    "valid": false
+  },
+  "https://www.finextra.com/newsarticle/47564/ai-fintech-startup-round-raises-6-million": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/04/13/londons-round-treasury-raises-e5-1-million-to-build-ai-powered-finance-automation-platform-for-modern-finance-teams/": {
+    "valid": false
+  },
+  "https://semiengineering.com/startup-funding-q1-2026/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wp.me/p9HsLC-1DR3T",
+    "linkedin_url": "https://linkedin.com/company/semiconductor-engineering",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/SemiEngineering"
+  },
+  "https://www.tennessean.com/press-release/story/167748/abu-dhabi-startup-synthan-sciences-unveils-safety-architecture-for-physical-ai/": {
+    "valid": false
+  },
+  "https://www.tice.news/tice-trending/top-startup-news-today-policy-push-deeptech-breakthroughs-funding-shifts-11720306": {
+    "valid": false
+  },
+  "https://en.wowtale.net/2026/04/13/233874/": {
+    "valid": true,
+    "company": "ELICE Group",
+    "amount_str": "",
+    "website": "https://elicegroup.com",
+    "linkedin_url": "https://linkedin.com/company/elice-group",
+    "founder_name": "said Jaewon Kim",
+    "founder_linkedin_url": "",
+    "contact_email": "info@elicegroup.com",
+    "twitter_url": ""
+  },
+  "https://en.wowtale.net/2026/04/13/233871/": {
+    "valid": true,
+    "company": "Lunit",
+    "amount_str": "$21M",
+    "website": "https://www.lunit.io",
+    "linkedin_url": "https://linkedin.com/company/lunit-inc",
+    "founder_name": "board chairman and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/lunit_ai"
+  },
+  "https://en.wowtale.net/2026/04/13/233868/": {
+    "valid": true,
+    "company": "ProtierBiotech",
+    "amount_str": "$2.45M",
+    "website": "https://www.protierbiotech.com",
+    "linkedin_url": "",
+    "founder_name": "said Hyuntae Kim",
+    "founder_linkedin_url": "",
+    "contact_email": "Contact@protierbiotech.com",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://africabusinesscommunities.com/tech-24/south-african-founded-startup-refiant-raises-$5m-to-slash-energy-footprint-of-ai/": {
+    "valid": true,
+    "company": "South African founded startup Refiant",
+    "amount_str": "$5M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-in/news/India/punjab-to-extend-young-entrepreneurs-programme-to-classes-9-10/ar-AA20sDIB?ocid=finance-verthp-feeds&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": false
   }
 }
