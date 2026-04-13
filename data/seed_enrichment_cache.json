@@ -32903,5 +32903,147 @@
   },
   "https://tullopy.com/blog/pre-seed-vs-seed-funding-guide/": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/cities-must-rethink-how-they-create-urban-value-skanska-report-302739370.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/msta-by-mla-pehodnotit-jak-vytvaeji-hodnotu-mstskeho-prostedi-ukazuje-aktualni-report-skanska-302739386.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/navan-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights---navn-302740020.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/navn-investors-have-opportunity-to-lead-navan-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302740021.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/corcept-therapeutics-incorporated-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--cort-302740017.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/paypal-holdings-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--pypl-302740019.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/42-of-cfos-plan-to-increase-ai-investment-by-over-30-within-two-years--bain--company-302739618.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/apollo-global-management-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--apo-302740014.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/apo-investors-have-opportunity-to-lead-apollo-global-management-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302740012.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/snowflake-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--snow-302740010.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/cort-investors-have-opportunity-to-lead-corcept-therapeutics-incorporated-securities-fraud-lawsuit-with-the-schall-law-firm-302740007.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/pypl-investors-have-opportunity-to-lead-paypal-holdings-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302740023.html": {
+    "valid": false
+  },
+  "https://techfundingnews.com/antler-uk-13-startups-pre-seed-investment/": {
+    "valid": false
+  },
+  "https://femwealth.substack.com/p/andrea-ippolitos-simplifed-secures": {
+    "valid": true,
+    "company": "York City-based startup",
+    "amount_str": "$3 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Founder and",
+    "founder_linkedin_url": "https://linkedin.com/in/minna-song",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://newdecoded.com/news/inner-ai-seed-funding-squad-launch": {
+    "valid": true,
+    "company": "Inner AI",
+    "amount_str": "$30 M",
+    "website": "https://innerai.com",
+    "linkedin_url": "https://linkedin.com/company/innerai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@innerai.com",
+    "twitter_url": ""
+  },
+  "https://newdecoded.com/news/rork-raises-15m-ai-mobile-apps": {
+    "valid": true,
+    "company": "Rork",
+    "amount_str": "$15 M",
+    "website": "https://rork.com",
+    "linkedin_url": "https://linkedin.com/company/rork-app",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DXBwYBhkdK3/": {
+    "valid": false
+  },
+  "https://www.ideasai.com/idea/a-9-million-seed-round-for-a-company-that-wants-to-bring-the-37923": {
+    "valid": false
+  },
+  "https://www.digitalnewsasia.com/business/vitrox-partners-ucsi-university-elevate-malaysian-engineering-standards": {
+    "valid": false
+  },
+  "https://www.panewslab.com/en/articles/019d84bd-473c-7264-bbbc-bb6cd7c18625": {
+    "valid": true,
+    "company": "Web3 AI project Oh",
+    "amount_str": "$7.5 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://newskarnataka.com/technology/bengaluru-startup-builds-uav-that-can-watch-earth-for-24-hours/13042026": {
+    "valid": false
+  },
+  "https://www.thisdaylive.com/2026/04/13/powerlabs-secures-pre-seed-funding-to-scale-ai-energy-platform/": {
+    "valid": true,
+    "company": "PowerLabs",
+    "amount_str": "",
+    "website": "https://gopowerlabs.com",
+    "linkedin_url": "https://linkedin.com/company/gopowerlabs",
+    "founder_name": "Speaking on the innovation",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@gopowerlabs.com",
+    "twitter_url": ""
+  },
+  "https://www.thisdaylive.com/2026/04/13/watra-moves-to-secure-wafricas-216bn-digital-economy-for-growth/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://unpkg.com/video.js/dist/video-js.css",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startuplist.africa/startups/yep/fundings": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "MEMBERS\n\nOL\n\nOlaoluwa Awojoodu",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/reel/DXDmS_DEpaC/": {
+    "valid": false
+  },
+  "https://observervoice.com/ai-surge-fuels-unprecedented-global-venture-capital-funding-199100/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Sanjay Swamy",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
