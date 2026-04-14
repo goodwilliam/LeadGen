@@ -34299,5 +34299,367 @@
   },
   "https://www.registerkaro.in/post/difference-between-seed-and-angel-funding": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z/": {
+    "valid": false
+  },
+  "https://venturebeat.com/orchestration/anthropics-claude-managed-agents-gives-enterprises-a-new-one-stop-shop-but": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/14/modern-relay-raises-3m-to-build-shared-infrastructure-layer-for-ai-agents-in-the-enterprise/": {
+    "valid": true,
+    "company": "Modern Relay",
+    "amount_str": "$3M",
+    "website": "https://modernrelay.com",
+    "linkedin_url": "https://linkedin.com/company/modern-relay",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "ragnor@modernrelay.com",
+    "twitter_url": "https://x.com/modernrelay"
+  },
+  "https://tech.eu/2026/04/14/clean-food-group-raises-ps45m-to-scale-yeast-derived-oils-and-fats-from-food-waste/": {
+    "valid": true,
+    "company": "Clean Food Group",
+    "amount_str": "\u00a34.5M",
+    "website": "https://cleanfood.group",
+    "linkedin_url": "https://linkedin.com/company/clean-food-group-ltd",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "user@domain.com",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/the-tel-aviv-stock-exchange-tase-schedules-first-quarter-2026-results-release-and-conference-call-for-tuesday-may-12-2026-302742022.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/shareholder-alert-ademi-llp-investigates-whether-globalstar-inc-is-obtaining-a-fair-price-for-public-shareholders-302741916.html": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/04/14/primepoint-closes-10m-seed-round-to-advance-intelligence-platform-that-reads-and-understands-construction-drawings/": {
+    "valid": true,
+    "company": "Primepoint",
+    "amount_str": "$10M",
+    "website": "https://primepoint.com",
+    "linkedin_url": "https://linkedin.com/company/primepoint-llc",
+    "founder_name": "Now an AI",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.dbusiness.com/daily-news/sygaldry-technologies-in-ann-arbor-raises-139m-to-build-quantum-computers-for-ai/": {
+    "valid": true,
+    "company": "Sygaldry Technologies in Ann Arbor",
+    "amount_str": "$139M",
+    "website": "https://sygaldry.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/otel-ai-2-8m-funding-hotel-automation/": {
+    "valid": false
+  },
+  "https://www.varindia.com/news/Amaravati-Launches-India%E2%80%99s-First-Indigenous-Quantum-Testbeds,-Marking-a-Leap-in-Deep-Tech-Leadership": {
+    "valid": false
+  },
+  "https://www.kucoin.com/news/flash/nava-completes-8-3m-seed-round-led-by-polychain-and-archetype": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://assets.staticimg.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://nationaltoday.com/us/ny/new-york/news/2026/04/14/prefix-raises-7-5m-to-fix-500b-facility-management-problem-for-restaurants-and-retailers/": {
+    "valid": true,
+    "company": "Prefix",
+    "amount_str": "$7.5M",
+    "website": "https://store.gs1us.org",
+    "linkedin_url": "https://linkedin.com/company/gs1-us",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/af"
+  },
+  "https://www.tipranks.com/news/company-announcements/mindflair-gains-exposure-to-ralio-in-2-5m-ai-payments-funding-round": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.aol.com/articles/exclusive-chad-rigetti-sygaldry-raises-095344288.html": {
+    "valid": true,
+    "company": "Chad Rigetti's Sygaldry",
+    "amount_str": "$139 m",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Rigetti and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://cryptonews.net/news/finance/32705468/": {
+    "valid": false
+  },
+  "https://www.geekwire.com/2026/does-ai-even-know-you-exist-seattle-startup-parsnipp-helps-brands-find-out-and-do-something-about-it/": {
+    "valid": false
+  },
+  "https://thenextweb.com/news/synera-40m-series-b-agentic-ai-engineering": {
+    "valid": true,
+    "company": "Synera",
+    "amount_str": "$40M",
+    "website": "https://www.synera.io",
+    "linkedin_url": "https://linkedin.com/company/syneragmbh",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.globenewswire.com/news-release/2026/04/14/3273431/0/en/Helical-raises-10M-for-virtual-AI-lab-that-operates-at-pharma-scale-to-make-in-silico-discovery-reproducible.html": {
+    "valid": true,
+    "company": "Helical",
+    "amount_str": "$10M",
+    "website": "https://www.helical.bio",
+    "linkedin_url": "https://linkedin.com/company/helical-ai",
+    "founder_name": "Rick Schneider",
+    "founder_linkedin_url": "https://linkedin.com/in/rick-schneider-464688140",
+    "contact_email": "hello@helical-ai.com",
+    "twitter_url": ""
+  },
+  "https://fortune.com/2026/04/14/exclusive-chad-rigettis-sygaldry-raises-139-million-quantum-hardware-ai-data-centers/": {
+    "valid": true,
+    "company": "Chad Rigetti's Sygaldry",
+    "amount_str": "$139 m",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.inc.com/victoria-salves/codie-sanchez-just-raised-5m-from-the-founders-of-tinder-and-coinbase-to-disrupt-how-we-buy-businesses/91330300": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "From the",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thenextweb.com/news/helical-10m-seed-bio-foundation-models-pharma-ai": {
+    "valid": true,
+    "company": "Helical",
+    "amount_str": "$10M",
+    "website": "https://www.helical-ai.com",
+    "linkedin_url": "https://linkedin.com/company/helical-ai",
+    "founder_name": "with the",
+    "founder_linkedin_url": "https://linkedin.com/in/nikitiwari",
+    "contact_email": "hello@helical-ai.com",
+    "twitter_url": ""
+  },
+  "https://tradeflock.com/prosperr-io-ai-tax-platform-fintech-india/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://phemex.com/news/article/fleet-seeks-750-million-valuation-amidst-60x-revenue-surge-73158": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.metaera.hk/news/270831",
+    "linkedin_url": "https://linkedin.com/company/metaerahk",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/MetaEraHK"
+  },
+  "https://www.axios.com/pro/biotech-deals/2026/04/14/helical-10-million-virtual-pharma-lab": {
+    "valid": true,
+    "company": "Helical",
+    "amount_str": "$10M",
+    "website": "https://www.helical.bio",
+    "linkedin_url": "https://linkedin.com/company/helical-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@helical-ai.com",
+    "twitter_url": ""
+  },
+  "https://letsdatascience.com/news/asia-pacific-startups-secure-funding-keyrock-reaches-11b-val-2b50914c": {
+    "valid": false
+  },
+  "https://techcouver.com/2026/04/14/tydra-labs-raises-1-2m-to-turn-waste-into-biomaterials/": {
+    "valid": true,
+    "company": "Tydra Labs",
+    "amount_str": "$1.2M",
+    "website": "https://tydralabs.com",
+    "linkedin_url": "https://linkedin.com/company/tydralab",
+    "founder_name": "said Athanasios Kritharis",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/04/14/replenit-raises-e2-1m-to-scale-ai-decision-engine-for-real-time-retail-intelligence/": {
+    "valid": false
+  },
+  "https://fintech.global/2026/04/14/ralio-raises-2-5m-in-europes-biggest-agentic-payments-round/": {
+    "valid": true,
+    "company": "Ralio",
+    "amount_str": "$2.5m",
+    "website": "https://ralio.co",
+    "linkedin_url": "https://linkedin.com/company/ralioai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://cryptoslate.com/press-releases/bingx-launches-zero-fee-tradfi-futures-while-maintaining-full-partner-commissions/": {
+    "valid": false
+  },
+  "https://zycrypto.com/bingx-launches-zero-fee-tradfi-futures-while-maintaining-full-partner-commissions/": {
+    "valid": false
+  },
+  "https://entarabi.com/en/2026/04/paytabs-acquires-tapngo-to-expand-contactless-payments-across-mena/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/primepoint-raises-10m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.itvoice.in/payu-introduces-ai-powered-outbound-voice-call-assistant-bringing-voice-intelligence-to-merchant-onboarding-journey": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://dailyhodl.com/2026/04/14/blackrock-investment-institute-shifts-overweight-on-us-stocks-ahead-of-strong-earnings-expectations/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techafricanews.com/2026/04/14/nectarfi-secures-170k-pre-seed-to-scale-on-chain-finance-in-nigeria/": {
+    "valid": true,
+    "company": "NectarFi",
+    "amount_str": "$170K",
+    "website": "https://nectarfi.finance",
+    "linkedin_url": "https://linkedin.com/company/nectarfinance",
+    "founder_name": "and CEO",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Nectar_finance"
+  },
+  "https://innovation-village.com/nigerian-edtech-aptlearn-shuts-down-plans-ai-pivot/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.cosmeticsbusiness.com/ai-decision-engine-used-by-l-occitane-lands-funding": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startuphub.ai/investment_rounds/peak-quantum-pre-seed-2026": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/quartzy-raises-23m-in-funding.html": {
+    "valid": false
+  },
+  "https://markets.businessinsider.com/news/stocks/lubit-named-among-top-100-startups-at-paris-blockchain-week-2026-1036019066": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://htlbid.com/v3/marketsinsider.com/htlbid.css",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fortune.com/2026/04/14/paxos-paxos-labs-fundraise-blockchain-capital/": {
+    "valid": true,
+    "company": "Paxos Labs",
+    "amount_str": "$12 m",
+    "website": "https://paxoslabs.com",
+    "linkedin_url": "https://linkedin.com/company/paxos-labs",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/paxoslabs"
+  },
+  "https://www.aa.com.tr/en/turkiye/turkiye-s-premier-tech-startup-summit-take-off-to-kick-off-in-uzbekistan/3905533": {
+    "valid": false
+  },
+  "https://www.theinformation.com/newsletters/ai-agenda/enigma-data-labeling-startup-explosion": {
+    "valid": false
+  },
+  "https://fortune.com/2026/04/14/nava-seed-funding-ai-financial-agents/": {
+    "valid": true,
+    "company": "Nava",
+    "amount_str": "$8.3 m",
+    "website": "https://docs.navalabs.dev/intro/whitepaper",
+    "linkedin_url": "https://linkedin.com/company/nava-pbc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/finsmes-launches-intelligence-hub.html": {
+    "valid": false
+  },
+  "https://techfundingnews.com/neato-25m-2p-commerce-funding/": {
+    "valid": true,
+    "company": "Neato",
+    "amount_str": "$25M",
+    "website": "https://www.neato.com",
+    "linkedin_url": "https://linkedin.com/company/thisisneato",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
