@@ -34062,5 +34062,242 @@
     "founder_linkedin_url": "",
     "contact_email": "events@htgf.de",
     "twitter_url": "https://x.com/HTGF"
+  },
+  "https://venturebeat.com/technology/43-of-ai-generated-code-changes-need-debugging-in-production-survey-finds": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/venture/funding-picked-up-ai-led-europe-q1-2026/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/14/helical-secures-10m-to-advance-virtual-ai-lab-for-pharma-research/": {
+    "valid": true,
+    "company": "Helical",
+    "amount_str": "$10M",
+    "website": "https://www.helical.bio",
+    "linkedin_url": "https://linkedin.com/company/helical-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@helical-ai.com",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/14/traqcheck-raises-8m-to-turn-hiring-into-an-ai-run-workflow/": {
+    "valid": true,
+    "company": "TraqCheck",
+    "amount_str": "$8M",
+    "website": "https://www.traqcheck.com",
+    "linkedin_url": "https://linkedin.com/company/traqcheck",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/14/stirlight-raises-ps125m-to-bring-real-time-quality-assurance-to-friction-stir-welding-at-scale/": {
+    "valid": true,
+    "company": "StirLight",
+    "amount_str": "\u00a31.25M",
+    "website": "https://www.stirlight.com",
+    "linkedin_url": "https://linkedin.com/company/stirlight",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@stirlight.com",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/14/graftcode-secures-eur21m-to-simplify-ai-era-software-integration/": {
+    "valid": true,
+    "company": "Graftcode",
+    "amount_str": "\u20ac2.1M",
+    "website": "https://graftcode.com",
+    "linkedin_url": "https://linkedin.com/company/graftcode",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Graftcode"
+  },
+  "https://tech.eu/2026/04/14/stegra-bags-1-4bn-rescue-funding-package-for-giant-european-green-steel-plant/": {
+    "valid": true,
+    "company": "Stegra",
+    "amount_str": "\u20ac1.4b",
+    "website": "https://stegra.com/en",
+    "linkedin_url": "https://linkedin.com/company/stegraab",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/14/obriy-ai-raises-500k-to-take-multi-agent-enterprise-automation-global/": {
+    "valid": true,
+    "company": "Obriy AI",
+    "amount_str": "$500K",
+    "website": "https://obriy.ai/en",
+    "linkedin_url": "https://linkedin.com/company/obriyai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/14/wamo-closes-eur10m-series-a-to-power-european-smes/": {
+    "valid": true,
+    "company": "Wamo",
+    "amount_str": "\u20ac10M",
+    "website": "https://wamo.net",
+    "linkedin_url": "https://linkedin.com/company/wamobusiness",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@wamo.net",
+    "twitter_url": ""
+  },
+  "https://betakit.com/community-event-platform-wygo-secures-nearly-1-6-million-pre-seed/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/14/prefix-raises-7-5m-scale-ai-driven-facility-management-platform/": {
+    "valid": true,
+    "company": "Prefix",
+    "amount_str": "$7.5M",
+    "website": "https://www.useprefix.com",
+    "linkedin_url": "https://linkedin.com/company/useprefix",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@useprefix.com",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/04/14/ai-satellite-constellation-startup-orbital-gets-funded-andreessen-horowitz-verify-space-based-data-center-concept/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/14/helical-raises-10m-bridge-gap-foundation-models-drug-discovery-decisions/": {
+    "valid": true,
+    "company": "Helical",
+    "amount_str": "$10M",
+    "website": "https://www.helical.bio",
+    "linkedin_url": "https://linkedin.com/company/helical-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@helical-ai.com",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/04/14/german-startup-synera-lands-40-million-automate-engineering-workflows-ai-agents/": {
+    "valid": true,
+    "company": "Synera",
+    "amount_str": "$40M",
+    "website": "https://www.synera.io",
+    "linkedin_url": "https://linkedin.com/company/syneragmbh",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/clean-food-group-cfg-knowsley-fermentation-facility/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/what-if-you-never-forgot-anything-harvard-spinout-engramme-eyes-1b-valuation-to-build-ai-memory/": {
+    "valid": true,
+    "company": "Harvard neuroscientist eyes $100M",
+    "amount_str": "$100M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/uk-sovereign-ai-fund-500m/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/gpo-fund-ipo-location-us-vs-europe/": {
+    "valid": false
+  },
+  "https://www.pymnts.com/artificial-intelligence-2/2026/primitive-launches-system-to-help-financial-institutions-deploy-ai-agents/": {
+    "valid": true,
+    "company": "Primitive",
+    "amount_str": "",
+    "website": "https://primitive.com",
+    "linkedin_url": "https://linkedin.com/company/primitive-agent",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/primitive_agent"
+  },
+  "https://sg.news.yahoo.com/live/executive-condo-sales-surge-past-1000-units--is-now-the-time-to-buy-trump-deletes-controversial-ai-jesus-image-but-offers-no-apology-amid-pope-feud-singapore-live-news-012012466.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://consent.cmp.oath.com/version/7.0.2/cmp.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/replenit-bags-2-1m-pre-seed": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/zell-raises-500k-in-funding": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/graftcode-raises-e2-1m-in-funding.html": {
+    "valid": true,
+    "company": "Graftcode",
+    "amount_str": "\u20ac2.1M",
+    "website": "https://graftcode.com",
+    "linkedin_url": "https://linkedin.com/company/graftcode",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Graftcode"
+  },
+  "https://www.finsmes.com/2026/04/convelio-raises-series-c-funding.html": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/retail-technology-innovation-hub_polish-startup-replenit-announces-pre-seed-activity-7449724635488608256-YkXy": {
+    "valid": true,
+    "company": "Polish startup Replenit",
+    "amount_str": "",
+    "website": "https://n24.com.tr",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/n24comtr"
+  },
+  "https://x.com/DisruptAfrica/status/2043779756957565148": {
+    "valid": true,
+    "company": "Moroccan retail-tech startup Zsystems",
+    "amount_str": "$1.65m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://disruptafrica.com/2026/04/14/african-startups-can-apply-to-pitch-at-latitude59-event-in-estonia/?amp=1": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.ampproject.org",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://angelinvestorsnetwork.com/startups/how-to-raise-capital-for-clean-energy-startup": {
+    "valid": false
+  },
+  "https://freestartupfunding.com/find-investors": {
+    "valid": false
+  },
+  "https://www.indianstartuptimes.com/news/shortgun-games-moves-upstream-with-30-stake-in-giantdot/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://stats.wp.com/e-202616.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.registerkaro.in/post/difference-between-seed-and-angel-funding": {
+    "valid": false
   }
 }
