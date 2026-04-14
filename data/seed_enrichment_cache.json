@@ -34000,5 +34000,67 @@
     "founder_linkedin_url": "",
     "contact_email": "support@quartzy.com",
     "twitter_url": "https://x.com/Quartzy"
+  },
+  "https://tech.eu/2026/04/14/europes-biggest-seed-rounds-of-q1-2026-top-tech-startups-to-watch/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/14/peak-quantum-reaches-eur5m-in-total-funding-for-quantum-chips/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/14/fine-art-logistics-company-convelio-secures-series-c-funding/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/upstart-holdings-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--upst-302741214.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/upst-investors-have-opportunity-to-lead-upstart-holdings-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302741222.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/medpace-holdings-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--medp-302741240.html": {
+    "valid": false
+  },
+  "https://techfundingnews.com/graftcode-2-1m-integration-layer/": {
+    "valid": false
+  },
+  "https://inc42.com/buzz/traqcheck-raises-8-mn-to-build-ai-agents-for-recruitment/": {
+    "valid": true,
+    "company": "TraqCheck",
+    "amount_str": "$8 M",
+    "website": "https://v2.traqcheck.com",
+    "linkedin_url": "https://linkedin.com/company/traqcheck",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://ibsintelligence.com/ibsi-news/ralio-raises-2-5m-to-make-ai-agent-payments-safe/": {
+    "valid": true,
+    "company": "Ralio",
+    "amount_str": "$2.5m",
+    "website": "https://ralio.co",
+    "linkedin_url": "https://linkedin.com/company/ralioai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/DavidePacilio"
+  },
+  "https://techfundingnews.com/uk-fintech-ralio-ai-agentic-payments-pitch-deck/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.family-day-htgf.de",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "events@htgf.de",
+    "twitter_url": "https://x.com/HTGF"
   }
 }

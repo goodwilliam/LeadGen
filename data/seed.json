@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-04-14T05:57:50.473976Z",
+  "generated_at": "2026-04-14T09:11:17.125371Z",
   "count": 25,
   "enriched_count": 15,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "TraqCheck Raises $8 Mn To Build AI Agents For Recruitment - Inc42",
+      "article_url": "https://inc42.com/buzz/traqcheck-raises-8-mn-to-build-ai-agents-for-recruitment/",
+      "company": "TraqCheck",
+      "amount_str": "$8 M",
+      "pub_date": "2026-04-14T07:35:23Z",
+      "website": "https://v2.traqcheck.com",
+      "linkedin_url": "https://linkedin.com/company/traqcheck",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Ralio raises $2.5m to make AI agent payments safe - IBS Intelligence",
+      "article_url": "https://ibsintelligence.com/ibsi-news/ralio-raises-2-5m-to-make-ai-agent-payments-safe/",
+      "company": "Ralio",
+      "amount_str": "$2.5m",
+      "pub_date": "2026-04-14T06:37:44Z",
+      "website": "https://ralio.co",
+      "linkedin_url": "https://linkedin.com/company/ralioai",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/DavidePacilio"
+    },
     {
       "source": "Google Alerts",
       "title": "Singapore-based cloud service OrtCloud raises $1.7M pre-seed funding to advance AI ...",
@@ -55,6 +83,20 @@
       "website": "",
       "linkedin_url": "",
       "founder_name": "serving as",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Primepoint Raises $10M to Advance AI Construction Drawing Platform - San Mateo Today",
+      "article_url": "https://nationaltoday.com/us/ca/san-mateo/news/2026/04/13/primepoint-raises-10m-to-advance-ai-construction-drawing-platform/",
+      "company": "Primepoint",
+      "amount_str": "$10M",
+      "pub_date": "2026-04-13T23:11:57Z",
+      "website": "https://primepoint.com",
+      "linkedin_url": "https://linkedin.com/company/primepoint-llc",
+      "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
@@ -142,34 +184,6 @@
       "founder_linkedin_url": "",
       "contact_email": "monique@email.com",
       "twitter_url": "https://x.com/Shopify"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Quartzy Raises $23 Million Funding to Expand Life Sciences Procurement Platform",
-      "article_url": "https://ventureburn.com/quartzy-raises-23-million-life-sciences/",
-      "company": "Quartzy",
-      "amount_str": "$23 M",
-      "pub_date": "2026-04-13T17:55:30Z",
-      "website": "https://www.quartzy.com",
-      "linkedin_url": "https://linkedin.com/company/quartzy",
-      "founder_name": "founder and",
-      "founder_linkedin_url": "",
-      "contact_email": "support@quartzy.com",
-      "twitter_url": "https://x.com/Quartzy"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Sophia Space Secures $10 Million in Seed Funding to Advance Orbital Computing Infrastructure",
-      "article_url": "https://www.ekhbary.com/news/sophia-space-secures-10-million-in-seed-funding-to-advance-orbital-computing-infrastructure-648-2.html?lang=nl",
-      "company": "Sophia Space",
-      "amount_str": "$10 M",
-      "pub_date": "2026-04-13T16:30:07Z",
-      "website": "https://sophia.space",
-      "linkedin_url": "https://linkedin.com/company/sophia-space",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "name@email.com",
-      "twitter_url": ""
     },
     {
       "source": "Google Alerts",
@@ -322,20 +336,6 @@
       "linkedin_url": "https://linkedin.com/company/edmundai",
       "founder_name": "",
       "founder_linkedin_url": "https://linkedin.com/in/edmund-saiyo-0a770337a",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "tech.eu",
-      "title": "Qoro closes $750K to bridge quantum and classical computing",
-      "article_url": "https://tech.eu/2026/04/09/qoro-closes-750k-to-bridge-quantum-and-classical-computing/",
-      "company": "Qoro",
-      "amount_str": "$750K",
-      "pub_date": "2026-04-09T13:33:24Z",
-      "website": "https://qoroquantum.net",
-      "linkedin_url": "https://linkedin.com/company/qoro",
-      "founder_name": "",
-      "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
     },
