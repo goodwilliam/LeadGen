@@ -33924,5 +33924,81 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/14/kelluu-raises-eur15m-to-scale-autonomous-airship-intelligence-platform/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/aixcrypto-co-ceo-jerry-wang-shares-weekly-investor-update-rwa-exploration-ecosystem-development-and-external-engagement-302741320.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/data-breach-alert-edelson-lechtzin-llp-investigates-kloeckner-metals-corporation-data-breach-302741155.html": {
+    "valid": false
+  },
+  "https://e27.co/ortcloud-bags-us1-7m-pre-seed-to-make-cloud-performance-predictable-20260414/": {
+    "valid": false
+  },
+  "https://www.mrweb.com/drno/news39673.htm": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.replen.it",
+    "linkedin_url": "https://linkedin.com/company/replenit",
+    "founder_name": "and co",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/replenit"
+  },
+  "https://technode.global/2026/04/14/singapore-based-cloud-service-ortcloud-raises-1-7m-pre-seed-funding-to-advance-ai-focused-cloud-infrastructure/": {
+    "valid": true,
+    "company": "Singapore-based cloud service OrtCloud",
+    "amount_str": "$1.7M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bitget.com/amp/news/detail/12560605363615": {
+    "valid": false
+  },
+  "https://www.bitget.com/amp/news/detail/12560605364108": {
+    "valid": true,
+    "company": "Enhanced",
+    "amount_str": "$1M",
+    "website": "https://www.enhanced.com",
+    "linkedin_url": "https://linkedin.com/company/enhanced-games",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "media@enhanced.com",
+    "twitter_url": "https://x.com/enhanced_games"
+  },
+  "https://www.bitget.com/news/detail/12560605364108": {
+    "valid": true,
+    "company": "Enhanced",
+    "amount_str": "$1M",
+    "website": "https://www.enhanced.com",
+    "linkedin_url": "https://linkedin.com/company/enhanced-games",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "media@enhanced.com",
+    "twitter_url": "https://x.com/enhanced_games"
+  },
+  "https://www.bitget.com/news/detail/12560605364111": {
+    "valid": false
+  },
+  "https://www.undp.org/policy-centre/seoul/press-releases/undp-seoul-policy-centre-and-hyundai-motor-chung-mong-koo-foundation-launch-partnership-scale-impact-startups": {
+    "valid": false
+  },
+  "https://ventureburn.com/quartzy-raises-23-million-life-sciences/": {
+    "valid": true,
+    "company": "Quartzy",
+    "amount_str": "$23 M",
+    "website": "https://www.quartzy.com",
+    "linkedin_url": "https://linkedin.com/company/quartzy",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "support@quartzy.com",
+    "twitter_url": "https://x.com/Quartzy"
   }
 }
