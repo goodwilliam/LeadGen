@@ -34661,5 +34661,193 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/hub-group-hubg-shares-crater-amid-admitted-improper-accounting--hagens-berman-302742071.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/mission-wealth-rises-to-42-on-usa-today-best-financial-advisory-firms-2026-list-302742288.html": {
+    "valid": false
+  },
+  "https://startupnation.com/start-your-business/the-ultimate-guide-to-securing-seed-funding-for-your-startup/?utm_source=rss&utm_medium=rss&utm_campaign=the-ultimate-guide-to-securing-seed-funding-for-your-startup": {
+    "valid": false
+  },
+  "https://techfundingnews.com/traqcheck-8m-series-a-hr-ai-agents/": {
+    "valid": true,
+    "company": "TraqCheck",
+    "amount_str": "$8M",
+    "website": "https://v2.traqcheck.com",
+    "linkedin_url": "https://linkedin.com/company/traqcheck",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.peacefmonline.com/article/402107-john-dumelo-travels-to-the-netherlands-to-secure-high-yield-vegetable-seed-partnership-for-ghana": {
+    "valid": false
+  },
+  "https://www.siliconsnark.com/round-raised-6-million-to-automate-treasury-finance-finally-found-its-cursor-phase/": {
+    "valid": false
+  },
+  "https://athletechnews.com/peptide-platform-protocole-emerges-from-stealth-with-6m-in-tow/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://atn-disrupt.vfairs.com/en",
+    "linkedin_url": "https://linkedin.com/company/relive-health",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "customersupport@vfairs.com",
+    "twitter_url": ""
+  },
+  "https://www.geekwire.com/2026/geekwire-awards-the-machines-of-the-future-from-self-driving-earthmovers-to-space-robots/": {
+    "valid": false
+  },
+  "https://www.techbuzz.ai/articles/pillar-lands-20m-seed-led-by-a16z-for-risk-management": {
+    "valid": true,
+    "company": "Pillar",
+    "amount_str": "$20M",
+    "website": "https://pillar.com",
+    "linkedin_url": "https://linkedin.com/company/pillarhr",
+    "founder_name": "with participation from Uber",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.binance.com/en/square/post/312469716735025": {
+    "valid": false
+  },
+  "https://www.crainsdetroit.com/technology/cdb-sygaldry-closes-139-million-round-20260414/": {
+    "valid": true,
+    "company": "Ann Arbor quantum AI startup",
+    "amount_str": "$139M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Longtime McGregor Fund",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://mezha.net/eng/bukvy/pillar_raises_20/": {
+    "valid": true,
+    "company": "Pillar",
+    "amount_str": "",
+    "website": "https://pillarperformance.us",
+    "linkedin_url": "https://linkedin.com/company/pillarhr",
+    "founder_name": "Harsha Ramesh",
+    "founder_linkedin_url": "https://linkedin.com/in/harshavramesh",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://vctavern.com/lawvora-sets-3-million-pre-seed-valuation-through-founder-led-investment-in-ai-legal-tech-platform/": {
+    "valid": false
+  },
+  "https://www.bitget.com/news/detail/12560605365775": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/founderstoday_wygo-raises-16m-pre-seed-to-build-offline-first-activity-7449901554746400768-JWOP": {
+    "valid": true,
+    "company": "Wygo",
+    "amount_str": "$1.6M",
+    "website": "https://wygo.world",
+    "linkedin_url": "https://linkedin.com/company/wygo-world",
+    "founder_name": "Founded by",
+    "founder_linkedin_url": "",
+    "contact_email": "wygo@wygo.world",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/adcendo-raises-75m-in-series-c-funding.html": {
+    "valid": false
+  },
+  "https://apacnewsnetwork.com/2026/04/tech-mahindra-teams-up-with-papaya-global-to-expand-cross-border-payroll-services/": {
+    "valid": false
+  },
+  "https://cryptoslate.com/press-releases/printr-launches-v2-platform-update-with-five-fee-models-and-on-chain-proof-of-belief-staking/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/collide-capital-95m-fund-ii/": {
+    "valid": true,
+    "company": "Collide Capital",
+    "amount_str": "$95M",
+    "website": "https://www.collidecap.com",
+    "linkedin_url": "https://linkedin.com/company/collidecapital",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "investors@collidecap.com",
+    "twitter_url": "https://x.com/CollideCapital"
+  },
+  "https://www.massdevice.com/wavelet-medical-aegis-ai-eeg/": {
+    "valid": false
+  },
+  "https://cryptorank.io/news/feed/cc47e-funding-picked-up-ai-led-europe-q1-2026": {
+    "valid": true,
+    "company": "Germany-based startups",
+    "amount_str": "$1.9 b",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/04/14/stanford-report-highlights-growing-divide-between-ai-experts-and-public-sentiment/": {
+    "valid": false
+  },
+  "https://www.mexc.com/news/1026112": {
+    "valid": false
+  },
+  "https://weetracker.com/2026/04/14/refiant-ai-5m-seed-funding/": {
+    "valid": false
+  },
+  "https://optics.org/news/dipole-systems-raises-%C2%A33.6m-to-commercialize-high-energy-lasers": {
+    "valid": true,
+    "company": "DiPOLE Systems",
+    "amount_str": "\u00a33.6M",
+    "website": "https://dipolesystems.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "enquiries@dipolesystems.com",
+    "twitter_url": ""
+  },
+  "https://phemex.com/news/article/blockchain-startup-nava-secures-83m-seed-funding-led-by-polychain-and-archetype-73211": {
+    "valid": true,
+    "company": "Nava",
+    "amount_str": "$8.3M",
+    "website": "https://www.navafshn.com",
+    "linkedin_url": "https://linkedin.com/company/nava-pbc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@navafshn.com",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://www.panewslab.com/en/articles/019d8c69-45c7-72e7-a8aa-3679eff52d1d": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cloud.umami.is/script.js",
+    "linkedin_url": "",
+    "founder_name": "of EigenLayer",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupfortune.com/amazon-bypasses-the-satellite-bottleneck-by-moving-to-acquire-globalstar-for-a-reported-9-billion/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
