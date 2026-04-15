@@ -35588,5 +35588,349 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/04/15/anthropic-shrugs-off-vc-funding-offers-valuing-it-at-800b-for-now/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/15/ukrainian-startups-get-uk-market-gateway-as-techbridge-accelerator-returns-for-2026/": {
+    "valid": true,
+    "company": "Ukrainian startups",
+    "amount_str": "",
+    "website": "https://www.ukukrainetechbridge.org",
+    "linkedin_url": "https://linkedin.com/company/uk-ukrainetechbridge",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "techbridge@bluelakevc.com",
+    "twitter_url": "https://x.com/UkUkrainetech"
+  },
+  "https://tech.eu/2026/04/15/stendr-secures-54m-pre-seed-to-develop-ai-driven-defence-systems/": {
+    "valid": true,
+    "company": "Stendr",
+    "amount_str": "$5.4M",
+    "website": "https://stendr.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "email@company.com",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/04/15/stendr-snags-5-4m-pre-seed-funding-develop-ai-native-drone-tracking-tech/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/new-study-finds-eliminating-plastic-packaging-could-raise-grocery-prices-by-up-to-21-6-302742594.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/first-horizon-foundation-and-artsmemphis-announce-2026-artsfirst-grant-recipients-302743526.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/icapital-and-envestnet-expand-strategic-partnership-to-incorporate-alternatives-and-structured-investments-within-unified-managed-accounts-302743517.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/oneseven-named-a-2026-usa-today-best-financial-advisory-firm-expands-national-footprint-to-22-states-302743508.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/cypherpunk-increases-its-zcash-stake-launches-new-website-and-investor-dashboard-302743497.html": {
+    "valid": false
+  },
+  "https://x.com/hovinthenorth/status/2044180055912538494/photo/1": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/Chirp-Regular.80fda27a.woff2",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/kerenhod_these-startups-just-raised-5m-in-seed-rounds-activity-7449833867353595904-Zmc7": {
+    "valid": true,
+    "company": "These startups just",
+    "amount_str": "$5M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.calcalistech.com/ctechnews/article/b1intlan11l": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://newmedia.calcalist.co.il/ctech/testimonials/index.html",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "judith.hoffmann@calcalist.co.il",
+    "twitter_url": ""
+  },
+  "https://www.techinafrica.com/nectarfi-closes-170k-pre-seed-to-build-a-full-stack-on-chain-financial-life-for-crypto-users/": {
+    "valid": true,
+    "company": "NectarFi",
+    "amount_str": "$170K",
+    "website": "https://nectarfi.finance",
+    "linkedin_url": "https://linkedin.com/company/nectarfinance",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/stephanieokeke",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Nectar_finance"
+  },
+  "https://www.ynetnews.com/tech-and-digital/article/hkhq11qp2wl": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://t.me/ynetnewslatest",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://nextbillion.net/news/south-africa-refiant-ai-raises-5-million-seed-funding-to-help-it-expand/": {
+    "valid": true,
+    "company": "Africa Refiant AI",
+    "amount_str": "$5 M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thenextweb.com/news/stendr-5-4m-pre-seed-ai-counter-drone-defence/": {
+    "valid": true,
+    "company": "Norwegian defence startup Stendr",
+    "amount_str": "$5.4M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "The Axie Infinity",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://finance.yahoo.com/sectors/technology/articles/exclusive-hyfix-raises-15-million-101854239.html": {
+    "valid": true,
+    "company": "Hyfix",
+    "amount_str": "$15 m",
+    "website": "https://hyfix.ai",
+    "linkedin_url": "https://linkedin.com/company/hyfix",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.indianstartuptimes.com/investment/ivory-secures-1m-seed-round-to-scale-cognitive-health-platform/": {
+    "valid": true,
+    "company": "Brain health startup Ivory",
+    "amount_str": "$1 m",
+    "website": "https://economictimes.indiatimes.com",
+    "linkedin_url": "https://linkedin.com/company/economictimes",
+    "founder_name": "and CTO",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/economictimes"
+  },
+  "https://techfundingnews.com/stendr-5-4m-ai-drone-detection-defence/": {
+    "valid": true,
+    "company": "Ex-unicorn founder",
+    "amount_str": "$5.4M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://letsdatascience.com/news/capsule-security-launches-runtime-protection-for-ai-agents-fe72066a": {
+    "valid": false
+  },
+  "https://techlabari.com/in-q1-2026-africas-startups-raised-more-money-than-ever-but-fewer-companies-are-getting-any/": {
+    "valid": false
+  },
+  "https://www.theglobeandmail.com/business/economy/article-dominion-dynamics-awaits-military-procurement-reform-after-successful/": {
+    "valid": false
+  },
+  "https://www.calcalistech.com/ctechnews/article/h1eagbt311x": {
+    "valid": true,
+    "company": "Artemis",
+    "amount_str": "$70 m",
+    "website": "https://www.nasa.gov",
+    "linkedin_url": "https://linkedin.com/company/artemissp",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/NASA"
+  },
+  "https://www.panewslab.com/en/articles/019d912f-5d23-7304-bff2-046e570179e4": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cloud.umami.is/script.js",
+    "linkedin_url": "",
+    "founder_name": "Jeff Yan",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/04/15/uk-announces-50m-in-funding-to-deploy-ai-robotics-and-other-tech-tools-for-farmers/": {
+    "valid": false
+  },
+  "https://www.wamda.com/2026/04/sufra-ai-secures-100k-snoonu-startup-factory-launches": {
+    "valid": true,
+    "company": "Sufra AI",
+    "amount_str": "$100K",
+    "website": "https://duck.ai",
+    "linkedin_url": "https://linkedin.com/company/sufratech",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/traza-closes-2-1m-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/hockeystack-closes-new-funding.html": {
+    "valid": false
+  },
+  "https://crypto-economy.com/solvapay-raises-e2-4m-for-ai-agent-payment/": {
+    "valid": false
+  },
+  "https://beinsure.com/news/ukrainian-obriy-ai-raises-500k-to-scale-multi-agent-platform/": {
+    "valid": true,
+    "company": "Ukrainian Obriy AI",
+    "amount_str": "$500k",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/solvapay-raises-e2-4m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://thenextweb.com/news/stendr-5-4m-pre-seed-ai-counter-drone-defence": {
+    "valid": true,
+    "company": "Norwegian defence startup Stendr",
+    "amount_str": "$5.4M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "The Axie Infinity",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.panewslab.com/en/articles/019d9167-0392-7645-83b8-558f13f1b20a": {
+    "valid": true,
+    "company": "Allbirds",
+    "amount_str": "$50 m",
+    "website": "https://allbirds.de",
+    "linkedin_url": "https://linkedin.com/company/allbirds",
+    "founder_name": "Jeff Yan",
+    "founder_linkedin_url": "",
+    "contact_email": "service@allbirds.eu",
+    "twitter_url": ""
+  },
+  "https://www.vanguardngr.com/2026/04/pharma-hubs-key-to-nigerias-drug-security-prof-anyakora/": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DXJx4gwDiF6/": {
+    "valid": false
+  },
+  "https://www.pocketgamer.biz/mission-control-games-launches-with-4m-pre-seed-to-rethink-casual-puzzle-design/": {
+    "valid": true,
+    "company": "Mission Control Games",
+    "amount_str": "$4m",
+    "website": "https://www.ebay.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://phemex.com/news/article/x-launches-smart-cashtags-integrating-realtime-trading-and-market-data-73334": {
+    "valid": false
+  },
+  "https://www.facebook.com/Nairametrics/posts/nairametrics-nectarfi-raises-170000-pre-seed-to-tackle-crypto-fragmentation/1409460364559253/": {
+    "valid": true,
+    "company": "Nairametrics - NectarFi",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://incubees.com/last-mile-logistics-startup-daakit-raises-138k-pre-seed-funding-from-inflection-point-ventures/": {
+    "valid": true,
+    "company": "Last-mile logistics startup DAAKit",
+    "amount_str": "$138K",
+    "website": "https://www.localsamosa.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.securityweek.com/capsule-security-emerges-from-stealth-with-7-million-in-funding/": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/startuplag_nectarfi-has-secured-170000-in-pre-seed-activity-7450173673912590338-yNCK": {
+    "valid": false
+  },
+  "https://money.rediff.com/amp/news/market/last-mile-care-raises-1m-seed-funding/45359120260415": {
+    "valid": true,
+    "company": "Last Mile Care",
+    "amount_str": "$1M",
+    "website": "https://lastmilecare.in",
+    "linkedin_url": "https://linkedin.com/company/last-mile-care-pvt-ltd",
+    "founder_name": "on India",
+    "founder_linkedin_url": "",
+    "contact_email": "info@lastmilecare.in",
+    "twitter_url": ""
+  },
+  "https://money.rediff.com/news/market/last-mile-care-raises-1m-seed-funding/45359120260415": {
+    "valid": true,
+    "company": "Last Mile Care",
+    "amount_str": "$1M",
+    "website": "https://lastmilecare.in",
+    "linkedin_url": "https://linkedin.com/company/last-mile-care-pvt-ltd",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@lastmilecare.in",
+    "twitter_url": ""
+  },
+  "https://fastercapital.com/topics/startup-in-seed-funding.html/1": {
+    "valid": false
+  },
+  "https://intellectia.ai/news/stock/this-startup-wants-to-replace-marketing-agencies-with-ai-read-the-pitch-deck-it-used-to-raise-45-million": {
+    "valid": false
+  },
+  "https://www.businessinsider.com/pitch-deck-uplane-raised-funding-to-replace-marketing-agencies-ai-2026-4": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://i.insider.com/69ddb30a899c9d3be0510364",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.sdbj.com/technology/joynt-carving-co-ownership-path-for-first-time-homebuyers/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/exclusive-gravity-7m-seed-ai-analyst/": {
+    "valid": true,
+    "company": "Ex-Google, Looker execs",
+    "amount_str": "$7M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
