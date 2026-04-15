@@ -35932,5 +35932,221 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/04/15/this-khosla-backed-autonomous-pod-startup-just-raised-170m-now-its-aiming-for-more/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/04/15/accel-raises-5b-to-back-late-stage-bets/": {
+    "valid": false
+  },
+  "https://betakit.com/industry-minister-melanie-joly-wants-to-see-nokia-invest-more-in-canada/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/15/quantum-technologies-eu-hybrid-computing-strategy-hpeworldquantumday/": {
+    "valid": false
+  },
+  "https://www.geekwire.com/2026/one-year-after-its-rocky-launch-microsofts-windows-recall-still-raises-security-red-flags/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/enphase-deadline-enph-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-enphase-energy-inc-securities-fraud-lawsuit-302743600.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/capsule-security-interview-with-ceo-naor-paz.html": {
+    "valid": false
+  },
+  "https://www.kucoin.com/news/flash/2025-crypto-vc-funding-surges-433-despite-93-drop-in-active-investors": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://assets.staticimg.com",
+    "linkedin_url": "",
+    "founder_name": "and practically beg",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.kucoin.com/news/flash/2025-crypto-vc-landscape-433-funding-surge-93-fewer-active-investors": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://assets.staticimg.com",
+    "linkedin_url": "",
+    "founder_name": "and practically beg",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techflowpost.com/article/detail_31143.html": {
+    "valid": false
+  },
+  "https://techfundingnews.com/slate-auto-650m-affordable-electric-truck/": {
+    "valid": true,
+    "company": "Bezos-backed Slate Auto",
+    "amount_str": "$650M",
+    "website": "https://www.usatoday.com",
+    "linkedin_url": "https://linkedin.com/company/usa-today",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/usatoday"
+  },
+  "https://www.msn.com/en-us/money/other/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/ar-AA1ZeZ1u": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/chad-rigetti-sygaldry-139m-quantum-ai-hardware/": {
+    "valid": true,
+    "company": "Sygaldry Technologies",
+    "amount_str": "$139M",
+    "website": "https://quantumzeitgeist.com",
+    "linkedin_url": "https://linkedin.com/company/sygaldry-technologies",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.capitalbrief.com/briefing/phonely-raises-usd16m-to-scale-ai-agents-that-outbook-human-call-centre-staff-73579cf6-f08c-4fd0-866f-c6d902768c86/": {
+    "valid": false
+  },
+  "https://thequantuminsider.com/2026/04/15/peak-quantum-funding-superconducting-chips/": {
+    "valid": false
+  },
+  "https://www.aol.com/finance/exclusive-hyfix-raises-15-million-101854545.html": {
+    "valid": true,
+    "company": "Hyfix",
+    "amount_str": "$15 m",
+    "website": "https://hyfix.ai",
+    "linkedin_url": "https://linkedin.com/company/hyfix",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.geekwire.com/2026/geekwire-awards-young-entrepreneur-of-the-year-finalists-tackling-ai-robotics-and-more/": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/cleveland/news/2026/04/15/venture-monitor-trailhead-eagle-enspire-scatr.html": {
+    "valid": true,
+    "company": "Northeast Ohio startups",
+    "amount_str": "$100M",
+    "website": "https://www.ideastream.org",
+    "linkedin_url": "https://linkedin.com/company/ideastream",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.datacenterdynamics.com/en/news/ai-and-quantum-startup-sygaldry-raises-139m-across-two-funding-rounds/": {
+    "valid": true,
+    "company": "AI and quantum startup Sygaldry",
+    "amount_str": "$139m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/yourstorycom/posts/mumbai-based-brain-health-startup-ivory-has-raised-1-million-in-a-seed-round-led/1432013308960639/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://beinsure.com/news/round-treasury-raises-e5-1-mn-to-scale-ai-finance/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/hyfix-raises-15m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/04/15/parasail-closes-32m-series-a-to-build-the-supercloud-that-puts-developers-in-control-of-their-ai/": {
+    "valid": true,
+    "company": "Parasail",
+    "amount_str": "$32M",
+    "website": "https://www.parasail.org",
+    "linkedin_url": "https://linkedin.com/company/parasail-io",
+    "founder_name": "said Mike Henry",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/04/15/smartwage-raises-e2m-to-scale-ai-driven-corporate-welfare-platform/": {
+    "valid": false
+  },
+  "https://www.biometricupdate.com/202604/innovatrics-vc-backs-biometric-driver-monitoring-startup-mettis-ai": {
+    "valid": false
+  },
+  "https://x.com/SiliconANGLE/status/2044418539629522972": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/phonely-raises-16m-in-series-a-funding.html": {
+    "valid": false
+  },
+  "https://pulse2.com/sapient-perception-e2-million-pre-seed-round-to-advance-ai-sensor-systems-for-mission-critical-uav-operations/": {
+    "valid": false
+  },
+  "https://ukbaa.org.uk/blog/2026/04/15/cteye-secures-pre-seed-funding-from-the-royal-college-of-arts-design-innovation-fund-to-combat-neurodegenerative-disease-with-smart-mouthguard-technology/": {
+    "valid": false
+  },
+  "https://www.startupmag.co.uk/funding/the-little-loop-2026-pre-seed-funding/": {
+    "valid": false
+  },
+  "https://x.com/TechmoniAfrica/status/2044354677219721698": {
+    "valid": false
+  },
+  "https://nextunicorn.ventures/pillar-secures-20-million-seed-funding-to-revolutionize-financial-risk-management/": {
+    "valid": true,
+    "company": "Pillar",
+    "amount_str": "$20 M",
+    "website": "https://www.pillarhq.com",
+    "linkedin_url": "https://linkedin.com/company/hqpillar",
+    "founder_name": "Harsha Ramesh is the",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bayelsawatch.com/camgraphic-lands-211-million/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/anthropic-800b-valuation-offers-venture-capital/": {
+    "valid": false
+  },
+  "https://www.reddit.com/r/startups/comments/1sm95en/raising_a_2m_preseed_i_will_not_promote/": {
+    "valid": false
+  },
+  "https://www.techinafrica.com/south-africas-refiant-ai-raises-5-million-to-make-artificial-intelligence-leaner-and-less-energy-hungry/": {
+    "valid": true,
+    "company": "Africa's Refiant AI",
+    "amount_str": "$5 M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://hlth.com/insights/news/wavelet-medical-and-aegis-ventures-secure-7m-to-advance-ai-powered-fetal-brain-monitoring": {
+    "valid": true,
+    "company": "Wavelet Medical and Aegis Ventures",
+    "amount_str": "$7M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/eu-startups-menlo-media_solvapay-a-stockholm-based-ai-payments-startup-activity-7450100936196251648-wi3L": {
+    "valid": false
   }
 }
