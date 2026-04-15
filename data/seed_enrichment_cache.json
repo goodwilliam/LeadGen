@@ -34849,5 +34849,185 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/04/14/openai-acquires-ai-financial-planning-startup-hiro-finance/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/stellus-capital-investment-corporation-announces-0-34-second-quarter-2026-regular-dividend-payable-monthly-in-increments-of-0-1133-in-may-june-and-july-2026--302742458.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/ne-bob-waltz-plumbing--heating-celebrates-70-years-of-family-owned-service-to-frederick-county-302742402.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/snow-investors-have-opportunity-to-lead-snowflake-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302740183.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/regenxbio-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--rgnx-302740174.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/addepar-establishes-singapore-as-asia-pacific-hub-302741187.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/stla-investor-notice-stellantis-nv-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit-302742396.html": {
+    "valid": false
+  },
+  "https://hackernoon.com/nava-emerges-from-stealth-with-$83m-seed-round-co-led-by-polychain-and-archetype": {
+    "valid": false
+  },
+  "https://www.law.com/legaltechnews/2026/04/14/antes-raises-46m-to-bridge-legal-and-engineering-software-/": {
+    "valid": true,
+    "company": "Antes",
+    "amount_str": "$4.6M",
+    "website": "https://www.antesofficial.com",
+    "linkedin_url": "https://linkedin.com/company/antes",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://ground.news/article/helical-closes-10m-seed-to-turn-bio-foundation-models-into-systems_0e91dc": {
+    "valid": true,
+    "company": "Helical",
+    "amount_str": "$10M",
+    "website": "https://www.helical.llc",
+    "linkedin_url": "https://linkedin.com/company/helical-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.wtkr.com/news/in-the-community/chesapeake/hybrid-electric-seaplane-startup-tidal-flight-expands-operations-in-chesapeake-with-538k-investment": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startuphub.ai/investment_rounds/modern-relay-seed-2026": {
+    "valid": true,
+    "company": "Modern Relay",
+    "amount_str": "$3.0 m",
+    "website": "https://modernrelay.com",
+    "linkedin_url": "https://linkedin.com/company/modern-relay",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "ragnor@modernrelay.com",
+    "twitter_url": "https://x.com/modernrelay"
+  },
+  "https://quantumcomputingreport.com/sygaldry-technologies-raises-139m-to-develop-quantum-accelerated-ai-infrastructure/": {
+    "valid": true,
+    "company": "Sygaldry Technologies",
+    "amount_str": "$139M",
+    "website": "https://quantumzeitgeist.com",
+    "linkedin_url": "https://linkedin.com/company/sygaldry-technologies",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://entarabi.com/en/2026/04/homegrown-ventures-closes-its-first-fund-after-raising-22-88-million/": {
+    "valid": true,
+    "company": "Homegrown Ventures",
+    "amount_str": "$22.88 m",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/homegrownventures",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://latamlist.com/depay-raises-4m-seed-round/": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/04/with-pharma-rd-teams-under-pressure-to-turn-ai-into-usable-science-helical-lands-e8-4-million/": {
+    "valid": false
+  },
+  "https://x.com/cryptogics/status/2044095499733770419": {
+    "valid": true,
+    "company": "Previously Octra",
+    "amount_str": "$13M",
+    "website": "https://github.com",
+    "linkedin_url": "https://linkedin.com/company/github",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "you@domain.com",
+    "twitter_url": "https://x.com/github"
+  },
+  "https://www.linkedin.com/posts/founderstoday_ralio-secures-21m-pre-seed-to-develop-payment-activity-7449868927154921473-TCBH": {
+    "valid": false
+  },
+  "https://inforcapital.com/news/peak-quantum-reaches-5m-in-total-funding-for-quantum-chips/": {
+    "valid": true,
+    "company": "Peak Quantum",
+    "amount_str": "\u20ac2.2M",
+    "website": "https://peakquantum.de",
+    "linkedin_url": "https://linkedin.com/company/peak-quantum-computing",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@peakquantum.de",
+    "twitter_url": ""
+  },
+  "https://www.finextra.com/newsarticle/47576/fintech-vet-launches-primitive-ai-agent-operating-system": {
+    "valid": false
+  },
+  "https://femtechinsider.com/wavelet-medical-raises-7m-to-bring-first-non-invasive-fetal-brain-monitoring-to-labor-and-delivery/": {
+    "valid": true,
+    "company": "Wavelet Medical",
+    "amount_str": "$7M",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/wavelet-medical",
+    "founder_name": "head of science and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupmag.co.uk/funding/ralio-2026-pre-seed-funding/": {
+    "valid": true,
+    "company": "Ralio",
+    "amount_str": "",
+    "website": "https://ralio.co",
+    "linkedin_url": "https://linkedin.com/company/ralioai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://markets.businessinsider.com/news/stocks/primitive-launches-the-complete-ai-agent-operating-system-for-financial-services-1036019570": {
+    "valid": false
+  },
+  "https://www.latimes.com/business/story/2026-04-14/trump-signs-bill-reauthorizing-federal-aid-to-defense-startups": {
+    "valid": false
+  },
+  "https://hitconsultant.net/2026/04/14/wavelet-medical-aegis-ventures-ai-fetal-brain-monitoring/": {
+    "valid": true,
+    "company": "Wavelet Medical",
+    "amount_str": "$7M",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/wavelet-medical",
+    "founder_name": "engineered by",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.binance.com/en/square/post/312469846300114": {
+    "valid": false
+  },
+  "https://www.binance.com/en/square/post/312468597064705": {
+    "valid": false
+  },
+  "https://www.startup.eu/investments/zenline-ai-1-6m-pre-seed-08-2025": {
+    "valid": true,
+    "company": "Zenline AI",
+    "amount_str": "$1.6M",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/zenline-ag",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
