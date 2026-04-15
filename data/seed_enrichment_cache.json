@@ -35302,5 +35302,291 @@
   },
   "https://msmeafricaonline.com/call-for-applications-visa-africa-accelerator-program-2026-access-to-funding-200000-in-product-perks/": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/04/15/chipmakers-amd-arm-and-qualcomm-are-all-investing-in-this-buzzy-self-driving-tech-startup/": {
+    "valid": false
+  },
+  "https://venturebeat.com/technology/adobes-new-firefly-ai-assistant-wants-to-run-photoshop-premiere-illustrator-and-more-from-one-prompt": {
+    "valid": false
+  },
+  "https://venturebeat.com/orchestration/traza-raises-usd2-1-million-led-by-base10-to-automate-procurement-workflows-with-ai": {
+    "valid": true,
+    "company": "Traza",
+    "amount_str": "$2.1 m",
+    "website": "https://traza.ai",
+    "linkedin_url": "https://linkedin.com/company/trytraza",
+    "founder_name": "CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://news.crunchbase.com/venture/most-active-fintech-investors-yc-q1-2026/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/15/brix-raises-55m-to-support-tokenisation-of-emerging-market-assets/": {
+    "valid": true,
+    "company": "Brix",
+    "amount_str": "$5.5M",
+    "website": "https://brix.money",
+    "linkedin_url": "https://linkedin.com/company/joinbrix",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@brix.money",
+    "twitter_url": "https://x.com/brix_money"
+  },
+  "https://tech.eu/2026/04/15/gizmo-secures-22m-series-a-to-advance-ai-powered-education/": {
+    "valid": true,
+    "company": "Gizmo",
+    "amount_str": "$22M",
+    "website": "https://gizmo.ai",
+    "linkedin_url": "https://linkedin.com/company/gizmo-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/04/15/capsule-security-launches-7m-secure-ai-agents-runtime/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/deadline-approaching-berger-montague-advises-enphase-energy-inc-nasdaq-enph-investors-to-inquire-about-a-securities-fraud-class-action-by-april-20-2026-302740181.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/gral-drops-50----reported-numbers-vs-actual-results-levi--korsinsky-llp-investigates-302742748.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/htgc-investor-alert-hercules-capital-securities-fraud-lawsuit---investors-with-losses-may-seek-to-lead-the-class-action-after-hunterbrook-report-exposed-alleged-concealment-levi--korsinsky-302742800.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/cigna-healthcare-once-again-recognized-for-industry-leading-digital-experience-by-jd-power-302742460.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/tcom-investor-alert-tripcom-group-limited-securities-fraud-lawsuit---investors-with-losses-may-seek-to-lead-the-class-action-after-allegedly-concealing-active-antitrust-scrutiny-levi--korsinsky-302742756.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/cwh-investor-alert-camping-world-holdings-inc-securities-fraud-lawsuit---investors-with-losses-may-seek-to-lead-the-class-action-after-management-allegedly-concealed-inventory-deterioration-levi--korsinsky-302742543.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/fbrt-investor-alert-franklin-bsp-realty-trust-inc-securities-fraud-lawsuit---investors-with-losses-may-seek-to-lead-the-class-action-after-allegedly-concealed-material-risks-levi--korsinsky-302742565.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/chow-investor-alert-chowchow-cloud-international-holdings-limited-securities-fraud-lawsuit---investors-with-losses-may-seek-to-lead-the-class-action-after-ipo-allegedly-concealed-manipulation-risks-levi--korsinsky-302742710.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/eose-investor-alert-eos-energy-enterprises-inc-securities-fraud-lawsuit---investors-with-losses-may-seek-to-lead-the-class-action-after-allegedly-concealing-battery-line-deficiencies-levi--korsinsky-302742554.html": {
+    "valid": false
+  },
+  "https://eu.36kr.com/en/p/3767823574041092": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://mp.weixin.qq.com/s",
+    "linkedin_url": "",
+    "founder_name": "of Hyperliquid",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.morningstar.com/news/business-wire/20260415670902/capsule-security-exits-stealth-with-7m-to-stop-ai-agents-from-going-rogue-at-runtime": {
+    "valid": false
+  },
+  "https://fintech.global/2026/04/15/global-insurtech-funding-falls-to-lowest-level-of-2026-so-far-in-march/": {
+    "valid": false
+  },
+  "https://refreshmiami.com/news/medtech-companies-lift-miami-area-vc-to-1-15b-in-q1-pitchbook-reports-here-were-the-top-deals/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.miamitechpod.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/miamitechpod"
+  },
+  "https://www.calcalistech.com/ctechnews/article/rk900cethzg": {
+    "valid": true,
+    "company": "Capsule Security",
+    "amount_str": "$7 m",
+    "website": "https://www.capsulesecurity.io",
+    "linkedin_url": "https://linkedin.com/company/capsule-security",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.fastcompany.com/91526667/pittsburgh-next-tech-hub": {
+    "valid": false
+  },
+  "https://resiliencemedia.co/danish-startup-sapient-perception-raises-e2m-to-widen-uav-vision-for-real-time-battlefield-decisions/": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/traqcheck-raises-8-million-series-a": {
+    "valid": false
+  },
+  "https://fortune.com/2026/04/15/exclusive-hyfix-craft-ventures-dji-drone-gps-chi/": {
+    "valid": true,
+    "company": "Hyfix",
+    "amount_str": "$15 m",
+    "website": "https://hyfix.ai",
+    "linkedin_url": "https://linkedin.com/company/hyfix",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/tampabay/news/2026/04/15/pitchbook-regional-vc-breakdown.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/04/15/helical-raises-10m-in-seed-funding-for-virtual-ai-lab-operating-at-pharma-scale-to-make-in-silico-discovery-reproducible/": {
+    "valid": true,
+    "company": "Helical",
+    "amount_str": "$10M",
+    "website": "https://www.helical.bio",
+    "linkedin_url": "https://linkedin.com/company/helical-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@helical-ai.com",
+    "twitter_url": ""
+  },
+  "https://arcticstartup.com/solvapay-raises-e2-4-million-in-a-pre-seed/?amp=1": {
+    "valid": false
+  },
+  "https://kr-asia.com/link-touch-draws-backing-from-catl-agibot-as-force-sensors-gain-traction": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://36kr.com/p/3766434507440903",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "wangfengzhi@36kr.com",
+    "twitter_url": ""
+  },
+  "https://www.vanguardngr.com/2026/04/nigerian-startup-secure-pre-seed-funding-to-scale-ai-energy-solutions/": {
+    "valid": true,
+    "company": "Nigerian Startup",
+    "amount_str": "",
+    "website": "https://entrepreneurs.ng",
+    "linkedin_url": "",
+    "founder_name": "Chief Executive and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/agriodor-15m-series-a-crop-protection/": {
+    "valid": false
+  },
+  "https://www.techloy.com/students-arent-waiting-for-jobs-anymore-theyre-building-startups-with-ai-in-college/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/neato-raises-25m-in-growth-capital.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/contro-receives-84m-investment.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/etoro-acquires-zengo.html": {
+    "valid": false
+  },
+  "https://unchainedcrypto.com/press-release/ethgas-and-ether-fi-strike-3bn-deal-to-advance-institutional-blockspace-markets/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/smartwage-closes-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://deadline.com/2026/04/carolina-lightcap-showup-studios-gen-z-youtube-tiktok-1236861225/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://use.typekit.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/AdobeFonts"
+  },
+  "https://www.linkedin.com/posts/vestbee_italian-firm-cato-ai-lands-16m-pre-seed-activity-7450103087375118337-Ybfb": {
+    "valid": false
+  },
+  "https://www.c21media.net/news/media-industry-quartet-launch-ibero-american-studio-showup-targeting-gen-z/": {
+    "valid": false
+  },
+  "https://startupstorymedia.com/mission-control-games-launches-with-4-million-to-reinvent-casual-mobile-gaming/": {
+    "valid": false
+  },
+  "https://www.reddit.com/r/startups/comments/1slzdmx/how_to_source_a_2m_preseed_raise_i_will_not/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/solvapay-2-4m-redstone-ai-agent-payments/": {
+    "valid": false
+  },
+  "https://www.startupresearcher.com/news/ukrainian-ai-startup-obriy-ai-secures-usd500-000-pre-seed-funding": {
+    "valid": false
+  },
+  "https://n24.com.tr/en/business/mission-control-games-raises-4m-backed-by-general-catalyst": {
+    "valid": true,
+    "company": "Mission Control Games",
+    "amount_str": "$4 m",
+    "website": "https://www.ebay.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/04/italys-smartwage-secures-e2-million-to-turn-corporate-welfare-into-real-spending-with-ai-and-digital-payments/": {
+    "valid": false
+  },
+  "https://www.techinasia.com/news/sea-startups-raise-2-8b-in-q1-report-finds": {
+    "valid": true,
+    "company": "SEA startups",
+    "amount_str": "$2.8b",
+    "website": "https://www.nousq.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contactus@nousq.com",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://en.wowtale.net/2026/04/15/233898/": {
+    "valid": true,
+    "company": "Fairsquarelab",
+    "amount_str": "",
+    "website": "https://www.fairsquarelab.com",
+    "linkedin_url": "https://linkedin.com/company/fair-square-lab",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://myhq.in/guides/seed-funding-guide": {
+    "valid": false
+  },
+  "https://en.wowtale.net/2026/04/15/233895/": {
+    "valid": true,
+    "company": "'Mateo AI Studio'",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Juwon Jung",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
