@@ -35029,5 +35029,193 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/voltavates-manufacturing-breakthrough-gains-arena-backing-to-transform-battery-production-at-scale-302742651.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/voltavates-manufacturing-breakthrough-gains-arena-backing-to-transform-battery-production-at-scale-302742639.html": {
+    "valid": false
+  },
+  "https://www.crainsdetroit.com/technology/cdb-pitchbook-q1-deals-20260414/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://consent.trustarc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.asiabusinessoutlook.com/news/baskit-secures-44m-series-a-to-expand-b2b-supply-chain-tech-nwid-11735.html": {
+    "valid": true,
+    "company": "Baskit",
+    "amount_str": "$4.4M",
+    "website": "https://baskitwear.com",
+    "linkedin_url": "https://linkedin.com/company/baskitapp",
+    "founder_name": "Chafic Nassif",
+    "founder_linkedin_url": "",
+    "contact_email": "info@baskitwear.com",
+    "twitter_url": "https://x.com/baskitwear"
+  },
+  "https://www.techinasia.com/news/indonesian-supply-chain-startup-baskit-raises-4-4m-series-a": {
+    "valid": true,
+    "company": "Indonesian supply chain startup Baskit",
+    "amount_str": "$4.4m",
+    "website": "https://betatron.co",
+    "linkedin_url": "https://linkedin.com/company/betatron",
+    "founder_name": "ouster before",
+    "founder_linkedin_url": "",
+    "contact_email": "info@betatron.co",
+    "twitter_url": ""
+  },
+  "https://n24.com.tr/en/health/helical-secures-84-million-in-seed-round-led-by-redalpine-732": {
+    "valid": true,
+    "company": "Helical",
+    "amount_str": "\u20ac8.4 m",
+    "website": "https://www.helicalco.com",
+    "linkedin_url": "https://linkedin.com/company/the-helical-company",
+    "founder_name": "Rick Schneider",
+    "founder_linkedin_url": "https://linkedin.com/in/rick-schneider-464688140",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://ascendants.in/business-stories/pillar-raises-20m-seed-a16z-financial-risk-management/": {
+    "valid": true,
+    "company": "Pillar",
+    "amount_str": "$20 M",
+    "website": "https://pillarperformance.us",
+    "linkedin_url": "https://linkedin.com/company/pillarhr",
+    "founder_name": "founded by",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-us/news/technology/morocco-s-tamwilcom-launches-us-69-million-startup-venture-building-program/ar-AA20OCjS": {
+    "valid": false
+  },
+  "https://www.startupdaily.net/topic/funding/4-months-after-raising-a-10-million-seed-round-this-mining-startup-wants-to-dig-up-more-investors/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://growth-summit.com.au",
+    "linkedin_url": "",
+    "founder_name": "DryFlow Magnetics",
+    "founder_linkedin_url": "",
+    "contact_email": "events@smartcomedia.com.au",
+    "twitter_url": ""
+  },
+  "https://alpha-maven.com/news/venture-capital/prism-layer-emerges-with-pre-seed-funding": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://punchng.com/startup-secures-funding-to-address-electricity-challenges/": {
+    "valid": true,
+    "company": "Startup",
+    "amount_str": "",
+    "website": "https://en.wikipedia.org",
+    "linkedin_url": "https://linkedin.com/company/startup_5",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://vcnewsdaily.com/prism-layer/venture-capital-funding/drdsgmmvsx": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.amazon.com/Shark-Investor-Principles-Getting-Market/dp/B0DGVZ4Y8T",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "api-services-support@amazon.com",
+    "twitter_url": ""
+  },
+  "https://vctavern.com/hapware-secures-early-funding-to-advance-wearable-communication-technology-for-accessibility/": {
+    "valid": true,
+    "company": "HapWare",
+    "amount_str": "",
+    "website": "https://hapware.com",
+    "linkedin_url": "https://linkedin.com/company/hapware",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Hap_ware"
+  },
+  "https://app.dealroom.co/news/feed/text2test-secures-495k-pre-seed-funding": {
+    "valid": true,
+    "company": "Text2Test",
+    "amount_str": "$495K",
+    "website": "https://text2test.ai",
+    "linkedin_url": "https://linkedin.com/company/text2test",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/esinkyilmaz",
+    "contact_email": "hello@text2test.ai",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/pittsburgh/news/2026/04/15/vc-qi-pitchbook.html": {
+    "valid": true,
+    "company": "Pittsburgh tech sector",
+    "amount_str": "$1.7 b",
+    "website": "https://www.innovationworks.org",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://technode.global/2026/04/15/indonesias-supply-chain-growth-platform-baskit-raises-4-4m-series-a-to-expand-southeast-asia-operations/": {
+    "valid": true,
+    "company": "Indonesia's supply chain growth platform Baskit",
+    "amount_str": "$4.4M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "with participation from Kaya",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/synera-35m-series-b-ai-engineering-agents/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.family-day-htgf.de",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "events@htgf.de",
+    "twitter_url": "https://x.com/HTGF"
+  },
+  "https://www.studocu.com/en-za/document/university-of-pretoria/responsible-reporting/framework-for-financial-reporting-revision-q1-rrp-200-2026/159112429?origin=course-new-1": {
+    "valid": false
+  },
+  "https://www.axios.com/pro/all-deals/2026/04/14/pro-rata-premium-first-look": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "was promoted to",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
