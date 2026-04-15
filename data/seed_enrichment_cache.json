@@ -35217,5 +35217,90 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/15/agriodor-raises-eur15-million-to-expand-scent-based-crop-protection-globally/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/15/solvapay-raises-eur24m-to-build-payment-infrastructure-for-agentic-commerce/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/15/mission-control-games-launches-with-4m-to-develop-new-casual-gaming-sub-genres/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/hockeystack-raises-50m-to-build-revenue-agents-for-the-enterprise-302742217.html": {
+    "valid": true,
+    "company": "HockeyStack",
+    "amount_str": "$50M",
+    "website": "http://hockeystack.com",
+    "linkedin_url": "https://linkedin.com/company/hockeystack",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-zspace-inc-investors-to-inquire-about-securities-class-action-investigation--zspc-302742545.html": {
+    "valid": false
+  },
+  "https://www.contentgrip.com/replenit-retail-decisioning-funding/": {
+    "valid": true,
+    "company": "Replenit",
+    "amount_str": "$2.5 m",
+    "website": "https://replen.it",
+    "linkedin_url": "https://linkedin.com/company/replenit",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/replenit"
+  },
+  "https://bebeez.eu/2026/04/14/with-pharma-rd-teams-under-pressure-to-turn-ai-into-usable-science-helical-lands-e8-4-million/": {
+    "valid": false
+  },
+  "https://www.startupdaily.net/topic/funding/kiwi-fund-administration-fintech-caruso-banks-9-3-million-series-a/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://growth-summit.com.au",
+    "linkedin_url": "",
+    "founder_name": "Cofounder and",
+    "founder_linkedin_url": "",
+    "contact_email": "events@smartcomedia.com.au",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/primepoint-closes-10m-seed-round": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/04/14/germanys-evanium-secures-e2-2-million-to-improve-the-solubility-and-bioavailability-of-nutraceutical-ingredients/": {
+    "valid": false
+  },
+  "https://metrology.news/sonibel-instruments-secures-funding-to-advance-ai-driven-real-time-weld-quality-control/": {
+    "valid": true,
+    "company": "Sonibel Instruments",
+    "amount_str": "",
+    "website": "https://sonibelinstruments.com",
+    "linkedin_url": "https://linkedin.com/company/sonibel-instruments",
+    "founder_name": "said Sophia Millar",
+    "founder_linkedin_url": "",
+    "contact_email": "sophia@sonibelinstruments.com",
+    "twitter_url": ""
+  },
+  "https://www.reddit.com/r/StartUpIndia/comments/1slc5wa/startup_founders_from_mumbai_who_have_raised/": {
+    "valid": false
+  },
+  "https://retailtechinnovationhub.com/home/2026/4/14/rachel-lorraine-departs-yum-brands-for-vp-enterprise-insights-and-analytics-role-at-whataburger": {
+    "valid": false
+  },
+  "https://www.diligent.com/resources/blog/seed-stage-startup": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.optimizely.com/js/23791891397.js",
+    "linkedin_url": "",
+    "founder_name": "Start with",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://msmeafricaonline.com/call-for-applications-visa-africa-accelerator-program-2026-access-to-funding-200000-in-product-perks/": {
+    "valid": false
   }
 }

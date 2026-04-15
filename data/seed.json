@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-04-15T06:01:04.012757Z",
+  "generated_at": "2026-04-15T09:13:11.243291Z",
   "count": 30,
   "enriched_count": 27,
   "articles": [
+    {
+      "source": "PR Newswire",
+      "title": "HockeyStack Raises $50M to Build Revenue Agents for the Enterprise",
+      "article_url": "https://www.prnewswire.com/news-releases/hockeystack-raises-50m-to-build-revenue-agents-for-the-enterprise-302742217.html",
+      "company": "HockeyStack",
+      "amount_str": "$50M",
+      "pub_date": "2026-04-15T09:00:00Z",
+      "website": "http://hockeystack.com",
+      "linkedin_url": "https://linkedin.com/company/hockeystack",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Replenit's $2.5M pre-seed targets retail CRM decisioning - ContentGrip",
+      "article_url": "https://www.contentgrip.com/replenit-retail-decisioning-funding/",
+      "company": "Replenit",
+      "amount_str": "$2.5 m",
+      "pub_date": "2026-04-15T07:53:36Z",
+      "website": "https://replen.it",
+      "linkedin_url": "https://linkedin.com/company/replenit",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/replenit"
+    },
     {
       "source": "Google Alerts",
       "title": "Pittsburgh tech sector raises $1.7 billion in Q1, fueled by Skild AI megadeal",
@@ -15,6 +43,20 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Sonibel Instruments Secures Funding to Advance AI-Driven Real-Time Weld Quality Control",
+      "article_url": "https://metrology.news/sonibel-instruments-secures-funding-to-advance-ai-driven-real-time-weld-quality-control/",
+      "company": "Sonibel Instruments",
+      "amount_str": "",
+      "pub_date": "2026-04-15T05:01:06Z",
+      "website": "https://sonibelinstruments.com",
+      "linkedin_url": "https://linkedin.com/company/sonibel-instruments",
+      "founder_name": "said Sophia Millar",
+      "founder_linkedin_url": "",
+      "contact_email": "sophia@sonibelinstruments.com",
       "twitter_url": ""
     },
     {
@@ -145,6 +187,20 @@
     },
     {
       "source": "Google Alerts",
+      "title": "Ralio raises pre-seed to enable AI agents to transact with auditable verification - Startupmag",
+      "article_url": "https://www.startupmag.co.uk/funding/ralio-2026-pre-seed-funding/",
+      "company": "Ralio",
+      "amount_str": "",
+      "pub_date": "2026-04-14T20:46:08Z",
+      "website": "https://ralio.co",
+      "linkedin_url": "https://linkedin.com/company/ralioai",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
       "title": "Wygo raises $1.6M Pre-Seed to build Offline-First Community Platform - FoundersToday",
       "article_url": "https://www.linkedin.com/posts/founderstoday_wygo-raises-16m-pre-seed-to-build-offline-first-activity-7449901554746400768-JWOP",
       "company": "Wygo",
@@ -187,34 +243,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Collide Capital closes $95M fund to back early-stage fintech and supply chain startups",
-      "article_url": "https://techfundingnews.com/collide-capital-95m-fund-ii/",
-      "company": "Collide Capital",
-      "amount_str": "$95M",
-      "pub_date": "2026-04-14T17:55:52Z",
-      "website": "https://www.collidecap.com",
-      "linkedin_url": "https://linkedin.com/company/collidecapital",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "investors@collidecap.com",
-      "twitter_url": "https://x.com/CollideCapital"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Homegrown Ventures closes its first fund after raising $22.88 million . - \u0625\u0646\u062a \u0639\u0631\u0628\u064a - entARABI",
-      "article_url": "https://entarabi.com/en/2026/04/homegrown-ventures-closes-its-first-fund-after-raising-22-88-million/",
-      "company": "Homegrown Ventures",
-      "amount_str": "$22.88 m",
-      "pub_date": "2026-04-14T17:48:04Z",
-      "website": "",
-      "linkedin_url": "https://linkedin.com/company/homegrownventures",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "Tydra Labs Raises $1.2M to Turn Waste Into Biomaterials - Techcouver.com",
       "article_url": "https://techcouver.com/2026/04/14/tydra-labs-raises-1-2m-to-turn-waste-into-biomaterials/",
       "company": "Tydra Labs",
@@ -240,20 +268,6 @@
       "founder_linkedin_url": "",
       "contact_email": "ragnor@modernrelay.com",
       "twitter_url": "https://x.com/modernrelay"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Ralio raises $2.5m in Europe's biggest agentic payments round - FinTech Global",
-      "article_url": "https://fintech.global/2026/04/14/ralio-raises-2-5m-in-europes-biggest-agentic-payments-round/",
-      "company": "Ralio",
-      "amount_str": "$2.5m",
-      "pub_date": "2026-04-14T14:14:09Z",
-      "website": "https://ralio.co",
-      "linkedin_url": "https://linkedin.com/company/ralioai",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "tech.eu",
@@ -394,20 +408,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
-    },
-    {
-      "source": "tech.eu",
-      "title": "Replenit raises $2.5M to bring real-time AI decision-making to retail",
-      "article_url": "https://tech.eu/2026/04/13/replenit-raises-25m-to-bring-real-time-ai-decision-making-to-retail/",
-      "company": "Replenit",
-      "amount_str": "$2.5M",
-      "pub_date": "2026-04-13T15:12:37Z",
-      "website": "https://replen.it",
-      "linkedin_url": "https://linkedin.com/company/replenit",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/replenit"
     },
     {
       "source": "Crunchbase News",
