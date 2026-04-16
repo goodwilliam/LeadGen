@@ -36148,5 +36148,212 @@
   },
   "https://www.linkedin.com/posts/eu-startups-menlo-media_solvapay-a-stockholm-based-ai-payments-startup-activity-7450100936196251648-wi3L": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/04/15/amazon-backed-x-energy-files-to-raise-up-to-800m-in-ipo/": {
+    "valid": false
+  },
+  "https://venturebeat.com/security/microsoft-salesforce-copilot-agentforce-prompt-injection-cve-agent-remediation-playbook": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/15/hilbert-nabs-28m-ease-analytics-projects-consumer-focused-companies/": {
+    "valid": true,
+    "company": "Hilbert",
+    "amount_str": "$28M",
+    "website": "https://hilberts.ai/standard-llms-vs-hilberts-ai",
+    "linkedin_url": "https://linkedin.com/company/hilbertsai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/04/15/parasail-raises-32m-pay-per-token-inference-cloud/": {
+    "valid": true,
+    "company": "Parasail",
+    "amount_str": "$32M",
+    "website": "https://www.parasail.network",
+    "linkedin_url": "https://linkedin.com/company/parasail-io",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/04/15/artemis-reels-70m-make-breach-remediation-efficent-ai/": {
+    "valid": false
+  },
+  "https://www.geekwire.com/2026/bigger-checks-fewer-bets-seattle-startup-deal-count-drops-to-lowest-level-since-2020/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/arcline-backed-arxis-announces-pricing-of-its-initial-public-offering-302743924.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/robbins-llp-encourages-nuai-stockholders-who-lost-money-investing-in-new-era-energy--digital-inc-to-contact-the-firm-for-information-leading-the-class-action-302743881.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/robbins-llp-encourages-adlx-stockholders-who-lost-money-investing-in-aldeyra-therapeutics-inc-to-contact-the-firm-for-information-about-leading-the-class-action-302743879.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/robbins-llp-urges-ibrx-stockholders-who-lost-money-investing-in-immunitybio-inc-to-contact-the-firm-for-information-about-leading-the-class-action-302743882.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/robbins-llp-encourages-goss-stockholders-who-lost-money-investing-in-gossamer-bio-inc-to-contact-the-firm-for-information-about-leading-the-class-action-302743870.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/robbins-llp-encourages-pins-stockholders-who-lost-money-investing-in-pinterest-inc-to-contact-the-firm-for-information-about-leading-the-class-action-302743869.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/robbins-llp-encourages-vitl-stockholders-who-lost-money-investing-in-vital-farms-inc-to-contact-the-firm-for-information-about-leading-the-class-action-302743864.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/sacramento-seniors-get-more-affordable-housing-and-infrastructure-with-health-nets-3-million-investment-in-sacog-and-mutual-housing-california-302743909.html": {
+    "valid": false
+  },
+  "https://technosports.co.in/star-wars-maul-shadow-lord-episodes-3-4-2/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/auctor-sequoia-series-a-enterprise-software/": {
+    "valid": false
+  },
+  "https://www.fiercehealthcare.com/ai-and-machine-learning/keebler-health-secures-16m-series-funding": {
+    "valid": true,
+    "company": "Keebler Health",
+    "amount_str": "$16M",
+    "website": "https://keebler.health",
+    "linkedin_url": "https://linkedin.com/company/keeblerhealth",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.mexc.com/news/1029338": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://trochilus-web.gotoda.co/trochilus-web-sdk-integration.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DXKkXb0if1W/": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/houston/news/2026/04/15/houston-q1-venture-capital-deals.html": {
+    "valid": true,
+    "company": "Houston",
+    "amount_str": "$532M",
+    "website": "https://www.houstontexans.com",
+    "linkedin_url": "https://linkedin.com/company/city-of-houston",
+    "founder_name": "expand\n\nOmair Tariq",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/HoustonTexans"
+  },
+  "https://entarabi.com/en/2026/04/startup-sync-facilitates-edafa-ventures-acquisition-of-cyclex-to-advance-sustainable-investments-in-egypt/": {
+    "valid": false
+  },
+  "https://entarabi.com/en/2026/04/sufra-ai-raises-100k-pre-seed-round-from-snoonu-as-it-launches-startup-factory-initiative/": {
+    "valid": true,
+    "company": "SUFRA AI",
+    "amount_str": "$100K",
+    "website": "https://entarabi.com",
+    "linkedin_url": "https://linkedin.com/company/entarabi",
+    "founder_name": "of Snoonu",
+    "founder_linkedin_url": "",
+    "contact_email": "info@entarabi.com",
+    "twitter_url": "https://x.com/entarabicom"
+  },
+  "https://www.ocbj.com/uncategorized/lidavex-adapts-lidar-tech-for-labor-monitoring/": {
+    "valid": false
+  },
+  "https://cryptorank.io/news/feed/a14a6-gitar-startup-ai-code-validation": {
+    "valid": false
+  },
+  "https://www.moneycontrol.com/artificial-intelligence/wealthy-asians-chasing-returns-pour-25-billion-into-ai-startups-article-13890291.html": {
+    "valid": false
+  },
+  "https://www.vanguardngr.com/2026/04/ecobagmart-wins-innov8league-4-0-highlighting-africas-rising-startup-ecosystem/": {
+    "valid": true,
+    "company": "EcoBagMart",
+    "amount_str": "",
+    "website": "https://ecomartecobag.com.ng",
+    "linkedin_url": "https://linkedin.com/company/ecobagmart",
+    "founder_name": "Kolade Folami",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ecobagmart"
+  },
+  "https://www.linkedin.com/posts/grishinrobotics_traza-has-raised-21m-in-pre-seed-funding-activity-7450250922116435971-0RC-": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startuphub.ai/investment_rounds/stendr-pre-seed-2026": {
+    "valid": true,
+    "company": "Norwegian defense tech startup Stendr",
+    "amount_str": "$5.4 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.yahoo.com/plaid-112924394.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/elgoat-raises-266k-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-15-2026/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.alleywatch.com.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.voxelmatters.com/euler-releases-real-time-build-viewer-for-metal-additive-manufacturing-operators/": {
+    "valid": false
+  },
+  "https://www.facebook.com/MarketingMind.in/posts/startups-are-raising-big-bucksheres-a-look-at-the-latest-funding-winsmarketingmi/1294314552886593/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupmag.co.uk/funding/openmoove-2026-pre-seed-funding/": {
+    "valid": false
+  },
+  "https://www.startupmag.co.uk/funding/ascension-2026-seed-funding/": {
+    "valid": false
+  },
+  "https://www.startupmag.co.uk/funding/stirlight-2026-pre-seed-funding/": {
+    "valid": false
+  },
+  "https://www.axios.com/pro/all-deals/2026/04/15/pro-rata-premium-first-look": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Thiel Capital",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
