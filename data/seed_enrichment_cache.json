@@ -36355,5 +36355,139 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/16/yc-backed-openlaw-closes-33m-seed-to-digitise-europes-notary-nightmare/": {
+    "valid": true,
+    "company": "YC-backed Openlaw",
+    "amount_str": "$3.3M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/nktr-investors-have-opportunity-to-lead-nektar-therapeutics-securities-fraud-lawsuit-302743967.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/us-news--world-report-launches-2026-banking-and-investing-platform-awards-302743998.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/global-first--nmpa-accepts-ind-application-for-mabwells-innovative-lilrb4cd3-tce-bispecific-antibody-6mw5311-302744036.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/bank-of-america-presente-ses-resultats-financiers-pour-le-premier-trimestre-2026-302744027.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/eose-investors-have-opportunity-to-lead-eos-energy-enterprises-inc-securities-fraud-lawsuit-302743821.html": {
+    "valid": false
+  },
+  "https://www.startupecosystem.ca/news/glydways-secures-170m-to-expand-autonomous-pod-operations/": {
+    "valid": true,
+    "company": "Glydways",
+    "amount_str": "$170M",
+    "website": "https://www.glydways.com",
+    "linkedin_url": "https://linkedin.com/company/glydways",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/glydways"
+  },
+  "https://phemex.com/news/article/votre-secures-375m-seed-funding-led-by-a16z-csx-73656": {
+    "valid": true,
+    "company": "Votre",
+    "amount_str": "$3.75M",
+    "website": "https://www.collinsdictionary.com",
+    "linkedin_url": "https://linkedin.com/company/collins-learning-international",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/collinsdict"
+  },
+  "https://securitybrief.co.uk/story/capsule-security-raises-7-million-to-guard-ai-agents": {
+    "valid": true,
+    "company": "Capsule Security",
+    "amount_str": "$7 m",
+    "website": "https://www.capsulesecurity.io",
+    "linkedin_url": "https://linkedin.com/company/capsule-security",
+    "founder_name": "said Naor Paz",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bitget.com/news/detail/12560605369024": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "attends PBW",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techinasia.com/news/sequoia-backs-ex-apple-execs-new-ai-cpu-startup-nuvacore": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/parasail-raises-32-million-series-a": {
+    "valid": true,
+    "company": "Parasail",
+    "amount_str": "$32 m",
+    "website": "https://parasail.io",
+    "linkedin_url": "https://linkedin.com/company/parasail-io",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "john.smith@email.com",
+    "twitter_url": "https://x.com/parasail_io"
+  },
+  "https://www.streetinsider.com/Press+Releases/Preventive+Care+Startup+Closes+US%241M+Pre-Seed+Round/26319892.html": {
+    "valid": false
+  },
+  "https://techfundingnews.com/glydways-170m-funding-autonomous-transit-networks/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.contentgrip.com/zell-preseed-sales-ai/": {
+    "valid": false
+  },
+  "https://www.coincarp.com/article/enhanced-secures-1m-in-strategic-pre-seed-funding-to-bring-structured-yield-to-more-assets-onchain/": {
+    "valid": true,
+    "company": "Enhanced",
+    "amount_str": "$1M",
+    "website": "https://enhanced.finance",
+    "linkedin_url": "https://linkedin.com/company/enhanced-games",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://app.dealroom.co/news/feed/supy-raises-1-5m-pre-seed-funding": {
+    "valid": true,
+    "company": "UAE-based startup Supy",
+    "amount_str": "$1.5 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "of Critical Minerals",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-us/money/other/cluely-raises-53-million-in-seed-funding-for-ai-tool-that-helps-users-cheat-in-tests-and-at-work/ar-AA1Dr4g3?ocid=BingNewsVerp&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": true,
+    "company": "Cluely",
+    "amount_str": "$5.3 m",
+    "website": "https://cluely.com",
+    "linkedin_url": "https://linkedin.com/company/cluely",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "help@cluely.com",
+    "twitter_url": "https://x.com/cluely"
   }
 }
