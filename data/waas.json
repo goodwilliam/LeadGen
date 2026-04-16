@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T19:01:40Z",
+  "generated_at": "2026-04-16T01:46:28Z",
   "count": 24,
   "jobs": [
     {
@@ -125,7 +125,7 @@
       "companyBatch": "W24",
       "companyOneLiner": "Make sales and marketing videos with AI.",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/9affbf116d392b150097162d18aaec2ff55b99e9.png",
-      "companyLastActiveAt": "about 2 hours ago",
+      "companyLastActiveAt": "about 5 hours ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D88318&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29510"
     },
     {
@@ -213,9 +213,9 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D80903&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29290"
     },
     {
-      "id": 83825,
-      "title": "Founding Product Designer ",
-      "jobType": "fulltime",
+      "id": 89404,
+      "title": "Design Engineering Intern",
+      "jobType": "intern",
       "location": "Main Office - Toronto",
       "roleType": "Web design",
       "companyName": "Tempo",
@@ -223,8 +223,8 @@
       "companyBatch": "S23",
       "companyOneLiner": "Visual Editor for React, powered by AI",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/860f478b7cd2ea33eefb86e90c9c693abef2997f.png",
-      "companyLastActiveAt": null,
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D83825&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29150"
+      "companyLastActiveAt": "22 days ago",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89404&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29150"
     },
     {
       "id": 75335,
