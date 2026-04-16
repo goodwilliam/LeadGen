@@ -37304,5 +37304,249 @@
   },
   "https://news.crunchbase.com/venture/capital-concentrated-ai-global-q1-2026/": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/04/16/slash-a-ramp-competitor-founded-by-teenagers-raises-100m-at-1-4b-valuation/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/": {
+    "valid": false
+  },
+  "https://venturebeat.com/infrastructure/are-we-getting-what-we-paid-for-how-to-turn-ai-momentum-into-measurable-value": {
+    "valid": false
+  },
+  "https://venturebeat.com/technology/openai-debuts-gpt-rosalind-a-new-limited-access-model-for-life-sciences-and-broader-codex-plugin-on-github": {
+    "valid": false
+  },
+  "https://betakit.com/dentistry-gig-work-platform-fairly-staffing-aims-to-help-industry-meet-demand/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/spolonos-sigenergy-uspene-kotovana-na-burze-hkex-so-silnou-podporou-od-poprednych-svetovych-investorov-302745301.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/quaker-houghton-announces-first-quarter-2026-earnings-and-investor-call-302745139.html": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/msdviteri_i-just-raised-1m-for-the-round-sike-activity-7450271761192927232-nrsg": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://businessnewsthisweek.com/business/cohoma-coffee-raises-inr-5-crore-in-seed-round-led-by-inflection-point-ventures-and-swishin-vc/": {
+    "valid": true,
+    "company": "Cohoma Coffee",
+    "amount_str": "",
+    "website": "https://cohomacoffee.com",
+    "linkedin_url": "https://linkedin.com/company/cohomacoffee",
+    "founder_name": "Vinay Bansal",
+    "founder_linkedin_url": "",
+    "contact_email": "support@cohomacoffee.com",
+    "twitter_url": ""
+  },
+  "https://www.aol.com/news/long-beach-startup-says-patch-100000667.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://s.yimg.com/oa/consent.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/outcraftai_we-just-raised-2m-pre-seed-from-practica-activity-7450425651754364928-11_x": {
+    "valid": false
+  },
+  "https://www.defensedaily.com/autonomous-maritime-vessel-developer-ulysses-announces-46-million-in-funding/unmanned-systems/": {
+    "valid": true,
+    "company": "Autonomous Maritime Vessel Developer Ulysses",
+    "amount_str": "$46 M",
+    "website": "https://www.defensedaily.com",
+    "linkedin_url": "https://linkedin.com/company/defensedaily",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "clientservices@accessintel.com",
+    "twitter_url": "https://x.com/DefenseDaily"
+  },
+  "https://betakit.com/sbquantum-nabs-4-million-usd-new-ceo-as-it-preps-to-bring-quantum-sensors-to-the-us/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/04/16/youve-heard-of-hybrid-cars-now-meet-a-hybrid-cement-plant/": {
+    "valid": false
+  },
+  "https://fortune.com/2026/04/16/canva-ai-agentic-design-suite-coo-cliff-obrecht/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cookielaw.org/consent/906dc33b-1fc3-4b2c-a324-8bc0b7db9050/OtAutoBlock.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thenextweb.com/news/solidroad-25-million-series-a-ai-customer-support-qa": {
+    "valid": true,
+    "company": "Solidroad",
+    "amount_str": "$25M",
+    "website": "https://app.solidroad.com",
+    "linkedin_url": "https://linkedin.com/company/solidroad",
+    "founder_name": "employees suggests the",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://insideunmannedsystems.com/danish-startup-sapient-perception-raises-e2m-for-wide-area-uav-sensor-platform/": {
+    "valid": false
+  },
+  "https://siliconprairienews.com/2026/04/a-lighthouse-in-nebraska-how-lincoln-based-nelnet-helped-supercharge-the-local-startup-ecosystem/": {
+    "valid": false
+  },
+  "https://cryptorank.io/news/feed/0b722-gizmo-ai-learning-app-funding": {
+    "valid": false
+  },
+  "https://cryptorank.io/news/feed/6958d-antioch-physical-ai-simulation-funding": {
+    "valid": true,
+    "company": "Physical AI Simulation Startup Antioch",
+    "amount_str": "$8.5M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Adrian Macneil",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bwdisrupt.com/article/gobblecube-raises-15-mn-in-series-a-from-susquehanna-vc-existing-investors-602551": {
+    "valid": false
+  },
+  "https://entarabi.com/en/2026/04/omantel-innovation-labs-selects-8-startups-for-omantel-accelerator/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://news.wpcarey.asu.edu/20260416-student-entrepreneur-turns-bold-ideas-real-world-ventures": {
+    "valid": false
+  },
+  "https://www.genengnews.com/topics/omics/proteins-1-launches-to-develop-single-molecule-protein-amplification-tech-for-diagnostics": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/birmingham/news/2026/04/16/innovate-alabama-launches-15-million-fund.html": {
+    "valid": true,
+    "company": "Alabama",
+    "amount_str": "$15M",
+    "website": "https://www.alabama.gov",
+    "linkedin_url": "https://linkedin.com/company/state-of-alabama",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.citybiz.co/article/833531/worki-raises-2-75-million-to-build-ai-infrastructure-layer-for-healthcare-workforce-operations/": {
+    "valid": true,
+    "company": "Worki",
+    "amount_str": "$2.75 M",
+    "website": "https://www.worki.us",
+    "linkedin_url": "https://linkedin.com/company/worki-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://retailtechinnovationhub.com/home/2026/4/15/the-fresh-market-gets-digital-as-it-revamps-loyalty-programme-and-overhauls-mobile-app": {
+    "valid": false
+  },
+  "https://x.com/IdeaFireConsult/status/2044191110415970720": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/Chirp-Regular.80fda27a.woff2",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://ukbaa.org.uk/blog/2026/04/16/salaree-secures-pre-seed-funding-to-ensure-flexible-workers-are-paid-quickly-transparently-and-accurately/": {
+    "valid": true,
+    "company": "Salaree",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/salaree",
+    "founder_name": "need help supporting your",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/anthropic-spotify-backer-accel-closes-5b-fund-to-scale-late-stage-ai-investments/": {
+    "valid": true,
+    "company": "Anthropic, Spotify backer Accel",
+    "amount_str": "$5B",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://ukbaa.org.uk/blog/2026/04/16/numonic-labs-secures-pre-seed-funding-to-build-the-compliance-backbone-for-ai-generated-content/": {
+    "valid": true,
+    "company": "Numonic Labs",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "need help supporting your",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://vctavern.com/youware-raises-50-million-in-pre-seed-funding-to-accelerate-ai-powered-software-creation/": {
+    "valid": true,
+    "company": "GitLaw",
+    "amount_str": "$3 m",
+    "website": "https://git.law",
+    "linkedin_url": "https://linkedin.com/company/gitlaw",
+    "founder_name": "executive officer Leon Ming",
+    "founder_linkedin_url": "",
+    "contact_email": "u003esupport@git.law",
+    "twitter_url": ""
+  },
+  "https://www.startuplist.africa/startups/splendapp/fundings": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "MEMBERS\n\nMO\n\nMohamed Shahin",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.genengnews.com/topics/omics/proteins-1-launches-to-develop-single-molecule-protein-amplification-tech-for-diagnostics/": {
+    "valid": false
+  },
+  "https://www.instagram.com/reel/DXM3AwUExfC/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.truedata.in/blog/seed-money-in-business-explained": {
+    "valid": false
   }
 }
