@@ -36907,5 +36907,402 @@
     "founder_linkedin_url": "",
     "contact_email": "55017-featured-75x75@1.5x.jpeg",
     "twitter_url": "https://x.com/DisruptAfrica"
+  },
+  "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/": {
+    "valid": true,
+    "company": "InsightFinder",
+    "amount_str": "$15M",
+    "website": "https://insightfinder.com",
+    "linkedin_url": "https://linkedin.com/company/insightfinder-inc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/": {
+    "valid": true,
+    "company": "Meta",
+    "amount_str": "",
+    "website": "https://www.meta.com/blog/update-meta-quest-pricing",
+    "linkedin_url": "https://linkedin.com/company/meta",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://venturebeat.com/technology/anthropic-releases-claude-opus-4-7-narrowly-retaking-lead-for-most-powerful-generally-available-llm": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/venture/customer-intelligence-ai-getwhys-raises-more-seed-boutros/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/16/et-capital-launches-cambridge-venture-index-fund-2-to-broaden-access-to-deeptech-investing/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/16/antioch-prepares-accelerate-simulated-testing-autonomous-robots-raising-8-5m/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/16/developer-tooling-startup-expo-nabs-45m-investment/": {
+    "valid": true,
+    "company": "Developer tooling startup Expo",
+    "amount_str": "$45M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/04/16/solidroad-lands-25m-bring-ai-customer-support-interactions/": {
+    "valid": true,
+    "company": "Solidroad",
+    "amount_str": "$25M",
+    "website": "https://www.solidroad.com",
+    "linkedin_url": "https://linkedin.com/company/solidroad",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/mark-hughes-a36915a7",
+    "contact_email": "",
+    "twitter_url": "https://x.com/getsolidroad"
+  },
+  "https://www.prnewswire.com/news-releases/region-navarra-und-hithium-unterzeichnen-investitionsvereinbarung-fur-batteriefabrik-in-einer-zeremonie-mit-regionalprasidentin-sanchez-302745116.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/zum-raises-100-million-from-tpg-to-accelerate-zums-connected-mobility-experience-cmx-and-for-continued-growth-and-expansion-302744410.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/ahoy-surpasses-100m-in-revenue-engages-tier1-investment-banks-to-accelerate-global-rollout-of-sovereign-realworld-ai-302745113.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/sigenergy-wurde-mit-starker-unterstutzung-von-weltweit-fuhrenden-investoren-erfolgreich-an-der-hkex-notiert-302745112.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/navn-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-navan-inc-securities-lawsuit-302744288.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-reminder-berger-montague-notifies-vital-farms-inc-nasdaq-vitl-investors-of-a-class-action-lawsuit-and-deadline-302742955.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/lu-investors-have-opportunity-to-lead-lufax-holding-ltd-securities-fraud-lawsuit-first-filed-by-the-firm-302744281.html": {
+    "valid": false
+  },
+  "https://www.techinafrica.com/zsystems-raises-1-65-million-to-bring-moroccos-40-billion-traditional-retail-sector-online/": {
+    "valid": true,
+    "company": "ZSystems",
+    "amount_str": "$1.65 M",
+    "website": "https://www.z.systems",
+    "linkedin_url": "https://linkedin.com/company/zsystems-pvt-ltd",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@z.system",
+    "twitter_url": ""
+  },
+  "https://fortune.com/2026/04/16/exclusive-eigen-seed-round-benchmark-capital-ben-silbermann-mutual-friend/": {
+    "valid": true,
+    "company": "Eigen",
+    "amount_str": "",
+    "website": "https://libeigen.gitlab.io",
+    "linkedin_url": "https://linkedin.com/company/eigen",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://news.bettingstartups.com/p/pumpcade-courts-5m-after-pre-seed-round": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "backed by the",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.geekwire.com/2026/geekwire-awards-from-ai-safety-to-robotic-ultrasounds-meet-the-startup-of-the-year-finalists/": {
+    "valid": false
+  },
+  "https://www.mlive.com/news/ann-arbor/2026/04/ann-arbor-san-francisco-quantum-computing-startup-secures-139m-to-make-ai-more-efficient.html?outputType=amp": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thequantuminsider.com/2026/04/16/sbquantum-closes-oversubscribed-4-million-seed-round-announces-new-ceo-and-u-s-expansion/": {
+    "valid": true,
+    "company": "SBQuantum",
+    "amount_str": "$4 M",
+    "website": "https://sbquantum.com",
+    "linkedin_url": "https://linkedin.com/company/sbquantum",
+    "founder_name": "Announces New",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.calcalistech.com/ctechnews/article/hywncf02bx": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://newmedia.calcalist.co.il/ctech/testimonials/index.html",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "judith.hoffmann@calcalist.co.il",
+    "twitter_url": ""
+  },
+  "https://www.theinformation.com/newsletters/ai-agenda/googles-new-model-makes-robotic-brains-slightly-smarter": {
+    "valid": false
+  },
+  "https://www.techbuzz.ai/articles/antioch-raises-8-5m-to-build-cursor-for-physical-ai": {
+    "valid": true,
+    "company": "Antioch",
+    "amount_str": "$8.5M",
+    "website": "https://www.antiochca.gov",
+    "linkedin_url": "https://linkedin.com/company/antioch-robotics",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.tipranks.com/news/company-announcements/mindflair-backs-audrey-ai-in-us1-8m-pre-seed-to-automate-financial-audits": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.sdbj.com/life-sciences/biotech-life-sciences/acurion-eyeing-commercialization-opportunities-with-new-funding/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.cloudflare.com/5xx-error-landing",
+    "linkedin_url": "https://linkedin.com/company/cloudflare",
+    "founder_name": "Rick Fultz stated",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/cloudflare"
+  },
+  "https://indiatechnologynews.in/cognitive-health-startup-ivory-raises-fresh-capital-to-strengthen-deep-tech-offerings/": {
+    "valid": true,
+    "company": "Cognitive Health Startup Ivory",
+    "amount_str": "",
+    "website": "https://www.freepressjournal.in",
+    "linkedin_url": "https://linkedin.com/company/the-free-press-journal-newspaper",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/fpjindia"
+  },
+  "https://www.facebook.com/photo.php?fbid=1409848634504023&set=a.554312790057616&id=100064367005105": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://lasvegassun.com/news/2026/apr/16/sage-haven-launches-ai-moderated-messaging-and-cal/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/04/16/parasail-closes-32m-funding-round-to-scale-low-cost-ai-inference-infrastructure-amid-surging-token-demand/": {
+    "valid": true,
+    "company": "Parasail",
+    "amount_str": "$32 m",
+    "website": "https://www.parasail.network",
+    "linkedin_url": "https://linkedin.com/company/parasail-io",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/04/16/obriy-ai-announces-500k-in-funding-to-scale-multi-agent-platform-for-enterprise-and-government-automation/": {
+    "valid": true,
+    "company": "Obriy AI",
+    "amount_str": "$500K",
+    "website": "https://itukraine.org.ua",
+    "linkedin_url": "https://linkedin.com/company/obriyai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@itukraine.org.ua",
+    "twitter_url": ""
+  },
+  "https://www.irishtimes.com/business/2026/04/16/ai-start-up-audrey-raises-18m-to-grow-audit-platform/": {
+    "valid": true,
+    "company": "AI start-up Audrey",
+    "amount_str": "$1.8m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/resolv-raises-1m-in-pre-seed-funding.html": {
+    "valid": true,
+    "company": "Resolv",
+    "amount_str": "$1M",
+    "website": "https://resolv.xyz",
+    "linkedin_url": "https://linkedin.com/company/resolvcrypto",
+    "founder_name": "and Redefined What",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ResolvLabs"
+  },
+  "https://www.therobotreport.com/antioch-raises-funding-to-bring-software-speed-to-robot-development/": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/eu-startups-menlo-media_copenhagen-based-flare-has-raised-36-million-activity-7450514615945449472-h5bU": {
+    "valid": false
+  },
+  "https://www.business-standard.com/amp/companies/start-ups/golden-ticket-vc-firm-all-in-capital-backs-vasuki-ai-to-relocate-to-us-126041601027_1.html": {
+    "valid": false
+  },
+  "https://www.canadianmetalworking.com/canadianfabricatingandwelding/news/measurement/sonibel-instruments-secures-pre-seed-funding": {
+    "valid": true,
+    "company": "Sonibel Instruments",
+    "amount_str": "",
+    "website": "https://sonibelinstruments.com",
+    "linkedin_url": "https://linkedin.com/company/sonibel-instruments",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "sophia@sonibelinstruments.com",
+    "twitter_url": ""
+  },
+  "https://european-biotechnology.com/latest-news/proteins-1-launches-with-e4-7m-to-make-protein-detection-as-easy-as-pcr/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/worki-raises-2-75m-in-pre-seed-funding.html": {
+    "valid": true,
+    "company": "Worki",
+    "amount_str": "$2.75M",
+    "website": "https://www.worki.us",
+    "linkedin_url": "https://linkedin.com/company/worki-ai",
+    "founder_name": "Led by",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://finance.yahoo.com/sectors/healthcare/articles/worki-raises-2-75-million-130000856.html": {
+    "valid": true,
+    "company": "Worki",
+    "amount_str": "$2.75 M",
+    "website": "https://www.worki.us",
+    "linkedin_url": "https://linkedin.com/company/worki-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.mondaq.com/pressrelease/193686/hunters-hosts-the-durham-university-venture-lab": {
+    "valid": false
+  },
+  "https://x.com/NICMARofficial/status/2044680003422675156": {
+    "valid": false
+  },
+  "https://www.rideapart.com/news/793006/positive-egera-electric-motorcycle-production-soon/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.motor1.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.investegate.co.uk/announcement/rns/mindflair--mfai/new-investment-in-audrey-ai/9522684": {
+    "valid": false
+  },
+  "https://coverager.com/msad-ventures-backs-solvapay/": {
+    "valid": false
+  },
+  "https://indianstartupnews.com/funding/speciality-coffee-roaster-and-machine-maker-cohoma-coffee-raises-rs-5-crore-in-funding-11731546": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.ampproject.org/v0.js",
+    "linkedin_url": "",
+    "founder_name": "Cohoma Coffee",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fintech.global/2026/04/16/capsule-security-exits-stealth-with-7m-seed-round/": {
+    "valid": false
+  },
+  "https://therecursive.com/ai-native-startups-replacing-growth-vc-seed-new-growth/": {
+    "valid": false
+  },
+  "https://www.axios.com/pro/fintech-deals/2026/04/16/balerion-kleiner-perkins-ai-mortgage-origination": {
+    "valid": true,
+    "company": "Balerion",
+    "amount_str": "$6 m",
+    "website": "https://www.balerionspace.com",
+    "linkedin_url": "https://linkedin.com/company/balerion-space",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@balerionspace.com",
+    "twitter_url": ""
+  },
+  "https://autos.yahoo.com/ev-and-future-tech/articles/italian-startup-positive-ll-launch-121500556.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://s.yimg.com/du/benji/benji-2.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.crowdfundinsider.com/2026/04/267958-fintech-vc-ttv-capital-leads-investment-in-hamilton-ai/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://stats.g.doubleclick.net",
+    "linkedin_url": "https://linkedin.com/company/google",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Google"
+  },
+  "https://www.wamda.com/2026/04/aya-closes-7-million-series-a-scale-demand-fashion-model": {
+    "valid": true,
+    "company": "Aya",
+    "amount_str": "$7 m",
+    "website": "https://www.aya-bas2.com",
+    "linkedin_url": "https://linkedin.com/company/ayahealthcare",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/aya_bas2"
+  },
+  "https://www.linkedin.com/posts/startuprise-usa_hyfix-semiconductorcompany-funding-activity-7450470811997560832-wO9f": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://startuprise.io/hyfix-raises-15m-in-seed-funding-led-by-craft-ventures",
+    "linkedin_url": "https://linkedin.com/company/startuprise-europe",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@startuprise.co.uk",
+    "twitter_url": "https://x.com/startuprise_eu"
+  },
+  "https://www.startupgrantsindia.com/state/jharkhand": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/venture/capital-concentrated-ai-global-q1-2026/": {
+    "valid": false
   }
 }
