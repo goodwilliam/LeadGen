@@ -36489,5 +36489,159 @@
     "founder_linkedin_url": "",
     "contact_email": "help@cluely.com",
     "twitter_url": "https://x.com/cluely"
+  },
+  "https://news.crunchbase.com/venture/fintech-compliance-founders-20m-seriesa-spektr/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/16/inside-the-numbers-ten-industries-leading-europes-tech-investment-in-2025/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/16/outcraft-ai-raises-eur2m-to-support-autonomous-sales-and-revenue-agents/": {
+    "valid": true,
+    "company": "Outcraft AI",
+    "amount_str": "\u20ac2M",
+    "website": "https://outcraft.ai",
+    "linkedin_url": "https://linkedin.com/company/OutcraftAI",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "richard@outcraft.ai",
+    "twitter_url": "https://x.com/OutcraftAI"
+  },
+  "https://tech.eu/2026/04/16/audrey-ai-secures-18m-to-develop-ai-platform-for-financial-auditors/": {
+    "valid": true,
+    "company": "Audrey AI",
+    "amount_str": "$1.8M",
+    "website": "https://tryaudrey.ai",
+    "linkedin_url": "https://linkedin.com/company/tryaudrey-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/riken-amplia-la-supercomputacion-cuantica-en-japon-con-la-actualizacion-del-sistema-quantinuum-302744522.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.cision.com/about/accessibility",
+    "linkedin_url": "https://linkedin.com/company/cision",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@cision.com",
+    "twitter_url": "https://x.com/cision"
+  },
+  "https://thenextweb.com/news/sygaldry-139m-quantum-accelerated-ai-servers-rigetti": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://calendly.com/assets/external/widget.css",
+    "linkedin_url": "",
+    "founder_name": "Michael Keiser",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/proteins-1-4-7m-pre-seed-pcr-for-proteins/": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/04/londons-qalzy-secures-pre-seed-backing-after-raising-e204k-in-kickstarter-pre-orders-for-its-ai-nutrition-scale/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/gizmo-22m-series-a-ai-learning-app/": {
+    "valid": false
+  },
+  "https://www.kucoin.com/news/flash/chain-based-lending-platform-votre-completes-3-75m-seed-round": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://assets.staticimg.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/audiumcp/status/2044653890033852536": {
+    "valid": true,
+    "company": "Traza",
+    "amount_str": "$2.1M",
+    "website": "https://trazafurniture.com",
+    "linkedin_url": "https://linkedin.com/company/trytraza",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DXJQxQillmk/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://app.dealroom.co/news/feed/infrahive-secures-silicon-valley-backed-pre-seed-funding-with-tie-rajasthan-mentorship": {
+    "valid": true,
+    "company": "Infrahive",
+    "amount_str": "",
+    "website": "https://www.infrahive.io",
+    "linkedin_url": "https://linkedin.com/company/infrahive",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startuplist.africa/startups/tays/fundings": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "MEMBERS\n\nSH\n\nSherif Bacheet",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/04/16/vilnius-based-outcraft-ai-raises-e2-million-to-build-an-autonomous-revenue-engine/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/vtt-originated-startup-proteins1-launches-to-bring-pcr-like-amplification-and-simplicity-to-omics-302744348.html": {
+    "valid": false
+  },
+  "https://techfundingnews.com/outcraft-ai-2m-pre-seed-autonomous-revenue-agents/": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/entertainment/gaming/seattle-startup-sound-games-raises-6-5m-to-rethink-how-premium-games-are-sold/ar-AA1VfZad?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": true,
+    "company": "Seattle startup Sound Games",
+    "amount_str": "$6.5M",
+    "website": "https://www.geekwire.com",
+    "linkedin_url": "https://linkedin.com/company/geekwire",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.desmoinesregister.com/press-release/story/60629/protocol-raises-us1m-to-make-preventive-care-accessible-to-everyone-in-asia/": {
+    "valid": false
+  },
+  "https://www.binance.com/en/square/post/313018101856625": {
+    "valid": false
+  },
+  "https://www.panewslab.com/en/articles/019d946c-53de-74df-bdf4-d6d6343ba679": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cloud.umami.is/script.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
