@@ -37548,5 +37548,319 @@
   },
   "https://www.truedata.in/blog/seed-money-in-business-explained": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/16/resolve-ai-raises-40m-1-5b-valuation-optimize-production-environments/": {
+    "valid": true,
+    "company": "Resolve AI",
+    "amount_str": "$40M",
+    "website": "https://resolve.ai/product",
+    "linkedin_url": "https://linkedin.com/company/resolveai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/resolveai"
+  },
+  "https://siliconangle.com/2026/04/16/slash-raises-100m-1-4b-valuation-expand-ai-powered-banking-platform-online-businesses/": {
+    "valid": true,
+    "company": "Slash",
+    "amount_str": "$100M",
+    "website": "https://www.slash.com",
+    "linkedin_url": "https://linkedin.com/company/joinslash",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@slash.com",
+    "twitter_url": "https://x.com/slashapp"
+  },
+  "https://www.prnewswire.com/news-releases/pins-investors-have-opportunity-to-lead-pinterest-inc-securities-fraud-lawsuit-302745398.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/factory-leads-4-7-million-cultural-capital-investment-in-kalshi-alongside-athletes-entertainers-executives-and-family-offices-302737480.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/smci-investors-have-opportunity-to-lead-super-micro-computer-inc-securities-fraud-lawsuit-302745305.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/financeasia-names-sm-companies-among-asias-best-companies-for-2026-302745390.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/corcept-deadline-cort-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-corcept-therapeutics-incorporated-securities-fraud-lawsuit-302745332.html": {
+    "valid": false
+  },
+  "https://www.houseofhockey.net/nhl/news/opening-weekend-schedule-leaks-could-tilt-four-east-playoff-matchups": {
+    "valid": false
+  },
+  "https://spacenews.com/indias-takeme2space-sets-sights-on-50-kilowatt-data-center/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://i0.wp.com",
+    "linkedin_url": "",
+    "founder_name": "Ronak Kumar Samantray told",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.binance.com/en/square/post/313285792958321": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://mezha.net/eng/bukvy/upscale_ai_is/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.tiktok.com/@mezha_net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DXNNYgNkVpW/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://entarabi.com/en/2026/04/saudi-fashion-startup-aya-has-closed-a-6-93-million-series-a-round/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://finance.yahoo.com/sectors/technology/articles/exclusive-eigen-raises-seed-round-160000479.html": {
+    "valid": true,
+    "company": "Eigen",
+    "amount_str": "",
+    "website": "https://libeigen.gitlab.io",
+    "linkedin_url": "https://linkedin.com/company/eigen",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thenextweb.com/news/x-energy-ipo-800m-amazon-nuclear-small-modular-reactor": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://calendly.com/assets/external/widget.css",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://medial.app/news/pentathlon-ventures-leads-rs-17-cr-seed-round-in-industrial-ai-startup-intellithink-9e0083a2c1baf": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://entrackr.com/snippets/pentathlon-ventures-leads-rs-17-cr-seed-round-in-industrial-ai-startup-intellithink-11730716",
+    "linkedin_url": "https://linkedin.com/company/entrackr",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/entrackr"
+  },
+  "https://www.bizjournals.com/austin/inno/newsletter/45207830?skip=0": {
+    "valid": true,
+    "company": "Austin Inno - Codie Sanchez's startup",
+    "amount_str": "",
+    "website": "https://www.bizjournals.com",
+    "linkedin_url": "",
+    "founder_name": "BizScout founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.aol.com/finance/exclusive-eigen-raises-seed-round-160000518.html": {
+    "valid": true,
+    "company": "Eigen",
+    "amount_str": "",
+    "website": "https://libeigen.gitlab.io",
+    "linkedin_url": "https://linkedin.com/company/eigen",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.genomeweb.com/people-news/bruker-falko-busse/652106": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://crain-platform-genomeweb-prod.s3.amazonaws.com/app-icons/favicon.ico",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://hrtechfeed.com/worki-raises-2-75-million-in-pre-seed-funding/": {
+    "valid": true,
+    "company": "Worki",
+    "amount_str": "$2.75 M",
+    "website": "https://www.worki.us",
+    "linkedin_url": "https://linkedin.com/company/worki-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.youinvest.co.uk/news/articles/trading-updates-ajax-exclusive-talks-china-buyer-eureka": {
+    "valid": false
+  },
+  "https://www.theglobeandmail.com/investing/markets/markets-news/TheNewswire.com/1355468/us1m-backs-singapore-s-push-for-proactive-healthcare/": {
+    "valid": false
+  },
+  "https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-16-2026/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.alleywatch.com.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/worki-raises-2-75-million-to-build-the-ai-workforce-unifying-infrastructure-layer-for-healthcare-workforce-operations-302744105.html": {
+    "valid": true,
+    "company": "Worki",
+    "amount_str": "$2.75 M",
+    "website": "https://www.worki.us",
+    "linkedin_url": "https://linkedin.com/company/worki-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://hitconsultant.net/2026/04/16/worki-2-75m-pre-seed-healthcare-ai-workforce-infrastructure/": {
+    "valid": true,
+    "company": "Worki",
+    "amount_str": "$2.75M",
+    "website": "https://www.worki.us",
+    "linkedin_url": "https://linkedin.com/company/worki-ai",
+    "founder_name": "The founding team includes",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://inforcapital.com/news/audrey-ai-secures-18m-to-develop-ai-platform-for-financial-auditors/": {
+    "valid": true,
+    "company": "Audrey AI",
+    "amount_str": "$1.8M",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/tryaudrey-ai",
+    "founder_name": "of Calypso",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/katedoerksen_some-news-sage-haven-has-raised-3m-in-pre-seed-activity-7450566577864855553-wCuL": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "presidential candidate and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.threads.com/@siliconrepublic/post/DXMlevTiUY3/dublin-based-start-up-audrey-ai-has-announced-the-closure-of-a-18m-pre-seed-fund": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/04/london-based-startup-lua-raises-e4-9-million-to-scale-its-human-agent-collaboration-platform/": {
+    "valid": false
+  },
+  "https://betakit.com/credo-paid-92-million-usd-in-cash-to-acquire-hyperlume-sec-filing-reveals/": {
+    "valid": false
+  },
+  "https://www.startupmag.co.uk/funding/all-things-2026-seed-funding/": {
+    "valid": false
+  },
+  "https://entrackr.com/snippets/cohoma-coffee-raises-rs-5-cr-seed-round-led-by-ipv-11730918": {
+    "valid": true,
+    "company": "Cohoma Coffee",
+    "amount_str": "",
+    "website": "https://cohomacoffee.com",
+    "linkedin_url": "https://linkedin.com/company/cohomacoffee",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@cohomacoffee.com",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/washington/news/2026/04/16/fortreum-kovrai-acquisition-cybersecurity.html": {
+    "valid": false
+  },
+  "https://www.axios.com/pro/all-deals/2026/04/16/pro-rata-premium-first-look": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "citing regulatory uncertainty under",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.datacenterdynamics.com/en/news/ai-cloud-startup-parasail-raises-32m-in-series-a-funding-round/": {
+    "valid": true,
+    "company": "Parasail",
+    "amount_str": "$32m",
+    "website": "https://www.parasail.network",
+    "linkedin_url": "https://linkedin.com/company/parasail-io",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://en.sharikatmubasher.com/news/article/21545140/aya-closes-sar-26-mn-round-led-by-raed-ventures-to-fuel-growth?companyNews=0": {
+    "valid": true,
+    "company": "Aya",
+    "amount_str": "",
+    "website": "https://www.aya-bas2.com",
+    "linkedin_url": "https://linkedin.com/company/ayahealthcare",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/aya-a-3b3632184",
+    "contact_email": "",
+    "twitter_url": "https://x.com/aya_bas2"
+  },
+  "https://iafrica.com/nigerian-energy-startup-powerlabs-raises-pre-seed-funding-to-scale-ai-powered-grid-management-platform/": {
+    "valid": true,
+    "company": "Nigerian Energy Startup PowerLabs",
+    "amount_str": "",
+    "website": "https://disruptafrica.com",
+    "linkedin_url": "https://linkedin.com/company/disrupt-africa",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "55017-featured-75x75@1.5x.jpeg",
+    "twitter_url": "https://x.com/DisruptAfrica"
   }
 }
