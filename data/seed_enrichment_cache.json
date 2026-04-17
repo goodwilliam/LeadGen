@@ -38268,5 +38268,347 @@
   },
   "https://techfundingnews.com/solidroad-25m-series-a-ai-customer-support-qa/": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/04/17/loop-raises-95m-to-build-supply-chain-ai-that-predicts-disruptions/": {
+    "valid": true,
+    "company": "Loop",
+    "amount_str": "$95M",
+    "website": "https://loopoffcial.com",
+    "linkedin_url": "https://linkedin.com/company/chooseloop",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "https://linkedin.com/in/shaosu",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://venturebeat.com/technology/anthropic-just-launched-claude-design-an-ai-tool-that-turns-prompts-into-prototypes-and-challenges-figma": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/17/stegra-bags-1-4b-rescue-funding-package-openai-to-move-to-first-permanent-london-office-and-your-guide-to-next-week-s-tech-eu-summit-london/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/yorba-linda-dental-practice-majestic-smile-studio-invests-in-advanced-cbct-3d-imaging-technology-302745932.html": {
+    "valid": false
+  },
+  "https://www.tipranks.com/news/private-companies/actionai-secures-10-million-seed-round-to-tackle-enterprise-ai-reliability-gap": {
+    "valid": true,
+    "company": "ActionAI",
+    "amount_str": "$10 M",
+    "website": "https://www.actionai.co",
+    "linkedin_url": "https://linkedin.com/company/getactionai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/GetActionAI"
+  },
+  "https://medwatch.com/News/Pharma___Biotech/article19212510.ece": {
+    "valid": false
+  },
+  "https://www.sci-tech-today.com/news/mediwhale-raises-%E2%82%A920b/": {
+    "valid": true,
+    "company": "Mediwhale",
+    "amount_str": "",
+    "website": "https://mediwhale.com",
+    "linkedin_url": "https://linkedin.com/company/14538013",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Mediwhale"
+  },
+  "https://theaiinsider.tech/2026/04/17/upscale-ai-targets-2b-valuation-in-latest-funding-talks-despite-no-product-launch/": {
+    "valid": true,
+    "company": "Factory",
+    "amount_str": "$150 m",
+    "website": "https://www.custommattressfactory.com",
+    "linkedin_url": "https://linkedin.com/company/factory-hq",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/eveningsnooze"
+  },
+  "https://www.bizjournals.com/pacific/news/2026/04/17/hawaii-tech-ecosystem-ai-shift.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://som.yale.edu/story/2026/who-owns-your-ai-memory": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://use.typekit.net",
+    "linkedin_url": "",
+    "founder_name": "For Fellow",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/AdobeFonts"
+  },
+  "https://www.thehindubusinessline.com/companies/plazza-in-talks-to-raise-15-million-to-scale-quick-medicine-delivery-play/article70874205.ece": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://bl.thgim.com",
+    "linkedin_url": "https://linkedin.com/company/business-line-aka-the-hindu-business-line",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/businessline"
+  },
+  "https://www.eu-startups.com/2026/04/valencia-based-gurusup-raises-e1-3-million-seed-round-for-ai-customer-service-platform/": {
+    "valid": false
+  },
+  "https://www.tipranks.com/news/tiger-global-backed-upscale-ai-targets-200m-in-fresh-funding-at-a-2b-valuation": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.digitimes.com/news/a20260417VL204/machine-learning-startup-efficiency-performance-silicon.html": {
+    "valid": false
+  },
+  "https://www.techinasia.com/news/earth-vc-joins-quantum-ai-startups-139m-seed-series-a": {
+    "valid": false
+  },
+  "https://www.techloy.com/week-16s-biggest-startup-funding-rounds-in-africa-and-the-middle-east-led-by-aya-and-capsule-security/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://wublock.substack.com/p/wublockchain-weekly-deutsche-borse": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/04/16/from-the-startup-battlefield-stage-to-the-international-space-station-gecko-materials-built-a-sticky-product/": {
+    "valid": false
+  },
+  "https://dabafinance.com/en/news/south-africa-ai-compute-energy-startup-funding": {
+    "valid": true,
+    "company": "Africa's Refiant",
+    "amount_str": "$5M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.cnbc.com/2026/04/17/nvidia-rivals-chip-market-funding-ai-asml-euclyd.html": {
+    "valid": false
+  },
+  "https://spacedaily.com/sd-n-the-55-million-bet-that-data-centers-belong-in-orbit-not-bunkers/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://spacenews.com/indias-takeme2space-sets-sights-on-50-kilowatt-data-center",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/joyful-health-raises-17m-series-a": {
+    "valid": false
+  },
+  "https://www.varindia.com/news/wipro-to-take-over-select-alpha-net-customer-contracts-for-70-8-mn": {
+    "valid": false
+  },
+  "https://www.cxodigitalpulse.com/solidroad-raises-25-million-to-power-quality-assurance-for-the-next-generation-of-ai-driven-customer-support/": {
+    "valid": true,
+    "company": "Solidroad",
+    "amount_str": "$25 M",
+    "website": "https://app.solidroad.com",
+    "linkedin_url": "https://linkedin.com/company/solidroad",
+    "founder_name": "said Solidroad",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/otel-ai-raises-2-8-million-in-funding": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/boston/news/2026/04/17/edison-awards-boston-startups.html": {
+    "valid": true,
+    "company": "Nine Boston companies",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fintech.global/2026/04/17/fintech-funding-continues-strong-run-with-over-800m-raised-this-week/": {
+    "valid": true,
+    "company": "UK digital motor InsurTech Zego",
+    "amount_str": "$28m",
+    "website": "https://fintech.global",
+    "linkedin_url": "https://linkedin.com/company/fintech-global",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Fintech_Global"
+  },
+  "https://theaiinsider.tech/2026/04/17/outcraft-ai-raises-e2m-to-scale-autonomous-agents-for-revenue-generation/": {
+    "valid": true,
+    "company": "Factory",
+    "amount_str": "$150 m",
+    "website": "https://www.custommattressfactory.com",
+    "linkedin_url": "https://linkedin.com/company/factory-hq",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/eveningsnooze"
+  },
+  "https://www.reddit.com/r/startups/comments/1so1shv/reality_check_on_offer_at_preseed_company_i_will/": {
+    "valid": false
+  },
+  "https://entrepreneur.economictimes.indiatimes.com/amp/news/funding/fifth-sense-raises-6-3-cr-pre-seed-funding-led-by-otp-ventures/130324138": {
+    "valid": true,
+    "company": "FIFTH SENSE",
+    "amount_str": "",
+    "website": "https://fifthsenselingerie.com",
+    "linkedin_url": "https://linkedin.com/company/fifth-sense-lingerie",
+    "founder_name": "said Kunal Suri",
+    "founder_linkedin_url": "",
+    "contact_email": "info@fifthsenselingerie.com",
+    "twitter_url": ""
+  },
+  "https://entarabi.com/en/2026/04/qia-participates-in-a-405-million-series-c-round-to-support-digital-banking-platform-plata/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techloy.com/asias-biggest-startup-funding-in-week-16-led-by-pangbot-ballas-inc-and-gobblecube/": {
+    "valid": true,
+    "company": "Japan-based agritech startup Culta",
+    "amount_str": "$4.5 m",
+    "website": "https://beamstart.com",
+    "linkedin_url": "https://linkedin.com/company/beamstart",
+    "founder_name": "with Kaya",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@beamstart.com",
+    "twitter_url": ""
+  },
+  "https://www.genomeweb.com/sequencing/polish-population-genomics-project-wins-pln-248m-sequence-7k-individuals": {
+    "valid": false
+  },
+  "https://www.indianstartuptimes.com/investment/fifth-sense-raises-%E2%82%B96-3-crore-to-build-indias-next-gen-fragrance-brand/": {
+    "valid": false
+  },
+  "https://x.com/audiumcp/status/2044832126281900109": {
+    "valid": true,
+    "company": "Resolv",
+    "amount_str": "$1M",
+    "website": "https://www.resolv.finance",
+    "linkedin_url": "https://linkedin.com/company/resolvcrypto",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/resolvfinance"
+  },
+  "https://inforcapital.com/news/worki-275-million-pre-seed-raised-to-build-ai-workforce-infrastructure-for-healthcare/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/ethermed-raises-8-5m-in-series-a-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/stendr-raises-5-4m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.asiabusinessoutlook.com/news/ortcloud-raises-17m-to-power-ai-agent-infrastructure-nwid-11749.html": {
+    "valid": true,
+    "company": "OrtCloud",
+    "amount_str": "$1.7M",
+    "website": "https://www.ortcloud.space",
+    "linkedin_url": "https://linkedin.com/company/ortcloud",
+    "founder_name": "Chafic Nassif",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.buffalo.edu/news/news-releases.host.html/content/shared/mgt/news/model-rocketry-company-wins-ub-entrepreneurship-competition.detail.html": {
+    "valid": false
+  },
+  "https://www.beckershospitalreview.com/healthcare-information-technology/innovation/georgia-health-system-backs-ai-workforce-startup-in-2-75m-investment/": {
+    "valid": false
+  },
+  "https://www.bioxconomy.com/investment/beeline-launches-with-five-bms-therapies-and-300m-bain-capital-funding": {
+    "valid": false
+  },
+  "https://fortune.com/2026/04/16/anti-ai-sentiment-is-rising-and-its-starting-to-turn-violent/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cookielaw.org/consent/906dc33b-1fc3-4b2c-a324-8bc0b7db9050/OtAutoBlock.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.straitstimes.com/singapore/parenting-education/sutd-students-and-alumni-to-receive-35-million-boost-for-startup-creation": {
+    "valid": false
+  },
+  "https://www.financialexpress.com/business/news/number-of-recognised-startups-cross-2-23-lakh/4210579/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thecondia.com/lua-seed-funding-norrsken22-ai-agents/": {
+    "valid": true,
+    "company": "Lua",
+    "amount_str": "$5.8 m",
+    "website": "https://www.lua.org",
+    "linkedin_url": "https://linkedin.com/company/lua-healthcare",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupmag.co.uk/funding/urfuture-2026-seed-funding/": {
+    "valid": false
+  },
+  "https://intellectia.ai/news/crypto/lua-startup-raises-58-million-seed-funding-to-expand-ai-agent-platform": {
+    "valid": false
+  },
+  "https://www.trendwatching.com/innovations/one-breath-a-day-climatic-launches-an-inhaled-supplement-for-lung-care": {
+    "valid": true,
+    "company": "Climatic",
+    "amount_str": "",
+    "website": "https://www.climatichealth.com",
+    "linkedin_url": "https://linkedin.com/company/climatichealth",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupmag.co.uk/funding/topstylista-2026-pre-seed-funding/": {
+    "valid": false
   }
 }
