@@ -37963,5 +37963,310 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://news.crunchbase.com/venture/record-funding-autonomous-vehicles-q1-2026/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/cort-shareholder-alert-hagens-berman-alerts-corcept-therapeutics-cort--investors-to-securities-class-action-following-fda-rejection-and-federal-court-patent-loss-302745451.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/lake-upcoming-deadline-faruqi--faruqi-llp-reminds-lakeland-industries-lake-investors-of-securities-class-action-deadline-on-april-24-2026-302745387.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/oshaughnessy-ventures-backs-editor-building-a-home-for-spanish-language-writers-302745433.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/monday-deadline-berger-montague-advises-nuscale-power-corporation-nyse-smr-investors-to-inquire-about-a-securities-fraud-class-action-by-april-20-2026-302742997.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/zyxiq-upcoming-deadline-faruqi--faruqi-llp-reminds-zynex-zyxiq-investors-of-securities-class-action-deadline-on-april-21-2026-302745382.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/bsx-upcoming-deadline-faruqi--faruqi-llp-reminds-boston-scientific-bsx-investors-of-securities-class-action-deadline-on-may-4-2026-302745346.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/chow-upcoming-deadline-faruqi--faruqi-llp-reminds-chowchow-cloud-chow-investors-of-securities-class-action-deadline-on-may-12-2026-302745326.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/htgc-upcoming-deadline-faruqi--faruqi-llp-reminds-hercules-capital-htgc-investors-of-securities-class-action-deadline-on-may-19-2026-302745320.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/uhg-upcoming-deadline-faruqi--faruqi-llp-reminds-united-homes-group-uhg-investors-of-securities-class-action-deadline-on-june-9-2026-302745236.html": {
+    "valid": false
+  },
+  "https://vctavern.com/upwardli-raises-2-million-seed-round-to-expand-credit-building-tools-for-underserved-consumers/": {
+    "valid": true,
+    "company": "Upwardli",
+    "amount_str": "$2 M",
+    "website": "https://www.upwardli.com",
+    "linkedin_url": "https://linkedin.com/company/upwardli",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "sales@upwardli.com",
+    "twitter_url": "https://x.com/teamupwardli"
+  },
+  "https://techfundingnews.com/slash-financial-100m-series-c-unicorn/": {
+    "valid": true,
+    "company": "YC-backed Slash",
+    "amount_str": "$100M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.fintechfutures.com/venture-capital-funding/icymi-fintech-funding-round-up-bachatt-wamo-round-and-more": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.cloudflare.com/5xx-error-landing",
+    "linkedin_url": "https://linkedin.com/company/cloudflare",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/cloudflare"
+  },
+  "https://www.businesspost.ie/tech/meet-the-startups-selected-for-eis-silicon-valley-accelerator-programme/": {
+    "valid": false
+  },
+  "https://x.com/mikeni/status/2044806025459400892": {
+    "valid": false
+  },
+  "https://therecursive.com/cee-startup-tech-weekly-two-polish-startups-raise-fresh-funding/": {
+    "valid": false
+  },
+  "https://www.crowdfundinsider.com/tag/solvapay/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.crowdfundinsider.com/2026/04/273771-swedish-paytech-solvapay-confirms-2-8m-pre-seed/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://stats.g.doubleclick.net",
+    "linkedin_url": "https://linkedin.com/company/google",
+    "founder_name": "said SolvaPay",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Google"
+  },
+  "https://global.morningstar.com/en-gb/news/alliance-news/1776375985170531600/trading-updates-ajax-in-exclusive-talks-with-china-buyer-for-eureka": {
+    "valid": false
+  },
+  "https://techfundingnews.com/uks-sovereign-ai-fund-names-7-startups-its-supporting-in-its-first-batch-here-are-the-details/": {
+    "valid": false
+  },
+  "https://fintech.global/2026/04/17/solvapay-raises-e2-4m-to-build-payments-infrastructure-for-ai-agents/": {
+    "valid": false
+  },
+  "https://m.economictimes.com/tech/funding/d2c-fragrance-brand-fifth-sense-raises-rs-6-3-crore-in-round-led-by-otp-ventures/articleshow/130326884.cms": {
+    "valid": true,
+    "company": "D2C fragrance brand Fifth Sense",
+    "amount_str": "",
+    "website": "https://economictimes.indiatimes.com",
+    "linkedin_url": "https://linkedin.com/company/economictimes",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/economictimes"
+  },
+  "https://x.com/VaughanTA/status/2044880842233876991": {
+    "valid": false
+  },
+  "https://ibsintelligence.com/ibsi-news/pratim-das-to-lead-wealthais-tech-ambitions-in-cto-role/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.cedaribsifintechlab.com",
+    "linkedin_url": "https://linkedin.com/company/cedarhillcapital",
+    "founder_name": "tech ambitions in",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Cedarhillvc"
+  },
+  "https://www.kucoin.com/news/flash/pumpcade-completes-5m-seed-round-with-jump-crypto-and-foundation-capital": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://assets.staticimg.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/lua-raises-5-8m-in-funding.html": {
+    "valid": true,
+    "company": "Lua",
+    "amount_str": "$5.8M",
+    "website": "https://www.lua.org",
+    "linkedin_url": "https://linkedin.com/company/lua-healthcare",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/sennos-raises-20m-in-funding.html": {
+    "valid": false
+  },
+  "https://www.facebook.com/pulse2news/posts/worki-275-million-pre-seed-raised-to-build-ai-workforce-infrastructure-for-healt/1636503148476708/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://entrepreneurs-institute.com/prism-layer-emerges-from-stealth-with-pre-seed-funding-to-advance-ai-driven-risk-management/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/pulse2news/status/2044854898593042792": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/Chirp-Regular.80fda27a.woff2",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.latimes.com/business/story/2026-04-17/la-fi-california-business-relocations": {
+    "valid": false
+  },
+  "https://fortune.com/2026/04/17/textql-blackstone/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cookielaw.org/consent/906dc33b-1fc3-4b2c-a324-8bc0b7db9050/OtAutoBlock.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupdaily.net/topic/funding/cheque-in-7-anz-startups-raised-71-8-million-in-mid-april/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://growth-summit.com.au",
+    "linkedin_url": "",
+    "founder_name": "Edward Alder",
+    "founder_linkedin_url": "",
+    "contact_email": "events@smartcomedia.com.au",
+    "twitter_url": ""
+  },
+  "https://www.straitstimes.com/singapore/parenting-education/sutd-students-and-alumni-to-receive-35-million-boost-for-startup-creation?ref=latest-headlines": {
+    "valid": false
+  },
+  "https://www.facebook.com/RealtyNXT/posts/newsupdate-primepoint-is-redefining-construction-technology-with-its-10-million-/1416530887158267/": {
+    "valid": true,
+    "company": "Primepoint",
+    "amount_str": "$10 M",
+    "website": "https://www.primepoint.ai",
+    "linkedin_url": "https://linkedin.com/company/primepoint-labs",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/upscale-ai-200m-series-a-ai-data-centre-networking/": {
+    "valid": true,
+    "company": "Tiger Global-backed Upscale AI eyes $200M",
+    "amount_str": "$200M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.moneycontrol.com/news/business/funding/quick-medicine-delivery-firm-plazza-in-talks-to-raise-15-million-from-accel-elevation-nexus-13891666.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://sb.scorecardresearch.com/beacon.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/04/17/antioch-raises-8-5m-in-seed-funding-for-robotics-simulation-platform-development/": {
+    "valid": true,
+    "company": "Antioch",
+    "amount_str": "$8.5M",
+    "website": "https://www.antiochca.gov",
+    "linkedin_url": "https://linkedin.com/company/antioch-robotics",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startup.eu/investments/trustnxt-1-6m-pre-seed-04-2026": {
+    "valid": true,
+    "company": "TrustNXT",
+    "amount_str": "$1.6M",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/trustnxt",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://spaceq.ca/sbquantum-secures-4m-usd-seed-round-names-new-ceo-and-expands-to-the-us/": {
+    "valid": true,
+    "company": "SBQuantum",
+    "amount_str": "$4M",
+    "website": "https://sbquantum.com",
+    "linkedin_url": "https://linkedin.com/company/sbquantum",
+    "founder_name": "names new",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startuphub.ai/ai-news/startup-news/2026/slash-raises-100m-to-disrupt-business-banking": {
+    "valid": true,
+    "company": "Slash",
+    "amount_str": "$100M",
+    "website": "http://www.snakepit.org",
+    "linkedin_url": "https://linkedin.com/company/joinslash",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "webmaster@snakepit.org",
+    "twitter_url": ""
+  },
+  "https://quantumcomputingreport.com/sbquantum-secures-4m-seed-round-and-appoints-new-ceo-to-scale-us-operations/": {
+    "valid": true,
+    "company": "SBQuantum",
+    "amount_str": "$4M",
+    "website": "https://sbquantum.com",
+    "linkedin_url": "https://linkedin.com/company/sbquantum",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/solidroad-25m-series-a-ai-customer-support-qa/": {
+    "valid": false
   }
 }
