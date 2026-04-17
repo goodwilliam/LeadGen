@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T07:19:51Z",
+  "generated_at": "2026-04-17T12:56:28Z",
   "count": 24,
   "jobs": [
     {
@@ -111,7 +111,7 @@
       "companyBatch": "S24",
       "companyOneLiner": "AI agents you can rely on",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/ff410def03c8c58c3adc7db9615becc8164804e3.png",
-      "companyLastActiveAt": "14 days ago",
+      "companyLastActiveAt": "15 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D78058&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29649"
     },
     {
@@ -139,7 +139,7 @@
       "companyBatch": "W24",
       "companyOneLiner": "Supercharge Your Contact Center Operations with AI Phone Agents",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/c0856f230de1a84be083cff84a3298664d32f0a3.png",
-      "companyLastActiveAt": "24 days ago",
+      "companyLastActiveAt": "25 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D88842&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29441"
     },
     {
@@ -213,9 +213,9 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D80903&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29290"
     },
     {
-      "id": 83825,
-      "title": "Founding Product Designer ",
-      "jobType": "fulltime",
+      "id": 89404,
+      "title": "Design Engineering Intern",
+      "jobType": "intern",
       "location": "Main Office - Toronto",
       "roleType": "Web design",
       "companyName": "Tempo",
@@ -223,8 +223,8 @@
       "companyBatch": "S23",
       "companyOneLiner": "Visual Editor for React, powered by AI",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/860f478b7cd2ea33eefb86e90c9c693abef2997f.png",
-      "companyLastActiveAt": null,
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D83825&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29150"
+      "companyLastActiveAt": "24 days ago",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89404&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29150"
     },
     {
       "id": 75335,
