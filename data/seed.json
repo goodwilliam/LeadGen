@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-17T06:00:22.730178Z",
-  "count": 28,
-  "enriched_count": 23,
+  "generated_at": "2026-04-17T09:10:21.744743Z",
+  "count": 26,
+  "enriched_count": 21,
   "articles": [
     {
       "source": "Google Alerts",
@@ -103,6 +103,20 @@
     },
     {
       "source": "Google Alerts",
+      "title": "Cohoma Coffee raises \u20b95 Crore in Seed Round led by Inflection Point Ventures and Swishin VC",
+      "article_url": "https://medial.app/news/cohoma-coffee-raises-indian-rupee5-crore-in-seed-round-led-by-inflection-point-ventures-and-swishin-vc-0ae4bcf20c137",
+      "company": "Edtech platform byteXL",
+      "amount_str": "$5.9 m",
+      "pub_date": "2026-04-16T18:55:04Z",
+      "website": "https://www.bytexl.com",
+      "linkedin_url": "https://linkedin.com/company/bytexl",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "sales@bytexl.in",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
       "title": "AI cloud startup Parasail raises $32m in Series A funding round - Data Center Dynamics",
       "article_url": "https://www.datacenterdynamics.com/en/news/ai-cloud-startup-parasail-raises-32m-in-series-a-funding-round/",
       "company": "Parasail",
@@ -114,34 +128,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Aya closes SAR 26 mn round led by RAED Ventures to fuel growth",
-      "article_url": "https://en.sharikatmubasher.com/news/article/21545140/aya-closes-sar-26-mn-round-led-by-raed-ventures-to-fuel-growth?companyNews=0",
-      "company": "Aya",
-      "amount_str": "",
-      "pub_date": "2026-04-16T18:04:50Z",
-      "website": "https://www.aya-bas2.com",
-      "linkedin_url": "https://linkedin.com/company/ayahealthcare",
-      "founder_name": "",
-      "founder_linkedin_url": "https://linkedin.com/in/aya-a-3b3632184",
-      "contact_email": "",
-      "twitter_url": "https://x.com/aya_bas2"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Nigerian Energy Startup PowerLabs Raises Pre- Seed Funding to Scale AI-Powered Grid ...",
-      "article_url": "https://iafrica.com/nigerian-energy-startup-powerlabs-raises-pre-seed-funding-to-scale-ai-powered-grid-management-platform/",
-      "company": "Nigerian Energy Startup PowerLabs",
-      "amount_str": "",
-      "pub_date": "2026-04-16T16:46:53Z",
-      "website": "https://disruptafrica.com",
-      "linkedin_url": "https://linkedin.com/company/disrupt-africa",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "55017-featured-75x75@1.5x.jpeg",
-      "twitter_url": "https://x.com/DisruptAfrica"
     },
     {
       "source": "Google Alerts",
@@ -380,20 +366,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
-    },
-    {
-      "source": "tech.eu",
-      "title": "Brix raises $5.5M to support the tokenisation of emerging market assets",
-      "article_url": "https://tech.eu/2026/04/15/brix-raises-55m-to-support-tokenisation-of-emerging-market-assets/",
-      "company": "Brix",
-      "amount_str": "$5.5M",
-      "pub_date": "2026-04-15T13:00:00Z",
-      "website": "https://brix.money",
-      "linkedin_url": "https://linkedin.com/company/joinbrix",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "contact@brix.money",
-      "twitter_url": "https://x.com/brix_money"
     }
   ]
 }

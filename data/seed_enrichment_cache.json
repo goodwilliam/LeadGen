@@ -37912,5 +37912,56 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/17/guide-whats-coming-up-at-the-techeu-summit-london-2026/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/17/sovereign-ai-moving-at-speed-craig-david-would-blush-at/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/17/alixlabs-closes-eur15m-series-a-to-scale-atomic-layer-etching-technology/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/penetrium-bioscience-unveils-breakthrough-mechanism-solving-137-year-old-seed--soil-paradigm-opening-a-new-era-for-targeted-cancer-therapy-302745715.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/hardware-security-modules-market-outlook-20262031-10-02-cagr-growth-driven-by-increasing-cybersecurity-investments-and-secure-key-management-needs-reports-mordor-intelligence-302745660.html": {
+    "valid": false
+  },
+  "https://techfundingnews.com/urfuture-raises-1-7m-to-replace-cvs/": {
+    "valid": false
+  },
+  "https://medial.app/news/cohoma-coffee-raises-indian-rupee5-crore-in-seed-round-led-by-inflection-point-ventures-and-swishin-vc-0ae4bcf20c137": {
+    "valid": true,
+    "company": "Edtech platform byteXL",
+    "amount_str": "$5.9 m",
+    "website": "https://www.bytexl.com",
+    "linkedin_url": "https://linkedin.com/company/bytexl",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "sales@bytexl.in",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/yourstorycom/posts/fifth-sense-has-raised-63-crore-in-a-pre-seed-round-led-by-otp-ventures-with-par/1433589075469729/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startuplist.africa/startups/takestep/news-activities": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "and CEO",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
