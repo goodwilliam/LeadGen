@@ -37862,5 +37862,55 @@
     "founder_linkedin_url": "",
     "contact_email": "55017-featured-75x75@1.5x.jpeg",
     "twitter_url": "https://x.com/DisruptAfrica"
+  },
+  "https://techcrunch.com/2026/04/16/new-leaders-new-fund-sequoia-has-raised-7b-to-expand-its-ai-bets/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/la-navarre-et-hithium-signent-un-engagement-dinvestissement-pour-leur-usine-de-batteries-lors-dune-ceremonie-en-presence-du-president-sanchez-302745546.html": {
+    "valid": false
+  },
+  "https://www.techinasia.com/news/ai-startup-upscale-eyes-200m-raise-2b-valuation": {
+    "valid": true,
+    "company": "Upscale eyes $200m",
+    "amount_str": "$200m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fortune.com/2026/04/16/harvey-ceo-winston-weinberg-failure-learninng-ego-death-success/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cookielaw.org/consent/906dc33b-1fc3-4b2c-a324-8bc0b7db9050/OtAutoBlock.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "of Physical Intelligence and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.panewslab.com/en/articles/019d9924-a828-73ea-a377-6c90db2a3e93": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cloud.umami.is/script.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }

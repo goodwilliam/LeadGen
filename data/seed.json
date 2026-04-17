@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-04-17T01:57:05.743444Z",
-  "count": 29,
-  "enriched_count": 24,
+  "generated_at": "2026-04-17T06:00:22.730178Z",
+  "count": 28,
+  "enriched_count": 23,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "US AI startup Upscale eyes $200m raise at $2b valuation - Tech in Asia",
+      "article_url": "https://www.techinasia.com/news/ai-startup-upscale-eyes-200m-raise-2b-valuation",
+      "company": "Upscale eyes $200m",
+      "amount_str": "$200m",
+      "pub_date": "2026-04-17T01:38:15Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "SiliconAngle",
       "title": "Resolve AI raises $40M at $1.5B valuation to optimize production environments",
@@ -186,20 +200,6 @@
       "twitter_url": ""
     },
     {
-      "source": "Google Alerts",
-      "title": "Numonic Labs secures pre-seed funding to build the compliance backbone for AI-generated content",
-      "article_url": "https://ukbaa.org.uk/blog/2026/04/16/numonic-labs-secures-pre-seed-funding-to-build-the-compliance-backbone-for-ai-generated-content/",
-      "company": "Numonic Labs",
-      "amount_str": "",
-      "pub_date": "2026-04-16T15:55:11Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "need help supporting your",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
       "source": "SiliconAngle",
       "title": "Developer tooling startup Expo nabs $45M investment",
       "article_url": "https://siliconangle.com/2026/04/16/developer-tooling-startup-expo-nabs-45m-investment/",
@@ -338,20 +338,6 @@
       "founder_linkedin_url": "",
       "contact_email": "help@cluely.com",
       "twitter_url": "https://x.com/cluely"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Glydways Secures $170M to Expand Autonomous Pod Operations - Startup Ecosystem Canada",
-      "article_url": "https://www.startupecosystem.ca/news/glydways-secures-170m-to-expand-autonomous-pod-operations/",
-      "company": "Glydways",
-      "amount_str": "$170M",
-      "pub_date": "2026-04-15T22:13:49Z",
-      "website": "https://www.glydways.com",
-      "linkedin_url": "https://linkedin.com/company/glydways",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/glydways"
     },
     {
       "source": "tech.eu",
