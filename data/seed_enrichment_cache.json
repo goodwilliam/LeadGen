@@ -38610,5 +38610,131 @@
   },
   "https://www.startupmag.co.uk/funding/topstylista-2026-pre-seed-funding/": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/": {
+    "valid": false
+  },
+  "https://venturebeat.com/orchestration/train-to-test-scaling-explained-how-to-optimize-your-end-to-end-ai-compute-budget-for-inference": {
+    "valid": false
+  },
+  "https://venturebeat.com/security/most-enterprises-cant-stop-stage-three-ai-agent-threats-venturebeat-survey-finds": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/venture/biggest-funding-rounds-ev-transportation-biotech-slate/": {
+    "valid": false
+  },
+  "https://betakit.com/edmonton-businesses-get-federal-funding-to-automate-homebuilding-manufacturing/": {
+    "valid": false
+  },
+  "https://betakit.com/northx-invests-2-2-million-in-trio-of-bc-wildfire-tech-startups/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/new-clinical-and-preclinical-data-for-investigational-candidate-zidesamtinib-presented-at-aacr-annual-meeting-2026-302746257.html": {
+    "valid": false
+  },
+  "https://dronexl.co/2026/04/17/hyfix-15m-dji-the-hard-part/": {
+    "valid": false
+  },
+  "https://edoriordan.substack.com/p/the-week-in-irish-startups-efc": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "including Indeed",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thequantuminsider.com/2026/04/17/sdt-and-ionq-partner-to-bring-trapped-ion-quantum-power-to-the-qureka-platform/": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/04/17/valencia-based-gurusup-raises-e1-3-million-seed-round-for-ai-customer-service-platform/": {
+    "valid": false
+  },
+  "https://thedefender.media/en/2026/04/deborah-fairlamb-interview/": {
+    "valid": false
+  },
+  "https://mexicobusiness.news/talent/news/mexico-bets-ai-alliances-close-education-gap": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/eu-startups-menlo-media_valencia-based-gurusup-raises-13-million-activity-7450909971438923777-D4e1": {
+    "valid": false
+  },
+  "https://www.genomeweb.com/business-news/people-news-bruker-jackson-laboratory-ribbon-bio-human-longevity": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://crain-platform-genomeweb-prod.s3.amazonaws.com/app-icons/favicon.ico",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://femtechinsider.com/onto-health-raises-20m-series-a-for-ai-enabled-fertility-and-longevity-care-announces-gulf-region-expansion/": {
+    "valid": true,
+    "company": "ONTO Health",
+    "amount_str": "$20M",
+    "website": "https://onto.health",
+    "linkedin_url": "https://linkedin.com/company/onto-health-co",
+    "founder_name": "founded by ARTIS and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/anthropic-ai-security-quantum/": {
+    "valid": false
+  },
+  "https://www.distractify.com/p/lorimer-jenkins-built-his-own-route-into-silicon-valley": {
+    "valid": false
+  },
+  "https://www.therisepost.com/news/articles/qalzy-secures-pre-seed-backing-after-euro204k-kickstarter-campaign-for-its-ai-nutrition-scale-69e0fb3f97ffbe0c10635196": {
+    "valid": true,
+    "company": "Qalzy",
+    "amount_str": "",
+    "website": "https://www.qalzy.com",
+    "linkedin_url": "https://linkedin.com/company/qalzy",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/rwang0_stendr-snags-54m-in-pre-seed-funding-to-activity-7450873667833495552-Wcke": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/beamstart_singapore-based-ortcloud-has-raised-17-activity-7450919423735083008-x_ad": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://beamstart.com/news/sg-cloud-startup-ortcloud-raises-17763997308338",
+    "linkedin_url": "https://linkedin.com/company/beamstart",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@beamstart.com",
+    "twitter_url": ""
+  },
+  "https://businessnewsthisweek.com/business/fifth-sense-raises-inr-6-3-cr-to-reimagine-fragrance-as-a-form-of-self-expression/": {
+    "valid": false
+  },
+  "https://cedirates.com/news/techcabal-daily--a-standard-hack/": {
+    "valid": false
+  },
+  "https://vctavern.com/spinnable-ai-raises-e2-million-pre-seed-round-led-by-heartcore-capital-to-build-autonomous-ai-coworkers/": {
+    "valid": true,
+    "company": "Spinnable AI",
+    "amount_str": "\u20ac2 M",
+    "website": "https://www.spinnable.ai",
+    "linkedin_url": "https://linkedin.com/company/107370896",
+    "founder_name": "and co",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@spinnable.ai",
+    "twitter_url": ""
+  },
+  "https://chennaipatrika.com/post/gas-pipeline-explosion-kills-eight-in-pakistan": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/invia-raises-1-2m-in-funding.html": {
+    "valid": false
   }
 }
