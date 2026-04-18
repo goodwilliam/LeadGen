@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-04-17T20:40:08.911106Z",
+  "generated_at": "2026-04-18T01:31:43.279609Z",
   "count": 26,
-  "enriched_count": 22,
+  "enriched_count": 20,
   "articles": [
+    {
+      "source": "SiliconAngle",
+      "title": "Supply chain AI startup Loop secures $95M investment",
+      "article_url": "https://siliconangle.com/2026/04/17/supply-chain-ai-startup-loop-secures-95m-investment/",
+      "company": "Supply chain AI startup Loop",
+      "amount_str": "$95M",
+      "pub_date": "2026-04-18T00:57:35Z",
+      "website": "https://siliconangle.com",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/thecube"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Asia's Biggest Startup Funding in Week 16 Led by Pangbot, BALLAS Inc., and GobbleCube",
+      "article_url": "https://www.techloy.com/asias-biggest-startup-funding-in-week-16-led-by-pangbot-ballas-inc-and-gobblecube/",
+      "company": "Japan-based agritech startup Culta",
+      "amount_str": "$4.5 m",
+      "pub_date": "2026-04-17T21:34:36Z",
+      "website": "https://beamstart.com",
+      "linkedin_url": "https://linkedin.com/company/beamstart",
+      "founder_name": "with Kaya",
+      "founder_linkedin_url": "",
+      "contact_email": "contact@beamstart.com",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Model rocketry startup wins UB entrepreneurship contest - Buffalo News",
+      "article_url": "https://buffalonews.com/news/community/article_c42ed1a9-0c5a-51e7-a9db-45c6a13107d2.html",
+      "company": "Model rocketry startup",
+      "amount_str": "",
+      "pub_date": "2026-04-17T20:54:12Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "ONTO Health Raises $20M Series A for AI-Enabled Fertility and Longevity Care",
@@ -116,20 +158,6 @@
       "twitter_url": ""
     },
     {
-      "source": "Google Alerts",
-      "title": "Asia's Biggest Startup Funding in Week 16 Led by Pangbot, BALLAS Inc., and GobbleCube",
-      "article_url": "https://www.techloy.com/asias-biggest-startup-funding-in-week-16-led-by-pangbot-ballas-inc-and-gobblecube/",
-      "company": "Japan-based agritech startup Culta",
-      "amount_str": "$4.5 m",
-      "pub_date": "2026-04-17T13:30:14Z",
-      "website": "https://beamstart.com",
-      "linkedin_url": "https://linkedin.com/company/beamstart",
-      "founder_name": "with Kaya",
-      "founder_linkedin_url": "",
-      "contact_email": "contact@beamstart.com",
-      "twitter_url": ""
-    },
-    {
       "source": "TechCrunch",
       "title": "Loop raises $95M to build supply chain AI that predicts disruptions",
       "article_url": "https://techcrunch.com/2026/04/17/loop-raises-95m-to-build-supply-chain-ai-that-predicts-disruptions/",
@@ -140,20 +168,6 @@
       "linkedin_url": "https://linkedin.com/company/chooseloop",
       "founder_name": "founder and",
       "founder_linkedin_url": "https://linkedin.com/in/shaosu",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "One breath a day: Climatic launches an inhaled supplement for lung care - TrendWatching",
-      "article_url": "https://www.trendwatching.com/innovations/one-breath-a-day-climatic-launches-an-inhaled-supplement-for-lung-care",
-      "company": "Climatic",
-      "amount_str": "",
-      "pub_date": "2026-04-17T12:10:22Z",
-      "website": "https://www.climatichealth.com",
-      "linkedin_url": "https://linkedin.com/company/climatichealth",
-      "founder_name": "",
-      "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
     },
@@ -268,20 +282,6 @@
       "founder_linkedin_url": "https://linkedin.com/in/mark-hughes-a36915a7",
       "contact_email": "",
       "twitter_url": "https://x.com/getsolidroad"
-    },
-    {
-      "source": "SiliconAngle",
-      "title": "Lua lands $5.8M to help businesses build and manage AI agent workforces",
-      "article_url": "https://siliconangle.com/2026/04/16/lua-lands-5-8m-help-businesses-build-manage-ai-agent-workforces/",
-      "company": "Lua",
-      "amount_str": "$5.8M",
-      "pub_date": "2026-04-16T13:00:24Z",
-      "website": "https://heylua.ai",
-      "linkedin_url": "https://linkedin.com/company/lua-ai",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "tech.eu",

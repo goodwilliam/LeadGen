@@ -38736,5 +38736,157 @@
   },
   "https://www.finsmes.com/2026/04/invia-raises-1-2m-in-funding.html": {
     "valid": false
+  },
+  "https://siliconangle.com/2026/04/17/supply-chain-ai-startup-loop-secures-95m-investment/": {
+    "valid": true,
+    "company": "Supply chain AI startup Loop",
+    "amount_str": "$95M",
+    "website": "https://siliconangle.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/thecube"
+  },
+  "https://www.prnewswire.com/news-releases/orthofix-investigation-initiated-kahn-swick--foti-llc-investigates-the-officers-and-directors-of-orthofix-medical-inc---ofix-302746295.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/nuai-investors-have-opportunity-to-lead-new-era-energy--digital-inc-securities-fraud-lawsuit-302746130.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/ibrx-investors-have-opportunity-to-lead-immunitybio-inc-securities-fraud-lawsuit-first-filed-by-the-rosen-law-firm-302746093.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/alliancebernstein-national-municipal-income-fund-inc-and-alliancebernstein-global-high-income-fund-inc-announcement-regarding-planned-merger-of-equitable-and-corebridge-302746357.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/alit-investors-have-opportunity-to-lead-alight-inc-securities-fraud-lawsuit-302746119.html": {
+    "valid": false
+  },
+  "https://www.lead411.com/blog/best-way-to-target-companies-that-just-raised-funding-step-by-step-guide-for-2026/": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/grishinrobotics_lua-ai-yc-f25-just-raised-58m-in-seed-activity-7450869684180070401-5K4L": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bricks-bytes.com/podcast/facebooks-first-computer-vision-engineer-raised-10m-to-solve-construction-drawings-primepoint-10m-seed-round/": {
+    "valid": true,
+    "company": "PrimePoint just",
+    "amount_str": "$10M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/360-capital-vc_noc-energy-just-raised-a-27m-seed-round-activity-7450815692653629440-NxhW": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/pacific/news/2026/04/17/six-startup-companies-watch-hawaii.html": {
+    "valid": false
+  },
+  "https://www.techinafrica.com/five-mena-deep-tech-startups-touch-down-in-silicon-valley-for-propellers-first-ever-kernel-camp/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://whatsapp.com/channel/0029Vb3xgMr42DcfICgi7T1N",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/whatsapp"
+  },
+  "https://www.indexbox.io/blog/upscale-ai-seeks-200m-in-new-funding-at-2-billion-valuation/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/": {
+    "valid": false
+  },
+  "https://x.com/LogUpdateAfrica/status/2044691058748256287": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/Chirp-Regular.80fda27a.woff2",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-us/money/smallbusiness/geekwire-awards-young-entrepreneur-of-the-year-finalists-tackling-ai-robotics-and-more/ar-AA20Ya8o?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": false
+  },
+  "https://techfundingnews.com/euclyd-100m-ai-inference-chip-startup/": {
+    "valid": false
+  },
+  "https://vator.tv/beeline-medicines-raised-300m-trump-appoints-new-cdc-director-amigo-and-heal-partner-to-bring-clinical-ai-to-saudi-arabia/": {
+    "valid": false
+  },
+  "https://orielipo.com/navigating-uk-startup-funding-rounds-from-seed-to-seis-eis-explained/": {
+    "valid": false
+  },
+  "https://www.indexbox.io/blog/ai-startup-factory-hits-15-billion-valuation-after-150m-funding-round/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://mc.yandex.ru",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://ucapital.com/article/vc_and_pe/69e26096a22e647adc7f6df5/factory-raises-150m-in-ai-startup-funding-round-reaches-15b-valuation": {
+    "valid": true,
+    "company": "AI coding startup Factory",
+    "amount_str": "$150 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://buffalonews.com/news/community/article_c42ed1a9-0c5a-51e7-a9db-45c6a13107d2.html": {
+    "valid": true,
+    "company": "Model rocketry startup",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.inc.com/amaya-nichole/molly-sims-says-the-secret-to-yse-beautys-success-isnt-the-product-its-this-lesson-in-extreme-patience/91332696": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "explained why she took",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://pdicai.org/morenews.aspx?e=M13SVNvR5RtIwlMN6Yl5sTk5Of3ZshVTO7eY3raD6uT5fWiJ8ZuXfTy%2BbnExUh7GNmfWfRzfJ%2BndmPMHLR1CCOY%2BvPCQb63WqDugVSBBLXMlvopIhTmYrg%3D%3D": {
+    "valid": false
   }
 }
