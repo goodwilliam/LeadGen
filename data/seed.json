@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-04-18T05:30:46.482924Z",
-  "count": 25,
-  "enriched_count": 20,
+  "generated_at": "2026-04-18T08:41:40.797654Z",
+  "count": 24,
+  "enriched_count": 19,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Nigeria's PowerLabs raises pre\u2011seed funding to scale AI\u2011driven energy orchestration platform -...",
+      "article_url": "https://x.com/innovationville/status/2045179688650166407",
+      "company": "Nigeria's PowerLabs",
+      "amount_str": "",
+      "pub_date": "2026-04-18T05:18:05Z",
+      "website": "https://www.techawkng.com",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "SiliconAngle",
       "title": "Supply chain AI startup Loop secures $95M investment",
@@ -44,6 +58,20 @@
       "founder_linkedin_url": "",
       "contact_email": "contact@beamstart.com",
       "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Upscale AI seeks $200M funding at $2B valuation: report - N24",
+      "article_url": "https://n24.com.tr/en/technology/upscale-ai-seeks-200m-funding-at-2b-valuation-report-431",
+      "company": "Upscale AI aims to",
+      "amount_str": "$200 m",
+      "pub_date": "2026-04-17T21:11:56Z",
+      "website": "https://upscaleai.com",
+      "linkedin_url": "https://linkedin.com/company/upscale-ai-inc",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "Info@upscaleai.com",
+      "twitter_url": "https://x.com/upscale_ai_inc"
     },
     {
       "source": "Google Alerts",
@@ -144,34 +172,6 @@
       "twitter_url": ""
     },
     {
-      "source": "Google Alerts",
-      "title": "Tiger Global-backed Upscale AI eyes $200M raise at $2B valuation: report",
-      "article_url": "https://techfundingnews.com/upscale-ai-200m-series-a-ai-data-centre-networking/",
-      "company": "Tiger Global-backed Upscale AI eyes $200M",
-      "amount_str": "$200M",
-      "pub_date": "2026-04-17T14:23:16Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "FIFTH SENSE raises \u20b96.3 Cr pre-seed funding led by OTP Ventures - Entrepreneur",
-      "article_url": "https://entrepreneur.economictimes.indiatimes.com/amp/news/funding/fifth-sense-raises-6-3-cr-pre-seed-funding-led-by-otp-ventures/130324138",
-      "company": "FIFTH SENSE",
-      "amount_str": "",
-      "pub_date": "2026-04-17T13:48:41Z",
-      "website": "https://fifthsenselingerie.com",
-      "linkedin_url": "https://linkedin.com/company/fifth-sense-lingerie",
-      "founder_name": "said Kunal Suri",
-      "founder_linkedin_url": "",
-      "contact_email": "info@fifthsenselingerie.com",
-      "twitter_url": ""
-    },
-    {
       "source": "TechCrunch",
       "title": "Loop raises $95M to build supply chain AI that predicts disruptions",
       "article_url": "https://techcrunch.com/2026/04/17/loop-raises-95m-to-build-supply-chain-ai-that-predicts-disruptions/",
@@ -226,20 +226,6 @@
       "founder_linkedin_url": "",
       "contact_email": "support@slash.com",
       "twitter_url": "https://x.com/slashapp"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Cohoma Coffee raises \u20b95 Crore in Seed Round led by Inflection Point Ventures and Swishin VC",
-      "article_url": "https://medial.app/news/cohoma-coffee-raises-indian-rupee5-crore-in-seed-round-led-by-inflection-point-ventures-and-swishin-vc-0ae4bcf20c137",
-      "company": "Edtech platform byteXL",
-      "amount_str": "$5.9 m",
-      "pub_date": "2026-04-16T18:55:04Z",
-      "website": "https://www.bytexl.com",
-      "linkedin_url": "https://linkedin.com/company/bytexl",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "sales@bytexl.in",
-      "twitter_url": ""
     },
     {
       "source": "SiliconAngle",

@@ -38954,5 +38954,83 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.startuplist.africa/startups/qme-solutions/news-activities": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "MA\n\nMaged Negm",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.indianstartuptimes.com/interviews/from-numbers-to-narratives-how-payal-punatar-doshi-is-rewriting-venture-capital-with-structure-curiosity-and-antifragility/": {
+    "valid": false
+  },
+  "https://m.economictimes.com/tech/newsletters/tech-top-5/jio-preps-may-ipo-wipro-slips-after-results/articleshow/130334219.cms": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://connect.facebook.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/innovationville/status/2045179688650166407": {
+    "valid": true,
+    "company": "Nigeria's PowerLabs",
+    "amount_str": "",
+    "website": "https://www.techawkng.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.tubefilter.com/2026/04/17/have-you-heard-sykkuno-zohran-mamdani-sidetalk-tax-day/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.yahoo.com/entertainment/articles/twitch-streamer-yonna-panics-live-090608881.html",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/YahooEnt"
+  },
+  "https://msmeafricaonline.com/call-for-applications-entrepreneurship-world-cup-2026-up-to-1-million-equity-free-funding/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/brix-raises-5-5m-in-funding.html": {
+    "valid": false
+  },
+  "https://longevity.technology/news/this-ai-virtual-lab-wants-to-cut-drug-discovery-to-weeks/": {
+    "valid": true,
+    "company": "London-based AI startup",
+    "amount_str": "$10 m",
+    "website": "https://iotworldmagazine.com",
+    "linkedin_url": "",
+    "founder_name": "said Rick Schneider",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://n24.com.tr/en/technology/upscale-ai-seeks-200m-funding-at-2b-valuation-report-431": {
+    "valid": true,
+    "company": "Upscale AI aims to",
+    "amount_str": "$200 m",
+    "website": "https://upscaleai.com",
+    "linkedin_url": "https://linkedin.com/company/upscale-ai-inc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "Info@upscaleai.com",
+    "twitter_url": "https://x.com/upscale_ai_inc"
+  },
+  "https://techfundingnews.com/startups-removing-fossil-fuels-supply-chains/": {
+    "valid": false
   }
 }
