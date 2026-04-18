@@ -39032,5 +39032,58 @@
   },
   "https://techfundingnews.com/startups-removing-fossil-fuels-supply-chains/": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/kaskela-law-firm-announces-stockholder-investigation-of-hf-foods-group-inc-hffg-and-encourages-hffg-shareholders-with-investment-losses-to-contact-the-firm-302746435.html": {
+    "valid": false
+  },
+  "https://www.hindustanmetro.com/inside-vishal-jariwalas-600-billion-adtech-vision-and-the-blueprint-to-skill-a-billion-indians-in-ai/": {
+    "valid": false
+  },
+  "https://www.tradingview.com/news/invezz:5b4cdcc67094b:0-inside-the-great-ai-talent-war-draining-startups-powering-big-tech-s-ambitions/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://invezz.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.arabnews.com/node/2640335/amp": {
+    "valid": true,
+    "company": "Startups in Morocco",
+    "amount_str": "$22.6 m",
+    "website": "https://www.startupblink.com",
+    "linkedin_url": "https://linkedin.com/company/startupyourlife",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://technext24.com/2026/04/17/mtn-ambition-2030-fintech-connectivity/": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/grishinrobotics_worki-has-raised-275m-in-pre-seed-funding-activity-7451050712144240640-Ut2O": {
+    "valid": true,
+    "company": "Worki",
+    "amount_str": "$2.75M",
+    "website": "https://www.worki.us",
+    "linkedin_url": "https://linkedin.com/company/worki-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.citybiz.co/article/833731/balerion-raises-6m-seed-to-streamline-mortgage-origination-with-agentic-ai/": {
+    "valid": true,
+    "company": "Balerion",
+    "amount_str": "$6M",
+    "website": "https://www.balerionspace.com",
+    "linkedin_url": "https://linkedin.com/company/balerion-space",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@balerionspace.com",
+    "twitter_url": ""
   }
 }

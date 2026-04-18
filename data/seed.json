@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-04-18T08:41:40.797654Z",
-  "count": 24,
-  "enriched_count": 19,
+  "generated_at": "2026-04-18T12:43:17.399357Z",
+  "count": 27,
+  "enriched_count": 22,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Startup wrap: Funding flows continue in MENA amid Iran conflict | Arab News",
+      "article_url": "https://www.arabnews.com/node/2640335/amp",
+      "company": "Startups in Morocco",
+      "amount_str": "$22.6 m",
+      "pub_date": "2026-04-18T07:25:43Z",
+      "website": "https://www.startupblink.com",
+      "linkedin_url": "https://linkedin.com/company/startupyourlife",
+      "founder_name": "founder and",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Nigeria's PowerLabs raises pre\u2011seed funding to scale AI\u2011driven energy orchestration platform -...",
@@ -12,6 +26,20 @@
       "pub_date": "2026-04-18T05:18:05Z",
       "website": "https://www.techawkng.com",
       "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Grishin Robotics' Post - LinkedIn",
+      "article_url": "https://www.linkedin.com/posts/grishinrobotics_worki-has-raised-275m-in-pre-seed-funding-activity-7451050712144240640-Ut2O",
+      "company": "Worki",
+      "amount_str": "$2.75M",
+      "pub_date": "2026-04-18T04:10:45Z",
+      "website": "https://www.worki.us",
+      "linkedin_url": "https://linkedin.com/company/worki-ai",
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
@@ -44,6 +72,20 @@
       "founder_linkedin_url": "https://linkedin.com/in/sayantan-biswas-",
       "contact_email": "contact@verbaflo.ai",
       "twitter_url": "https://x.com/VerbaFloAI"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Balerion Raises $6M Seed to Streamline Mortgage Origination With Agentic AI | citybiz",
+      "article_url": "https://www.citybiz.co/article/833731/balerion-raises-6m-seed-to-streamline-mortgage-origination-with-agentic-ai/",
+      "company": "Balerion",
+      "amount_str": "$6M",
+      "pub_date": "2026-04-17T22:15:58Z",
+      "website": "https://www.balerionspace.com",
+      "linkedin_url": "https://linkedin.com/company/balerion-space",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "info@balerionspace.com",
+      "twitter_url": ""
     },
     {
       "source": "Google Alerts",
@@ -131,20 +173,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Upscale AI Targets $2B Valuation in Latest Funding Talks Despite No Product Launch",
-      "article_url": "https://theaiinsider.tech/2026/04/17/upscale-ai-targets-2b-valuation-in-latest-funding-talks-despite-no-product-launch/",
-      "company": "Factory",
-      "amount_str": "$150 m",
-      "pub_date": "2026-04-17T15:37:59Z",
-      "website": "https://www.custommattressfactory.com",
-      "linkedin_url": "https://linkedin.com/company/factory-hq",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/eveningsnooze"
-    },
-    {
-      "source": "Google Alerts",
       "title": "FinTech funding continues strong run with over $800m raised this week",
       "article_url": "https://fintech.global/2026/04/17/fintech-funding-continues-strong-run-with-over-800m-raised-this-week/",
       "company": "UK digital motor InsurTech Zego",
@@ -170,6 +198,20 @@
       "founder_linkedin_url": "",
       "contact_email": "hello@spinnable.ai",
       "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Outcraft AI Raises \u20ac2M to Scale Autonomous Agents for Revenue Generation - AI Insider",
+      "article_url": "https://theaiinsider.tech/2026/04/17/outcraft-ai-raises-e2m-to-scale-autonomous-agents-for-revenue-generation/",
+      "company": "Factory",
+      "amount_str": "$150 m",
+      "pub_date": "2026-04-17T14:37:55Z",
+      "website": "https://www.custommattressfactory.com",
+      "linkedin_url": "https://linkedin.com/company/factory-hq",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/eveningsnooze"
     },
     {
       "source": "TechCrunch",
