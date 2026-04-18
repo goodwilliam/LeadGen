@@ -38888,5 +38888,71 @@
   },
   "https://pdicai.org/morenews.aspx?e=M13SVNvR5RtIwlMN6Yl5sTk5Of3ZshVTO7eY3raD6uT5fWiJ8ZuXfTy%2BbnExUh7GNmfWfRzfJ%2BndmPMHLR1CCOY%2BvPCQb63WqDugVSBBLXMlvopIhTmYrg%3D%3D": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/gemini-space-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-gemini-space-station-inc---gemi-302746301.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/extreme-networks-investigation-continued-kahn-swick--foti-llc-continues-to-investigate-the-officers-and-directors-of-extreme-networks-inc---extr-302746306.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/driven-brands-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuits-against-driven-brands-holdings-inc---drvn-302746284.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/apollo-global-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-apollo-global-management-inc---apo-302746281.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/tripcom-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-tripcom-group-limited---tcom-302746298.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/immunitybio-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-immunitybio-inc---ibrx-302746285.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/soleno-therapeutics-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-soleno-therapeutics-inc---slno-302746296.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/navan-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-navan-inc---navn-302746288.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/super-micro-computer-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuits-against-super-micro-computer-inc---smci-302746299.html": {
+    "valid": false
+  },
+  "https://www.delmarvanow.com/press-release/story/72359/verbaflo-raises-7m-to-expand-ai-leasing-and-communications-platform-for-student-housing-and-multifamily-operators/": {
+    "valid": true,
+    "company": "VerbaFlo",
+    "amount_str": "$7M",
+    "website": "https://www.verbaflo.ai",
+    "linkedin_url": "https://linkedin.com/company/verbaflo-ai",
+    "founder_name": "Sayantan Biswas",
+    "founder_linkedin_url": "https://linkedin.com/in/sayantan-biswas-",
+    "contact_email": "contact@verbaflo.ai",
+    "twitter_url": "https://x.com/VerbaFloAI"
+  },
+  "https://vcnewsdaily.com/sage-haven/venture-capital-funding/rwwbwtlglc": {
+    "valid": false
+  },
+  "https://dailyhodl.com/2026/04/17/bybit-report-global-stocks-reach-record-highs-as-sp-500-surpasses-7000-milestone/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/reel/DXQa5QVk0Xv/": {
+    "valid": false
+  },
+  "https://fortune.com/2026/04/17/tether-127-5-million-drift-circle-freeze-hacked-funds/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cookielaw.org/consent/906dc33b-1fc3-4b2c-a324-8bc0b7db9050/OtAutoBlock.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T01:31:43.279609Z",
-  "count": 26,
+  "generated_at": "2026-04-18T05:30:46.482924Z",
+  "count": 25,
   "enriched_count": 20,
   "articles": [
     {
@@ -16,6 +16,20 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": "https://x.com/thecube"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "VerbaFlo Raises $7M to Expand AI Leasing and Communications Platform for Student ...",
+      "article_url": "https://www.delmarvanow.com/press-release/story/72359/verbaflo-raises-7m-to-expand-ai-leasing-and-communications-platform-for-student-housing-and-multifamily-operators/",
+      "company": "VerbaFlo",
+      "amount_str": "$7M",
+      "pub_date": "2026-04-17T23:45:27Z",
+      "website": "https://www.verbaflo.ai",
+      "linkedin_url": "https://linkedin.com/company/verbaflo-ai",
+      "founder_name": "Sayantan Biswas",
+      "founder_linkedin_url": "https://linkedin.com/in/sayantan-biswas-",
+      "contact_email": "contact@verbaflo.ai",
+      "twitter_url": "https://x.com/VerbaFloAI"
     },
     {
       "source": "Google Alerts",
@@ -200,20 +214,6 @@
       "twitter_url": "https://x.com/resolveai"
     },
     {
-      "source": "Google Alerts",
-      "title": "Austin Inno - Codie Sanchez's startup lands seed round | Icon's new defense tech push",
-      "article_url": "https://www.bizjournals.com/austin/inno/newsletter/45207830?skip=0",
-      "company": "Austin Inno - Codie Sanchez's startup",
-      "amount_str": "",
-      "pub_date": "2026-04-16T23:30:33Z",
-      "website": "https://www.bizjournals.com",
-      "linkedin_url": "",
-      "founder_name": "BizScout founder and",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
       "source": "SiliconAngle",
       "title": "Slash raises $100M at a $1.4B valuation to expand AI-powered banking platform for online businesses",
       "article_url": "https://siliconangle.com/2026/04/16/slash-raises-100m-1-4b-valuation-expand-ai-powered-banking-platform-online-businesses/",
@@ -226,20 +226,6 @@
       "founder_linkedin_url": "",
       "contact_email": "support@slash.com",
       "twitter_url": "https://x.com/slashapp"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Eigen raises a seed round from Benchmark to build the world's first 'mutual friend' - AOL",
-      "article_url": "https://www.aol.com/finance/exclusive-eigen-raises-seed-round-160000518.html",
-      "company": "Eigen",
-      "amount_str": "",
-      "pub_date": "2026-04-16T22:30:50Z",
-      "website": "https://libeigen.gitlab.io",
-      "linkedin_url": "https://linkedin.com/company/eigen",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "Google Alerts",
