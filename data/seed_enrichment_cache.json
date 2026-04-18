@@ -39218,5 +39218,95 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/brayton-purcell-llp-anuncia-un-esfuerzo-ampliado-en-california-en-apoyo-de-la-peticion-de-cal-osha-para-prohibir-la-piedra-artificial-con-alto-contenido-de-silice-destaca-la-investigacion-de-capital-amp-main-sobre-el-escudo-de-responsabilid-851070769.html": {
+    "valid": false
+  },
+  "https://m.dailyhunt.in/news/india/english/entrackr+english-epaper-entrackr/funding+and+acquisitions+in+indian+startup+this+week+apr+13+apr+18-newsid-n708898529": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wa.me",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://enterpriseai.economictimes.indiatimes.com/news/industry/iconiq-invests-billions-in-ai-startups-rivaling-silicon-valley-vcs/130350943": {
+    "valid": true,
+    "company": "Iconiq",
+    "amount_str": "$5.75 b",
+    "website": "https://www.iconiq.com",
+    "linkedin_url": "https://linkedin.com/company/iconiq-capital-llc",
+    "founder_name": "where he met Facebook",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://n24.com.tr/en/health/storm-therapeutics-secures-475-million-for-cancer-therapy": {
+    "valid": true,
+    "company": "STORM Therapeutics",
+    "amount_str": "\u20ac47.5 m",
+    "website": "https://www.stormtherapeutics.com",
+    "linkedin_url": "https://linkedin.com/company/storm-therapeutics-limited",
+    "founder_name": "of STORM Therapeutics",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/storm_tx"
+  },
+  "https://www.msn.com/en-in/money/news/steadview-capital-appoints-maneesh-menon-as-india-director-plans-domestic-fund-sources/ar-AA1YOvYD?uxmode=ruby&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": false
+  },
+  "https://www.startupnetworks.co.uk/topic/2623-valencia-based-gurusup-raises-%E2%82%AC13-million-seed-round-for-ai-customer-service-platform/": {
+    "valid": false
+  },
+  "https://www.reddit.com/r/StartUpIndia/comments/1sp5dy1/looking_for_seed_funding_where_to_look_for/": {
+    "valid": false
+  },
+  "https://thecondia.com/aptlearn-exit-african-edtech-models/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.mediabistro.com/media-news/trustpoint-xposure-named-leading-aeo-pr-agency-for-guaranteed-media-placements-and-ai-visibility/": {
+    "valid": false
+  },
+  "https://sahin.io/blog/how-to-raise-a-pre-seed-round": {
+    "valid": false
+  },
+  "https://www.startupmag.co.uk/investors/manchester-angels/": {
+    "valid": false
+  },
+  "https://startupfortune.com/crypto-firms-pivot-to-survive-ais-vc-monopoly/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupfortune.com/federal-authorities-charge-synthetix-mind-ceo-alex-mercer-with-orchestrating-a-420-million-ai-fraud-scheme/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "Alex Mercer with orchestrating",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.hunted.space/product/startup-seed-funding-for-the-rest-of-us/launches/startup-seed-funding-for-the-rest-of-us": {
+    "valid": false
   }
 }
