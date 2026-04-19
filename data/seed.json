@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-19T01:56:17.299870Z",
-  "count": 21,
-  "enriched_count": 16,
+  "generated_at": "2026-04-19T05:54:50.678830Z",
+  "count": 19,
+  "enriched_count": 14,
   "articles": [
     {
       "source": "Google Alerts",
@@ -144,20 +144,6 @@
       "twitter_url": "https://x.com/thecube"
     },
     {
-      "source": "Google Alerts",
-      "title": "VerbaFlo Raises $7M to Expand AI Leasing and Communications Platform for Student ...",
-      "article_url": "https://www.delmarvanow.com/press-release/story/72359/verbaflo-raises-7m-to-expand-ai-leasing-and-communications-platform-for-student-housing-and-multifamily-operators/",
-      "company": "VerbaFlo",
-      "amount_str": "$7M",
-      "pub_date": "2026-04-17T23:45:27Z",
-      "website": "https://www.verbaflo.ai",
-      "linkedin_url": "https://linkedin.com/company/verbaflo-ai",
-      "founder_name": "Sayantan Biswas",
-      "founder_linkedin_url": "https://linkedin.com/in/sayantan-biswas-",
-      "contact_email": "contact@verbaflo.ai",
-      "twitter_url": "https://x.com/VerbaFloAI"
-    },
-    {
       "source": "SiliconAngle",
       "title": "Resolve AI raises $40M at $1.5B valuation to optimize production environments",
       "article_url": "https://siliconangle.com/2026/04/16/resolve-ai-raises-40m-1-5b-valuation-optimize-production-environments/",
@@ -198,20 +184,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
-    },
-    {
-      "source": "SiliconAngle",
-      "title": "Solidroad lands $25M to bring AI to customer support interactions",
-      "article_url": "https://siliconangle.com/2026/04/16/solidroad-lands-25m-bring-ai-customer-support-interactions/",
-      "company": "Solidroad",
-      "amount_str": "$25M",
-      "pub_date": "2026-04-16T14:00:39Z",
-      "website": "https://www.solidroad.com",
-      "linkedin_url": "https://linkedin.com/company/solidroad",
-      "founder_name": "",
-      "founder_linkedin_url": "https://linkedin.com/in/mark-hughes-a36915a7",
-      "contact_email": "",
-      "twitter_url": "https://x.com/getsolidroad"
     },
     {
       "source": "tech.eu",

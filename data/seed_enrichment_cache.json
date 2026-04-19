@@ -39403,5 +39403,33 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.msn.com/en-us/news/technology/delve-whistleblower-strikes-again-with-alleged-receipts-about-fake-compliance/ar-AA1ZL8rc?uxmode=ruby&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": false
+  },
+  "https://startupfortune.com/sam-altmans-outside-ventures-are-raising-hard-questions-about-who-openai-is-really-building-for/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/3one4Capital/status/2045426125804118459": {
+    "valid": false
+  },
+  "https://www.startuplist.africa/startups/western-seed/fundings": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "MEMBERS\n\nSA\n\nSaleem Esmail",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
