@@ -39526,5 +39526,98 @@
     "founder_linkedin_url": "https://linkedin.com/in/amb-jeannette-matta-4318b32a2",
     "contact_email": "support@starapps.studio",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/04/19/cracks-are-starting-to-form-on-fusion-energys-funding-boom/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-action-notice--moore-law-pllc-encourages-investors-in-pinterest-inc-to-contact-law-firm-302746646.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/nektar-to-hold-conference-call-to-discuss-52-week-topline-results-from-the-16-week-extension-treatment-period-for-its-rezolve-aa-phase-2b-study-of-rezpegaldesleukin-in-alopecia-areata-on-april-20-2026-302746623.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-action-notice--moore-law-pllc-encourages-investors-in-new-era-energy-inc-to-contact-law-firm-302746644.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-action-notice--moore-law-pllc-encourages-investors-in-new-fortress-energy-inc-to-contact-law-firm-302746642.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/stla-investors-have-opportunity-to-lead-stellantis-nv-securities-fraud-lawsuit-302746166.html": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "or its former",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://cairoscene.com/Business/Saudi-Platform-Aya-Raises-7M-to-Scale-Real-Time-Fashion-Model": {
+    "valid": true,
+    "company": "Aya",
+    "amount_str": "$7 m",
+    "website": "https://www.aya.app",
+    "linkedin_url": "https://linkedin.com/company/ayaapp",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/aya-a-3b3632184",
+    "contact_email": "info@mawsim.app",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-us/money/smallbusiness/codie-sanchez-just-raised-5m-from-the-founders-of-tinder-and-coinbase-to-disrupt-how-we-buy-businesses/ar-AA20Xo06?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "from the",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.fundingspotter.com/news/adrian-ai-technologies-pre-seed-round": {
+    "valid": true,
+    "company": "Adrian Ai Technologies Limited",
+    "amount_str": "\u00a329.9k",
+    "website": "https://find-and-update.company-information.service.gov.uk",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.ynetnews.com/tech-and-digital/article/r1oetef611e": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://t.me/ynetnewslatest",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.lokmattimes.com/national/delhi-dda-picks-3-winners-at-national-hackathon-for-managing-green-spaces/amp/": {
+    "valid": false
+  },
+  "https://startupfortune.com/ais-hidden-bottleneck-is-not-silicon-it-is-copper/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.reddit.com/r/Bangalorestartups/comments/1spqhwj/seed_funding_for_my_ed_tech_startup/": {
+    "valid": false
+  },
+  "https://www.msn.com/en-in/money/topstories/bt-explainer-why-reliance-adani-are-banking-on-nuclear-fusion-reactors-over-thorium/ar-AA21eAvp": {
+    "valid": false
   }
 }

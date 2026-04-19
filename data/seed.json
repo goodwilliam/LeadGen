@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-04-19T12:42:31.210781Z",
-  "count": 20,
-  "enriched_count": 15,
+  "generated_at": "2026-04-19T16:32:23.191337Z",
+  "count": 19,
+  "enriched_count": 13,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Saudi Platform Aya Raises $7M to Scale Real-Time Fashion Model - CairoScene",
+      "article_url": "https://cairoscene.com/Business/Saudi-Platform-Aya-Raises-7M-to-Scale-Real-Time-Fashion-Model",
+      "company": "Aya",
+      "amount_str": "$7 m",
+      "pub_date": "2026-04-19T11:05:01Z",
+      "website": "https://www.aya.app",
+      "linkedin_url": "https://linkedin.com/company/ayaapp",
+      "founder_name": "",
+      "founder_linkedin_url": "https://linkedin.com/in/aya-a-3b3632184",
+      "contact_email": "info@mawsim.app",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "African Born AI Startup Lua Secures $5.8M Seed Funding to Power Next-Gen AI Agent ...",
@@ -75,28 +89,14 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Schematik Raises $4.6M Pre-Seed to Help Anyone Build Hardware With AI",
-      "article_url": "https://www.schematik.io/blog/schematik-raises-4-6m-pre-seed",
-      "company": "We",
-      "amount_str": "$4.6M",
-      "pub_date": "2026-04-18T15:25:42Z",
-      "website": "https://explore.wetv.com",
-      "linkedin_url": "https://linkedin.com/company/we-comms",
-      "founder_name": "with Puzzle Ventures and",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Sage Haven Raises $3M for Child-Safe Communication App - InforCapital",
-      "article_url": "https://inforcapital.com/news/sage-haven-scores-3m-pre-seed-financing/",
-      "company": "Sage Haven",
-      "amount_str": "$3M",
-      "pub_date": "2026-04-18T11:32:57Z",
-      "website": "https://www.businesswire.com",
-      "linkedin_url": "https://linkedin.com/company/sage-haven-inc",
-      "founder_name": "of SoFi",
+      "title": "Adrian Ai Technologies Limited Secures \u00a329.9k Pre-Seed Funding",
+      "article_url": "https://www.fundingspotter.com/news/adrian-ai-technologies-pre-seed-round",
+      "company": "Adrian Ai Technologies Limited",
+      "amount_str": "\u00a329.9k",
+      "pub_date": "2026-04-18T18:48:44Z",
+      "website": "https://find-and-update.company-information.service.gov.uk",
+      "linkedin_url": "",
+      "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
@@ -142,20 +142,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": "https://x.com/thecube"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "FIFTH SENSE Raises Rs 6.3 Cr to Expand D2C Fragrance Brand - Siliconindia",
-      "article_url": "https://www.siliconindia.com/startup/startup-funding/fifth-sense-raises-rs-63-cr-to-expand-d2c-fragrance-brand-nwid-54134.html",
-      "company": "FIFTH SENSE",
-      "amount_str": "",
-      "pub_date": "2026-04-17T15:57:01Z",
-      "website": "https://fifthsenselingerie.com",
-      "linkedin_url": "https://linkedin.com/company/fifth-sense-lingerie",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "info@fifthsenselingerie.com",
-      "twitter_url": ""
     },
     {
       "source": "SiliconAngle",
