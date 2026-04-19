@@ -39487,5 +39487,44 @@
   },
   "https://femwealth.substack.com/p/camilla-dolans-eka-ventures-launches": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/state-grid-jiangsu-highlights-99-996-power-reliability-and-streamlined-grid-access-for-international-businesses-utility-outlines-low-carbon-power-supply-reduced-connection-costs-and-investor-focused-infrastructure-in-suzhou-302746606.html": {
+    "valid": false
+  },
+  "https://startupfortune.com/why-a-legal-tech-startup-is-interviewing-candidates-on-sundays/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.businesstoday.in/latest/story/bt-explainer-why-reliance-adani-are-banking-on-nuclear-fusion-reactors-over-thorium-526376-2026-04-19": {
+    "valid": false
+  },
+  "https://startupfortune.com/how-us-retirees-are-using-ai-to-build-new-lives-and-businesses-in-mexico/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startup.eu/investments/matta-14m-seed-04-2026": {
+    "valid": true,
+    "company": "Matta",
+    "amount_str": "$14.0M",
+    "website": "https://mattany.com",
+    "linkedin_url": "https://linkedin.com/company/mattaai",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/amb-jeannette-matta-4318b32a2",
+    "contact_email": "support@starapps.studio",
+    "twitter_url": ""
   }
 }

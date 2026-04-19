@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-19T08:44:53.304686Z",
-  "count": 21,
-  "enriched_count": 16,
+  "generated_at": "2026-04-19T12:42:31.210781Z",
+  "count": 20,
+  "enriched_count": 15,
   "articles": [
     {
       "source": "Google Alerts",
@@ -15,6 +15,20 @@
       "founder_name": "of Privy",
       "founder_linkedin_url": "",
       "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Matta raises $14.0M in Seed funding - Startup .eu",
+      "article_url": "https://www.startup.eu/investments/matta-14m-seed-04-2026",
+      "company": "Matta",
+      "amount_str": "$14.0M",
+      "pub_date": "2026-04-19T02:39:10Z",
+      "website": "https://mattany.com",
+      "linkedin_url": "https://linkedin.com/company/mattaai",
+      "founder_name": "",
+      "founder_linkedin_url": "https://linkedin.com/in/amb-jeannette-matta-4318b32a2",
+      "contact_email": "support@starapps.studio",
       "twitter_url": ""
     },
     {
@@ -97,34 +111,6 @@
       "website": "https://www.iconiq.com",
       "linkedin_url": "https://linkedin.com/company/iconiq-capital-llc",
       "founder_name": "where he met Facebook",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Startup wrap: Funding flows continue in MENA amid Iran conflict | Arab News",
-      "article_url": "https://www.arabnews.com/node/2640335/amp",
-      "company": "Startups in Morocco",
-      "amount_str": "$22.6 m",
-      "pub_date": "2026-04-18T07:25:43Z",
-      "website": "https://www.startupblink.com",
-      "linkedin_url": "https://linkedin.com/company/startupyourlife",
-      "founder_name": "founder and",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Grishin Robotics' Post - LinkedIn",
-      "article_url": "https://www.linkedin.com/posts/grishinrobotics_worki-has-raised-275m-in-pre-seed-funding-activity-7451050712144240640-Ut2O",
-      "company": "Worki",
-      "amount_str": "$2.75M",
-      "pub_date": "2026-04-18T04:10:45Z",
-      "website": "https://www.worki.us",
-      "linkedin_url": "https://linkedin.com/company/worki-ai",
-      "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
