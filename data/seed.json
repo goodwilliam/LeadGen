@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-04-19T16:32:23.191337Z",
+  "generated_at": "2026-04-19T20:31:39.374217Z",
   "count": 19,
-  "enriched_count": 13,
+  "enriched_count": 12,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Stendr: $5.4 Million Pre-Seed Funding Raised To Fuel AI-Native Nordic Defense Platform ...",
+      "article_url": "https://pulse2.com/stendr-5-4-million-pre-seed-fuels-ai-native-nordic-defense-platform-targeting-drone-threats/",
+      "company": "Stendr announced it",
+      "amount_str": "$5.4 m",
+      "pub_date": "2026-04-19T19:04:41Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "of Sky Mavis",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Saudi Fintech Blomal Capital Secures Strategic Pre-Seed Investment from Falak Investment Hub",
+      "article_url": "https://assiyaq.com/saudi-fintech-blomal-capital-secures-strategic-pre-seed-investment-from-falak-investment-hub/",
+      "company": "Saudi Fintech Blomal Capital",
+      "amount_str": "",
+      "pub_date": "2026-04-19T14:13:36Z",
+      "website": "https://www.zawya.com",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "pressrelease.zawya@lseg.com",
+      "twitter_url": "https://x.com/Zawya"
+    },
     {
       "source": "Google Alerts",
       "title": "Saudi Platform Aya Raises $7M to Scale Real-Time Fashion Model - CairoScene",
@@ -15,6 +43,20 @@
       "founder_name": "",
       "founder_linkedin_url": "https://linkedin.com/in/aya-a-3b3632184",
       "contact_email": "info@mawsim.app",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "UAE Regtech Qadi Secures Pre- Seed Funding to Transform MENA Compliance Through AI ...",
+      "article_url": "https://assiyaq.com/uae-regtech-qadi-secures-pre-seed-funding-to-transform-mena-compliance-through-ai-automation/",
+      "company": "UAE Regtech Qadi",
+      "amount_str": "",
+      "pub_date": "2026-04-19T09:20:59Z",
+      "website": "",
+      "linkedin_url": "",
+      "founder_name": "Investor and",
+      "founder_linkedin_url": "",
+      "contact_email": "",
       "twitter_url": ""
     },
     {
@@ -33,6 +75,20 @@
     },
     {
       "source": "Google Alerts",
+      "title": "UAE's Kingpin Secures $3.5M Seed Funding to Transform Global B2B Retail Distribution",
+      "article_url": "https://assiyaq.com/uaes-kingpin-secures-3-5m-seed-funding-to-transform-global-b2b-retail-distribution/",
+      "company": "UAE's Kingpin",
+      "amount_str": "$3.5M",
+      "pub_date": "2026-04-19T05:32:12Z",
+      "website": "https://waya.media",
+      "linkedin_url": "https://linkedin.com/company/waya-media",
+      "founder_name": "who serves as",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/waya_media"
+    },
+    {
+      "source": "Google Alerts",
       "title": "Matta raises $14.0M in Seed funding - Startup .eu",
       "article_url": "https://www.startup.eu/investments/matta-14m-seed-04-2026",
       "company": "Matta",
@@ -43,34 +99,6 @@
       "founder_name": "",
       "founder_linkedin_url": "https://linkedin.com/in/amb-jeannette-matta-4318b32a2",
       "contact_email": "support@starapps.studio",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "[Korean Startup Weekly News #114] Upstage Becomes Korea's First Generative AI Unicorn ...",
-      "article_url": "https://en.wowtale.net/2026/04/19/233915/",
-      "company": "ProtierBiotech",
-      "amount_str": "$2.45M",
-      "pub_date": "2026-04-18T23:38:46Z",
-      "website": "https://www.startupresearcher.com",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Avo Raises $10M Series A to Bring Trusted Clinical Knowledge Into the EHR - WOWTALE",
-      "article_url": "https://en.wowtale.net/2026/04/19/233910/",
-      "company": "Avo",
-      "amount_str": "$10M",
-      "pub_date": "2026-04-18T23:23:46Z",
-      "website": "https://avoallvibeson.com",
-      "linkedin_url": "https://linkedin.com/company/avonow",
-      "founder_name": "Yair Saperstein",
-      "founder_linkedin_url": "https://linkedin.com/in/yair-saperstein",
-      "contact_email": "info@avoallvibeson.com",
       "twitter_url": ""
     },
     {
@@ -100,34 +128,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Iconiq, go-to wealth adviser for tech's elite, is putting billions into AI",
-      "article_url": "https://enterpriseai.economictimes.indiatimes.com/news/industry/iconiq-invests-billions-in-ai-startups-rivaling-silicon-valley-vcs/130350943",
-      "company": "Iconiq",
-      "amount_str": "$5.75 b",
-      "pub_date": "2026-04-18T10:58:29Z",
-      "website": "https://www.iconiq.com",
-      "linkedin_url": "https://linkedin.com/company/iconiq-capital-llc",
-      "founder_name": "where he met Facebook",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "STORM Therapeutics secures \u20ac47.5 million for cancer therapy - N24",
-      "article_url": "https://n24.com.tr/en/health/storm-therapeutics-secures-475-million-for-cancer-therapy",
-      "company": "STORM Therapeutics",
-      "amount_str": "\u20ac47.5 m",
-      "pub_date": "2026-04-18T03:20:51Z",
-      "website": "https://www.stormtherapeutics.com",
-      "linkedin_url": "https://linkedin.com/company/storm-therapeutics-limited",
-      "founder_name": "of STORM Therapeutics",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/storm_tx"
     },
     {
       "source": "SiliconAngle",
