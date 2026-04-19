@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T07:07:04Z",
+  "generated_at": "2026-04-19T12:38:06Z",
   "count": 26,
   "jobs": [
     {
@@ -69,7 +69,7 @@
       "companyBatch": "S25",
       "companyOneLiner": "AI voice for property managers",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/aa83a2cdabf22eb6acd4e5c54d4969ec37a0a549.png",
-      "companyLastActiveAt": "11 days ago",
+      "companyLastActiveAt": "12 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92580&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=30364"
     },
     {
@@ -115,20 +115,6 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D90485&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29989"
     },
     {
-      "id": 92507,
-      "title": "Product Designer",
-      "jobType": "fulltime",
-      "location": "Bangalore",
-      "roleType": "Web design",
-      "companyName": "Emergent",
-      "companySlug": "emergent",
-      "companyBatch": "S24",
-      "companyOneLiner": "AI app builder that turns your ideas into monetizable software.",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/86f3eae4a9616e976acbe6b16031d057f3c2fbc8.png",
-      "companyLastActiveAt": null,
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92507&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29765"
-    },
-    {
       "id": 92626,
       "title": "Product Designer",
       "jobType": "fulltime",
@@ -143,6 +129,20 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92626&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29765"
     },
     {
+      "id": 92507,
+      "title": "Product Designer",
+      "jobType": "fulltime",
+      "location": "Bangalore",
+      "roleType": "Web design",
+      "companyName": "Emergent",
+      "companySlug": "emergent",
+      "companyBatch": "S24",
+      "companyOneLiner": "AI app builder that turns your ideas into monetizable software.",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/86f3eae4a9616e976acbe6b16031d057f3c2fbc8.png",
+      "companyLastActiveAt": null,
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92507&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29765"
+    },
+    {
       "id": 78058,
       "title": "Product Designer",
       "jobType": "fulltime",
@@ -153,7 +153,7 @@
       "companyBatch": "S24",
       "companyOneLiner": "AI agents you can rely on",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/ff410def03c8c58c3adc7db9615becc8164804e3.png",
-      "companyLastActiveAt": "16 days ago",
+      "companyLastActiveAt": "17 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D78058&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29649"
     },
     {
@@ -167,7 +167,7 @@
       "companyBatch": "W24",
       "companyOneLiner": "Make sales and marketing videos with AI.",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/9affbf116d392b150097162d18aaec2ff55b99e9.png",
-      "companyLastActiveAt": "3 days ago",
+      "companyLastActiveAt": "4 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D88318&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29510"
     },
     {
@@ -265,7 +265,7 @@
       "companyBatch": "W24",
       "companyOneLiner": "A no-code platform for creating agents and automating workflows with\u2026",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/9fb7e0ce6656ba8369bfc7fdddd4235e6657221b.png",
-      "companyLastActiveAt": "1 day ago",
+      "companyLastActiveAt": "2 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D93131&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29180"
     },
     {
@@ -279,8 +279,22 @@
       "companyBatch": "W24",
       "companyOneLiner": "A no-code platform for creating agents and automating workflows with\u2026",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/9fb7e0ce6656ba8369bfc7fdddd4235e6657221b.png",
-      "companyLastActiveAt": "1 day ago",
+      "companyLastActiveAt": "2 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D93130&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29180"
+    },
+    {
+      "id": 89404,
+      "title": "Design Engineering Intern",
+      "jobType": "intern",
+      "location": "Main Office - Toronto",
+      "roleType": "Web design",
+      "companyName": "Tempo",
+      "companySlug": "tempo-2",
+      "companyBatch": "S23",
+      "companyOneLiner": "Visual Editor for React, powered by AI",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/860f478b7cd2ea33eefb86e90c9c693abef2997f.png",
+      "companyLastActiveAt": "26 days ago",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89404&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29150"
     },
     {
       "id": 83825,
@@ -295,20 +309,6 @@
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/860f478b7cd2ea33eefb86e90c9c693abef2997f.png",
       "companyLastActiveAt": null,
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D83825&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29150"
-    },
-    {
-      "id": 75335,
-      "title": "Agent+ Product Designer",
-      "jobType": "fulltime",
-      "location": "Brazil (Remote) / Remote (US)",
-      "roleType": "Web design",
-      "companyName": "Tempo",
-      "companySlug": "tempo-2",
-      "companyBatch": "S23",
-      "companyOneLiner": "Visual Editor for React, powered by AI",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/860f478b7cd2ea33eefb86e90c9c693abef2997f.png",
-      "companyLastActiveAt": null,
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D75335&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29150"
     },
     {
       "id": 89173,
