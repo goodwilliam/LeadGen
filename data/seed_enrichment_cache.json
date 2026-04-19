@@ -39431,5 +39431,61 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.tekedia.com/african-born-ai-startup-lua-secures-5-8m-seed-funding-to-power-next-gen-ai-agent-workforces-for-businesses/": {
+    "valid": true,
+    "company": "African-born AI startup Lua",
+    "amount_str": "$5.8 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "of Privy",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://nextunicorn.ventures/noc-energy-pioneers-hybrid-solutions-for-industrial-heat/": {
+    "valid": false
+  },
+  "https://businessreviewlive.com/hocco-raises-%E2%82%B9100-cr-in-series-c-in-funding-scales-manufacturing-and-eyes-ipo-growth/": {
+    "valid": true,
+    "company": "Hocco",
+    "amount_str": "",
+    "website": "https://www.hocco.in",
+    "linkedin_url": "https://linkedin.com/company/hoccoindustries",
+    "founder_name": "Ankit Chona confirmed",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://assiyaq.com/utexo-raises-7-5m-seed-round-to-power-usdt-payments-on-bitcoin-network/": {
+    "valid": false
+  },
+  "https://www.siliconindia.com/startup/startup-funding/fifth-sense-raises-rs-63-cr-to-expand-d2c-fragrance-brand-nwid-54134.html": {
+    "valid": true,
+    "company": "FIFTH SENSE",
+    "amount_str": "",
+    "website": "https://fifthsenselingerie.com",
+    "linkedin_url": "https://linkedin.com/company/fifth-sense-lingerie",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@fifthsenselingerie.com",
+    "twitter_url": ""
+  },
+  "https://www.ucc.ie/en/innovation/news-events/ignite-spring-awards-and-showcase-2026.html": {
+    "valid": false
+  },
+  "https://startupfortune.com/the-fragility-problem-threatening-ai-agent-adoption-in-enterprise/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://femwealth.substack.com/p/camilla-dolans-eka-ventures-launches": {
+    "valid": false
   }
 }
