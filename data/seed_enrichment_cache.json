@@ -39308,5 +39308,100 @@
   },
   "https://www.hunted.space/product/startup-seed-funding-for-the-rest-of-us/launches/startup-seed-funding-for-the-rest-of-us": {
     "valid": false
+  },
+  "https://www.msn.com/en-us/money/markets/basfy-expands-nunhem-seed-hub-with-40m-euro-sustainable-investment/ar-AA218dH1": {
+    "valid": false
+  },
+  "https://www.chaincatcher.com/en/article/2259499": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://incrypted.com/en/550-million-acquisition-200-million-for-kraken-and-heightened-interest-in-defi/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://connect.facebook.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/pulse2news/posts/actionai-10-million-seed-funding-raised-to-build-reliable-ai-infrastructure-for-/1637243648402658/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://news.ventureintelligence.com/private-equity/fragrance-brand-fifth-sense-raises-rs.6.3-cr-led-by-otp-ventures": {
+    "valid": false
+  },
+  "https://www.reddit.com/r/informaq/comments/1sp6s96/qoro_quantum_secures_750000_preseed_funding_for/": {
+    "valid": false
+  },
+  "https://alleywatch.com/2026/04/nyctech-week-in-review-4-12-26-4-18-26/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.alleywatch.com.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://patmcguinness.substack.com/p/ai-week-in-review-260418": {
+    "valid": false
+  },
+  "https://sahyadristartups.com/spotlight/startup-india-initiative-hits-record-high-55200-startups-recognized-in-fy-2025-26/": {
+    "valid": false
+  },
+  "https://en.wowtale.net/2026/04/19/233915/": {
+    "valid": true,
+    "company": "ProtierBiotech",
+    "amount_str": "$2.45M",
+    "website": "https://www.startupresearcher.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://en.wowtale.net/2026/04/19/233910/": {
+    "valid": true,
+    "company": "Avo",
+    "amount_str": "$10M",
+    "website": "https://avoallvibeson.com",
+    "linkedin_url": "https://linkedin.com/company/avonow",
+    "founder_name": "Yair Saperstein",
+    "founder_linkedin_url": "https://linkedin.com/in/yair-saperstein",
+    "contact_email": "info@avoallvibeson.com",
+    "twitter_url": ""
+  },
+  "https://www.startupecosystem.ca/news/anthropic-engages-with-trump-administration-amid-pentagon-dispute/": {
+    "valid": false
+  },
+  "https://m.dailyhunt.in/news/india/english/entrepreneur+india-epaper-entrprnr/this+tech+investor+hasnt+touched+a+laptop+or+desktop+computer+since+2010+heres+why-newsid-n708864856": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wa.me",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }

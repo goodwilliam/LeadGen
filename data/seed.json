@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-04-18T20:29:49.341140Z",
+  "generated_at": "2026-04-19T01:56:17.299870Z",
   "count": 21,
-  "enriched_count": 15,
+  "enriched_count": 16,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "[Korean Startup Weekly News #114] Upstage Becomes Korea's First Generative AI Unicorn ...",
+      "article_url": "https://en.wowtale.net/2026/04/19/233915/",
+      "company": "ProtierBiotech",
+      "amount_str": "$2.45M",
+      "pub_date": "2026-04-18T23:38:46Z",
+      "website": "https://www.startupresearcher.com",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Avo Raises $10M Series A to Bring Trusted Clinical Knowledge Into the EHR - WOWTALE",
+      "article_url": "https://en.wowtale.net/2026/04/19/233910/",
+      "company": "Avo",
+      "amount_str": "$10M",
+      "pub_date": "2026-04-18T23:23:46Z",
+      "website": "https://avoallvibeson.com",
+      "linkedin_url": "https://linkedin.com/company/avonow",
+      "founder_name": "Yair Saperstein",
+      "founder_linkedin_url": "https://linkedin.com/in/yair-saperstein",
+      "contact_email": "info@avoallvibeson.com",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Schematik Raises $4.6M Pre-Seed to Help Anyone Build Hardware With AI",
@@ -41,20 +69,6 @@
       "website": "https://www.iconiq.com",
       "linkedin_url": "https://linkedin.com/company/iconiq-capital-llc",
       "founder_name": "where he met Facebook",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Saudi Healthcare Startup DawaDose Secures Pre- Seed Funding to Transform ...",
-      "article_url": "https://assiyaq.com/saudi-healthcare-startup-dawadose-secures-pre-seed-funding-to-transform-pharmaceutical-e-commerce/",
-      "company": "Saudi Healthcare Startup DawaDose",
-      "amount_str": "",
-      "pub_date": "2026-04-18T07:46:28Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "who serves as",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
@@ -142,20 +156,6 @@
       "founder_linkedin_url": "https://linkedin.com/in/sayantan-biswas-",
       "contact_email": "contact@verbaflo.ai",
       "twitter_url": "https://x.com/VerbaFloAI"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Facebook's First Computer Vision Engineer Raised $10M to Solve Construction Drawings",
-      "article_url": "https://bricks-bytes.com/podcast/facebooks-first-computer-vision-engineer-raised-10m-to-solve-construction-drawings-primepoint-10m-seed-round/",
-      "company": "PrimePoint just",
-      "amount_str": "$10M",
-      "pub_date": "2026-04-17T10:56:17Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "SiliconAngle",
