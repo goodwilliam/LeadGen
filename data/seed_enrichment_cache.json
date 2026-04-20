@@ -40032,5 +40032,179 @@
   },
   "https://www.facebook.com/yourstorycom/posts/clarity-labs-has-raised-over-4-crore-in-a-seed-round-led-by-artha-venture-fund-i/1436245038537466/": {
     "valid": false
+  },
+  "https://news.crunchbase.com/cybersecurity/data-robust-venture-funding-ai-q1-2026/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/nasdaq-odd-class-action-notice-berger-montague-encourages-oddity-tech-ltd-nasdaq-odd-investors-to-inquire-about-a-securities-fraud-class-action-302746448.html": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/04/logicc-secures-e2-5-million-amid-continued-momentum-in-germanys-secure-ai-market/": {
+    "valid": false
+  },
+  "https://launchbaseafrica.com/2026/04/20/a-new-expansion-map-african-startups-redraw-routes-through-accra/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://launchbaseafrica.gumroad.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/04/dutch-bv-explained-why-it-has-become-a-go-to-structure-for-international-startups-sponsored/": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/04/insight-partners-backed-screenpoint-medical-secures-e13-6-million-to-advance-ai-powered-breast-cancer-detection/": {
+    "valid": false
+  },
+  "https://www.dealstreetasia.com/stories/vietnam-digest-earth-venture-capital-vng-in-funding-news-479763": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://telegram.me/share/url",
+    "linkedin_url": "",
+    "founder_name": "of VNG",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/telegram"
+  },
+  "https://www.eu-startups.com/2026/04/swiss-startup-planetary-raises-nearly-e23-million-to-build-the-industrial-backbone-of-the-bioeconomy/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/jozo-raises-2-2m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.thinkbusiness.ie/articles/startups-axisbic-venture-academy-2026/": {
+    "valid": false
+  },
+  "https://pulse2.com/traza-2-1-million-raised-to-automate-procurement-and-supply-chain-operations-with-ai-workers/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wp.me/pp5wj-1AUE",
+    "linkedin_url": "https://linkedin.com/company/pulse2news",
+    "founder_name": "Silvestre Jara Montes",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/pulse2news"
+  },
+  "https://x.com/dealertAI/status/2046061298971009165": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/Chirp-Regular.80fda27a.woff2",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/antioch-raises-8-5m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/panoculon-labs_were-excited-to-announce-our-pre-seed-funding-activity-7451893523743768576-4stJ": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Panoculon Labs",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/urfuture-raises-1-7m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/alixlabs-raises-e15m-in-series-a-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/noc-energy-raises-2-7m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/04/brainjo-raises-e2-million-to-develop-vr-based-solutions-that-complement-traditional-therapy-where-it-falls-short/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/cadre-energy-solutions-received-additional-capital-from-progeny.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/insightfinder-raises-15m-in-series-b-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/sage-haven-raises-3m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.newsanyway.com/2026/04/20/this-saskatchewan-startup-is-using-ai-to-teach-kids-personal-finance/": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/adlerphilip_this-fintech-founder-raised-2m-pre-seed-activity-7451907634082947074-ka13": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "This fintech",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/04/uk-startup-rivan-raises-e28-7-million-to-scale-domestic-synthetic-fuel-production-in-europe/": {
+    "valid": false
+  },
+  "https://fortune.com/2026/04/20/private-market-soared-10-trillion-aum-underperformed-public-markets/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cookielaw.org/consent/906dc33b-1fc3-4b2c-a324-8bc0b7db9050/OtAutoBlock.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://yourstory.com/2026/04/startup-news-and-updates-daily-roundup-april-20-2026": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.htworld.co.uk/news/vr/brainjo-secures-e2m-in-seed-funding-for-vr-mental-health-tech-htsu26/": {
+    "valid": false
+  },
+  "https://www.facebook.com/ChitkaraU/videos/agrograde-a-chitkara-university-incubated-startup-pioneering-ai-driven-post-harv/1666035684425947/": {
+    "valid": false
+  },
+  "https://www.citybiz.co/article/834060/actionai-raises-10m-to-build-trustworthy-ai-for-mission-critical-workflows/": {
+    "valid": true,
+    "company": "ActionAI",
+    "amount_str": "$10M",
+    "website": "https://www.actionai.co",
+    "linkedin_url": "https://linkedin.com/company/getactionai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/GetActionAI"
+  },
+  "https://tech.eu/2026/04/20/the-techeu-summit-london-2026-is-tomorrow-last-chance-to-secure-your-place/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/eigen-raises-15m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://startuppedia.in/startup-stories/this-startup-founded-by-three-iit-madras-scientists-is-turning-electricity-into-metal-to-solve-long-duration-energy-storage-challenges-11745215": {
+    "valid": false
+  },
+  "https://www.tice.news/tice-trending/top-startup-news-today-record-growth-deep-tech-push-and-a-vision-for-global-leadership-11745249": {
+    "valid": false
+  },
+  "https://www.adgully.com/post/14469/clarity-labs-raises-inr4-cr-seed-round-led-by-artha-venture-fund-to-scale-performance-led-personal-care-play": {
+    "valid": false
   }
 }
