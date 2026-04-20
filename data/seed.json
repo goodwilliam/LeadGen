@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-04-20T06:12:53.845622Z",
-  "count": 25,
-  "enriched_count": 15,
+  "generated_at": "2026-04-20T09:52:10.933548Z",
+  "count": 24,
+  "enriched_count": 14,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Health tech startup Coral lands $12.5M to automate medical paperwork processing",
+      "article_url": "https://www.crainsnewyork.com/health-care/cny-coral-ai-seed-round-20260420/",
+      "company": "Health tech startup Coral",
+      "amount_str": "$12.5M",
+      "pub_date": "2026-04-20T09:33:28Z",
+      "website": "https://athletechnews.com",
+      "linkedin_url": "https://linkedin.com/company/athletechnews",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/athletechnews"
+    },
     {
       "source": "Google Alerts",
       "title": "Indian startups raised over $139 million from April 13 to April 18, 2026; Polaris Smart ...",
@@ -323,34 +337,6 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "tech.eu",
-      "title": "Ukrainian startups get UK market gateway as TechBridge accelerator returns for 2026",
-      "article_url": "https://tech.eu/2026/04/15/ukrainian-startups-get-uk-market-gateway-as-techbridge-accelerator-returns-for-2026/",
-      "company": "Ukrainian startups",
-      "amount_str": "",
-      "pub_date": "2026-04-15T14:27:54Z",
-      "website": "https://www.ukukrainetechbridge.org",
-      "linkedin_url": "https://linkedin.com/company/uk-ukrainetechbridge",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "techbridge@bluelakevc.com",
-      "twitter_url": "https://x.com/UkUkrainetech"
-    },
-    {
-      "source": "tech.eu",
-      "title": "Stendr secures $5.4M pre-seed to develop AI-driven defence systems",
-      "article_url": "https://tech.eu/2026/04/15/stendr-secures-54m-pre-seed-to-develop-ai-driven-defence-systems/",
-      "company": "Stendr",
-      "amount_str": "$5.4M",
-      "pub_date": "2026-04-15T14:00:00Z",
-      "website": "https://stendr.com",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "email@company.com",
       "twitter_url": ""
     }
   ]

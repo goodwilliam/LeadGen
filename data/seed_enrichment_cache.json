@@ -40006,5 +40006,31 @@
   },
   "https://inforcapital.com/news/stendr-54-million-pre-seed-funding-raised-to-fuel-ai-native-nordic-defense-platform-targeting-drone-threats": {
     "valid": false
+  },
+  "https://tech.eu/2026/04/20/venture-kick-backs-nureo-with-eur163k-to-streamline-3d-design-processes/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/20/european-tech-weekly-recap-more-than-75-tech-funding-deals-worth-over-eur19b/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/seed-junky-genetics-founder-jbeezy-announces-return-of-the-minntz-brand-302746158.html": {
+    "valid": false
+  },
+  "https://www.crainsnewyork.com/health-care/cny-coral-ai-seed-round-20260420/": {
+    "valid": true,
+    "company": "Health tech startup Coral",
+    "amount_str": "$12.5M",
+    "website": "https://athletechnews.com",
+    "linkedin_url": "https://linkedin.com/company/athletechnews",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/athletechnews"
+  },
+  "https://www.instagram.com/p/DXV4WR8IFZW/": {
+    "valid": false
+  },
+  "https://www.facebook.com/yourstorycom/posts/clarity-labs-has-raised-over-4-crore-in-a-seed-round-led-by-artha-venture-fund-i/1436245038537466/": {
+    "valid": false
   }
 }
