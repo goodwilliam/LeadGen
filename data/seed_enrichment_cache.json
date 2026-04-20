@@ -40206,5 +40206,192 @@
   },
   "https://www.adgully.com/post/14469/clarity-labs-raises-inr4-cr-seed-round-led-by-artha-venture-fund-to-scale-performance-led-personal-care-play": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/04/20/faa-orders-investigation-into-blue-origins-new-glenn-mishap/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/20/rivan-raises-34m-to-build-synthetic-gas-infrastructure-for-europe/": {
+    "valid": true,
+    "company": "Rivan",
+    "amount_str": "$34M",
+    "website": "https://rivan.com",
+    "linkedin_url": "https://linkedin.com/company/rivanindustries",
+    "founder_name": "According to Harvey Hodd",
+    "founder_linkedin_url": "",
+    "contact_email": "ops@rivan.com",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/navn-shareholder-notice-securities-class-action-alleges-navans-navn-ipo-materials-omitted-to-surge-in-sales--marketing-expenses--hagens-berman-302746599.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/can-pets-help-you-live-longer-new-research-to-investigate-the-link-between-pet-ownership-psychosocial-and-health-behaviors-and-mortality-among-older-adults-302747340.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/target-announces-2026-bullseye-builds-investing-in-community-spaces-with-volunteerism-and-design-302747511.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/scout-motors-and-readysc-open-new-training-center-in-blythewood-302747490.html": {
+    "valid": false
+  },
+  "https://www.tradingkey.com/analysis/cryptocurrencies/more/261801030-crypto-polymarket-ice-prediction-predict-forecast-cme-cboe-robinhood-tradingkey": {
+    "valid": true,
+    "company": "Polymarket",
+    "amount_str": "$400 M",
+    "website": "https://polymarket.com",
+    "linkedin_url": "https://linkedin.com/company/polymarket",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@polymarket.com",
+    "twitter_url": "https://x.com/Polymarket"
+  },
+  "https://ventureburn.com/eigen-secures-15m-seed-for-mutual-friend-ai-tool/": {
+    "valid": true,
+    "company": "Eigen",
+    "amount_str": "$15M",
+    "website": "https://libeigen.gitlab.io",
+    "linkedin_url": "https://linkedin.com/company/eigen-technologies",
+    "founder_name": "of Pinterest",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://launchbaseafrica.com/2026/04/20/profit-pivot-and-panic-swvl-faces-nasdaq-delisting-threat-despite-1-3m-turnaround/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://launchbaseafrica.gumroad.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://itbrief.co.uk/story/coral-raises-usd-12-5-million-to-automate-healthcare-admin": {
+    "valid": true,
+    "company": "Coral",
+    "amount_str": "$12.5 m",
+    "website": "https://coralclub.us",
+    "linkedin_url": "https://linkedin.com/company/coral-club",
+    "founder_name": "said Ajay Shrihari",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://arcticstartup.com/stendr-raises-5-4m-pre-seed/?amp=1": {
+    "valid": true,
+    "company": "Norway's Stendr",
+    "amount_str": "$5.4M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://satnews.com/2026/04/20/smallsat-europe-speaker-focus-gen-michel-friedling-look-up-space/": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/actionai-raises-10m-seed-round": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/lua-raises-5-8-million-in-funding": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/invia-raises-1-2-million-in-funding": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/creao-ai-lands-10-million-in-funding": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/gurusup-raises-1-3m-seed-round": {
+    "valid": false
+  },
+  "https://entarabi.com/en/2026/04/signit-closes-a-15-million-series-a-round-to-lead-the-ai-driven-transformation-of-contract-management-in-saudi-arabia/": {
+    "valid": true,
+    "company": "Signit",
+    "amount_str": "$15 m",
+    "website": "https://www.trysignit.com",
+    "linkedin_url": "https://linkedin.com/company/signit-app",
+    "founder_name": "Mohamed El Abbouri",
+    "founder_linkedin_url": "https://linkedin.com/in/mohamed-el-abbouri",
+    "contact_email": "support@trysignit.com",
+    "twitter_url": ""
+  },
+  "https://businessplus.ie/enterprise/entrepreneurs-axisbic-venture-academy/": {
+    "valid": false
+  },
+  "https://www.indianretailer.com/news/funding-alert-personal-care-startup-clarity-labs-secures-rs-4-cr-funding": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/favicon.ico",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.statnews.com/2026/04/20/kelonia-therapeutics-eli-lilly-slide-deck-memo/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/recursive-superintelligence-500m-funding-gv-nvidia-4b-valuation/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/deepseek-first-external-funding-10b-valuation-report/": {
+    "valid": false
+  },
+  "https://www.businesswire.com/news/home/20260420585460/en/Sonic-Fire-Tech-Included-in-Los-Angeles-Countys-First-Ever-Approved-3D-Printed-Concrete-Home-Permit-Lands-NFPA-13D-Equivalent-Rating-and-Wows-San-Bernardino-County-Fire-in-Live-Test": {
+    "valid": false
+  },
+  "https://www.msn.com/en-in/news/other/clarity-labs-raises-rs-4-crore-in-seed-funding-led-by-artha-venture-fund-ii/ar-AA21hEEI?ocid=finance-verthp-feeds": {
+    "valid": true,
+    "company": "Clarity Labs",
+    "amount_str": "",
+    "website": "https://claritylabs.com",
+    "linkedin_url": "https://linkedin.com/company/claritylaboratory",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@claritylabs.com",
+    "twitter_url": "https://x.com/ClarityLaborat1"
+  },
+  "https://www.finsmes.com/2026/04/wavelet-medical-raises-7m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://arcticstartup.com/proteins-1-raises-e4-7-million-pre-seed/?amp=1": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/gurusup-raises-e1-3m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://x.com/amosuibk/status/2046131480141684796": {
+    "valid": false
+  },
+  "https://techfundingnews.com/coral-12-5m-healthcare-admin-automation-fax-machine/": {
+    "valid": true,
+    "company": "Coral",
+    "amount_str": "$12.5M",
+    "website": "https://coralclub.us",
+    "linkedin_url": "https://linkedin.com/company/coral-club",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DXWoDp6gdmx/": {
+    "valid": false
+  },
+  "https://retail.economictimes.indiatimes.com/amp/news/health-and-beauty/clarity-labs-raises-rs-4-crore-in-seed-funding-led-by-artha-venture-fund-ii/130390039": {
+    "valid": true,
+    "company": "Clarity Labs",
+    "amount_str": "",
+    "website": "https://claritylabs.com",
+    "linkedin_url": "https://linkedin.com/company/claritylaboratory",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@claritylabs.com",
+    "twitter_url": "https://x.com/ClarityLaborat1"
+  },
+  "https://businessreviewlive.com/personal-care-startup-clarity-labs-secures-%E2%82%B920-cr-in-funding-to-scale-omnichannel-skincare-business/": {
+    "valid": false
   }
 }
