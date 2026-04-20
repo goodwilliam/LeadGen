@@ -39748,5 +39748,162 @@
   },
   "https://www.nucamp.co/blog/top-10-tech-coworking-spaces-and-incubators-in-cambodia-in-2026": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/coty-investors-have-opportunity-to-lead-coty-inc-securities-fraud-lawsuit-302746149.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/pulnovo-medical-announces-strategic-investment-from-medtronic-in-oversubscribed-100-million-financing-round-302746638.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/pulnovo-medical-announces-strategic-investment-from-medtronic-in-oversubscribed-100-million-financing-round-302746655.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/atra-investors-have-opportunity-to-lead-atara-biotherapeutics-inc-securities-fraud-lawsuit-302746316.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-barclays-plc-investors-to-inquire-about-securities-class-action-investigation--bcs-302746260.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/drvn-investors-have-opportunity-to-lead-driven-brands-holdings-inc-securities-fraud-lawsuit-302746128.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/smr-deadline-smr-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-nuscale-power-corporation-securities-fraud-lawsuit-302746212.html": {
+    "valid": false
+  },
+  "https://www.startupdaily.net/topic/funding/battery-recycling-startup-renewable-metals-charges-up-on-12-million-series-a/": {
+    "valid": true,
+    "company": "Renewable Metals previously",
+    "amount_str": "$16.1 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Luan Atkinson",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://businesscloud.co.uk/news/gizmo-a-cambridge-spinout-with-13m-users-raises-16m/": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/health/other/geekwire-awards-from-ai-safety-to-robotic-ultrasounds-meet-the-startup-of-the-year-finalists/ar-AA213c6L?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": false
+  },
+  "https://inforcapital.com/news/36%E6%B0%AA%E9%A6%96%E5%8F%91-%E5%89%8D%E5%8D%8E%E4%B8%BA%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%88%9B%E4%B8%9A%E5%AE%9E%E7%8E%B0%E4%B8%B4%E6%97%B6%E9%94%AE%E5%90%88%E8%BD%BD%E6%9D%BF%E5%AD%98%E9%87%8F%E5%BE%AA%E7%8E%AF%E9%BE%99%E5%A4%B4%E5%AE%A2%E6%88%B7%E5%B7%B2%E9%AA%8C%E8%AF%81/": {
+    "valid": false
+  },
+  "https://arabfounders.net/en/satark-ai-cybersecurity-preseed-funding/": {
+    "valid": true,
+    "company": "India-Based Satark AI",
+    "amount_str": "$4M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Unveils Blueprint to Help",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://assiyaq.com/saudi-fintech-sindbad-tech-secures-4-8m-seed-funding-to-advance-digital-financial-solutions/": {
+    "valid": true,
+    "company": "Saudi Fintech Sindbad Tech",
+    "amount_str": "$4.8M",
+    "website": "https://www.techafricanews.com",
+    "linkedin_url": "https://linkedin.com/company/tech-africa-news",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "sales@techafrica.news",
+    "twitter_url": ""
+  },
+  "https://www.fundingspotter.com/news/last-fan-standing-pre-seed-round": {
+    "valid": true,
+    "company": "Last Fan Standing",
+    "amount_str": "\u00a315k",
+    "website": "https://www.premierleague.com",
+    "linkedin_url": "https://linkedin.com/company/last-fan-standing",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/premierleague"
+  },
+  "https://assiyaq.com/saudi-gaming-tech-startup-qwacks-secures-480k-pre-seed-investment-to-advance-game-development-infrastructure/": {
+    "valid": true,
+    "company": "Saudi Gaming Tech Startup Qwacks",
+    "amount_str": "$480K",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Anas Alsahli",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://en.wowtale.net/2026/04/20/233918/": {
+    "valid": true,
+    "company": "Cutib",
+    "amount_str": "",
+    "website": "http://cutib.com",
+    "linkedin_url": "https://linkedin.com/company/cutib",
+    "founder_name": "said Donghyuk Choi",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.einpresswire.com/article/905241162/synthan-sciences-prepares-seed-round-for-physical-ai-safety-infrastructure": {
+    "valid": false
+  },
+  "https://www.fiercebiotech.com/research/aacr-former-genentech-leader-engineers-startup-vision-smart-cancer-drugs": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://qtxasset.com/quartz/qcloud5/fiercefavicon.ico",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://nextunicorn.ventures/cursor-the-ai-coding-startup-eyes-50-billion-valuation-amid-rapid-growth/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupfortune.com/vercel-breach-exposes-ai-tool-supply-chain-risk-ahead-of-ipo/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupfortune.com/ai-startups-face-12-month-reality-check-as-foundation-models-expand/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.nigeriastartupact.ng/covenant-university-student-wins-%E2%82%A650m-fg-s-vcg-grant-for-ai-startup/": {
+    "valid": false
+  },
+  "https://startupfortune.com/nsa-runs-anthropics-unreleased-mythos-ai-despite-federal-ban/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
