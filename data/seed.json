@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-04-20T01:59:30.584406Z",
-  "count": 24,
-  "enriched_count": 14,
+  "generated_at": "2026-04-20T06:12:53.845622Z",
+  "count": 25,
+  "enriched_count": 15,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Indian startups raised over $139 million from April 13 to April 18, 2026; Polaris Smart ...",
+      "article_url": "https://indianstartupnews.com/funding/indian-startups-raised-over-139-million-from-april-13-to-april-18-2026-polaris-smart-metering-tops-the-list-11744991",
+      "company": "Backpacker hostel chain The Hosteller",
+      "amount_str": "$16.2 m",
+      "pub_date": "2026-04-20T05:00:47Z",
+      "website": "https://smefutures.com",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Ray launches in Dubai with $1.2 million investment in hand - Wamda",
+      "article_url": "http://wamda.com/2026/04/ray-launches-dubai-1-2-million-investment-hand",
+      "company": "Ray",
+      "amount_str": "$1.2 m",
+      "pub_date": "2026-04-20T04:22:30Z",
+      "website": "https://www.ray-ban.com",
+      "linkedin_url": "https://linkedin.com/company/raywifi",
+      "founder_name": "of Ray",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "15 publicly disclosed funding events, Paxos Labs completes $12 million funding round ... - PANews",
+      "article_url": "https://www.panewslab.com/en/articles/019da8cf-e172-715e-94a1-9acd54c9af2c",
+      "company": "Nava",
+      "amount_str": "$8.3 m",
+      "pub_date": "2026-04-20T03:29:48Z",
+      "website": "https://www.navafshn.com",
+      "linkedin_url": "https://linkedin.com/company/nava-pbc",
+      "founder_name": "of EigenLayer",
+      "founder_linkedin_url": "",
+      "contact_email": "info@navafshn.com",
+      "twitter_url": "https://x.com/suricate"
+    },
     {
       "source": "Google Alerts",
       "title": "Cutib Raises Seed Bridge Round to Scale AI-Powered Video Project Management Platform 'tacu'",
@@ -145,20 +187,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "African Born AI Startup Lua Secures $5.8M Seed Funding to Power Next-Gen AI Agent ...",
-      "article_url": "https://www.tekedia.com/african-born-ai-startup-lua-secures-5-8m-seed-funding-to-power-next-gen-ai-agent-workforces-for-businesses/",
-      "company": "African-born AI startup Lua",
-      "amount_str": "$5.8 m",
-      "pub_date": "2026-04-19T07:48:21Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "of Privy",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "UAE's Kingpin Secures $3.5M Seed Funding to Transform Global B2B Retail Distribution",
       "article_url": "https://assiyaq.com/uaes-kingpin-secures-3-5m-seed-funding-to-transform-global-b2b-retail-distribution/",
       "company": "UAE's Kingpin",
@@ -170,20 +198,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": "https://x.com/waya_media"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Hocco raises \u20b9100 Cr in Series C in funding, scales manufacturing and eyes IPO growth",
-      "article_url": "https://businessreviewlive.com/hocco-raises-%E2%82%B9100-cr-in-series-c-in-funding-scales-manufacturing-and-eyes-ipo-growth/",
-      "company": "Hocco",
-      "amount_str": "",
-      "pub_date": "2026-04-18T21:40:54Z",
-      "website": "https://www.hocco.in",
-      "linkedin_url": "https://linkedin.com/company/hoccoindustries",
-      "founder_name": "Ankit Chona confirmed",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "Google Alerts",

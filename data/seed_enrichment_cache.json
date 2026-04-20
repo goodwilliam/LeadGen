@@ -39905,5 +39905,106 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/20/brainjo-expands-mental-healthcare-through-vr-and-secures-eur2m-in-seed-funding/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-immutep-ltd-investors-to-inquire-about-securities-class-action-investigation--immp-302746800.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/oddity-tech-ltd-group-limited-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--odd-302746773.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/driven-brands-holdings-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--drvn-302746772.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/snowflake-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--snow-302746770.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/vital-farms-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--vitl-302746799.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/eos-energy-enterprises-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--eose-302746775.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/soleno-therapeutics-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--slno-302746766.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/apollo-global-management-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--apo-302746767.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/nektar-therapeutics-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--nktr-302746762.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/navan-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights---navn-302746760.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/lufax-holding-ltd-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--lu-302746791.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/upst-investors-have-opportunity-to-lead-upstart-holdings-inc-securities-fraud-lawsuit-302746797.html": {
+    "valid": false
+  },
+  "https://indianstartupnews.com/funding/indian-startups-raised-over-139-million-from-april-13-to-april-18-2026-polaris-smart-metering-tops-the-list-11744991": {
+    "valid": true,
+    "company": "Backpacker hostel chain The Hosteller",
+    "amount_str": "$16.2 m",
+    "website": "https://smefutures.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "http://wamda.com/2026/04/ray-launches-dubai-1-2-million-investment-hand": {
+    "valid": true,
+    "company": "Ray",
+    "amount_str": "$1.2 m",
+    "website": "https://www.ray-ban.com",
+    "linkedin_url": "https://linkedin.com/company/raywifi",
+    "founder_name": "of Ray",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/brainjo-2m-seed-vr-adhd-therapy-children-germany/": {
+    "valid": false
+  },
+  "https://www.azoquantum.com/News.aspx?newsID=11109": {
+    "valid": false
+  },
+  "https://www.panewslab.com/en/articles/019da8cf-e172-715e-94a1-9acd54c9af2c": {
+    "valid": true,
+    "company": "Nava",
+    "amount_str": "$8.3 m",
+    "website": "https://www.navafshn.com",
+    "linkedin_url": "https://linkedin.com/company/nava-pbc",
+    "founder_name": "of EigenLayer",
+    "founder_linkedin_url": "",
+    "contact_email": "info@navafshn.com",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://www.thesaasnews.com/news/capsule-security-bags-7m-seed-round": {
+    "valid": false
+  },
+  "https://thecurrencyanalytics.com/technology/ai-startups-pull-242-billion-in-three-months-blowing-past-last-years-total-253871": {
+    "valid": false
+  },
+  "https://weeklyvoice.com/pulnovo-medical-announces-strategic-investment-from-medtronic-in-oversubscribed-100-million-financing-round/": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/grishinrobotics_replenit-has-raised-25m-in-pre-seed-funding-activity-7451743973334839296-tp1V": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://inforcapital.com/news/stendr-54-million-pre-seed-funding-raised-to-fuel-ai-native-nordic-defense-platform-targeting-drone-threats": {
+    "valid": false
   }
 }
