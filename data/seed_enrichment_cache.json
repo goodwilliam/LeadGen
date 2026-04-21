@@ -41586,5 +41586,322 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/": {
+    "valid": false
+  },
+  "https://venturebeat.com/security/vercel-breach-exposes-the-oauth-gap-most-security-teams-cannot-detect-scope-or-contain": {
+    "valid": false
+  },
+  "https://venturebeat.com/orchestration/the-ai-governance-mirage-why-72-of-enterprises-dont-have-the-control-and-security-they-think-they-do": {
+    "valid": false
+  },
+  "https://venturebeat.com/technology/openais-chatgpt-images-2-0-is-here-and-it-does-multilingual-text-full-infographics-slides-maps-even-manga-seemingly-flawlessly": {
+    "valid": false
+  },
+  "https://betakit.com/carbonyx-raises-1-2-million-to-turn-mining-waste-into-usable-materials/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/21/syenta-raises-26m-funding-speed-chip-interconnect-production/": {
+    "valid": true,
+    "company": "Syenta",
+    "amount_str": "$26M",
+    "website": "https://syenta.us",
+    "linkedin_url": "https://linkedin.com/company/syenta",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/04/21/ai-governance-data-thecube-insights-qlikconnect/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/california-american-water-celebrates-earth-day-with-water-saving-tips-302749327.html": {
+    "valid": false
+  },
+  "https://asiatechdaily.com/earth-vc-participates-in-139m-sygaldry-round-to-advance-energy-efficient-ai/": {
+    "valid": false
+  },
+  "https://medcitynews.com/2026/04/tortugas-neuroscience-startup-cure-ventures-schizophrenia-tinnitus-hansoh-eisai/": {
+    "valid": false
+  },
+  "https://uwaterloo.ca/engineering/news/alumni-startup-wygo-raises-16m-build-community": {
+    "valid": true,
+    "company": "Alumni startup Wygo",
+    "amount_str": "$1.6M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.fastcompany.com/91529432/drum-roller-doesnt-need-a-driver-crewline": {
+    "valid": false
+  },
+  "https://www.biopharmadive.com/news/tortugas-biotech-startup-jonas-robichaud-hansoh-eisai/818076/": {
+    "valid": false
+  },
+  "https://www.financialexpress.com/business/start-ups/curemeabroad-raises-600000-in-pre-seed-round-startup-aiming-to-simplify-medical-tourism-gets-backing-from-roman-saini/4214478/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/bubble-robotics-5m-pre-seed-autonomous-underwater-robots/": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/04/warsaws-zynt-raises-e424-4k-pre-seed-to-sharpen-ai-powered-b2b-sales-intelligence/": {
+    "valid": false
+  },
+  "https://www.facilitiesmanagement-now.com/article/267686/university-of-edinburgh-spinout-exergy3-secures-10m-seed-funding?utm_source=facilitiesmanagement&utm_medium=newsfeed&utm_campaign=facilitiesmanagement-articleId-267686": {
+    "valid": false
+  },
+  "https://entrackr.com/snippets/nudgebee-raises-3-mn-in-seed-round-led-by-kalaari-capital-11748153": {
+    "valid": true,
+    "company": "NudgeBee",
+    "amount_str": "$3 m",
+    "website": "https://www.nudgebee.com",
+    "linkedin_url": "https://linkedin.com/company/nudgebee",
+    "founder_name": "with participation from technology",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fintechnews.my/57978/blockchain/hata-series-a-funding-bybit-malaysia/": {
+    "valid": false
+  },
+  "https://entrackr.com/snippets/legal-tech-startup-lawyered-bags-25-mn-led-by-rainmatter-and-turbostart-11747865": {
+    "valid": true,
+    "company": "Legal tech startup Lawyered",
+    "amount_str": "$2.5 m",
+    "website": "https://techdigitalminds.com",
+    "linkedin_url": "https://linkedin.com/company/techdigitalminds",
+    "founder_name": "The Sleep Company",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@techdigitalminds.com",
+    "twitter_url": "https://x.com/techdglminds"
+  },
+  "https://www.eu-startups.com/2026/04/edinburghs-exergy3-raises-e11-4-million-to-turn-surplus-renewable-power-into-clean-industrial-heat/": {
+    "valid": false
+  },
+  "https://thelogic.co/briefing/openai-and-founders-fund-back-torontos-biossil-to-find-new-drugs-with-ai/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.theglobeandmail.com/business/article-toronto-startup-biossil-aims-to-give-failed-drugs-new-life-with-ai",
+    "linkedin_url": "https://linkedin.com/company/the-globe-and-mail",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "publiceditor@globeandmail.com",
+    "twitter_url": "https://x.com/globeandmail"
+  },
+  "https://startupsmagazine.co.uk/firenze-secures-6m-to-democratise-lombard-lending": {
+    "valid": false
+  },
+  "https://themalaysianreserve.com/2026/04/21/arcfield-awarded-117m-contract-to-continue-work-on-the-u-s-navys-sea-based-strategic-deterrent/": {
+    "valid": false
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/axia-time-raises-seed-round-133800599.html": {
+    "valid": true,
+    "company": "AXIA Time",
+    "amount_str": "",
+    "website": "https://axiatime.com",
+    "linkedin_url": "https://linkedin.com/company/axiatimellc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "INFO@AXIATIME.COM",
+    "twitter_url": "https://x.com/AxiaTimeLLC"
+  },
+  "https://www.wfmz.com/business/consumers-are-lost-at-sea-as-seafood-sustainability-grows-more-complex/article_a4980cf4-4880-5f5f-9453-3b4fd1296103.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.wfmz.com/business/stocks-and-oil-prices-hold-relatively-steady-in-the-countdown-to-us-iran-ceasefire-talks/article_9d1e17dd-fee7-57d7-ba0b-a28279accf48.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://innovation-village.com/sinai-ai-raises-1-45m/": {
+    "valid": true,
+    "company": "Sinai.ai",
+    "amount_str": "$1.45M",
+    "website": "https://www.sinai.ai",
+    "linkedin_url": "https://linkedin.com/company/sinai-ai",
+    "founder_name": "According to",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Sinaidotai"
+  },
+  "https://www.financialexpress.com/business/start-ups/curemeabroad-raises-600000-in-pre-seed-round-startup-aiming-to-simplify-medical-tourism-gets-backing-from-roman-saini/4214478/lite/": {
+    "valid": true,
+    "company": "CureMeAbroad",
+    "amount_str": "",
+    "website": "https://curemeabroad.com",
+    "linkedin_url": "https://linkedin.com/company/curemeabroad",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@curemeabroad.com",
+    "twitter_url": ""
+  },
+  "https://disruptafrica.com/2026/04/21/how-nigerias-powerlabs-hopes-to-boost-human-productivity-through-intelligent-energy/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://africabusinessheroes.org/en/register",
+    "linkedin_url": "https://linkedin.com/company/africasbusinessheroes",
+    "founder_name": "Tobe Arize",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/africa_heroes"
+  },
+  "https://m.dailyhunt.in/news/india/english/inc42-epaper-inc/dhan+parent+raise+financial+acquires+trading+platform+stratzy-newsid-n709254454": {
+    "valid": true,
+    "company": "Dhan Parent",
+    "amount_str": "",
+    "website": "https://entrackr.com",
+    "linkedin_url": "https://linkedin.com/company/entrackr",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/entrackr"
+  },
+  "https://pulse2.com/sinai-ai-1-45-million-pre-seed-raised-to-reinvent-books-with-ai-native-aibook-platform/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wp.me/pp5wj-1AZN",
+    "linkedin_url": "https://linkedin.com/company/pulse2news",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/pulse2news"
+  },
+  "https://www.finsmes.com/2026/04/hqlax-closes-series-c-1-funding.html": {
+    "valid": false
+  },
+  "https://www.indianstartuptimes.com/investment/acai-theory-raises-rs-4-crore-to-expand-health-focused-qsr-brand/": {
+    "valid": true,
+    "company": "A\u00e7a\u00ed Theory",
+    "amount_str": "",
+    "website": "https://acaitheory.com",
+    "linkedin_url": "https://linkedin.com/company/acai-theory",
+    "founder_name": "of Fragaria",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/AcaiTheoryIndia"
+  },
+  "https://www.finsmes.com/2026/04/hata-raises-usd8m-in-series-a-funding.html": {
+    "valid": false
+  },
+  "https://www.siliconrepublic.com/comms/vodafone-ireland-invest-e360m-over-next-four-years-networks-digital-ai": {
+    "valid": false
+  },
+  "https://x.com/indstartupnews/status/2046583726080164051": {
+    "valid": false
+  },
+  "https://www.techbuzz.ai/articles/neocognition-raises-40m-seed-for-human-like-ai-agents": {
+    "valid": true,
+    "company": "NeoCognition",
+    "amount_str": "$40M",
+    "website": "https://www.neocognition.ai",
+    "linkedin_url": "https://linkedin.com/company/neocognitionai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@neocognition.ai",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://www.facebook.com/thefinancialexpress/posts/healthtech-startup-curemeabroad-raises-600k-in-pre-seed-funding-to-expand-its-ai/1409146557907599/": {
+    "valid": true,
+    "company": "CureMeAbroad",
+    "amount_str": "$600K",
+    "website": "https://curemeabroad.com",
+    "linkedin_url": "https://linkedin.com/company/curemeabroad",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@curemeabroad.com",
+    "twitter_url": ""
+  },
+  "https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-21-2026/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.alleywatch.com.com",
+    "linkedin_url": "",
+    "founder_name": "most active",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.cleantrucking.com/battery-electric/article/15822875/humble-unveils-autonomous-cabless-ev-truck-for-freight": {
+    "valid": false
+  },
+  "https://startupfortune.com/lovables-api-flaw-exposed-private-project-data-from-the-66-billion-ai-app-builder-used-by-nvidia-and-microsoft-teams/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://afrotech.com/how-sensori-onboarded-poppis-former-vp": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://htlbid.com/v3/afrotech.com/htlbid.css",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupfortune.com/australian-startup-syenta-raises-26-million-and-lands-pat-gelsinger-to-tackle-the-ai-chip-supply-crisis/": {
+    "valid": true,
+    "company": "Syenta",
+    "amount_str": "$26 m",
+    "website": "https://syenta.us",
+    "linkedin_url": "https://linkedin.com/company/syenta",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/04/21/whats-the-key-to-better-vegan-cheese-microbreweries-one-startup-says/": {
+    "valid": false
+  },
+  "https://www.trucknews.com/technology/humble-emerges-from-stealth-with-cabless-autonomous-electric-hauler-24m-backing/1003213449/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://use.typekit.net/yyt6yjc.css",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
