@@ -40798,5 +40798,183 @@
   },
   "https://au-startups.com/ar/news/issue-28-anchor-raised-1-million-pre-seed-duplo-raised-4-3-million-seed-and-more": {
     "valid": false
+  },
+  "https://tech.eu/2026/04/21/smart-robotics-secures-eur10m-series-a-to-expand-ai-robotic-picking-in-europe/": {
+    "valid": true,
+    "company": "Smart Robotics",
+    "amount_str": "\u20ac10M",
+    "website": "https://smart-robotics.io",
+    "linkedin_url": "https://linkedin.com/company/smart-robotics",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/smartroboticsnl"
+  },
+  "https://tech.eu/2026/04/21/orangeqs-extends-seed-round-to-eur15m-as-it-launches-quantum-chip-testing-partnership-programme/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/21/zynt-raises-500k-pre-seed-to-drive-signal-based-b2b-sales/": {
+    "valid": true,
+    "company": "Zynt",
+    "amount_str": "$500K",
+    "website": "https://getzynt.com",
+    "linkedin_url": "https://linkedin.com/company/getzynt",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@getzynt.com",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/bw-investors-have-opportunity-to-lead-babcock--wilcox-enterprises-inc-securities-fraud-lawsuit-302748146.html": {
+    "valid": false
+  },
+  "https://nordic9.com/news/poppet-raised-pre-seed-funding/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://ecosystem.dubaifoundershq.com/investors/zedcrest_capital/news": {
+    "valid": true,
+    "company": "Nigerian startup PaidHR",
+    "amount_str": "$1.8 m",
+    "website": "https://nairametrics.com",
+    "linkedin_url": "https://linkedin.com/company/nairametrics",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/nairametrics"
+  },
+  "https://www.eu-startups.com/2026/04/delfts-orangeqs-extends-seed-round-to-e15-million-to-scale-quantum-chip-testing/": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DXYnoITFhs4/": {
+    "valid": false
+  },
+  "https://www.facebook.com/Inc42/posts/enterprise-tech-startup-nudgebee-has-raised-3-mn-279-cr-in-its-seed-funding-roun/1526711885719595/": {
+    "valid": true,
+    "company": "NudgeBee",
+    "amount_str": "$3 M",
+    "website": "https://www.nudgebee.com",
+    "linkedin_url": "https://linkedin.com/company/nudgebee",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://en.ain.ua/2026/04/21/zynt-raises-500k/": {
+    "valid": true,
+    "company": "Polish startup Zynt",
+    "amount_str": "$0.5M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "says Cezary Reszel",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://retail.economictimes.indiatimes.com/amp/news/food-entertainment/food-services/acai-theory-raises-rs-4-cr-pre-seed-led-by-all-in-capital-and-tdv-partner/130407305": {
+    "valid": true,
+    "company": "Acai Theory",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/acai-theory",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/04/21/insightfinder-ai-closes-15m-series-b-to-fix-how-enterprises-monitor-ai-systems/": {
+    "valid": true,
+    "company": "InsightFinder AI",
+    "amount_str": "$15M",
+    "website": "https://insightfinder.com",
+    "linkedin_url": "https://linkedin.com/company/insightfinder-inc",
+    "founder_name": "Helen Gu",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/04/21/cerebras-systems-files-for-ipo-after-23b-valuation-and-openai-deal/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/04/21/worki-announces-2-75m-to-build-the-ai-workforce-unifying-infrastructure-layer-for-healthcare-workforce-operations/": {
+    "valid": true,
+    "company": "Worki",
+    "amount_str": "$2.75M",
+    "website": "https://www.worki.us",
+    "linkedin_url": "https://linkedin.com/company/worki-ai",
+    "founder_name": "said Steve West",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "http://www.aastocks.com/en/mobile/news.aspx?newsid=NOW.1518993&newstype=61&newssource=HK6": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://yourstory.com/ai-story/nudgebee-bags-3-million-funding-led-by-kalaari-capital": {
+    "valid": true,
+    "company": "NudgeBee",
+    "amount_str": "$3M",
+    "website": "https://www.nudgebee.com",
+    "linkedin_url": "https://linkedin.com/company/nudgebee",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://m.techflowpost.com/en-US/article/31227": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "http://www.aastocks.com/en/usq/news/comment.aspx?source=AAFN&id=NOW.1518993&catg=1": {
+    "valid": false
+  },
+  "https://yourstory.com/2026/04/ai-co-nudgebee-secures-funding": {
+    "valid": true,
+    "company": "AI co NudgeBee",
+    "amount_str": "",
+    "website": "https://yourstory.com",
+    "linkedin_url": "https://linkedin.com/company/yourstory-com",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/YourStoryCo"
+  },
+  "https://techfundingnews.com/rivan-34m-synthetic-gas-europe-energy-security/": {
+    "valid": false
+  },
+  "https://en.wowtale.net/2026/04/21/233924/": {
+    "valid": false
+  },
+  "https://www.instagram.com/reel/DXWQogNEtGI/": {
+    "valid": false
   }
 }
