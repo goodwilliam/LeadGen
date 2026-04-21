@@ -40976,5 +40976,306 @@
   },
   "https://www.instagram.com/reel/DXWQogNEtGI/": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/04/21/blue-energy-raises-380m-to-build-grid-scale-nuclear-reactors-in-shipyards/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/warehouse-on-wheels-wow-analysis-reveals-81-roi-mobile-storage-trailers-disrupting-traditional-industrial-real-estate-model-302746219.html": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/venture/unicorn-count-4-year-high-robotics-ai-march-2026/": {
+    "valid": false
+  },
+  "https://www.businessinsider.com/bond-social-app-launches-seed-connecting-friends-memories-ai-2026-4": {
+    "valid": true,
+    "company": "Bond Social App",
+    "amount_str": "$5M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://kr-asia.com/deals-in-brief-baskit-raises-usd-4-4-million-tencent-buys-kaspi-kz-stake-six-china-investments-and-more": {
+    "valid": true,
+    "company": "Baskit",
+    "amount_str": "",
+    "website": "https://www.baskit.site",
+    "linkedin_url": "https://linkedin.com/company/baskitapp",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.wamda.com/2026/04/egypts-sinaiai-raises-1-45-million-pre-seed-build-interactive-ai-native-books": {
+    "valid": true,
+    "company": "Egypt's Sinai.ai",
+    "amount_str": "$1.45 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "said Ahmed Kamel",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/cuspai-200m-unicorn-valuation-materials-ai/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.family-day-htgf.de",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "events@htgf.de",
+    "twitter_url": "https://x.com/HTGF"
+  },
+  "https://fortune.com/2026/04/21/exclusive-humble-freight-autonomous-truck-eclipse-trucking/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cookielaw.org/consent/906dc33b-1fc3-4b2c-a324-8bc0b7db9050/OtAutoBlock.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.calcalistech.com/ctechnews/article/p9n9w144o": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://newmedia.calcalist.co.il/ctech/testimonials/index.html",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "judith.hoffmann@calcalist.co.il",
+    "twitter_url": ""
+  },
+  "https://english.aawsat.com/business/5264854-after-hundreds-millions-investments-saudi-grocery-app-nana-faces-survival-test": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://static.srpcdigital.com/favicon-new.png",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thenextweb.com/news/seapoint-raises-e7-5m-and-opens-to-all-uk-and-irish-founders": {
+    "valid": false
+  },
+  "https://eu.36kr.com/en/p/3769659305427459": {
+    "valid": false
+  },
+  "https://thenextweb.com/news/orangeqs-15m-seed": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/21/italys-venture-market-finds-its-rhythm-after-record-2025/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/range-quantum-systems-15m-seed-quantum-chip-testing/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/smart-robotics-1-billion-picks-ai-warehouse-automation/": {
+    "valid": false
+  },
+  "https://www.calcalistech.com/ctechnews/article/vc7l6df51": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://newmedia.calcalist.co.il/ctech/testimonials/index.html",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "judith.hoffmann@calcalist.co.il",
+    "twitter_url": ""
+  },
+  "https://grepbeat.com/2026/04/20/how-raleighs-onecare-aims-to-transform-healthcare-practices/": {
+    "valid": false
+  },
+  "https://news.uark.edu/articles/81138/ua-startup-altaris-medtech-finishes-fourth-at-prestigious-rice-business-plan-competition": {
+    "valid": true,
+    "company": "Altaris plans to",
+    "amount_str": "$3.5 m",
+    "website": "https://about.sharecare.com",
+    "linkedin_url": "https://linkedin.com/company/sharecare-inc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hero-circles@3x-scaled-1.webp",
+    "twitter_url": "https://x.com/SharecareInc"
+  },
+  "https://www.ocbj.com/healthcare/lidavex-adapts-lidar-tech-for-labor-monitoring/": {
+    "valid": false
+  },
+  "https://inc42.com/buzz/dhan-parent-raise-financial-acquires-trading-platform-stratzy/": {
+    "valid": false
+  },
+  "https://www.reddit.com/r/StartUpIndia/comments/1srjld3/how_do_investors_evaluate_preproduct_startups_at/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/ideally-raises-10m-in-series-a-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/sinai-ai-closes-1-45m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/seapoint-raises-e7-5m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.chainbits.com/press-releases/vantage-introduces-an-enhanced-app-with-a-seamless-all-in-one-trading-experience/": {
+    "valid": false
+  },
+  "https://waya.media/sinai-ai-raises-usd-1-45m-pre-seed-to-turn-books-into-ai-powered-experiences/": {
+    "valid": true,
+    "company": "Sinai.ai",
+    "amount_str": "",
+    "website": "https://www.sinai.ai",
+    "linkedin_url": "https://linkedin.com/company/sinai-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Sinaidotai"
+  },
+  "https://www.decypha.com/en/news/details/Sinai-ai-raises--1-45mn-pre-seed-to-reinvent-digital-reading-with-AI/21545898?TSID=&EDT=&L=EN": {
+    "valid": true,
+    "company": "Sinai.ai",
+    "amount_str": "$1.45m",
+    "website": "https://www.sinai.ai",
+    "linkedin_url": "https://linkedin.com/company/sinai-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Sinaidotai"
+  },
+  "https://www.instagram.com/p/DXY4QWJkkLJ/": {
+    "valid": false
+  },
+  "https://followict.news/en/sinai-ai-closes-1-45m-pre-seed-round-to-reimagine-the-future-of-reading-with-an-egyptian-team/": {
+    "valid": true,
+    "company": "Sinai.ai",
+    "amount_str": "$1.45M",
+    "website": "https://www.sinai.ai",
+    "linkedin_url": "https://linkedin.com/company/sinai-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Sinaidotai"
+  },
+  "https://www.thehindubusinessline.com/markets/stock-market-nifty-sensex-live-updates-21-april-2026/article70884892.ece": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://bl.thgim.com",
+    "linkedin_url": "https://linkedin.com/company/business-line-aka-the-hindu-business-line",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/businessline"
+  },
+  "https://www.facebook.com/EUStartups/posts/zynt-a-warsaw-based-ai-driven-b2b-intelligence-startup-has-closed-a-4244k-pre-se/1374951347992804/": {
+    "valid": false
+  },
+  "https://money.rediff.com/amp/news/market/singapore-food-beverage-export-opportunities-for-india/45665020260421": {
+    "valid": false
+  },
+  "https://contentmediasolution.com/business/health-qsr-chain-acai-theory-raises-inr-4-crores-led-by-all-in-capital-with-participation-from-tdv-partners-and-other-marquee-investors/": {
+    "valid": false
+  },
+  "https://www.thehindubusinessline.com/markets/acai-theory-raises-4-crore-in-pre-seed-funding/article70887173.ece": {
+    "valid": true,
+    "company": "A\u00e7a\u00ed Theory",
+    "amount_str": "",
+    "website": "https://acaitheory.com",
+    "linkedin_url": "https://linkedin.com/company/acai-theory",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/AcaiTheoryIndia"
+  },
+  "https://entrepreneur.economictimes.indiatimes.com/amp/news/funding/aa-theory-secures-4-crore-pre-seed-funding-to-expand-health-first-qsr-in-india/130407216": {
+    "valid": true,
+    "company": "A\u00e7a\u00ed Theory",
+    "amount_str": "",
+    "website": "https://acaitheory.com",
+    "linkedin_url": "https://linkedin.com/company/acai-theory",
+    "founder_name": "partner at TDV Partners",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/AcaiTheoryIndia"
+  },
+  "https://money.rediff.com/amp/news/market/guar-gum-futures-rise-on-demand/45661120260421": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/slator_japanese-ai-translation-startup-yellow-blue-activity-7452273690500755456-cnOl": {
+    "valid": true,
+    "company": "Translation Startup Yellow Blue",
+    "amount_str": "",
+    "website": "https://inforcapital.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.digitalnewsasia.com/startups/1982-backed-baskit-raises-us44-mil-series-led-cento-ventures": {
+    "valid": false
+  },
+  "https://www.finextra.com/newsarticle/47610/ex-stripe-team-raise-75-million-for-startup-operations-platform": {
+    "valid": false
+  },
+  "https://www.startuphub.ai/investment_rounds/zynt-pre-seed-2026": {
+    "valid": false
+  },
+  "https://pressgazette.co.uk/newsletters/food-newsletter-launches-with-eight-staff-and-tech-style-incentives/": {
+    "valid": false
+  },
+  "https://www.facebook.com/yourstorycom/photos/nudgebee-has-raised-3-million-in-seed-funding-led-by-kalaari-capital-with-partic/1437249058437064/": {
+    "valid": false
+  },
+  "https://www.facebook.com/yourstorycom/posts/nudgebee-has-raised-3-million-in-seed-funding-led-by-kalaari-capital-with-partic/1437249268437043/": {
+    "valid": true,
+    "company": "NudgeBee",
+    "amount_str": "$3 m",
+    "website": "https://www.nudgebee.com",
+    "linkedin_url": "https://linkedin.com/company/nudgebee",
+    "founder_name": "with participation from tech",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://slator.com/yellow-blue-raises-jpy-70m-seed-funding/": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DXYxnP8k6av/": {
+    "valid": true,
+    "company": "NudgeBee",
+    "amount_str": "$3 m",
+    "website": "https://www.nudgebee.com",
+    "linkedin_url": "https://linkedin.com/company/nudgebee",
+    "founder_name": "with participation from technology",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "http://www.msn.com/en-in/money/topstories/ai-startup-cluely-raises-5-3-million-to-let-users-cheat-on-everything-even-job-interviews-and-exams/ar-AA1Dodir?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": true,
+    "company": "Cluely",
+    "amount_str": "$5.3 m",
+    "website": "https://cluely.com",
+    "linkedin_url": "https://linkedin.com/company/cluely",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/roy-lee-goat",
+    "contact_email": "help@cluely.com",
+    "twitter_url": "https://x.com/cluely"
   }
 }
