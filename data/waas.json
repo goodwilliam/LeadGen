@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T13:01:00Z",
+  "generated_at": "2026-04-21T18:57:59Z",
   "count": 26,
   "jobs": [
     {
@@ -14,7 +14,7 @@
       "companyBatch": "W13",
       "companyOneLiner": "We&#39;re Robinhood for pre-IPO startups. Everyone can invest $100.",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/86fe89dc40132aeb8f280105ad161eb9c7281ebc.png",
-      "companyLastActiveAt": "11 days ago",
+      "companyLastActiveAt": "12 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92790&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=503"
     },
     {
@@ -183,21 +183,6 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D88318&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29510"
     },
     {
-      "id": 92338,
-      "title": "Senior Product Designer | Full-Time | Remote",
-      "jobType": "Contract",
-      "location": "Remote (US)",
-      "roleType": "Product design",
-      "salary": "$180K - $230K",
-      "companyName": "Retell AI",
-      "companySlug": "retell-ai",
-      "companyBatch": "W24",
-      "companyOneLiner": "Supercharge Your Contact Center Operations with AI Phone Agents",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/c0856f230de1a84be083cff84a3298664d32f0a3.png",
-      "companyLastActiveAt": "13 days ago",
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92338&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29441"
-    },
-    {
       "id": 88842,
       "title": "Senior Product Designer",
       "jobType": "Fulltime",
@@ -211,6 +196,21 @@
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/c0856f230de1a84be083cff84a3298664d32f0a3.png",
       "companyLastActiveAt": "29 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D88842&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29441"
+    },
+    {
+      "id": 92338,
+      "title": "Senior Product Designer | Full-Time | Remote",
+      "jobType": "Contract",
+      "location": "Remote (US)",
+      "roleType": "Product design",
+      "salary": "$180K - $230K",
+      "companyName": "Retell AI",
+      "companySlug": "retell-ai",
+      "companyBatch": "W24",
+      "companyOneLiner": "Supercharge Your Contact Center Operations with AI Phone Agents",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/c0856f230de1a84be083cff84a3298664d32f0a3.png",
+      "companyLastActiveAt": "14 days ago",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92338&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29441"
     },
     {
       "id": 92545,
@@ -273,21 +273,6 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D80903&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29290"
     },
     {
-      "id": 93131,
-      "title": "Brand Designer",
-      "jobType": "Fulltime",
-      "location": "San Francisco Office",
-      "roleType": "Web design",
-      "salary": "$150K - $230K",
-      "companyName": "Gumloop",
-      "companySlug": "gumloop",
-      "companyBatch": "W24",
-      "companyOneLiner": "A no-code platform for creating agents and automating workflows with\u2026",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/9fb7e0ce6656ba8369bfc7fdddd4235e6657221b.png",
-      "companyLastActiveAt": "4 days ago",
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D93131&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29180"
-    },
-    {
       "id": 93130,
       "title": "Staff Product Designer",
       "jobType": "Fulltime",
@@ -303,19 +288,19 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D93130&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29180"
     },
     {
-      "id": 83825,
-      "title": "Founding Product Designer ",
+      "id": 93131,
+      "title": "Brand Designer",
       "jobType": "Fulltime",
-      "location": "Main Office - Toronto",
+      "location": "San Francisco Office",
       "roleType": "Web design",
-      "salary": "$125K - $200K CAD",
-      "companyName": "Tempo",
-      "companySlug": "tempo-2",
-      "companyBatch": "S23",
-      "companyOneLiner": "Visual Editor for React, powered by AI",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/860f478b7cd2ea33eefb86e90c9c693abef2997f.png",
-      "companyLastActiveAt": null,
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D83825&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29150"
+      "salary": "$150K - $230K",
+      "companyName": "Gumloop",
+      "companySlug": "gumloop",
+      "companyBatch": "W24",
+      "companyOneLiner": "A no-code platform for creating agents and automating workflows with\u2026",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/9fb7e0ce6656ba8369bfc7fdddd4235e6657221b.png",
+      "companyLastActiveAt": "4 days ago",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D93131&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29180"
     },
     {
       "id": 75335,
@@ -331,6 +316,21 @@
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/860f478b7cd2ea33eefb86e90c9c693abef2997f.png",
       "companyLastActiveAt": null,
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D75335&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29150"
+    },
+    {
+      "id": 83825,
+      "title": "Founding Product Designer ",
+      "jobType": "Fulltime",
+      "location": "Main Office - Toronto",
+      "roleType": "Web design",
+      "salary": "$125K - $200K CAD",
+      "companyName": "Tempo",
+      "companySlug": "tempo-2",
+      "companyBatch": "S23",
+      "companyOneLiner": "Visual Editor for React, powered by AI",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/860f478b7cd2ea33eefb86e90c9c693abef2997f.png",
+      "companyLastActiveAt": null,
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D83825&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29150"
     },
     {
       "id": 89173,
