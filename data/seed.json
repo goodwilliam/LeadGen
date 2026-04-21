@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-04-21T01:54:23.307316Z",
+  "generated_at": "2026-04-21T06:00:20.281698Z",
   "count": 19,
-  "enriched_count": 15,
+  "enriched_count": 16,
   "articles": [
+    {
+      "source": "tech.eu",
+      "title": "VisioLab raises $11M Series A to scale AI self-checkout globally",
+      "article_url": "https://tech.eu/2026/04/21/visiolab-raises-11m-series-a-to-scale-ai-self-checkout-globally/",
+      "company": "VisioLab",
+      "amount_str": "$11M",
+      "pub_date": "2026-04-21T04:00:00Z",
+      "website": "https://www.visiolab.io",
+      "linkedin_url": "https://linkedin.com/company/visiolab",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "NudgeBee Raises $3 Mn To Automate Cloud Operations With AI Agents - Inc42",
@@ -16,6 +30,34 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "KAIO Secures $8M From Tether and Systemic Ventures to Build Onchain Asset Distribution in UAE",
+      "article_url": "https://www.mexc.co/news/1041280",
+      "company": "KAIO",
+      "amount_str": "$8M",
+      "pub_date": "2026-04-21T00:39:57Z",
+      "website": "https://en.wikipedia.org",
+      "linkedin_url": "https://linkedin.com/company/kaiocommunications",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Goldwise raises \u00a3500k pre-seed for mobile app enabling retail fractional bullion trading",
+      "article_url": "https://www.startupmag.co.uk/funding/goldwise-2026-pre-seed-funding/",
+      "company": "Goldwise",
+      "amount_str": "\u00a3500k",
+      "pub_date": "2026-04-20T22:35:51Z",
+      "website": "https://www.goldwise.com",
+      "linkedin_url": "https://linkedin.com/company/goldwise",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "support@goldwise.com",
+      "twitter_url": "https://x.com/goldwiseapp"
     },
     {
       "source": "Google Alerts",
@@ -144,20 +186,6 @@
       "twitter_url": "https://x.com/ClarityLaborat1"
     },
     {
-      "source": "Google Alerts",
-      "title": "Polymarket Raises $400 Million After ICE Backing: Why Capital Is Betting Heavily on ...",
-      "article_url": "https://www.tradingkey.com/analysis/cryptocurrencies/more/261801030-crypto-polymarket-ice-prediction-predict-forecast-cme-cboe-robinhood-tradingkey",
-      "company": "Polymarket",
-      "amount_str": "$400 M",
-      "pub_date": "2026-04-20T14:35:54Z",
-      "website": "https://polymarket.com",
-      "linkedin_url": "https://linkedin.com/company/polymarket",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "hello@polymarket.com",
-      "twitter_url": "https://x.com/Polymarket"
-    },
-    {
       "source": "tech.eu",
       "title": "Rivan raises $34M to build synthetic gas infrastructure for Europe",
       "article_url": "https://tech.eu/2026/04/20/rivan-raises-34m-to-build-synthetic-gas-infrastructure-for-europe/",
@@ -169,34 +197,6 @@
       "founder_name": "According to Harvey Hodd",
       "founder_linkedin_url": "",
       "contact_email": "ops@rivan.com",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Auckland AI start-up Ideally raises $16m - PressReader",
-      "article_url": "https://www.pressreader.com/new-zealand/the-new-zealand-herald/20260421/281822880382839",
-      "company": "Auckland AI start-up Ideally",
-      "amount_str": "$16m",
-      "pub_date": "2026-04-20T14:17:41Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "while its",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Eigen Secures $15M Seed for 'Mutual Friend' AI Tool - Ventureburn",
-      "article_url": "https://ventureburn.com/eigen-secures-15m-seed-for-mutual-friend-ai-tool/",
-      "company": "Eigen",
-      "amount_str": "$15M",
-      "pub_date": "2026-04-20T14:04:22Z",
-      "website": "https://libeigen.gitlab.io",
-      "linkedin_url": "https://linkedin.com/company/eigen-technologies",
-      "founder_name": "of Pinterest",
-      "founder_linkedin_url": "",
-      "contact_email": "",
       "twitter_url": ""
     },
     {

@@ -40734,5 +40734,69 @@
   },
   "https://x.com/crynetio/status/2046189827398291806": {
     "valid": false
+  },
+  "https://tech.eu/2026/04/21/visiolab-raises-11m-series-a-to-scale-ai-self-checkout-globally/": {
+    "valid": true,
+    "company": "VisioLab",
+    "amount_str": "$11M",
+    "website": "https://www.visiolab.io",
+    "linkedin_url": "https://linkedin.com/company/visiolab",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/betterinvesting-magazine-update-on-the-charles-schwab-corp-nyse-schw-and-dollar-general-corp-nyse-dg-302748155.html": {
+    "valid": false
+  },
+  "https://www.techflowpost.com/en-US/article/31227": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.blockflow.news",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/BlockFlow_News"
+  },
+  "https://technode.global/2026/04/21/malaysias-digital-asset-exchange-hata-secures-8m-in-series-a-funding-led-by-bybit/": {
+    "valid": true,
+    "company": "Malaysia's digital asset exchange Hata",
+    "amount_str": "$8M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "said Ben Zhou",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techinasia.com/news/temasekbacked-uk-startup-cuspai-seeks-200m-1b-valuation": {
+    "valid": false
+  },
+  "https://www.mexc.co/news/1041280": {
+    "valid": true,
+    "company": "KAIO",
+    "amount_str": "$8M",
+    "website": "https://en.wikipedia.org",
+    "linkedin_url": "https://linkedin.com/company/kaiocommunications",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupmag.co.uk/funding/goldwise-2026-pre-seed-funding/": {
+    "valid": true,
+    "company": "Goldwise",
+    "amount_str": "\u00a3500k",
+    "website": "https://www.goldwise.com",
+    "linkedin_url": "https://linkedin.com/company/goldwise",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@goldwise.com",
+    "twitter_url": "https://x.com/goldwiseapp"
+  },
+  "https://au-startups.com/ar/news/issue-28-anchor-raised-1-million-pre-seed-duplo-raised-4-3-million-seed-and-more": {
+    "valid": false
   }
 }
