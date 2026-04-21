@@ -41277,5 +41277,314 @@
     "founder_linkedin_url": "https://linkedin.com/in/roy-lee-goat",
     "contact_email": "help@cluely.com",
     "twitter_url": "https://x.com/cluely"
+  },
+  "https://news.crunchbase.com/venture/update-pricing-faster-easier-saas-ai-schematic/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/21/what-happened-on-the-first-day-of-the-techeu-summit-london-2026/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/21/alesi-surgical-raises-ps7m-to-clear-the-air-in-operating-theatres-with-next-gen-smoke-management-tech/": {
+    "valid": false
+  },
+  "https://betakit.com/ak-robotics-closes-8-million-series-a-round-to-put-self-driving-pods-in-airports/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/los-angeles-private-investigator-warns-smart-home-devices-are-being-used-for-surveillance-in-divorce-stalking-and-corporate-disputes-302748977.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/apo-investor-alert-apollo-global-management-inc-securities-class-action---investors-with-losses-may-seek-to-lead-the-lawsuit-after-claims-black-concealed-epstein-payments--hagens-berman-302748969.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/cerracap-invests-in-nephronomics-to-advance-ai-driven-kidney-disease-discovery-302749020.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/snow-deadline-snow-investors-have-opportunity-to-lead-snowflake-inc-securities-fraud-lawsuit-302746851.html": {
+    "valid": false
+  },
+  "https://www.esgtoday.com/exergy3-raises-13-5-million-to-decarbonize-industrial-heat-with-unused-renewable-energy/": {
+    "valid": true,
+    "company": "Exergy3",
+    "amount_str": "$13.5 M",
+    "website": "https://www.exergy3.com",
+    "linkedin_url": "https://linkedin.com/company/exergy3-limited",
+    "founder_name": "of Exergy",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.biospace.com/press-releases/tortugas-neuroscience-launches-with-106-million-to-advance-clinical-stage-pipeline-targeting-new-and-major-neurology-and-neuropsychiatric-disorders": {
+    "valid": true,
+    "company": "Tortugas Neuroscience",
+    "amount_str": "$106 M",
+    "website": "https://www.curevc.com",
+    "linkedin_url": "https://linkedin.com/company/cure-ventures-capital",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/CureVC"
+  },
+  "https://techcrunch.com/2026/04/21/revolut-eyes-valuation-of-up-to-200b-in-eventual-ipo/": {
+    "valid": false
+  },
+  "https://www.fiercebiotech.com/biotech/tortugas-comes-out-its-shell-106m-fund-4-phase-2-stage-neuro-drugs": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://qtxasset.com/quartz/qcloud5/fiercefavicon.ico",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thenextweb.com/news/humble-24m-seed-cabless-autonomous-electric-truck": {
+    "valid": true,
+    "company": "Humble",
+    "amount_str": "$24M",
+    "website": "https://humblerobotics.ai",
+    "linkedin_url": "https://linkedin.com/company/humble-io",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://financialit.net/news/fundraising-news/firenze-secures-ps6m-accelerate-vision-building-global-credit-infrastructure": {
+    "valid": true,
+    "company": "Firenze",
+    "amount_str": "\u00a36M",
+    "website": "https://en.wikipedia.org",
+    "linkedin_url": "https://linkedin.com/company/firenze-group-ltd",
+    "founder_name": "of Firenze",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://roboticsandautomationnews.com/2026/04/21/bubble-robotics-raises-5-million-to-build-the-oceans-autonomous-workforce/100806/": {
+    "valid": true,
+    "company": "Bubble Robotics",
+    "amount_str": "$5 m",
+    "website": "https://www.bubble-robotics.com",
+    "linkedin_url": "https://linkedin.com/company/bubble-robotics",
+    "founder_name": "said Jean Crosetti",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/BubbleRobotics"
+  },
+  "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/": {
+    "valid": false
+  },
+  "https://www.citybiz.co/article/834839/qualitate-raises-7-million-seed-round-to-build-ai-research-platform-for-investors-and-corporates/": {
+    "valid": true,
+    "company": "Qualitate",
+    "amount_str": "$7 M",
+    "website": "https://qualitate.io",
+    "linkedin_url": "https://linkedin.com/company/qualitate-io",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/": {
+    "valid": false
+  },
+  "https://yourstory.com/2026/04/startup-news-and-updates-daily-roundup-april-21-2026": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://ascendants.in/funding-feed/nudgebee-raises-3-million-seed-round/": {
+    "valid": true,
+    "company": "NudgeBee",
+    "amount_str": "$3 M",
+    "website": "https://www.nudgebee.com",
+    "linkedin_url": "https://linkedin.com/company/nudgebee",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/eu-startups-menlo-media_delfts-orangeqs-extends-seed-round-to-15-activity-7452253104223191040-tWw2": {
+    "valid": false
+  },
+  "https://entrackr.com/snippets/health-qsr-chain-acai-theory-raises-funds-from-all-in-capital-tdv-partners-others-11747855": {
+    "valid": true,
+    "company": "Health QSR chain Acai Theory",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "LIVE Apple",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://inshorts.com/en/news/acai-theory-raises--4-crore-pre-seed-funding-round-1776764601637": {
+    "valid": false
+  },
+  "https://www.indianstartuptimes.com/investment/curemeabroad-raises-600k-to-reimagine-medical-tourism-with-ai-led-discovery-platform/": {
+    "valid": true,
+    "company": "CureMeAbroad",
+    "amount_str": "$600K",
+    "website": "https://curemeabroad.com",
+    "linkedin_url": "https://linkedin.com/company/curemeabroad",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@curemeabroad.com",
+    "twitter_url": ""
+  },
+  "https://www.siliconrepublic.com/start-ups/stripe-alumnis-seapoint-raises-e7-5m-for-financial-home-for-start-ups": {
+    "valid": false
+  },
+  "https://entrackr.com/snippets/med-tech-tourism-startup-curemeabroad-raises-pre-seed-round-11750934": {
+    "valid": true,
+    "company": "Med-tech tourism startup CureMeAbroad",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "LIVE Apple",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.uktechnews.info/2026/04/21/firenze-secures-6-million-seed-investment-from-albionvc-alongside-outward-vc-and-form-ventures/": {
+    "valid": false
+  },
+  "https://www.foodbusinessnews.net/articles/30178-seed-funding-to-push-cadootz-into-retail": {
+    "valid": false
+  },
+  "https://www.arctictoday.com/northern-fleet-re-establishes-helicopter-regiment/": {
+    "valid": false
+  },
+  "https://www.scottishfinancialnews.com/articles/edinburgh-spinout-secures-ps10m-to-solve-two-energy-crises-at-once": {
+    "valid": false
+  },
+  "https://www.cityam.com/people-and-organizations/pre-seed-funding/": {
+    "valid": false
+  },
+  "https://www.cityam.com/antler-bets-on-the-uks-next-generation-of-founders-with-its-london-based-residency/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "next generation of",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://directory.startupluxembourg.com/investors/bluelion/news": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/21/bubble-robotics-emerges-from-stealth-with-5m-to-scale-autonomous-ocean-robotics/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/EUStartups/posts/dutch-pre-seed-vc-firm-dff-ventures-has-just-announced-the-close-of-their-70-mil/1375039787983960/": {
+    "valid": false
+  },
+  "https://www.ptinews.com/story/business/when-oil-prices-spike-where-does-the-money-go/3586725": {
+    "valid": false
+  },
+  "https://www.dailyexcelsior.com/pahalgam-attack-was-a-major-setback-to-jk-farooq-abdullah/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://t.me/daily_excelsior_official",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eurekamagazine.co.uk/content/news/exergy3-secures-10m-to-advance-industrial-decarbonisation": {
+    "valid": true,
+    "company": "Exergy3",
+    "amount_str": "\u00a310m",
+    "website": "https://www.exergy3.com",
+    "linkedin_url": "https://linkedin.com/company/exergy3-limited",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://finance.yahoo.com/sectors/healthcare/articles/sensori-black-women-owned-functional-160351383.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https:&#x2F;&#x2F;www.yahoo.com&#x2F;",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DXZhL1Yk2ju/": {
+    "valid": true,
+    "company": "NudgeBee",
+    "amount_str": "$3 m",
+    "website": "https://www.nudgebee.com",
+    "linkedin_url": "https://linkedin.com/company/nudgebee",
+    "founder_name": "with participation from technology",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://m.dailyhunt.in/news/india/english/indian+startup+news-epaper-indanstn/outcomedriven+functional+personal+care+brand+clarity+labs+raises+rs+4+crore+in+funding-newsid-n709124030": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wa.me",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.theinformation.com/newsletters/ai-agenda/anthropics-id-verification-imperils-chinese-founders": {
+    "valid": false
+  },
+  "https://www.citybiz.co/article/834846/spartanx-raises-seed-funding-sets-boston-hq-and-expands-leadership-as-it-pushes-autonomous-cybersecurity-platform/": {
+    "valid": false
+  },
+  "https://www.foodbusinessnews.net/articles/30180-frozen-pasta-startup-heating-up-market-presence": {
+    "valid": false
+  },
+  "https://techfundingnews.com/seapoint-7-5m-seed-ex-stripe-startup-banking-europe/": {
+    "valid": false
+  },
+  "https://startupfortune.com/silicon-valley-keeps-building-for-itself-and-calling-it-innovation/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupfortune.com/jeff-bezos-stealth-ai-startup-closes-a-10-billion-round-that-values-it-at-38-billion-and-reshapes-the-industrys-power-structure/": {
+    "valid": true,
+    "company": "Jeff Bezos' stealth AI startup",
+    "amount_str": "$10 b",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
