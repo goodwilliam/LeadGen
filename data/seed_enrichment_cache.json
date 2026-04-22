@@ -41903,5 +41903,191 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/": {
+    "valid": false
+  },
+  "https://venturebeat.com/technology/googles-new-deep-research-and-deep-research-max-agents-can-search-the-web-and-your-private-data": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/apollo-global-deadline-apo-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-apollo-global-management-inc-securities-fraud-lawsuit-first-filed-by-the-rosen-law-firm-302749408.html": {
+    "valid": false
+  },
+  "https://x.com/search?lang=ar-x-fm&src=live&q=Smart%20capital%20chooses%20klydexglobal%20exchange%20platforms.atj": {
+    "valid": false
+  },
+  "https://ground.news/article/nudgebee-raises-3-mn-to-automate-cloud-operations-with-ai-agents": {
+    "valid": true,
+    "company": "NudgeBee",
+    "amount_str": "$3 M",
+    "website": "https://www.nudgebee.com",
+    "linkedin_url": "https://linkedin.com/company/nudgebee",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/WamdaME/status/2046570916339913164": {
+    "valid": true,
+    "company": "Egypt's Sinai.ai",
+    "amount_str": "$1.45 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/portland/news/2026/04/21/cascade-seed-fund-long-way-ventures.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://entarabi.com/en/2026/04/ischool-acquires-rubikal-to-accelerate-its-vision-of-building-ai-infrastructure-for-schools/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "Mohamed Ibrahim",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thequantuminsider.com/2026/04/21/orangeqs-extends-seed-round-to-e15-million-and-partners-with-rigetti-quantware-and-peak-quantum/": {
+    "valid": false
+  },
+  "https://quantumcomputingreport.com/orangeqs-extends-seed-round-to-e15m-17-6m-usd-and-launches-partnership-program/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://orangeqs.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/audiumcp/status/2046167973669351478": {
+    "valid": true,
+    "company": "Coral",
+    "amount_str": "",
+    "website": "http://www.thecoral.co.uk",
+    "linkedin_url": "https://linkedin.com/company/startcoral",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/yourstorycom/posts/a%C3%A7a%C3%AD-theory-has-raised-4-crore-in-a-pre-seed-round-led-by-all-in-capital-with-pa/1437391795089457/": {
+    "valid": false
+  },
+  "https://pulse.d2cinsider.com/acai-theory-raises-%E2%82%B94-cr-to-scale-health-first-qsr-model-in-indias-fast-growing-d2c-food-ecosystem/": {
+    "valid": true,
+    "company": "Acai Theory",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/acai-theory",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://botmemo.substack.com/p/antler-is-everywhere": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://nordic9.com/news/adamo-robotics-raised-pre-seed-funding-with-alm-ventures/": {
+    "valid": false
+  },
+  "https://nordic9.com/news/chainreactor-raised-pre-seed-funding/": {
+    "valid": false
+  },
+  "https://www.wsgr.com/en/insights/wilson-sonsini-advises-solvapay-on-euro24-million-pre-seed-financing.html": {
+    "valid": false
+  },
+  "https://arabfounders.net/en/pulga-chile-second-hand-marketplace-funding/": {
+    "valid": false
+  },
+  "https://www.startupecosystem.ca/news/carbonyx-secures-1-2-million-to-transform-mining-waste-into-usable-materials/": {
+    "valid": false
+  },
+  "https://www.travelandtourworld.com/news/article/bridging-borders-for-better-health-in-india-how-curemeabroad-is-changing-the-patient-experience/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://n24.com.tr/en/lifestyle/norrsken-evolve-supports-bubble-robotics-5m-funding-788": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://capital-riesgo.es/en/articles/spacebackend-raises-1-8-million-to-accelerate-the-aerospace-industry-through-artificial-intelligence/": {
+    "valid": false
+  },
+  "https://www.avca.africa/news-insights/member-news/breega-leads-nigeria-based-energy-and-climate-tech-companys-pre-seed-fundraise/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://avca.my.site.com/s",
+    "linkedin_url": "",
+    "founder_name": "building support to help",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://en.wowtale.net/2026/04/22/233937/": {
+    "valid": true,
+    "company": "JEJULAVASALT",
+    "amount_str": "",
+    "website": "http://jejulavasalt.com",
+    "linkedin_url": "",
+    "founder_name": "brings more than",
+    "founder_linkedin_url": "",
+    "contact_email": "jejusalt@jejusalt.store",
+    "twitter_url": ""
+  },
+  "https://www.marketwatch.com/story/agentic-ai-startup-neocognition-raises-40m-in-seed-funding-with-intel-ceo-backing-b37c50ca?mod=markets": {
+    "valid": false
+  },
+  "https://www.truckinginfo.com/news/autonomous-start-up-humble-announces-cabless-autonomous-electric-hauler": {
+    "valid": false
+  },
+  "https://www.beckershospitalreview.com/healthcare-information-technology/innovation/mayo-clinic-backs-virtual-biomarker-startup-in-4-9m-investment/": {
+    "valid": false
+  },
+  "https://www.mk.co.kr/en/business/12023051": {
+    "valid": false
+  },
+  "https://wire.auburn.edu/content/agriculture/2026/04/grants042126.php?property=agriculture&utm_source=agriculture&utm_medium=web": {
+    "valid": false
+  },
+  "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/sam-altman-on-ai-s-future-global-competition": {
+    "valid": false
   }
 }
