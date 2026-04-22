@@ -42198,5 +42198,133 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/22/nox-mobility-raises-eur2m-pre-seed-to-rethink-europes-night-trains/": {
+    "valid": true,
+    "company": "Nox Mobility",
+    "amount_str": "\u20ac2M",
+    "website": "https://noxmobility.com",
+    "linkedin_url": "https://linkedin.com/company/noxmobility",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/22/qmatter-secures-12m-to-tackle-quantum-scaling-challenges/": {
+    "valid": true,
+    "company": "QMatter",
+    "amount_str": "$1.2M",
+    "website": "https://qmatter.xyz",
+    "linkedin_url": "https://linkedin.com/company/qmatter",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/22/45m-seed-for-realm-to-advance-ai-in-enterprise-sales/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/22/linexa-closes-eur2m-pre-seed-to-advance-ai-driven-manufacturing/": {
+    "valid": true,
+    "company": "Linexa",
+    "amount_str": "\u20ac2M",
+    "website": "http://www.linexa.io",
+    "linkedin_url": "https://linkedin.com/company/linexa-io",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/introducing-agent-launchpad-simcorps-agentic-ai-ecosystem-for-investment-managers-302748955.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/dreame-nebula-next-auto-expands-academic-collaboration-to-accelerate-ai-driven-automotive-innovation-302750068.html": {
+    "valid": false
+  },
+  "https://techfundingnews.com/qmatter-1-2m-pre-seed-quantum-compression-drug-discovery/": {
+    "valid": true,
+    "company": "UCL spinout QMatter",
+    "amount_str": "$1.2M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/calibre-3-3m-pre-seed-pitch-deck-amino-collective-ai-health/": {
+    "valid": false
+  },
+  "https://thequantuminsider.com/2026/04/22/qmatter-raises-1-2-million-in-funding-and-introduces-quantum-compression-to-tackle-scaling/": {
+    "valid": true,
+    "company": "QMatter",
+    "amount_str": "$1.2 M",
+    "website": "https://qmatter.xyz",
+    "linkedin_url": "https://linkedin.com/company/qmatter",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.trendingtopics.eu/nox-mobility-raises-e2m-to-reinvent-the-european-night-train/": {
+    "valid": true,
+    "company": "Nox Mobility",
+    "amount_str": "\u20ac2M",
+    "website": "https://www.travelandtourworld.com",
+    "linkedin_url": "https://linkedin.com/company/noxmobility",
+    "founder_name": "Nox Mobility",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techbuild.africa/sinai-ai-landa-1-45m-interactive-ai-experiences/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://m.economictimes.com/tech/funding/gaming-startup-spill-games-raises-3-1-million-from-centre-court-capital-and-peercapital/articleshow/130434162.cms": {
+    "valid": true,
+    "company": "Spill Games",
+    "amount_str": "$3.1 m",
+    "website": "https://spill.games",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@spill.games",
+    "twitter_url": ""
+  },
+  "https://fundsforcompanies.fundsforngos.org/grant/applications-open-for-startup-india-seed-fund-programme/": {
+    "valid": false
+  },
+  "https://inc42.com/buzz/mobile-gaming-startup-spill-games-nets-3-mn-to-expand-portfolio/": {
+    "valid": false
+  },
+  "https://www.mexc.com/news/1043074": {
+    "valid": true,
+    "company": "Sinai.ai",
+    "amount_str": "$1.45m",
+    "website": "https://www.sinai.ai",
+    "linkedin_url": "https://linkedin.com/company/sinai-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Sinaidotai"
+  },
+  "https://cryptorank.io/news/feed/56e8b-neocognition-ai-agents-seed-funding": {
+    "valid": false
   }
 }
