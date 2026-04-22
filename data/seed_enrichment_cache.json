@@ -42666,5 +42666,260 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://venturebeat.com/data/openai-launches-privacy-filter-an-open-source-on-device-data-sanitization-model-that-removes-personal-information-from-enterprise-datasets": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/markel-group-inc-announces-conference-call-date-and-time-302750383.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/suburban-propane-partners-lp-to-hold-fiscal-2026-second-quarter-results-conference-call-302750301.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/markel-group-inc-announces-conference-call-date-and-time-302750339.html": {
+    "valid": false
+  },
+  "https://x.com/search?lang=ar-x-fm&src=live&q=Advanced%20market%20klydexglobal%20exchange%20drives%20innovation%20across%20platforms.qvi": {
+    "valid": false
+  },
+  "https://www.phocuswire.com/news/finance/nox-mobility-raises-2m-preseed-round-private-room-night-trains": {
+    "valid": true,
+    "company": "Nox Mobility",
+    "amount_str": "\u20ac2M",
+    "website": "https://noxmobility.com",
+    "linkedin_url": "https://linkedin.com/company/noxmobility",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://resiliencemedia.co/rivan-raises-e28-7m-to-increase-synthetic-fuel-production-in-europe/": {
+    "valid": true,
+    "company": "Rivan",
+    "amount_str": "\u20ac28.7M",
+    "website": "https://rivan.com",
+    "linkedin_url": "https://linkedin.com/company/rivanindustries",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "ops@rivan.com",
+    "twitter_url": ""
+  },
+  "https://indianstartupnews.com/funding/ai-powered-medical-tourism-discovery-platform-curemeabroad-raises-600000-to-boost-growth-11753899": {
+    "valid": true,
+    "company": "AI-powered medical tourism discovery platform CureMeAbroad",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://news.cision.com/realm-technologies-oy/r/realm-raises--4-5m-to-bring-the--cursor-moment--to-enterprise-sales,c4338044": {
+    "valid": true,
+    "company": "Realm",
+    "amount_str": "$4.5M",
+    "website": "https://www.realm.fm",
+    "linkedin_url": "https://linkedin.com/company/realmmedia",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/realmmedia"
+  },
+  "https://www.therobotreport.com/crewline-secures-7-1m-to-automate-constructions-most-repetitive-task/": {
+    "valid": true,
+    "company": "Crewline",
+    "amount_str": "$7.1M",
+    "website": "https://crewline.org",
+    "linkedin_url": "https://linkedin.com/company/crewline-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://m.dailyhunt.in/news/india/english/entrackr+english-epaper-entrackr/spill+games+raises+31+mn+in+seed+round+led+by+centre+court+capital+and+peercapital-newsid-n709391590": {
+    "valid": true,
+    "company": "Spill Games",
+    "amount_str": "$3.1 M",
+    "website": "https://spill.games",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@spill.games",
+    "twitter_url": ""
+  },
+  "https://www.mot.gov.sg/news-resources/newsroom/opening-remarks-by-senior-minister-of-state-for-transport-and-law--mr-murali-pillai--at-the-pier71-smart-port-challenge-2026-launch/": {
+    "valid": false
+  },
+  "https://www.axios.com/pro/all-deals/2026/04/22/pro-rata-premium-first-look-courier-eqt-essilor": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/pulse/seattle-says-gig-worker-pay-law-working-despite-platform-pushback-yemzc": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DXciREQCQs8/": {
+    "valid": true,
+    "company": "Bubble Robotics",
+    "amount_str": "$5M",
+    "website": "https://www.bubble-robotics.com",
+    "linkedin_url": "https://linkedin.com/company/bubble-robotics",
+    "founder_name": "Founded by",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/BubbleRobotics"
+  },
+  "https://www.linkedin.com/posts/founderstoday_linexa-secures-2m-pre-seed-to-build-ai-platform-activity-7452774885128486912-gQ00": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/founderstoday_carbonyx-secures-12m-pre-seed-to-turn-mining-activity-7452769508391305216-V-jp": {
+    "valid": true,
+    "company": "Carbonyx",
+    "amount_str": "$1.2M",
+    "website": "https://www.bankruptcyobserver.com",
+    "linkedin_url": "https://linkedin.com/company/carbonyx",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://lasvegassun.com/news/2026/apr/22/fintech-pet-care-company-kennel-connection-announc/": {
+    "valid": true,
+    "company": "Petwealth has since",
+    "amount_str": "$1.7 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Owner and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/04/22/actionai-secures-10m-seed-funding-to-fix-ais-trust-problem/": {
+    "valid": true,
+    "company": "ActionAI",
+    "amount_str": "$10M",
+    "website": "https://www.actionai.co",
+    "linkedin_url": "https://linkedin.com/company/getactionai",
+    "founder_name": "said Miriam Haart",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/GetActionAI"
+  },
+  "https://www.siliconrepublic.com/business/openai-airbnb-emea-emmanuel-marill": {
+    "valid": false
+  },
+  "https://www.instagram.com/reel/DXbv35MCGsr/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://entarabi.com/en/2026/04/oman-launches-furas-platform-to-empower-smes-and-strengthen-local-content/": {
+    "valid": true,
+    "company": "Oman",
+    "amount_str": "",
+    "website": "https://en.wikipedia.org",
+    "linkedin_url": "https://linkedin.com/company/opal-oman-society-for-petroleum-services",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/wetenkamp",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.railjournal.com/financial/nox-raises-e2m-in-pre-seed-round/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/orangeqs-extend-seed-funding-to-e15m.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/zynt-raises-e424-4k-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://tripbytrip.org/2026/04/22/nox-mobility-secures-e2-million-in-pre-seed-funding-for-new-night-train-service/": {
+    "valid": false
+  },
+  "https://hackernoon.com/ai-just-solved-the-wrong-half-of-cybersecurity": {
+    "valid": false
+  },
+  "https://fortune.com/2026/04/22/the-godmother-of-silicon-valley-former-student-healthcare-gets-built-treehub/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cookielaw.org/consent/906dc33b-1fc3-4b2c-a324-8bc0b7db9050/OtAutoBlock.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fundsforcompanies.fundsforngos.org/grant/apply-for-pre-seed-mvp-support-grant-programme-armenia/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/10x-science-raises-4-8m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://mercomcapital.com/thermal-energy-storage-company-exergy3-raises-13-5-million-seed-funding/": {
+    "valid": false
+  },
+  "https://mercomcapital.com/independent-power-producer-ilos-upsizes-credit-facility-529-million/": {
+    "valid": false
+  },
+  "https://www.reddit.com/r/StartUpIndia/comments/1ssqufq/anyone_here_got_sisfs_funding/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/04/22/jeff-bezos-backed-ai-startup-project-prometheus-nears-10b-raise-at-38b-valuation/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "Vikram Bajaj",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/reel/DXZllQVk-Kl/": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/startuprise-usa_axiatime-funding-startupnews-activity-7452696401412780032-R7lm": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://startuprise.io/axia-time-closes-seed-funding-led-by-culper-capital-partners",
+    "linkedin_url": "https://linkedin.com/company/startuprise-europe",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@startuprise.co.uk",
+    "twitter_url": "https://x.com/startuprise_eu"
   }
 }
