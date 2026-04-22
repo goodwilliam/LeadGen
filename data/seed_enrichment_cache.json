@@ -42326,5 +42326,86 @@
   },
   "https://cryptorank.io/news/feed/56e8b-neocognition-ai-agents-seed-funding": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/": {
+    "valid": false
+  },
+  "https://venturebeat.com/technology/googles-gemini-can-now-run-on-a-single-air-gapped-server-and-vanish-when-you-pull-the-plug": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/startups/salvaging-shutdowns-simpleclosure-dori-yona-qa/": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/venture/building-successful-startup-vertical-ai-schroder-mgv/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/22/octen-raises-10m-seed-funding-speed-ai-agent-search-queries/": {
+    "valid": true,
+    "company": "Octen",
+    "amount_str": "$10M",
+    "website": "https://octen.ai",
+    "linkedin_url": "https://linkedin.com/company/octen-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/schematic-raises-6-5m-launches-stripe-app-to-solve-entitlements-as-a-first-class-primitive-302749778.html": {
+    "valid": true,
+    "company": "Schematic",
+    "amount_str": "$6.5M",
+    "website": "https://www.flux.ai",
+    "linkedin_url": "https://linkedin.com/company/67182657",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/BuildWithFlux"
+  },
+  "https://therecursive.com/belarusian-founded-grai-secures-e7-65m-seed-funding-to-build-ai-powered-music-remix-platform/": {
+    "valid": true,
+    "company": "Belarusian-Founded GRAI",
+    "amount_str": "\u20ac7.65M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "explains GRAI",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/realm-raises-4-5m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://thenextweb.com/news/neocognition-40m-seed-self-learning-ai-agents": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://calendly.com/assets/external/widget.css",
+    "linkedin_url": "",
+    "founder_name": "Bu Tan",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://m.dailyhunt.in/news/india/english/indian+startup+news-epaper-indanstn/health+qsr+startup+aa+theory+raises+rs+4+crore+in+in+funding+from+tdv+partners+angels-newsid-n709284445": {
+    "valid": true,
+    "company": "Health QSR startup A\u00e7a\u00ed Theory",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://ynaija.com/top-10-healthtech-founders-transforming-healthcare-in-nigeria/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "http://redafrica.xyz",
+    "linkedin_url": "https://linkedin.com/company/redmediaafrica",
+    "founder_name": "new generation of",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/redmediaafrica"
   }
 }
