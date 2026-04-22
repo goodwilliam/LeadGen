@@ -42407,5 +42407,264 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": "https://x.com/redmediaafrica"
+  },
+  "https://techcrunch.com/2026/04/22/cathie-woods-ark-makes-its-first-lead-investment-in-startup-lucra-and-it-isnt-ai/": {
+    "valid": false
+  },
+  "https://venturebeat.com/orchestration/salesforces-agentforce-vibes-2-0-targets-a-hidden-failure-context-overload-in-ai-agents": {
+    "valid": false
+  },
+  "https://betakit.com/former-startup-tnt-leader-launches-coalition-for-canadas-early-stage-investors/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/22/vast-data-raises-1b-30b-valuation-ai-infrastructure-demand-accelerates/": {
+    "valid": true,
+    "company": "Vast Data",
+    "amount_str": "$1B",
+    "website": "https://support.vastdata.com",
+    "linkedin_url": "https://linkedin.com/company/vast-data",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/04/22/treehub-launches-tim-draper-anne-wojcicki-back-next-wave-ai-health-founders/": {
+    "valid": false
+  },
+  "https://www.geekwire.com/2026/brev-raises-3-3m-for-ai-agents-that-keep-companies-on-track-with-goals/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/10x-science-raises-4-8m-seed-to-build-ai-that-understands-proteins-at-the-molecular-level-302750622.html": {
+    "valid": true,
+    "company": "10x Science",
+    "amount_str": "$4.8M",
+    "website": "https://10xscience.com",
+    "linkedin_url": "https://linkedin.com/company/10xscience",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/laird-norton-and-cfo-selections-announce-minority-investment-302747654.html": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/ossi-rosenblad_realm-just-raised-a-45m-seed-led-by-frontline-activity-7452612849148813312-XCAF": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/atmos-space-cargo-25-7m-series-a-orbital-return-vehicle/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/realm-ai-sales-platform-self-serve-rfps-security-questionnaires/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/linexa-2m-pre-seed-factory-control-systems-europe/": {
+    "valid": false
+  },
+  "https://technode.global/2026/04/22/singapores-10th-smart-port-challenge-expands-support-to-scale-maritime-start-ups/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/04/22/lisbon-based-dojo-ai-secures-e5-1-million-to-expand-its-ai-marketing-platform-in-the-u-s/": {
+    "valid": false
+  },
+  "https://financialit.net/news/fundraising-news/ex-stripe-team-seapoint-raises-eu75m-seed-launch-financial-home-europes": {
+    "valid": true,
+    "company": "Ex-Stripe Team at Seapoint",
+    "amount_str": "\u20ac7.5M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "and Luke Mackey",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techbuzznews.com/mobly-expands-from-event-tool-to-full-in-person-revenue-platform/": {
+    "valid": false
+  },
+  "https://businesschief.com/news/why-is-elon-musk-spending-us-60bn-on-an-ai-startup": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.essential-business.pt/2026/04/22/dojo-ai-in-e5-1-million-raise-for-us-expansion/": {
+    "valid": false
+  },
+  "https://www.techbuzz.ai/articles/10x-science-raises-4-8m-to-solve-ai-drug-discovery-s-biggest-problem": {
+    "valid": true,
+    "company": "10x Science",
+    "amount_str": "$4.8M",
+    "website": "https://10xscience.com",
+    "linkedin_url": "https://linkedin.com/company/10xscience",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thenews.com.pk/latest/1399942-why-spacex-just-bet-60bn-on-3-year-old-startup": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Jensen Huang revealed on",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/": {
+    "valid": false
+  },
+  "https://entrackr.com/snippets/spill-games-raises-31-mn-in-seed-round-led-by-centre-court-capital-and-peercapital-11751548": {
+    "valid": true,
+    "company": "Spill Games",
+    "amount_str": "$3.1 m",
+    "website": "https://spill.games",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@spill.games",
+    "twitter_url": ""
+  },
+  "https://thequantuminsider.com/2026/04/22/pennsylvania-universities-and-commonwealth-leaders-launch-keystone-ai-quantum-factory/": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/04/fresh-from-e10-3-million-raise-epoch-biodesign-unveils-london-nylon-66-biorecycling-facility/": {
+    "valid": false
+  },
+  "https://via.ritzau.dk/pressemeddelelse/14892658/dojo-ai-raises-dollar6m-to-power-agentic-marketing-platform-transforming-data-into-business-impact?publisherId=13560585&lang=en": {
+    "valid": true,
+    "company": "DOJO AI",
+    "amount_str": "$6M",
+    "website": "https://www.dojoai.com",
+    "linkedin_url": "https://linkedin.com/company/dojo-marketing",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/monk-raises-25-million-series-a": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/04/realm-raises-e3-8-million-to-bring-ai-agents-into-enterprise-sales-plans-to-triple-its-team-by-year-end/": {
+    "valid": false
+  },
+  "https://www.citybiz.co/article/835491/amperos-health-raises-16-million-to-expand-ai-platform-for-healthcare-claims-denials/": {
+    "valid": true,
+    "company": "Amperos Health",
+    "amount_str": "$16 M",
+    "website": "https://www.amperoshealth.com",
+    "linkedin_url": "https://linkedin.com/company/amperos-health",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/amperoshealth"
+  },
+  "https://getlatka.com/blog/how-fathom-ai-achieved-30m-in-revenue-insights-from-ceo-richard-white/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Insights from",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.uktech.news/ai/locai-raises-1m-to-develop-its-off-cloud-ai-infrastructure-20260422": {
+    "valid": false
+  },
+  "https://www.crowdfundinsider.com/2026/04/274938-ai-fintech-seapoint-raises-e7-5m-in-seed-funding/": {
+    "valid": false
+  },
+  "https://autos.yahoo.com/ev-and-future-tech/articles/humble-hauler-cab-less-autonomous-080803650.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://s.yimg.com/du/benji/benji-2.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.chosun.com/english/industry-en/2026/04/23/UMZ3DECE7BGH3NZBVEMATM4MKQ/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://static.chartbeat.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://therecursive.com/grai-secures-e7-65m-seed-funding-to-build-ai-powered-music-remix-platform/": {
+    "valid": true,
+    "company": "Polish-Based GRAI",
+    "amount_str": "\u20ac7.65M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://mexicobusiness.news/finance/news/fewer-deals-bigger-bets-latin-americas-startup-funding-gap": {
+    "valid": false
+  },
+  "https://www.theinformation.com/newsletters/ai-agenda/openai-anthropic-moving-away-reasoning-tech": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/the-recursive_polish-based-grai-has-secured-9-765-activity-7452656954566492160-OxjG": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/04/22/humble-emerges-from-stealth-with-24m-in-seed-funding-for-autonomous-cabless-electric-freight-hauling/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/wrahim_helsinki-based-realm-raises-45m-seed-round-activity-7452678476978925569-1dVh": {
+    "valid": true,
+    "company": "Helsinki-based Realm",
+    "amount_str": "$4.5M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/04/22/swiss-startup-bubble-robotics-raises-5m-in-pre-seed-funding-to-develop-autonomous-ocean-workforce/": {
+    "valid": true,
+    "company": "Swiss Startup Bubble Robotics",
+    "amount_str": "$5M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
