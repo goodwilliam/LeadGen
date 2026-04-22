@@ -42089,5 +42089,114 @@
   },
   "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/sam-altman-on-ai-s-future-global-competition": {
     "valid": false
+  },
+  "https://tech.eu/2026/04/22/atmos-space-cargo-secures-eur257-million-to-expand-europes-sovereign-return-from-orbit-capability/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/21/florida-attorney-general-issues-subpoenas-chatgpt-probe-fsu-shooting/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/aqst-deadline-aqst-investors-have-opportunity-to-lead-aquestive-therapeutics-inc-securities-fraud-lawsuit-302749577.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/nktr-investors-have-opportunity-to-lead-nektar-therapeutics-securities-fraud-lawsuit-302749572.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/how-to-protect-yourself-during-a-sex-crime-investigation--wichita-criminal-defense-law-firm-302737449.html": {
+    "valid": false
+  },
+  "https://a16zbuild.substack.com/p/open-roles-at-cursor-gamma-and-inferact": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "He and his",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/RobertJSalvador/status/2046384729650249763": {
+    "valid": false
+  },
+  "https://eu.36kr.com/en/p/3777351039862789": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DXZ5jyOjcSc/": {
+    "valid": true,
+    "company": "NudgeBee",
+    "amount_str": "$3 m",
+    "website": "https://www.nudgebee.com",
+    "linkedin_url": "https://linkedin.com/company/nudgebee",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techinasia.com/news/us-ai-startup-neocognition-exits-stealth-with-40m-seed": {
+    "valid": false
+  },
+  "https://techfundingnews.com/tava-health-40m-series-c-behavioral-health-platform/": {
+    "valid": true,
+    "company": "Tava Health",
+    "amount_str": "$40M",
+    "website": "https://www.tavahealth.com",
+    "linkedin_url": "https://linkedin.com/company/tava-health",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/tavahealth"
+  },
+  "https://x.com/WuBlockchain/status/2046809379731902960": {
+    "valid": false
+  },
+  "https://phemex.com/news/article/spacex-partners-with-ai-startup-cursor-eyes-60-billion-acquisition-75142": {
+    "valid": false
+  },
+  "https://enterpriseam.com/egypt/issues/nbe-bm-hike-rates-on-cds-what-does-this-mean/": {
+    "valid": false
+  },
+  "https://www.binance.com/en/square/post/315131679483009": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DXaw6XmiSVm/": {
+    "valid": false
+  },
+  "https://www.binance.com/en/square/post/315126665441586": {
+    "valid": false
+  },
+  "https://www.smartcompany.com.au/startupsmart/employment-hero-business-legal-employer-new-ai-system/": {
+    "valid": false
+  },
+  "https://www.pressreader.com/uk/daily-express/20260422/282278146918971": {
+    "valid": false
+  },
+  "https://nordic9.com/news/zynt-closed-a-500000-pre-seed-funding-round-with-24ventures-and-angel-investors-in-poland/": {
+    "valid": false
+  },
+  "https://www.startupmag.co.uk/funding/arrival-2026-pre-seed-funding/": {
+    "valid": true,
+    "company": "Arrival",
+    "amount_str": "",
+    "website": "https://arrival.ac",
+    "linkedin_url": "https://linkedin.com/company/arrival",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://climate.mit.edu/posts/psfc-showcases-technologies-applicable-both-fusion-and-geothermal-energy-during": {
+    "valid": false
+  },
+  "https://sifted.eu/articles/stripe-alumni-fintech-fundraise": {
+    "valid": true,
+    "company": "Stripe alumni",
+    "amount_str": "\u20ac7.5m",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/xtripe-angels",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
