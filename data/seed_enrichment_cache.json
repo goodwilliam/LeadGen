@@ -43391,5 +43391,284 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": "https://x.com/whatsapp"
+  },
+  "https://news.crunchbase.com/venture/cloneable-cloning-expert-worker-knowledge-ai-infrastructure/": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/venture/modest-gains-for-electric-vehicle-funding-wayve/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/23/balderton-adds-serial-entrepreneur-phil-chambers-to-its-partnership/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/23/thestorage-raises-eur36m-to-scale-industrial-thermal-energy-storage/": {
+    "valid": true,
+    "company": "TheStorage",
+    "amount_str": "\u20ac3.6M",
+    "website": "https://thestorage.app",
+    "linkedin_url": "https://linkedin.com/company/thestorage",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@livesoft.hu",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/23/berlin-based-vrey-raises-eur33m-to-unlock-shared-roof-solar/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/23/copperhelm-dives-deep-automation-build-enterprise-cloud-defenses/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/23/rilian-raises-17-5m-automate-security-software-procurement-deployment-defense-sector/": {
+    "valid": true,
+    "company": "Rilian",
+    "amount_str": "$17.5M",
+    "website": "https://www.rilian.com",
+    "linkedin_url": "https://linkedin.com/company/riliantech",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/RilianTech"
+  },
+  "https://www.prnewswire.com/news-releases/neo-semiconductor-demonstrates-3d-x-dram-proof-of-concept-secures-strategic-investment-to-advance-ai-memory-302751824.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/coty-lawsuit-alleges-company-allegedly-concealed-deteriorating-trends---coty-inc-investors-face-losses-following-company-allegedly-concealed-deteriorating-trends-suewallst-302751193.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/lu-investor-alert-lufax-holding-ltd-securities-fraud-lawsuit---investors-with-losses-may-seek-to-lead-the-class-action-after-auditor-allegedly-withdrew-relied-upon-opinions-suewallst-302751181.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/slno-investor-alert-soleno-therapeutics-inc-securities-fraud-lawsuit---investors-with-losses-may-seek-to-lead-the-class-action-after-company-allegedly-concealed-drug-safety-risks-suewallst-302751192.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/psix-lawsuit-alleges-executives-allegedly-misled-investors-on-margins---power-solutions-international-investors-face-losses-following-executives-allegedly-misled-investors-on-margins-suewallst-302751201.html": {
+    "valid": false
+  },
+  "https://www.calcalistech.com/ctechnews/article/hkuomtva11l": {
+    "valid": true,
+    "company": "Ex-Sygnia and Ermetic founder",
+    "amount_str": "$17 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://en.globes.co.il/en/article-cyera-buys-israeli-startup-ryft-for-over-100m-1001540737": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://images.globes.co.il/globes/icons/favicon2019-en.png",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.calcalistech.com/ctechnews/article/rjni88wawl": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://newmedia.calcalist.co.il/ctech/testimonials/index.html",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "judith.hoffmann@calcalist.co.il",
+    "twitter_url": ""
+  },
+  "https://www.traveldailynews.com/ground-transportation/nox-mobility-raises-2m-euros-pre-seed-round-to-reinvent-europes-night-trains/": {
+    "valid": false
+  },
+  "https://fortune.com/2026/04/23/jjjj/": {
+    "valid": true,
+    "company": "Astor",
+    "amount_str": "$5 m",
+    "website": "http://www.ericastor.com",
+    "linkedin_url": "https://linkedin.com/company/joinastor",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.calcalistech.com/ctechnews/article/bj08buvaze": {
+    "valid": false
+  },
+  "https://m.economictimes.com/industry/cons-products/electronics/lumio-eyes-series-a-round-after-4-million-seed-funding/articleshow/130465541.cms": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://connect.facebook.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.citybiz.co/article/836083/qmatter-raises-1-2m-pre-seed-to-advance-quantum-compression-for-drug-discovery/": {
+    "valid": true,
+    "company": "QMatter",
+    "amount_str": "$1.2M",
+    "website": "https://qmatter.xyz",
+    "linkedin_url": "https://linkedin.com/company/qmatter",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/qualitate-raises-7m-seed-round": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/dojo-ai-lands-6m-seed-round": {
+    "valid": false
+  },
+  "https://fortune.com/2026/04/23/exclusive-omni-raises-120-million-ai-iconiq-lookr-unicorn-semantic-layer/": {
+    "valid": true,
+    "company": "Omni",
+    "amount_str": "$120 m",
+    "website": "https://omnifamilyhealth.org",
+    "linkedin_url": "https://linkedin.com/company/omni-family-health",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/james-caldwell-43544817a",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.businessinsider.com/legora-acquires-startup-qura-for-legal-research-ai-2026-4": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://i.insider.com/697975dad3c7faef0ecd0c17",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://venturebeat.com/business/brev-raises-33-million-to-build-the-ai-native-layer-between-business-goals-and-work": {
+    "valid": true,
+    "company": "Brev",
+    "amount_str": "$3.3 M",
+    "website": "https://www.brev.com",
+    "linkedin_url": "https://linkedin.com/company/brevdev",
+    "founder_name": "said Chris Pitchford",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@email.com",
+    "twitter_url": ""
+  },
+  "https://vohnetwork.com/news/healthtech/curemeabroad-raises-600k-pre-seed-funding-to-expand-medical-tourism-platform": {
+    "valid": true,
+    "company": "CureMeAbroad",
+    "amount_str": "$600K",
+    "website": "https://curemeabroad.com",
+    "linkedin_url": "https://linkedin.com/company/curemeabroad",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@curemeabroad.com",
+    "twitter_url": ""
+  },
+  "https://www.odaily.news/en/post/5210432": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/founderstoday_bubble-robotics-secures-5m-pre-seed-to-build-activity-7452983828245061632-Wq6F": {
+    "valid": true,
+    "company": "Bubble Robotics",
+    "amount_str": "$5M",
+    "website": "https://www.bubble-robotics.com",
+    "linkedin_url": "https://linkedin.com/company/bubble-robotics",
+    "founder_name": "Silicon Valley",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/BubbleRobotics"
+  },
+  "https://www.finsmes.com/2026/04/cloudsmith-raises-72m-in-series-c-funding.html": {
+    "valid": false
+  },
+  "https://www.railwaygazette.com/business/2026/04/23/incoming-alstom-ceo-warns-of-further-fallout-from-delayed-projects-as-shares-fall/": {
+    "valid": false
+  },
+  "https://yourstory.com/2026/04/dheyatech-indigenous-propulsion-hydrogen-india": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/dojo-ai-raises-6m-in-seed-funding-at-30m-valuation.html": {
+    "valid": false
+  },
+  "https://www.scarymommy.com/parenting/a-new-app-aims-to-address-cyberbullying-early-parents-take-notice": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/bubble-robotics-raises-5m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://innovation-village.com/ischool-acquires-rubikal-to-build-ai-powered-education-infrastructure/": {
+    "valid": false
+  },
+  "https://m.dailyhunt.in/news/india/english/indian+startup+news-epaper-indanstn/aipowered+medical+tourism+discovery+platform+curemeabroad+raises+600000+to+boost+growth-newsid-n709529919": {
+    "valid": true,
+    "company": "AI-powered medical tourism discovery platform CureMeAbroad",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/affix-labs-raises-e1m-in-funding.html": {
+    "valid": false
+  },
+  "https://inc42.com/buzz/kabeer-biswas-m-raises-%E2%82%B9102-cr-from-peak-xv-blume/": {
+    "valid": false
+  },
+  "https://therecursive.com/blackpeak-capital-fasal-bio-investment-naturion/": {
+    "valid": false
+  },
+  "https://letsdatascience.com/news/former-google-founders-raise-45m-for-ai-startup-79ecdc32": {
+    "valid": false
+  },
+  "https://www.businessinsider.com/former-google-coworkers-raise-millions-ai-startup-tiny-team-2026-4": {
+    "valid": true,
+    "company": "Google Coworkers",
+    "amount_str": "$4.5M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.fintechfutures.com/fintech-start-ups/new-payments-infrastructure-startup-ummah": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DXd0UQ2lgOc/": {
+    "valid": false
+  },
+  "https://www.techbuzz.ai/articles/ark-invest-makes-first-lead-bet-on-esports-loyalty-startup-lucra": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://privacy-proxy.usercentrics.eu/latest/uc-block.bundle.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://en.incarabia.com/egyptbased-invia-raises-us12-million-to-build-allinone-financial-operating-system-for-smes-847603.html": {
+    "valid": true,
+    "company": "Egypt-Based INVIA",
+    "amount_str": "$1.2 M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
