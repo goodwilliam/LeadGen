@@ -43670,5 +43670,300 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/04/23/salmon-raises-100m-in-equity-and-debt-to-bring-digital-credit-to-underbanked-filipinos/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/04/23/vercel-says-some-of-its-customers-data-was-stolen-prior-to-its-recent-hack/": {
+    "valid": false
+  },
+  "https://venturebeat.com/orchestration/talking-to-ai-agents-is-one-thing-what-about-when-they-talk-to-each-other-new-startup-band-debuts-universal-orchestrator": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/23/ceos-seeing-ai-investment-rise-returns-stall-googlecloudnext/": {
+    "valid": false
+  },
+  "https://www.geekwire.com/2026/iridius-led-by-microsoft-and-aws-vets-raises-8-6m-to-crack-ais-regulatory-compliance-bottleneck/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/shareholder-alert-purcell--lefkowitz-llp-announces-shareholder-investigation-of-sonida-senior-living-inc-nyse-snda-302752043.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/toyota-mobility-foundation-names-innovators-in-clean-freight-as-detroit-winners-of-global-sustainable-cities-challenge-302752069.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/dte-energy-intends-to-pause-future-electric-rate-requests-following-upcoming-filing-as-data-centers-come-online-302752078.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/wolf-haldenstein-adler-freeman--herz-llp-is-investigating-potential-securities-fraud-claims-on-behalf-of-the-shareholders-of-magnitude-international-ltd-nasdaq-magh-302752031.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/colabs-launches-riyadh-workspace-campus-backed-by-leading-regional-investors-302752080.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/water-safety-month-what-every-parent-needs-to-know-before-its-too-late-302751975.html": {
+    "valid": false
+  },
+  "https://www.businesspost.ie/tech/founder-therapy-an-investor-said-our-valuation-expectations-are-unrealistic/": {
+    "valid": false
+  },
+  "https://fortune.com/2026/04/23/19-year-old-thiel-fellow-7-3-million-african-super-app-swoop/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cookielaw.org/consent/906dc33b-1fc3-4b2c-a324-8bc0b7db9050/OtAutoBlock.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://finance.yahoo.com/sectors/technology/articles/era-raises-11m-build-software-160000149.html": {
+    "valid": true,
+    "company": "Era",
+    "amount_str": "$11M",
+    "website": "https://era.world",
+    "linkedin_url": "https://linkedin.com/company/era-real-estate",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@era.world",
+    "twitter_url": "https://x.com/eraworlds"
+  },
+  "https://www.digitalmusicnews.com/2026/04/23/tamber-raise-april-2026/": {
+    "valid": true,
+    "company": "Sample Specialist Tamber",
+    "amount_str": "$5M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.citybiz.co/article/836431/cloneable-launches-infrastructure-ai-platform-raises-4-6-million-seed-round/": {
+    "valid": true,
+    "company": "Cloneable",
+    "amount_str": "$4.6 M",
+    "website": "https://www.cloneable.ai",
+    "linkedin_url": "https://linkedin.com/company/cloneable",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DXer7YkiCXE/": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/04/23/kurma-partners-closes-e215-million-biofund-iv-to-back-european-biotech-ventures-from-paris/": {
+    "valid": false
+  },
+  "https://m.dailyhunt.in/news/india/english/entrackr+english-epaper-entrackr/exclusive+manufacturing+startup+whizzo+to+raise+11+mn+at+35x+valuation+jump-newsid-n690939199": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wa.me",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.calcalistech.com/ctechnews/article/syrtjfppzg": {
+    "valid": true,
+    "company": "Copperhelm",
+    "amount_str": "$7 m",
+    "website": "https://copperhelm.com",
+    "linkedin_url": "https://linkedin.com/company/copperhelm",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.citybiz.co/article/836183/almanac-health-raises-10-million-seed-round-for-clinical-ai-platform/": {
+    "valid": true,
+    "company": "Almanac Health",
+    "amount_str": "$10 M",
+    "website": "https://almanachealth.com.au",
+    "linkedin_url": "https://linkedin.com/company/almanac-health",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@almanachealth.com.au",
+    "twitter_url": ""
+  },
+  "https://www.businesswire.com/news/home/20260423526299/en/MythWorx-Unveils-NeuroWorx-Revolutionizing-AI-Reasoning": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "said MythWorx",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techinasia.com/news/indian-gaming-studio-lightfury-raises-11m-pre-series-a": {
+    "valid": true,
+    "company": "Indian gaming studio LightFury",
+    "amount_str": "$11m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "That fits",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.citybiz.co/article/836445/maxed-raises-850k-pre-seed-round-to-build-ai-platform-for-cpa-firms/": {
+    "valid": true,
+    "company": "Maxed",
+    "amount_str": "$850K",
+    "website": "https://www.maxed.life",
+    "linkedin_url": "https://linkedin.com/company/maxedlife",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@maxed.life",
+    "twitter_url": ""
+  },
+  "https://www.sciencenews.org/investors-lab/clinical-ai-health-market": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.snexplores.org",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/SN_Explores"
+  },
+  "https://www.finsmes.com/2026/04/maxed-raises-850k-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.bdtonline.com/news/nation_world/maxed-raises-850k-pre-seed-funding-to-automate-accounting-firms-with-its-ai-native-platform/article_80a0443b-d134-5fd2-81e6-0a8d7e2d3ff1.html": {
+    "valid": true,
+    "company": "Maxed",
+    "amount_str": "$850K",
+    "website": "https://www.maxed.life",
+    "linkedin_url": "https://linkedin.com/company/maxedlife",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@maxed.life",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/cloneable-raises-4-6m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://finance.yahoo.com/sectors/technology/articles/maxed-raises-850k-pre-seed-140000657.html": {
+    "valid": true,
+    "company": "Maxed",
+    "amount_str": "$850K",
+    "website": "https://www.maxed.life",
+    "linkedin_url": "https://linkedin.com/company/maxedlife",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@maxed.life",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/almanac-health-raises-10m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/brev-raises-3-3m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.siliconrepublic.com/start-ups/frances-univity-raises-e27m-to-allow-european-telecoms-compete-with-starlink": {
+    "valid": false
+  },
+  "https://www.citybiz.co/article/835278/maxed-raises-850k-pre-seed-led-by-focal-vc-to-build-ai-platform-for-cpa-firms/": {
+    "valid": true,
+    "company": "Maxed",
+    "amount_str": "$850K",
+    "website": "https://maxedfishing.com",
+    "linkedin_url": "https://linkedin.com/company/maxed",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.citybiz.co/article/836147/brev-raises-3-3-million-pre-seed-to-connect-ai-with-business-execution/": {
+    "valid": true,
+    "company": "Brev",
+    "amount_str": "$3.3 M",
+    "website": "https://www.brev.com",
+    "linkedin_url": "https://linkedin.com/company/brevdev",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@email.com",
+    "twitter_url": ""
+  },
+  "https://www.businesswire.com/news/home/20260423437615/en/Cloneable-Launches-First-Agentic-AI-Platform-Built-to-Accelerate-Critical-Infrastructure-Modernization-Closes-%244.6-Million-Seed-Round": {
+    "valid": true,
+    "company": "Cloneable",
+    "amount_str": "",
+    "website": "https://www.cloneable.ai",
+    "linkedin_url": "https://linkedin.com/company/cloneable",
+    "founder_name": "Lia Reich",
+    "founder_linkedin_url": "https://linkedin.com/in/liareich",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.streetinsider.com/EZ+Newswire/Magicare+Exits+Stealth+with+%243.6M+Pre-Seed+to+Build+the+Agentic+Operating+System+for+Post%E2%80%91Acute+Care/26355671.html": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/grishinrobotics_bubble-robotics-has-raised-5-million-in-activity-7453032993939582977-7fLd": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.panewslab.com/en/articles/019db9d9-3a42-71a2-bec2-742dcee3a9a6": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cloud.umami.is/script.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://alleywatch.com/2026/04/qualitate-ai-moderator-primary-research-ai-expert-intelligence-network-alternative-platform-sagar-kadakia/": {
+    "valid": true,
+    "company": "Qualitate",
+    "amount_str": "$7M",
+    "website": "https://qualitate.io",
+    "linkedin_url": "https://linkedin.com/company/qualitate-io",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fintech.global/2026/04/23/spectrum-security-raises-19m-in-seed-funding-round/": {
+    "valid": true,
+    "company": "Spectrum Security",
+    "amount_str": "$19m",
+    "website": "https://www.spectrum.security",
+    "linkedin_url": "https://linkedin.com/company/spectrum-sec",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://academy.musaffa.com/startup-fundraising-guide-2026/": {
+    "valid": false
+  },
+  "https://www.instagram.com/reel/DXePgJYD4pZ/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/cyera-acquires-ryft-ai-agent-data-security-unified-platform/": {
+    "valid": false
+  },
+  "https://www.startupgrantsindia.com/funding-frontier-climate-tech-for-childrens-health": {
+    "valid": false
   }
 }
