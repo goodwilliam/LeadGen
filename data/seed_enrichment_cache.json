@@ -43965,5 +43965,168 @@
   },
   "https://www.startupgrantsindia.com/funding-frontier-climate-tech-for-childrens-health": {
     "valid": false
+  },
+  "https://venturebeat.com/technology/openais-gpt-5-5-is-here-and-its-no-potato-narrowly-beats-anthropics-claude-mythos-preview-on-terminal-bench-2-0": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/23/omni-raises-120m-round-backed-gv-ai-analytics-platform/": {
+    "valid": true,
+    "company": "Omni",
+    "amount_str": "$120M",
+    "website": "https://omni.co/blog/omni-series-c-funding",
+    "linkedin_url": "https://linkedin.com/company/exploreomni",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "colin@omni.co",
+    "twitter_url": "https://x.com/Omni"
+  },
+  "https://www.prnewswire.com/news-releases/it-investors-have-opportunity-to-lead-gartner-inc-securities-fraud-lawsuit-302752268.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/jetstream-venture-fund-establishes-interest-in-shield-ai-advancing-its-future-of-air-and-space-portfolio-302752293.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rexford-industrial-announces-first-quarter-2026-financial-results-302752289.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/urban-one-inc-first-quarter-2026-results-conference-call-302752255.html": {
+    "valid": false
+  },
+  "https://finance.yahoo.com/sectors/technology/articles/19-old-thiel-fellow-just-140000121.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https:&#x2F;&#x2F;www.yahoo.com&#x2F;",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.inkl.com/news/anthropic-just-overtook-openai-with-1-trillion-valuation": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/washington/news/2026/04/23/rilian-seed-round-8vc-palantir.html": {
+    "valid": true,
+    "company": "McLean cybersecurity startup Rilian",
+    "amount_str": "$17.5M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/": {
+    "valid": false
+  },
+  "https://hypepotamus.com/startup-news/cloneable-ai-agents-energy-infrastructure-knowledge-gap/": {
+    "valid": false
+  },
+  "https://www.drugdiscoverynews.com/how-the-iran-war-is-quietly-testing-global-drug-supply-chains-17137": {
+    "valid": false
+  },
+  "https://techfundingnews.com/softbank-10b-margin-loan-openai-stake-collateral/": {
+    "valid": false
+  },
+  "https://www.reddit.com/r/StartUpIndia/comments/1stp8h0/looking_to_invest_in_earlystage_startups/": {
+    "valid": false
+  },
+  "https://x.com/NewsFromBW/status/2047358407188087139": {
+    "valid": true,
+    "company": "Maxed",
+    "amount_str": "$850K",
+    "website": "https://www.maxed.life",
+    "linkedin_url": "https://linkedin.com/company/maxedlife",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@maxed.life",
+    "twitter_url": ""
+  },
+  "https://www.marketscreener.com/news/maxed-raises-850-000-pre-seed-funding-ce7f59deda88f323": {
+    "valid": true,
+    "company": "Maxed",
+    "amount_str": "",
+    "website": "https://getmaxed.co",
+    "linkedin_url": "https://linkedin.com/company/maxed",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/astor-raises-5m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/04/23/beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizable-paywalls/": {
+    "valid": false
+  },
+  "https://www.innovationopenlab.com/news-biz/66239/maxed-raises-850k-pre-seed-funding-to-automate-accounting-firms-with-its-ai-native-platform.html": {
+    "valid": true,
+    "company": "Maxed",
+    "amount_str": "$850K",
+    "website": "https://maxedfishing.com",
+    "linkedin_url": "https://linkedin.com/company/maxed",
+    "founder_name": "of Notion",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://vctavern.com/deduction-raises-2-8-million-in-pre-seed-funding-to-launch-ai-powered-tax-accountant-for-u-s-consumers/": {
+    "valid": true,
+    "company": "Agentio",
+    "amount_str": "$40 m",
+    "website": "https://www.agentio.com",
+    "linkedin_url": "https://linkedin.com/company/agentio-hq",
+    "founder_name": "stage startups with",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/agentiohq"
+  },
+  "https://www.act-news.com/news/startup-bets-on-cabless-design/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://magazine.utoronto.ca/research-ideas/technology/transcrypts-secures-important-records-using-blockchain/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.transcrypts.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://inc42.com/buzz/lightfury-games-bags-11mn-to-develop-aaa-game-ecricket/": {
+    "valid": true,
+    "company": "LightFury Games",
+    "amount_str": "$11 M",
+    "website": "https://www.lightfurygames.com",
+    "linkedin_url": "https://linkedin.com/company/lightfury-games",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/karan-shroff-33572564",
+    "contact_email": "communications@lightfurygames.com",
+    "twitter_url": "https://x.com/LightFuryGames"
+  },
+  "https://www.instagram.com/p/DXen3RvCK6m/": {
+    "valid": false
+  },
+  "https://theaiworld.org/news/realm-raises-45m-to-power-ai-sales-teams": {
+    "valid": true,
+    "company": "Realm",
+    "amount_str": "$4.5M",
+    "website": "http://www.realm-music.com",
+    "linkedin_url": "https://linkedin.com/company/realmhome",
+    "founder_name": "of Slack",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
