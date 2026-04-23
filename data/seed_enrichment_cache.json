@@ -43080,5 +43080,115 @@
   },
   "https://www.eu-startups.com/2026/04/uk-healthtech-startup-calibre-emerges-from-stealth-with-e2-8-million-to-tackle-health-guesswork/": {
     "valid": false
+  },
+  "https://tech.eu/2026/04/23/decade-energy-secures-eur22m-to-electrify-logistics-depots-at-scale/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/23/univity-raises-eur27m-to-build-sovereign-space-connectivity-for-telecom-operators/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/shareholder-alert-ademi-llp-investigates-claims-of-securities-fraud-against-sportradar-group-ag-302751048.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/dreame-nebula-next-auto-etend-sa-collaboration-universitaire-afin-daccelerer-linnovation-automobile-basee-sur-lia-302751244.html": {
+    "valid": false
+  },
+  "https://www.rdworldonline.com/why-the-techbio-precigenetics-aims-to-swap-cell-autopsies-with-live-cell-measurement/": {
+    "valid": false
+  },
+  "https://www.nzherald.co.nz/business/ai-robot-takeover-antioch-co-founded-by-kiwi-harry-mellsop-raises-15m-at-a-102m-valuation-tech-insider/premium/Y2FHNDQZTRDZBOW3JOO4DGF7M4/": {
+    "valid": true,
+    "company": "Antioch, co-founded by Kiwi Harry Mellsop",
+    "amount_str": "$15m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.weex.com/news/detail/morning-report-spacex-acquires-cursor-for-60-billion-kalshi-and-polymarket-launch-perpetual-contract-trading-neocognition-completes-40-million-financing-702738": {
+    "valid": false
+  },
+  "https://www.bloomberg.com/news/articles/2026-04-22/andreessen-thrive-poised-for-windfall-from-spacex-s-cursor-bid": {
+    "valid": false
+  },
+  "https://www.hpcwire.com/aiwire/2026/04/22/10x-science-raises-4-8m-seed-to-build-ai-that-understands-proteins-at-the-molecular-level/": {
+    "valid": false
+  },
+  "https://www.kucoin.com/news/flash/spacex-to-acquire-ai-startup-cursor-for-600-billion-kalshi-and-polymarket-launch-perpetual-contracts": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://assets.staticimg.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.traveldailynews.com/uncategorized/nox-mobility-raises-2m-euros-pre-seed-round-to-reinvent-europes-night-trains/": {
+    "valid": false
+  },
+  "https://ffnews.com/newsarticle/ex-stripe-team-at-seapoint-raises-e7-5m-seed-to-launch-the-financial-home-for-europes-startup-founders/": {
+    "valid": false
+  },
+  "https://www.binance.com/en/square/post/315459778682385": {
+    "valid": false
+  },
+  "https://m.dailyhunt.in/news/india/english/entrackr+english-epaper-entrackr/medtech+tourism+startup+curemeabroad+raises+preseed+round-newsid-n709537231": {
+    "valid": true,
+    "company": "Med-tech tourism startup CureMeAbroad",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://qmatter.xyz/qmatter-raises-pre-seed-funding/": {
+    "valid": true,
+    "company": "QMatter",
+    "amount_str": "$1.2M",
+    "website": "https://qmatter.xyz",
+    "linkedin_url": "https://linkedin.com/company/qmatter",
+    "founder_name": "Photo of",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://quantumcomputingreport.com/qmatter-secures-1-2m-pre-seed-to-create-software-that-compresses-complex-quantum-problems-to-their-essential-core/": {
+    "valid": true,
+    "company": "QMatter",
+    "amount_str": "$1.2M",
+    "website": "https://qmatter.xyz",
+    "linkedin_url": "https://linkedin.com/company/qmatter",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://nordic9.com/news/base4-biosciences-closed-a-1m-pre-seed-round-with-kfund-itnig-masia-and-angel-investors-in-spain-pedro-coelho-and-carles-reina-baobab-ventures/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techstartups.com/2026/04/22/top-startup-and-tech-funding-news-april-22-2025/": {
+    "valid": true,
+    "company": "Blue Energy",
+    "amount_str": "$380 m",
+    "website": "https://blueenergy.co",
+    "linkedin_url": "https://linkedin.com/company/blue-energy-co",
+    "founder_name": "Former Intel",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Blue_Energy_Co"
   }
 }
