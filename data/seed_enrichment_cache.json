@@ -43190,5 +43190,206 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": "https://x.com/Blue_Energy_Co"
+  },
+  "https://tech.eu/2026/04/23/fintech-10-companies-that-raised-the-most-in-2025/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/23/cloudsmith-raises-72m-series-c-to-secure-the-ai-era-software-supply-chain/": {
+    "valid": true,
+    "company": "Cloudsmith",
+    "amount_str": "$72M",
+    "website": "https://app.cloudsmith.com",
+    "linkedin_url": "https://linkedin.com/company/cloudsmith",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/23/wenite-secures-eur18-million-to-power-the-future-of-data-driven-hr/": {
+    "valid": true,
+    "company": "Wenite",
+    "amount_str": "\u20ac1.8 m",
+    "website": "https://www.wenite.io",
+    "linkedin_url": "https://linkedin.com/company/wenite",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/julia-lustig_an-18-year-old-just-raised-2m-in-pre-seed-activity-7452846221611859968-thLy": {
+    "valid": true,
+    "company": "An 18-year-old just",
+    "amount_str": "$2M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Because these",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/etnshow/status/2046989986025939138": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/grishinrobotics_linexa-just-raised-2-million-in-pre-seed-activity-7452682269003030531-MLJl": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/lukecostleywhite_we-just-raised-5-million-backed-by-armilar-activity-7452694581990739969-XKlg": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/04/cloudsmith-raises-e61-5-million-series-c-to-control-and-secure-ai-driven-software-supply-chains/": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DXd0HQGj8Tn/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/04/23/meta-to-harvest-employee-keystrokes-and-mouse-movements-to-train-ai-models/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/04/23/viewsml-closes-funding-round-to-accelerate-commercialization-of-ai-driven-virtual-biomarker-staining-platform/": {
+    "valid": true,
+    "company": "ViewsML",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/viewsml-technologies",
+    "founder_name": "said Kenneth To",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/yourstorycom/photos/mobile-gaming-startup-spill-games-has-raised-31-million-in-a-seed-round-co-led-b/1438927868269183/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.binance.com/en/square/post/315350746337026": {
+    "valid": false
+  },
+  "https://ffnews.com/newsarticle/funding/ex-stripe-team-at-seapoint-raises-e7-5m-seed-to-launch-the-financial-home-for-europes-startup-founders/": {
+    "valid": false
+  },
+  "https://portugalstartupnews.com/2026/04/23/dojo-ai-raises-6-million-seed-round-to-scale-its-intelligent-marketing-system/": {
+    "valid": true,
+    "company": "DOJO AI",
+    "amount_str": "$6 m",
+    "website": "https://www.dojoai.com",
+    "linkedin_url": "https://linkedin.com/company/dojo-marketing",
+    "founder_name": "and Duarte Garrido",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.aol.com/articles/inside-ai-startup-elon-musk-045927577.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://s.yimg.com/oa/consent.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://cryptorank.io/ru/news/feed/dd68d-ai-drug-discovery-protein-characterization-startup": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://t.me/CryptoRankNews",
+    "linkedin_url": "",
+    "founder_name": "explained David Roberts",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/CryptoRank_io"
+  },
+  "https://businessnewsthisweek.com/business/healthtech-startup-curemeabroad-raises-usd-600k-pre-seed-hits-usd-3-5m-arr-in-two-quarters/": {
+    "valid": true,
+    "company": "CureMeAbroad",
+    "amount_str": "",
+    "website": "https://curemeabroad.com",
+    "linkedin_url": "https://linkedin.com/company/curemeabroad",
+    "founder_name": "said Aditya Oza",
+    "founder_linkedin_url": "",
+    "contact_email": "info@curemeabroad.com",
+    "twitter_url": ""
+  },
+  "https://www.quantum-australia.com/news/deteqt-press-release-seed-round": {
+    "valid": true,
+    "company": "Deteqt",
+    "amount_str": "$5M",
+    "website": "https://deteqt.tech/seed-announcement",
+    "linkedin_url": "https://linkedin.com/company/deteqt",
+    "founder_name": "said Dr Jim Rabeau",
+    "founder_linkedin_url": "",
+    "contact_email": "Info@Deteqt.tech",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/voima-ventures-superhero-capital-back-thestorages-e3-6m-round-to-slash-factory-energy-bills-by-70/": {
+    "valid": false
+  },
+  "https://firstwordhealthtech.com/story/7204536": {
+    "valid": true,
+    "company": "Calibre",
+    "amount_str": "$3.3M",
+    "website": "https://main.calibre-ebook.com",
+    "linkedin_url": "https://linkedin.com/company/calibre-systems",
+    "founder_name": "Timo Boldt and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://wazoplus.com/article/clafiya-raises-610000-in-pre-seed-to-reimagine-healthcare-service-delivery-in-africa--2d11de97": {
+    "valid": true,
+    "company": "Clafiya",
+    "amount_str": "",
+    "website": "https://my.clafiya.com",
+    "linkedin_url": "https://linkedin.com/company/clafiya",
+    "founder_name": "led by",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://slator.com/palabra-launches-tts-engine/": {
+    "valid": false
+  },
+  "https://www.spokanejournal.com/articles/18233-inw-companies-raise-14m-since-january": {
+    "valid": true,
+    "company": "INW companies",
+    "amount_str": "$11M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.calcalistech.com/ctechnews/article/sj400kyqa11x": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://newmedia.calcalist.co.il/ctech/testimonials/index.html",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "judith.hoffmann@calcalist.co.il",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/univity-27m-series-a-vleo-5g-satellite-constellation-telecom-starlink-rival/": {
+    "valid": false
+  },
+  "https://www.karostartup.com/success-stories/modern-indian-wear-brand-alaya-by-stage3-raises-undisclosed-seed-funding-led-by-lc-neuva-targets-50-crore-arr": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wa.me/+917903092723",
+    "linkedin_url": "",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/whatsapp"
   }
 }
