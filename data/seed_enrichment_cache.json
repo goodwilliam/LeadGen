@@ -44381,5 +44381,212 @@
   },
   "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/garry-tan-on-building-with-ai-agents": {
     "valid": false
+  },
+  "https://tech.eu/2026/04/24/eu-ukraine-launches-eur160m-defence-innovation-programme-to-unlock-eur400m-in-financing/": {
+    "valid": true,
+    "company": "EU\u2013Ukraine",
+    "amount_str": "\u20ac160M",
+    "website": "https://enlargement.ec.europa.eu",
+    "linkedin_url": "https://linkedin.com/company/eufua-vzw",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/24/verda-raises-117m-to-scale-ai-cloud-infrastructure-built-on-clean-nordic-power/": {
+    "valid": true,
+    "company": "Verda",
+    "amount_str": "$117M",
+    "website": "https://verda.com",
+    "linkedin_url": "https://linkedin.com/company/verda-cloud",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/verdacloud"
+  },
+  "https://tech.eu/2026/04/24/sofia-based-quillon-raises-15m-for-audit-grade-ai-in-accounting/": {
+    "valid": true,
+    "company": "Sofia-based Quillon",
+    "amount_str": "$1.5M",
+    "website": "https://tech.eu",
+    "linkedin_url": "https://linkedin.com/company/tech-eu",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "name@provider.com",
+    "twitter_url": "https://x.com/tech_eu"
+  },
+  "https://www.prnewswire.com/news-releases/guerbet-announces-an-important-milestone-achievement-in-the-vascular-embolization-indication-for-lipiodol-ultra-fluid-iodinated-ethyl-esters-of-fatty-acids-of-poppy-seed-oil-302750317.html": {
+    "valid": false
+  },
+  "https://www.cxodigitalpulse.com/band-exits-stealth-with-17m-to-build-the-communication-and-interaction-layers-for-the-internet-of-agents/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://mobidictum.com/spill-games-raises-3-1m-seed-round/": {
+    "valid": true,
+    "company": "Spill Games",
+    "amount_str": "$3.1M",
+    "website": "https://spill.games",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@spill.games",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/04/paris-based-sillage-raises-e1-7-million-to-help-sales-teams-follow-the-right-signals/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/04/24/signit-closes-15m-funding-round-to-expand-ai-powered-contract-management-across-saudi-arabia/": {
+    "valid": true,
+    "company": "Signit",
+    "amount_str": "$15M",
+    "website": "https://www.trysignit.com",
+    "linkedin_url": "https://linkedin.com/company/signit-app",
+    "founder_name": "Mohamed El Abbouri",
+    "founder_linkedin_url": "https://linkedin.com/in/mohamed-el-abbouri",
+    "contact_email": "support@trysignit.com",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/04/24/grai-announces-9m-in-funding-to-let-fans-remix-music-with-ai-with-artists-permission/": {
+    "valid": true,
+    "company": "AI music startup GRAI",
+    "amount_str": "$9 m",
+    "website": "https://delimiter.online",
+    "linkedin_url": "",
+    "founder_name": "Ilya Liasun",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.moneycontrol.com/news/business/startup/oolka-raises-rs-130-crore-from-accel-lightspeed-z47-and-meesho-founders-double-down-13898517.html": {
+    "valid": true,
+    "company": "Oolka",
+    "amount_str": "",
+    "website": "https://oolka.in",
+    "linkedin_url": "https://linkedin.com/company/oolka",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.trendingtopics.eu/finnish-ai-cloud-startup-verda-raises-e100m-to-challenge-aws-and-azure/": {
+    "valid": true,
+    "company": "Verda",
+    "amount_str": "\u20ac100M",
+    "website": "https://verdahealthcare.com",
+    "linkedin_url": "https://linkedin.com/company/verda-cloud",
+    "founder_name": "said founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.trendingtopics.eu/deepseek-v4-returns-to-challenge-us-ai-giants-with-aggressive-pricing/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.tiktok.com/@trendingtopics.eu",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "u002F@trendingtopics.eu",
+    "twitter_url": ""
+  },
+  "https://en.wowtale.net/2026/04/24/233946/": {
+    "valid": true,
+    "company": "'All My Anecdotes'",
+    "amount_str": "$4.86M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "said Jay Kim",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thenextweb.com/news/verda-117m-funding-lifeline-ventures-ai-cloud": {
+    "valid": true,
+    "company": "Verda",
+    "amount_str": "$117 m",
+    "website": "https://verda.com",
+    "linkedin_url": "https://linkedin.com/company/verda-cloud",
+    "founder_name": "CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/verdacloud"
+  },
+  "https://www.agbi.com/analysis/finance/2026/04/war-hits-saudi-startups-access-to-vc-funding/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/04/24/sinai-ai-raises-1-45m-to-transform-books-into-ai-powered-interactive-experiences/": {
+    "valid": true,
+    "company": "Sinai.ai",
+    "amount_str": "$1.45M",
+    "website": "https://www.sinai.ai",
+    "linkedin_url": "https://linkedin.com/company/sinai-ai",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Sinaidotai"
+  },
+  "https://www.finsmes.com/2026/04/verda-raises-117m-in-new-funding.html": {
+    "valid": false
+  },
+  "https://www.mrweb.com/drno/news39727.htm": {
+    "valid": false
+  },
+  "https://vctavern.com/farmshare-secures-120k-pre-seed-funding-to-empower-independent-farmers-and-expand-direct-to-consumer-marketplace/": {
+    "valid": true,
+    "company": "Farmshare",
+    "amount_str": "$120K",
+    "website": "https://farmshare.co",
+    "linkedin_url": "https://linkedin.com/company/farmshareco",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "sales@farmshare.co",
+    "twitter_url": ""
+  },
+  "https://www.reddit.com/r/buildinpublic/comments/1stygdy/how_to_get_preseed_funding_for_newly_launched_mvp/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/orkes-raises-60m-in-series-b-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/omni-raises-120m-in-series-c-funding-at-1-5b-valuation.html": {
+    "valid": false
+  },
+  "https://www.ynetnews.com/business/article/hkkpu5utbe": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/nava-raises-8-3m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://techfundingnews.com/verda-117m-funding-profitable-ai-gpu-cloud-finland/": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/04/helsinki-based-ai-infrastructure-company-verda-raises-e100-million-plans-to-hire-100-people-by-year-end/": {
+    "valid": false
+  },
+  "https://www.facebook.com/businessinsider/posts/years-after-meeting-by-chance-in-an-uber-joe-cheuk-and-praneet-dutta-left-big-te/1330577878940493/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fundup.ai/recently-funded-startups/company/Q3LbZ3OktM0d1ESkN8y7/qala-ag": {
+    "valid": false
+  },
+  "https://sprintlaw.co.uk/articles/uk-seed-funding-rounds-what-founders-must-know-before-raising-capital/": {
+    "valid": false
   }
 }
