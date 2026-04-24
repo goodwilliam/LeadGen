@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-04-24T01:57:31.082066Z",
+  "generated_at": "2026-04-24T06:05:20.975865Z",
   "count": 19,
-  "enriched_count": 17,
+  "enriched_count": 16,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "US AI agent collaboration startup Band raises $17m seed - Tech in Asia",
+      "article_url": "https://www.techinasia.com/news/us-ai-agent-collaboration-startup-band-raises-17m-seed",
+      "company": "US AI agent collaboration startup Band",
+      "amount_str": "$17m",
+      "pub_date": "2026-04-24T01:07:00Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "SiliconAngle",
       "title": "Software artifact management startup Cloudsmith raises $72M",
@@ -12,6 +26,20 @@
       "pub_date": "2026-04-24T00:59:18Z",
       "website": "https://duck.ai",
       "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Humble Robotics raises $24M for cabless hauler - FreightWaves",
+      "article_url": "https://www.freightwaves.com/news/humble-hauler-cabless-autonomous-truck",
+      "company": "Humble Robotics",
+      "amount_str": "$24M",
+      "pub_date": "2026-04-24T00:53:50Z",
+      "website": "https://jobs.lever.co",
+      "linkedin_url": "https://linkedin.com/company/lever-",
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
@@ -47,20 +75,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "WSJ: Philadelphia startup raises $30M towards mission to transform rail industry - MSN",
-      "article_url": "https://www.msn.com/en-us/money/other/wsj-philadelphia-startup-raises-30m-towards-mission-to-transform-rail-industry/ar-AA204qVr?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-t",
-      "company": "Philadelphia startup",
-      "amount_str": "$30M",
-      "pub_date": "2026-04-23T17:35:51Z",
-      "website": "https://startupproject.org",
-      "linkedin_url": "https://linkedin.com/company/the-startup-project",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/startupproject"
-    },
-    {
-      "source": "Google Alerts",
       "title": "Maxed Raises $850K Pre-Seed Funding to Automate Accounting Firms with its AI-Native Platform",
       "article_url": "https://x.com/NewsFromBW/status/2047358407188087139",
       "company": "Maxed",
@@ -75,17 +89,17 @@
     },
     {
       "source": "Google Alerts",
-      "title": "LightFury Games Bags $11 Mn To Develop AAA Game 'eCricket' - Inc42",
-      "article_url": "https://inc42.com/buzz/lightfury-games-bags-11mn-to-develop-aaa-game-ecricket/",
-      "company": "LightFury Games",
-      "amount_str": "$11 M",
-      "pub_date": "2026-04-23T17:03:57Z",
-      "website": "https://www.lightfurygames.com",
-      "linkedin_url": "https://linkedin.com/company/lightfury-games",
+      "title": "Era raises $11M to build a software platform for AI gadgets - Yahoo Finance",
+      "article_url": "https://finance.yahoo.com/sectors/technology/articles/era-raises-11m-build-software-160000149.html",
+      "company": "Era",
+      "amount_str": "$11M",
+      "pub_date": "2026-04-23T16:50:34Z",
+      "website": "https://era.world",
+      "linkedin_url": "https://linkedin.com/company/era-real-estate",
       "founder_name": "",
-      "founder_linkedin_url": "https://linkedin.com/in/karan-shroff-33572564",
-      "contact_email": "communications@lightfurygames.com",
-      "twitter_url": "https://x.com/LightFuryGames"
+      "founder_linkedin_url": "",
+      "contact_email": "hello@era.world",
+      "twitter_url": "https://x.com/eraworlds"
     },
     {
       "source": "Google Alerts",
@@ -114,20 +128,6 @@
       "founder_linkedin_url": "https://linkedin.com/in/james-caldwell-43544817a",
       "contact_email": "",
       "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Switched Source Raises $2.5 Million Seed Round to Advance Grid Modernization and ... - VC Tavern",
-      "article_url": "https://vctavern.com/switched-source-raises-2-5-million-seed-round-to-advance-grid-modernization-and-renewable-integration/",
-      "company": "Switched Source",
-      "amount_str": "$2.5 M",
-      "pub_date": "2026-04-23T14:38:00Z",
-      "website": "https://www.switchedsource.com",
-      "linkedin_url": "https://linkedin.com/company/11066596",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/SourceSwitched"
     },
     {
       "source": "Google Alerts",

@@ -44310,5 +44310,76 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": "https://x.com/startupproject"
+  },
+  "https://siliconangle.com/2026/04/23/us-special-forces-soldier-charged-making-insider-bet-maduros-removal/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/die-oxford-royale-academy-geht-eine-partnerschaft-mit-dem-mit-ein-um-schulern-der-sommerschule-ki-unterricht-anzubieten-302752602.html": {
+    "valid": false
+  },
+  "https://www.techinasia.com/news/us-ai-agent-collaboration-startup-band-raises-17m-seed": {
+    "valid": true,
+    "company": "US AI agent collaboration startup Band",
+    "amount_str": "$17m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://european-biotechnology.com/latest-news/kurma-partners-closes-biofund-iv-at-e215m-giving-european-biotech-a-fresh-specialist-pool-of-capital/": {
+    "valid": false
+  },
+  "https://thequantuminsider.com/2026/04/23/cisco-universal-quantum-switch-quantum-network/": {
+    "valid": false
+  },
+  "https://x.com/siliconvikings/status/2047373270060523585": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/Chirp-Regular.80fda27a.woff2",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.reddit.com/r/Investors/comments/1styd95/how_to_get_preseed_funding_for_newly_launched_mvp/": {
+    "valid": false
+  },
+  "https://news.bettingstartups.com/p/this-week-bethog-ai-live-dealers": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "stage companies and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.freightwaves.com/news/humble-hauler-cabless-autonomous-truck": {
+    "valid": true,
+    "company": "Humble Robotics",
+    "amount_str": "$24M",
+    "website": "https://jobs.lever.co",
+    "linkedin_url": "https://linkedin.com/company/lever-",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://pipelineroad.com/news/20260423-cloneable-raises-4-6-million-seed-funding-for-ai-expert-know": {
+    "valid": false
+  },
+  "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/ai-finds-ore-cobalt-s-ai-discovery-strategy": {
+    "valid": false
+  },
+  "https://www.buzinessbytes.com/concept-of-the-day/difference-between-seed-funding-and-series-a-funding-explained-simply/": {
+    "valid": false
+  },
+  "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/garry-tan-on-building-with-ai-agents": {
+    "valid": false
   }
 }
