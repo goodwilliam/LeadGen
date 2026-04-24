@@ -1,21 +1,77 @@
 {
-  "generated_at": "2026-04-24T13:05:55.788974Z",
-  "count": 23,
-  "enriched_count": 18,
+  "generated_at": "2026-04-24T16:50:35.470976Z",
+  "count": 24,
+  "enriched_count": 19,
   "articles": [
     {
       "source": "Google Alerts",
-      "title": "Swoop, an Eswatini food delivery startup , has raised $7.3 million in seed funding to support ...",
-      "article_url": "https://x.com/TechCabal/status/2047614490238177541",
-      "company": "Swoop",
-      "amount_str": "$7.3 m",
-      "pub_date": "2026-04-24T10:33:42Z",
-      "website": "https://www.agero.com",
-      "linkedin_url": "https://linkedin.com/company/9477",
+      "title": "Iridius: $8.6 Million Seed Funding Raised To Build Compliance-By-Design AI Platform For ...",
+      "article_url": "https://pulse2.com/iridius-8-6-million-seed-funding-raised-to-build-compliance-by-design-ai-platform-for-regulated-industries/",
+      "company": "Iridius",
+      "amount_str": "$8.6 m",
+      "pub_date": "2026-04-24T15:01:18Z",
+      "website": "https://iridius.ai",
+      "linkedin_url": "https://linkedin.com/company/iridius",
+      "founder_name": "Mike Kropp",
+      "founder_linkedin_url": "https://linkedin.com/in/michael-k-kropp",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "tech.eu",
+      "title": "Verda raises $117M, Aleph Alpha to be acquired, and solving the quantum bottleneck",
+      "article_url": "https://tech.eu/2026/04/24/verda-raises-117m-aleph-alpha-to-be-acquired-and-solving-the-quantum-bottleneck/",
+      "company": "Verda",
+      "amount_str": "$117M",
+      "pub_date": "2026-04-24T14:22:23Z",
+      "website": "https://verdahealthcare.com",
+      "linkedin_url": "https://linkedin.com/company/verda-cloud",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "info@VerdaHealthcare.com",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Ukrainian defense tech firm raises funds to expand globally - The New Voice of Ukraine",
+      "article_url": "https://english.nv.ua/amp/g-next-intelligence-raises-pre-seed-funding-to-scale-defense-tech-50602894.html",
+      "company": "Ukrainian defense tech firm",
+      "amount_str": "",
+      "pub_date": "2026-04-24T12:59:51Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Spectrum Security Raises $19M for AI Detection - Ventureburn",
+      "article_url": "https://ventureburn.com/spectrum-security-raises-19m-for-ai-detection/?amp=1",
+      "company": "Spectrum Security",
+      "amount_str": "$19M",
+      "pub_date": "2026-04-24T12:32:29Z",
+      "website": "https://www.spectrum.security",
+      "linkedin_url": "https://linkedin.com/company/spectrum-sec",
+      "founder_name": "said Meny Har",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "SiliconAngle",
+      "title": "Pudu Robotics raises nearly $150M at $1.5B valuation to deploy embodied AI technology",
+      "article_url": "https://siliconangle.com/2026/04/24/pudu-robotics-raises-nearly-150m-1-5b-valuation-deploy-embodied-ai-technology/",
+      "company": "Pudu Robotics",
+      "amount_str": "$150M",
+      "pub_date": "2026-04-24T12:30:56Z",
+      "website": "https://www.pudurobotics.com/en/news/pudu-robotics-raises-150-million-exceeds-1-5-billion-valuation",
+      "linkedin_url": "https://linkedin.com/company/pudurobotics",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "global_sales@pudutech.com",
+      "twitter_url": "https://x.com/solutions"
     },
     {
       "source": "tech.eu",
@@ -88,20 +144,6 @@
       "twitter_url": ""
     },
     {
-      "source": "tech.eu",
-      "title": "Verda raises $117M to scale AI cloud infrastructure built on clean Nordic power",
-      "article_url": "https://tech.eu/2026/04/24/verda-raises-117m-to-scale-ai-cloud-infrastructure-built-on-clean-nordic-power/",
-      "company": "Verda",
-      "amount_str": "$117M",
-      "pub_date": "2026-04-24T08:05:05Z",
-      "website": "https://verda.com",
-      "linkedin_url": "https://linkedin.com/company/verda-cloud",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/verdacloud"
-    },
-    {
       "source": "Google Alerts",
       "title": "'All My Anecdotes' Raises $4.86M Seed Round to Accelerate Virtual Idol Group OWIS and ...",
       "article_url": "https://en.wowtale.net/2026/04/24/233946/",
@@ -128,20 +170,6 @@
       "founder_linkedin_url": "",
       "contact_email": "name@provider.com",
       "twitter_url": "https://x.com/tech_eu"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Sinai.ai Raises $1.45M to Transform Books Into AI-Powered Interactive Experiences",
-      "article_url": "https://theaiinsider.tech/2026/04/24/sinai-ai-raises-1-45m-to-transform-books-into-ai-powered-interactive-experiences/",
-      "company": "Sinai.ai",
-      "amount_str": "$1.45M",
-      "pub_date": "2026-04-24T07:10:47Z",
-      "website": "https://www.sinai.ai",
-      "linkedin_url": "https://linkedin.com/company/sinai-ai",
-      "founder_name": "founder and",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/Sinaidotai"
     },
     {
       "source": "Google Alerts",
@@ -172,20 +200,6 @@
       "twitter_url": ""
     },
     {
-      "source": "Google Alerts",
-      "title": "US AI agent collaboration startup Band raises $17m seed - Tech in Asia",
-      "article_url": "https://www.techinasia.com/news/us-ai-agent-collaboration-startup-band-raises-17m-seed",
-      "company": "US AI agent collaboration startup Band",
-      "amount_str": "$17m",
-      "pub_date": "2026-04-24T01:07:00Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
       "source": "SiliconAngle",
       "title": "Software artifact management startup Cloudsmith raises $72M",
       "article_url": "https://siliconangle.com/2026/04/23/software-artifact-management-startup-cloudsmith-raises-72m/",
@@ -200,6 +214,20 @@
       "twitter_url": ""
     },
     {
+      "source": "SiliconAngle",
+      "title": "Omni raises $120M round backed by GV for its AI analytics platform",
+      "article_url": "https://siliconangle.com/2026/04/23/omni-raises-120m-round-backed-gv-ai-analytics-platform/",
+      "company": "Omni",
+      "amount_str": "$120M",
+      "pub_date": "2026-04-23T20:13:14Z",
+      "website": "https://omni.co/blog/omni-series-c-funding",
+      "linkedin_url": "https://linkedin.com/company/exploreomni",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "colin@omni.co",
+      "twitter_url": "https://x.com/Omni"
+    },
+    {
       "source": "Google Alerts",
       "title": "Maxed Raises $850K Pre-Seed Funding to Automate Accounting Firms with its AI-Native Platform",
       "article_url": "https://x.com/NewsFromBW/status/2047358407188087139",
@@ -211,20 +239,6 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "support@maxed.life",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Exclusive: Omni raises $120 million to fix one of AI's biggest enterprise data problems",
-      "article_url": "https://fortune.com/2026/04/23/exclusive-omni-raises-120-million-ai-iconiq-lookr-unicorn-semantic-layer/",
-      "company": "Omni",
-      "amount_str": "$120 m",
-      "pub_date": "2026-04-23T15:02:44Z",
-      "website": "https://omnifamilyhealth.org",
-      "linkedin_url": "https://linkedin.com/company/omni-family-health",
-      "founder_name": "",
-      "founder_linkedin_url": "https://linkedin.com/in/james-caldwell-43544817a",
-      "contact_email": "",
       "twitter_url": ""
     },
     {

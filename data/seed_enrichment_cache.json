@@ -44709,5 +44709,245 @@
   },
   "https://msmeafricaonline.com/call-for-applications-oando-foundation-green-youth-upskilling-program-2026-training-funding-opportunities/": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/04/24/nuclear-startup-x-energy-raises-1b-in-data-center-driven-ipo/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/24/verda-raises-117m-aleph-alpha-to-be-acquired-and-solving-the-quantum-bottleneck/": {
+    "valid": true,
+    "company": "Verda",
+    "amount_str": "$117M",
+    "website": "https://verdahealthcare.com",
+    "linkedin_url": "https://linkedin.com/company/verda-cloud",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@VerdaHealthcare.com",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/04/24/pudu-robotics-raises-nearly-150m-1-5b-valuation-deploy-embodied-ai-technology/": {
+    "valid": true,
+    "company": "Pudu Robotics",
+    "amount_str": "$150M",
+    "website": "https://www.pudurobotics.com/en/news/pudu-robotics-raises-150-million-exceeds-1-5-billion-valuation",
+    "linkedin_url": "https://linkedin.com/company/pudurobotics",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "global_sales@pudutech.com",
+    "twitter_url": "https://x.com/solutions"
+  },
+  "https://www.prnewswire.com/news-releases/emerge-americas-and-smartgatevc-launch-hive--a-healthcare-syndicate-built-to-move-industry-capital-into-vetted-innovation-302750177.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/bronstein-gewirtz--grossman-llc-urges-franklin-bsp-realty-trust-inc-investors-to-act-class-action-filed-alleging-investor-harm-302749949.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/bronstein-gewirtz--grossman-llc-urges-snowflake-inc-investors-to-act-class-action-filed-alleging-investor-harm-302749934.html": {
+    "valid": false
+  },
+  "https://www.techloy.com/week-17s-biggest-startup-funding-rounds-in-africa-and-the-middle-east-led-by-signit-as-ai-and-hospitality-tech-drew-the-biggest-checks/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techloy.com/week-17s-biggest-startup-funding-rounds-in-latin-america-led-by-plata-with-big-bets-on-fintech-and-ai/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/04/24/bret-taylors-sierra-acquires-french-ai-startup-fragment-in-third-deal-this-year/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "of Salesforce",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://xpert.digital/en/calcalist-ranking/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "founder and former",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://finance.yahoo.com/sectors/technology/articles/iridius-raises-8-6m-seed-130000590.html": {
+    "valid": true,
+    "company": "Iridius",
+    "amount_str": "$8.6M",
+    "website": "https://iridius.ai",
+    "linkedin_url": "https://linkedin.com/company/iridius",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.theinformation.com/articles/microsoft-cloud-providers-tighten-grip-gpus-pressuring-ai-customers": {
+    "valid": false
+  },
+  "https://techfundingnews.com/project-prometheus-bezos-funding-38b-valuation-physics-ai/": {
+    "valid": false
+  },
+  "https://entarabi.com/en/2026/04/spacex-moves-to-acquire-cursor-in-a-deal-valued-at-up-to-60-billion/": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/quillon-raises-1-5m-pre-seed": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/brev-raises-3-3m-pre-seed": {
+    "valid": false
+  },
+  "https://www.techinafrica.com/a-19-year-old-drops-out-of-berkeley-moves-to-lagos-and-raises-7-3-million-to-build-africas-super-app/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://whatsapp.com/channel/0029Vb3xgMr42DcfICgi7T1N",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/whatsapp"
+  },
+  "https://www.techloy.com/asias-biggest-startup-funding-in-week-17-led-by-pudu-robotics-and-lightfury-games/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.scworld.com/brief/rilian-secures-17-5-million-seed-funding-for-ai-security-integration-in-defense": {
+    "valid": true,
+    "company": "Rilian",
+    "amount_str": "$17.5 m",
+    "website": "https://www.rilian.com",
+    "linkedin_url": "https://linkedin.com/company/riliantech",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/RilianTech"
+  },
+  "https://betakit.com/global-payroll-platform-borderless-ai-now-lets-employees-get-paid-in-crypto/": {
+    "valid": false
+  },
+  "https://pulse2.com/iridius-8-6-million-seed-funding-raised-to-build-compliance-by-design-ai-platform-for-regulated-industries/": {
+    "valid": true,
+    "company": "Iridius",
+    "amount_str": "$8.6 m",
+    "website": "https://iridius.ai",
+    "linkedin_url": "https://linkedin.com/company/iridius",
+    "founder_name": "Mike Kropp",
+    "founder_linkedin_url": "https://linkedin.com/in/michael-k-kropp",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupfortune.com/deepseeks-new-model-can-generate-an-entire-novel-in-one-shot-and-the-industry-is-struggling-to-process-that/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://pulse2.com/era-11-million-raised-to-build-the-intelligence-layer-for-a-new-ecosystem-of-ai-powered-devices/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wp.me/pp5wj-1BdG",
+    "linkedin_url": "https://linkedin.com/company/pulse2news",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/pulse2news"
+  },
+  "https://businesscloud.co.uk/news/inside-cubbi-sisters-dragons-den-pitch-after-susie-ma-backing/": {
+    "valid": false
+  },
+  "https://www.udharaa.com/blog/how-to-find-angel-investors-in-ahmedabad-for-your-startup": {
+    "valid": false
+  },
+  "https://www.thestatesman.com/business/wealthtech-startup-primeinvestor-raises-rs-19-5-crore-from-rainmatter-capital-1503585703.html": {
+    "valid": false
+  },
+  "https://www.businesswire.com/news/home/20260424303852/en/Iridius-Raises-%248.6M-Seed-Round-to-Build-Compliance-by-Design-AI-Platform-for-Regulated-Enterprise-Workflows": {
+    "valid": true,
+    "company": "Iridius",
+    "amount_str": "$8.6M",
+    "website": "https://iridius.ai",
+    "linkedin_url": "https://linkedin.com/company/iridius",
+    "founder_name": "said Mike Chalfen",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://english.nv.ua/tags/ukrainian-defense-tech-startup.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://english.nv.ua/amp/g-next-intelligence-raises-pre-seed-funding-to-scale-defense-tech-50602894.html": {
+    "valid": true,
+    "company": "Ukrainian defense tech firm",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://youstartups.com/startup-funding-stages": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://qubit.capital/blog/venture-capital-stages",
+    "linkedin_url": "https://linkedin.com/company/qubit-capital",
+    "founder_name": "and the idea",
+    "founder_linkedin_url": "",
+    "contact_email": "flags@2x.webp",
+    "twitter_url": ""
+  },
+  "https://musically.com/2026/04/24/funding-roundup-tamber-futures-music-group-inversa/": {
+    "valid": false
+  },
+  "https://ventureburn.com/spectrum-security-raises-19m-for-ai-detection/?amp=1": {
+    "valid": true,
+    "company": "Spectrum Security",
+    "amount_str": "$19M",
+    "website": "https://www.spectrum.security",
+    "linkedin_url": "https://linkedin.com/company/spectrum-sec",
+    "founder_name": "said Meny Har",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
