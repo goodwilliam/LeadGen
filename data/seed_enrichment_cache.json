@@ -44949,5 +44949,190 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/04/24/x-energy-stock-pops-27-on-first-day-of-trading-following-upsized-ipo/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-autonomy-biotech-anthropic/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/24/ai-storage-infrastructure-key-limit-production-ai-race-googlecloudnext/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/gossamer-bio-inc-goss-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302753176.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/new-era-energy--digital-inc-nuai-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302753172.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/medpace-holdings-inc-medp-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302753180.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/alight-inc-alit-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302753163.html": {
+    "valid": false
+  },
+  "https://techfundingnews.com/8-big-data-analytics-software-solutions-transforming-businesses-in-2026/": {
+    "valid": false
+  },
+  "https://www.morningstar.com/news/pr-newswire/20260424ny42025/betterness-closes-25m-seed-round-and-launches-bett-i-the-first-fully-autonomous-voice-first-life-coaching-system-for-health-and-performance": {
+    "valid": true,
+    "company": "Betterness",
+    "amount_str": "$2.5m",
+    "website": "http://www.betterness.ai",
+    "linkedin_url": "https://linkedin.com/company/betterness-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@betterness.ai",
+    "twitter_url": ""
+  },
+  "https://www.citybiz.co/article/836968/iridius-raises-8-6m-seed-round-to-advance-compliance-driven-ai-workflows/": {
+    "valid": true,
+    "company": "Iridius",
+    "amount_str": "$8.6M",
+    "website": "https://iridius.ai",
+    "linkedin_url": "https://linkedin.com/company/iridius",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://m.economictimes.com/tech/funding/ettech-deals-digest-startups-raise-66-million-this-week-down-33-on-year/articleshow/130499295.cms": {
+    "valid": true,
+    "company": "Startups",
+    "amount_str": "$66 m",
+    "website": "https://www.startups.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/davidgcohen",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.foodbusinessnews.net/articles/30205-frozen-one-raises-2-million-in-seed-funding": {
+    "valid": true,
+    "company": "Frozen One",
+    "amount_str": "$2 m",
+    "website": "https://www.frozen-one.com",
+    "linkedin_url": "https://linkedin.com/company/frozen-one",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "user@domain.com",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/ohere-aleph-alpha-merger-20b-valuation-schwarz-group-600m/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/": {
+    "valid": false
+  },
+  "https://fortune.com/2026/04/24/aditi-maliwal-upfront-ventures-google-chime-ai-venture-capital/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cookielaw.org/consent/906dc33b-1fc3-4b2c-a324-8bc0b7db9050/OtAutoBlock.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.fintechfutures.com/m-a/collective-acquires-open-ledger": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.cloudflare.com/5xx-error-landing",
+    "linkedin_url": "https://linkedin.com/company/cloudflare",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/cloudflare"
+  },
+  "https://nordic9.com/news/quillon-raised-15-million-in-a-pre-seed-funding-round-led-by-42cap-joined-by-angel-investors/": {
+    "valid": false
+  },
+  "https://www.citybiz.co/article/836750/brev-raises-3-3m-to-build-ai-layer-linking-business-goals-and-execution/": {
+    "valid": true,
+    "company": "Brev",
+    "amount_str": "$3.3M",
+    "website": "https://brev.io",
+    "linkedin_url": "https://linkedin.com/company/brev-io",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://wnhub.io/news/investment/item-50669": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/smart-robotics-raises-e10m-in-series-a-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/decade-energy-raises-e22m-in-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/hrflow-ai-raises-7m-in-pre-series-a-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/quillon-raises-1-5m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/atmos-space-cargo-raises-e25-7m-in-series-a-funding.html": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/founderstoday_sillage-raises-17m-pre-seed-to-build-ai-activity-7453430437613408257-gy-w": {
+    "valid": false
+  },
+  "https://www.reddit.com/r/Entrepreneurs/comments/1sufkol/preseed_valuation_how/": {
+    "valid": false
+  },
+  "https://pulse2.com/nox-mobility-e2-million-raised-to-reinvent-europes-night-trains-with-private-rooms/": {
+    "valid": false
+  },
+  "https://pulse2.com/proteins-1-finnish-deep-tech-startup-launches-with-e4-7-million-to-bring-pcr-like-amplification-to-protein-diagnostics/": {
+    "valid": false
+  },
+  "https://www.startuplist.africa/startups/freterium/news-activities": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "and CEO",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupfortune.com/chinas-crackdown-on-us-investment-in-ai-firms-signals-a-new-front-in-the-tech-cold-war/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://weetracker.com/2026/04/24/swoop-7-3m-seed-nigeria-food-delivery-expansion/": {
+    "valid": false
+  },
+  "https://www.neimagazine.com/news/thorizon-broadens-msr-coalition/": {
+    "valid": false
+  },
+  "https://shop.digicelgroup.com/eimaginek/5U7L845/7U4L481590/wconsiderx/the__crowdfunding_kit_how-to_raise_money-for_any__startup.pdf": {
+    "valid": false
+  },
+  "https://techfundingnews.com/era-11m-funding-ai-hardware-intelligence-infrastructure/": {
+    "valid": true,
+    "company": "Era",
+    "amount_str": "$11M",
+    "website": "http://eratheliveexperience.com",
+    "linkedin_url": "https://linkedin.com/company/era-group-global",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/marcuschusg",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ERAmusicoff"
   }
 }
