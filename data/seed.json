@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-04-24T09:27:38.665993Z",
-  "count": 22,
+  "generated_at": "2026-04-24T13:05:55.788974Z",
+  "count": 23,
   "enriched_count": 18,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Swoop, an Eswatini food delivery startup , has raised $7.3 million in seed funding to support ...",
+      "article_url": "https://x.com/TechCabal/status/2047614490238177541",
+      "company": "Swoop",
+      "amount_str": "$7.3 m",
+      "pub_date": "2026-04-24T10:33:42Z",
+      "website": "https://www.agero.com",
+      "linkedin_url": "https://linkedin.com/company/9477",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "tech.eu",
       "title": "EU\u2013Ukraine launches \u20ac160M defence innovation programme to unlock \u20ac400M in financing",
@@ -145,6 +159,20 @@
     },
     {
       "source": "Google Alerts",
+      "title": "Beanly, Innovative Coffee Brand Raises Seed Round from Marquee Investors",
+      "article_url": "https://www.sangritoday.com/spotlight/amp/beanly-innovative-coffee-brand-raises-seed-round-from-marquee-investors",
+      "company": "Beanly, Innovative Coffee Brand",
+      "amount_str": "",
+      "pub_date": "2026-04-24T04:28:03Z",
+      "website": "https://republic-india.com",
+      "linkedin_url": "",
+      "founder_name": "Mohit Bajaj",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
       "title": "US AI agent collaboration startup Band raises $17m seed - Tech in Asia",
       "article_url": "https://www.techinasia.com/news/us-ai-agent-collaboration-startup-band-raises-17m-seed",
       "company": "US AI agent collaboration startup Band",
@@ -166,20 +194,6 @@
       "pub_date": "2026-04-24T00:59:18Z",
       "website": "https://duck.ai",
       "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Humble Robotics raises $24M for cabless hauler - FreightWaves",
-      "article_url": "https://www.freightwaves.com/news/humble-hauler-cabless-autonomous-truck",
-      "company": "Humble Robotics",
-      "amount_str": "$24M",
-      "pub_date": "2026-04-24T00:53:50Z",
-      "website": "https://jobs.lever.co",
-      "linkedin_url": "https://linkedin.com/company/lever-",
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",

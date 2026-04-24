@@ -44588,5 +44588,126 @@
   },
   "https://sprintlaw.co.uk/articles/uk-seed-funding-rounds-what-founders-must-know-before-raising-capital/": {
     "valid": false
+  },
+  "https://venturebeat.com/security/85-of-enterprises-are-running-ai-agents-only-5-trust-them-enough-to-ship": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/generative-ai-leap-insilico-medicine-nominates-first-preclinical-candidate-in-the-uae-302752898.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/intrepid-capital-appoints-nick-elias-as-head-of-investor-relations-to-expand-institutional-growth-opportunities-302752215.html": {
+    "valid": false
+  },
+  "https://techmoonshot.com/2026/04/24/a-19-year-old-thiel-fellow-just-raised-7-3m-to-build-africas-super-app-starting-with-food-delivery-in-yaba/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://t.me/share/url",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/telegram"
+  },
+  "https://www.linkedin.com/posts/y-combinator_mindfort-ai-yc-x25-just-raised-a-3m-seed-activity-7453133133958524928-MlAb": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.sangritoday.com/spotlight/amp/beanly-innovative-coffee-brand-raises-seed-round-from-marquee-investors": {
+    "valid": true,
+    "company": "Beanly, Innovative Coffee Brand",
+    "amount_str": "",
+    "website": "https://republic-india.com",
+    "linkedin_url": "",
+    "founder_name": "Mohit Bajaj",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.sangritoday.com/spotlight/amp/bengaluru-based-startup-flytant-influencer-marketplace-raises-seed-round-from-shuruup": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "the visionary",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://ground.news/article/copperhelm-dives-deep-into-automation-to-build-enterprise-cloud-defenses_b16ddc": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cmp.osano.com/XoUJtYpJS0/ab4432c2-2522-4880-8202-bca40f174684/osano.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://therecursive.com/cee-startup-tech-weekly-polish-and-bulgarian-startups-on-the-move/": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/public/ipo-pipeline-thawing-ai-semiconductors-clean-energy/": {
+    "valid": false
+  },
+  "https://x.com/TechCabal/status/2047614490238177541": {
+    "valid": true,
+    "company": "Swoop",
+    "amount_str": "$7.3 m",
+    "website": "https://www.agero.com",
+    "linkedin_url": "https://linkedin.com/company/9477",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thepharmaletter.com/biotech-news/kurma-closes-215-million-euro-biofund-iv": {
+    "valid": false
+  },
+  "https://www.facebook.com/TechCabal/posts/swoop-an-eswatini-food-delivery-startup-has-raised-73-million-in-seed-funding-to/1617036403764649/": {
+    "valid": true,
+    "company": "Swoop",
+    "amount_str": "$7.3 m",
+    "website": "https://www.agero.com",
+    "linkedin_url": "https://linkedin.com/company/9477",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/qmatter-raises-1-2m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/04/24/paris-based-sillage-raises-e1-7-million-to-help-sales-teams-follow-the-right-signals/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/vrey-raises-e3-3m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/thestorage-raises-e3-6m-in-seed-funding.html": {
+    "valid": true,
+    "company": "TheStorage",
+    "amount_str": "\u20ac3.6M",
+    "website": "https://thestorage.app",
+    "linkedin_url": "https://linkedin.com/company/thestorage",
+    "founder_name": "and led by",
+    "founder_linkedin_url": "",
+    "contact_email": "info@livesoft.hu",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/cognition-ai-25b-valuation-funding-talks-devin-software-engineer/": {
+    "valid": false
+  },
+  "https://msmeafricaonline.com/call-for-applications-oando-foundation-green-youth-upskilling-program-2026-training-funding-opportunities/": {
+    "valid": false
   }
 }
