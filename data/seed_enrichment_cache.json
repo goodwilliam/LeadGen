@@ -44128,5 +44128,187 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/04/23/cognition-creator-ai-software-engineer-devin-talks-raise-hundreds-millions-25b-valuation/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/23/software-artifact-management-startup-cloudsmith-raises-72m/": {
+    "valid": true,
+    "company": "Software artifact management startup Cloudsmith",
+    "amount_str": "$72M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/04/23/liveperson-targets-ai-customer-experience-syntrix-googlecloudnext/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/stla-stockholders-have-rights--if-you-lost-money-investing-in-stellantis-nv-contact-robbins-llp-for-information-about-recovering-your-losses-302752371.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/upst-stockholders-have-rights--if-you-lost-money-investing-in-upstart-holdings-inc-contact-robbins-llp-for-information-about-recovering-your-losses-302752373.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/robbins-llp-encourages-uhg-stockholders-who-lost-money-investing-in-united-homes-group-inc-to-contact-the-firm-for-information-about-leading-the-securities-class-action-302752372.html": {
+    "valid": false
+  },
+  "https://www.mexc.com/news/1049871": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://trochilus-web.gotoda.co/trochilus-web-sdk-integration.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://letsdatascience.com/news/dojo-ai-raises-6m-to-expand-agentic-marketing-platform-85899d48": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/sanfrancisco/news/2026/04/23/stefano-ermon-inception-ai-diffusion.html": {
+    "valid": false
+  },
+  "https://finance.yahoo.com/sectors/technology/articles/bret-taylor-sierra-buys-yc-210000299.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https:&#x2F;&#x2F;www.yahoo.com&#x2F;",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://letsdatascience.com/news/band-launches-interaction-layer-raises-17m-seed-1842660e": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/": {
+    "valid": false
+  },
+  "https://www.cmswire.com/digital-marketing/dojo-ai-raises-6m-seed-round-to-expand-agentic-marketing-platform/": {
+    "valid": true,
+    "company": "DOJO AI",
+    "amount_str": "$6M",
+    "website": "https://www.dojoai.com/blog/dojo-ai-raises-6m-to-build-the-first-intelligent-marketing-system",
+    "linkedin_url": "https://linkedin.com/company/dojo-marketing",
+    "founder_name": "and Nvidia",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://letsdatascience.com/news/cloneable-raises-46m-seed-to-launch-agentic-platform-for-inf-2d69a86b": {
+    "valid": false
+  },
+  "https://vctavern.com/switched-source-raises-2-5-million-seed-round-to-advance-grid-modernization-and-renewable-integration/": {
+    "valid": true,
+    "company": "Switched Source",
+    "amount_str": "$2.5 M",
+    "website": "https://www.switchedsource.com",
+    "linkedin_url": "https://linkedin.com/company/11066596",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/SourceSwitched"
+  },
+  "https://www.wamda.com/en/topic/news?ref=HusseinAttar&page=50": {
+    "valid": true,
+    "company": "UAE-based VentureSouq",
+    "amount_str": "$5 m",
+    "website": "https://waya.media",
+    "linkedin_url": "https://linkedin.com/company/waya-media",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/waya_media"
+  },
+  "https://beinsure.com/news/intuitech-and-uniqa-have-unveiled-niqa-a-next-generation-ai-claims-platform/": {
+    "valid": false
+  },
+  "https://xinix.ai/news.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Jaskaran Sandhu",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/petual-raises-20m-in-funding.html": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/": {
+    "valid": false
+  },
+  "https://www.ynetnews.com/business/article/hyh4fqo6zx": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://t.me/ynetnewslatest",
+    "linkedin_url": "",
+    "founder_name": "by CEO Yossi Reitblat",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.londontechwatch.com/2026/04/the-london-techwatch-startup-daily-funding-report-23-4-2026/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://techwatch.media",
+    "linkedin_url": "",
+    "founder_name": "most active",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://sg.finance.yahoo.com/news/were-former-google-coworkers-raised-091101838.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https:&#x2F;&#x2F;sg.yahoo.com&#x2F;",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startuphub.ai/investment_rounds/almanac-health-seed-2026": {
+    "valid": true,
+    "company": "Almanac Health",
+    "amount_str": "$10 m",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/almanac-health",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://india.entrepreneur.com/business-news/spill-games-deep-algorithm-and-alaya-by-stage3-secure-early-stage-funding": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://players.brightcove.net/videojs-pip/1/videojs-pip.css",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-us/money/other/wsj-philadelphia-startup-raises-30m-towards-mission-to-transform-rail-industry/ar-AA204qVr?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-t": {
+    "valid": true,
+    "company": "Philadelphia startup",
+    "amount_str": "$30M",
+    "website": "https://startupproject.org",
+    "linkedin_url": "https://linkedin.com/company/the-startup-project",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/startupproject"
   }
 }
