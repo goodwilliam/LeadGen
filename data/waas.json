@@ -1,22 +1,7 @@
 {
-  "generated_at": "2026-04-25T07:02:08Z",
+  "generated_at": "2026-04-25T12:39:46Z",
   "count": 26,
   "jobs": [
-    {
-      "id": 80391,
-      "title": "Lead Designer ",
-      "jobType": "Fulltime",
-      "location": "San Francisco, CA, US",
-      "roleType": "UI / UX",
-      "salary": "$160K - $250K",
-      "companyName": "Wefunder",
-      "companySlug": "wefunder",
-      "companyBatch": "W13",
-      "companyOneLiner": "We&#39;re Robinhood for pre-IPO startups. Everyone can invest $100.",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/86fe89dc40132aeb8f280105ad161eb9c7281ebc.png",
-      "companyLastActiveAt": "12 days ago",
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D80391&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=503"
-    },
     {
       "id": 92790,
       "title": "Visual & Micro-Interaction Designer",
@@ -31,6 +16,21 @@
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/86fe89dc40132aeb8f280105ad161eb9c7281ebc.png",
       "companyLastActiveAt": "15 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92790&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=503"
+    },
+    {
+      "id": 80391,
+      "title": "Lead Designer ",
+      "jobType": "Fulltime",
+      "location": "San Francisco, CA, US",
+      "roleType": "UI / UX",
+      "salary": "$160K - $250K",
+      "companyName": "Wefunder",
+      "companySlug": "wefunder",
+      "companyBatch": "W13",
+      "companyOneLiner": "We&#39;re Robinhood for pre-IPO startups. Everyone can invest $100.",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/86fe89dc40132aeb8f280105ad161eb9c7281ebc.png",
+      "companyLastActiveAt": "12 days ago",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D80391&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=503"
     },
     {
       "id": 92948,
@@ -59,7 +59,7 @@
       "companyBatch": "W26",
       "companyOneLiner": "Startup legal work handled by elite lawyers & same-day turnaround",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/f76442626bb5dc33b9b6ae6b9ea6033dff2869f6.png",
-      "companyLastActiveAt": "about 16 hours ago",
+      "companyLastActiveAt": "about 22 hours ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92984&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=31146"
     },
     {
@@ -74,7 +74,7 @@
       "companyBatch": "S25",
       "companyOneLiner": "AI voice for property managers",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/aa83a2cdabf22eb6acd4e5c54d4969ec37a0a549.png",
-      "companyLastActiveAt": "2 days ago",
+      "companyLastActiveAt": "3 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92580&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=30364"
     },
     {
@@ -164,7 +164,7 @@
       "companyBatch": "S24",
       "companyOneLiner": "AI agents you can rely on",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/ff410def03c8c58c3adc7db9615becc8164804e3.png",
-      "companyLastActiveAt": "22 days ago",
+      "companyLastActiveAt": "23 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D78058&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29649"
     },
     {
@@ -303,19 +303,19 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D93131&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29180"
     },
     {
-      "id": 83825,
-      "title": "Founding Product Designer ",
-      "jobType": "Fulltime",
+      "id": 89404,
+      "title": "Design Engineering Intern",
+      "jobType": "Intern",
       "location": "Main Office - Toronto",
       "roleType": "Web design",
-      "salary": "$125K - $200K CAD",
+      "salary": "$35 - $50 CAD / hourly",
       "companyName": "Tempo",
       "companySlug": "tempo-2",
       "companyBatch": "S23",
       "companyOneLiner": "Visual Editor for React, powered by AI",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/860f478b7cd2ea33eefb86e90c9c693abef2997f.png",
-      "companyLastActiveAt": null,
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D83825&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29150"
+      "companyLastActiveAt": "about 1 month ago",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89404&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29150"
     },
     {
       "id": 75335,
