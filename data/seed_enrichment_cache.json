@@ -45442,5 +45442,62 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-adma-biologics-inc-investors-to-inquire-about-securities-class-action-investigation--adma-302753271.html": {
+    "valid": false
+  },
+  "https://innovation-village.com/from-berkeley-dropout-to-lagos-founder-how-aubrey-niederhoffer-is-building-swoop-africas-next-super-app/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupfortune.com/a-printable-bitcoin-certificate-for-your-mom-is-going-viral-and-it-reveals-cryptos-real-onboarding-problem/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.panewslab.com/en/articles/019dc24e-4c79-74c3-95d1-63109022de4c": {
+    "valid": false
+  },
+  "https://pulse.d2cinsider.com/fifth-sense-raises-%E2%82%B96-3-cr-to-build-premium-d2c-fragrance-brand-for-indias-evolving-perfume-market/": {
+    "valid": false
+  },
+  "https://vator.tv/covera-health-merges-with-medmo-steak-n-shake-hires-maha-officer-ai-health-fund-launches-treehub/": {
+    "valid": false
+  },
+  "https://www.businessreviewmea.com/category/funding/": {
+    "valid": true,
+    "company": "Zurich-based edtech startup Sparkli",
+    "amount_str": "$5 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://pulse2.com/calibre-3-3-million-raised-to-launch-proactive-health-intelligence-platform/": {
+    "valid": false
+  },
+  "https://www.startupticker.ch/en/newsletter-archive/how-to-leverage-megatrends": {
+    "valid": false
+  },
+  "https://www.insidermedia.com/news/scotland/star-refrigerations-dave-pearson-on-the-firms-constant-drive-for-reninvention": {
+    "valid": false
+  },
+  "https://pulse2.com/proteins-1-finnish-deep-tech-startup-launches-with-e4-7-million-to-bring-pcr-like-amplification-to-protein-diagnostics/amp/": {
+    "valid": false
   }
 }
