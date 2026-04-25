@@ -1,20 +1,34 @@
 {
-  "generated_at": "2026-04-25T01:48:25.444602Z",
+  "generated_at": "2026-04-25T05:45:17.309290Z",
   "count": 23,
   "enriched_count": 20,
   "articles": [
     {
-      "source": "PR Newswire",
-      "title": "Related Digital Announces Financing for $16 Billion Oracle Data Center Project in Saline Township, Michigan",
-      "article_url": "https://www.prnewswire.com/news-releases/related-digital-announces-financing-for-16-billion-oracle-data-center-project-in-saline-township-michigan-302753421.html",
-      "company": "Related Digital",
-      "amount_str": "$16 B",
-      "pub_date": "2026-04-24T23:17:00Z",
-      "website": "https://www.related-digital.com",
-      "linkedin_url": "https://linkedin.com/company/relateddigital",
+      "source": "Google Alerts",
+      "title": "Era raises $11M from Abstract Ventures and BoxGroup to bring AI to smart gadgets",
+      "article_url": "https://techfundingnews.com/era-11m-funding-ai-hardware-intelligence-infrastructure/",
+      "company": "Era",
+      "amount_str": "$11M",
+      "pub_date": "2026-04-25T01:41:13Z",
+      "website": "http://eratheliveexperience.com",
+      "linkedin_url": "https://linkedin.com/company/era-group-global",
+      "founder_name": "",
+      "founder_linkedin_url": "https://linkedin.com/in/marcuschusg",
+      "contact_email": "",
+      "twitter_url": "https://x.com/ERAmusicoff"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Brev Raises $3.3M Pre-Seed Round - VC News Daily",
+      "article_url": "https://vcnewsdaily.com/brev/venture-capital-funding/pkmqdrgtzg",
+      "company": "Brev",
+      "amount_str": "$3.3M",
+      "pub_date": "2026-04-25T01:12:30Z",
+      "website": "https://www.brev.com",
+      "linkedin_url": "https://linkedin.com/company/brevdev",
       "founder_name": "",
       "founder_linkedin_url": "",
-      "contact_email": "user@domain.com",
+      "contact_email": "hello@email.com",
       "twitter_url": ""
     },
     {
@@ -75,6 +89,20 @@
     },
     {
       "source": "Google Alerts",
+      "title": "Iridius Raises $8.6M Seed Round to Build Compliance-by-Design AI Platform for Regulated ...",
+      "article_url": "https://www.businesswire.com/news/home/20260424303852/en/Iridius-Raises-%248.6M-Seed-Round-to-Build-Compliance-by-Design-AI-Platform-for-Regulated-Enterprise-Workflows",
+      "company": "Iridius",
+      "amount_str": "$8.6M",
+      "pub_date": "2026-04-24T19:00:53Z",
+      "website": "https://iridius.ai",
+      "linkedin_url": "https://linkedin.com/company/iridius",
+      "founder_name": "said Mike Chalfen",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
       "title": "Betterness Closes $2.5m Seed Round and Launches Bett-i, the First Fully Autonomous ...",
       "article_url": "https://www.morningstar.com/news/pr-newswire/20260424ny42025/betterness-closes-25m-seed-round-and-launches-bett-i-the-first-fully-autonomous-voice-first-life-coaching-system-for-health-and-performance",
       "company": "Betterness",
@@ -117,20 +145,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Brev Raises $3.3M to Build AI Layer Linking Business Goals and Execution | citybiz",
-      "article_url": "https://www.citybiz.co/article/836750/brev-raises-3-3m-to-build-ai-layer-linking-business-goals-and-execution/",
-      "company": "Brev",
-      "amount_str": "$3.3M",
-      "pub_date": "2026-04-24T16:24:43Z",
-      "website": "https://brev.io",
-      "linkedin_url": "https://linkedin.com/company/brev-io",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "Rilian secures $17.5 million seed funding for AI security integration in defense sector | brief",
       "article_url": "https://www.scworld.com/brief/rilian-secures-17-5-million-seed-funding-for-ai-security-integration-in-defense",
       "company": "Rilian",
@@ -142,20 +156,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": "https://x.com/RilianTech"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Iridius: $8.6 Million Seed Funding Raised To Build Compliance-By-Design AI Platform For ...",
-      "article_url": "https://pulse2.com/iridius-8-6-million-seed-funding-raised-to-build-compliance-by-design-ai-platform-for-regulated-industries/",
-      "company": "Iridius",
-      "amount_str": "$8.6 m",
-      "pub_date": "2026-04-24T15:01:18Z",
-      "website": "https://iridius.ai",
-      "linkedin_url": "https://linkedin.com/company/iridius",
-      "founder_name": "Mike Kropp",
-      "founder_linkedin_url": "https://linkedin.com/in/michael-k-kropp",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "tech.eu",

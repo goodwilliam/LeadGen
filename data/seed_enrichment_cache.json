@@ -45294,5 +45294,69 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/humacyte-investigation-initiated-kahn-swick--foti-llc-investigates-the-officers-and-directors-of-humacyte-inc---huma-302753404.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/apollo-global-management-inc-securities-fraud-class-action-result-of-undisclosed-relationship-with-jeffrey-epstein-and-16-stock-decline---investors-may-contact-lewis-kahn-esq-at-kahn-swick--foti-llc-302753331.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/driven-brands-holdings-inc-securities-fraud-class-action-result-of-erroneous-financial-statements-and-39-stock-decline---investors-may-contact-lewis-kahn-esq-at-kahn-swick--foti-llc-302753344.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/super-micro-computer-inc-notice-of-may-26-2026-application-deadline-for-class-action-lawsuits---contact-lewis-kahn-esq-at-kahn-swick--foti-llc-before-application-deadline-302753392.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/immunitybio-inc-securities-fraud-class-action-result-of-fda-warning-and-21-stock-decline---investors-may-contact-lewis-kahn-esq-at-kahn-swick--foti-llc-302753359.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/gemini-space-station-inc-notice-of-may-18-2026-application-deadline-for-class-action-lawsuit---contact-lewis-kahn-esq-at-kahn-swick--foti-llc-before-application-deadline-302753355.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/tripcom-group-limited-securities-fraud-class-action-result-of-antitrust-probe-and-19-stock-decline---investors-may-contact-lewis-kahn-esq-at-kahn-swick--foti-llc-302753397.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/soleno-therapeutics-inc-notice-of-may-5-2026-application-deadline-for-class-action-lawsuit---contact-lewis-kahn-esq-at-kahn-swick--foti-llc-before-application-deadline-302753364.html": {
+    "valid": false
+  },
+  "https://www.digitimes.com/news/a20260424VL211/pepper-hardware-staff-taiwan.html": {
+    "valid": false
+  },
+  "https://eu.36kr.com/en/p/3781532841581576": {
+    "valid": false
+  },
+  "https://www.techinasia.com/spot-similarities-startup-edition": {
+    "valid": false
+  },
+  "https://launchbaseafrica.com/2026/04/24/78-below-cost-the-unforgiving-math-behind-digital-health-startup-vezeetas-pivot-to-bricks-and-mortar/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://launchbaseafrica.gumroad.com",
+    "linkedin_url": "",
+    "founder_name": "Former Molten Ventures",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://vcnewsdaily.com/brev/venture-capital-funding/pkmqdrgtzg": {
+    "valid": true,
+    "company": "Brev",
+    "amount_str": "$3.3M",
+    "website": "https://www.brev.com",
+    "linkedin_url": "https://linkedin.com/company/brevdev",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@email.com",
+    "twitter_url": ""
+  },
+  "https://x.com/IdeaFireConsult/status/2047843684243448034": {
+    "valid": false
+  },
+  "https://www.facebook.com/thefinancialexpress/posts/the-firm-which-invests-from-seed-to-series-a-deployed-about-rs-250-crore-last-ye/1411974180958170/": {
+    "valid": false
+  },
+  "https://inforcapital.com/news/band-exits-stealth-with-17m/": {
+    "valid": false
   }
 }
