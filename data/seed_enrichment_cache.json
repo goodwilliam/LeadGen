@@ -45134,5 +45134,165 @@
     "founder_linkedin_url": "https://linkedin.com/in/marcuschusg",
     "contact_email": "",
     "twitter_url": "https://x.com/ERAmusicoff"
+  },
+  "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/04/24/two-college-kids-raise-a-5-1-million-pre-seed-to-build-an-ai-social-network-in-imessage/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/24/ai-startups-cohere-aleph-alpha-merge-600m-new-funding/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/statement-from-robin-hood-302753441.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/related-digital-announces-financing-for-16-billion-oracle-data-center-project-in-saline-township-michigan-302753421.html": {
+    "valid": true,
+    "company": "Related Digital",
+    "amount_str": "$16 B",
+    "website": "https://www.related-digital.com",
+    "linkedin_url": "https://linkedin.com/company/relateddigital",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "user@domain.com",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/restaurant-management-company-of-wichita-data-breach-alert-issued-by-wolf-haldenstein-302753339.html": {
+    "valid": false
+  },
+  "https://www.inkl.com/news/how-chapin-newhard-is-bringing-a-founder-first-lens-to-middle-market-m-a-advisory": {
+    "valid": false
+  },
+  "https://dot.la/netflix-doubles-down-los-angeles-2676808281.html": {
+    "valid": false
+  },
+  "https://www.aol.com/finance/19-old-thiel-fellow-just-140000331.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://s.yimg.com/oa/consent.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/grishinrobotics_ultralight-just-raised-93-million-in-seed-activity-7453397024995106816-YOWl": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/grishinrobotics_octen-ai-just-raised-10-million-in-seed-activity-7453358181470072832-RrTG": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://mezha.net/eng/bukvy/680d9272_series_raises_-5-1m/": {
+    "valid": true,
+    "company": "Series",
+    "amount_str": "$5.1M",
+    "website": "https://www.hbo.com",
+    "linkedin_url": "https://linkedin.com/company/joinseries",
+    "founder_name": "UN General Assembly",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/collections"
+  },
+  "https://letsdatascience.com/news/neocognition-raises-40m-seed-to-build-self-learning-agents-252ec767": {
+    "valid": false
+  },
+  "https://m.dailyhunt.in/news/india/english/entrackr+english-epaper-entrackr/exclusive+oolka+raises+rs+130+cr+in+series+a+led+by+accel+at+rs+730+cr+valuation-newsid-n709757374": {
+    "valid": true,
+    "company": "Oolka",
+    "amount_str": "",
+    "website": "https://oolka.in",
+    "linkedin_url": "https://linkedin.com/company/oolka",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.spokesman.com/stories/2026/apr/24/the-hottest-phone-for-kids-right-now-is-a-100-land/": {
+    "valid": false
+  },
+  "https://www.youtube.com/watch?v=ziO1CKbOKW4": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://i.ytimg.com/generate_204",
+    "linkedin_url": "",
+    "founder_name": "The Greatest",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-us/money/companies/bret-taylor-s-sierra-buys-yc-backed-ai-startup-fragment/ar-AA21AldL": {
+    "valid": false
+  },
+  "https://techfundingnews.com/x-energy-1b-nasdaq-ipo-advanced-nuclear-reactors/": {
+    "valid": true,
+    "company": "X-energy",
+    "amount_str": "$1B",
+    "website": "https://x-energy.com",
+    "linkedin_url": "https://linkedin.com/company/x-energy",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://firstwordhealthtech.com/story/7206655": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://api.firstwordpharma.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://nordic9.com/news/modernpath-raised-pre-seed-from-gorilla-capital-fund/": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/money/companies/former-meta-ai-pioneer-yann-lecun-raises-over-1-billion-for-new-startup/ar-AA1XTGZC?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-t": {
+    "valid": true,
+    "company": "Meta AI pioneer Yann LeCun",
+    "amount_str": "$1 b",
+    "website": "https://www.wsj.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/deepseek-v4-model-huawei-chips-20b-valuation-china-ai/": {
+    "valid": false
+  },
+  "https://www.mexc.com/news/1051552": {
+    "valid": true,
+    "company": "Nairobi-based startup",
+    "amount_str": "$5.8 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }

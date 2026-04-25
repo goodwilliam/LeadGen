@@ -1,8 +1,78 @@
 {
-  "generated_at": "2026-04-24T20:42:17.306797Z",
-  "count": 22,
+  "generated_at": "2026-04-25T01:48:25.444602Z",
+  "count": 23,
   "enriched_count": 20,
   "articles": [
+    {
+      "source": "PR Newswire",
+      "title": "Related Digital Announces Financing for $16 Billion Oracle Data Center Project in Saline Township, Michigan",
+      "article_url": "https://www.prnewswire.com/news-releases/related-digital-announces-financing-for-16-billion-oracle-data-center-project-in-saline-township-michigan-302753421.html",
+      "company": "Related Digital",
+      "amount_str": "$16 B",
+      "pub_date": "2026-04-24T23:17:00Z",
+      "website": "https://www.related-digital.com",
+      "linkedin_url": "https://linkedin.com/company/relateddigital",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "user@domain.com",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "X-energy raises $1B in the largest nuclear public equity offering of all time",
+      "article_url": "https://techfundingnews.com/x-energy-1b-nasdaq-ipo-advanced-nuclear-reactors/",
+      "company": "X-energy",
+      "amount_str": "$1B",
+      "pub_date": "2026-04-24T22:27:09Z",
+      "website": "https://x-energy.com",
+      "linkedin_url": "https://linkedin.com/company/x-energy",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Series raises $5.1M to scale iMessage social network | Ukraine news - #Mezha",
+      "article_url": "https://mezha.net/eng/bukvy/680d9272_series_raises_-5-1m/",
+      "company": "Series",
+      "amount_str": "$5.1M",
+      "pub_date": "2026-04-24T21:30:14Z",
+      "website": "https://www.hbo.com",
+      "linkedin_url": "https://linkedin.com/company/joinseries",
+      "founder_name": "UN General Assembly",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/collections"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Exclusive: Oolka raises Rs 130 Cr in Series A led by Accel at Rs 730 Cr valuation | Dailyhunt",
+      "article_url": "https://m.dailyhunt.in/news/india/english/entrackr+english-epaper-entrackr/exclusive+oolka+raises+rs+130+cr+in+series+a+led+by+accel+at+rs+730+cr+valuation-newsid-n709757374",
+      "company": "Oolka",
+      "amount_str": "",
+      "pub_date": "2026-04-24T20:32:55Z",
+      "website": "https://oolka.in",
+      "linkedin_url": "https://linkedin.com/company/oolka",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "This Kenyan startup wants to rebuild enterprise software around AI agents | MEXC News",
+      "article_url": "https://www.mexc.com/news/1051552",
+      "company": "Nairobi-based startup",
+      "amount_str": "$5.8 m",
+      "pub_date": "2026-04-24T19:27:20Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Betterness Closes $2.5m Seed Round and Launches Bett-i, the First Fully Autonomous ...",
@@ -102,20 +172,6 @@
       "twitter_url": ""
     },
     {
-      "source": "Google Alerts",
-      "title": "Era raises $11M from Abstract Ventures and BoxGroup to bring AI to smart gadgets",
-      "article_url": "https://techfundingnews.com/era-11m-funding-ai-hardware-intelligence-infrastructure/",
-      "company": "Era",
-      "amount_str": "$11M",
-      "pub_date": "2026-04-24T13:51:40Z",
-      "website": "http://eratheliveexperience.com",
-      "linkedin_url": "https://linkedin.com/company/era-group-global",
-      "founder_name": "",
-      "founder_linkedin_url": "https://linkedin.com/in/marcuschusg",
-      "contact_email": "",
-      "twitter_url": "https://x.com/ERAmusicoff"
-    },
-    {
       "source": "SiliconAngle",
       "title": "Pudu Robotics raises nearly $150M at $1.5B valuation to deploy embodied AI technology",
       "article_url": "https://siliconangle.com/2026/04/24/pudu-robotics-raises-nearly-150m-1-5b-valuation-deploy-embodied-ai-technology/",
@@ -141,34 +197,6 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Spill Games raises $3.1M seed round to scale casual portfolio - Mobidictum",
-      "article_url": "https://mobidictum.com/spill-games-raises-3-1m-seed-round/",
-      "company": "Spill Games",
-      "amount_str": "$3.1M",
-      "pub_date": "2026-04-24T08:37:28Z",
-      "website": "https://spill.games",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "contact@spill.games",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Signit Closes $15M Funding Round to Expand AI-Powered Contract Management Across ...",
-      "article_url": "https://theaiinsider.tech/2026/04/24/signit-closes-15m-funding-round-to-expand-ai-powered-contract-management-across-saudi-arabia/",
-      "company": "Signit",
-      "amount_str": "$15M",
-      "pub_date": "2026-04-24T08:10:45Z",
-      "website": "https://www.trysignit.com",
-      "linkedin_url": "https://linkedin.com/company/signit-app",
-      "founder_name": "Mohamed El Abbouri",
-      "founder_linkedin_url": "https://linkedin.com/in/mohamed-el-abbouri",
-      "contact_email": "support@trysignit.com",
       "twitter_url": ""
     },
     {
@@ -215,7 +243,7 @@
     },
     {
       "source": "SiliconAngle",
-      "title": "Omni raises $120M round backed by GV for its AI analytics platform",
+      "title": "Omni raises $120M round for its AI analytics platform",
       "article_url": "https://siliconangle.com/2026/04/23/omni-raises-120m-round-backed-gv-ai-analytics-platform/",
       "company": "Omni",
       "amount_str": "$120M",
@@ -268,20 +296,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Thought Leadership - Wamda",
-      "article_url": "https://www.wamda.com/en/topic/news?ref=HusseinAttar&page=50",
-      "company": "UAE-based VentureSouq",
-      "amount_str": "$5 m",
-      "pub_date": "2026-04-23T07:05:57Z",
-      "website": "https://waya.media",
-      "linkedin_url": "https://linkedin.com/company/waya-media",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/waya_media"
     },
     {
       "source": "tech.eu",
