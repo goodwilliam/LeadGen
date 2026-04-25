@@ -45358,5 +45358,89 @@
   },
   "https://inforcapital.com/news/band-exits-stealth-with-17m/": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-disc-medicine-inc-investors-to-inquire-about-securities-class-action-investigation--iron-302753471.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/upst-investors-have-opportunity-to-lead-upstart-holdings-inc-securities-fraud-lawsuit-302753470.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-elauwit-connection-inc-investors-to-inquire-about-securities-class-action-investigation--elwt-302753474.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-immutep-ltd-investors-to-inquire-about-securities-class-action-investigation--immp-302753472.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/stla-investors-have-opportunity-to-lead-stellantis-nv-securities-fraud-lawsuit-302753467.html": {
+    "valid": false
+  },
+  "https://www.morningbrew.com/stories/tin-can-bringing-back-landlines-beat-screen-time": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.mbdailyshow.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/mbdailyshow"
+  },
+  "https://www.arabnews.com/node/2641205/business-economy": {
+    "valid": true,
+    "company": "Saudi Arabia-based Signit",
+    "amount_str": "$15 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.dlnews.com/articles/deals/ai-boom-leaves-crypto-vc-fundraising-in-the-dust-founders-warn/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://t.me/dlnewsinfo",
+    "linkedin_url": "",
+    "founder_name": "of Nightfall Networks",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://m.dailyhunt.in/news/india/english/entrackr+english-epaper-entrackr/gobblecubes+cofounders+dilutes+over+70+stake+post+series+a-newsid-n709794288": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wa.me",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://scalingeurope.substack.com/p/scaling-europe-daily-254": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "featured Ahti Heinla",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/TFNBreakingNews/status/2047703108911022514": {
+    "valid": false
+  },
+  "https://x.com/audiumcp/status/2047632261269348422": {
+    "valid": true,
+    "company": "QMatter",
+    "amount_str": "$1.2M",
+    "website": "https://qmatter.xyz",
+    "linkedin_url": "https://linkedin.com/company/qmatter",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
