@@ -45701,5 +45701,178 @@
   },
   "https://iss.dashboard.health.gov.mw/hplugw/esigns/9A8832F/201359240426/funded-the-entrepreneurs-guide_to__raising__your-first_round.pdf": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/04/25/the-climate-tech-ipo-window-could-finally-be-cracking-open/": {
+    "valid": false
+  },
+  "https://venturebeat.com/infrastructure/monitoring-llm-behavior-drift-retries-and-refusal-patterns": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/lu-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-lufax-holding-ltd-securities-fraud-lawsuit-first-filed-by-the-firm-302753214.html": {
+    "valid": false
+  },
+  "https://www.blackenterprise.com/black-yale-students-raise-5m-pre-seed-ai-networking-platform/": {
+    "valid": true,
+    "company": "Two Black Yale Students",
+    "amount_str": "$5.1M",
+    "website": "https://www.lipstickalley.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.businesstimes.com.sg/lifestyle/hottest-phone-kids-right-now-us100-landline": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://m.dailyhunt.in/news/india/english/entrackr+english-epaper-entrackr/funding+and+acquisitions+in+indian+startup+this+week+apr+20+apr+25-newsid-n709883479": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wa.me",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://letsdatascience.com/news/balerion-ai-raises-6m-to-speed-mortgage-origination-eb7ebe7a": {
+    "valid": false
+  },
+  "https://resiliencemedia.co/weekly-digest-the-mystery-of-the-british-unicorn-the-story-of-our-dealings-with-roark-aerospace/": {
+    "valid": false
+  },
+  "https://www.morningbrew.com/issues/it-s-musk-v-altman-time": {
+    "valid": false
+  },
+  "https://x.com/search?lang=zh-Hant&src=video&q==Advanced%20market%20klydexglobal%20exchange%20drives%20innovation%20across%20platforms.xnp": {
+    "valid": false
+  },
+  "https://www.msn.com/en-za/news/other/kenyan-startup-raises-25-million-to-meet-high-demand-for-affordable-electric-motorcycles/ar-AA1YIwSc?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-t": {
+    "valid": true,
+    "company": "Kenyan startup",
+    "amount_str": "$25 m",
+    "website": "https://kenya.dealroom.co",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://mlq.ai/news/cyera-acquires-ryft-to-strengthen-secure-data-access-for-ai-agents/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.cloudflare.com/5xx-error-landing",
+    "linkedin_url": "https://linkedin.com/company/cloudflare",
+    "founder_name": "Yossi Reitblat",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/cloudflare"
+  },
+  "https://world.infonasional.com/schools-adopt-landline-screen-time": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupfortune.com/polymarkets-vp-just-confirmed-the-platform-is-rebuilding-everything-at-once-to-handle-20-billion-monthly-markets/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://m.economictimes.com/industry/cons-products/electronics/one-in-four-smartphones-made-in-india-comes-from-homegrown-manufacturers-as-exports-power-growth/articleshow/130507948.cms": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://connect.facebook.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://msmeafricaonline.com/call-for-applications-auda-nepad-accelerator-2026-opens-for-african-startups-ready-to-scale-in-health-climate/": {
+    "valid": false
+  },
+  "https://startupfortune.com/some-crypto-chains-raised-613-million-and-made-1568-in-a-day-that-gap-tells-you-everything/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupfortune.com/chinese-ai-tech-turned-americas-best-ai-against-itself-and-the-results-are-unsettling/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://m.dailyhunt.in/news/india/english/5+dariya+news+english-epaper-dariyaen/district+administration+felicitates+young+entrepreneurs+at+future+tycoons+award+ceremony-newsid-n709880735": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wa.me",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.convergence-now.com/explainers/delhi-semiconductor-policy-design-strategy-india/": {
+    "valid": false
+  },
+  "https://msmeafricaonline.com/call-for-applications-code-for-africa-ai-for-good-fellowship-2026-500-month-stipend-mentorship/": {
+    "valid": false
+  },
+  "https://startupfortune.com/luckio-bet-500000-a-month-on-influencer-marketing-processed-12-billion-in-wagers-and-shut-down-in-eleven-months/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techinafrica.com/payment-platform-njiapay-raises-2-1-million-seed-funding/6941536c26c33dece35c72d5_jono/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://whatsapp.com/channel/0029Vb3xgMr42DcfICgi7T1N",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/whatsapp"
   }
 }

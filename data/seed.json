@@ -1,22 +1,8 @@
 {
-  "generated_at": "2026-04-25T16:36:52.986760Z",
+  "generated_at": "2026-04-25T20:33:06.809467Z",
   "count": 20,
-  "enriched_count": 17,
+  "enriched_count": 16,
   "articles": [
-    {
-      "source": "Google Alerts",
-      "title": "Pine Labs Buys 100% of Shopflo for \u20b988 Crore to Strengthen Online Checkout - Nifty Trader",
-      "article_url": "https://www.niftytrader.in/markets/pine-labs-buys-shopflo-88cr-checkout-deal/",
-      "company": "Shopflo had",
-      "amount_str": "$2.6 m",
-      "pub_date": "2026-04-25T10:48:23Z",
-      "website": "https://www.shopflo.com",
-      "linkedin_url": "https://linkedin.com/company/shopflo",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "contact@shopflo.com",
-      "twitter_url": "https://x.com/shopflo_"
-    },
     {
       "source": "Google Alerts",
       "title": "Eswatini-Born Swoop Raises $7.3 Million Seed Round to Launch Food Delivery Expansion ...",
@@ -30,6 +16,20 @@
       "founder_linkedin_url": "https://linkedin.com/in/adaora-oramah",
       "contact_email": "",
       "twitter_url": "https://x.com/amakastudio"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Kenyan startup raises $25 million to meet high demand for affordable electric motorcycles",
+      "article_url": "https://www.msn.com/en-za/news/other/kenyan-startup-raises-25-million-to-meet-high-demand-for-affordable-electric-motorcycles/ar-AA1YIwSc?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-t",
+      "company": "Kenyan startup",
+      "amount_str": "$25 m",
+      "pub_date": "2026-04-25T04:24:51Z",
+      "website": "https://kenya.dealroom.co",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
     },
     {
       "source": "Google Alerts",
