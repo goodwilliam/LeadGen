@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-04-26T12:46:33.577716Z",
+  "generated_at": "2026-04-26T16:35:51.604133Z",
   "count": 17,
   "enriched_count": 14,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Bubble Robotics: $5 Million Pre-Seed Round Raised To Build Autonomous Underwater ... - Pulse 2.0",
+      "article_url": "https://pulse2.com/bubble-robotics-5-million-pre-seed-round-raised-to-build-autonomous-underwater-robotics-infrastructure/",
+      "company": "Bubble Robotics",
+      "amount_str": "$5 m",
+      "pub_date": "2026-04-26T15:01:04Z",
+      "website": "https://www.bubble-robotics.com",
+      "linkedin_url": "https://linkedin.com/company/bubble-robotics",
+      "founder_name": "Jean Crosetti",
+      "founder_linkedin_url": "https://linkedin.com/in/jean-crosetti",
+      "contact_email": "",
+      "twitter_url": "https://x.com/BubbleRobotics"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "A startup with a bankrupt fintech CEO and a president's son wants to build America's robot army",
+      "article_url": "https://thenextweb.com/news/foundation-humanoid-robot-soldiers-pentagon",
+      "company": "Foundation Future Industries",
+      "amount_str": "$24 m",
+      "pub_date": "2026-04-26T12:51:02Z",
+      "website": "https://techbullion.com",
+      "linkedin_url": "",
+      "founder_name": "bankrupt fintech",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Sillage Launches with \u20ac1.7M Pre-Seed for GTM AI Platform - Techno Trenz",
@@ -55,34 +83,6 @@
       "website": "https://www.lipstickalley.com",
       "linkedin_url": "",
       "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Eswatini-Born Swoop Raises $7.3 Million Seed Round to Launch Food Delivery Expansion ...",
-      "article_url": "https://empowerafrica.com/eswatini-born-swoop-raises-7-3-million-seed-round-to-launch-food-delivery-expansion-in-nigeria/",
-      "company": "AMAKA Studio",
-      "amount_str": "$2 m",
-      "pub_date": "2026-04-25T10:22:32Z",
-      "website": "https://more.amaka.studio",
-      "linkedin_url": "https://linkedin.com/company/amaka-studio",
-      "founder_name": "",
-      "founder_linkedin_url": "https://linkedin.com/in/adaora-oramah",
-      "contact_email": "",
-      "twitter_url": "https://x.com/amakastudio"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "AI boom leaves crypto VC fundraising in the dust, founders warn | MEXC News",
-      "article_url": "https://www.mexc.com/news/1052639",
-      "company": "Edinburgh-based crypto casino BetHog",
-      "amount_str": "$10 m",
-      "pub_date": "2026-04-25T05:45:25Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "of Nightfall Networks",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""

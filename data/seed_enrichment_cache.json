@@ -46117,5 +46117,101 @@
   },
   "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/agentcraft-gaming-the-ai-agent-workflow": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/nasdaq-srad-investigation-alert-kessler-topaz-meltzer--check-llp-encourages-sportradar-group-ag-nasdaq-srad-investors-to-contact-the-firm-302753403.html": {
+    "valid": false
+  },
+  "https://x.com/search?src=video&q=Advanced+market+klydexglobal+exchange+drives+innovation+across+platforms.bgx&lang=ar": {
+    "valid": false
+  },
+  "https://www.varindia.com/news/pine-labs-acquires-shopflo-to-power-d2c-growth": {
+    "valid": false
+  },
+  "https://www.varindia.com/news/sonata-software-appoints-rajsekhar-datta-roy-as-new-ceo": {
+    "valid": false
+  },
+  "https://timesofindia.indiatimes.com/business/international-business/dialling-back-time-why-us-kids-are-ditching-smartphones-for-a-100-landline/articleshow/130533974.cms": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://static.toiimg.com/thumb/msid-130534450,imgsize-1102318,width-400,height-225,resizemode-4/image-credit-tincankids-instagram.jpg",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://aijourn.com/meta-experiments-with-ai-internally-musk-and-altman-head-to-court-and-startups-continue-to-innovate-in-april/": {
+    "valid": false
+  },
+  "https://pulse2.com/seapoint-e7-5-million-seed-round-raised-to-give-startup-founders-financial-clarity-from-day-one/": {
+    "valid": false
+  },
+  "https://thenextweb.com/news/foundation-humanoid-robot-soldiers-pentagon": {
+    "valid": true,
+    "company": "Foundation Future Industries",
+    "amount_str": "$24 m",
+    "website": "https://techbullion.com",
+    "linkedin_url": "",
+    "founder_name": "bankrupt fintech",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.pressreader.com/eswatini/sunday-observer-eswatini-9zb5/20260426/283523687443446": {
+    "valid": false
+  },
+  "https://www.businesspost.ie/uncategorized/done-deals-the-big-tech-raises-this-month/": {
+    "valid": false
+  },
+  "https://pulse2.com/bubble-robotics-5-million-pre-seed-round-raised-to-build-autonomous-underwater-robotics-infrastructure/": {
+    "valid": true,
+    "company": "Bubble Robotics",
+    "amount_str": "$5 m",
+    "website": "https://www.bubble-robotics.com",
+    "linkedin_url": "https://linkedin.com/company/bubble-robotics",
+    "founder_name": "Jean Crosetti",
+    "founder_linkedin_url": "https://linkedin.com/in/jean-crosetti",
+    "contact_email": "",
+    "twitter_url": "https://x.com/BubbleRobotics"
+  },
+  "https://pulse2.com/quillon-1-5-million-raised-for-audit-ready-ai-in-technical-accounting/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wp.me/pp5wj-1BiC",
+    "linkedin_url": "https://linkedin.com/company/pulse2news",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/pulse2news"
+  },
+  "https://jkmonitor.org/index.php/jammu-kashmir-entrepreneurship-development-institute-to-host-district-level-startup-facilitation-meetings-under-d-brap": {
+    "valid": false
+  },
+  "https://thecondia.com/swoop-rider-lagos-food-delivery/": {
+    "valid": false
+  },
+  "https://startupfortune.com/your-employer-may-own-the-startup-you-built-on-your-own-time/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://pulse2.com/crewline-ai-7-1-million-raised-to-automate-construction-equipment-starting-with-autonomous-rollers/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wp.me/pp5wj-1BjV",
+    "linkedin_url": "https://linkedin.com/company/pulse2news",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/pulse2news"
   }
 }
