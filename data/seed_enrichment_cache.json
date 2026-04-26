@@ -46213,5 +46213,131 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": "https://x.com/pulse2news"
+  },
+  "https://www.prnewswire.com/news-releases/power-solutions-international-inc-investors-have-opportunity-to-lead-power-solutions-international-inc-securities-fraud-lawsuit-302753408.html": {
+    "valid": false
+  },
+  "https://x.com/ZeroWorkEthic/status/2048310213305065749": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/Chirp-Regular.80fda27a.woff2",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.reuters.com/article/business/break-out-the-cachaa-brazils-largest-early-stage-investment-fund-opens-idUS3634795515/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.entrepreneur.com/starting-a-business/i-learned-5-things-after-facing-over-100-investor-rejections/503595": {
+    "valid": false
+  },
+  "https://mezha.net/eng/bukvy/0bf110f4_zelensky_urges_sanctions/": {
+    "valid": false
+  },
+  "https://mezha.net/eng/bukvy/685c2e0e_elon_musk_warns/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/04/26/techcrunch-mobility-elons-admission/": {
+    "valid": false
+  },
+  "https://pulse2.com/seapoint-e7-5-million-seed-round-raised-to-give-startup-founders-financial-clarity-from-day-one/amp/": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/money/other/two-black-yale-students-raise-5-1m-to-build-ai-networking-platform-series/ar-AA21IipH": {
+    "valid": true,
+    "company": "Two Black Yale Students",
+    "amount_str": "$5.1M",
+    "website": "https://www.wshu.org",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/wshupublicradio"
+  },
+  "https://www.thevectorscale.com/blog": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://pulse2.com/bubble-robotics-5-million-pre-seed-round-raised-to-build-autonomous-underwater-robotics-infrastructure/amp/": {
+    "valid": true,
+    "company": "Bubble Robotics",
+    "amount_str": "$5 m",
+    "website": "https://www.bubble-robotics.com",
+    "linkedin_url": "https://linkedin.com/company/bubble-robotics",
+    "founder_name": "Jean Crosetti",
+    "founder_linkedin_url": "https://linkedin.com/in/jean-crosetti",
+    "contact_email": "",
+    "twitter_url": "https://x.com/BubbleRobotics"
+  },
+  "https://www.startuplist.africa/startups/clafiya/news-activities": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "MEMBERS\n\nJE\n\nJennie Nwokoye",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://pulse2.com/crewline-ai-7-1-million-raised-to-automate-construction-equipment-starting-with-autonomous-rollers/amp/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.ampproject.org",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/MarketingMind.in/posts/startups-are-raising-big-bucksheres-a-look-at-the-latest-funding-winsmarketingmi/1303610835290298/": {
+    "valid": false
+  },
+  "https://inforcapital.com/news/greatevent-scoops-up-500k": {
+    "valid": false
+  },
+  "https://www.msn.com/en-in/money/news/kabeer-biswas-s-concierge-startup-m-raises-rs-102-crore-from-peak-xv-blume-cred/ar-AA21sHzg?uxmode=ruby&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-c": {
+    "valid": false
+  },
+  "https://www.msn.com/en-in/money/news/amazon-acquires-swiss-robotics-company-rivr-to-test-robots-for-doorstep-delivery/ar-AA1Z64N5?ocid=finance-verthp-feeds&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-c": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://assiyaq.com/saudi-insurtech-startup-yasmina-secures-2m-seed-funding-to-revolutionize-embedded-insurance/": {
+    "valid": true,
+    "company": "Saudi Insurtech Startup Yasmina",
+    "amount_str": "$2M",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Executive Officer of Yasmina",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }

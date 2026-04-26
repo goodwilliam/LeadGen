@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T16:35:51.604133Z",
-  "count": 17,
+  "generated_at": "2026-04-26T20:32:50.206111Z",
+  "count": 18,
   "enriched_count": 14,
   "articles": [
     {
@@ -33,6 +33,20 @@
     },
     {
       "source": "Google Alerts",
+      "title": "Two Black Yale Students Raise $5.1M To Build AI Networking Platform Series - MSN",
+      "article_url": "https://www.msn.com/en-us/money/other/two-black-yale-students-raise-5-1m-to-build-ai-networking-platform-series/ar-AA21IipH",
+      "company": "Two Black Yale Students",
+      "amount_str": "$5.1M",
+      "pub_date": "2026-04-26T07:37:26Z",
+      "website": "https://www.wshu.org",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/wshupublicradio"
+    },
+    {
+      "source": "Google Alerts",
       "title": "Sillage Launches with \u20ac1.7M Pre-Seed for GTM AI Platform - Techno Trenz",
       "article_url": "https://technotrenz.com/news/sillage-launches-with-1-7m/",
       "company": "Sillage",
@@ -44,6 +58,20 @@
       "founder_linkedin_url": "",
       "contact_email": "yuthanan@sillage.online",
       "twitter_url": "https://x.com/velo"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Saudi Insurtech Startup Yasmina Secures $2M Seed Funding to Revolutionize Embedded Insurance",
+      "article_url": "https://assiyaq.com/saudi-insurtech-startup-yasmina-secures-2m-seed-funding-to-revolutionize-embedded-insurance/",
+      "company": "Saudi Insurtech Startup Yasmina",
+      "amount_str": "$2M",
+      "pub_date": "2026-04-26T07:15:37Z",
+      "website": "",
+      "linkedin_url": "",
+      "founder_name": "Executive Officer of Yasmina",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
     },
     {
       "source": "Google Alerts",
@@ -71,20 +99,6 @@
       "founder_name": "founder and",
       "founder_linkedin_url": "",
       "contact_email": "hello@quillon.ai",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Two Black Yale Students Raise $5.1M To Build AI Networking Platform Series",
-      "article_url": "https://www.blackenterprise.com/black-yale-students-raise-5m-pre-seed-ai-networking-platform/",
-      "company": "Two Black Yale Students",
-      "amount_str": "$5.1M",
-      "pub_date": "2026-04-25T19:15:47Z",
-      "website": "https://www.lipstickalley.com",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
       "twitter_url": ""
     },
     {
