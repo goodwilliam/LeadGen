@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-25T20:33:06.809467Z",
-  "count": 20,
-  "enriched_count": 16,
+  "generated_at": "2026-04-26T01:58:05.923957Z",
+  "count": 16,
+  "enriched_count": 14,
   "articles": [
     {
       "source": "Google Alerts",
@@ -19,20 +19,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Kenyan startup raises $25 million to meet high demand for affordable electric motorcycles",
-      "article_url": "https://www.msn.com/en-za/news/other/kenyan-startup-raises-25-million-to-meet-high-demand-for-affordable-electric-motorcycles/ar-AA1YIwSc?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-t",
-      "company": "Kenyan startup",
-      "amount_str": "$25 m",
-      "pub_date": "2026-04-25T04:24:51Z",
-      "website": "https://kenya.dealroom.co",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "Two college kids raise a $5.1 million pre-seed to build an AI social network in iMessage",
       "article_url": "https://www.aibrief.in/article/two-college-kids-raise-a-dollar51-million-pre-seed-to-build-an-ai-social-network-in-imessage",
       "company": "Series",
@@ -44,34 +30,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": "https://x.com/collections"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Iridius Raises $8.6M Seed Round to Build Compliance-by-Design AI Platform for Regulated ...",
-      "article_url": "https://www.pharmiweb.com/press-release/2026-04-24/iridius-raises-86m-seed-round-to-build-compliance-by-design-ai-platform-for-regulated-enterprise-w",
-      "company": "Iridius",
-      "amount_str": "$8.6M",
-      "pub_date": "2026-04-25T04:01:56Z",
-      "website": "https://iridius.ai",
-      "linkedin_url": "https://linkedin.com/company/iridius",
-      "founder_name": "said Mike Chalfen",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Startup Wrap: MENA startups draw capital as AI bets continue to accelerate | Arab News",
-      "article_url": "https://www.arabnews.com/node/2641205/business-economy",
-      "company": "Saudi Arabia-based Signit",
-      "amount_str": "$15 m",
-      "pub_date": "2026-04-25T03:52:04Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "Google Alerts",
@@ -113,20 +71,6 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "hello@email.com",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "X-energy raises $1B in the largest nuclear public equity offering of all time",
-      "article_url": "https://techfundingnews.com/x-energy-1b-nasdaq-ipo-advanced-nuclear-reactors/",
-      "company": "X-energy",
-      "amount_str": "$1B",
-      "pub_date": "2026-04-24T22:27:09Z",
-      "website": "https://x-energy.com",
-      "linkedin_url": "https://linkedin.com/company/x-energy",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
       "twitter_url": ""
     },
     {

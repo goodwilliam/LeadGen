@@ -45874,5 +45874,56 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": "https://x.com/whatsapp"
+  },
+  "https://www.prnewswire.com/news-releases/tcom-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-tripcom-group-limited-securities-fraud-lawsuit-first-filed-by-the-rosen-law-firm-302753375.html": {
+    "valid": false
+  },
+  "https://getlatka.com/blog/how-gather-ais-ceo-sankalp-arora-drove-revenue-growth-through-innovative-physical-ai-solutions/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "led by",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-us/money/smallbusiness/i-have-a-chip-on-my-shoulder-phoebe-gates-wants-her-185-million-ai-startup-phia-to-succeed-with-no-ties-to-my-privilege-or-my-last-name/ar-AA1WNpUC?cvid=699a5712185948bcb4280b34992bff62&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-c": {
+    "valid": false
+  },
+  "https://sanantonioreport.org/leaders-in-san-antonios-startup-ecosystem-want-to-play-to-local-economic-strengths/": {
+    "valid": false
+  },
+  "https://inforcapital.com/news/paris-based-sillage-raises-17-million-to-help-sales-teams-follow-the-right-signals/": {
+    "valid": false
+  },
+  "https://www.nucamp.co/blog/top-10-tech-startups-hiring-junior-developers-in-turkey-in-2026": {
+    "valid": false
+  },
+  "https://msmeafricaonline.com/lagos-opens-subsidized-workspace-program-for-startups-with-up-to-%E2%82%A61-8m-support/": {
+    "valid": false
+  },
+  "https://startupfortune.com/four-singapore-polytechnic-students-built-a-2500-device-that-lets-paralysed-patients-speak-through-blinks/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://m.economictimes.com/tech/startups/dpiit-issues-operational-guidelines-for-rs-10000-crore-startup-india-fund-of-funds-2-0-scheme/articleshow/130516794.cms": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://img.etimg.com/photo/104857408.cms",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
