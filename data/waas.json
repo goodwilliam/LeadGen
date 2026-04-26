@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T07:16:26Z",
+  "generated_at": "2026-04-26T12:42:02Z",
   "count": 26,
   "jobs": [
     {
@@ -59,7 +59,7 @@
       "companyBatch": "W26",
       "companyOneLiner": "Startup legal work handled by elite lawyers & same-day turnaround",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/f76442626bb5dc33b9b6ae6b9ea6033dff2869f6.png",
-      "companyLastActiveAt": "1 day ago",
+      "companyLastActiveAt": "2 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92984&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=31146"
     },
     {
@@ -74,7 +74,7 @@
       "companyBatch": "S25",
       "companyOneLiner": "AI voice for property managers",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/aa83a2cdabf22eb6acd4e5c54d4969ec37a0a549.png",
-      "companyLastActiveAt": "3 days ago",
+      "companyLastActiveAt": "4 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92580&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=30364"
     },
     {
@@ -123,21 +123,6 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D90485&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29989"
     },
     {
-      "id": 92507,
-      "title": "Product Designer",
-      "jobType": "Fulltime",
-      "location": "Bangalore",
-      "roleType": "Web design",
-      "salary": "\u20b91 - \u20b95M INR",
-      "companyName": "Emergent",
-      "companySlug": "emergent",
-      "companyBatch": "S24",
-      "companyOneLiner": "AI app builder that turns your ideas into monetizable software.",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/86f3eae4a9616e976acbe6b16031d057f3c2fbc8.png",
-      "companyLastActiveAt": null,
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92507&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29765"
-    },
-    {
       "id": 92626,
       "title": "Product Designer",
       "jobType": "Fulltime",
@@ -153,6 +138,21 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92626&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29765"
     },
     {
+      "id": 92507,
+      "title": "Product Designer",
+      "jobType": "Fulltime",
+      "location": "Bangalore",
+      "roleType": "Web design",
+      "salary": "\u20b91 - \u20b95M INR",
+      "companyName": "Emergent",
+      "companySlug": "emergent",
+      "companyBatch": "S24",
+      "companyOneLiner": "AI app builder that turns your ideas into monetizable software.",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/86f3eae4a9616e976acbe6b16031d057f3c2fbc8.png",
+      "companyLastActiveAt": null,
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92507&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29765"
+    },
+    {
       "id": 78058,
       "title": "Product Designer",
       "jobType": "Fulltime",
@@ -164,7 +164,7 @@
       "companyBatch": "S24",
       "companyOneLiner": "AI agents you can rely on",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/ff410def03c8c58c3adc7db9615becc8164804e3.png",
-      "companyLastActiveAt": "23 days ago",
+      "companyLastActiveAt": "24 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D78058&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29649"
     },
     {
@@ -179,23 +179,8 @@
       "companyBatch": "W24",
       "companyOneLiner": "Make sales and marketing videos with AI.",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/9affbf116d392b150097162d18aaec2ff55b99e9.png",
-      "companyLastActiveAt": "2 days ago",
+      "companyLastActiveAt": "3 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D88318&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29510"
-    },
-    {
-      "id": 92338,
-      "title": "Senior Product Designer | Full-Time | Remote",
-      "jobType": "Contract",
-      "location": "Remote (US)",
-      "roleType": "Product design",
-      "salary": "$180K - $230K",
-      "companyName": "Retell AI",
-      "companySlug": "retell-ai",
-      "companyBatch": "W24",
-      "companyOneLiner": "Supercharge Your Contact Center Operations with AI Phone Agents",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/c0856f230de1a84be083cff84a3298664d32f0a3.png",
-      "companyLastActiveAt": "18 days ago",
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92338&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29441"
     },
     {
       "id": 88842,
@@ -211,6 +196,21 @@
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/c0856f230de1a84be083cff84a3298664d32f0a3.png",
       "companyLastActiveAt": "about 1 month ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D88842&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29441"
+    },
+    {
+      "id": 92338,
+      "title": "Senior Product Designer | Full-Time | Remote",
+      "jobType": "Contract",
+      "location": "Remote (US)",
+      "roleType": "Product design",
+      "salary": "$180K - $230K",
+      "companyName": "Retell AI",
+      "companySlug": "retell-ai",
+      "companyBatch": "W24",
+      "companyOneLiner": "Supercharge Your Contact Center Operations with AI Phone Agents",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/c0856f230de1a84be083cff84a3298664d32f0a3.png",
+      "companyLastActiveAt": "18 days ago",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92338&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29441"
     },
     {
       "id": 92545,
@@ -273,21 +273,6 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D80903&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29290"
     },
     {
-      "id": 93131,
-      "title": "Brand Designer",
-      "jobType": "Fulltime",
-      "location": "San Francisco Office",
-      "roleType": "Web design",
-      "salary": "$150K - $230K",
-      "companyName": "Gumloop",
-      "companySlug": "gumloop",
-      "companyBatch": "W24",
-      "companyOneLiner": "A no-code platform for creating agents and automating workflows with\u2026",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/9fb7e0ce6656ba8369bfc7fdddd4235e6657221b.png",
-      "companyLastActiveAt": "about 16 hours ago",
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D93131&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29180"
-    },
-    {
       "id": 93130,
       "title": "Staff Product Designer",
       "jobType": "Fulltime",
@@ -299,23 +284,38 @@
       "companyBatch": "W24",
       "companyOneLiner": "A no-code platform for creating agents and automating workflows with\u2026",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/9fb7e0ce6656ba8369bfc7fdddd4235e6657221b.png",
-      "companyLastActiveAt": "about 16 hours ago",
+      "companyLastActiveAt": "about 22 hours ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D93130&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29180"
     },
     {
-      "id": 83825,
-      "title": "Founding Product Designer ",
+      "id": 93131,
+      "title": "Brand Designer",
       "jobType": "Fulltime",
-      "location": "Main Office - Toronto",
+      "location": "San Francisco Office",
       "roleType": "Web design",
-      "salary": "$125K - $200K CAD",
+      "salary": "$150K - $230K",
+      "companyName": "Gumloop",
+      "companySlug": "gumloop",
+      "companyBatch": "W24",
+      "companyOneLiner": "A no-code platform for creating agents and automating workflows with\u2026",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/9fb7e0ce6656ba8369bfc7fdddd4235e6657221b.png",
+      "companyLastActiveAt": "about 22 hours ago",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D93131&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29180"
+    },
+    {
+      "id": 75335,
+      "title": "Agent+ Product Designer",
+      "jobType": "Fulltime",
+      "location": "Brazil (Remote) / Remote (US)",
+      "roleType": "Web design",
+      "salary": "$24K - $30K",
       "companyName": "Tempo",
       "companySlug": "tempo-2",
       "companyBatch": "S23",
       "companyOneLiner": "Visual Editor for React, powered by AI",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/860f478b7cd2ea33eefb86e90c9c693abef2997f.png",
       "companyLastActiveAt": null,
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D83825&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29150"
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D75335&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29150"
     },
     {
       "id": 89404,
@@ -363,21 +363,6 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89573&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28890"
     },
     {
-      "id": 77217,
-      "title": "Design Engineer",
-      "jobType": "Fulltime",
-      "location": "London, England, GB",
-      "roleType": "UI / UX",
-      "salary": "$70K - $150K",
-      "companyName": "Solve Intelligence",
-      "companySlug": "solve-intelligence",
-      "companyBatch": "S23",
-      "companyOneLiner": "AI patent drafting, prosecution, litigation and more for legal teams.",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/cdb4c71ccbddd0ad292fc773c3cfb169d2a4a5ba.png",
-      "companyLastActiveAt": "4 months ago",
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D77217&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28825"
-    },
-    {
       "id": 89229,
       "title": "Motion Designer",
       "jobType": "Fulltime",
@@ -391,6 +376,21 @@
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/cdb4c71ccbddd0ad292fc773c3cfb169d2a4a5ba.png",
       "companyLastActiveAt": "about 1 month ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89229&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28825"
+    },
+    {
+      "id": 77217,
+      "title": "Design Engineer",
+      "jobType": "Fulltime",
+      "location": "London, England, GB",
+      "roleType": "UI / UX",
+      "salary": "$70K - $150K",
+      "companyName": "Solve Intelligence",
+      "companySlug": "solve-intelligence",
+      "companyBatch": "S23",
+      "companyOneLiner": "AI patent drafting, prosecution, litigation and more for legal teams.",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/cdb4c71ccbddd0ad292fc773c3cfb169d2a4a5ba.png",
+      "companyLastActiveAt": "4 months ago",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D77217&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28825"
     }
   ]
 }
