@@ -45925,5 +45925,66 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.instagram.com/reel/DXlI6cHDWg9/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "backed it",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-us/news/technology/the-humble-hauler-ditches-its-cab-and-driver-delivers-200-miles-of-range/ar-AA21zif6?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-t": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/news/technology/tether-joins-5-2m-round-in-stablecoin-infrastructure-builder-ark-labs/ar-AA1Yucdx?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-c": {
+    "valid": false
+  },
+  "https://www.ynetnews.com/business/article/r15xyyia11l": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://t.me/ynetnewslatest",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://inforcapital.com/companies/series/": {
+    "valid": true,
+    "company": "Series",
+    "amount_str": "$8.2M",
+    "website": "https://series.so",
+    "linkedin_url": "https://linkedin.com/company/joinseries",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://inforcapital.com/news/sofia-based-quillon-raises-15m-for-audit-grade-ai-in-accounting/": {
+    "valid": true,
+    "company": "Quillon",
+    "amount_str": "$1.5M",
+    "website": "https://www.quillon.ai",
+    "linkedin_url": "https://linkedin.com/company/105126454",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@quillon.ai",
+    "twitter_url": ""
+  },
+  "https://x.com/ynetnews/status/2048202737783865427": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/Chirp-Regular.80fda27a.woff2",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }

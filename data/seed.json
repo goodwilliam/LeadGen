@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-04-26T01:58:05.923957Z",
-  "count": 16,
+  "generated_at": "2026-04-26T06:04:43.737036Z",
+  "count": 17,
   "enriched_count": 14,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Series - Funding Rounds &amp; List of Investors - InforCapital",
+      "article_url": "https://inforcapital.com/companies/series/",
+      "company": "Series",
+      "amount_str": "$8.2M",
+      "pub_date": "2026-04-26T03:26:08Z",
+      "website": "https://series.so",
+      "linkedin_url": "https://linkedin.com/company/joinseries",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Quillon Raises $1.5M for Audit-Grade AI in Accounting - InforCapital",
+      "article_url": "https://inforcapital.com/news/sofia-based-quillon-raises-15m-for-audit-grade-ai-in-accounting/",
+      "company": "Quillon",
+      "amount_str": "$1.5M",
+      "pub_date": "2026-04-26T02:40:15Z",
+      "website": "https://www.quillon.ai",
+      "linkedin_url": "https://linkedin.com/company/105126454",
+      "founder_name": "founder and",
+      "founder_linkedin_url": "",
+      "contact_email": "hello@quillon.ai",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Two Black Yale Students Raise $5.1M To Build AI Networking Platform Series",
+      "article_url": "https://www.blackenterprise.com/black-yale-students-raise-5m-pre-seed-ai-networking-platform/",
+      "company": "Two Black Yale Students",
+      "amount_str": "$5.1M",
+      "pub_date": "2026-04-25T19:15:47Z",
+      "website": "https://www.lipstickalley.com",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Eswatini-Born Swoop Raises $7.3 Million Seed Round to Launch Food Delivery Expansion ...",
@@ -16,20 +58,6 @@
       "founder_linkedin_url": "https://linkedin.com/in/adaora-oramah",
       "contact_email": "",
       "twitter_url": "https://x.com/amakastudio"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Two college kids raise a $5.1 million pre-seed to build an AI social network in iMessage",
-      "article_url": "https://www.aibrief.in/article/two-college-kids-raise-a-dollar51-million-pre-seed-to-build-an-ai-social-network-in-imessage",
-      "company": "Series",
-      "amount_str": "$5.1 m",
-      "pub_date": "2026-04-25T04:09:04Z",
-      "website": "https://www.hbo.com",
-      "linkedin_url": "https://linkedin.com/company/joinseries",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/collections"
     },
     {
       "source": "Google Alerts",
@@ -57,20 +85,6 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Brev Raises $3.3M Pre-Seed Round - VC News Daily",
-      "article_url": "https://vcnewsdaily.com/brev/venture-capital-funding/pkmqdrgtzg",
-      "company": "Brev",
-      "amount_str": "$3.3M",
-      "pub_date": "2026-04-25T01:12:30Z",
-      "website": "https://www.brev.com",
-      "linkedin_url": "https://linkedin.com/company/brevdev",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "hello@email.com",
       "twitter_url": ""
     },
     {
