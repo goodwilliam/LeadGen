@@ -45986,5 +45986,80 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/wynn-honors-the-top-tier-wines-of-china-at-the-2026-wynn-signature-chinese-wine-awards-ceremony-302753637.html": {
+    "valid": false
+  },
+  "https://fundingspotter.com/news/dr-connor-2026": {
+    "valid": false
+  },
+  "https://www.thebusinessdesk.com/scotland/news/3579-touchlab-prepares-for-series-a-funding-round": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/replit-s-agent-4-ai-building-apps-without-code": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Replit CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupfortune.com/openai-opens-apollo-5-weights-slashing-prices-to-flood-the-developer-market/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupfortune.com/from-2000-and-a-one-way-ticket-to-10000-clients-a-year-in-singapore/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupfortune.com/humanoid-robots-can-walk-talk-and-sort-packages-but-still-fumble-the-hard-stuff/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://vcbeast.com/startup-funding-rounds-explained-pre-seed-to-series-f": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://nhxy8id3.api.sanity.io",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-us/news/technology/polychain-backs-veryai-s-10m-raise-to-build-palm-scan-identity-system-on-solana/ar-AA1Yv5Vr?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-t": {
+    "valid": false
   }
 }

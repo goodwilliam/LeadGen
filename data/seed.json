@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-26T06:04:43.737036Z",
-  "count": 17,
-  "enriched_count": 14,
+  "generated_at": "2026-04-26T08:52:42.865679Z",
+  "count": 16,
+  "enriched_count": 13,
   "articles": [
     {
       "source": "Google Alerts",
@@ -58,20 +58,6 @@
       "founder_linkedin_url": "https://linkedin.com/in/adaora-oramah",
       "contact_email": "",
       "twitter_url": "https://x.com/amakastudio"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Era raises $11M from Abstract Ventures and BoxGroup to bring AI to smart gadgets",
-      "article_url": "https://techfundingnews.com/era-11m-funding-ai-hardware-intelligence-infrastructure/",
-      "company": "Era",
-      "amount_str": "$11M",
-      "pub_date": "2026-04-25T01:19:37Z",
-      "website": "http://eratheliveexperience.com",
-      "linkedin_url": "https://linkedin.com/company/era-group-global",
-      "founder_name": "",
-      "founder_linkedin_url": "https://linkedin.com/in/marcuschusg",
-      "contact_email": "",
-      "twitter_url": "https://x.com/ERAmusicoff"
     },
     {
       "source": "Google Alerts",
