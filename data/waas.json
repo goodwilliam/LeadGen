@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-04-26T12:42:02Z",
+  "generated_at": "2026-04-26T18:37:13Z",
   "count": 26,
   "jobs": [
+    {
+      "id": 92790,
+      "title": "Visual & Micro-Interaction Designer",
+      "jobType": "Fulltime",
+      "location": "San Francisco, CA, US",
+      "roleType": "Web design",
+      "salary": "$130K - $200K",
+      "companyName": "Wefunder",
+      "companySlug": "wefunder",
+      "companyBatch": "W13",
+      "companyOneLiner": "We&#39;re Robinhood for pre-IPO startups. Everyone can invest $100.",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/86fe89dc40132aeb8f280105ad161eb9c7281ebc.png",
+      "companyLastActiveAt": "17 days ago",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92790&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=503"
+    },
     {
       "id": 80391,
       "title": "Lead Designer ",
@@ -16,21 +31,6 @@
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/86fe89dc40132aeb8f280105ad161eb9c7281ebc.png",
       "companyLastActiveAt": "13 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D80391&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=503"
-    },
-    {
-      "id": 92790,
-      "title": "Visual & Micro-Interaction Designer",
-      "jobType": "Fulltime",
-      "location": "San Francisco, CA, US",
-      "roleType": "Web design",
-      "salary": "$130K - $200K",
-      "companyName": "Wefunder",
-      "companySlug": "wefunder",
-      "companyBatch": "W13",
-      "companyOneLiner": "We&#39;re Robinhood for pre-IPO startups. Everyone can invest $100.",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/86fe89dc40132aeb8f280105ad161eb9c7281ebc.png",
-      "companyLastActiveAt": "16 days ago",
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92790&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=503"
     },
     {
       "id": 92948,
@@ -63,21 +63,6 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92984&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=31146"
     },
     {
-      "id": 92580,
-      "title": "Founding Product Designer",
-      "jobType": "Fulltime",
-      "location": "San Francisco, CA, US",
-      "roleType": "UI / UX",
-      "salary": "$150K - $250K",
-      "companyName": "Wayline",
-      "companySlug": "wayline",
-      "companyBatch": "S25",
-      "companyOneLiner": "AI voice for property managers",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/aa83a2cdabf22eb6acd4e5c54d4969ec37a0a549.png",
-      "companyLastActiveAt": "4 days ago",
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92580&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=30364"
-    },
-    {
       "id": 88812,
       "title": "Founding Product Designer",
       "jobType": "Fulltime",
@@ -91,6 +76,21 @@
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/84ad3ef04aef30c103f98a1ef15865998e62738e.png",
       "companyLastActiveAt": null,
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D88812&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=30346"
+    },
+    {
+      "id": 89621,
+      "title": "Product Designer (Full-time)",
+      "jobType": "Contract",
+      "location": "BR / AR / CO / CL / PY / MX / CR / Remote (BR; AR; CO; CL; PY; MX; CR)",
+      "roleType": "Product design",
+      "salary": "$36K - $42K",
+      "companyName": "Crustdata",
+      "companySlug": "crustdata",
+      "companyBatch": "F24",
+      "companyOneLiner": "Real-time B2B data via simple APIs",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/a645ebfbcdeac20235858ba701359f66323b4b37.png",
+      "companyLastActiveAt": null,
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89621&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=30076"
     },
     {
       "id": 78977,
@@ -123,21 +123,6 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D90485&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29989"
     },
     {
-      "id": 92626,
-      "title": "Product Designer",
-      "jobType": "Fulltime",
-      "location": "San Francisco",
-      "roleType": "Web design",
-      "salary": "$100K - $250K",
-      "companyName": "Emergent",
-      "companySlug": "emergent",
-      "companyBatch": "S24",
-      "companyOneLiner": "AI app builder that turns your ideas into monetizable software.",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/86f3eae4a9616e976acbe6b16031d057f3c2fbc8.png",
-      "companyLastActiveAt": null,
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92626&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29765"
-    },
-    {
       "id": 92507,
       "title": "Product Designer",
       "jobType": "Fulltime",
@@ -153,6 +138,21 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92507&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29765"
     },
     {
+      "id": 92626,
+      "title": "Product Designer",
+      "jobType": "Fulltime",
+      "location": "San Francisco",
+      "roleType": "Web design",
+      "salary": "$100K - $250K",
+      "companyName": "Emergent",
+      "companySlug": "emergent",
+      "companyBatch": "S24",
+      "companyOneLiner": "AI app builder that turns your ideas into monetizable software.",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/86f3eae4a9616e976acbe6b16031d057f3c2fbc8.png",
+      "companyLastActiveAt": null,
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92626&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29765"
+    },
+    {
       "id": 78058,
       "title": "Product Designer",
       "jobType": "Fulltime",
@@ -166,21 +166,6 @@
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/ff410def03c8c58c3adc7db9615becc8164804e3.png",
       "companyLastActiveAt": "24 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D78058&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29649"
-    },
-    {
-      "id": 88318,
-      "title": "Founding Product Designer",
-      "jobType": "Fulltime",
-      "location": "New York, NY, US",
-      "roleType": "UI / UX",
-      "salary": "$150K - $220K",
-      "companyName": "Yarn",
-      "companySlug": "yarn-2",
-      "companyBatch": "W24",
-      "companyOneLiner": "Make sales and marketing videos with AI.",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/9affbf116d392b150097162d18aaec2ff55b99e9.png",
-      "companyLastActiveAt": "3 days ago",
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D88318&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29510"
     },
     {
       "id": 88842,
@@ -209,7 +194,7 @@
       "companyBatch": "W24",
       "companyOneLiner": "Supercharge Your Contact Center Operations with AI Phone Agents",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/c0856f230de1a84be083cff84a3298664d32f0a3.png",
-      "companyLastActiveAt": "18 days ago",
+      "companyLastActiveAt": "19 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92338&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29441"
     },
     {
@@ -273,21 +258,6 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D80903&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29290"
     },
     {
-      "id": 93130,
-      "title": "Staff Product Designer",
-      "jobType": "Fulltime",
-      "location": "San Francisco Office",
-      "roleType": "Web design",
-      "salary": "$185K - $300K",
-      "companyName": "Gumloop",
-      "companySlug": "gumloop",
-      "companyBatch": "W24",
-      "companyOneLiner": "A no-code platform for creating agents and automating workflows with\u2026",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/9fb7e0ce6656ba8369bfc7fdddd4235e6657221b.png",
-      "companyLastActiveAt": "about 22 hours ago",
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D93130&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29180"
-    },
-    {
       "id": 93131,
       "title": "Brand Designer",
       "jobType": "Fulltime",
@@ -299,8 +269,23 @@
       "companyBatch": "W24",
       "companyOneLiner": "A no-code platform for creating agents and automating workflows with\u2026",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/9fb7e0ce6656ba8369bfc7fdddd4235e6657221b.png",
-      "companyLastActiveAt": "about 22 hours ago",
+      "companyLastActiveAt": "about 4 hours ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D93131&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29180"
+    },
+    {
+      "id": 93130,
+      "title": "Staff Product Designer",
+      "jobType": "Fulltime",
+      "location": "San Francisco Office",
+      "roleType": "Web design",
+      "salary": "$185K - $300K",
+      "companyName": "Gumloop",
+      "companySlug": "gumloop",
+      "companyBatch": "W24",
+      "companyOneLiner": "A no-code platform for creating agents and automating workflows with\u2026",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/9fb7e0ce6656ba8369bfc7fdddd4235e6657221b.png",
+      "companyLastActiveAt": "1 day ago",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D93130&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29180"
     },
     {
       "id": 75335,
@@ -318,19 +303,19 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D75335&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29150"
     },
     {
-      "id": 89404,
-      "title": "Design Engineering Intern",
-      "jobType": "Intern",
+      "id": 83825,
+      "title": "Founding Product Designer ",
+      "jobType": "Fulltime",
       "location": "Main Office - Toronto",
       "roleType": "Web design",
-      "salary": "$35 - $50 CAD / hourly",
+      "salary": "$125K - $200K CAD",
       "companyName": "Tempo",
       "companySlug": "tempo-2",
       "companyBatch": "S23",
       "companyOneLiner": "Visual Editor for React, powered by AI",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/860f478b7cd2ea33eefb86e90c9c693abef2997f.png",
-      "companyLastActiveAt": "about 1 month ago",
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89404&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29150"
+      "companyLastActiveAt": null,
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D83825&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29150"
     },
     {
       "id": 89173,
@@ -363,6 +348,21 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89573&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28890"
     },
     {
+      "id": 77217,
+      "title": "Design Engineer",
+      "jobType": "Fulltime",
+      "location": "London, England, GB",
+      "roleType": "UI / UX",
+      "salary": "$70K - $150K",
+      "companyName": "Solve Intelligence",
+      "companySlug": "solve-intelligence",
+      "companyBatch": "S23",
+      "companyOneLiner": "AI patent drafting, prosecution, litigation and more for legal teams.",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/cdb4c71ccbddd0ad292fc773c3cfb169d2a4a5ba.png",
+      "companyLastActiveAt": "4 months ago",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D77217&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28825"
+    },
+    {
       "id": 89229,
       "title": "Motion Designer",
       "jobType": "Fulltime",
@@ -378,19 +378,19 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89229&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28825"
     },
     {
-      "id": 77217,
-      "title": "Design Engineer",
+      "id": 92532,
+      "title": "\ud83d\ude80 Founding Design Engineer",
       "jobType": "Fulltime",
-      "location": "London, England, GB",
-      "roleType": "UI / UX",
-      "salary": "$70K - $150K",
-      "companyName": "Solve Intelligence",
-      "companySlug": "solve-intelligence",
+      "location": "San Francisco, CA, US",
+      "roleType": "Product design",
+      "salary": "$150K - $210K",
+      "companyName": "Readily",
+      "companySlug": "readily",
       "companyBatch": "S23",
-      "companyOneLiner": "AI patent drafting, prosecution, litigation and more for legal teams.",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/cdb4c71ccbddd0ad292fc773c3cfb169d2a4a5ba.png",
-      "companyLastActiveAt": "4 months ago",
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D77217&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28825"
+      "companyOneLiner": "AI Compliance Platform for Healthcare Organizations",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/b6ed6b92c1866d1321f5db92edcd357309239ed5.png",
+      "companyLastActiveAt": "26 days ago",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92532&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28809"
     }
   ]
 }
