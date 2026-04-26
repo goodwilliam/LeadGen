@@ -46061,5 +46061,61 @@
   },
   "https://www.msn.com/en-us/news/technology/polychain-backs-veryai-s-10m-raise-to-build-palm-scan-identity-system-on-solana/ar-AA1Yv5Vr?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-t": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/horizon-capital-ziskava-ocenni-real-deals-private-equity-awards-2026-v-kategorii-transakce-roku-ve-stedni-a-vychodni-evrop-za-akvizici-spolenosti-datagroup-volia-a-lifecell-302753702.html": {
+    "valid": false
+  },
+  "https://www.mexc.com/news/1052639": {
+    "valid": true,
+    "company": "Edinburgh-based crypto casino BetHog",
+    "amount_str": "$10 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "of Nightfall Networks",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://technotrenz.com/news/sillage-launches-with-1-7m/": {
+    "valid": true,
+    "company": "Sillage",
+    "amount_str": "",
+    "website": "https://www.sillage.online",
+    "linkedin_url": "https://linkedin.com/company/sillage-signals",
+    "founder_name": "of Axolo",
+    "founder_linkedin_url": "",
+    "contact_email": "yuthanan@sillage.online",
+    "twitter_url": "https://x.com/velo"
+  },
+  "https://www.msn.com/en-in/money/topstories/akasa-air-co-founder-praveen-iyer-resigns/ar-AA1W7Bkm?cvid=698d0163cde140c58d26b550e6ea19fb&ocid=iehp&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-c": {
+    "valid": false
+  },
+  "https://startupfortune.com/chainalysis-is-adding-ai-agents-to-its-blockchain-forensics-platform-to-counter-criminals-who-are-already-using-ai/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/MoneyWeekUK/posts/seed-enterprise-investment-scheme-seis-big-profits-from-small-ventures/1430021202475678/": {
+    "valid": false
+  },
+  "https://startupfortune.com/the-ai-price-war-is-closing-in-on-anthropic-and-its-premium-model-strategy-is-running-out-of-room/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/agentcraft-gaming-the-ai-agent-workflow": {
+    "valid": false
   }
 }

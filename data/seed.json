@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-04-26T08:52:42.865679Z",
-  "count": 16,
-  "enriched_count": 13,
+  "generated_at": "2026-04-26T12:46:33.577716Z",
+  "count": 17,
+  "enriched_count": 14,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Sillage Launches with \u20ac1.7M Pre-Seed for GTM AI Platform - Techno Trenz",
+      "article_url": "https://technotrenz.com/news/sillage-launches-with-1-7m/",
+      "company": "Sillage",
+      "amount_str": "",
+      "pub_date": "2026-04-26T07:24:32Z",
+      "website": "https://www.sillage.online",
+      "linkedin_url": "https://linkedin.com/company/sillage-signals",
+      "founder_name": "of Axolo",
+      "founder_linkedin_url": "",
+      "contact_email": "yuthanan@sillage.online",
+      "twitter_url": "https://x.com/velo"
+    },
     {
       "source": "Google Alerts",
       "title": "Series - Funding Rounds &amp; List of Investors - InforCapital",
@@ -61,14 +75,14 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Funding \u2013 Business Review: The Latest News from the Middle East and Africa",
-      "article_url": "https://www.businessreviewmea.com/category/funding/",
-      "company": "Zurich-based edtech startup Sparkli",
-      "amount_str": "$5 m",
-      "pub_date": "2026-04-25T01:19:08Z",
+      "title": "AI boom leaves crypto VC fundraising in the dust, founders warn | MEXC News",
+      "article_url": "https://www.mexc.com/news/1052639",
+      "company": "Edinburgh-based crypto casino BetHog",
+      "amount_str": "$10 m",
+      "pub_date": "2026-04-25T05:45:25Z",
       "website": "https://duck.ai",
       "linkedin_url": "",
-      "founder_name": "",
+      "founder_name": "of Nightfall Networks",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
