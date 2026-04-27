@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-04-27T17:22:58.688258Z",
-  "count": 23,
-  "enriched_count": 20,
+  "generated_at": "2026-04-27T20:59:43.742071Z",
+  "count": 21,
+  "enriched_count": 16,
   "articles": [
+    {
+      "source": "PR Newswire",
+      "title": "Northwestern Mutual Announces $150 Million Venture Capital Commitment to Accelerate Fintech Innovation",
+      "article_url": "https://www.prnewswire.com/news-releases/northwestern-mutual-announces-150-million-venture-capital-commitment-to-accelerate-fintech-innovation-302754777.html",
+      "company": "Northwestern Mutual",
+      "amount_str": "$150 M",
+      "pub_date": "2026-04-27T20:45:00Z",
+      "website": "https://redirect3.awms.apps.northwesternmutual.com",
+      "linkedin_url": "https://linkedin.com/company/northwestern-mutual",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/nm_financial"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Boise customer insights startup lands $5.2M in funding, customers include Intel, Verizon",
+      "article_url": "https://boisedev.com/2026/04/27/boise-customer-insights-startup-lands-5-2m-in-funding-customers-include-intel-verizon/",
+      "company": "Boise customer insights startup",
+      "amount_str": "$5.2M",
+      "pub_date": "2026-04-27T17:48:26Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "NeoCognition Raises $40M to Build Self-Learning AI Agents That Specialise Like Humans",
+      "article_url": "https://theaiinsider.tech/2026/04/27/neocognition-raises-40m-to-build-self-learning-ai-agents-that-specialise-like-humans/",
+      "company": "NeoCognition",
+      "amount_str": "$40M",
+      "pub_date": "2026-04-27T17:18:50Z",
+      "website": "https://neocognition.io",
+      "linkedin_url": "https://linkedin.com/company/neocognition-labs",
+      "founder_name": "Ion Stoica",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Former Google Researcher Launches AI Startup with Record Funding | Intellectia.AI",
@@ -47,6 +89,20 @@
     },
     {
       "source": "Google Alerts",
+      "title": "Thermal Energy Storage Startup TheStorage Raises $4.2 Million Seed Funding",
+      "article_url": "https://kalpapower.com/thermal-energy-storage-startup-thestorage-raises-4-2-million-seed-funding/",
+      "company": "Thermal Energy Storage Startup TheStorage",
+      "amount_str": "$4.2 M",
+      "pub_date": "2026-04-27T15:30:12Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
       "title": "Bubble Robotics Announces Pre- Seed Round To Build The Ocean's Autonomous Workforce",
       "article_url": "https://oceannews.com/news/science-technology/bubble-robotics-announces-pre-seed-round-to-build-the-oceans-autonomous-workforce/",
       "company": "Bubble Robotics",
@@ -58,20 +114,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": "https://x.com/BubbleRobotics"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Humble raises $24 million in seed funding to develop an autonomous Class 8 electric truck",
-      "article_url": "https://chargedevs.com/newswire/humble-raises-24-million-in-seed-funding-to-develop-an-autonomous-class-8-electric-truck/",
-      "company": "Humble",
-      "amount_str": "$24 m",
-      "pub_date": "2026-04-27T14:30:38Z",
-      "website": "https://humblerobotics.ai",
-      "linkedin_url": "https://linkedin.com/company/humblerobotics",
-      "founder_name": "",
-      "founder_linkedin_url": "https://linkedin.com/in/bob-chappuis-ba09725",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "Google Alerts",
@@ -88,48 +130,6 @@
       "twitter_url": ""
     },
     {
-      "source": "Google Alerts",
-      "title": "German solar start-up Vrey closes seed round to scale platform - Renewables Now",
-      "article_url": "https://renewablesnow.com/news/german-solar-start-up-vrey-closes-seed-round-to-scale-platform-1293762/",
-      "company": "German solar start-up Vrey",
-      "amount_str": "",
-      "pub_date": "2026-04-27T13:44:13Z",
-      "website": "https://renewablesnow.com",
-      "linkedin_url": "https://linkedin.com/company/17908546",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "editorial@renewablesnow.com",
-      "twitter_url": "https://x.com/SeeNewsRenew"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Lola Raises USD 3M Seed Round to Scale Cake Customization Platform Across MENA",
-      "article_url": "https://waya.media/lola-raises-usd-3m-seed-round-to-scale-cake-customization-platform-across-mena/",
-      "company": "Lola",
-      "amount_str": "",
-      "pub_date": "2026-04-27T13:03:46Z",
-      "website": "https://lola.do",
-      "linkedin_url": "https://linkedin.com/company/lola-inc",
-      "founder_name": "",
-      "founder_linkedin_url": "https://linkedin.com/in/lola-adedokun",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Fermeate raises $2m to deliver &quot;step change&quot; in precision fermentation economics with optogenetics",
-      "article_url": "https://agfundernews.com/fermeate-raises-2m-to-deliver-step-change-in-precision-fermentation-economics-with-optogenetics",
-      "company": "Fermeate",
-      "amount_str": "$2m",
-      "pub_date": "2026-04-27T13:03:03Z",
-      "website": "https://www.fermeate.com",
-      "linkedin_url": "https://linkedin.com/company/fermeate",
-      "founder_name": "Saurabh Malani",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
       "source": "tech.eu",
       "title": "Qendra gets \u20ac162K to scale quantum computing systems",
       "article_url": "https://tech.eu/2026/04/27/qendra-gets-eur162k-to-scale-quantum-computing-systems/",
@@ -139,20 +139,6 @@
       "website": "https://qendra.tech",
       "linkedin_url": "https://linkedin.com/company/qendra",
       "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "user@domain.com",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "DOJO AI Announces $6M in Funding to Power Agentic Marketing Platform, Transforming ...",
-      "article_url": "https://theaiinsider.tech/2026/04/27/dojo-ai-announces-6m-in-funding-to-power-agentic-marketing-platform-transforming-data-into-business-impact/",
-      "company": "DOJO AI",
-      "amount_str": "$6M",
-      "pub_date": "2026-04-27T11:18:56Z",
-      "website": "https://www.dojoai.io",
-      "linkedin_url": "https://linkedin.com/company/dojo-marketing",
-      "founder_name": "said DOJO AI",
       "founder_linkedin_url": "",
       "contact_email": "user@domain.com",
       "twitter_url": ""
@@ -184,20 +170,6 @@
       "founder_linkedin_url": "",
       "contact_email": "info@quantum-art.tech",
       "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Series Raises $5.1M to Push iMessage-Based Social Networking | citybiz",
-      "article_url": "https://www.citybiz.co/article/837119/series-raises-5-1m-to-push-imessage-based-social-networking/",
-      "company": "Series",
-      "amount_str": "$5.1M",
-      "pub_date": "2026-04-27T10:52:01Z",
-      "website": "https://www.hbo.com",
-      "linkedin_url": "https://linkedin.com/company/joinseries",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/collections"
     },
     {
       "source": "tech.eu",

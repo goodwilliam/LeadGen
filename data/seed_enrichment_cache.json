@@ -47125,5 +47125,252 @@
     "founder_linkedin_url": "https://linkedin.com/in/lola-adedokun",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/": {
+    "valid": false
+  },
+  "https://betakit.com/feds-invest-more-than-8-million-in-defence-in-saskatchewan/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/northwestern-mutual-announces-150-million-venture-capital-commitment-to-accelerate-fintech-innovation-302754777.html": {
+    "valid": true,
+    "company": "Northwestern Mutual",
+    "amount_str": "$150 M",
+    "website": "https://redirect3.awms.apps.northwesternmutual.com",
+    "linkedin_url": "https://linkedin.com/company/northwestern-mutual",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/nm_financial"
+  },
+  "https://www.prnewswire.com/news-releases/14-steward-partners-advisors-named-to-investmentnews-2026-5-star-financial-planners-list-302754767.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/west-virginia-american-water-announces-500-000-infrastructure-project-in-dunbar-302754766.html": {
+    "valid": false
+  },
+  "https://boisedev.com/2026/04/27/boise-customer-insights-startup-lands-5-2m-in-funding-customers-include-intel-verizon/": {
+    "valid": true,
+    "company": "Boise customer insights startup",
+    "amount_str": "$5.2M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bebeez.eu/2026/04/27/frankfurts-quointelligence-closes-e7-3-million-series-a-to-scale-eu-compliant-threat-intelligence/": {
+    "valid": false
+  },
+  "https://qz.com/elon-musk-sam-altman-openai-trial-nonprofit-042726": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.cloudflare.com/5xx-error-landing",
+    "linkedin_url": "https://linkedin.com/company/cloudflare",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/cloudflare"
+  },
+  "https://www.varindia.com/news/meta-and-aws-sign-multi-year-deal-to-scale-ai-compute-infrastructure": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/": {
+    "valid": false
+  },
+  "https://m.economictimes.com/tech/funding/former-deepmind-researchers-startup-bags-1-1-billion-in-seed-funding/articleshow/130561299.cms": {
+    "valid": true,
+    "company": "DeepMind researcher's startup",
+    "amount_str": "$1.1 b",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/04/27/neocognition-raises-40m-to-build-self-learning-ai-agents-that-specialise-like-humans/": {
+    "valid": true,
+    "company": "NeoCognition",
+    "amount_str": "$40M",
+    "website": "https://neocognition.io",
+    "linkedin_url": "https://linkedin.com/company/neocognition-labs",
+    "founder_name": "Ion Stoica",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://m.dailyhunt.in/news/india/english/indian+startup+news-epaper-indanstn/indian+startups+raised+over+47+million+from+april+20+to+april+25+2026+coral+tops+the+list-newsid-n710076350": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wa.me",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/SmartTechTrendz/status/2048709588791558631": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/Chirp-Regular.80fda27a.woff2",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/trifetch-raises-1-9m-in-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/outcraft-ai-raises-e2m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/huboo-acquires-sorted.html": {
+    "valid": false
+  },
+  "https://www.axios.com/pro/all-deals/2026/04/27/pro-rata-premium-first-look": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "was named president and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/lola-raises-3m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/quointelligence-closes-eur7-3m-in-series-a-funding.html": {
+    "valid": false
+  },
+  "https://techfundingnews.com/china-blocks-meta-2b-manus-ai-acquisition-benchmark-tencent/": {
+    "valid": false
+  },
+  "https://bitcoinmagazine.com/business/1-3m-funded-openagents-pays-gamers-and-everyday-pcs-in-bitcoin-via-pylon-distributed-ai-network": {
+    "valid": false
+  },
+  "https://www.reddit.com/r/StartUpIndia/comments/1sxaaje/need_help_recommendations_on_preseed_funding/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/04/27/hacker-who-allegedly-carried-out-cyberattacks-for-china-is-extradited-to-u-s/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/magicare-raises-3-6m-pre-seed-in-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/lighthouseai-raises-8m-in-series-a-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/linexa-raises-e2m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://newsroom.csun.edu/2026/04/27/csun-nazarian-colleges-entrepreneurial-center-to-host-sunstone-csu-startup-launch-competition/": {
+    "valid": false
+  },
+  "https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-27-2026/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.alleywatch.com.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/CNBCi/status/2048783038402695417": {
+    "valid": true,
+    "company": "Google DeepMind researcher's AI startup",
+    "amount_str": "$1.1 b",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.reuters.com/legal/transactional/uk-based-ai-startup-ineffable-raises-11-billion-europes-largest-seed-financing-2026-04-27/": {
+    "valid": true,
+    "company": "UK-based AI startup Ineffable",
+    "amount_str": "$1.1 b",
+    "website": "https://www.msn.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bioxconomy.com/finance-and-accounting/best-practices-and-pitfalls-in-forecasting-product-launches": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cookielaw.org",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.lse.co.uk/news/uk-based-ai-startup-ineffable-raises-11-billion-in-europes-largest-seed-financing-q5t6qpxaoc31a53.html": {
+    "valid": true,
+    "company": "UK-based AI startup Ineffable",
+    "amount_str": "$1.1 b",
+    "website": "https://www.msn.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/aparanjape/status/2048799261572432301": {
+    "valid": true,
+    "company": "Google DeepMind researcher's AI startup",
+    "amount_str": "$1.1 b",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/CNBC/status/2048785285375303810": {
+    "valid": true,
+    "company": "Google DeepMind researcher's AI startup",
+    "amount_str": "$1.1 b",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://kalpapower.com/thermal-energy-storage-startup-thestorage-raises-4-2-million-seed-funding/": {
+    "valid": true,
+    "company": "Thermal Energy Storage Startup TheStorage",
+    "amount_str": "$4.2 M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
