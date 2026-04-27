@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-04-27T06:25:30.362870Z",
+  "generated_at": "2026-04-27T10:08:51.056348Z",
   "count": 21,
   "enriched_count": 17,
   "articles": [
+    {
+      "source": "tech.eu",
+      "title": "German robotics startup Sereact raises $110M",
+      "article_url": "https://tech.eu/2026/04/27/german-robotics-startup-sereact-raises-110m/",
+      "company": "German robotics startup Sereact",
+      "amount_str": "$110M",
+      "pub_date": "2026-04-27T09:24:00Z",
+      "website": "https://www.timesofai.com",
+      "linkedin_url": "https://linkedin.com/company/timesofai",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "contact@timesofai.com",
+      "twitter_url": "https://x.com/TimesOfAI_"
+    },
+    {
+      "source": "tech.eu",
+      "title": "QuoIntelligence raises \u20ac7.3M Series A to deliver \u201cfinished\u201d threat intelligence at scale",
+      "article_url": "https://tech.eu/2026/04/27/quointelligence-raises-eur73m-series-a-to-deliver-finished-threat-intelligence-at-scale/",
+      "company": "QuoIntelligence",
+      "amount_str": "\u20ac7.3M",
+      "pub_date": "2026-04-27T08:58:00Z",
+      "website": "https://quointelligence.eu",
+      "linkedin_url": "https://linkedin.com/company/quointelligence",
+      "founder_name": "",
+      "founder_linkedin_url": "https://linkedin.com/in/marcoriccardi",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "tech.eu",
       "title": "Atech raises Pre-Seed to unlock a new era of Physical AI builders with the &quot;Lovable for hardware&quot;",
@@ -144,20 +172,6 @@
       "twitter_url": "https://x.com/wshupublicradio"
     },
     {
-      "source": "Google Alerts",
-      "title": "Sillage Launches with \u20ac1.7M Pre-Seed for GTM AI Platform - Techno Trenz",
-      "article_url": "https://technotrenz.com/news/sillage-launches-with-1-7m/",
-      "company": "Sillage",
-      "amount_str": "",
-      "pub_date": "2026-04-26T07:24:32Z",
-      "website": "https://www.sillage.online",
-      "linkedin_url": "https://linkedin.com/company/sillage-signals",
-      "founder_name": "of Axolo",
-      "founder_linkedin_url": "",
-      "contact_email": "yuthanan@sillage.online",
-      "twitter_url": "https://x.com/velo"
-    },
-    {
       "source": "tech.eu",
       "title": "Verda raises $117M, Aleph Alpha to be acquired, and solving the quantum bottleneck",
       "article_url": "https://tech.eu/2026/04/24/verda-raises-117m-aleph-alpha-to-be-acquired-and-solving-the-quantum-bottleneck/",
@@ -278,20 +292,6 @@
       "pub_date": "2026-04-23T07:24:23Z",
       "website": "https://www.wenite.io",
       "linkedin_url": "https://linkedin.com/company/wenite",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "tech.eu",
-      "title": "Nox Mobility raises \u20ac2M pre-seed to rethink Europe\u2019s night trains",
-      "article_url": "https://tech.eu/2026/04/22/nox-mobility-raises-eur2m-pre-seed-to-rethink-europes-night-trains/",
-      "company": "Nox Mobility",
-      "amount_str": "\u20ac2M",
-      "pub_date": "2026-04-22T09:00:00Z",
-      "website": "https://noxmobility.com",
-      "linkedin_url": "https://linkedin.com/company/noxmobility",
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",

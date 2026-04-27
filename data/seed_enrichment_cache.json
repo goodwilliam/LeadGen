@@ -46574,5 +46574,50 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/27/german-robotics-startup-sereact-raises-110m/": {
+    "valid": true,
+    "company": "German robotics startup Sereact",
+    "amount_str": "$110M",
+    "website": "https://www.timesofai.com",
+    "linkedin_url": "https://linkedin.com/company/timesofai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@timesofai.com",
+    "twitter_url": "https://x.com/TimesOfAI_"
+  },
+  "https://tech.eu/2026/04/27/quointelligence-raises-eur73m-series-a-to-deliver-finished-threat-intelligence-at-scale/": {
+    "valid": true,
+    "company": "QuoIntelligence",
+    "amount_str": "\u20ac7.3M",
+    "website": "https://quointelligence.eu",
+    "linkedin_url": "https://linkedin.com/company/quointelligence",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/marcoriccardi",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/27/european-tech-weekly-recap-eur632m-in-deals-and-techeu-summit-london/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/first-street-expands-climate-risk-coverage-from-real-estate-to-companies-and-infrastructure-302753492.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/first-street-expands-climate-risk-coverage-from-real-estate-to-companies-and-infrastructure-302753578.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-trubridge-inc-investors-to-inquire-about-securities-class-action-investigation--tbrg-302753882.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/eose-deadline-eose-investors-have-opportunity-to-lead-eos-energy-enterprises-inc-securities-fraud-lawsuit-302753872.html": {
+    "valid": false
   }
 }
