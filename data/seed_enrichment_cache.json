@@ -46451,5 +46451,128 @@
     "founder_linkedin_url": "",
     "contact_email": "hello@craftifai.com",
     "twitter_url": "https://x.com/craftifai"
+  },
+  "https://tech.eu/2026/04/27/atech-raises-pre-seed-to-unlock-the-next-wave-of-physical-ai-builders/": {
+    "valid": true,
+    "company": "Atech",
+    "amount_str": "",
+    "website": "https://atech.dev",
+    "linkedin_url": "https://linkedin.com/company/atech-dev",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/27/europe-urged-to-become-first-electro-continent-with-50-electrification-target-by-2040/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/broadridge-transforming-financial-literacy-in-ireland-through-ai-powered-communication-302753482.html": {
+    "valid": false
+  },
+  "https://www.techinasia.com/ai-cities-coming-attacks": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.blufftontoday.com/press-release/story/53226/robosizeme-raises-2m-seed-round-led-by-seedtwo-capital-to-bring-ai-workflow-automation-to-the-global-hotel-industry/": {
+    "valid": true,
+    "company": "RobosizeME",
+    "amount_str": "$2M",
+    "website": "https://www.robosize.me",
+    "linkedin_url": "https://linkedin.com/company/robosize-me",
+    "founder_name": "Roger Sholanki",
+    "founder_linkedin_url": "https://linkedin.com/in/sholanki",
+    "contact_email": "jane@framer.com",
+    "twitter_url": ""
+  },
+  "https://www.wamda.com/2026/04/lola-closes-3-million-seed-scale-gcc": {
+    "valid": true,
+    "company": "Lola",
+    "amount_str": "$3 m",
+    "website": "https://lolayoung.lnk.to",
+    "linkedin_url": "https://linkedin.com/company/linkfire",
+    "founder_name": "Founding Partner and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/getlinkfire"
+  },
+  "https://www.finsmes.com/2026/04/subbyx-closes-series-a-financing.html": {
+    "valid": false
+  },
+  "https://techfundingnews.com/noreja-1-1m-seed-genai-process-mining-pitch-deck/": {
+    "valid": false
+  },
+  "https://todayswillsandprobate.co.uk/strategic-adoption-of-ai-is-a-question-of-how-not-if-for-law-firm-leaders/": {
+    "valid": false
+  },
+  "https://nordic9.com/news/instepai-raised-900000-in-pre-seed-funding-led-by-fuel-ventures-with-participation-from-angel-investors/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/quointelligence-7-3m-series-a-nis2-dora-threat-intelligence/": {
+    "valid": false
+  },
+  "https://www.electronicsforyou.biz/industry-buzz/early-stage-deeptech-startups-set-to-gain-from-startup-league-2026/": {
+    "valid": false
+  },
+  "http://wamda.com/2026/04/lola-closes-3-million-seed-scale-gcc": {
+    "valid": true,
+    "company": "Lola",
+    "amount_str": "$3 m",
+    "website": "https://lolayoung.lnk.to",
+    "linkedin_url": "https://linkedin.com/company/linkfire",
+    "founder_name": "Founding Partner and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/getlinkfire"
+  },
+  "https://cryptonews.net/news/finance/32767712/": {
+    "valid": false
+  },
+  "https://pulse2.com/iridius-8-6-million-seed-raised-to-build-compliance-by-design-ai-platform-for-regulated-enterprise-workflows/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wp.me/pp5wj-1Bl7",
+    "linkedin_url": "https://linkedin.com/company/pulse2news",
+    "founder_name": "Mike Kropp",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/pulse2news"
+  },
+  "https://inforcapital.com/news/10x-science-48-million-raised-to-build-ai-platform-for-molecular-protein-characterization/": {
+    "valid": true,
+    "company": "Protein Analysis Startup 10x Science",
+    "amount_str": "$4.8M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Civilization Ventures",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://entarabi.com/en/2026/04/77-of-founders-in-saudi-arabia-are-considering-ipos/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "of surveyed",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
