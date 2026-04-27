@@ -1,8 +1,78 @@
 {
-  "generated_at": "2026-04-27T10:08:51.056348Z",
-  "count": 21,
-  "enriched_count": 17,
+  "generated_at": "2026-04-27T13:23:53.221134Z",
+  "count": 23,
+  "enriched_count": 20,
   "articles": [
+    {
+      "source": "tech.eu",
+      "title": "Qendra gets \u20ac162K to scale quantum computing systems",
+      "article_url": "https://tech.eu/2026/04/27/qendra-gets-eur162k-to-scale-quantum-computing-systems/",
+      "company": "Qendra",
+      "amount_str": "\u20ac162K",
+      "pub_date": "2026-04-27T11:30:00Z",
+      "website": "https://qendra.tech",
+      "linkedin_url": "https://linkedin.com/company/qendra",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "user@domain.com",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "DOJO AI Announces $6M in Funding to Power Agentic Marketing Platform, Transforming ...",
+      "article_url": "https://theaiinsider.tech/2026/04/27/dojo-ai-announces-6m-in-funding-to-power-agentic-marketing-platform-transforming-data-into-business-impact/",
+      "company": "DOJO AI",
+      "amount_str": "$6M",
+      "pub_date": "2026-04-27T11:18:56Z",
+      "website": "https://www.dojoai.io",
+      "linkedin_url": "https://linkedin.com/company/dojo-marketing",
+      "founder_name": "said DOJO AI",
+      "founder_linkedin_url": "",
+      "contact_email": "user@domain.com",
+      "twitter_url": ""
+    },
+    {
+      "source": "tech.eu",
+      "title": "Spacetech investor Seraphim Space targets \u00a3350M raise",
+      "article_url": "https://tech.eu/2026/04/27/spacetech-investor-seraphim-space-targets-350m-raise/",
+      "company": "Spacetech investor Seraphim Space targets \u00a3350M",
+      "amount_str": "",
+      "pub_date": "2026-04-27T11:15:00Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "SiliconAngle",
+      "title": "Quantum Art raises $140M to scale quantum computing with a unique \u2018multicore\u2019 architecture",
+      "article_url": "https://siliconangle.com/2026/04/27/quantum-art-raises-140m-scale-quantum-computing-unique-multicore-architecture/",
+      "company": "Quantum Art",
+      "amount_str": "$140M",
+      "pub_date": "2026-04-27T11:00:27Z",
+      "website": "https://www.quantum-art.tech",
+      "linkedin_url": "https://linkedin.com/company/quantum-art-tech",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "info@quantum-art.tech",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Lola closes $3 million seed to scale across GCC - Wamda",
+      "article_url": "https://www.wamda.com/2026/04/lola-closes-3-million-seed-scale-gcc",
+      "company": "Lola",
+      "amount_str": "$3 m",
+      "pub_date": "2026-04-27T10:02:29Z",
+      "website": "https://lolayoung.lnk.to",
+      "linkedin_url": "https://linkedin.com/company/linkfire",
+      "founder_name": "Founding Partner and",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/getlinkfire"
+    },
     {
       "source": "tech.eu",
       "title": "German robotics startup Sereact raises $110M",
@@ -16,6 +86,20 @@
       "founder_linkedin_url": "",
       "contact_email": "contact@timesofai.com",
       "twitter_url": "https://x.com/TimesOfAI_"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Crypto Venture Funding Drops 86% Weekly as Large Deals Fade - TokenPost",
+      "article_url": "https://www.tokenpost.com/news/business/20119",
+      "company": "Hata",
+      "amount_str": "$8 m",
+      "pub_date": "2026-04-27T09:22:47Z",
+      "website": "https://www.office-augusta.com",
+      "linkedin_url": "https://linkedin.com/company/hataglobal",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
     },
     {
       "source": "tech.eu",
@@ -32,6 +116,20 @@
       "twitter_url": ""
     },
     {
+      "source": "Google Alerts",
+      "title": "Cube bags $3.7m to better track ecommerce shelves, go global - Tech in Asia",
+      "article_url": "https://www.techinasia.com/cube-bags-37m-track-ecommerce-shelves-global",
+      "company": "Cube",
+      "amount_str": "$3.7m",
+      "pub_date": "2026-04-27T07:33:47Z",
+      "website": "https://www.cube.eu",
+      "linkedin_url": "https://linkedin.com/company/cube-global",
+      "founder_name": "Simon Torring",
+      "founder_linkedin_url": "https://linkedin.com/in/simontoerring",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
       "source": "tech.eu",
       "title": "Atech raises Pre-Seed to unlock a new era of Physical AI builders with the &quot;Lovable for hardware&quot;",
       "article_url": "https://tech.eu/2026/04/27/atech-raises-pre-seed-to-unlock-the-next-wave-of-physical-ai-builders/",
@@ -44,20 +142,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Lola closes $3 million seed to scale across GCC - Wamda",
-      "article_url": "https://www.wamda.com/2026/04/lola-closes-3-million-seed-scale-gcc",
-      "company": "Lola",
-      "amount_str": "$3 m",
-      "pub_date": "2026-04-27T04:02:22Z",
-      "website": "https://lolayoung.lnk.to",
-      "linkedin_url": "https://linkedin.com/company/linkfire",
-      "founder_name": "Founding Partner and",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/getlinkfire"
     },
     {
       "source": "Google Alerts",
@@ -144,34 +228,6 @@
       "twitter_url": "https://x.com/BubbleRobotics"
     },
     {
-      "source": "Google Alerts",
-      "title": "A startup with a bankrupt fintech CEO and a president's son wants to build America's robot army",
-      "article_url": "https://thenextweb.com/news/foundation-humanoid-robot-soldiers-pentagon",
-      "company": "Foundation Future Industries",
-      "amount_str": "$24 m",
-      "pub_date": "2026-04-26T12:51:02Z",
-      "website": "https://techbullion.com",
-      "linkedin_url": "",
-      "founder_name": "bankrupt fintech",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Two Black Yale Students Raise $5.1M To Build AI Networking Platform Series - MSN",
-      "article_url": "https://www.msn.com/en-us/money/other/two-black-yale-students-raise-5-1m-to-build-ai-networking-platform-series/ar-AA21IipH",
-      "company": "Two Black Yale Students",
-      "amount_str": "$5.1M",
-      "pub_date": "2026-04-26T07:37:26Z",
-      "website": "https://www.wshu.org",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/wshupublicradio"
-    },
-    {
       "source": "tech.eu",
       "title": "Verda raises $117M, Aleph Alpha to be acquired, and solving the quantum bottleneck",
       "article_url": "https://tech.eu/2026/04/24/verda-raises-117m-aleph-alpha-to-be-acquired-and-solving-the-quantum-bottleneck/",
@@ -242,20 +298,6 @@
       "twitter_url": ""
     },
     {
-      "source": "SiliconAngle",
-      "title": "Omni raises $120M round for its AI analytics platform",
-      "article_url": "https://siliconangle.com/2026/04/23/omni-raises-120m-round-backed-gv-ai-analytics-platform/",
-      "company": "Omni",
-      "amount_str": "$120M",
-      "pub_date": "2026-04-23T20:13:14Z",
-      "website": "https://omni.co/blog/omni-series-c-funding",
-      "linkedin_url": "https://linkedin.com/company/exploreomni",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "colin@omni.co",
-      "twitter_url": "https://x.com/Omni"
-    },
-    {
       "source": "tech.eu",
       "title": "TheStorage raises \u20ac3.6M to scale industrial thermal energy storage",
       "article_url": "https://tech.eu/2026/04/23/thestorage-raises-eur36m-to-scale-industrial-thermal-energy-storage/",
@@ -278,20 +320,6 @@
       "pub_date": "2026-04-23T08:00:00Z",
       "website": "https://app.cloudsmith.com",
       "linkedin_url": "https://linkedin.com/company/cloudsmith",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "tech.eu",
-      "title": "Wenite secures \u20ac1.8 million to power the future of data-driven HR",
-      "article_url": "https://tech.eu/2026/04/23/wenite-secures-eur18-million-to-power-the-future-of-data-driven-hr/",
-      "company": "Wenite",
-      "amount_str": "\u20ac1.8 m",
-      "pub_date": "2026-04-23T07:24:23Z",
-      "website": "https://www.wenite.io",
-      "linkedin_url": "https://linkedin.com/company/wenite",
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",

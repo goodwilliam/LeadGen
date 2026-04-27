@@ -46619,5 +46619,161 @@
   },
   "https://www.prnewswire.com/news-releases/eose-deadline-eose-investors-have-opportunity-to-lead-eos-energy-enterprises-inc-securities-fraud-lawsuit-302753872.html": {
     "valid": false
+  },
+  "https://venturebeat.com/data/rag-precision-tuning-can-quietly-cut-retrieval-accuracy-by-40-putting-agentic-pipelines-at-risk": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/fintech/kashable-secures-60m-seriesc-goldman-sachs/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/27/vinted-hits-eur8b-valuation-as-eqt-leads-eur880m-secondary-share-sale/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/27/qendra-gets-eur162k-to-scale-quantum-computing-systems/": {
+    "valid": true,
+    "company": "Qendra",
+    "amount_str": "\u20ac162K",
+    "website": "https://qendra.tech",
+    "linkedin_url": "https://linkedin.com/company/qendra",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "user@domain.com",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/27/spacetech-investor-seraphim-space-targets-350m-raise/": {
+    "valid": true,
+    "company": "Spacetech investor Seraphim Space targets \u00a3350M",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/04/27/quantum-art-raises-140m-scale-quantum-computing-unique-multicore-architecture/": {
+    "valid": true,
+    "company": "Quantum Art",
+    "amount_str": "$140M",
+    "website": "https://www.quantum-art.tech",
+    "linkedin_url": "https://linkedin.com/company/quantum-art-tech",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@quantum-art.tech",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/04/atech-raises-e681k-with-lovable-backing-to-make-hardware-prototyping-more-accessible/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/04/27/dojo-ai-announces-6m-in-funding-to-power-agentic-marketing-platform-transforming-data-into-business-impact/": {
+    "valid": true,
+    "company": "DOJO AI",
+    "amount_str": "$6M",
+    "website": "https://www.dojoai.io",
+    "linkedin_url": "https://linkedin.com/company/dojo-marketing",
+    "founder_name": "said DOJO AI",
+    "founder_linkedin_url": "",
+    "contact_email": "user@domain.com",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/04/cambridges-plaquetec-raises-e4-2-million-to-advance-precision-medicine-for-cardiovascular-disease/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/andreessen-horowitz-co-leads-seguras-8m-round-to-use-whatsapp-for-insurance-distribution/": {
+    "valid": false
+  },
+  "https://finance.yahoo.com/sectors/technology/articles/demand-rises-id-verification-amid-091022467.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https:&#x2F;&#x2F;www.yahoo.com&#x2F;",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.tokenpost.com/news/business/20119": {
+    "valid": true,
+    "company": "Hata",
+    "amount_str": "$8 m",
+    "website": "https://www.office-augusta.com",
+    "linkedin_url": "https://linkedin.com/company/hataglobal",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thenextweb.com/news/atech-pre-seed-hardware-vibe-engineering-lovable": {
+    "valid": true,
+    "company": "Atech",
+    "amount_str": "",
+    "website": "https://atech.com",
+    "linkedin_url": "https://linkedin.com/company/atech",
+    "founder_name": "from the",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/seraphim-space-investment-trust-350m-c-share-raise-spacetech/": {
+    "valid": false
+  },
+  "https://www.azcentral.com/press-release/story/62776/oist-spin-out-qubitcore-raises-jpy-1-53b-for-ion-trap-quantum-computing/": {
+    "valid": false
+  },
+  "https://www.crowdfundinsider.com/2026/04/275385-dojo-ai-announces-6m-seed-round/": {
+    "valid": true,
+    "company": "DOJO AI",
+    "amount_str": "$6M",
+    "website": "https://www.dojoai.io",
+    "linkedin_url": "https://linkedin.com/company/dojo-marketing",
+    "founder_name": "said DOJO AI",
+    "founder_linkedin_url": "",
+    "contact_email": "user@domain.com",
+    "twitter_url": ""
+  },
+  "https://www.calcalistech.com/ctechnews/article/bket99h6wx": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://newmedia.calcalist.co.il/ctech/testimonials/index.html",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "judith.hoffmann@calcalist.co.il",
+    "twitter_url": ""
+  },
+  "https://www.techinasia.com/cube-bags-37m-track-ecommerce-shelves-global": {
+    "valid": true,
+    "company": "Cube",
+    "amount_str": "$3.7m",
+    "website": "https://www.cube.eu",
+    "linkedin_url": "https://linkedin.com/company/cube-global",
+    "founder_name": "Simon Torring",
+    "founder_linkedin_url": "https://linkedin.com/in/simontoerring",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.crowdfundinsider.com/tag/dojo-ai/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.cxodigitalpulse.com/tradeweb-names-shreya-hegde-as-vice-president-cybersecurity-iam/": {
+    "valid": false
   }
 }
