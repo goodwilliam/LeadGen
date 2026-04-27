@@ -46339,5 +46339,117 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/smci-investors-have-opportunity-to-lead-super-micro-computer-inc-securities-fraud-lawsuit-302753396.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/elliott-management-releases-presentation-on-daikin-industries-ltd-302753785.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/luxor-expands-luxos-to-microbt-whatsminer-and-microbt-intends-for-a-strategic-investment-302753797.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/nasdaq-gemi-kessler-topaz-meltzer--check-llp-announces-the-filing-of-a-securities-fraud-class-action-lawsuit-against-gemini-space-station-inc-gemi-302753424.html": {
+    "valid": false
+  },
+  "https://indianstartupnews.com/funding/indian-startups-raised-over-47-million-from-april-20-to-april-25-2026-coral-tops-the-list-11769273": {
+    "valid": true,
+    "company": "Lightfury Games",
+    "amount_str": "$11 m",
+    "website": "https://www.lightfurygames.com",
+    "linkedin_url": "https://linkedin.com/company/lightfury-games",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/karan-shroff-33572564",
+    "contact_email": "communications@lightfurygames.com",
+    "twitter_url": "https://x.com/LightFuryGames"
+  },
+  "https://www.msn.com/en-us/money/companies/debbie-wants-to-pay-you-cash-for-saving-money-not-spending-it/ar-AA20NRRF?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-t": {
+    "valid": false
+  },
+  "https://nextunicorn.ventures/sierra-expands-ai-portfolio-with-acquisition-of-fragment/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "Bret Taylor in early",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/rickspair_seapoint-75-million-seed-round-raised-activity-7454185092727508992-t2Zg": {
+    "valid": false
+  },
+  "https://inforcapital.com/companies/stendr/": {
+    "valid": false
+  },
+  "https://www.facebook.com/pulse2news/posts/bubble-robotics-5-million-pre-seed-round-raised-to-build-autonomous-underwater-r/1645407194252970/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://vctavern.com/vfx-ai-raises-1m-pre-seed-to-launch-ai-native-video-platform-streamlining-creative-workflows/": {
+    "valid": true,
+    "company": "VFX AI",
+    "amount_str": "$1M",
+    "website": "https://www.vfxai.com",
+    "linkedin_url": "https://linkedin.com/company/vfx-ai-inc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/vfxai_inc"
+  },
+  "https://www.thevectorscale.com/blog/ultimate-guide-raising-pre-seed-funding-2026": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Fundraising Checklist\n\nMost",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupfortune.com/samsung-chip-workers-want-15-of-ai-profits-and-are-ready-to-strike-for-it/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://vctavern.com/mychatbot-secures-500000-seed-funding-led-by-smrk-to-expand-ai-customer-engagement-platform/": {
+    "valid": false
+  },
+  "https://startupfortune.com/wisconsin-forces-data-centers-to-pay-their-own-energy-bills-and-other-states-are-watching/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-in/money/news/craftifai-raises-3-million-from-ankur-capital-others/ar-AA1Wwj8M?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-c": {
+    "valid": true,
+    "company": "CraftifAI",
+    "amount_str": "$3 m",
+    "website": "https://craftifai.com",
+    "linkedin_url": "https://linkedin.com/company/craftifai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@craftifai.com",
+    "twitter_url": "https://x.com/craftifai"
   }
 }

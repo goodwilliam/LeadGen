@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-04-26T20:32:50.206111Z",
-  "count": 18,
-  "enriched_count": 14,
+  "generated_at": "2026-04-27T02:02:55.047861Z",
+  "count": 21,
+  "enriched_count": 17,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Indian startups raised over $47 million from April 20 to April 25, 2026; Coral tops the list",
+      "article_url": "https://indianstartupnews.com/funding/indian-startups-raised-over-47-million-from-april-20-to-april-25-2026-coral-tops-the-list-11769273",
+      "company": "Lightfury Games",
+      "amount_str": "$11 m",
+      "pub_date": "2026-04-26T23:29:35Z",
+      "website": "https://www.lightfurygames.com",
+      "linkedin_url": "https://linkedin.com/company/lightfury-games",
+      "founder_name": "",
+      "founder_linkedin_url": "https://linkedin.com/in/karan-shroff-33572564",
+      "contact_email": "communications@lightfurygames.com",
+      "twitter_url": "https://x.com/LightFuryGames"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "VFX AI Raises $1M Pre\u2011Seed to Launch AI\u2011Native Video Platform Streamlining Creative Workflows",
+      "article_url": "https://vctavern.com/vfx-ai-raises-1m-pre-seed-to-launch-ai-native-video-platform-streamlining-creative-workflows/",
+      "company": "VFX AI",
+      "amount_str": "$1M",
+      "pub_date": "2026-04-26T18:22:18Z",
+      "website": "https://www.vfxai.com",
+      "linkedin_url": "https://linkedin.com/company/vfx-ai-inc",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/vfxai_inc"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "CraftifAI raises $3 million from Ankur Capital, others - MSN",
+      "article_url": "https://www.msn.com/en-in/money/news/craftifai-raises-3-million-from-ankur-capital-others/ar-AA1Wwj8M?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-c",
+      "company": "CraftifAI",
+      "amount_str": "$3 m",
+      "pub_date": "2026-04-26T16:48:56Z",
+      "website": "https://craftifai.com",
+      "linkedin_url": "https://linkedin.com/company/craftifai",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "hello@craftifai.com",
+      "twitter_url": "https://x.com/craftifai"
+    },
     {
       "source": "Google Alerts",
       "title": "Bubble Robotics: $5 Million Pre-Seed Round Raised To Build Autonomous Underwater ... - Pulse 2.0",
