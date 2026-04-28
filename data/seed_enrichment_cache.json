@@ -48014,5 +48014,288 @@
   },
   "https://www.instagram.com/p/DXqc23vjpJr/": {
     "valid": false
+  },
+  "https://www.geekwire.com/2026/seattles-sniffies-lands-100m-investment-from-match-group-in-major-bet-on-sex-positive-tech/": {
+    "valid": false
+  },
+  "https://www.businesswire.com/news/home/20260427693973/en/Fermeate-Raises-%242M-Seed-to-Improve-Fermentation-with-Light": {
+    "valid": true,
+    "company": "Fermeate",
+    "amount_str": "$2M",
+    "website": "https://www.fermeate.com",
+    "linkedin_url": "https://linkedin.com/company/fermeate",
+    "founder_name": "said Kevin Xu",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fortune.com/2026/04/28/vinod-khosla-says-elon-musk-wanted-to-be-openai-ceo-sam-altman-trial/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cookielaw.org/consent/906dc33b-1fc3-4b2c-a324-8bc0b7db9050/OtAutoBlock.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.capitalbrief.com/briefing/blackbird-leads-usd10m-seed-round-in-fintech-marloo-6cfe3b13-6e73-4660-b528-4651c517c420/": {
+    "valid": false
+  },
+  "https://x.com/FortuneMagazine/status/2049156826638307526": {
+    "valid": true,
+    "company": "AI-powered recruiting startup Dex",
+    "amount_str": "$5.3 m",
+    "website": "https://www.msn.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.calcalistech.com/ctechnews/article/b1dsxqr6zl": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://newmedia.calcalist.co.il/ctech/testimonials/index.html",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "judith.hoffmann@calcalist.co.il",
+    "twitter_url": ""
+  },
+  "https://fortune.com/2026/04/28/exclusive-dex-ai-powered-recruiting-startup-raises-seed-round-notion-capital/": {
+    "valid": true,
+    "company": "AI-powered recruiting startup Dex",
+    "amount_str": "$5.3 m",
+    "website": "https://www.msn.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/04/stockholms-redpine-raises-e6-8-million-to-unlock-licensed-premium-data-for-ai-agents/": {
+    "valid": false
+  },
+  "https://www.healthcare-brew.com/stories/ai-411-april-2026": {
+    "valid": false
+  },
+  "https://financialit.net/news/fundraising-news/tapaya-raises-eu1m-pre-seed-turn-any-device-payment-terminal": {
+    "valid": true,
+    "company": "Tapaya",
+    "amount_str": "\u20ac1M",
+    "website": "https://www.tapaya.com",
+    "linkedin_url": "https://linkedin.com/company/tapaya",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "https://linkedin.com/in/lauradordova",
+    "contact_email": "",
+    "twitter_url": "https://x.com/tapayadot"
+  },
+  "https://finance.yahoo.com/markets/crypto/articles/exchange-startup-liquid-raises-18-120000483.html": {
+    "valid": true,
+    "company": "Exchange startup Liquid",
+    "amount_str": "$18 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/blackbird-leads-10m-round-in-marloo-to-free-financial-advisers-from-paperwork-using-ai/": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/birmingham/news/2026/04/28/skyfire-ai-closes-11m-seed-round.html": {
+    "valid": true,
+    "company": "Alabama AI startup",
+    "amount_str": "$11M",
+    "website": "https://www.bizjournals.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://houston.innovationmap.com/helix-earth-technologies-seed-2-2676821086.html": {
+    "valid": true,
+    "company": "Houston-based, NASA-founded cleantech startup",
+    "amount_str": "$12M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Helix Earth",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/dallas/news/2026/04/28/rogers-healy-focus-morrison-seger-venture-capital.html": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/04/28/liquid-instruments-series-c/": {
+    "valid": true,
+    "company": "Liquid Instruments",
+    "amount_str": "$50M",
+    "website": "https://liquidinstruments.com",
+    "linkedin_url": "https://linkedin.com/company/liquidinstruments",
+    "founder_name": "said Daniel Shaddock",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/liquidinstrmnts"
+  },
+  "https://www.theinformation.com/newsletters/ai-agenda/startup-founded-ex-nvidia-researcher-among-new-world-models-endeavors": {
+    "valid": false
+  },
+  "https://thepack.news/infinite-machine-launches-olto-nationwide-a-new-kind-of-electric-urban-ride/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/redpine-raises-e6-8m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.eweek.com/news/openai-ai-first-smartphone-ai-agents/": {
+    "valid": false
+  },
+  "https://www.calibredefence.co.uk/us-navy-set-to-field-blackbeard-hypersonic-missile-on-f-a-18-by-2027/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.castelion.com/news/castelion-awarded-105m-us-navy-contract",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eweek.com/news/skye-ai-iphone-app-funding/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/series-ai-powered-social-network-155449573.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https:&#x2F;&#x2F;www.yahoo.com&#x2F;",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/dview-technologies-receives-investment-from-grand-view-research.html": {
+    "valid": false
+  },
+  "https://x.com/CeoVine/status/2049087891041919448": {
+    "valid": false
+  },
+  "https://www.reddit.com/r/StartUpIndia/comments/1sy4cn4/indias_next_consumer_ai_is_in_beta_and_were/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/sonibel-instruments-raises-1-6m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.chainbits.com/press-releases/bitmart-x-eat-trade-to-feed-competition-to-pay-out-4-4m-usdt-to-traders-in-may-2026/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/synctera-acquires-cable.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/cleandesign-receives-20m-growth-investment.html": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DXreAE1H2AG/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/plaquetec-raises-5m-in-funding.html": {
+    "valid": false
+  },
+  "https://phemex.com/news/article/ai-recruitment-startup-dex-raises-53m-in-seed-funding-led-by-notion-capital-76976": {
+    "valid": true,
+    "company": "Recruitment Startup Dex",
+    "amount_str": "$5.3M",
+    "website": "https://www.datagrom.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "user@domain.com",
+    "twitter_url": ""
+  },
+  "https://aibusiness.com/agentic-ai/nvidia-nemotron-3-nano-omni-powers-enterprise-ai-agents": {
+    "valid": false
+  },
+  "https://m.lookonchain.com/feeds/55092": {
+    "valid": false
+  },
+  "https://www.binance.com/en/square/post/317441724948642": {
+    "valid": false
+  },
+  "https://chargedevs.com/newswire/american-rare-earths-accelerates-wyoming-pilot-plant-project/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "http://www.elantas.com/e-mobility",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "pole-position@drive.eu",
+    "twitter_url": ""
+  },
+  "https://www.wolvessummit.com/24ventures-in-pre-seed-round-of-e430000/": {
+    "valid": false
+  },
+  "https://www.wolvessummit.com/grai-lands-e7-65-million-in-seed-funding/": {
+    "valid": false
+  },
+  "https://taxguru.in/corporate-law/startup-india-seed-fund-scheme-sisfs-2.html": {
+    "valid": false
+  },
+  "https://www.facebook.com/EUStartups/posts/redpine-a-stockholm-based-ai-startup-has-raised-68m-in-seed-funding-to-power-ai-/1381083347379604/": {
+    "valid": true,
+    "company": "Stockholm's Redpine",
+    "amount_str": "\u20ac6.8 m",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupmag.co.uk/funding/cnuic-2026-seed-funding": {
+    "valid": false
+  },
+  "https://www.startupmag.co.uk/funding/cerca-magnetics-2026-seed-funding/": {
+    "valid": false
+  },
+  "https://www.startupmag.co.uk/funding/marloo-2026-seed-funding": {
+    "valid": false
+  },
+  "https://www.startupmag.co.uk/funding/plaquetec-2026-seed-funding/": {
+    "valid": false
+  },
+  "https://www.calcalistech.com/ctechnews/article/sjht00x0awx": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://newmedia.calcalist.co.il/ctech/testimonials/index.html",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "judith.hoffmann@calcalist.co.il",
+    "twitter_url": ""
+  },
+  "https://www.morningstar.com/news/pr-newswire/20260428ny38698/247-trading-platform-liquid-closes-18-million-funding-round": {
+    "valid": false
+  },
+  "https://aibusiness.com/generative-ai/record-1-1b-seed-funding-reinforcement-learning-startup": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/242-attendees-gather-as-student-startups-compete-for-27-000-in-seed-capital-at-biola-university-302755744.html": {
+    "valid": false
   }
 }
