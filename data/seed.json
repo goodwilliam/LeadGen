@@ -1,8 +1,78 @@
 {
-  "generated_at": "2026-04-28T10:09:15.898869Z",
-  "count": 23,
-  "enriched_count": 15,
+  "generated_at": "2026-04-28T13:48:42.787179Z",
+  "count": 25,
+  "enriched_count": 17,
   "articles": [
+    {
+      "source": "PR Newswire",
+      "title": "24/7 Trading Platform, Liquid, Closes $18 Million Funding Round",
+      "article_url": "https://www.prnewswire.com/news-releases/247-trading-platform-liquid-closes-18-million-funding-round-302754621.html",
+      "company": "24/7 Trading Platform, Liquid",
+      "amount_str": "$18 M",
+      "pub_date": "2026-04-28T13:30:00Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "SiliconAngle",
+      "title": "Liquid Instruments lands $50M to scale AI-driven test and measurement platform",
+      "article_url": "https://siliconangle.com/2026/04/28/liquid-instruments-lands-50m-scale-ai-driven-test-measurement-platform/",
+      "company": "Liquid Instruments",
+      "amount_str": "$50M",
+      "pub_date": "2026-04-28T13:00:27Z",
+      "website": "https://liquidinstruments.com",
+      "linkedin_url": "https://linkedin.com/company/liquidinstruments",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/liquidinstrmnts"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "10x Science Raises $4.8M to Apply AI to the Bottleneck Slowing Drug Discovery - AI Insider",
+      "article_url": "https://theaiinsider.tech/2026/04/28/10x-science-raises-4-8m-to-apply-ai-to-the-bottleneck-slowing-drug-discovery/",
+      "company": "10x Science",
+      "amount_str": "$4.8M",
+      "pub_date": "2026-04-28T12:30:53Z",
+      "website": "https://www.ycombinator.com",
+      "linkedin_url": "https://linkedin.com/company/10xscience",
+      "founder_name": "and serial",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/ycombinator"
+    },
+    {
+      "source": "SiliconAngle",
+      "title": "SkyfireAI lands $11M to bring AI autonomy to public safety and defense drones",
+      "article_url": "https://siliconangle.com/2026/04/28/skyfireai-lands-11m-bring-ai-autonomy-public-safety-defense-drones/",
+      "company": "SkyfireAI",
+      "amount_str": "$11M",
+      "pub_date": "2026-04-28T12:00:19Z",
+      "website": "https://www.skyfireai.com",
+      "linkedin_url": "https://linkedin.com/company/skyfire-ai",
+      "founder_name": "",
+      "founder_linkedin_url": "https://linkedin.com/in/donmathis",
+      "contact_email": "info@skyfireai.com",
+      "twitter_url": "https://x.com/suricate"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Exclusive: HR tech startup Windmill raises $12M - Axios",
+      "article_url": "https://www.axios.com/pro/enterprise-software-deals/2026/04/28/hr-tech-windmill-performance-ai",
+      "company": "Windmill",
+      "amount_str": "$12 m",
+      "pub_date": "2026-04-28T11:25:28Z",
+      "website": "https://support.windmillair.com",
+      "linkedin_url": "https://linkedin.com/company/windmillair",
+      "founder_name": "seed and seed funding",
+      "founder_linkedin_url": "",
+      "contact_email": "support@windmillair.com",
+      "twitter_url": ""
+    },
     {
       "source": "tech.eu",
       "title": "Neutonic secures $6M at $60M valuation to grow retail and new markets",
@@ -47,20 +117,6 @@
     },
     {
       "source": "tech.eu",
-      "title": "Cnuic secures \u20ac3M pre-seed to unlock next-generation photonic chip production",
-      "article_url": "https://tech.eu/2026/04/28/cnuic-secures-eur3m-pre-seed-to-unlock-next-generation-photonic-chip-production/",
-      "company": "Cnuic",
-      "amount_str": "\u20ac3M",
-      "pub_date": "2026-04-28T07:00:00Z",
-      "website": "https://cnuic.com",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "tech.eu",
       "title": "Always Friday raises \u20ac1.05M to automate corporate event planning with AI agents",
       "article_url": "https://tech.eu/2026/04/28/always-friday-raises-eur105m-to-automate-corporate-event-planning-with-ai-agents/",
       "company": "Always Friday",
@@ -71,6 +127,20 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "email@company.com",
+      "twitter_url": ""
+    },
+    {
+      "source": "tech.eu",
+      "title": "Cnuic secures $3M pre-seed to unlock next-generation photonic chip production",
+      "article_url": "https://tech.eu/2026/04/28/cnuic-secures-eur3m-pre-seed-to-unlock-next-generation-photonic-chip-production/",
+      "company": "Cnuic",
+      "amount_str": "\u20ac3M",
+      "pub_date": "2026-04-28T07:00:00Z",
+      "website": "https://cnuic.com",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
       "twitter_url": ""
     },
     {
@@ -116,20 +186,6 @@
       "twitter_url": ""
     },
     {
-      "source": "SiliconAngle",
-      "title": "Altair Semiconductor raises $50M after completing spinoff from Sony",
-      "article_url": "https://siliconangle.com/2026/04/27/altair-semiconductor-raises-50m-completing-spinoff-sony/",
-      "company": "Altair Semiconductor",
-      "amount_str": "$50M",
-      "pub_date": "2026-04-28T01:07:45Z",
-      "website": "https://www.altairsemi.com",
-      "linkedin_url": "https://linkedin.com/company/altair-semicon",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/AltairSemi"
-    },
-    {
       "source": "Google Alerts",
       "title": "Ineffable Intelligence, founded by David Silver, raises $1.1B seed - NewsBytes",
       "article_url": "https://www.newsbytesapp.com/news/business/ineffable-intelligence-founded-by-david-silver-raises-11b-seed/tldr",
@@ -153,20 +209,6 @@
       "website": "https://www.msn.com",
       "linkedin_url": "",
       "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Former Meta AI chief's startup raises $1.03B, appoints CEO - MSN",
-      "article_url": "https://www.msn.com/en-us/money/other/former-meta-ai-chiefs-startup-raises-103b-appoints-ceo/ar-AA1XTuuy?gemSnapshotKey=GM6637F6B7-snapshot-0&uxmode=ruby&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-c",
-      "company": "Meta AI chief's startup",
-      "amount_str": "$1.03B",
-      "pub_date": "2026-04-27T22:10:12Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "URL Source",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
@@ -309,20 +351,6 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "tech.eu",
-      "title": "Verda raises $117M, Aleph Alpha to be acquired, and solving the quantum bottleneck",
-      "article_url": "https://tech.eu/2026/04/24/verda-raises-117m-aleph-alpha-to-be-acquired-and-solving-the-quantum-bottleneck/",
-      "company": "Verda",
-      "amount_str": "$117M",
-      "pub_date": "2026-04-24T14:22:23Z",
-      "website": "https://verdahealthcare.com",
-      "linkedin_url": "https://linkedin.com/company/verda-cloud",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "info@VerdaHealthcare.com",
       "twitter_url": ""
     }
   ]
