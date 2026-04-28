@@ -47372,5 +47372,260 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://venturebeat.com/technology/microsoft-and-openai-gut-their-exclusive-deal-freeing-openai-to-sell-on-aws-and-google-cloud": {
+    "valid": false
+  },
+  "https://venturebeat.com/technology/open-source-xiaomi-mimo-v2-5-and-v2-5-pro-are-among-the-most-efficient-and-affordable-at-agentic-claw-tasks": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/27/ineffable-intelligence-raises-1-1b-5-1b-valuation-build-ai-superlearner/": {
+    "valid": true,
+    "company": "Ineffable Intelligence",
+    "amount_str": "$1.1B",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/ineffable-intelligence",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/04/27/altair-semiconductor-raises-50m-completing-spinoff-sony/": {
+    "valid": true,
+    "company": "Altair Semiconductor",
+    "amount_str": "$50M",
+    "website": "https://www.altairsemi.com",
+    "linkedin_url": "https://linkedin.com/company/altair-semicon",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/AltairSemi"
+  },
+  "https://siliconangle.com/2026/04/27/openai-microsoft-revise-terms-ai-partnership/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/27/sereact-raises-110m-scale-ai-robotic-brain-expand-us/": {
+    "valid": true,
+    "company": "Sereact",
+    "amount_str": "$110M",
+    "website": "https://sereact.ai",
+    "linkedin_url": "https://linkedin.com/company/sereact",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/SereactAI"
+  },
+  "https://www.prnewswire.com/news-releases/gossamer-bio-inc-goss-faces-securities-class-action-amid-80-drop-on-phase-3-prosera-trial-failure-hagens-berman-302754912.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/lkq-stockholder-alert-robbins-llp-reminds-investors-of-the-class-action-lawsuit-filed-against-lkq-corporation-302754921.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rgc-stockholder-alert-robbins-llp-reminds-investors-of-the-class-action-lawsuit-against-regencell-bioscience-holdings-limited-302754919.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/ibrx-shareholder-update-immunitybio-ibrx-sued-after-fda-flags-misleading-cancer-claims-shares-plunge-21-2b-market-cap-lost----hagens-berman-302754913.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/odd-2-week-deadline-alert-oddity-tech-odd-investors-with-substantial-losses-have-opportunity-to-lead-investor-class-action-hagens-berman-302754914.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/tcom-2-week-deadline-alert-tripcom-tcom-facing-securities-class-action-after-ai-pricing-controversy-and-anti-monopoly-probe-sends-shares-tumbling----hagens-berman-302754904.html": {
+    "valid": false
+  },
+  "https://www.newsbytesapp.com/news/business/ineffable-intelligence-founded-by-david-silver-raises-11b-seed/tldr": {
+    "valid": true,
+    "company": "Ineffable Intelligence, founded by David Silver",
+    "amount_str": "$1.1B",
+    "website": "https://aiproductivity.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-us/news/insight/david-silver-s-ai-startup-raises-1-1b-at-5-1b-valuation/gm-GM1A87D6E4?gemSnapshotKey=GM1A87D6E4-snapshot-1&uxmode=ruby": {
+    "valid": true,
+    "company": "David Silver's AI startup",
+    "amount_str": "$1.1B",
+    "website": "https://www.msn.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/SebJohnsonUK/status/2048785742395281501": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/Chirp-Regular.80fda27a.woff2",
+    "linkedin_url": "",
+    "founder_name": "How many american",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/MunshiPremChnd/status/2048802366166626578": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/Chirp-Regular.80fda27a.woff2",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://eu.36kr.com/en/p/3785686205930759": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://mp.weixin.qq.com/s/7Thg5WLrGRmA-H-uj_5JSg",
+    "linkedin_url": "",
+    "founder_name": "of Microsoft",
+    "founder_linkedin_url": "",
+    "contact_email": "tech@ifeng.com",
+    "twitter_url": ""
+  },
+  "https://www.globalbankingandfinance.com/uk-based-ai-startup-ineffable-raises-1-1-billion-europes/": {
+    "valid": true,
+    "company": "UK-based AI startup Ineffable",
+    "amount_str": "$1.1 b",
+    "website": "https://www.msn.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.celebritynetworth.com/articles/entertainment-articles/edward-norton-is-quietly-an-extremely-successful-technology-investor-and-founder/": {
+    "valid": false
+  },
+  "https://ground.news/article/former-google-deepmind-researchers-ai-startup-raises-record-11-billion-seed-funding-to-pursue-superintelligence": {
+    "valid": true,
+    "company": "Google DeepMind researcher's AI startup",
+    "amount_str": "$1.1 b",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bebeez.eu/2026/04/27/bmw-and-pepsico-robotics-partner-sereact-raises-e93-million-series-b-to-scale-across-the-us/": {
+    "valid": false
+  },
+  "https://breakingthenews.net/Article/Oracle's-Project-Jupiter-to-power-data-center-with-fuel-cells/66158612": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/04/27/austrias-noreja-closes-e1-1-million-round-to-scale-ai-powered-process-intelligence-platform/": {
+    "valid": false
+  },
+  "https://finance.yahoo.com/sectors/technology/articles/uk-based-ai-startup-ineffable-173535743.html": {
+    "valid": true,
+    "company": "UK-based AI startup Ineffable",
+    "amount_str": "$1.1 b",
+    "website": "https://www.msn.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-us/news/technology/seattle-security-startup-led-by-husband-wife-duo-raises-8-4m/ar-AA1W3JKY?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-c": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.yahoo.com/ai/articles/world-largest-untapped-frontier-why-204000106.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://s.yimg.com/du/benji/benji-2.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/the-smart-money-is-buying-bitcoins-dip-heres-what-the-data-says-they-know/": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/founderstoday_serenity-power-raises-116m-pre-seed-to-activity-7454591115208404992-D6Ms": {
+    "valid": true,
+    "company": "Serenity Power",
+    "amount_str": "$1.16M",
+    "website": "https://www.serenity-power.com",
+    "linkedin_url": "https://linkedin.com/company/serenity-power",
+    "founder_name": "Silicon Valley",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@serenity-power.com",
+    "twitter_url": ""
+  },
+  "https://x.com/TFNBreakingNews/status/2048740463293956128": {
+    "valid": false
+  },
+  "https://www.gurufocus.com/news/8821201/ineffable-intelligence-secures-11-billion-in-seed-funding-a-european-record": {
+    "valid": true,
+    "company": "Ineffable Intelligence",
+    "amount_str": "$1.1 B",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/ineffable-intelligence",
+    "founder_name": "Buys after Price Drop",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-us/money/other/former-meta-ai-chiefs-startup-raises-103b-appoints-ceo/ar-AA1XTuuy?gemSnapshotKey=GM6637F6B7-snapshot-0&uxmode=ruby&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-c": {
+    "valid": true,
+    "company": "Meta AI chief's startup",
+    "amount_str": "$1.03B",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "URL Source",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://phemex.com/news/article/ai-startup-ineffable-intelligence-secures-11-billion-in-seed-funding-76714": {
+    "valid": true,
+    "company": "Ineffable Intelligence",
+    "amount_str": "$1.1 b",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/ineffable-intelligence",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.reddit.com/r/wallstreetbets/comments/1sxg0f9/former_google_deepmind_researchers_ai_startup/": {
+    "valid": true,
+    "company": "Google DeepMind researcher's AI startup",
+    "amount_str": "$1.1 b",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://mexicobusiness.news/finance/news/pulpos-raises-us5-million-led-dalus-capital-pos-expansion": {
+    "valid": false
+  },
+  "https://techfundingnews.com/amid-speculation-of-surpassing-openais-valuation-anthropic-to-land-10b-from-google/": {
+    "valid": false
+  },
+  "https://www.canadianmanufacturing.com/manufacturing/nanotess-secures-government-funding-to-adapt-its-catalytic-technology-for-defence-use-318278/": {
+    "valid": false
+  },
+  "https://www.fau.edu/science/news/18th-annual-business-pitch-competition-2026/": {
+    "valid": false
   }
 }
