@@ -1,22 +1,7 @@
 {
-  "generated_at": "2026-04-28T01:59:29Z",
+  "generated_at": "2026-04-28T08:06:43Z",
   "count": 26,
   "jobs": [
-    {
-      "id": 80391,
-      "title": "Lead Designer ",
-      "jobType": "Fulltime",
-      "location": "San Francisco, CA, US",
-      "roleType": "UI / UX",
-      "salary": "$160K - $250K",
-      "companyName": "Wefunder",
-      "companySlug": "wefunder",
-      "companyBatch": "W13",
-      "companyOneLiner": "We&#39;re Robinhood for pre-IPO startups. Everyone can invest $100.",
-      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/86fe89dc40132aeb8f280105ad161eb9c7281ebc.png",
-      "companyLastActiveAt": "14 days ago",
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D80391&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=503"
-    },
     {
       "id": 92790,
       "title": "Visual & Micro-Interaction Designer",
@@ -31,6 +16,21 @@
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/86fe89dc40132aeb8f280105ad161eb9c7281ebc.png",
       "companyLastActiveAt": "18 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92790&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=503"
+    },
+    {
+      "id": 80391,
+      "title": "Lead Designer ",
+      "jobType": "Fulltime",
+      "location": "San Francisco, CA, US",
+      "roleType": "UI / UX",
+      "salary": "$160K - $250K",
+      "companyName": "Wefunder",
+      "companySlug": "wefunder",
+      "companyBatch": "W13",
+      "companyOneLiner": "We&#39;re Robinhood for pre-IPO startups. Everyone can invest $100.",
+      "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/86fe89dc40132aeb8f280105ad161eb9c7281ebc.png",
+      "companyLastActiveAt": "15 days ago",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D80391&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=503"
     },
     {
       "id": 92948,
@@ -59,7 +59,7 @@
       "companyBatch": "W26",
       "companyOneLiner": "Startup legal work handled by elite lawyers & same-day turnaround",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/f76442626bb5dc33b9b6ae6b9ea6033dff2869f6.png",
-      "companyLastActiveAt": "3 days ago",
+      "companyLastActiveAt": "4 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D92984&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=31146"
     },
     {
@@ -254,7 +254,7 @@
       "companyBatch": "W24",
       "companyOneLiner": "A no-code platform for creating agents and automating workflows with\u2026",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/9fb7e0ce6656ba8369bfc7fdddd4235e6657221b.png",
-      "companyLastActiveAt": "2 days ago",
+      "companyLastActiveAt": "3 days ago",
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D93130&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29180"
     },
     {
@@ -273,19 +273,19 @@
       "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D93131&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29180"
     },
     {
-      "id": 89404,
-      "title": "Design Engineering Intern",
-      "jobType": "Intern",
-      "location": "Main Office - Toronto",
+      "id": 75335,
+      "title": "Agent+ Product Designer",
+      "jobType": "Fulltime",
+      "location": "Brazil (Remote) / Remote (US)",
       "roleType": "Web design",
-      "salary": "$35 - $50 CAD / hourly",
+      "salary": "$24K - $30K",
       "companyName": "Tempo",
       "companySlug": "tempo-2",
       "companyBatch": "S23",
       "companyOneLiner": "Visual Editor for React, powered by AI",
       "companyLogoUrl": "https://bookface-images.s3.amazonaws.com/small_logos/860f478b7cd2ea33eefb86e90c9c693abef2997f.png",
-      "companyLastActiveAt": "about 1 month ago",
-      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D89404&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29150"
+      "companyLastActiveAt": null,
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D75335&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29150"
     },
     {
       "id": 83825,
