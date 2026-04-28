@@ -47627,5 +47627,131 @@
   },
   "https://www.fau.edu/science/news/18th-annual-business-pitch-competition-2026/": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/04/27/drizzle-on-top-a-new-high-end-dog-food-brand-is-coming-for-the-1/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/04/27/indias-snabbit-closes-56m-round-as-investor-interest-heats-up-in-on-demand-home-services/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/28/from-bedside-decoration-to-daily-use-patronus-raises-eur11m-for-senior-safety/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/28/redpine-secures-eur68m-to-power-ai-with-premium-data/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/carb-x-awards-funding-to-adjane-to-advance-its-nomv-platform-derived-vaccine-for-the-prevention-of-gonorrhea-302752826.html": {
+    "valid": false
+  },
+  "https://en.wowtale.net/2026/04/28/233980/": {
+    "valid": true,
+    "company": "Tynapse",
+    "amount_str": "$3.17M",
+    "website": "https://www.tynapse.com",
+    "linkedin_url": "https://linkedin.com/company/tynapse",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@tynapse.ai",
+    "twitter_url": ""
+  },
+  "https://www.cnbc.com/2026/04/28/meta-google-big-tech-staff-ai-labs-investors.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://image.cnbcfm.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/TFNBreakingNews/status/2048732134421196979": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/Chirp-Regular.80fda27a.woff2",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://news.futunn.com/en/post/72157610/ineffable-founded-by-former-deepmind-researchers-has-completed-an-11": {
+    "valid": false
+  },
+  "http://www.aastocks.com/en/stocks/news/aafn-con/NOW.1520814/latest-news/AAFN": {
+    "valid": true,
+    "company": "Ex-Google DeepMind Executive's Startup",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://business20channel.tv/era-raises-11m-for-ai-gadget-infrastructure-in-2026-seed-rou-27-april-2026": {
+    "valid": true,
+    "company": "Era",
+    "amount_str": "$11M",
+    "website": "http://eratheliveexperience.com",
+    "linkedin_url": "https://linkedin.com/company/era-group-global",
+    "founder_name": "Caterina Fake",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ERAmusicoff"
+  },
+  "https://www.technology.org/2026/04/27/two-yale-seniors-raise-5-1m-to-build-an-ai-social-network-that-lives-inside-imessage/": {
+    "valid": true,
+    "company": "Two Yale Seniors",
+    "amount_str": "$5.1M",
+    "website": "https://yaledailynews.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startuphub.ai/ai-news/funding-round/2026/trifetch-raises-1-9m-for-clinic-automation": {
+    "valid": false
+  },
+  "https://sifted.eu/articles/zellify-funding-round-seed-project-europe": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://bsky.app/profile/sifted.eu",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "http://www.aastocks.com/en/usq/quote/stock-news-content.aspx?symbol=NVDA&id=NOW.1520814&source=AAFN": {
+    "valid": false
+  },
+  "https://www.gurufocus.com/news/8821500/ineffable-intelligence-secures-11-billion-seed-funding-valued-at-51-billion": {
+    "valid": true,
+    "company": "Ineffable Intelligence",
+    "amount_str": "$1.1 B",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/ineffable-intelligence",
+    "founder_name": "Buys after Price Drop",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/anantharamuavinash_former-google-deepmind-researchers-ai-startup-activity-7454640691822977024-UElX": {
+    "valid": true,
+    "company": "Google DeepMind researcher's AI startup",
+    "amount_str": "$1.1 b",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupbusiness.it/en/from-patient-to-pioneer-the-entrepreneur-revolutionising-organ-transplants/164716/": {
+    "valid": false
   }
 }
