@@ -47753,5 +47753,109 @@
   },
   "https://www.startupbusiness.it/en/from-patient-to-pioneer-the-entrepreneur-revolutionising-organ-transplants/164716/": {
     "valid": false
+  },
+  "https://tech.eu/2026/04/28/neutonic-secures-6m-at-60m-valuation-to-grow-retail-and-new-markets/": {
+    "valid": true,
+    "company": "Neutonic",
+    "amount_str": "$6M",
+    "website": "https://www.neutonic.com",
+    "linkedin_url": "https://linkedin.com/company/drinkneutonic",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/28/dehaze-raises-eur32m-for-ai-chronic-disease-detection/": {
+    "valid": true,
+    "company": "dehaze",
+    "amount_str": "\u20ac3.2M",
+    "website": "https://www.dehaze.de",
+    "linkedin_url": "https://linkedin.com/company/dehazeai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@dehaze.de",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://tech.eu/2026/04/28/tapaya-raises-eur1m-pre-seed-to-power-payments-on-any-device/": {
+    "valid": true,
+    "company": "Tapaya",
+    "amount_str": "\u20ac1M",
+    "website": "https://www.tapaya.com",
+    "linkedin_url": "https://linkedin.com/company/tapaya",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/tapayadot"
+  },
+  "https://tech.eu/2026/04/28/cnuic-secures-eur3m-pre-seed-to-unlock-next-generation-photonic-chip-production/": {
+    "valid": true,
+    "company": "Cnuic",
+    "amount_str": "\u20ac3M",
+    "website": "https://cnuic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/28/always-friday-raises-eur105m-to-automate-corporate-event-planning-with-ai-agents/": {
+    "valid": true,
+    "company": "Always Friday",
+    "amount_str": "\u20ac1.05M",
+    "website": "https://alwaysfriday.it",
+    "linkedin_url": "https://linkedin.com/company/alwaysfridayit",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "email@company.com",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/sowell-management-launches-cache-river-private-wealth-to-serve-growing-high-net-worth-market-302755076.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/west-to-participate-in-upcoming-investor-conferences-302754983.html": {
+    "valid": false
+  },
+  "https://www.einpresswire.com/article/908468848/clera-challenges-the-recruiting-industry-with-an-ai-talent-agent-that-represents-candidates": {
+    "valid": false
+  },
+  "https://techfundingnews.com/bosch-200m-venture-arm-20-startups-2030/": {
+    "valid": false
+  },
+  "https://thenextweb.com/news/redpine-raises-e6-8m-api-for-ai-agents": {
+    "valid": false
+  },
+  "https://en.wowtale.net/2026/04/28/233983/": {
+    "valid": true,
+    "company": "Searchdoc",
+    "amount_str": "$2.1M",
+    "website": "https://searchdoc.ai",
+    "linkedin_url": "https://linkedin.com/company/searchdoc",
+    "founder_name": "said Junsun Baek",
+    "founder_linkedin_url": "",
+    "contact_email": "support@searchdoc.ai",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/cnuic-technologies-raises-3m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/kunbitinuoye_two-yale-student-founders-have-raised-51-activity-7454544542009200642-SOPg": {
+    "valid": true,
+    "company": "Two Yale student founders have",
+    "amount_str": "$5.1 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Two Yale student",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/tapaya-1m-pre-seed-passion-capital-software-payment-terminals/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/david-silver-ineffable-intelligence-1-1bn-seed-europe-largest/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/otee-5-3m-seed-north-ventures-industrial-ai/": {
+    "valid": false
   }
 }
