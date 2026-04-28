@@ -48297,5 +48297,123 @@
   },
   "https://www.prnewswire.com/news-releases/242-attendees-gather-as-student-startups-compete-for-27-000-in-seed-capital-at-biola-university-302755744.html": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/04/28/match-group-invests-100-million-in-sniffies-a-cruising-app-for-gay-men/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/firstenergy-announces-first-quarter-2026-financial-results-reaffirms-guidance-and-capital-plan-to-deliver-value-to-customers-communities-and-investors-302756240.html": {
+    "valid": false
+  },
+  "https://www.crainscleveland.com/technology/ccl-top-ohio-vc-deals-q1-2026-20260428/": {
+    "valid": false
+  },
+  "https://mlq.ai/news/ex-deepmind-researcher-david-silvers-ineffable-intelligence-raises-record-11b-seed-funding/": {
+    "valid": true,
+    "company": "Ex-DeepMind Researcher David Silver's Ineffable Intelligence",
+    "amount_str": "$1.1B",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "impact charities through",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://vegconomist.com/investments-finance/montreal-cell-based-dairy-company-opalia-closes-3-2m-seed-round-commercial-pilots-already-underway/": {
+    "valid": true,
+    "company": "Montreal Cell-Based Dairy Company Opalia",
+    "amount_str": "$3.2M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://vegconomist.com/organisations-and-brands/fermeate/": {
+    "valid": false
+  },
+  "https://ffnews.com/newsarticle/funding/goldman-sachs-alternatives-announces-strategic-investment-in-kashable-leading-the-companys-series-c-equity-round/": {
+    "valid": true,
+    "company": "Goldman Sachs Alternatives",
+    "amount_str": "",
+    "website": "https://en.wikipedia.org",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/ineffable-intelligence-raises-1-1-billion-in-funding-at-5-1-billion-post-money-valuation.html": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/trifetch-raises-1-9m-pre-seed": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/marloo-raises-10m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://amp.axios.com/pro-rata-premium-first-look-8111059f-9a84-4cb9-903e-00ac6bea8967.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DXqxo3dE6wn/": {
+    "valid": true,
+    "company": "Workforce mobility platform Kovon",
+    "amount_str": "$250K",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://mercomcapital.com/greenyellow-secures-938-million-to-refinance-debt-and-fund-expansion/": {
+    "valid": false
+  },
+  "https://letsdatascience.com/news/students-pause-college-to-join-ai-startups-d5663a6b": {
+    "valid": false
+  },
+  "https://ventureburn.com/uk-ai-startup-ineffable-raises-1-1b-seed-round/": {
+    "valid": true,
+    "company": "Ineffable",
+    "amount_str": "$1.1B",
+    "website": "https://www.ineffablemusic.com",
+    "linkedin_url": "https://linkedin.com/company/ineffable-music-group",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "user@domain.com",
+    "twitter_url": ""
+  },
+  "https://m.economictimes.com/tech/funding/snabbit-raises-56-million-in-funding-from-susquehanna-others-home-cooks-next-on-plans/articleshow/130560519.cms": {
+    "valid": true,
+    "company": "Snabbit",
+    "amount_str": "$56 m",
+    "website": "https://www.wearesnabbit.com",
+    "linkedin_url": "https://linkedin.com/company/wearesnabbit",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/aayushagarwal2111",
+    "contact_email": "user@domain.com",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/ai-business_record-11b-seed-funding-for-reinforcement-activity-7454886758003122176-Ig-l": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/money/companies/former-google-deepmind-researcher-s-ai-startup-raises-record-1-1-billion-seed-funding-to-pursue-superintelligence/ar-AA21Q6Kc?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": true,
+    "company": "Google DeepMind researcher's AI startup",
+    "amount_str": "$1.1 b",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }

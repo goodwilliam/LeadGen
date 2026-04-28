@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-04-28T17:47:07.599896Z",
+  "generated_at": "2026-04-28T21:03:43.117121Z",
   "count": 21,
-  "enriched_count": 13,
+  "enriched_count": 14,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Workforce mobility platform Kovon raises $250K pre-seed led by TDV Partners funding ... - Instagram",
+      "article_url": "https://www.instagram.com/p/DXqxo3dE6wn/",
+      "company": "Workforce mobility platform Kovon",
+      "amount_str": "$250K",
+      "pub_date": "2026-04-28T19:09:48Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "UK AI Startup Ineffable Raises $1.1B Seed Round - Ventureburn",
+      "article_url": "https://ventureburn.com/uk-ai-startup-ineffable-raises-1-1b-seed-round/",
+      "company": "Ineffable",
+      "amount_str": "$1.1B",
+      "pub_date": "2026-04-28T17:45:42Z",
+      "website": "https://www.ineffablemusic.com",
+      "linkedin_url": "https://linkedin.com/company/ineffable-music-group",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "user@domain.com",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Fermeate Raises $2M Seed to Improve Fermentation with Light - Business Wire",
@@ -19,6 +47,20 @@
     },
     {
       "source": "Google Alerts",
+      "title": "Snabbit raises $56 million from Susquehanna VC, Mirae, others; valuation doubles to $350 million",
+      "article_url": "https://m.economictimes.com/tech/funding/snabbit-raises-56-million-in-funding-from-susquehanna-others-home-cooks-next-on-plans/articleshow/130560519.cms",
+      "company": "Snabbit",
+      "amount_str": "$56 m",
+      "pub_date": "2026-04-28T17:04:28Z",
+      "website": "https://www.wearesnabbit.com",
+      "linkedin_url": "https://linkedin.com/company/wearesnabbit",
+      "founder_name": "",
+      "founder_linkedin_url": "https://linkedin.com/in/aayushagarwal2111",
+      "contact_email": "user@domain.com",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
       "title": "AI Recruitment Startup Dex Raises $5.3M in Seed Funding Led by Notion Capital - Phemex",
       "article_url": "https://phemex.com/news/article/ai-recruitment-startup-dex-raises-53m-in-seed-funding-led-by-notion-capital-76976",
       "company": "Recruitment Startup Dex",
@@ -29,6 +71,20 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "user@domain.com",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Goldman Sachs Alternatives Announces Strategic Investment in Kashable ... - Fintech Finance",
+      "article_url": "https://ffnews.com/newsarticle/funding/goldman-sachs-alternatives-announces-strategic-investment-in-kashable-leading-the-companys-series-c-equity-round/",
+      "company": "Goldman Sachs Alternatives",
+      "amount_str": "",
+      "pub_date": "2026-04-28T15:59:18Z",
+      "website": "https://en.wikipedia.org",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
       "twitter_url": ""
     },
     {
@@ -74,20 +130,6 @@
       "twitter_url": ""
     },
     {
-      "source": "Google Alerts",
-      "title": "Stockholm's Redpine raises \u20ac6.8 million to unlock licensed premium data for AI agents | EU- Startups",
-      "article_url": "https://www.facebook.com/EUStartups/posts/redpine-a-stockholm-based-ai-startup-has-raised-68m-in-seed-funding-to-power-ai-/1381083347379604/",
-      "company": "Stockholm's Redpine",
-      "amount_str": "\u20ac6.8 m",
-      "pub_date": "2026-04-28T14:19:43Z",
-      "website": "",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
       "source": "SiliconAngle",
       "title": "Liquid Instruments lands $50M to scale AI-driven test and measurement platform",
       "article_url": "https://siliconangle.com/2026/04/28/liquid-instruments-lands-50m-scale-ai-driven-test-measurement-platform/",
@@ -100,20 +142,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": "https://x.com/liquidinstrmnts"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "10x Science Raises $4.8M to Apply AI to the Bottleneck Slowing Drug Discovery - AI Insider",
-      "article_url": "https://theaiinsider.tech/2026/04/28/10x-science-raises-4-8m-to-apply-ai-to-the-bottleneck-slowing-drug-discovery/",
-      "company": "10x Science",
-      "amount_str": "$4.8M",
-      "pub_date": "2026-04-28T12:30:53Z",
-      "website": "https://www.ycombinator.com",
-      "linkedin_url": "https://linkedin.com/company/10xscience",
-      "founder_name": "and serial",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/ycombinator"
     },
     {
       "source": "SiliconAngle",
@@ -187,40 +215,12 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Ineffable Intelligence, founded by David Silver, raises $1.1B seed - NewsBytes",
-      "article_url": "https://www.newsbytesapp.com/news/business/ineffable-intelligence-founded-by-david-silver-raises-11b-seed/tldr",
-      "company": "Ineffable Intelligence, founded by David Silver",
-      "amount_str": "$1.1B",
-      "pub_date": "2026-04-28T00:08:24Z",
-      "website": "https://aiproductivity.ai",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "David Silver's AI startup raises $1.1B at $5.1B valuation - MSN",
       "article_url": "https://www.msn.com/en-us/news/insight/david-silver-s-ai-startup-raises-1-1b-at-5-1b-valuation/gm-GM1A87D6E4?gemSnapshotKey=GM1A87D6E4-snapshot-1&uxmode=ruby",
       "company": "David Silver's AI startup",
       "amount_str": "$1.1B",
       "pub_date": "2026-04-27T22:11:21Z",
       "website": "https://www.msn.com",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Boise customer insights startup lands $5.2M in funding, customers include Intel, Verizon",
-      "article_url": "https://boisedev.com/2026/04/27/boise-customer-insights-startup-lands-5-2m-in-funding-customers-include-intel-verizon/",
-      "company": "Boise customer insights startup",
-      "amount_str": "$5.2M",
-      "pub_date": "2026-04-27T17:48:26Z",
-      "website": "https://duck.ai",
       "linkedin_url": "",
       "founder_name": "",
       "founder_linkedin_url": "",
