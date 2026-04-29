@@ -48415,5 +48415,105 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/04/28/space-technology-startup-true-anomaly-raises-650m-2-2b-valuation/": {
+    "valid": true,
+    "company": "Space technology startup True Anomaly",
+    "amount_str": "$650M",
+    "website": "https://www.trueanomaly.space/newsroom/true-anomaly-awarded-space-force-contract-to-further-security-in-space-domain",
+    "linkedin_url": "https://linkedin.com/company/true-anomaly",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@trueanomaly.space",
+    "twitter_url": "https://x.com/The_TrueAnomaly"
+  },
+  "https://www.prnewswire.com/news-releases/cc-capital-and-oneim-complete-acquisition-of-insignia-financial-limited-australias-leading-diversified-wealth-management-group-302756486.html": {
+    "valid": false
+  },
+  "https://newswav.com/video/send-this-to-a-parent-you-love-V2604_reN1Yq": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "of VaynerMedia",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finextra.com/newsarticle/47660/247-trading-platform-liquid-closes-18m-seed-round": {
+    "valid": false
+  },
+  "https://dabafinance.com/en/news/egypt-ai-startup-books-interactive-reading-funding": {
+    "valid": true,
+    "company": "Egypt's Sinai.ai",
+    "amount_str": "$1.45M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://finance.yahoo.com/sectors/technology/articles/exclusive-ai-powered-recruiting-startup-154150183.html": {
+    "valid": true,
+    "company": "AI-powered recruiting startup Dex",
+    "amount_str": "$5.3 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/hawkeye-360-416m-ipo-2-4b-valuation-space-defence-tech/": {
+    "valid": false
+  },
+  "https://x.com/StepStoneVC/status/2049206520441688317": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/Chirp-Regular.80fda27a.woff2",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/edkang99_do-you-need-a-million-arr-for-pre-seed-funding-activity-7454937080364904450-g_hv": {
+    "valid": false
+  },
+  "https://startupstag.com/startups/kovon-funding-tdv-partners-workforce-mobility-india/": {
+    "valid": true,
+    "company": "Kovon",
+    "amount_str": "$250K",
+    "website": "https://www.kovon.io",
+    "linkedin_url": "https://linkedin.com/company/kovon-io",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/kovon"
+  },
+  "https://m.economictimes.com/tech/funding/stock-trading-startup-sahi-secures-33-million-from-accel-elevation/articleshow/130585673.cms": {
+    "valid": true,
+    "company": "Stock trading startup Sahi",
+    "amount_str": "$33 m",
+    "website": "https://economictimes.indiatimes.com",
+    "linkedin_url": "https://linkedin.com/company/economictimes",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/economictimes"
+  },
+  "https://alleywatch.com/2026/04/the-alleywatch-startup-daily-funding-report-4-28-2026/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.alleywatch.com.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
