@@ -48660,5 +48660,102 @@
   },
   "https://eufundingportal.eu/call-for-applications-to-support-startups-and-scaleups-in-the-european-defence-industrial-ecosystem-through-tailored-coaching-workshops-bootcamps-testing-facilities-and-non-dilutive-seed-funding/": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/": {
+    "valid": true,
+    "company": "Coby Adcock\u2019s Scout AI",
+    "amount_str": "$100 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/29/dex-lands-53m-to-grow-its-ai-driven-talent-matching-platform/": {
+    "valid": true,
+    "company": "Dex",
+    "amount_str": "$5.3M",
+    "website": "https://meetdex.ai",
+    "linkedin_url": "https://linkedin.com/company/dextechai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/29/all3-raises-25m-to-boost-construction-productivity-with-robotics-and-ai/": {
+    "valid": true,
+    "company": "All3",
+    "amount_str": "$25M",
+    "website": "https://all3.com",
+    "linkedin_url": "https://linkedin.com/company/all3",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/grow-investment-group-erhalt-ipa-von-adgms-fsra-und-erreicht-damit-einen-wichtigen-meilenstein-in-ihrer-expansion-im-nahen-osten-302757043.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/grow-investment-group-obtient-lipa-de-la-fsra-de-ladgm-ce-qui-marque-une-etape-cle-dans-son-expansion-au-moyen-orient-302757036.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/energenesis-biomedical-to-present-clinical-application-of-energi-f703dfu-for-diabetic-foot-ulcers-at-ewma-2026-302757021.html": {
+    "valid": false
+  },
+  "https://techfundingnews.com/all3-25m-seed-rtp-global-construction-robotics-ai/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.family-day-htgf.de",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "events@htgf.de",
+    "twitter_url": "https://x.com/HTGF"
+  },
+  "https://newswav.com/video/this-ai-social-app-built-in-imessage-just-raised-5-1m-V2604_Z4jcFV": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "These college",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://newswav.com/video/stop-trying-to-play-the-part-V2604_tk5xl4": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "of VaynerMedia",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://newswav.com/video/please-friends-stop-judging-yourself-and-start-finding-your-balance-V2604_bBp3lx": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "of VaynerMedia",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.jbklutse.com/deepmind-david-silver-raises-1-1-billion-self-learning-ai/": {
+    "valid": true,
+    "company": "DeepMind Co-Founder",
+    "amount_str": "$1.1B",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Another DeepMind",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }

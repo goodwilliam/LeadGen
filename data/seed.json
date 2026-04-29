@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-04-29T06:21:09.654208Z",
+  "generated_at": "2026-04-29T10:00:33.499920Z",
   "count": 25,
   "enriched_count": 21,
   "articles": [
+    {
+      "source": "tech.eu",
+      "title": "Dex lands $5.3M to grow its AI-driven talent matching platform",
+      "article_url": "https://tech.eu/2026/04/29/dex-lands-53m-to-grow-its-ai-driven-talent-matching-platform/",
+      "company": "Dex",
+      "amount_str": "$5.3M",
+      "pub_date": "2026-04-29T08:45:00Z",
+      "website": "https://meetdex.ai",
+      "linkedin_url": "https://linkedin.com/company/dextechai",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "tech.eu",
+      "title": "All3 raises $25M to boost construction productivity with robotics and AI",
+      "article_url": "https://tech.eu/2026/04/29/all3-raises-25m-to-boost-construction-productivity-with-robotics-and-ai/",
+      "company": "All3",
+      "amount_str": "$25M",
+      "pub_date": "2026-04-29T08:00:00Z",
+      "website": "https://all3.com",
+      "linkedin_url": "https://linkedin.com/company/all3",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "tech.eu",
       "title": "SPREAD AI raises $30M Series B for industrial AI",
@@ -271,20 +299,6 @@
     },
     {
       "source": "tech.eu",
-      "title": "Always Friday raises \u20ac1.05M to automate corporate event planning with AI agents",
-      "article_url": "https://tech.eu/2026/04/28/always-friday-raises-eur105m-to-automate-corporate-event-planning-with-ai-agents/",
-      "company": "Always Friday",
-      "amount_str": "\u20ac1.05M",
-      "pub_date": "2026-04-28T07:00:00Z",
-      "website": "https://alwaysfriday.it",
-      "linkedin_url": "https://linkedin.com/company/alwaysfridayit",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "email@company.com",
-      "twitter_url": ""
-    },
-    {
-      "source": "tech.eu",
       "title": "Cnuic secures $3M pre-seed to unlock next-generation photonic chip production",
       "article_url": "https://tech.eu/2026/04/28/cnuic-secures-eur3m-pre-seed-to-unlock-next-generation-photonic-chip-production/",
       "company": "Cnuic",
@@ -295,6 +309,20 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "tech.eu",
+      "title": "Always Friday raises \u20ac1.05M to automate corporate event planning with AI agents",
+      "article_url": "https://tech.eu/2026/04/28/always-friday-raises-eur105m-to-automate-corporate-event-planning-with-ai-agents/",
+      "company": "Always Friday",
+      "amount_str": "\u20ac1.05M",
+      "pub_date": "2026-04-28T07:00:00Z",
+      "website": "https://alwaysfriday.it",
+      "linkedin_url": "https://linkedin.com/company/alwaysfridayit",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "email@company.com",
       "twitter_url": ""
     },
     {
@@ -322,34 +350,6 @@
       "linkedin_url": "",
       "founder_name": "",
       "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "tech.eu",
-      "title": "German robotics startup Sereact raises $110M",
-      "article_url": "https://tech.eu/2026/04/27/german-robotics-startup-sereact-raises-110m/",
-      "company": "German robotics startup Sereact",
-      "amount_str": "$110M",
-      "pub_date": "2026-04-27T09:24:00Z",
-      "website": "https://www.timesofai.com",
-      "linkedin_url": "https://linkedin.com/company/timesofai",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "contact@timesofai.com",
-      "twitter_url": "https://x.com/TimesOfAI_"
-    },
-    {
-      "source": "tech.eu",
-      "title": "QuoIntelligence raises \u20ac7.3M Series A to deliver \u201cfinished\u201d threat intelligence at scale",
-      "article_url": "https://tech.eu/2026/04/27/quointelligence-raises-eur73m-series-a-to-deliver-finished-threat-intelligence-at-scale/",
-      "company": "QuoIntelligence",
-      "amount_str": "\u20ac7.3M",
-      "pub_date": "2026-04-27T08:58:00Z",
-      "website": "https://quointelligence.eu",
-      "linkedin_url": "https://linkedin.com/company/quointelligence",
-      "founder_name": "",
-      "founder_linkedin_url": "https://linkedin.com/in/marcoriccardi",
       "contact_email": "",
       "twitter_url": ""
     }
