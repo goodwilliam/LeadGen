@@ -49287,5 +49287,229 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/": {
+    "valid": false
+  },
+  "https://venturebeat.com/data/the-retrieval-rebuild-why-hybrid-retrieval-intent-tripled-as-enterprise-rag-programs-hit-the-scale-wall": {
+    "valid": false
+  },
+  "https://betakit.com/alberta-puts-91-million-into-industrial-transformation-challenge/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/ipa-honors-senator-tim-scott-with-2026-investing-in-america-award-302757958.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/levine-leichtman-capital-partners-stellt-james-smith-als-geschaftsfuhrenden-leiter-ein-302757943.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/levine-leichtman-capital-partners-huurt-james-smith-in-als-managing-director-302757941.html": {
+    "valid": false
+  },
+  "https://www.inc.com/ali-donaldson/george-clooneys-new-beer-startup-is-copying-an-elite-growth-strategy-most-founders-cant-touch/91337665": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://businessofsandiego.substack.com/p/top-headlines-in-april-technology": {
+    "valid": false
+  },
+  "https://www.techstars.com/blog/startup-profile/pet-level-insight-at-ct-scale-a-conversation-with-sean-walsh-ceo-of-radicait": {
+    "valid": false
+  },
+  "https://afrotech.com/medase-cocktails-black-women-owned-brand-strategic-investment": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://htlbid.com/v3/afrotech.com/htlbid.css",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.compositesworld.com/news/aerospace-and-defense-startup-hybron-closes-25-million-seed-round": {
+    "valid": true,
+    "company": "Aerospace and defense startup Hybron",
+    "amount_str": "$25 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://finance.yahoo.com/economy/policy/articles/bill-gurley-jack-altman-back-162002286.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https:&#x2F;&#x2F;www.yahoo.com&#x2F;",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/04/29/comfyui-announces-30m-at-500m-valuation-to-give-creators-granular-ai-control/": {
+    "valid": true,
+    "company": "ComfyUI",
+    "amount_str": "$30M",
+    "website": "https://comfyui.org",
+    "linkedin_url": "https://linkedin.com/company/comfyui",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "https://linkedin.com/in/talmaj-marin",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Comfyuiorg"
+  },
+  "https://techfundingnews.com/parag-agrawal-parallel-100m-series-b-sequoia-ai-agents/": {
+    "valid": true,
+    "company": "Sequoia Capital leads Parallel's $100M",
+    "amount_str": "$100M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/EUStartups/posts/primogene-a-leipzig-based-biotech-startup-has-secured-41-million-in-seed-funding/1381940463960559/": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DXr7EfcCVBb/": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DXrz90CjLih/": {
+    "valid": true,
+    "company": "Windmill just",
+    "amount_str": "$12M",
+    "website": "https://www.ign.com",
+    "linkedin_url": "",
+    "founder_name": "Max Shaw and co",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/IGN"
+  },
+  "https://beamstart.com/news/singapores-formasai-raises-398m-in-17774494198220": {
+    "valid": true,
+    "company": "Singapore's FORMAS.AI",
+    "amount_str": "$3.98M",
+    "website": "https://beamstart.com",
+    "linkedin_url": "https://linkedin.com/company/beamstart",
+    "founder_name": "Leadership and Visionary",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@beamstart.com",
+    "twitter_url": ""
+  },
+  "https://technotrenz.com/news/always-friday-secures-1-05m/": {
+    "valid": true,
+    "company": "Always Friday",
+    "amount_str": "\u20ac1.05M",
+    "website": "https://alwaysfriday.co",
+    "linkedin_url": "https://linkedin.com/company/alwaysfriday",
+    "founder_name": "months for most",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.trysignalbase.com/news/funding/riplo-secures-31m": {
+    "valid": true,
+    "company": "Riplo",
+    "amount_str": "$3.1M",
+    "website": "https://riplo.io",
+    "linkedin_url": "https://linkedin.com/company/riplo",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/sanvipboats"
+  },
+  "https://m.dailyhunt.in/news/india/english/entrackr+english-epaper-entrackr/workforce+mobility+platform+kovon+raises+preseed+led+by+tdv+partners-newsid-n710213119": {
+    "valid": true,
+    "company": "Workforce mobility platform Kovon",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/pocintech/posts/yale-students-raise-51-million-in-pre-seed-round-for-ai-social-network/1601247518677589/": {
+    "valid": false
+  },
+  "https://x.com/reNEWS_/status/2049478490374779049": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/04/29/skyfireai-raises-11m-in-seed-funding-to-develop-autonomous-drone-fleet-platform-for-first-responders-and-defense/": {
+    "valid": true,
+    "company": "SkyfireAI",
+    "amount_str": "$11M",
+    "website": "https://www.skyfireai.com",
+    "linkedin_url": "https://linkedin.com/company/skyfire-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/donmathis",
+    "contact_email": "info@skyfireai.com",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://lasvegassun.com/news/2026/apr/29/general-analysis-raises-10m-in-seed-funding-to-sec/": {
+    "valid": true,
+    "company": "General Analysis",
+    "amount_str": "$10M",
+    "website": "https://generalanalysis.com",
+    "linkedin_url": "https://linkedin.com/company/generalanalysis",
+    "founder_name": "said Rez Havaei",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@generalanalysis.com",
+    "twitter_url": "https://x.com/generalanalysis"
+  },
+  "https://www.instagram.com/p/DXufsxeDOWB/": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DXr2xkRDF8s/": {
+    "valid": false
+  },
+  "https://beamstart.com/news/seed-funding-is-bigger-than-17774604651634": {
+    "valid": false
+  },
+  "https://retailtechinnovationhub.com/home/2026/4/28/digital-transformation-firm-vusion-among-times-most-influential-retail-companies-of-2026": {
+    "valid": false
+  },
+  "https://biochartoday.com/news/transition-vc-leads-seed-funding-round-for-climate-tech-startup-prithu/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techstartups.com/2026/04/29/general-analysis-raises-10m-in-seed-funding-to-secure-agentic-ai-against-real-world-attacks/": {
+    "valid": true,
+    "company": "General Analysis",
+    "amount_str": "$10M",
+    "website": "https://generalanalysis.com/blog/general-analysis-raises-10m",
+    "linkedin_url": "https://linkedin.com/company/generalanalysis",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@generalanalysis.com",
+    "twitter_url": "https://x.com/generalanalysis"
+  },
+  "https://arcticstartup.com/realm-raises-4-5m/?amp=1": {
+    "valid": true,
+    "company": "Finland's Realm",
+    "amount_str": "$4.5 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
