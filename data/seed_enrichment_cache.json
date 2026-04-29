@@ -48757,5 +48757,72 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/": {
+    "valid": true,
+    "company": "Firestorm Labs",
+    "amount_str": "$82M",
+    "website": "https://launchfirestorm.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://venturebeat.com/data/definity-embeds-agents-inside-spark-pipelines-to-catch-failures-before-they-reach-agentic-ai-systems": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://dn0qt3r0xannq.cloudfront.net/venturebeat-ZUVdMvorYO/venturebeat-longform/prebid-load.js",
+    "linkedin_url": "",
+    "founder_name": "Roy Daniel",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://news.crunchbase.com/venture/average-seed-funding-amounts-deals-grew-2025/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/04/29/cleo-labs-secures-eur15m-to-scale-ai-driven-product-compliance-globally/": {
+    "valid": true,
+    "company": "Cleo Labs",
+    "amount_str": "\u20ac1.5M",
+    "website": "https://www.cleolabs.co/en",
+    "linkedin_url": "https://linkedin.com/company/cleolabs",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@cleolabs.co",
+    "twitter_url": "https://x.com/cleolabs"
+  },
+  "https://siliconangle.com/2026/04/29/certifyde-raises-2m-help-guide-businesses-adopting-scaling-ai/": {
+    "valid": true,
+    "company": "Certifyde",
+    "amount_str": "$2M",
+    "website": "https://certifyde.com",
+    "linkedin_url": "https://linkedin.com/company/certifyde",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/04/29/command-zero-opens-autonomous-soc-platform-apis-mcp-server/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/alirt-insurance-research-us-life-insurers-continue-to-grow-their-exposure-to-less-liquid-bonds-302756594.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/expression-therapeutics-receives-fda-fast-track-and-rare-pediatric-disease-designations-for-investigational-stem-cell-therapy-for-hemophilia-a-302756492.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rogo-raises-160m-series-d-to-scale-the-agentic-platform-for-finance-302756546.html": {
+    "valid": true,
+    "company": "Rogo",
+    "amount_str": "$160M",
+    "website": "https://rogo.ai",
+    "linkedin_url": "https://linkedin.com/company/rogoai",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/jamesatrogo",
+    "contact_email": "sales@rogo.ai",
+    "twitter_url": "https://x.com/RogoAI"
   }
 }

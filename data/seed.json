@@ -1,8 +1,64 @@
 {
-  "generated_at": "2026-04-29T10:00:33.499920Z",
-  "count": 25,
-  "enriched_count": 21,
+  "generated_at": "2026-04-29T13:27:37.485497Z",
+  "count": 27,
+  "enriched_count": 22,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "title": "Firestorm Labs raises $82M to take drone factories into the field",
+      "article_url": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
+      "company": "Firestorm Labs",
+      "amount_str": "$82M",
+      "pub_date": "2026-04-29T13:10:57Z",
+      "website": "https://launchfirestorm.com",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Rogo Raises $160M Series D to Scale the Agentic Platform for Finance",
+      "article_url": "https://www.prnewswire.com/news-releases/rogo-raises-160m-series-d-to-scale-the-agentic-platform-for-finance-302756546.html",
+      "company": "Rogo",
+      "amount_str": "$160M",
+      "pub_date": "2026-04-29T13:10:00Z",
+      "website": "https://rogo.ai",
+      "linkedin_url": "https://linkedin.com/company/rogoai",
+      "founder_name": "",
+      "founder_linkedin_url": "https://linkedin.com/in/jamesatrogo",
+      "contact_email": "sales@rogo.ai",
+      "twitter_url": "https://x.com/RogoAI"
+    },
+    {
+      "source": "SiliconAngle",
+      "title": "Certifyde raises $2M to help guide businesses in adopting and scaling AI",
+      "article_url": "https://siliconangle.com/2026/04/29/certifyde-raises-2m-help-guide-businesses-adopting-scaling-ai/",
+      "company": "Certifyde",
+      "amount_str": "$2M",
+      "pub_date": "2026-04-29T12:00:00Z",
+      "website": "https://certifyde.com",
+      "linkedin_url": "https://linkedin.com/company/certifyde",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "tech.eu",
+      "title": "Cleo Labs secures \u20ac1.5M to scale AI-driven product compliance globally",
+      "article_url": "https://tech.eu/2026/04/29/cleo-labs-secures-eur15m-to-scale-ai-driven-product-compliance-globally/",
+      "company": "Cleo Labs",
+      "amount_str": "\u20ac1.5M",
+      "pub_date": "2026-04-29T10:00:00Z",
+      "website": "https://www.cleolabs.co/en",
+      "linkedin_url": "https://linkedin.com/company/cleolabs",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "contact@cleolabs.co",
+      "twitter_url": "https://x.com/cleolabs"
+    },
     {
       "source": "tech.eu",
       "title": "Dex lands $5.3M to grow its AI-driven talent matching platform",
@@ -41,20 +97,6 @@
       "website": "http://www.spread.ai",
       "linkedin_url": "https://linkedin.com/company/spread-gmbh",
       "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Manifest raises $2M amid Australian agency roll-out - Mumbrella",
-      "article_url": "https://mumbrella.com.au/manifest-raises-2m-amid-australian-agency-roll-out-921793",
-      "company": "Manifest",
-      "amount_str": "$2M",
-      "pub_date": "2026-04-29T03:36:24Z",
-      "website": "https://gomanifest.ai",
-      "linkedin_url": "https://linkedin.com/company/gomanifestai",
-      "founder_name": "IPG Mediabrands",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
@@ -256,20 +298,6 @@
       "twitter_url": "https://x.com/liquidinstrmnts"
     },
     {
-      "source": "SiliconAngle",
-      "title": "SkyfireAI lands $11M to bring AI autonomy to public safety and defense drones",
-      "article_url": "https://siliconangle.com/2026/04/28/skyfireai-lands-11m-bring-ai-autonomy-public-safety-defense-drones/",
-      "company": "SkyfireAI",
-      "amount_str": "$11M",
-      "pub_date": "2026-04-28T12:00:19Z",
-      "website": "https://www.skyfireai.com",
-      "linkedin_url": "https://linkedin.com/company/skyfire-ai",
-      "founder_name": "",
-      "founder_linkedin_url": "https://linkedin.com/in/donmathis",
-      "contact_email": "info@skyfireai.com",
-      "twitter_url": "https://x.com/suricate"
-    },
-    {
       "source": "tech.eu",
       "title": "Neutonic secures $6M at $60M valuation to grow retail and new markets",
       "article_url": "https://tech.eu/2026/04/28/neutonic-secures-6m-at-60m-valuation-to-grow-retail-and-new-markets/",
@@ -299,20 +327,6 @@
     },
     {
       "source": "tech.eu",
-      "title": "Cnuic secures $3M pre-seed to unlock next-generation photonic chip production",
-      "article_url": "https://tech.eu/2026/04/28/cnuic-secures-eur3m-pre-seed-to-unlock-next-generation-photonic-chip-production/",
-      "company": "Cnuic",
-      "amount_str": "\u20ac3M",
-      "pub_date": "2026-04-28T07:00:00Z",
-      "website": "https://cnuic.com",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "tech.eu",
       "title": "Always Friday raises \u20ac1.05M to automate corporate event planning with AI agents",
       "article_url": "https://tech.eu/2026/04/28/always-friday-raises-eur105m-to-automate-corporate-event-planning-with-ai-agents/",
       "company": "Always Friday",
@@ -323,6 +337,20 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "email@company.com",
+      "twitter_url": ""
+    },
+    {
+      "source": "tech.eu",
+      "title": "Cnuic secures $3M pre-seed to unlock next-generation photonic chip production",
+      "article_url": "https://tech.eu/2026/04/28/cnuic-secures-eur3m-pre-seed-to-unlock-next-generation-photonic-chip-production/",
+      "company": "Cnuic",
+      "amount_str": "\u20ac3M",
+      "pub_date": "2026-04-28T07:00:00Z",
+      "website": "https://cnuic.com",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
       "twitter_url": ""
     },
     {
