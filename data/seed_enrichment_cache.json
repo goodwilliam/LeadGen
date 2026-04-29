@@ -48824,5 +48824,468 @@
     "founder_linkedin_url": "https://linkedin.com/in/jamesatrogo",
     "contact_email": "sales@rogo.ai",
     "twitter_url": "https://x.com/RogoAI"
+  },
+  "https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/venture/supabase-startup-investment-dreambase-ai-felicis/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/29/cognitive-debt-slow-uptake-strategic-ai-appianworld/": {
+    "valid": false
+  },
+  "https://www.geekwire.com/2026/how-a-seattle-vc-firm-broke-into-the-1-1b-seed-round-for-a-deepmind-legends-superintelligence-startup/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/verified-clinical-trials-y-chubb-anuncian-una-alianza-estrategica-302757651.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/milan-design-week-2026-haier-and-fisher--paykel-investieren-verstarkt-in-ihre-globale-premium-markenstrategie-und-setzen-neue-impulse-fur-ein-besseres-leben-302757644.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/interprose-appoints-ron-totaro-and-ray-pelosoto-board-of-directors-302757452.html": {
+    "valid": false
+  },
+  "https://techfundingnews.com/kompas-vc-160m-fund-ii-realdania-industrial-ai-decarbonisation/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/bmw-i-ventures-300m-fund-iii-physical-ai-robotics/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.family-day-htgf.de",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "events@htgf.de",
+    "twitter_url": "https://x.com/HTGF"
+  },
+  "https://techfundingnews.com/certifyde-2m-seed-honey-ripple-founders-ai-adoption/": {
+    "valid": false
+  },
+  "https://europeanbusinessmagazine.com/business/business-musk-vs-altman-openai-charity-trial-april-2026/": {
+    "valid": false
+  },
+  "https://mlq.ai/news/skyfireai-raises-11-million-seed-funding-for-ai-enabled-multi-drone-systems/": {
+    "valid": true,
+    "company": "SkyfireAI",
+    "amount_str": "$11 M",
+    "website": "https://www.skyfireai.com",
+    "linkedin_url": "https://linkedin.com/company/skyfire-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/donmathis",
+    "contact_email": "info@skyfireai.com",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://oodaloop.com/briefs/technology/aicolby-adcocks-scout-ai-raises-100m-to-train-its-models-for-war-we-visited-its-bootcamp/": {
+    "valid": true,
+    "company": "AIColby Adcock's Scout AI",
+    "amount_str": "$100M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://hypepotamus.com/top-events/top-events-tech-may-2026/": {
+    "valid": false
+  },
+  "https://fortune.com/2026/04/28/bloomberg-askb-ai-agents-lessons-from-bloomberg-cto-shawn-edwards-eye-on-ai/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cookielaw.org/consent/906dc33b-1fc3-4b2c-a324-8bc0b7db9050/OtAutoBlock.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://europeanspaceflight.com/spaceflux-extends-funding-round-bringing-total-to-9-million/": {
+    "valid": false
+  },
+  "https://www.calcalistech.com/ctechnews/article/bkz3l5y0zx": {
+    "valid": true,
+    "company": "Definity",
+    "amount_str": "$12 m",
+    "website": "https://www.definity.com",
+    "linkedin_url": "https://linkedin.com/company/definity-financial",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/kyle-hall-527b4a162",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupfortune.com/shapes-wants-to-turn-ai-companionship-into-a-group-chat-product/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://finance.yahoo.com/sectors/energy/articles/us-battery-startup-builds-factory-073000707.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.canarymedia.com/articles/long-duration-energy-storage/us-battery-startup-builds-factory-china",
+    "linkedin_url": "https://linkedin.com/company/canary-media-incorp",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/CanaryMediaInc"
+  },
+  "https://www.citybiz.co/article/838976/openobserve-raises-10-million-series-a-to-expand-ai-native-observability-platform/": {
+    "valid": true,
+    "company": "OpenObserve",
+    "amount_str": "$10 M",
+    "website": "https://openobserve.ai",
+    "linkedin_url": "https://linkedin.com/company/openobserve",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/OpenObserve"
+  },
+  "https://www.canarymedia.com/articles/long-duration-energy-storage/us-battery-startup-builds-factory-china": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://canarymedia.donorsupport.co/-/XYYPPDHK",
+    "linkedin_url": "",
+    "founder_name": "who took over as",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://technode.global/2026/04/29/singapores-formas-ai-raises-3-98m-in-pre-seed-round-led-by-vertex-ventures-southeast-asia-india/": {
+    "valid": true,
+    "company": "Singapore's FORMAS.AI",
+    "amount_str": "$3.98M",
+    "website": "https://beamstart.com",
+    "linkedin_url": "https://linkedin.com/company/beamstart",
+    "founder_name": "of Patsnap",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@beamstart.com",
+    "twitter_url": ""
+  },
+  "https://www.citybiz.co/article/839000/certifyde-raises-2-million-seed-round-to-expand-ai-workforce-platform/": {
+    "valid": false
+  },
+  "https://www.varindia.com/news/uae-cybersecurity-warning-protect-your-smart-home": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://asia.adform.net/C",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/04/british-biomaterials-developer-ponda-seeks-fresh-backing-to-scale-plant-based-insulation-for-fashion/": {
+    "valid": false
+  },
+  "https://www.calcalistech.com/ctechnews/article/bkyjpojrbl": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://newmedia.calcalist.co.il/ctech/testimonials/index.html",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "judith.hoffmann@calcalist.co.il",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/04/29/autonomous-defense-startup-scout-ai-raises-100m-series-a-to-build-foundation-model-for-unmanned-warfare/": {
+    "valid": true,
+    "company": "Autonomous Defense Startup Scout AI",
+    "amount_str": "$100M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.roboticstomorrow.com/news/2026/04/29/all3-raises-25m-in-seed-funding-to-triple-productivity-in-the-construction-industry-through-robotics-and-ai/26489/": {
+    "valid": true,
+    "company": "All3",
+    "amount_str": "$25m",
+    "website": "https://www.all3.com",
+    "linkedin_url": "https://linkedin.com/company/all3",
+    "founder_name": "Rodion Shishkov",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://waterfm.com/billing-solutions-company-raises-2-75-million-seed-round/": {
+    "valid": true,
+    "company": "Billing solutions company",
+    "amount_str": "$2.75 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "https://linkedin.com/company/intefusion-llc",
+    "founder_name": "Barrett Hansen",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.sdbj.com/technology/eventship-playing-role-of-professional-matchmaker/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/trialcliniq-raises-150k-from-caduceus-capital.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/vitesicure-closes-e2-5m-series-a-funding-round.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/zamp-closes-new-funding.html": {
+    "valid": false
+  },
+  "https://fortune.com/2026/04/29/exclusive-vanta-arr-300-million-sequoia-shadow-ai-claude-cursor/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cookielaw.org/consent/906dc33b-1fc3-4b2c-a324-8bc0b7db9050/OtAutoBlock.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://arcticstartup.com/atech-raises-800k-pre-seed/?amp=1": {
+    "valid": true,
+    "company": "Atech",
+    "amount_str": "$800K",
+    "website": "https://help.atechmotorsports.com",
+    "linkedin_url": "https://linkedin.com/company/atech",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.youtube.com/shorts/6nmcUpPSbJk": {
+    "valid": false
+  },
+  "https://boutiquehotelnews.com/news/finance-and-investment/nox-mobility-night-train/": {
+    "valid": true,
+    "company": "Nox Mobility",
+    "amount_str": "\u20ac2 m",
+    "website": "https://noxmobility.com",
+    "linkedin_url": "https://linkedin.com/company/noxmobility",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.citybiz.co/article/838820/trialcliniq-raises-150k-from-caduceus-capital-joins-launch-accelerator-and-opens-1-5m-round/": {
+    "valid": false
+  },
+  "https://dairybusinessmea.com/2026/04/29/all-things-invests-in-yester-farm-dairies-to-scale-cheese-innovation/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.asiabusinessoutlook.com/news/formasai-secures-398m-to-expand-ai-design-platform-nwid-11815.html": {
+    "valid": true,
+    "company": "Formas.AI",
+    "amount_str": "$3.98M",
+    "website": "https://www.formas.ai",
+    "linkedin_url": "https://linkedin.com/company/formas-ai",
+    "founder_name": "Chafic Nassif",
+    "founder_linkedin_url": "",
+    "contact_email": "support@formas.ai",
+    "twitter_url": "https://x.com/FormasAI"
+  },
+  "https://medicalresearch.com/hebrew-university-researchers-identify-rna-dicing-as-key-driver-of-jak1-oncogenic-activity-in-endometrial-cancer/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/always-friday-raises-1-05m-pre-seed": {
+    "valid": false
+  },
+  "https://x.com/indstartupnews/status/2049390836786610388": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/jlrob_pre-seed-funding-is-where-privilege-gets-activity-7455171975397715968-mW8w": {
+    "valid": false
+  },
+  "https://www.panewslab.com/en/articles/019dd801-6e52-72ec-8f57-3b2153f1c3d0": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://beamstart.com/news/sg-design-software-firm-formasai-17774424182462": {
+    "valid": true,
+    "company": "Singapore's FORMAS.AI",
+    "amount_str": "$3.98M",
+    "website": "https://beamstart.com",
+    "linkedin_url": "https://linkedin.com/company/beamstart",
+    "founder_name": "founded by",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@beamstart.com",
+    "twitter_url": ""
+  },
+  "https://www.rmwcommerce.com/fundraising/replenit-raised-25m-in-pre-seed-funding": {
+    "valid": true,
+    "company": "Replenit announced it",
+    "amount_str": "$2.5M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/04/leipzigs-primogene-raises-e4-1-million-to-scale-enzymatic-biomanufacturing-of-complex-bioactive-molecules/": {
+    "valid": false
+  },
+  "https://thenextweb.com/news/ai-recruiting-startup-dex-raises-5-3m-seed-to-match-ai-engineers-with-the-companies-that-need-them-most": {
+    "valid": true,
+    "company": "Dex",
+    "amount_str": "$5.3m",
+    "website": "https://meetdex.ai",
+    "linkedin_url": "https://linkedin.com/company/dextechai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://aibusiness.com/robotics/scout-ai-raises-100m-build-ai-brain-autonomous-warfare": {
+    "valid": true,
+    "company": "Scout AI",
+    "amount_str": "$100M",
+    "website": "https://scoutco.ai",
+    "linkedin_url": "https://linkedin.com/company/scout-ai-official",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/colby-adcock-277ab42a",
+    "contact_email": "yourname@email.com",
+    "twitter_url": "https://x.com/ScoutAI_"
+  },
+  "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/": {
+    "valid": false
+  },
+  "https://www.businessinsider.com/startup-life-china-us-10-years-charles-yang-tech-2026-4": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://i.insider.com/69e8209f3fecbb42897a275d",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/04/29/era-raises-11m-to-build-ai-infrastructure-for-next-gen-smart-devices/": {
+    "valid": true,
+    "company": "Era",
+    "amount_str": "$11 m",
+    "website": "http://eratheliveexperience.com",
+    "linkedin_url": "https://linkedin.com/company/era-group-global",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ERAmusicoff"
+  },
+  "https://www.caproasia.com/2026/04/29/uk-new-ai-superintelligence-startup-ineffable-intelligence-raised-1-1-billion-seed-funding-at-5-1-billion-valuation-founded-in-2025-by-ex-google-deepmind-researcher-university-college-london-prof/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.wsj.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techround.co.uk/guides/what-is-seed-funding-a-simple-guide-to-startup-seed-rounds/": {
+    "valid": false
+  },
+  "https://www.instagram.com/reel/DXrcoCUjTfp/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/firestorm-labs-82m-series-b-washington-harbour-defence-tech/": {
+    "valid": true,
+    "company": "Firestorm Labs",
+    "amount_str": "$82M",
+    "website": "https://exa.ai",
+    "linkedin_url": "https://linkedin.com/company/exa-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@exa.ai",
+    "twitter_url": "https://x.com/exaailabs"
+  },
+  "https://sg.finance.yahoo.com/news/general-analysis-raises-10m-seed-143000753.html": {
+    "valid": true,
+    "company": "General Analysis",
+    "amount_str": "$10M",
+    "website": "https://generalanalysis.com",
+    "linkedin_url": "https://linkedin.com/company/generalanalysis",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@generalanalysis.com",
+    "twitter_url": "https://x.com/generalanalysis"
+  },
+  "https://technode.global/2026/04/29/cata-raises-5-3m-seed-funding-to-expand-digital-platform-for-fb-retail/": {
+    "valid": true,
+    "company": "Cata",
+    "amount_str": "$5.3M",
+    "website": "https://cata.sg",
+    "linkedin_url": "https://linkedin.com/company/capital-area-transportation-authority",
+    "founder_name": "David Brunier",
+    "founder_linkedin_url": "https://linkedin.com/in/davidbrunier",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thenextweb.com/news/all3-25m-seed-construction-robots-ai-housing": {
+    "valid": true,
+    "company": "All3",
+    "amount_str": "$25m",
+    "website": "https://all3.com",
+    "linkedin_url": "https://linkedin.com/company/all3",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://finance.yahoo.com/sectors/technology/articles/ai-enters-group-chat-startup-130000607.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https:&#x2F;&#x2F;www.yahoo.com&#x2F;",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
