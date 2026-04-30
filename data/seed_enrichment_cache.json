@@ -49769,5 +49769,274 @@
   },
   "https://www.venturedailydigest.com/p/google-is-testing-ai-chatbot-search": {
     "valid": false
+  },
+  "https://tech.eu/2026/04/30/mosaic-soc-raises-38m-pre-seed-to-build-low-power-perception-chips-for-spatial-computing/": {
+    "valid": true,
+    "company": "Mosaic SoC",
+    "amount_str": "$3.8M",
+    "website": "https://www.mosaic-soc.com",
+    "linkedin_url": "https://linkedin.com/company/mosaic-soc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/30/software-10-companies-that-raised-the-most-in-2025/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/30/spiral-hydrogen-raises-eur27m-to-build-green-hydrogen-pilot-in-rotterdam/": {
+    "valid": true,
+    "company": "Spiral Hydrogen",
+    "amount_str": "\u20ac3.4M",
+    "website": "http://spiralhydrogen.com",
+    "linkedin_url": "https://linkedin.com/company/spiral-hydrogen",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@spiralhydrogen.com",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/30/rocsys-launches-first-multi-bay-hands-free-robotaxi-charger-raises-13m-series-a-extension/": {
+    "valid": true,
+    "company": "Rocsys",
+    "amount_str": "$13M",
+    "website": "https://www.rocsys.com",
+    "linkedin_url": "https://linkedin.com/company/rocsys-handsfree-charging",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/30/online-oceans-raises-ps4m-to-scale-autonomous-fleets-for-maritime-security/": {
+    "valid": true,
+    "company": "Online Oceans",
+    "amount_str": "\u00a34M",
+    "website": "https://onlineoceans.com",
+    "linkedin_url": "https://linkedin.com/company/online-oceans",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@onlineoceans.com",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/04/30/manamind-secures-15m-to-develop-autonomous-testing-for-gaming/": {
+    "valid": true,
+    "company": "ManaMind",
+    "amount_str": "$1.5M",
+    "website": "https://www.manamind.ai",
+    "linkedin_url": "https://linkedin.com/company/manamind",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "example@mysite.com",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://tech.eu/2026/04/30/featherlessai-secures-20m-to-expand-serverless-platform-for-open-source-ai/": {
+    "valid": true,
+    "company": "Featherless.ai",
+    "amount_str": "$20M",
+    "website": "http://featherless.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://businessnewsthisweek.com/business/deep-tech-startup-ctruh-raises-usd-2-5-million-seed-round-led-by-ipv-to-build-the-infrastructure-layer-of-the-spatial-internet/": {
+    "valid": true,
+    "company": "Deep-Tech Startup Ctruh",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "India Accelerator",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupstorymedia.com/climate-tech-startup-prithu-raises-rs-10-cr-in-seed-round-led-by-transition-vc/": {
+    "valid": false
+  },
+  "https://www.finextra.com/pressarticle/109651/aset-backed-finance-insfrastructure-builder-fence-raises-20-million": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/04/swedish-legal-ai-startup-legora-raises-e42-million-extension-to-series-d-bringing-total-to-over-e500-million/": {
+    "valid": false
+  },
+  "https://thenextweb.com/news/synaps-3-6m-pre-seed-ai-architecture-exclusive": {
+    "valid": true,
+    "company": "Synaps",
+    "amount_str": "$3.6M",
+    "website": "https://www.synaps.app",
+    "linkedin_url": "https://linkedin.com/company/synapsapp",
+    "founder_name": "Brendon Ahmeti said",
+    "founder_linkedin_url": "",
+    "contact_email": "office@synaps.app",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/04/swiss-semiconductor-startup-mosaic-soc-raises-e3-2-million-to-bring-spatial-intelligence-to-low-power-devices/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/mosaic-soc-3-8m-pre-seed-founderful-spatial-ai-chip-ar-glasses/": {
+    "valid": true,
+    "company": "ETH Zurich spinout Mosaic SoC",
+    "amount_str": "$3.8M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.panewslab.com/en/articles/019ddc5b-75c7-75ff-8792-b232e49b40a5": {
+    "valid": true,
+    "company": "Pump.fun",
+    "amount_str": "",
+    "website": "https://en.wikipedia.org",
+    "linkedin_url": "https://linkedin.com/company/pumpfun",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.sky9capital.com/blog/blog-pre-seed-funding-options-worth-prioritizing-2026/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "and the alternatives most",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://nordic9.com/news/atonemo-raised-pre-seed-funding": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.trendingtopics.eu/gpt-5-5-tops-academic-benchmarks-but-loses-to-rivals-in-real-user-tests/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.tiktok.com/@trendingtopics.eu",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "u002F@trendingtopics.eu",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/auryx-2m-pre-seed-celero-ventures-earbuds-health-monitoring/": {
+    "valid": true,
+    "company": "Cambridge healthtech startup auryx",
+    "amount_str": "$2M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DXv6lV4Dgi-/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://channellife.com.au/story/mosaic-soc-raises-usd-3-8m-to-power-smart-devices": {
+    "valid": true,
+    "company": "Mosaic SoC",
+    "amount_str": "$3.8m",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/mosaic-soc",
+    "founder_name": "Officer and Co",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://leehamnews.com/2026/04/30/the-regulatory-reality-behind-the-autonomous-atc-gold-rush/": {
+    "valid": false
+  },
+  "https://en.wowtale.net/2026/04/30/233992/": {
+    "valid": true,
+    "company": "Celon",
+    "amount_str": "",
+    "website": "https://celon.ai",
+    "linkedin_url": "https://linkedin.com/company/107718975",
+    "founder_name": "said Junha Jang",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/memorydotinc"
+  },
+  "https://www2.fundsforngos.org/community-development-2/call-for-applications-empowerment-and-veteran-grants-2027-us/amp/": {
+    "valid": false
+  },
+  "https://money.rediff.com/news/market/ubiqedge-raises-rs-10-cr-seed-funding/46192120260430": {
+    "valid": true,
+    "company": "Ubiqedge",
+    "amount_str": "",
+    "website": "https://www.ubiqedge.com",
+    "linkedin_url": "https://linkedin.com/company/ubiqedge",
+    "founder_name": "with participation from Atomberg",
+    "founder_linkedin_url": "",
+    "contact_email": "support@ubiqedge.com",
+    "twitter_url": "https://x.com/Ubiqedge"
+  },
+  "https://en.wowtale.net/2026/04/30/233995/": {
+    "valid": false
+  },
+  "https://theaiworld.org/news/vikra-ocean-tech-raises-1-mn-seed-funding": {
+    "valid": true,
+    "company": "Vikra Ocean Tech",
+    "amount_str": "$1 M",
+    "website": "https://vikraoceantech.com",
+    "linkedin_url": "https://linkedin.com/company/vikra-ocean-tech-pvt-ltd",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "bda@vikraoceantech.com",
+    "twitter_url": "https://x.com/TechVikra"
+  },
+  "https://menafn.com/1111048482/Vibrant-Gujarat-Conference-To-Highlight-States-Startup-Ecosystem": {
+    "valid": false
+  },
+  "https://honorsprogram.gatech.edu/whats-happening/see-all-news/jmhp-student-secures-500k-seed-funding-startup": {
+    "valid": true,
+    "company": "JMHP Student",
+    "amount_str": "$500k",
+    "website": "https://hp.gatech.edu",
+    "linkedin_url": "https://linkedin.com/company/georgia-tech-honors-program",
+    "founder_name": "he and his",
+    "founder_linkedin_url": "",
+    "contact_email": "honorsprogram@gatech.edu",
+    "twitter_url": ""
+  },
+  "https://startupfortune.com/tag/seed-funding/": {
+    "valid": false
+  },
+  "https://www.instagram.com/reel/DXufgsoiEOj/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
