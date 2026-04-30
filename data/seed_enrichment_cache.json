@@ -50520,5 +50520,316 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/04/30/ev-startup-faraday-future-paid-7-5m-to-company-tied-to-founder-jia-yueting/": {
+    "valid": false
+  },
+  "https://venturebeat.com/technology/why-openais-goblin-problem-matters-and-how-you-can-release-the-goblins-on-your-own": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/30/enterprise-process-automation-reliability-capability-appianworld/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/zspc-investors-have-opportunity-to-lead-zspace-inc-securities-lawsuit-filed-by-the-rosen-law-firm-302759481.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/policymakers-and-asset-management-leaders-gather-for-icis-2026-leadership-summit-302759502.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/cwh-investors-have-opportunity-to-lead-camping-world-holdings-inc-securities-fraud-lawsuit-302759465.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/vitl-investors-have-opportunity-to-lead-vital-farms-inc-securities-fraud-lawsuit-filed-by-the-rosen-law-firm-302759462.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-flow-cryptocurrency-investors-to-inquire-about-securities-class-action-investigation-302759467.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.cision.com/about/accessibility",
+    "linkedin_url": "https://linkedin.com/company/cision",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@cision.com",
+    "twitter_url": "https://x.com/cision"
+  },
+  "https://www.prnewswire.com/news-releases/tcom-investors-have-opportunity-to-lead-tripcom-group-limited-securities-fraud-lawsuit-first-filed-by-the-rosen-law-firm-302759440.html": {
+    "valid": false
+  },
+  "https://refreshmiami.com/news/everyone-bought-ai-tools-certifyde-wants-to-make-people-actually-use-them-and-just-raised-2m/": {
+    "valid": false
+  },
+  "https://www.blocksandfiles.com/data-management/2026/04/30/shades-single-source-of-file-system-truth-for-creatives/5219062": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https:&#x2F;&#x2F;www.blocksandfiles.com&#x2F;author&#x2F;chris-mellor",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://pulse2.com/mosaic-soc-3-8-million-raised-to-bring-real-time-spatial-intelligence-to-energy-constrained-consumer-devices/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wp.me/pp5wj-1BIU",
+    "linkedin_url": "https://linkedin.com/company/pulse2news",
+    "founder_name": "seed round led by",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/pulse2news"
+  },
+  "https://businessnewsthisweek.com/business/deep-tech-startup-ctruh-raises-usd-2-5-million-seed-round-to-build-the-infrastructure-layer-of-the-spatial-internet-sets-us-and-uae-launch-for-2026/": {
+    "valid": true,
+    "company": "Deep Tech Startup Ctruh",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "India Accelerator",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thequantuminsider.com/2026/04/30/groove-quantum-spin-qubit-processor-funding/": {
+    "valid": false
+  },
+  "https://www.menlotimes.com/post/vibe-coding-for-hardware-startup-atech-announced-its-pre-seed-round": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://atech.dev",
+    "linkedin_url": "https://linkedin.com/company/atech-dev",
+    "founder_name": "Tomas Harmer",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/04/swiss-biotech-startup-alp-bio-raises-e1-9-million-to-advance-immune-organoid-and-ai-platform/": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/isrch-startup-news-891620394_ctruh-raises-25-million-seed-round-led-activity-7455597832339881984-camu": {
+    "valid": true,
+    "company": "Ctruh",
+    "amount_str": "$2.5 M",
+    "website": "https://www.ctruh.com",
+    "linkedin_url": "https://linkedin.com/company/ctruh",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/yourstorycom/posts/deeptech-startup-vikra-ocean-tech-has-raised-1-million-in-a-seed-round-coled-by-/1445903297571640/": {
+    "valid": true,
+    "company": "Vikra Ocean Tech",
+    "amount_str": "$1 m",
+    "website": "https://vikraoceantech.com",
+    "linkedin_url": "https://linkedin.com/company/vikra-ocean-tech-pvt-ltd",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "bda@vikraoceantech.com",
+    "twitter_url": "https://x.com/TechVikra"
+  },
+  "https://bebeez.eu/2026/04/30/ai-game-testing-startup-manamind-lands-e1-2-million-to-automate-quality-assurance/": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/04/30/swiss-semiconductor-startup-mosaic-soc-raises-e3-2-million-to-bring-spatial-intelligence-to-low-power-devices/": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DXvkk5OE6Ei/": {
+    "valid": true,
+    "company": "Vikra Ocean Tech",
+    "amount_str": "$1 M",
+    "website": "https://vikraoceantech.com",
+    "linkedin_url": "https://linkedin.com/company/vikra-ocean-tech-pvt-ltd",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "bda@vikraoceantech.com",
+    "twitter_url": "https://x.com/TechVikra"
+  },
+  "https://daily-interview-network.synergize.co/article/78017": {
+    "valid": false
+  },
+  "https://daily-interview-network.synergize.co/article/78019": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/blockworks-closes-series-a-at-192m-valuation.html": {
+    "valid": false
+  },
+  "https://www.ess-news.com/2026/04/30/matrix-secures-financing-for-500-mw-scotland-project-tavion-raises-funds-secures-1-7-gw-poland-pipeline/": {
+    "valid": false
+  },
+  "https://fuelcellsworks.com/2026/04/30/electrolyzer/european-commission-opens-new-600m-funding-call-for-cross-border-hydrogen-and-energy-infrastructure": {
+    "valid": false
+  },
+  "https://european-biotechnology.com/latest-news/valneva-reels-in-e84m-in-fresh-financing-to-shore-up-vaccine-pipeline/": {
+    "valid": false
+  },
+  "https://resiliencemedia.co/spiral-hydrogen-raises-e2-7m-to-pilot-its-new-hydrogen-tech-at-the-port-of-rotterdam/": {
+    "valid": false
+  },
+  "https://pulse2.com/manamind-1-5-million-raised-to-build-ai-powered-autonomous-game-testing-platform/": {
+    "valid": true,
+    "company": "ManaMind",
+    "amount_str": "$1.5 m",
+    "website": "https://www.manamind.fr",
+    "linkedin_url": "https://linkedin.com/company/manamind",
+    "founder_name": "which the",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.trysignalbase.com/news/funding/spiral-hydrogen-secures-32m": {
+    "valid": true,
+    "company": "Spiral Hydrogen",
+    "amount_str": "$3.2M",
+    "website": "https://spiralhydrogen.com",
+    "linkedin_url": "https://linkedin.com/company/spiral-hydrogen",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@spiralhydrogen.com",
+    "twitter_url": ""
+  },
+  "https://www.trysignalbase.com/news/funding/mosaic-soc-raises-38m-pre": {
+    "valid": true,
+    "company": "Mosaic SoC",
+    "amount_str": "$3.8M",
+    "website": "https://mosaic-soc.com",
+    "linkedin_url": "https://linkedin.com/company/mosaic-soc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.qcintel.com/hydrogen/article/spiral-hydrogen-secures-2-7m-in-pre-seed-funding-for-pilot-deployment-63949.html": {
+    "valid": false
+  },
+  "https://www.qcintel.com/hydrogen/article/eu-makes-600m-available-for-projects-included-in-second-pci-pmi-list-63931.html": {
+    "valid": false
+  },
+  "https://fuelcellsworks.com/2026/04/30/hydrogen-infrastructure/gh2-solar-and-mormugao-port-sign-mou-for-development-of-hydrogen-hub": {
+    "valid": false
+  },
+  "https://carta.com/data/win-over-pre-seed-investors/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://ob.healthroundprince.com/i/42c6d20ba3b16fa05b1958b032657267.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/chance-raises-3-2m-in-funding.html": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/grishinrobotics_mosaic-soc-has-raised-38m-in-pre-seed-funding-activity-7455596567761154048-YVOr": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "seed funding led by",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://news.bettingstartups.com/p/gridgorilla-digital-super-bowl-squares": {
+    "valid": false
+  },
+  "https://m.dailyhunt.in/news/india/english/entrackr+english-epaper-entrackr/mattersai+raises+rs+55+cr+led+by+kalaari+and+endiya+partners-newsid-n685179594": {
+    "valid": true,
+    "company": "Matters.AI",
+    "amount_str": "",
+    "website": "https://www.matters.ai",
+    "linkedin_url": "https://linkedin.com/company/mattersai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@matters.ai",
+    "twitter_url": "https://x.com/NhyL02pLwYvQBoEOI7uFys8bs37Er4jz8tBYLkiKRq18"
+  },
+  "https://www.gurufocus.com/news/8831871/misti-ai-secures-336k-seed-funding-to-enhance-industrial-ai-platform": {
+    "valid": true,
+    "company": "Misti AI",
+    "amount_str": "$336K",
+    "website": "https://mistiai.com",
+    "linkedin_url": "https://linkedin.com/company/mistiai",
+    "founder_name": "Buys after Price Drop",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@mistiai.com",
+    "twitter_url": "https://x.com/AiMisti11547"
+  },
+  "https://www.finsmes.com/2026/04/moleculent-raises-20m-in-funding.html": {
+    "valid": false
+  },
+  "https://yourstory.com/2026/04/startup-news-and-updates-daily-roundup-april-30-2026": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.reddit.com/r/founder/comments/1t06sb0/seed_funding_is_it_better_to_raise_early_or_build/": {
+    "valid": false
+  },
+  "https://venturebeat.com/business/copperhelm-launches-from-stealth-with-7m-to-bring-autonomous-ai-agents-to-cloud-security": {
+    "valid": false
+  },
+  "https://today.rowan.edu/news/2026/04/rowan-students-showcase-innovation-at-new-venture-competition-expo.html": {
+    "valid": false
+  },
+  "https://www.morningbrew.com/topic/seed-funding": {
+    "valid": false
+  },
+  "https://www.facebook.com/techinasia/posts/us-startup-irisgo-has-raised-us28m-in-seed-funding-led-by-ai-fund-the-venture-fi/1378881427608193/": {
+    "valid": false
+  },
+  "https://www.startupmag.co.uk/funding/highway-data-systems-2026-seed-funding/": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DXwujSzETcG/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupgrantsindia.com/nidhi-sss-seed-support-gusec": {
+    "valid": false
+  },
+  "https://www.businessinsider.com/switched-from-chatgpt-to-claude-how-ceo-uses-both-2026-4": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://i.insider.com/69f21ae7eac306af891f47d1",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://aibusiness.com/agentic-ai/agentic-marketing-platform-enterprises-valued-2-75b": {
+    "valid": false
+  },
+  "https://m.dailyhunt.in/news/india/english/news+patrolling-epaper-newspatr/deeptech+startup+ctruh+raises+25+million+seed+round+led+by+ipv+to+build+the+infrastructure+layer+of+the+spatial+internet-newsid-n710502360": {
+    "valid": true,
+    "company": "Deep-Tech Startup Ctruh",
+    "amount_str": "$2.5 M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
