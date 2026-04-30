@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-04-30T02:11:34.810493Z",
-  "count": 26,
-  "enriched_count": 19,
+  "generated_at": "2026-04-30T06:25:20.558483Z",
+  "count": 29,
+  "enriched_count": 21,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Exclusive: Groove Quantum raises \u20ac16m to ramp up chip production - Sifted",
+      "article_url": "https://sifted.eu/articles/groove-quantum-16m-seed",
+      "company": "Groove Quantum",
+      "amount_str": "\u20ac16m",
+      "pub_date": "2026-04-30T04:04:03Z",
+      "website": "https://groovequantum.com",
+      "linkedin_url": "https://linkedin.com/company/groove-quantum",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "ATR Daily: eFishery founder gets 9-year jail term as Indonesia's startup reckoning deepens",
+      "article_url": "https://www.asiatechreview.com/p/atr-daily-efishery-founder-gets-9",
+      "company": "eFishery founder",
+      "amount_str": "",
+      "pub_date": "2026-04-30T03:03:35Z",
+      "website": "",
+      "linkedin_url": "",
+      "founder_name": "Gibran Huzaifah given",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Insygna Wins HR Tech Europe 2026 Startup Competition for Agentic Workforce ...",
+      "article_url": "https://techrseries.com/hrtechnology/insygna-wins-hr-tech-europe-2026-startup-competition-for-agentic-workforce-management-platform/",
+      "company": "Insygna",
+      "amount_str": "",
+      "pub_date": "2026-04-30T03:03:27Z",
+      "website": "https://insygna.ai",
+      "linkedin_url": "https://linkedin.com/company/insygna",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "john@company.com",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "AlphaGo creator raises $1.1B for reinforcement learning AI startup | ETIH EdTech News",
@@ -13,6 +55,20 @@
       "website": "https://duck.ai",
       "linkedin_url": "",
       "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "ChimpX AI Raises $2.8 Million Seed Round to Make DeFi Simple for Everyone",
+      "article_url": "https://markets.businessinsider.com/news/currencies/chimpx-ai-raises-2-8-million-seed-round-to-make-defi-simple-for-everyone-1036082019",
+      "company": "ChimpX AI",
+      "amount_str": "$2.8 M",
+      "pub_date": "2026-04-30T00:30:31Z",
+      "website": "https://chimpx.ai",
+      "linkedin_url": "",
+      "founder_name": "Akshay Nassa",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
@@ -30,6 +86,20 @@
       "founder_linkedin_url": "https://linkedin.com/in/jamesatrogo",
       "contact_email": "",
       "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Avoca Closes $125M+ at $1B Valuation to Power America's Services Economy With AI",
+      "article_url": "https://theaiinsider.tech/2026/04/29/avoca-closes-125m-at-1b-valuation-to-power-americas-services-economy-with-ai/",
+      "company": "Avoca",
+      "amount_str": "$125M",
+      "pub_date": "2026-04-29T22:39:30Z",
+      "website": "https://www.avoca.com",
+      "linkedin_url": "https://linkedin.com/company/avoca-ai",
+      "founder_name": "said Apurva Shrivastava",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/avocaireland"
     },
     {
       "source": "Google Alerts",
@@ -131,20 +201,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "ComfyUI Announces $30M at $500M Valuation to Give Creators Granular AI Control",
-      "article_url": "https://theaiinsider.tech/2026/04/29/comfyui-announces-30m-at-500m-valuation-to-give-creators-granular-ai-control/",
-      "company": "ComfyUI",
-      "amount_str": "$30M",
-      "pub_date": "2026-04-29T16:39:28Z",
-      "website": "https://comfyui.org",
-      "linkedin_url": "https://linkedin.com/company/comfyui",
-      "founder_name": "founder and",
-      "founder_linkedin_url": "https://linkedin.com/in/talmaj-marin",
-      "contact_email": "",
-      "twitter_url": "https://x.com/Comfyuiorg"
-    },
-    {
-      "source": "Google Alerts",
       "title": "Workforce mobility platform Kovon raises pre-seed led by TDV Partners | Dailyhunt",
       "article_url": "https://m.dailyhunt.in/news/india/english/entrackr+english-epaper-entrackr/workforce+mobility+platform+kovon+raises+preseed+led+by+tdv+partners-newsid-n710213119",
       "company": "Workforce mobility platform Kovon",
@@ -166,20 +222,6 @@
       "pub_date": "2026-04-29T13:36:56Z",
       "website": "https://duck.ai",
       "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Nordic startup Atech raises $800K pre-seed to simplify hardware prototyping - ArcticStartup",
-      "article_url": "https://arcticstartup.com/atech-raises-800k-pre-seed/?amp=1",
-      "company": "Atech",
-      "amount_str": "$800K",
-      "pub_date": "2026-04-29T13:02:22Z",
-      "website": "https://help.atechmotorsports.com",
-      "linkedin_url": "https://linkedin.com/company/atech",
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
@@ -256,6 +298,20 @@
       "twitter_url": ""
     },
     {
+      "source": "tech.eu",
+      "title": "SPREAD AI raises $30M Series B for industrial AI",
+      "article_url": "https://tech.eu/2026/04/29/spread-ai-raises-30m-series-b-for-industrial-ai/",
+      "company": "SPREAD AI",
+      "amount_str": "$30M",
+      "pub_date": "2026-04-29T06:15:00Z",
+      "website": "http://www.spread.ai",
+      "linkedin_url": "https://linkedin.com/company/spread-gmbh",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
       "source": "Google Alerts",
       "title": "DeepMind Co-Founder Raises $1.1B for Self-Learning AI - JBKlutse",
       "article_url": "https://www.jbklutse.com/deepmind-david-silver-raises-1-1-billion-self-learning-ai/",
@@ -313,20 +369,6 @@
     },
     {
       "source": "tech.eu",
-      "title": "Always Friday raises \u20ac1.05M to automate corporate event planning with AI agents",
-      "article_url": "https://tech.eu/2026/04/28/always-friday-raises-eur105m-to-automate-corporate-event-planning-with-ai-agents/",
-      "company": "Always Friday",
-      "amount_str": "\u20ac1.05M",
-      "pub_date": "2026-04-28T07:00:00Z",
-      "website": "https://alwaysfriday.it",
-      "linkedin_url": "https://linkedin.com/company/alwaysfridayit",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "email@company.com",
-      "twitter_url": ""
-    },
-    {
-      "source": "tech.eu",
       "title": "Cnuic secures $3M pre-seed to unlock next-generation photonic chip production",
       "article_url": "https://tech.eu/2026/04/28/cnuic-secures-eur3m-pre-seed-to-unlock-next-generation-photonic-chip-production/",
       "company": "Cnuic",
@@ -341,6 +383,20 @@
     },
     {
       "source": "tech.eu",
+      "title": "Always Friday raises \u20ac1.05M to automate corporate event planning with AI agents",
+      "article_url": "https://tech.eu/2026/04/28/always-friday-raises-eur105m-to-automate-corporate-event-planning-with-ai-agents/",
+      "company": "Always Friday",
+      "amount_str": "\u20ac1.05M",
+      "pub_date": "2026-04-28T07:00:00Z",
+      "website": "https://alwaysfriday.it",
+      "linkedin_url": "https://linkedin.com/company/alwaysfridayit",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "email@company.com",
+      "twitter_url": ""
+    },
+    {
+      "source": "tech.eu",
       "title": "Qendra gets \u20ac162K to scale quantum computing systems",
       "article_url": "https://tech.eu/2026/04/27/qendra-gets-eur162k-to-scale-quantum-computing-systems/",
       "company": "Qendra",
@@ -351,20 +407,6 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "user@domain.com",
-      "twitter_url": ""
-    },
-    {
-      "source": "tech.eu",
-      "title": "Spacetech investor Seraphim Space targets \u00a3350M raise",
-      "article_url": "https://tech.eu/2026/04/27/spacetech-investor-seraphim-space-targets-350m-raise/",
-      "company": "Spacetech investor Seraphim Space targets \u00a3350M",
-      "amount_str": "",
-      "pub_date": "2026-04-27T11:15:00Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
       "twitter_url": ""
     }
   ]

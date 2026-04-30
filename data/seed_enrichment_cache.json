@@ -49671,5 +49671,103 @@
   },
   "https://retailtechinnovationhub.com/home/2026/4/28/why-product-complexity-is-the-specialist-retailers-best-defence-against-big-box-e-commerce": {
     "valid": false
+  },
+  "https://tech.eu/2026/04/30/earlybird-closes-eur360m-fund-viii-doubling-down-on-deeptech-and-long-term-ownership/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/29/eu-investigators-say-meta-isnt-enough-keep-children-off-platforms/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/29/microsoft-beats-expectations-guidance-comes-light-disappointing-investors/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/tetragon-financial-group-limited-march-2026-monthly-factsheet-302758161.html": {
+    "valid": false
+  },
+  "https://techfundingnews.com/online-oceans-4m-seraphim-space-autonomous-maritime-security/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/female-startup-leadership-scaling-trap-seed-series-b-cognism/": {
+    "valid": false
+  },
+  "https://www.moneycontrol.com/news/business/startup/freshworks-former-executives-ai-startup-dreamteam-in-talks-to-raise-40-million-series-a-from-accel-together-fund-13904176.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://sb.scorecardresearch.com/beacon.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://sifted.eu/articles/groove-quantum-16m-seed": {
+    "valid": true,
+    "company": "Groove Quantum",
+    "amount_str": "\u20ac16m",
+    "website": "https://groovequantum.com",
+    "linkedin_url": "https://linkedin.com/company/groove-quantum",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupdaily.net/topic/funding/ai-governance-startup-pockets-4-million-seed-round/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://growth-summit.com.au",
+    "linkedin_url": "",
+    "founder_name": "Quinton Anderson",
+    "founder_linkedin_url": "",
+    "contact_email": "events@smartcomedia.com.au",
+    "twitter_url": ""
+  },
+  "https://www.asiatechreview.com/p/atr-daily-efishery-founder-gets-9": {
+    "valid": true,
+    "company": "eFishery founder",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Gibran Huzaifah given",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techrseries.com/hrtechnology/insygna-wins-hr-tech-europe-2026-startup-competition-for-agentic-workforce-management-platform/": {
+    "valid": true,
+    "company": "Insygna",
+    "amount_str": "",
+    "website": "https://insygna.ai",
+    "linkedin_url": "https://linkedin.com/company/insygna",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "john@company.com",
+    "twitter_url": ""
+  },
+  "https://markets.businessinsider.com/news/currencies/chimpx-ai-raises-2-8-million-seed-round-to-make-defi-simple-for-everyone-1036082019": {
+    "valid": true,
+    "company": "ChimpX AI",
+    "amount_str": "$2.8 M",
+    "website": "https://chimpx.ai",
+    "linkedin_url": "",
+    "founder_name": "Akshay Nassa",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/04/29/avoca-closes-125m-at-1b-valuation-to-power-americas-services-economy-with-ai/": {
+    "valid": true,
+    "company": "Avoca",
+    "amount_str": "$125M",
+    "website": "https://www.avoca.com",
+    "linkedin_url": "https://linkedin.com/company/avoca-ai",
+    "founder_name": "said Apurva Shrivastava",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/avocaireland"
+  },
+  "https://www.venturedailydigest.com/p/google-is-testing-ai-chatbot-search": {
+    "valid": false
   }
 }
