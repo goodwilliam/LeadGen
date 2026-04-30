@@ -50301,5 +50301,224 @@
     "founder_linkedin_url": "https://linkedin.com/in/scottwalbrun",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/04/30/spacex-backer-137-ventures-raises-700m-for-two-growth-stage-funds/": {
+    "valid": false
+  },
+  "https://venturebeat.com/technology/writer-launches-ai-agents-that-can-act-without-prompts-taking-on-amazon-microsoft-and-salesforce": {
+    "valid": false
+  },
+  "https://venturebeat.com/orchestration/cheaper-tokens-bigger-bills-the-new-math-of-ai-infrastructure": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/venture/ai-powered-legal-tech-startup-legora-seriesd-extension-nvidia/": {
+    "valid": true,
+    "company": "Legal Tech Startup Legora",
+    "amount_str": "$50M",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/04/30/ai-workflow-automation-scales-private-markets-operations-appianworld/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-reminder-berger-montague-notifies-immunitybio-inc-nasdaq-ibrx-investors-of-a-class-action-lawsuit-and-deadline-302758490.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/green-boy-invests-in-fudi-protein-the-next-generation-of-plant-based-protein-via-alfalfa-302756065.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/unlikely-collaborators-announces-continued-support-of-dougy-center-with-new-two-year-grant-302758377.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/awwa-state-of-the-water-industry-report-underscores-infrastructure-funding-challenges-302759153.html": {
+    "valid": false
+  },
+  "https://techfundingnews.com/aidoc-150m-goldman-sachs-softbank-nventures-ipo-clinical-ai/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/bioorbit-bags-9-8m-from-localglobe-breega-seedcamp-and-others-in-largest-seed-raise-for-in-space-drug-manufacturing/": {
+    "valid": false
+  },
+  "https://ffnews.com/newsarticle/ebury-santanders-international-payments-fintech-secures-c-550-million-to-accelerate-growth-and-global-expansion/": {
+    "valid": false
+  },
+  "https://news.bettingstartups.com/p/lucra-raises-20m-to-build-brands-p2p-experiences": {
+    "valid": false
+  },
+  "https://www.theinformation.com/newsletters/ai-agenda/standard-intelligence-rides-neolab-fervor-computer-use-model": {
+    "valid": false
+  },
+  "https://www.passionateinmarketing.com/deep-tech-startup-ctruh-raises-2-5-million-seed-round-to-build-the-infrastructure-layer-of-the-spatial-internet-sets-us-and-uae-launch-for-2026/": {
+    "valid": true,
+    "company": "Ctruh",
+    "amount_str": "$2.5M",
+    "website": "http://www.ctruh.com",
+    "linkedin_url": "https://linkedin.com/company/ctruh",
+    "founder_name": "India Accelerator",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.citybiz.co/article/839605/general-analysis-raises-10-million-seed-round-to-secure-agentic-ai-systems/": {
+    "valid": true,
+    "company": "General Analysis",
+    "amount_str": "$10 M",
+    "website": "https://generalanalysis.com",
+    "linkedin_url": "https://linkedin.com/company/generalanalysis",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@generalanalysis.com",
+    "twitter_url": "https://x.com/generalanalysis"
+  },
+  "https://www.business-standard.com/amp/companies/start-ups/ubiqedge-raises-10-crore-to-scale-aiot-platform-for-infrastructure-126043001090_1.html": {
+    "valid": true,
+    "company": "Ubiqedge",
+    "amount_str": "",
+    "website": "https://www.ubiqedge.com",
+    "linkedin_url": "https://linkedin.com/company/ubiqedge",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@ubiqedge.com",
+    "twitter_url": "https://x.com/Ubiqedge"
+  },
+  "https://www.citybiz.co/article/839513/mosaic-soc-secures-3-8-million-in-funding/": {
+    "valid": true,
+    "company": "Mosaic SoC",
+    "amount_str": "$3.8 M",
+    "website": "https://www.mosaic-soc.com",
+    "linkedin_url": "https://linkedin.com/company/mosaic-soc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@mosaic-soc.com",
+    "twitter_url": ""
+  },
+  "https://www.forbes.com/sites/davidprosser/2026/04/30/why-mosaic-sees-a-brighter-future-for-smart-glasses/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.indianstartuptimes.com/investment/vikra-ocean-tech-secures-1m-seed-round-to-scale-indigenous-subsea-robotics/": {
+    "valid": true,
+    "company": "Vikra Ocean Tech",
+    "amount_str": "$1M",
+    "website": "https://vikraoceantech.com",
+    "linkedin_url": "https://linkedin.com/company/vikra-ocean-tech-pvt-ltd",
+    "founder_name": "Atul Javeri on Backing",
+    "founder_linkedin_url": "",
+    "contact_email": "bda@vikraoceantech.com",
+    "twitter_url": "https://x.com/TechVikra"
+  },
+  "https://chargedevs.com/newswire/nouveau-monde-graphite-secures-297-million-to-advance-canadian-graphite-mine-project/": {
+    "valid": true,
+    "company": "Nouveau Monde Graphite",
+    "amount_str": "$297 m",
+    "website": "https://nmg.com",
+    "linkedin_url": "https://linkedin.com/company/nouveaumondegraphite",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/NYSE_NMG"
+  },
+  "https://fuelcellsworks.com/2026/04/30/green-investment/spiral-hydrogen-raises-2-7m-pre-seed-funding-to-build-green-hydrogen-pilot-in-rotterdam": {
+    "valid": false
+  },
+  "https://chargedevs.com/newswire/indium-corporation-wins-3-2m-doe-grant-to-revive-domestic-gallium-production-for-first-time-since-1987/": {
+    "valid": true,
+    "company": "Indium Corporation",
+    "amount_str": "$3.2M",
+    "website": "https://www.indium.com",
+    "linkedin_url": "https://linkedin.com/company/indium-corporation",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/IndiumCorp"
+  },
+  "https://www.finsmes.com/2026/04/mosaic-soc-raises-3-8m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://thecondia.com/shiprazor-seed-norrsken22-south-africa/": {
+    "valid": false
+  },
+  "https://www.deccanherald.com/business/companies/bengaluru-based-deep-tech-startup-ctruh-raises-25-million-3986646": {
+    "valid": true,
+    "company": "Bengaluru-based deep tech startup Ctruh",
+    "amount_str": "$2.5 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://weetracker.com/2026/04/30/shiprazor-2-65m-seed-africa-ecommerce-logistics/": {
+    "valid": false
+  },
+  "https://businessnewsthisweek.com/business/funding-release-deep-tech-startup-ctruh-raises-usd-2-5-million-seed-round-to-build-the-infrastructure-layer-of-the-spatial-internet-sets-us-and-uae-launch-for-2026/": {
+    "valid": true,
+    "company": "Deep Tech Startup Ctruh",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "India Accelerator",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://indianstartupnews.com/funding/bengaluru-based-deeptech-startup-ctruh-raises-25-million-from-inflection-point-ventures-others-11781331": {
+    "valid": true,
+    "company": "Ctruh",
+    "amount_str": "$2.5 m",
+    "website": "https://www.ctruh.com",
+    "linkedin_url": "https://linkedin.com/company/ctruh",
+    "founder_name": "of Ctruh",
+    "founder_linkedin_url": "https://linkedin.com/in/jayantsiktia",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.assemblymag.com/articles/100009-startup-develops-low-power-chips-to-enable-real-time-spatial-intelligence-in-devices": {
+    "valid": false
+  },
+  "https://www.whalesbook.com/news/English/startupsvc/Ctruh-Lands-dollar25M-Seed-to-Build-Spatial-Internet-Foundation/69f3418808235f0c2a203b6b": {
+    "valid": true,
+    "company": "Deep-tech firm Ctruh",
+    "amount_str": "$2.5 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://inc42.com/buzz/credit-management-startup-oolka-bags-14-mn-in-accel-led-series-a-round/": {
+    "valid": true,
+    "company": "Credit Management Startup Oolka",
+    "amount_str": "$14 M",
+    "website": "https://www.ai-market-watch.com",
+    "linkedin_url": "https://linkedin.com/company/ai-market-watch",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@ai-market-watch.com",
+    "twitter_url": "https://x.com/aimarketwatch"
+  },
+  "https://www.startuphub.ai/ai-news/funding-round/2026/mosaic-soc-raises-3-8m-for-spatial-intelligence-chips": {
+    "valid": true,
+    "company": "Mosaic SoC",
+    "amount_str": "$3.8M",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/mosaic-soc",
+    "founder_name": "led by",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
