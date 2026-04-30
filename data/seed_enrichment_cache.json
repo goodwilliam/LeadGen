@@ -49511,5 +49511,165 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/": {
+    "valid": false
+  },
+  "https://venturebeat.com/technology/amazons-openai-gambit-signals-a-new-phase-in-the-cloud-wars-one-where-exclusivity-no-longer-applies": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/29/nvidias-nventures-backs-150m-round-medical-ai-startup-aidoc/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/29/rogo-raises-160m-speed-financial-analysis-ai-agents/": {
+    "valid": true,
+    "company": "Rogo",
+    "amount_str": "$160M",
+    "website": "https://rogo.ai/felix",
+    "linkedin_url": "https://linkedin.com/company/rogoai",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/jamesatrogo",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/cohen--steers-renames-ucits-preferred-securities-strategies-as-hybrid-credit-strategies-302757544.html": {
+    "valid": false
+  },
+  "https://techfundingnews.com/manamind-1-5m-pre-seed-sure-valley-game-qa-ai-agents/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.family-day-htgf.de",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "events@htgf.de",
+    "twitter_url": "https://x.com/HTGF"
+  },
+  "https://www.aol.com/articles/3-dividend-stocks-buy-hold-165200535.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://s.yimg.com/oa/consent.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupfortune.com/parag-agrawals-parallel-web-systems-is-building-the-internet-agents-actually-need/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.defensedaily.com/unmanned-warfare-frontier-model-developer-scout-ai-raises-100-million/unmanned-systems/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://letsdatascience.com/news/general-analysis-raises-10m-seed-to-secure-agentic-ai-33e27740": {
+    "valid": false
+  },
+  "https://www.facebook.com/techcrunch/posts/on-wednesday-pursuit-announced-a-22-million-seed-round-led-by-mike-rosengarten-t/1317077476952783/": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/slator_san-francisco-startup-raises-seed-round-for-activity-7455203003273420801-YS7X": {
+    "valid": true,
+    "company": "San Francisco Startup",
+    "amount_str": "",
+    "website": "https://growthlist.co",
+    "linkedin_url": "https://linkedin.com/company/growthlist-co",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/GrowthLists"
+  },
+  "https://techfundingnews.com/belo-14m-series-a-tether-crypto-latam-expansion/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/blockworks-192m-valuation-series-a-parafi-crypto-data/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/04/processminer-closes-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.biopharmaboardroom.com/news/28/4653/trialcliniq-secures-pre-seed-funding-and-accelerator-backing-to-advance-equitable-clinical-trial-access.html": {
+    "valid": true,
+    "company": "TrialClinIQ",
+    "amount_str": "",
+    "website": "https://trialcliniq.com",
+    "linkedin_url": "https://linkedin.com/company/trialcliniq",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://m.economictimes.com/tech/funding/anthropic-weighs-new-funding-round-at-valuation-exceeding-900-billion-report/articleshow/130620657.cms": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://img.etimg.com/photo/104857408.cms",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.edtechinnovationhub.com/news/ucl-professor-david-silver-secures-11-billion-to-build-ai-that-learns-from-experience-not-data": {
+    "valid": true,
+    "company": "AlphaGo creator",
+    "amount_str": "$1.1B",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/sanfrancisco/news/2026/04/29/sfbt-digest-wednesday-dreame-mangia-tutti-wozniak.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupmag.co.uk/funding/dex-2026-seed-funding/": {
+    "valid": false
+  },
+  "https://www.startupmag.co.uk/funding/trackzero-2026-pre-seed-funding/": {
+    "valid": false
+  },
+  "https://www.startuphub.ai/investment_rounds/general-analysis-seed-2026": {
+    "valid": true,
+    "company": "General Analysis",
+    "amount_str": "$10 m",
+    "website": "https://generalanalysis.com",
+    "linkedin_url": "https://linkedin.com/company/generalanalysis",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@generalanalysis.com",
+    "twitter_url": "https://x.com/generalanalysis"
+  },
+  "https://mercomcapital.com/funding-ma-roundup-exergy3-raises-13-5m-seed-funding/": {
+    "valid": false
+  },
+  "https://retailtechinnovationhub.com/home/2026/4/28/why-product-complexity-is-the-specialist-retailers-best-defence-against-big-box-e-commerce": {
+    "valid": false
   }
 }
