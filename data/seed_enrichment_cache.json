@@ -51803,5 +51803,133 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://venturebeat.com/security/mcp-stdio-flaw-200000-ai-agent-servers-exposed-ox-security-audit": {
+    "valid": false
+  },
+  "https://venturebeat.com/technology/xai-launches-grok-4-3-at-an-aggressively-low-price-and-a-new-fast-powerful-voice-cloning-suite": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/venture/biggest-funding-rounds-defense-aerospace-ai-fintech/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/essen-health-care-launches-radin-health-all-in-one-ris-and-pacs-cloud-platform-302760463.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/atra-investors-have-opportunity-to-lead-atara-biotherapeutics-inc-securities-fraud-lawsuit-302760389.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/poet-stockholder-alert-shareholder-rights-law-firm-robbins-llp-reminds-investors-of-the-class-action-lawsuit-against-poet-technologies-inc-302760328.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/poet-investors-have-opportunity-to-lead-poet-technologies-inc-securities-fraud-lawsuit-filed-by-the-rosen-law-firm-302760318.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/equifax-announces-participation-in-upcoming-investor-conferences-302760292.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/calamos-investments-closed-end-funds-nasdaq-chi-chy-csq-cgo-chw-ccd-and-cpz-announce-monthly-distributions-and-required-notifications-of-sources-of-distribution-302760449.html": {
+    "valid": false
+  },
+  "https://www.msn.com/en-ca/money/smallbusiness/the-16-billion-startup-factory-betting-on-20-somethings-with-no-ideas-yet/ar-AA228TOr?ocid=finance-verthp-feeds": {
+    "valid": false
+  },
+  "https://www.foodbusinessnews.net/articles/30239-gymkhana-fine-foods-makes-us-debut": {
+    "valid": false
+  },
+  "https://www.techloy.com/week-18s-biggest-startup-funding-rounds-in-africa-and-the-middle-east-led-by-aidoc-as-healthcare-ai-and-quantum-computing-drew-the-biggest-checks/": {
+    "valid": true,
+    "company": "Quantum Art",
+    "amount_str": "$100 m",
+    "website": "https://www.quantum-art.tech",
+    "linkedin_url": "https://linkedin.com/company/quantum-art-tech",
+    "founder_name": "problem its",
+    "founder_linkedin_url": "",
+    "contact_email": "info@quantum-art.tech",
+    "twitter_url": ""
+  },
+  "https://www.lse.co.uk/ShareChat.html?ShareTicker=MFAI&share=Mindflair&thread=A5C8861A-40FD-4F5E-A714-D611653A2445": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/yc-alum-skio-105m-exit-recharge-shopify-subscription-rival/": {
+    "valid": false
+  },
+  "https://arcticstartup.com/flare-raises-e3-6m-pre-seed/": {
+    "valid": true,
+    "company": "Flare",
+    "amount_str": "\u20ac3.6 m",
+    "website": "https://flare.io",
+    "linkedin_url": "https://linkedin.com/company/flare-io",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/FlareSystems"
+  },
+  "https://gizmodo.com/everything-you-missed-from-elon-musks-testimony-in-the-openai-trial-2000753364": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/featherless-ai-20m-series-a-amd-airbus-open-source-ai-infrastructure/": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/newyork/news/2026/05/01/rogo-raises-160m-plus-other-nyc-fundraising-news.html": {
+    "valid": true,
+    "company": "Rogo",
+    "amount_str": "$160M",
+    "website": "https://www.monroecounty-fl.gov",
+    "linkedin_url": "https://linkedin.com/company/monroecounty",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/tumas-r-918bb6125",
+    "contact_email": "ballard-lindsey@monroecounty-fl.gov",
+    "twitter_url": "https://x.com/monroecounty"
+  },
+  "https://www.startuphub.ai/ai-news/claudes-corner/2026/claudes-corner-strand-ai-yc-w2026": {
+    "valid": false
+  },
+  "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/y-combinator-decodes-ai-recursive-reasoning-models": {
+    "valid": false
+  },
+  "https://www.startuphub.ai/ai-news/technology/2026/snowflake-names-2026-startup-challenge-finalists": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "stated Anurag Gurtu",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://m.dailyhunt.in/news/india/english/entrackr+english-epaper-entrackr/deeptech+startup+ctruh+secures+25+mn+in+seed+funding-newsid-n710511189": {
+    "valid": true,
+    "company": "Deep-tech startup Ctruh",
+    "amount_str": "$2.5 M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://arcticstartup.com/flare-raises-e3-6m-pre-seed/?amp=1": {
+    "valid": false
+  },
+  "https://cryptorank.io/news/feed/aa0f2-us-startup-venture-funding-boom-concentration-bay-area": {
+    "valid": false
   }
 }

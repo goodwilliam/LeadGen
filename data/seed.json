@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-05-01T16:51:37.013854Z",
+  "generated_at": "2026-05-01T20:45:28.282847Z",
   "count": 30,
-  "enriched_count": 24,
+  "enriched_count": 23,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Rogo raises $160M for AI platform \u2014 plus 7 more NYC VC deals - New York Business Journal",
+      "article_url": "https://www.bizjournals.com/newyork/news/2026/05/01/rogo-raises-160m-plus-other-nyc-fundraising-news.html",
+      "company": "Rogo",
+      "amount_str": "$160M",
+      "pub_date": "2026-05-01T18:14:29Z",
+      "website": "https://www.monroecounty-fl.gov",
+      "linkedin_url": "https://linkedin.com/company/monroecounty",
+      "founder_name": "",
+      "founder_linkedin_url": "https://linkedin.com/in/tumas-r-918bb6125",
+      "contact_email": "ballard-lindsey@monroecounty-fl.gov",
+      "twitter_url": "https://x.com/monroecounty"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Danish Flare secures \u20ac3.6 million pre-seed to build trust layer for the AI internet",
+      "article_url": "https://arcticstartup.com/flare-raises-e3-6m-pre-seed/",
+      "company": "Flare",
+      "amount_str": "\u20ac3.6 m",
+      "pub_date": "2026-05-01T16:23:07Z",
+      "website": "https://flare.io",
+      "linkedin_url": "https://linkedin.com/company/flare-io",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/FlareSystems"
+    },
     {
       "source": "Google Alerts",
       "title": "Exclusive: Startup Fun raises $72 million for the serious business of converting crypto and cash",
@@ -18,6 +46,20 @@
       "twitter_url": ""
     },
     {
+      "source": "Google Alerts",
+      "title": "Week 18's Biggest Startup Funding Rounds in Africa and the Middle East, Led by Aidoc, as ...",
+      "article_url": "https://www.techloy.com/week-18s-biggest-startup-funding-rounds-in-africa-and-the-middle-east-led-by-aidoc-as-healthcare-ai-and-quantum-computing-drew-the-biggest-checks/",
+      "company": "Quantum Art",
+      "amount_str": "$100 m",
+      "pub_date": "2026-05-01T15:31:29Z",
+      "website": "https://www.quantum-art.tech",
+      "linkedin_url": "https://linkedin.com/company/quantum-art-tech",
+      "founder_name": "problem its",
+      "founder_linkedin_url": "",
+      "contact_email": "info@quantum-art.tech",
+      "twitter_url": ""
+    },
+    {
       "source": "tech.eu",
       "title": "Ineffable Intelligence launches with $1.1B, Nebius buys Eigen AI in $643M deal, and UK startups enter UK parliament",
       "article_url": "https://tech.eu/2026/05/01/ineffable-intelligence-launches-with-1-1b-nebius-buys-eigen-ai-in-643m-deal-and-uk-startups-enter-uk-parliament/",
@@ -29,6 +71,20 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Marloo Raises $10M Seed Round Led by Blackbird Ventures | Financial IT",
+      "article_url": "https://financialit.net/news/fundraising-news/marloo-raises-10m-seed-round-led-blackbird-ventures",
+      "company": "Marloo",
+      "amount_str": "$10M",
+      "pub_date": "2026-05-01T13:40:03Z",
+      "website": "https://www.marloo.com",
+      "linkedin_url": "https://linkedin.com/company/gomarloo",
+      "founder_name": "Terry Vogiatzis",
+      "founder_linkedin_url": "",
+      "contact_email": "team@gomarloo.com",
       "twitter_url": ""
     },
     {
@@ -61,34 +117,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "SpaceX backer 137 Ventures closes $700M to invest in high-impact tech companies",
-      "article_url": "https://techfundingnews.com/137-ventures-700m-funds-spacex-stake-ipo-15bn-aum/",
-      "company": "SpaceX backer 137 Ventures",
-      "amount_str": "$700M",
-      "pub_date": "2026-05-01T11:58:33Z",
-      "website": "https://beamstart.com",
-      "linkedin_url": "https://linkedin.com/company/beamstart",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "contact@beamstart.com",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Swedish Redpine secures \u20ac6.8 million seed to tackle AI's data gap - ArcticStartup",
-      "article_url": "https://arcticstartup.com/redpine-raises-e6-8m-seed/",
-      "company": "Redpine",
-      "amount_str": "\u20ac6.8 m",
-      "pub_date": "2026-05-01T11:47:55Z",
-      "website": "https://www.redpine.ai",
-      "linkedin_url": "https://linkedin.com/company/redpineai",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "hello@redpine.ai",
-      "twitter_url": "https://x.com/redpineai"
-    },
-    {
-      "source": "Google Alerts",
       "title": "Techcyte Raises $15M in Funding - FinSMEs",
       "article_url": "https://www.finsmes.com/2026/05/techcyte-raises-15m-in-funding.html",
       "company": "Techcyte",
@@ -103,6 +131,20 @@
     },
     {
       "source": "Google Alerts",
+      "title": "Netomi Raises $110M to Power AI Customer Experiences - Ventureburn",
+      "article_url": "https://ventureburn.com/netomi-raises-110m-to-power-ai-customer-experiences/",
+      "company": "Netomi",
+      "amount_str": "$110M",
+      "pub_date": "2026-05-01T11:23:31Z",
+      "website": "https://www.netomi.site",
+      "linkedin_url": "https://linkedin.com/company/netomi",
+      "founder_name": "says Ndidi Oteh",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
       "title": "Zapdos Labs Raises $500K to Bring AI Video Agents to Factory Floors - Yahoo Finance",
       "article_url": "https://finance.yahoo.com/sectors/technology/articles/zapdos-labs-raises-500k-bring-110500890.html",
       "company": "Zapdos Labs",
@@ -111,6 +153,20 @@
       "website": "",
       "linkedin_url": "https://linkedin.com/company/zapdos",
       "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Cheque in: 4 ANZ startups ended April raising $90 million - Startup Daily",
+      "article_url": "https://www.startupdaily.net/topic/funding/cheque-in-4-anz-startups-ended-april-raising-90-million/",
+      "company": "Auckland startup Marloo",
+      "amount_str": "$14 m",
+      "pub_date": "2026-05-01T10:56:05Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "Quinton Anderson",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
@@ -159,34 +215,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Greatly Health Secures $4M to Scale MSK-Validated Integrative Oncology Platform",
-      "article_url": "https://hitconsultant.net/2026/04/30/greatly-health-seed-round-integrative-oncology/",
-      "company": "Greatly Health",
-      "amount_str": "$4M",
-      "pub_date": "2026-05-01T09:30:28Z",
-      "website": "https://greatlyhealth.com",
-      "linkedin_url": "https://linkedin.com/company/greatly-health",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Fintech startup Oolka raises $14 million to expand AI tools for credit and personal finance",
-      "article_url": "https://indianstartupnews.com/funding/fintech-startup-oolka-raises-14-million-to-expand-ai-tools-for-credit-and-personal-finance-11783456",
-      "company": "Oolka",
-      "amount_str": "$14 m",
-      "pub_date": "2026-05-01T09:23:04Z",
-      "website": "https://oolka.in",
-      "linkedin_url": "https://linkedin.com/company/oolka",
-      "founder_name": "Utkrishta Kumar",
-      "founder_linkedin_url": "https://linkedin.com/in/utkrishtak",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "Mirror Security Bags $2.5 Mn To Boost AI Cybersecurity Solutions | Dailyhunt",
       "article_url": "https://m.dailyhunt.in/news/india/english/inc42-epaper-inc/mirror+security+bags+25+mn+to+boost+ai+cybersecurity+solutions-newsid-n691620264",
       "company": "Mirror Security",
@@ -198,20 +226,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": "https://x.com/mirror_Security"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "CloudSEK Raises $10 Mn To Accelerate US Expansion - Dailyhunt",
-      "article_url": "https://m.dailyhunt.in/news/india/english/inc42-epaper-inc/cloudsek+raises+10+mn+to+accelerate+us+expansion-newsid-n696927292",
-      "company": "CloudSEK",
-      "amount_str": "$10 M",
-      "pub_date": "2026-05-01T08:35:25Z",
-      "website": "https://www.cloudsek.com",
-      "linkedin_url": "https://linkedin.com/company/cloudsek",
-      "founder_name": "",
-      "founder_linkedin_url": "https://linkedin.com/in/fb1h2s",
-      "contact_email": "info@cloudsek.com",
-      "twitter_url": "https://x.com/cloudsek"
     },
     {
       "source": "Google Alerts",
@@ -296,20 +310,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
-    },
-    {
-      "source": "VentureBeat",
-      "title": "Netomi raises $110 million as Accenture and Adobe bet on AI for customer service",
-      "article_url": "https://venturebeat.com/technology/netomi-raises-110-million-as-accenture-and-adobe-bet-on-ai-for-customer-service",
-      "company": "Netomi",
-      "amount_str": "$110 m",
-      "pub_date": "2026-04-30T11:00:00Z",
-      "website": "https://www.netomi.com",
-      "linkedin_url": "https://linkedin.com/company/netomi",
-      "founder_name": "of DreamWorks",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/netomi_official"
     },
     {
       "source": "tech.eu",
