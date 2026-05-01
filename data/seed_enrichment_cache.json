@@ -51118,5 +51118,113 @@
   },
   "https://tcbmag.com/startup-wants-to-save-sepsis-patients-with-a-breath-test/": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/roboai-ceo-issues-letter-to-investors-on-2025-financial-results-company-reaching-inflection-point-with-positive-cash-flow-and-business-order-delivery-302760017.html": {
+    "valid": false
+  },
+  "https://x.com/StartupDailyANZ/status/2049687403267272973": {
+    "valid": true,
+    "company": "Aigentsphere",
+    "amount_str": "$4 m",
+    "website": "https://www.aigentsphere.com",
+    "linkedin_url": "https://linkedin.com/company/aigentsphere",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/cxo-digital-pulse_deep-tech-startup-ctruh-raises-25-million-activity-7455843456050049024-AEKz": {
+    "valid": true,
+    "company": "Deep Tech Startup Ctruh",
+    "amount_str": "$2.5 M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.storyboard18.com/brand-makers/from-%E2%82%B94-cr-to-%E2%82%B9320-cr-valuation-in-2-years-inside-youtuber-flying-beasts-beastlife-96933.htm": {
+    "valid": false
+  },
+  "https://tech.eu/2026/05/01/over/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "at Advanced Machine Intelligence",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://dronedj.com/2026/05/01/skyfireai-autonomous-drone-seed-funding/": {
+    "valid": true,
+    "company": "SkyfireAI",
+    "amount_str": "$11M",
+    "website": "https://www.skyfireai.com",
+    "linkedin_url": "https://linkedin.com/company/skyfire-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/donmathis",
+    "contact_email": "info@skyfireai.com",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://evertiq.com/news/2026-05-01-quantum-technology-startup-qmatter-raises-12-million": {
+    "valid": true,
+    "company": "Quantum technology startup QMatter",
+    "amount_str": "$1.2 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Alexis Ralli",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techbuild.africa/shiprazor-2-65m-fix-africas-e-commerce-delivery/": {
+    "valid": true,
+    "company": "Cape Town-based Shiprazor",
+    "amount_str": "$2.65 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Sahil Affriya",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/04/udora-raises-10m-in-funding.html": {
+    "valid": false
+  },
+  "https://www.forex.com/en-us/trading-guides/what-are-unicorn-startups/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/pmtbox-secures-15m-led-by-tandem-ventures-to-give-merchants-control-over-payments-risk-and-data-systems/": {
+    "valid": true,
+    "company": "pmtbox",
+    "amount_str": "$15M",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/pmtbox",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://inc42.com/buzz/ctruh-raises-2-5-mn-to-build-extended-reality-tools-for-enterprises/": {
+    "valid": true,
+    "company": "Ctruh",
+    "amount_str": "$2.5 M",
+    "website": "https://www.ctruh.com",
+    "linkedin_url": "https://linkedin.com/company/ctruh",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
