@@ -50831,5 +50831,260 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/": {
+    "valid": false
+  },
+  "https://betakit.com/prairiescan-invests-7-9-million-in-funding-to-support-co-labs-local-ai-firms/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/30/standard-intelligence-raises-75m-develop-efficient-computer-use-models/": {
+    "valid": true,
+    "company": "Standard Intelligence",
+    "amount_str": "$75M",
+    "website": "https://si.inc",
+    "linkedin_url": "https://linkedin.com/company/standardintelligence",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/04/30/featherless-ai-pulls-20m-scale-serverless-hosting-open-source-ai-models/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/30/netomi-banks-110m-embed-agentic-ai-deeper-enterprise-customer-service/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-chowchow-cloud-international-holdings-ltd---chow-302759683.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-reminds-investors-with-losses-on-their-investment-in-tripcom-group-limited-of-class-action-lawsuit-and-upcoming-deadlines--tcom-302759695.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-reminds-investors-with-losses-on-their-investment-in-camping-world-holdings-inc-of-class-action-lawsuit-and-upcoming-deadlines---cwh-302759689.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-reminds-investors-with-losses-on-their-investment-in-mondaycom-ltd-of-class-action-lawsuit-and-upcoming-deadlines--mndy-302759686.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-reminds-investors-with-losses-on-their-investment-in-driven-brands-holdings-inc-of-class-action-lawsuit-and-upcoming-deadlines--drvn-302759690.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-reminds-investors-with-losses-on-their-investment-in-soleno-therapeutics-inc-of-class-action-lawsuit-and-upcoming-deadlines--slno-302759680.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-baycom-corp---bcml-302759675.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-reminds-investors-with-losses-on-their-investment-in-fitness-champs-holdings-ltd-of-class-action-lawsuit-and-upcoming-deadlines--fchl-302759664.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-sezzle-inc---sezl-302759663.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-washington-trust-bancorp-inc---wash-302759681.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-jinkosolar-holding-co-ltd---jks-302759670.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-sportradar-group-ag---srad-302759674.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-phreesia-inc----phr-302759673.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-alstom-sa---alsmy-aomff-302759684.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-badger-meter-inc---bmi-302759650.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-nano-x-imaging-ltd---nnox-302759658.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.cision.com/about/accessibility",
+    "linkedin_url": "https://linkedin.com/company/cision",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@cision.com",
+    "twitter_url": "https://x.com/cision"
+  },
+  "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-pics-nv---pics-302759679.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.cision.com/about/accessibility",
+    "linkedin_url": "https://linkedin.com/company/cision",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@cision.com",
+    "twitter_url": "https://x.com/cision"
+  },
+  "https://www.backscoop.com/newsletter-posts/singapores-cata-raises-5-3m-seed": {
+    "valid": true,
+    "company": "Singapore's Cata",
+    "amount_str": "$5.3M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/rocsys-secures-13m-from-capricorn-partners-to-automate-robotaxi-charging/": {
+    "valid": true,
+    "company": "Rocsys",
+    "amount_str": "$13M",
+    "website": "https://www.rocsys.com",
+    "linkedin_url": "https://linkedin.com/company/rocsys-handsfree-charging",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/techcrunch/videos/this-ai-social-app-built-in-imessage-just-raised-51m/971880778871701/?locale=az_AZ": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-1/347842917_1423341545148752_6184112018743503471_n.png",
+    "linkedin_url": "",
+    "founder_name": "These college",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://letsdatascience.com/news/mosaic-soc-raises-38m-to-build-perception-chips-7e5feb79": {
+    "valid": false
+  },
+  "https://quantumcomputingreport.com/groove-quantum-secures-e16-million-18-7m-usd-to-scale-germanium-spin-qubits-debuts-18-qubit-processor/": {
+    "valid": true,
+    "company": "Groove Quantum",
+    "amount_str": "\u20ac16 M",
+    "website": "https://groovequantum.com",
+    "linkedin_url": "https://linkedin.com/company/groove-quantum",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://afrotech.com/connect-music-ai-ownership-black-artists-labels-music-industry": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://htlbid.com/v3/afrotech.com/htlbid.css",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.entrepreneur.com/entrepreneurs/i-turned-down-a-near-million-dollar-job-offer-from-openai": {
+    "valid": false
+  },
+  "https://agfundernews.com/agrifood-signals-us-farm-bill-passes-halter-goes-off-grid-earlybird-closes-deeptech-fund": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "http://browsehappy.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://telecareaware.com/a-quickie-news-roundup-chatgpt-for-clinicians-unveiled-uhg-to-invest-1-5b-in-ai-aidoc-raises-150m-trifetch-raises-1-9m-pre-seed-boehringer-ingelheim-eko-health-partner-on-canine-heart-murmur/": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/grishinrobotics_manamind-has-raised-12m-in-pre-seed-funding-activity-7455749948995862528-tiKd": {
+    "valid": false
+  },
+  "https://www.reddit.com/r/startups/comments/1t0boxr/tips_for_a_preseed_proposal_i_will_not_promote/": {
+    "valid": false
+  },
+  "https://www.panewslab.com/en/articles/019ddd83-f87b-77fc-b949-4ef9420e74a1": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cloud.umami.is/script.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/p2svc_p2s-portfolio-startup-jupid-raises-840k-activity-7455627321467727873-J-6S": {
+    "valid": true,
+    "company": "P2S portfolio startup Jupid",
+    "amount_str": "$840K",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "As Slava Akulov",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thetopvoices.com/story/jupid-raises-dollar840k-to-bring-ai-accounting-to-small-businesses": {
+    "valid": true,
+    "company": "Jupid",
+    "amount_str": "$840K",
+    "website": "https://jupid.com",
+    "linkedin_url": "https://linkedin.com/company/jupid",
+    "founder_name": "said Slava Akulov",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.youtube.com/shorts/V1UAKXWMIRs": {
+    "valid": false
+  },
+  "https://www.facebook.com/venturekick/photos/alp-bio-ag-secures-usd-22-million-in-pre-seed-funding-to-tackle-one-of-the-bigge/1691653855989078/": {
+    "valid": false
+  },
+  "https://www.qcintel.com/hydrogen/article/algeria-and-poland-discuss-cooperation-in-green-ammonia-methanol-gas-petchems-63985.html": {
+    "valid": false
+  },
+  "https://techfundingnews.com/anthropic-50b-round-900b-valuation-ipo-report/": {
+    "valid": true,
+    "company": "Anthropic could",
+    "amount_str": "$380B",
+    "website": "https://www.msn.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/TFNBreakingNews/status/2049885069872074945": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/Chirp-Regular.80fda27a.woff2",
+    "linkedin_url": "",
+    "founder_name": "and Pluralsight founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/pittsburgh/news/2026/04/30/andrew-moore-lovelace-ai-exits-stealth.html": {
+    "valid": false
+  },
+  "https://www.startupmag.co.uk/funding/online-oceans-2026-seed-funding": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/": {
+    "valid": false
+  },
+  "https://ground.news/article/sas-shiprazor-raises-r44m-to-build-an-intelligent-logistics-layer-for-african-e-commerce": {
+    "valid": true,
+    "company": "Africa's Shiprazor",
+    "amount_str": "$2.65M",
+    "website": "https://techbuild.africa/shiprazor-2-65m-fix-africas-e-commerce-delivery",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
