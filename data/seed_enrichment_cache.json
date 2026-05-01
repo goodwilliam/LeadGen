@@ -51564,5 +51564,244 @@
   },
   "https://www.startupmag.co.uk/funding/auryx-2026-seed-funding/": {
     "valid": false
+  },
+  "https://tech.eu/2026/05/01/ineffable-intelligence-launches-with-1-1b-nebius-buys-eigen-ai-in-643m-deal-and-uk-startups-enter-uk-parliament/": {
+    "valid": true,
+    "company": "Ineffable Intelligence",
+    "amount_str": "$1.1B",
+    "website": "https://techstartups.com",
+    "linkedin_url": "https://linkedin.com/company/ineffable-intelligence",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/05/01/securonix-partners-ai-spera-bring-criminal-ip-intelligence-threatq/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/pbf-martinez-refinery-is-still-down-driving-6-per-gallon-gas----resupply-and-minimum-inventory-rules-needed-to-stop-gas-price-spikes-says-consumer-watchdog-302759815.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/eos-energy-enterprises-eose-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302759892.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/gemini-space-station-inc-gemi-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302759890.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/soleno-therapeutics-inc-slno-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302759886.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/boston-scientific-corporation-bsx-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302759889.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/super-micro-computer-inc-smci-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302759887.html": {
+    "valid": false
+  },
+  "https://ground.news/article/bioorbit-raises-132m-for-manufacturing-pharmaceutical-drugs-in-space": {
+    "valid": true,
+    "company": "BioOrbit",
+    "amount_str": "\u00a39.8m",
+    "website": "https://www.bioorbit.space",
+    "linkedin_url": "https://linkedin.com/company/bioorbit",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fortune.com/2026/05/01/fun-series-a-fundraise-multicoin-capital-signalfire/": {
+    "valid": true,
+    "company": "Fun",
+    "amount_str": "$72 m",
+    "website": "https://www.fun.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/thefunpimps",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.analyticsinsight.net/startups/weekly-funding-roundup-ex-deepmind-researchers-ai-startup-raises-11-billion-mojro-secures-55-million": {
+    "valid": false
+  },
+  "https://www.binance.com/en/square/post/318456708395634": {
+    "valid": false
+  },
+  "https://www.techloy.com/week-18s-biggest-startup-funding-rounds-in-latin-america-led-by-cloudwalk-with-big-bets-on-fintech/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.crainsdetroit.com/technology/cdb-justair-grows-nationally-20260501/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://consent.trustarc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://financialit.net/news/fundraising-news/marloo-raises-10m-seed-round-led-blackbird-ventures": {
+    "valid": true,
+    "company": "Marloo",
+    "amount_str": "$10M",
+    "website": "https://www.marloo.com",
+    "linkedin_url": "https://linkedin.com/company/gomarloo",
+    "founder_name": "Terry Vogiatzis",
+    "founder_linkedin_url": "",
+    "contact_email": "team@gomarloo.com",
+    "twitter_url": ""
+  },
+  "https://en.cryptonomist.ch/2026/05/01/crypto-payments-fun-raises/": {
+    "valid": false
+  },
+  "https://financialit.net/news/fundraising-news/unblockpay-raises-45-million-seed-round": {
+    "valid": true,
+    "company": "UnblockPay",
+    "amount_str": "$4.5 M",
+    "website": "https://www.unblockpay.com",
+    "linkedin_url": "https://linkedin.com/company/unblockpay",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@unblockpay.com",
+    "twitter_url": ""
+  },
+  "https://www.varindia.com/news/coforge-takes-over-cigniti": {
+    "valid": false
+  },
+  "https://ventureburn.com/netomi-raises-110m-to-power-ai-customer-experiences/": {
+    "valid": true,
+    "company": "Netomi",
+    "amount_str": "$110M",
+    "website": "https://www.netomi.site",
+    "linkedin_url": "https://linkedin.com/company/netomi",
+    "founder_name": "says Ndidi Oteh",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/tampabay/news/2026/05/01/brain-ca-technologies-raise.html": {
+    "valid": true,
+    "company": "Sarasota AI startup Brain-CA",
+    "amount_str": "$5 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/manamind-raises-1-5m-pre-seed": {
+    "valid": false
+  },
+  "https://www.fintechfutures.com/venture-capital-funding/icymi-fintech-funding-round-up-marloo-onsetto-tenora-and-more": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cookielaw.org",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://youthsportsbusinessreport.com/goodrec-recreational-sports-platform-hits-1m-players-in-68-cities/": {
+    "valid": false
+  },
+  "https://theaiworld.org/news/manamind-raises-12m-to-automate-game-qa-with-ai": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/founderstoday_manamind-bags-15m-pre-seed-to-automate-activity-7455906837872218113-zn9j": {
+    "valid": true,
+    "company": "ManaMind",
+    "amount_str": "$1.5M",
+    "website": "https://www.manamind.fr",
+    "linkedin_url": "https://linkedin.com/company/manamind",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://chargedevs.com/newswire/6k-energy-and-crg-defense-sign-7-year-deal-for-domestic-nmc811-cathode-supply-for-defense-battery-systems-s/": {
+    "valid": false
+  },
+  "https://www.newcomer.co/p/californias-billionaire-tax-heads": {
+    "valid": false
+  },
+  "https://techfundingnews.com/nebius-eigen-ai-643m-acquisition-mit-inference-bay-area/": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DXy-cLkiaGC/": {
+    "valid": false
+  },
+  "https://www.startuphub.ai/ai-news/claude's-corner/2026/claudes-corner-compresr-yc-w2026": {
+    "valid": false
+  },
+  "https://www.yogonet.com/international/news/2026/05/01/119036-xo-market-raises-6-million-bets-on-usergenerated-prediction-markets": {
+    "valid": true,
+    "company": "XO Market",
+    "amount_str": "$6 m",
+    "website": "https://xo.market",
+    "linkedin_url": "https://linkedin.com/company/xomarket",
+    "founder_name": "Ali Habbabeh told",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/xomarket"
+  },
+  "https://bebeez.eu/2026/05/01/swedish-redpine-secures-e6-8-million-seed-to-tackle-ais-data-gap/": {
+    "valid": false
+  },
+  "https://beamstart.com/news/data-the-seed-funding-boom-17776335575120": {
+    "valid": false
+  },
+  "https://ca.finance.yahoo.com/news/ai-chips-today-next-gen-113743399.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https:&#x2F;&#x2F;ca.yahoo.com&#x2F;",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://arcticstartup.com/redpine-raises-e6-8m-seed/": {
+    "valid": true,
+    "company": "Redpine",
+    "amount_str": "\u20ac6.8 m",
+    "website": "https://www.redpine.ai",
+    "linkedin_url": "https://linkedin.com/company/redpineai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@redpine.ai",
+    "twitter_url": "https://x.com/redpineai"
+  },
+  "https://www.bizjournals.com/columbus/news/2026/05/01/velocity-health-telehealth-med-spa-powell.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Sandeep Palakodeti is",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/techcabal_last-week-we-shared-that-swoop-an-eswatini-activity-7455888925619023872-IPPw": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
