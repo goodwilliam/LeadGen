@@ -51226,5 +51226,343 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://news.crunchbase.com/seed/us-startup-venture-funding-boom-concentration-bay-area/": {
+    "valid": false
+  },
+  "https://x.com/legal_padi/status/2049967353278906745": {
+    "valid": true,
+    "company": "Swoop just",
+    "amount_str": "$7.3M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.tiktok.com/@aidabblernews/video/7634706311707446541": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/olasunkanmi.adeniyi.895155/posts/a-19-year-old-just-raised-73-million-to-build-his-startup-in-nigerianot-a-headli/816194708231435/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "many local",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://launchbaseafrica.com/2026/05/01/the-quiet-extinction-of-the-african-seed-round-ten-hard-truths-from-aprils-funding-data/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://launchbaseafrica.gumroad.com",
+    "linkedin_url": "",
+    "founder_name": "Former Molten Ventures",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://hitconsultant.net/2026/04/30/greatly-health-seed-round-integrative-oncology/": {
+    "valid": true,
+    "company": "Greatly Health",
+    "amount_str": "$4M",
+    "website": "https://greatlyhealth.com",
+    "linkedin_url": "https://linkedin.com/company/greatly-health",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://indianstartupnews.com/funding/fintech-startup-oolka-raises-14-million-to-expand-ai-tools-for-credit-and-personal-finance-11783456": {
+    "valid": true,
+    "company": "Oolka",
+    "amount_str": "$14 m",
+    "website": "https://oolka.in",
+    "linkedin_url": "https://linkedin.com/company/oolka",
+    "founder_name": "Utkrishta Kumar",
+    "founder_linkedin_url": "https://linkedin.com/in/utkrishtak",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/05/denmarks-decameal-raises-seed-funding-to-turn-invasive-shore-crabs-into-sustainable-feed-ingredients/": {
+    "valid": false
+  },
+  "https://www.chaincatcher.com/en/article/2261985": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://github.com/ChainCatcherOfficial",
+    "linkedin_url": "",
+    "founder_name": "with participation from",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ChainCatcher_"
+  },
+  "https://bebeez.eu/2026/05/01/if-figma-and-lovable-had-a-child-that-became-an-architect-synaps-raises-e3-06-million-to-rival-autocad/": {
+    "valid": false
+  },
+  "https://www.htworld.co.uk/by-region/europe/uk-europe/cambridge-startup-auryx-secures-us2m-funding-htsu26/": {
+    "valid": false
+  },
+  "https://www.panewslab.com/en/articles/019de267-8de4-76ef-b3dc-984d29a07964": {
+    "valid": false
+  },
+  "https://startupfortune.com/standard-intelligence-raised-75-million-at-a-500-million-valuation-to-teach-ai-agents-how-to-see-and-use-software-the-way-humans-do/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/05/techcyte-raises-15m-in-funding.html": {
+    "valid": true,
+    "company": "Techcyte",
+    "amount_str": "$15M",
+    "website": "https://techcyte.com",
+    "linkedin_url": "https://linkedin.com/company/techcyte",
+    "founder_name": "Led by Ben Cahoon",
+    "founder_linkedin_url": "",
+    "contact_email": "info@techcyte.com",
+    "twitter_url": "https://x.com/techcyte"
+  },
+  "https://finance.yahoo.com/sectors/technology/articles/zapdos-labs-raises-500k-bring-110500890.html": {
+    "valid": true,
+    "company": "Zapdos Labs",
+    "amount_str": "$500K",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/zapdos",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://simplywall.st/stocks/us/semiconductors/nasdaq-nvda/nvidia/news/ai-chips-today-next-gen-chips-drive-spatial-intelligence-for": {
+    "valid": true,
+    "company": "Mosaic SoC",
+    "amount_str": "$3.8 m",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/mosaic-soc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.energy-storage.news/1gwh-of-bess-progressed-across-eu-by-recap-flower-goldbeck-tavion-longi-teos-and-spp/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/05/jupid-raises-840k-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.startupdaily.net/topic/funding/cheque-in-4-anz-startups-ended-april-raising-90-million/": {
+    "valid": true,
+    "company": "Auckland startup Marloo",
+    "amount_str": "$14 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Quinton Anderson",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/05/axoft-raises-55m-in-series-a-funding.html": {
+    "valid": true,
+    "company": "Axoft",
+    "amount_str": "$55M",
+    "website": "https://axoft.us",
+    "linkedin_url": "https://linkedin.com/company/axoftus",
+    "founder_name": "the Stanford",
+    "founder_linkedin_url": "",
+    "contact_email": "info@axoft.us",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/jupid-raises-840k-in-funding": {
+    "valid": false
+  },
+  "https://www.qcintel.com/hydrogen/article/rio-grande-do-norte-eyes-hydrogen-led-growth-with-2-4bn-energy-investment-64018.html": {
+    "valid": false
+  },
+  "https://www.techloy.com/asias-biggest-startup-funding-in-week-18-led-by-snabbit-vivacta-biotechnology-and-sahi/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.share-talk.com/rns-hotlist-with-zak-mir-halo-tgr-gnip-mfai-omi-adme-mka-stx-atn-gex/": {
+    "valid": false
+  },
+  "https://m.dailyhunt.in/news/india/english/inc42-epaper-inc/mirror+security+bags+25+mn+to+boost+ai+cybersecurity+solutions-newsid-n691620264": {
+    "valid": true,
+    "company": "Mirror Security",
+    "amount_str": "$2.5 M",
+    "website": "https://mirrorsecurity.io",
+    "linkedin_url": "https://linkedin.com/company/101652053",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/mirror_Security"
+  },
+  "https://www.finsmes.com/2026/05/vertech-industrial-systems-receives-investment-from-catchment-capital.html": {
+    "valid": false
+  },
+  "https://m.dailyhunt.in/news/india/english/inc42-epaper-inc/cloudsek+raises+10+mn+to+accelerate+us+expansion-newsid-n696927292": {
+    "valid": true,
+    "company": "CloudSEK",
+    "amount_str": "$10 M",
+    "website": "https://www.cloudsek.com",
+    "linkedin_url": "https://linkedin.com/company/cloudsek",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/fb1h2s",
+    "contact_email": "info@cloudsek.com",
+    "twitter_url": "https://x.com/cloudsek"
+  },
+  "https://www.finsmes.com/2026/05/apera-ai-receives-investment-from-zebra-ventures.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Led by Sina Afrooze",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://uk.finance.yahoo.com/news/mindflair-expands-gaming-svv-investment-074229982.html": {
+    "valid": false
+  },
+  "https://www.gasworld.com/story/bubble-free-electrolyser-start-up-plans-rotterdam-pilot-after-e2-7m-raise/2248511.article/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/05/vam-apps-raises-18m-in-user-acquisition-financing-from-pvx-partners.html": {
+    "valid": false
+  },
+  "https://sahyadristartups.com/spotlight/mosaic-soc-bags-usd-3-8m-pre-seed-funding-round-led-by-founderful/": {
+    "valid": false
+  },
+  "https://www.panewslab.com/en/articles/019de229-1ee3-7409-b1b6-a21695d6ca90": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cloud.umami.is/script.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/137-ventures-700m-funds-spacex-stake-ipo-15bn-aum/": {
+    "valid": true,
+    "company": "SpaceX backer 137 Ventures",
+    "amount_str": "$700M",
+    "website": "https://beamstart.com",
+    "linkedin_url": "https://linkedin.com/company/beamstart",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@beamstart.com",
+    "twitter_url": ""
+  },
+  "https://fortune.com/2026/05/01/caique-costa-flyfast-cancer-research-startup-fly-feeding-device/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cookielaw.org/consent/906dc33b-1fc3-4b2c-a324-8bc0b7db9050/OtAutoBlock.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bebeez.eu/2026/05/01/amsterdams-vnyx-secures-over-e1-million-to-make-fashion-resale-more-profitable-than-dumping-and-burning/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/05/netomi-raises-110m-in-funding.html": {
+    "valid": true,
+    "company": "Netomi",
+    "amount_str": "$110M",
+    "website": "https://www.netomi.site",
+    "linkedin_url": "https://linkedin.com/company/netomi",
+    "founder_name": "Led by Puneet Mehta",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/05/depth-health-raises-1m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/dreambase-raises-3-7-million-in-funding": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/05/01/denmarks-decameal-raises-seed-funding-to-turn-invasive-shore-crabs-into-sustainable-feed-ingredients/": {
+    "valid": true,
+    "company": "Denmark's Decameal",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.businessinsider.com/entrepreneurs-first-startup-factory-young-founders-2026-4": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://i.insider.com/69f2427eeac306af891f4982",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": ".@Q.yf",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/futurefemhealth_swedish-startup-omaia-raises-pre-seed-funding-activity-7455873879396331520-7c22": {
+    "valid": true,
+    "company": "Omaia",
+    "amount_str": "",
+    "website": "https://www.omaia.ai",
+    "linkedin_url": "https://linkedin.com/company/omaia-health",
+    "founder_name": "Nina Elisabeth Larsen",
+    "founder_linkedin_url": "https://linkedin.com/in/nina-elisabeth-larsen",
+    "contact_email": "hello@omaia.ai",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/reel/DXyd7P8jhLi/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/three-structural-forces-holding-back-next-generation-vc-ai/": {
+    "valid": false
+  },
+  "https://www.startupmag.co.uk/funding/manamind-2026-seed-funding/": {
+    "valid": false
+  },
+  "https://www.startupmag.co.uk/funding/auryx-2026-seed-funding/": {
+    "valid": false
   }
 }
