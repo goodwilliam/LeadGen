@@ -51086,5 +51086,37 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/04/30/ringcentral-raises-cx-bar-branded-messaging-ai-embedded-teams-calling/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/04/30/agentic-engineering-startup-juliahub-lands-65m-automate-design-testing-industrial-products/": {
+    "valid": true,
+    "company": "Agentic engineering startup JuliaHub",
+    "amount_str": "$65M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/der-startup-moldova-summit-2026-beleuchtet-moldawiens-aufstieg-als-tor-fur-start-ups-zu-den-europaischen-markten-302759954.html": {
+    "valid": false
+  },
+  "https://www.fidelity.com/news/article/default/202605010038PRIMZONEFULLFEED9711267": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/pmtbox-secures-15m-seed-round": {
+    "valid": false
+  },
+  "https://x.com/stpiindia/status/2049846334493213089": {
+    "valid": false
+  },
+  "https://www.reddit.com/r/Entrepreneurs/comments/1t0icst/preseed_funding_gap_between_advice_and_reality/": {
+    "valid": false
+  },
+  "https://tcbmag.com/startup-wants-to-save-sepsis-patients-with-a-breath-test/": {
+    "valid": false
   }
 }

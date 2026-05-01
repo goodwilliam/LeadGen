@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-05-01T02:16:55.120812Z",
+  "generated_at": "2026-05-01T06:33:18.483536Z",
   "count": 21,
-  "enriched_count": 15,
+  "enriched_count": 14,
   "articles": [
+    {
+      "source": "SiliconAngle",
+      "title": "Agentic engineering startup JuliaHub lands $65M to automate design and testing of industrial products",
+      "article_url": "https://siliconangle.com/2026/04/30/agentic-engineering-startup-juliahub-lands-65m-automate-design-testing-industrial-products/",
+      "company": "Agentic engineering startup JuliaHub",
+      "amount_str": "$65M",
+      "pub_date": "2026-05-01T02:30:17Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "SiliconAngle",
       "title": "Standard Intelligence raises $75M to develop efficient computer use models",
@@ -96,20 +110,6 @@
       "pub_date": "2026-04-30T16:22:01Z",
       "website": "",
       "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Ctruh Raises $2.5 Million Seed Round Led by IPV | iSrch Startup News - LinkedIn",
-      "article_url": "https://www.linkedin.com/posts/isrch-startup-news-891620394_ctruh-raises-25-million-seed-round-led-activity-7455597832339881984-camu",
-      "company": "Ctruh",
-      "amount_str": "$2.5 M",
-      "pub_date": "2026-04-30T15:32:16Z",
-      "website": "https://www.ctruh.com",
-      "linkedin_url": "https://linkedin.com/company/ctruh",
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
