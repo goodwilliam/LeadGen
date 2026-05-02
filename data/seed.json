@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-05-02T06:03:27.408483Z",
-  "count": 28,
-  "enriched_count": 22,
+  "generated_at": "2026-05-02T08:59:37.924784Z",
+  "count": 30,
+  "enriched_count": 23,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Digital gaming startup Spill Games has raised $3.1 million in a seed funding round co-led by ...",
+      "article_url": "https://www.instagram.com/p/DX0_kQGE-ON/",
+      "company": "Spill Games",
+      "amount_str": "$3.1 m",
+      "pub_date": "2026-05-02T07:33:51Z",
+      "website": "https://spill.games",
+      "linkedin_url": "https://linkedin.com/company/spill-games",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "contact@spill.games",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Swedish startup Omaia raises pre- seed funding to support mental health in pregnancy",
@@ -15,6 +29,20 @@
       "founder_name": "said Nina Larsen",
       "founder_linkedin_url": "",
       "contact_email": "hello@omaia.ai",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Visual AI Startup Chance AI Secures $3M Seed Funding | Venture Capital",
+      "article_url": "https://venturecapital.com/headlines/funding-events/visual-ai-startup-chance-ai-secures-3m-seed-funding-v1",
+      "company": "Visual AI Startup Chance AI",
+      "amount_str": "$3M",
+      "pub_date": "2026-05-02T05:00:13Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "Funding Events Wynnchurch Capital",
+      "founder_linkedin_url": "",
+      "contact_email": "",
       "twitter_url": ""
     },
     {

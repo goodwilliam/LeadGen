@@ -52121,5 +52121,44 @@
   },
   "https://x.com/stpiindia/status/2049831809534538080": {
     "valid": false
+  },
+  "https://www.startuphub.ai/investment_rounds/synaps-pre-seed-2026": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DX0_kQGE-ON/": {
+    "valid": true,
+    "company": "Spill Games",
+    "amount_str": "$3.1 m",
+    "website": "https://spill.games",
+    "linkedin_url": "https://linkedin.com/company/spill-games",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@spill.games",
+    "twitter_url": ""
+  },
+  "https://thecondia.com/failed-african-fintech-startups-ideas/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/05/finsmes-intelligence-report-april-27-to-may-1-2026.html": {
+    "valid": false
+  },
+  "https://venturecapital.com/headlines/funding-events/visual-ai-startup-chance-ai-secures-3m-seed-funding-v1": {
+    "valid": true,
+    "company": "Visual AI Startup Chance AI",
+    "amount_str": "$3M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Funding Events Wynnchurch Capital",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
