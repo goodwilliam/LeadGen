@@ -52160,5 +52160,97 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://followict.news/en/african-startup-news-may-1-2026/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.efinance.com.eg",
+    "linkedin_url": "https://linkedin.com/company/e-finance",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@efinance.com.eg",
+    "twitter_url": ""
+  },
+  "https://www.tribuneindia.com/news/business/cleantech-startup-novorbisitus-raises-rs-13-35-crore-seed-round-led-by-rainmatter-with-participation-from-rockstud-capital/": {
+    "valid": false
+  },
+  "https://www.tribuneindia.com/news/business/cleantech-startup-novorbisitus-raises-rs-13-35-crore-seed-round-led-by-rainmatter-with-participation-from-rockstud-capital/amp": {
+    "valid": true,
+    "company": "NovorbisItus",
+    "amount_str": "",
+    "website": "https://novorbisitus.com",
+    "linkedin_url": "https://linkedin.com/company/novorbis-itus",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@novorbisitus.com",
+    "twitter_url": ""
+  },
+  "https://bitcoinworld.co.in/scout-ai-military-vehicles-funding/": {
+    "valid": true,
+    "company": "Scout AI",
+    "amount_str": "$11 m",
+    "website": "https://scoutco.ai",
+    "linkedin_url": "https://linkedin.com/company/scout-ai-official",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/colby-adcock-277ab42a",
+    "contact_email": "yourname@email.com",
+    "twitter_url": "https://x.com/ScoutAI_"
+  },
+  "https://www.indexbox.io/blog/energy-storage-projects-exceeding-1-gwh-move-forward-across-europe/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://mc.yandex.ru",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.qcintel.com/hydrogen/article/samsung-taps-air-products-for-industrial-gas-hydrogen-supply-to-semiconductor-facility-64044.html": {
+    "valid": false
+  },
+  "https://www.facebook.com/adobomagazine/posts/brand-business-manifest-launches-with-2-million-in-pre-seed-funding-to-help-agen/1414604877373036/": {
+    "valid": true,
+    "company": "Manifest",
+    "amount_str": "$2 m",
+    "website": "https://manife.st",
+    "linkedin_url": "https://linkedin.com/company/manifestshow",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/danielmishin",
+    "contact_email": "info@manife.st",
+    "twitter_url": "https://x.com/ManifestFOL"
+  },
+  "https://www.egr.global/northamerica/news/create-your-own-prediction-market-secures-6m-in-seed-funding/": {
+    "valid": true,
+    "company": "Create-your-own prediction market startup",
+    "amount_str": "$6m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "in seed funding",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/adobomagazine/status/2050247433930580021": {
+    "valid": false
+  },
+  "https://www.facebook.com/SiliconVikings/posts/estotech-deeptech-startup-spiral_hydrogen-has-raised-27m-in-pre-seed-funding-to-/1432274858943692/": {
+    "valid": false
+  },
+  "https://www.business-standard.com/content/press-releases-ani/cleantech-startup-novorbisitus-raises-rs-13-35-crore-seed-round-led-by-rainmatter-with-participation-from-rockstud-capital-126050200556_1.html": {
+    "valid": true,
+    "company": "NovorbisItus",
+    "amount_str": "",
+    "website": "https://novorbisitus.com",
+    "linkedin_url": "https://linkedin.com/company/novorbis-itus",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@novorbisitus.com",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/accenture-and-adobe-back-netomis-110m-series-c-to-scale-enterprise-agentic-cx/": {
+    "valid": false
   }
 }
