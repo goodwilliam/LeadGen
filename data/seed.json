@@ -1,20 +1,48 @@
 {
-  "generated_at": "2026-05-02T12:53:32.855979Z",
-  "count": 29,
+  "generated_at": "2026-05-02T16:42:25.473841Z",
+  "count": 28,
   "enriched_count": 22,
   "articles": [
     {
       "source": "Google Alerts",
+      "title": "ALP Bio Raises \u20ac1.9M to Advance Immune Organoid AI Platform - Sci-Tech Today",
+      "article_url": "https://www.sci-tech-today.com/news/alp-bio-raises-1-9m/",
+      "company": "ALP Bio",
+      "amount_str": "\u20ac1.9M",
+      "pub_date": "2026-05-02T15:06:05Z",
+      "website": "https://www.swissbiotech.org",
+      "linkedin_url": "https://linkedin.com/company/alpbio",
+      "founder_name": "Christian Vahlensieck alongside",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
       "title": "Cleantech Startup NovorbisItus Raises Rs 13.35 Crore Seed Round Led by Rainmatter, with ...",
-      "article_url": "https://www.tribuneindia.com/news/business/cleantech-startup-novorbisitus-raises-rs-13-35-crore-seed-round-led-by-rainmatter-with-participation-from-rockstud-capital/amp",
+      "article_url": "https://www.tribuneindia.com/news/business/cleantech-startup-novorbisitus-raises-rs-13-35-crore-seed-round-led-by-rainmatter-with-participation-from-rockstud-capital-2-2/",
       "company": "NovorbisItus",
       "amount_str": "",
-      "pub_date": "2026-05-02T08:14:57Z",
+      "pub_date": "2026-05-02T11:32:15Z",
       "website": "https://novorbisitus.com",
       "linkedin_url": "https://linkedin.com/company/novorbis-itus",
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "info@novorbisitus.com",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Startup Lagos' Post - LinkedIn",
+      "article_url": "https://www.linkedin.com/posts/startuplag_shiprazor-has-raised-265-million-in-seed-activity-7456257644811599873-RRHW",
+      "company": "Shiprazor",
+      "amount_str": "$2.65 m",
+      "pub_date": "2026-05-02T11:07:45Z",
+      "website": "https://shiprazor.com",
+      "linkedin_url": "https://linkedin.com/company/shiprazor",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "support@shiprazor.com",
       "twitter_url": ""
     },
     {
@@ -47,6 +75,20 @@
     },
     {
       "source": "Google Alerts",
+      "title": "Startup Fun raises $72 million for the serious business of converting crypto and cash - MSN",
+      "article_url": "https://www.msn.com/en-us/money/other/exclusive-startup-fun-raises-72-million-for-the-serious-business-of-converting-crypto-and-cash/ar-AA22akgQ",
+      "company": "Fun",
+      "amount_str": "$72 m",
+      "pub_date": "2026-05-02T06:46:55Z",
+      "website": "https://www.firstfun.com",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "https://linkedin.com/in/thefunpimps",
+      "contact_email": "contact@firstfun.com",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
       "title": "Scout AI Raises $100 Million To Train Autonomous Military Vehicles For War - Bitcoin World",
       "article_url": "https://bitcoinworld.co.in/scout-ai-military-vehicles-funding/",
       "company": "Scout AI",
@@ -61,16 +103,16 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Visual AI Startup Chance AI Secures $3M Seed Funding | Venture Capital",
-      "article_url": "https://venturecapital.com/headlines/funding-events/visual-ai-startup-chance-ai-secures-3m-seed-funding-v1",
-      "company": "Visual AI Startup Chance AI",
-      "amount_str": "$3M",
-      "pub_date": "2026-05-02T05:00:13Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "Funding Events Wynnchurch Capital",
+      "title": "Swedish startup Omaia raises pre- seed funding to support mental health in pregnancy",
+      "article_url": "https://www.futurefemhealth.com/p/swedish-startup-omaia-raises-pre",
+      "company": "Omaia",
+      "amount_str": "",
+      "pub_date": "2026-05-02T05:22:02Z",
+      "website": "https://www.omaia.ai",
+      "linkedin_url": "https://linkedin.com/company/omaia-health",
+      "founder_name": "said Nina Larsen",
       "founder_linkedin_url": "",
-      "contact_email": "",
+      "contact_email": "hello@omaia.ai",
       "twitter_url": ""
     },
     {
@@ -103,6 +145,20 @@
     },
     {
       "source": "Google Alerts",
+      "title": "Sarasota AI startup closes $5M oversubscribed seed round &gt;&gt; See the full article below \u2b07\ufe0f",
+      "article_url": "https://www.facebook.com/TampaBusinessJournal/posts/sarasota-ai-startup-closes-5m-oversubscribed-seed-round-see-the-full-article-bel/1551690766968120/",
+      "company": "Sarasota AI startup",
+      "amount_str": "$5M",
+      "pub_date": "2026-05-01T21:48:22Z",
+      "website": "https://www.bizjournals.com",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
       "title": "Denmark's Decameal raises Seed funding to turn invasive shore crabs into sustainable feed ...",
       "article_url": "https://bebeez.eu/2026/05/01/denmarks-decameal-raises-seed-funding-to-turn-invasive-shore-crabs-into-sustainable-feed-ingredients/",
       "company": "Denmark's Decameal",
@@ -111,20 +167,6 @@
       "website": "https://duck.ai",
       "linkedin_url": "",
       "founder_name": "CEO and",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Ctruh raises $2.5 million seed to scale AI-driven immersive technology globally Bengaluru ...",
-      "article_url": "https://www.instagram.com/p/DXzuAXhkyYD/",
-      "company": "Bengaluru-based Ctruh",
-      "amount_str": "$2.5 m",
-      "pub_date": "2026-05-01T19:59:31Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "leadership reshuffle deepens as",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
@@ -142,20 +184,6 @@
       "founder_linkedin_url": "",
       "contact_email": "info@axoft.us",
       "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Zamp Launches the Operating System of Sales Tax, Globally, With Investment from ... - Financial IT",
-      "article_url": "https://financialit.net/news/fundraising-news/zamp-launches-operating-system-sales-tax-globally-investment-thomson-reuters",
-      "company": "The company",
-      "amount_str": "$30 m",
-      "pub_date": "2026-05-01T19:26:27Z",
-      "website": "https://www.thecompanystore.com",
-      "linkedin_url": "https://linkedin.com/company/the-company-us",
-      "founder_name": "said Tamara Steffens",
-      "founder_linkedin_url": "",
-      "contact_email": "custserv@thecompanystore.com",
-      "twitter_url": "https://x.com/thecompanystore"
     },
     {
       "source": "Google Alerts",
@@ -186,20 +214,6 @@
       "twitter_url": "https://x.com/FlareSystems"
     },
     {
-      "source": "Google Alerts",
-      "title": "Exclusive: Startup Fun raises $72 million for the serious business of converting crypto and cash",
-      "article_url": "https://fortune.com/2026/05/01/fun-series-a-fundraise-multicoin-capital-signalfire/",
-      "company": "Fun",
-      "amount_str": "$72 m",
-      "pub_date": "2026-05-01T15:57:23Z",
-      "website": "https://www.fun.com",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "https://linkedin.com/in/thefunpimps",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
       "source": "tech.eu",
       "title": "Ineffable Intelligence launches with $1.1B, Nebius buys Eigen AI in $643M deal, and UK startups enter UK parliament",
       "article_url": "https://tech.eu/2026/05/01/ineffable-intelligence-launches-with-1-1b-nebius-buys-eigen-ai-in-643m-deal-and-uk-startups-enter-uk-parliament/",
@@ -211,34 +225,6 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "BioOrbit Secures \u00a39.8m to Advance Drug Manufacturing in Space - Ground News",
-      "article_url": "https://ground.news/article/bioorbit-raises-132m-for-manufacturing-pharmaceutical-drugs-in-space",
-      "company": "BioOrbit",
-      "amount_str": "\u00a39.8m",
-      "pub_date": "2026-05-01T10:15:28Z",
-      "website": "https://www.bioorbit.space",
-      "linkedin_url": "https://linkedin.com/company/bioorbit",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Swedish startup Omaia raises pre-seed funding to support mental health in pregnancy",
-      "article_url": "https://www.linkedin.com/posts/futurefemhealth_swedish-startup-omaia-raises-pre-seed-funding-activity-7455873879396331520-7c22",
-      "company": "Omaia",
-      "amount_str": "",
-      "pub_date": "2026-05-01T08:15:38Z",
-      "website": "https://www.omaia.ai",
-      "linkedin_url": "https://linkedin.com/company/omaia-health",
-      "founder_name": "Nina Elisabeth Larsen",
-      "founder_linkedin_url": "https://linkedin.com/in/nina-elisabeth-larsen",
-      "contact_email": "hello@omaia.ai",
       "twitter_url": ""
     },
     {
