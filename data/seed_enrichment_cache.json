@@ -51931,5 +51931,123 @@
   },
   "https://cryptorank.io/news/feed/aa0f2-us-startup-venture-funding-boom-concentration-bay-area": {
     "valid": false
+  },
+  "https://siliconangle.com/2026/05/01/pentagon-inks-ai-procurement-deals-seven-companies-leaves-anthropic/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/r3-ventures-joins-forbright-bank-on-chase-tower-acquisition-in-chevy-chase-maryland-302760546.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rockefeller-foundation-celebrates-60th-anniversary-of-nairobi-office-and-100-years-of-impact-in-africa-302760520.html": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/05/01/meta-buys-robotic-startup-to-bolster-its-humanoid-ai-ambitions/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://ventureburn.com/axoft-raises-55m-to-transform-brain-machine-tech/?amp=1": {
+    "valid": true,
+    "company": "Axoft",
+    "amount_str": "$55M",
+    "website": "https://axoft.us",
+    "linkedin_url": "https://linkedin.com/company/axoftus",
+    "founder_name": "the Stanford",
+    "founder_linkedin_url": "",
+    "contact_email": "info@axoft.us",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/61576418807438/videos/a-four-month-old-ai-startup-just-raised-the-biggest-seed-round-in-history-11-bil/1324881309536199/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/659037498_122102591282880626_8783362166689438212_n.png",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/": {
+    "valid": false
+  },
+  "https://letsdatascience.com/news/chance-ai-raises-3m-seed-for-camera-first-ai-74a7ee2c": {
+    "valid": false
+  },
+  "https://entarabi.com/en/2026/05/creators-hq-and-alfan-launch-1-36m-fund-to-support-content-creators-in-the-uae/": {
+    "valid": false
+  },
+  "https://business.financialpost.com/technology/defence-startup-juno-public-reverse-takeover": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://forms.gle/6M6VTS3mmHXGbFjM8",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://financialit.net/news/fundraising-news/zamp-launches-operating-system-sales-tax-globally-investment-thomson-reuters": {
+    "valid": true,
+    "company": "The company",
+    "amount_str": "$30 m",
+    "website": "https://www.thecompanystore.com",
+    "linkedin_url": "https://linkedin.com/company/the-company-us",
+    "founder_name": "said Tamara Steffens",
+    "founder_linkedin_url": "",
+    "contact_email": "custserv@thecompanystore.com",
+    "twitter_url": "https://x.com/thecompanystore"
+  },
+  "https://m.dailyhunt.in/news/india/english/entrepreneur+india-epaper-entrprnr/i+turned+down+a+nearmillion+dollar+job+with+openai+now+my+app+has+500000+people+on+the+waitlist-newsid-n710588975": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wa.me",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DXzGaqekqSc/": {
+    "valid": false
+  },
+  "https://www.globenewswire.com/news-release/2026/05/01/3285836/0/en/zapdos-labs-raises-500k-to-bring-ai-video-agents-to-factory-floors.html": {
+    "valid": true,
+    "company": "Zapdos Labs",
+    "amount_str": "$500K",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/zapdos",
+    "founder_name": "Tri Nguyen",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupmag.co.uk/funding/ecodetect-2026-pre-seed-funding": {
+    "valid": false
+  },
+  "https://fintech.global/2026/05/01/fintech-funding-hits-800bn-as-us-firms-dominate-market/": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DXzuAXhkyYD/": {
+    "valid": true,
+    "company": "Bengaluru-based Ctruh",
+    "amount_str": "$2.5 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "leadership reshuffle deepens as",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.energetica-india.net/news/ubiqedge-raises-inr-10-crore-to-scale-aiot-platform-for-industrial-infrastructure": {
+    "valid": false
   }
 }
