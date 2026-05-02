@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-05-02T16:42:25.473841Z",
-  "count": 28,
-  "enriched_count": 22,
+  "generated_at": "2026-05-02T20:34:43.686578Z",
+  "count": 26,
+  "enriched_count": 21,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Startup wrap \u2014 Funding momentum steady amid MENA regional tensions - Arab News PK",
+      "article_url": "https://www.arabnews.pk/node/2642103/business-economy",
+      "company": "UAE-based fintech firm Comfi",
+      "amount_str": "$95 m",
+      "pub_date": "2026-05-02T18:49:05Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "said Mohamed El Abbouri",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "ALP Bio Raises \u20ac1.9M to Advance Immune Organoid AI Platform - Sci-Tech Today",
@@ -103,20 +117,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Swedish startup Omaia raises pre- seed funding to support mental health in pregnancy",
-      "article_url": "https://www.futurefemhealth.com/p/swedish-startup-omaia-raises-pre",
-      "company": "Omaia",
-      "amount_str": "",
-      "pub_date": "2026-05-02T05:22:02Z",
-      "website": "https://www.omaia.ai",
-      "linkedin_url": "https://linkedin.com/company/omaia-health",
-      "founder_name": "said Nina Larsen",
-      "founder_linkedin_url": "",
-      "contact_email": "hello@omaia.ai",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "Create-your-own prediction market startup secures $6m in seed funding - EGR Global",
       "article_url": "https://www.egr.global/northamerica/news/create-your-own-prediction-market-secures-6m-in-seed-funding/",
       "company": "Create-your-own prediction market startup",
@@ -141,34 +141,6 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "contact@beamstart.com",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Sarasota AI startup closes $5M oversubscribed seed round &gt;&gt; See the full article below \u2b07\ufe0f",
-      "article_url": "https://www.facebook.com/TampaBusinessJournal/posts/sarasota-ai-startup-closes-5m-oversubscribed-seed-round-see-the-full-article-bel/1551690766968120/",
-      "company": "Sarasota AI startup",
-      "amount_str": "$5M",
-      "pub_date": "2026-05-01T21:48:22Z",
-      "website": "https://www.bizjournals.com",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Denmark's Decameal raises Seed funding to turn invasive shore crabs into sustainable feed ...",
-      "article_url": "https://bebeez.eu/2026/05/01/denmarks-decameal-raises-seed-funding-to-turn-invasive-shore-crabs-into-sustainable-feed-ingredients/",
-      "company": "Denmark's Decameal",
-      "amount_str": "",
-      "pub_date": "2026-05-01T21:30:29Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "CEO and",
-      "founder_linkedin_url": "",
-      "contact_email": "",
       "twitter_url": ""
     },
     {
@@ -200,20 +172,6 @@
       "twitter_url": ""
     },
     {
-      "source": "Google Alerts",
-      "title": "Danish Flare secures \u20ac3.6 million pre-seed to build trust layer for the AI internet",
-      "article_url": "https://arcticstartup.com/flare-raises-e3-6m-pre-seed/",
-      "company": "Flare",
-      "amount_str": "\u20ac3.6 m",
-      "pub_date": "2026-05-01T16:23:07Z",
-      "website": "https://flare.io",
-      "linkedin_url": "https://linkedin.com/company/flare-io",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/FlareSystems"
-    },
-    {
       "source": "tech.eu",
       "title": "Ineffable Intelligence launches with $1.1B, Nebius buys Eigen AI in $643M deal, and UK startups enter UK parliament",
       "article_url": "https://tech.eu/2026/05/01/ineffable-intelligence-launches-with-1-1b-nebius-buys-eigen-ai-in-643m-deal-and-uk-startups-enter-uk-parliament/",
@@ -225,6 +183,20 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Swedish startup Omaia raises pre-seed funding to support mental health in pregnancy",
+      "article_url": "https://www.linkedin.com/posts/futurefemhealth_swedish-startup-omaia-raises-pre-seed-funding-activity-7455873879396331520-7c22",
+      "company": "Omaia",
+      "amount_str": "",
+      "pub_date": "2026-05-01T08:15:38Z",
+      "website": "https://www.omaia.ai",
+      "linkedin_url": "https://linkedin.com/company/omaia-health",
+      "founder_name": "Nina Elisabeth Larsen",
+      "founder_linkedin_url": "https://linkedin.com/in/nina-elisabeth-larsen",
+      "contact_email": "hello@omaia.ai",
       "twitter_url": ""
     },
     {

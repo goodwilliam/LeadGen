@@ -52500,5 +52500,50 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.arabnews.pk/node/2642103/business-economy": {
+    "valid": true,
+    "company": "UAE-based fintech firm Comfi",
+    "amount_str": "$95 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "said Mohamed El Abbouri",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DX16xh4kfFT/": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DX2DRKfiFeO/": {
+    "valid": false
+  },
+  "https://www.youtube.com/watch?v=TrXnrSYQjco": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://i.ytimg.com/generate_204",
+    "linkedin_url": "",
+    "founder_name": "named James closed",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://quantumzeitgeist.com/quantum-computing-faster-harvard-startups/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "for research and development",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DX15fEbiDwq/": {
+    "valid": false
+  },
+  "https://bharatfast.com/english/start-up/novorbis-funding-news/32436/": {
+    "valid": false
   }
 }
