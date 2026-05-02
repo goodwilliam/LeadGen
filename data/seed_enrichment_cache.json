@@ -52049,5 +52049,77 @@
   },
   "https://www.energetica-india.net/news/ubiqedge-raises-inr-10-crore-to-scale-aiot-platform-for-industrial-infrastructure": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/super-micro-computer-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuits-against-super-micro-computer-inc---smci-302760508.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/gemini-space-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-gemini-space-station-inc---gemi-302760501.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/driven-brands-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-driven-brands-holdings-inc---drvn-302760502.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/immunitybio-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-immunitybio-inc---ibrx-302760500.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/lkq-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-lkq-corporation---lkq-302760499.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/tripcom-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-tripcom-group-limited---tcom-302760510.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/ses-ai-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-ses-ai-corporation---ses-302760504.html": {
+    "valid": false
+  },
+  "https://startupfortune.com/synaps-raised-3-million-to-take-on-autocad-with-an-ai-native-architectural-platform-and-the-bet-is-bigger-than-it-looks/": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/technology/artificial-intelligence/egypt-born-tactful-ai-bags-us-1-million-pre-series-a-to-grow-its-agentic-cx-platform/ar-AA1WuWN2?ocid=BingNewsVerp&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": false
+  },
+  "https://www.business-standard.com/amp/companies/start-ups/ev-startups-seek-govt-intervention-cii-writes-to-pmo-flags-pli-flaws-126050100814_1.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://vcnewsdaily.com/zapdos-labs/venture-capital-funding/tyqdqbwyrs": {
+    "valid": false
+  },
+  "https://www.futurefemhealth.com/p/swedish-startup-omaia-raises-pre": {
+    "valid": true,
+    "company": "Omaia",
+    "amount_str": "",
+    "website": "https://www.omaia.ai",
+    "linkedin_url": "https://linkedin.com/company/omaia-health",
+    "founder_name": "said Nina Larsen",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@omaia.ai",
+    "twitter_url": ""
+  },
+  "https://m.dailyhunt.in/news/india/english/inc42-epaper-inc/botgauge+ai+raises+2+mn+to+scale+agentic+qa+platform-newsid-n700320234": {
+    "valid": true,
+    "company": "BotGauge AI",
+    "amount_str": "$2 M",
+    "website": "https://www.tahawultech.com",
+    "linkedin_url": "https://linkedin.com/company/botgauge",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@tahawultech.com",
+    "twitter_url": "https://x.com/TahawulTech"
+  },
+  "https://primeprogressng.com/opportunities/https-www-spinlab-co-industrial-infrastructure-challenge/": {
+    "valid": false
+  },
+  "https://sportsmintmedia.com/sportvot-bags-%E2%82%B932-7-crore-to-expand-ai-driven-sports-streaming-platform/": {
+    "valid": false
+  },
+  "https://x.com/stpiindia/status/2049831809534538080": {
+    "valid": false
   }
 }

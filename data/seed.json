@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-05-02T02:02:09.663650Z",
+  "generated_at": "2026-05-02T06:03:27.408483Z",
   "count": 28,
   "enriched_count": 22,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Swedish startup Omaia raises pre- seed funding to support mental health in pregnancy",
+      "article_url": "https://www.futurefemhealth.com/p/swedish-startup-omaia-raises-pre",
+      "company": "Omaia",
+      "amount_str": "",
+      "pub_date": "2026-05-02T05:22:02Z",
+      "website": "https://www.omaia.ai",
+      "linkedin_url": "https://linkedin.com/company/omaia-health",
+      "founder_name": "said Nina Larsen",
+      "founder_linkedin_url": "",
+      "contact_email": "hello@omaia.ai",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "BotGauge AI Raises $2 Mn to Scale Agentic QA Platform - Dailyhunt",
+      "article_url": "https://m.dailyhunt.in/news/india/english/inc42-epaper-inc/botgauge+ai+raises+2+mn+to+scale+agentic+qa+platform-newsid-n700320234",
+      "company": "BotGauge AI",
+      "amount_str": "$2 M",
+      "pub_date": "2026-05-02T03:06:04Z",
+      "website": "https://www.tahawultech.com",
+      "linkedin_url": "https://linkedin.com/company/botgauge",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "info@tahawultech.com",
+      "twitter_url": "https://x.com/TahawulTech"
+    },
     {
       "source": "Google Alerts",
       "title": "SpaceX backer 137 Ventures closes $700M to invest in high-impact tech companies",
@@ -141,34 +169,6 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Marloo Raises $10M Seed Round Led by Blackbird Ventures | Financial IT",
-      "article_url": "https://financialit.net/news/fundraising-news/marloo-raises-10m-seed-round-led-blackbird-ventures",
-      "company": "Marloo",
-      "amount_str": "$10M",
-      "pub_date": "2026-05-01T13:40:03Z",
-      "website": "https://www.marloo.com",
-      "linkedin_url": "https://linkedin.com/company/gomarloo",
-      "founder_name": "Terry Vogiatzis",
-      "founder_linkedin_url": "",
-      "contact_email": "team@gomarloo.com",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "UnblockPay Raises $4.5 Million Seed Round - Financial IT",
-      "article_url": "https://financialit.net/news/fundraising-news/unblockpay-raises-45-million-seed-round",
-      "company": "UnblockPay",
-      "amount_str": "$4.5 M",
-      "pub_date": "2026-05-01T13:37:58Z",
-      "website": "https://www.unblockpay.com",
-      "linkedin_url": "https://linkedin.com/company/unblockpay",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "hello@unblockpay.com",
       "twitter_url": ""
     },
     {
