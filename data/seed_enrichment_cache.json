@@ -52882,5 +52882,153 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/alit-investors-have-opportunity-to-lead-alight-inc-securities-fraud-lawsuit-302760503.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/sandhills-medical-foundation-inc-dba-sandhills-medical-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-personal-information-302760743.html": {
+    "valid": false
+  },
+  "https://thenextweb.com/news/skio-recharge-105m-exit-subscription-shopify": {
+    "valid": true,
+    "company": "Skio",
+    "amount_str": "$8 m",
+    "website": "https://skiomusic.com",
+    "linkedin_url": "https://linkedin.com/company/skio-music",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/skiomusic"
+  },
+  "https://officechai.com/startups/bengaluru-startup-galaxeye-successfully-launches-worlds-first-optosar-imaging-satellite/": {
+    "valid": true,
+    "company": "Bengaluru Startup GalaxEye Successfully",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.sci-tech-today.com/news/dreambase-raises-3-7m/": {
+    "valid": true,
+    "company": "Dreambase",
+    "amount_str": "$3.7M",
+    "website": "https://dreambase.com/blog/dreambase-builds-ai-native-analytics-for-supabase",
+    "linkedin_url": "https://linkedin.com/company/dreambase-ai",
+    "founder_name": "Pramod Pawar",
+    "founder_linkedin_url": "",
+    "contact_email": "team@dreambase.ai",
+    "twitter_url": "https://x.com/DreambaseAI"
+  },
+  "https://inshorts.com/en/news/indian-origin-ceo-s-startup-emerald-ai-features-on-time100-list-1777710266665": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.ampproject.org",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.pressreader.com/saudi-arabia/arab-news/20260503/281951729427595": {
+    "valid": false
+  },
+  "https://www.varindia.com/public/news/Cognizant-to-cut-over-4,000-jobs-as-%E2%80%98Project-Leap%E2%80%99-drives-AI-focus": {
+    "valid": false
+  },
+  "https://www.indiaipo.in/news/detail/building-an-ipo-pipeline-is-our-priority": {
+    "valid": false
+  },
+  "https://timesofindia.indiatimes.com/city/chennai/building-an-ipo-pipeline-is-our-priority/articleshow/130737701.cms": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://static.toiimg.com/thumb/msid-130737694,imgsize-31590,width-400,height-225,resizemode-72/building-an-ipo-pipeline-is-our-priority.jpg",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.reddit.com/r/pitchdeck/comments/1t1ygeq/i_help_indian_preseed_founders_create_pitch_decks/": {
+    "valid": false
+  },
+  "https://news.ventureintelligence.com/private-equity/anti-money-laundering-tech-co.-insightai-raises-rs.1.1-cr-led-by-pedalstart": {
+    "valid": false
+  },
+  "https://www.reddit.com/r/16VCFund/comments/1t29jud/i_help_indian_preseed_founders_create_pitch_decks/": {
+    "valid": false
+  },
+  "https://news.ventureintelligence.com/private-equity/voiceai-co.-superbryn-raises-%241.2-m-led-by-kalaari-capital%E2%80%99s-cxxo": {
+    "valid": true,
+    "company": "VoiceAI co. SuperBryn",
+    "amount_str": "$1.2 M",
+    "website": "https://news.ventureintelligence.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "bizdev@ventureintelligence.com",
+    "twitter_url": "https://x.com/ventureindia"
+  },
+  "https://news.ventureintelligence.com/private-equity/space-tech-firm-aule-raises-%242-m-from-pi-ventures%2C-others": {
+    "valid": true,
+    "company": "Space-tech firm Aule",
+    "amount_str": "",
+    "website": "https://aule.space",
+    "linkedin_url": "https://linkedin.com/company/aule-space",
+    "founder_name": "Arvind Lakshmikumar and Intelsat",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/AuleSpace"
+  },
+  "https://www.fundingspotter.com/news?tag=Blockchain": {
+    "valid": false
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5424280": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.ltn.com.tw/assets/images/favicon.ico",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-in-early-talks-to-buy-inference-chips-from-uk-startup-fractile": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://vanilla.futurecdn.net/tomshardware",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startup.economictimes.indiatimes.com/news/funding-deals/ubiqedge-secures-rs-10-cr-seed-funding-from-piper-serica/130671418?next=1": {
+    "valid": true,
+    "company": "Investor 137",
+    "amount_str": "$700 m",
+    "website": "https://www.msn.com",
+    "linkedin_url": "",
+    "founder_name": "Notable investors Shibam Das",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startup.economictimes.indiatimes.com/news/funding-deals/deep-tech-startup-ctruh-raises-2-5-mn-seed-for-3d-platform/130671554?next=1": {
+    "valid": true,
+    "company": "The startup had previously",
+    "amount_str": "$2 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
