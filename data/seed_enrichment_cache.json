@@ -52745,5 +52745,142 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/florida-physician-specialists-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-personal-information-302760742.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/ibrx-investor-alert-kessler-topaz-meltzer--check-llp-encourages-ibrx-investors-with-losses-to-contact-the-firm-302760305.html": {
+    "valid": false
+  },
+  "https://quasa.io/media/the-creator-of-alphago-just-raised-1-1-billion-on-one-radical-thesis-and-it-could-redefine-the-entire-future-of-ai": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://reddit.com/submit",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.business-standard.com/companies/news/artha-venture-s-early-bets-begin-to-pay-off-as-exit-opportunities-mount-126050300566_1.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.calcalistech.com/ctechnews/article/byoweavrbg": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://newmedia.calcalist.co.il/ctech/testimonials/index.html",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "judith.hoffmann@calcalist.co.il",
+    "twitter_url": ""
+  },
+  "https://thesequence.substack.com/p/the-sequence-radar-853-last-week": {
+    "valid": false
+  },
+  "https://www.business-standard.com/companies/start-ups/galaxeye-launches-mission-drishti-world-s-first-optosar-satellite-platform-126050300338_1.html": {
+    "valid": true,
+    "company": "GalaxEye",
+    "amount_str": "",
+    "website": "https://galaxeye.space",
+    "linkedin_url": "https://linkedin.com/company/galaxeye",
+    "founder_name": "said Suyash Singh",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/i"
+  },
+  "https://neutronbytes.com/2026/05/03/nric-launch-pad-selects-four-startups/": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/boston/inno/newsletter/45499165?skip=0": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://m.dailyhunt.in/news/india/english/the+wire+english-epaper-wireng/cleantech+startup+novorbisitus+raises+rs+1335+crore+seed+round+led+by+rainmatter+with+participation+from+rockstud+capital-newsid-n710764003": {
+    "valid": true,
+    "company": "NovorbisItus",
+    "amount_str": "",
+    "website": "https://novorbisitus.com",
+    "linkedin_url": "https://linkedin.com/company/novorbis-itus",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@novorbisitus.com",
+    "twitter_url": ""
+  },
+  "https://mondayfriday.substack.com/p/25m-solo-gp-fund-launches-new-ceo": {
+    "valid": true,
+    "company": "\u20ac25M solo gp fund",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "from his role as",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://enterpriseam.com/egypt/2026/05/03/meet-our-founder-of-the-month-bond-blooms-amina-el-gamal/": {
+    "valid": false
+  },
+  "https://www.reddit.com/r/hyderabadstartups/comments/1t1w02k/i_help_preseed_founders_build_investor_ready/": {
+    "valid": false
+  },
+  "https://www.business-standard.com/industry/news/new-recycling-mandates-put-dry-cell-battery-makers-under-pressure-126050300268_1.html": {
+    "valid": false
+  },
+  "https://wepitched.com/blog/how-to-pitch-family-offices-for-startup-seed-round-win": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdnjs.cloudflare.com",
+    "linkedin_url": "",
+    "founder_name": "ve watched",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://wepitched.com/blog/7-proven-startup-funding-strategies-to-raise-100k-fast": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdnjs.cloudflare.com",
+    "linkedin_url": "",
+    "founder_name": "ve watched",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupmapafrica.com/funding/firstcheck-africa": {
+    "valid": false
+  },
+  "https://www.msn.com/en-in/news/India/vibrant-gujarat-regional-conference-surat-to-host-startup-session-may-1-2/ar-AA21ZHSP": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DX3Xm6xiIkG/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }

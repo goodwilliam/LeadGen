@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-05-03T12:52:23.516365Z",
+  "generated_at": "2026-05-03T16:42:22.676443Z",
   "count": 22,
-  "enriched_count": 17,
+  "enriched_count": 16,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "\u20ac25M solo gp fund launches, new ceo of digital hub DK, \u20ac1.4M for trusted AI decisions.",
+      "article_url": "https://mondayfriday.substack.com/p/25m-solo-gp-fund-launches-new-ceo",
+      "company": "\u20ac25M solo gp fund",
+      "amount_str": "",
+      "pub_date": "2026-05-03T13:31:36Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "from his role as",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Ctruh has secured $2.5M in funding to revolutionize the internet with immersive 3D ... - Instagram",
@@ -19,6 +33,20 @@
     },
     {
       "source": "Google Alerts",
+      "title": "GalaxEye launches Mission Drishti, world's first OptoSAR satellite platform | Start Ups",
+      "article_url": "https://www.business-standard.com/companies/start-ups/galaxeye-launches-mission-drishti-world-s-first-optosar-satellite-platform-126050300338_1.html",
+      "company": "GalaxEye",
+      "amount_str": "",
+      "pub_date": "2026-05-03T10:05:40Z",
+      "website": "https://galaxeye.space",
+      "linkedin_url": "https://linkedin.com/company/galaxeye",
+      "founder_name": "said Suyash Singh",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/i"
+    },
+    {
+      "source": "Google Alerts",
       "title": "Graphenory secures funding for graphene-based optical device development",
       "article_url": "https://www.graphene-info.com/graphenory-secures-funding-graphene-based-optical-device-development",
       "company": "Graphenory",
@@ -29,6 +57,20 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Cleantech Startup NovorbisItus Raises Rs 13.35 Crore Seed Round Led by Rainmatter, with ...",
+      "article_url": "https://m.dailyhunt.in/news/india/english/the+wire+english-epaper-wireng/cleantech+startup+novorbisitus+raises+rs+1335+crore+seed+round+led+by+rainmatter+with+participation+from+rockstud+capital-newsid-n710764003",
+      "company": "NovorbisItus",
+      "amount_str": "",
+      "pub_date": "2026-05-03T02:52:44Z",
+      "website": "https://novorbisitus.com",
+      "linkedin_url": "https://linkedin.com/company/novorbis-itus",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "info@novorbisitus.com",
       "twitter_url": ""
     },
     {
@@ -75,20 +117,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "ALP Bio Raises \u20ac1.9M to Advance Immune Organoid AI Platform - Sci-Tech Today",
-      "article_url": "https://www.sci-tech-today.com/news/alp-bio-raises-1-9m/",
-      "company": "ALP Bio",
-      "amount_str": "\u20ac1.9M",
-      "pub_date": "2026-05-02T15:06:05Z",
-      "website": "https://www.swissbiotech.org",
-      "linkedin_url": "https://linkedin.com/company/alpbio",
-      "founder_name": "Christian Vahlensieck alongside",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "BizTrip AI Raises $1.5M in New Pre-Seed Funding \u2014 Venture Capital | AlphaMaven",
       "article_url": "https://alpha-maven.com/story/venture-capital/biztrip-ai-raises-15m-in-new-pre-seed-funding",
       "company": "BizTrip AI",
@@ -99,34 +127,6 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Cleantech Startup NovorbisItus Raises Rs 13.35 Crore Seed Round Led by Rainmatter, with ...",
-      "article_url": "https://www.tribuneindia.com/news/business/cleantech-startup-novorbisitus-raises-rs-13-35-crore-seed-round-led-by-rainmatter-with-participation-from-rockstud-capital-2-2/",
-      "company": "NovorbisItus",
-      "amount_str": "",
-      "pub_date": "2026-05-02T11:32:15Z",
-      "website": "https://novorbisitus.com",
-      "linkedin_url": "https://linkedin.com/company/novorbis-itus",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "info@novorbisitus.com",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Startup Fun raises $72 million for the serious business of converting crypto and cash - MSN",
-      "article_url": "https://www.msn.com/en-us/money/other/exclusive-startup-fun-raises-72-million-for-the-serious-business-of-converting-crypto-and-cash/ar-AA22akgQ",
-      "company": "Fun",
-      "amount_str": "$72 m",
-      "pub_date": "2026-05-02T06:46:55Z",
-      "website": "https://www.firstfun.com",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "https://linkedin.com/in/thefunpimps",
-      "contact_email": "contact@firstfun.com",
       "twitter_url": ""
     },
     {
