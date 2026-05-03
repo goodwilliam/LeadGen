@@ -52717,5 +52717,33 @@
     "founder_linkedin_url": "",
     "contact_email": "contact@spill.games",
     "twitter_url": ""
+  },
+  "https://www.mexc.com/news/1067476": {
+    "valid": false
+  },
+  "https://technotrenz.com/news/manamind-raises-1-5m/": {
+    "valid": true,
+    "company": "ManaMind",
+    "amount_str": "$1.5M",
+    "website": "https://www.manamind.ai",
+    "linkedin_url": "https://linkedin.com/company/manamind",
+    "founder_name": "Sabtain Ahmad built ManaMind",
+    "founder_linkedin_url": "",
+    "contact_email": "example@mysite.com",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://www.reddit.com/r/cofounderhunt/comments/1t2folo/hey_guys_this_side_ram_frome_jaipur_im_going_to/": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DX33-r9EZ0n/": {
+    "valid": true,
+    "company": "Ctruh",
+    "amount_str": "$2.5M",
+    "website": "https://www.ctruh.com",
+    "linkedin_url": "https://linkedin.com/company/ctruh",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
