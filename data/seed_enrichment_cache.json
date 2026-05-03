@@ -52545,5 +52545,83 @@
   },
   "https://bharatfast.com/english/start-up/novorbis-funding-news/32436/": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/bsx-deadline-bsx-investors-have-opportunity-to-lead-boston-scientific-corporation-securities-fraud-lawsuit-302760431.html": {
+    "valid": false
+  },
+  "https://en.albat.com/breaking/nba-playoff-showdown-locked-in-los-angeles-lakers-vs-oklahoma-city-thunder-schedule-sets-stage-for-epic-battle-20260502-0054.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://bluestack-error-pages.s3.amazonaws.com/403/css/error.css",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://usa.inquirer.net/196028/daniel-h-weberman-reviews?utm_source=usa_gallery_feat_story": {
+    "valid": false
+  },
+  "https://poetsandquants.com/2026/05/02/2026-best-brightest-mba-michael-autery-mit-sloan/": {
+    "valid": false
+  },
+  "https://www.arabnews.com/node/2642103/amp": {
+    "valid": true,
+    "company": "UAE-based fintech firm Comfi",
+    "amount_str": "$95 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "said Mohamed El Abbouri",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://au-startups.com/news/shiprazor-2-65m-seed-funding-logistics": {
+    "valid": true,
+    "company": "Shiprazor",
+    "amount_str": "$2.65M",
+    "website": "https://shiprazor.com",
+    "linkedin_url": "https://linkedin.com/company/shiprazor",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@shiprazor.com",
+    "twitter_url": ""
+  },
+  "https://x.com/YourStoryCo/status/2050475821417320737": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/Chirp-Regular.80fda27a.woff2",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bitget.com/stock/nse-kotic": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://img.bgstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://alpha-maven.com/story/venture-capital/biztrip-ai-raises-15m-in-new-pre-seed-funding": {
+    "valid": true,
+    "company": "BizTrip AI",
+    "amount_str": "$1.5M",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/biztripai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://usa.inquirer.net/196028/daniel-h-weberman-reviews": {
+    "valid": false
   }
 }
