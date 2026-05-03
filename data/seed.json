@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-05-03T06:24:19.596859Z",
-  "count": 21,
-  "enriched_count": 16,
+  "generated_at": "2026-05-03T09:16:56.474910Z",
+  "count": 23,
+  "enriched_count": 17,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Graphenory secures funding for graphene-based optical device development",
+      "article_url": "https://www.graphene-info.com/graphenory-secures-funding-graphene-based-optical-device-development",
+      "company": "Graphenory",
+      "amount_str": "",
+      "pub_date": "2026-05-03T05:25:54Z",
+      "website": "https://pitchbook.com",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Sufra secures $100K pre-seed funding from Snoonu Startup Factory | Decypha",
@@ -57,6 +71,20 @@
       "founder_name": "Christian Vahlensieck alongside",
       "founder_linkedin_url": "",
       "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Digital gaming startup Spill Games has raised $3.1 million in a seed funding round co-led by ...",
+      "article_url": "https://www.facebook.com/IndianRetailer/posts/digital-gaming-startup-spill-games-has-raised-31-million-in-a-seed-funding-round/1521093916720104/",
+      "company": "Spill Games",
+      "amount_str": "$3.1 m",
+      "pub_date": "2026-05-02T12:48:46Z",
+      "website": "https://spill.games",
+      "linkedin_url": "https://linkedin.com/company/spill-games",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "contact@spill.games",
       "twitter_url": ""
     },
     {

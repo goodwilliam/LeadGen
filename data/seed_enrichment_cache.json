@@ -52648,5 +52648,74 @@
   },
   "https://x.com/indstartupnews/status/2050523192410959876": {
     "valid": false
+  },
+  "https://www.graphene-info.com/graphenory-secures-funding-graphene-based-optical-device-development": {
+    "valid": true,
+    "company": "Graphenory",
+    "amount_str": "",
+    "website": "https://pitchbook.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.vanguardngr.com/2026/05/4-nigerian-tech-startups-lead-10-others-from-africa-to-10th-google-for-startups-accelerator/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.reddit.com/r/StartUpIndia/comments/1t2ek64/raising_seed_round_for_tech_first_interior/": {
+    "valid": false
+  },
+  "https://www.businessdailyafrica.com/bd/corporate/technology/cash-burn-weak-business-models-drive-kenyan-startup-failures-5444906": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://en.wowtale.net/2026/05/03/234003/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wowtale.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "editor@wowtale.net",
+    "twitter_url": "https://x.com/mushman1970"
+  },
+  "https://www.msn.com/en-us/news/technology/nasa-led-startup-develops-autonomous-robots-to-replace-costly-offshore-vessels/ar-AA21RXRv?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/IndianRetailer/posts/digital-gaming-startup-spill-games-has-raised-31-million-in-a-seed-funding-round/1521093916720104/": {
+    "valid": true,
+    "company": "Spill Games",
+    "amount_str": "$3.1 m",
+    "website": "https://spill.games",
+    "linkedin_url": "https://linkedin.com/company/spill-games",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@spill.games",
+    "twitter_url": ""
   }
 }
