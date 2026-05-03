@@ -52623,5 +52623,30 @@
   },
   "https://usa.inquirer.net/196028/daniel-h-weberman-reviews": {
     "valid": false
+  },
+  "https://34.240.189.1/en/news/details/Sufra-secures--100K-pre-seed-funding-from-Snoonu-Startup-Factory/21544768?TSID=&EDT=&L=EN": {
+    "valid": true,
+    "company": "Sufra",
+    "amount_str": "$100K",
+    "website": "https://sufrakitchen.com",
+    "linkedin_url": "https://linkedin.com/company/sufra-health",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theheadandtale.com/tag/seed-funding/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://unpkg.com/boxicons@latest/css/boxicons.min.css",
+    "linkedin_url": "",
+    "founder_name": "Ujjwal Jain steps down",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/indstartupnews/status/2050523192410959876": {
+    "valid": false
   }
 }

@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-05-03T02:06:23.864766Z",
-  "count": 20,
-  "enriched_count": 15,
+  "generated_at": "2026-05-03T06:24:19.596859Z",
+  "count": 21,
+  "enriched_count": 16,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Sufra secures $100K pre-seed funding from Snoonu Startup Factory | Decypha",
+      "article_url": "https://34.240.189.1/en/news/details/Sufra-secures--100K-pre-seed-funding-from-Snoonu-Startup-Factory/21544768?TSID=&EDT=&L=EN",
+      "company": "Sufra",
+      "amount_str": "$100K",
+      "pub_date": "2026-05-02T20:30:32Z",
+      "website": "https://sufrakitchen.com",
+      "linkedin_url": "https://linkedin.com/company/sufra-health",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Startup wrap \u2014 Funding momentum steady amid MENA regional tensions - Arab News",
