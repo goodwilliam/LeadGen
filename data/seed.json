@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-05-04T06:35:34.626993Z",
-  "count": 27,
-  "enriched_count": 19,
+  "generated_at": "2026-05-04T10:08:45.317081Z",
+  "count": 24,
+  "enriched_count": 16,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Singapore merchant app startup Cata raises $5.3m - Tech in Asia",
+      "article_url": "https://www.techinasia.com/singapore-merchant-app-startup-cata-raises-53m",
+      "company": "Singapore merchant app startup Cata",
+      "amount_str": "$5.3m",
+      "pub_date": "2026-05-04T08:20:38Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "tech.eu",
+      "title": "ENVIOTECH raises \u20ac1M pre-seed for smart street lighting",
+      "article_url": "https://tech.eu/2026/05/04/enviotech-raises-eur1m-pre-seed-for-smart-street-lighting/",
+      "company": "ENVIOTECH",
+      "amount_str": "\u20ac1M",
+      "pub_date": "2026-05-04T08:15:00Z",
+      "website": "http://enviotech.de/en",
+      "linkedin_url": "https://linkedin.com/company/enviotech",
+      "founder_name": "",
+      "founder_linkedin_url": "https://linkedin.com/in/tyler-williams-85501baa",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Risa Labs raises $3.5 Mn in seed round led by Binny Bansal | Dailyhunt",
@@ -117,20 +145,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Ctruh has secured $2.5M in funding to revolutionize the internet with immersive 3D ... - Instagram",
-      "article_url": "https://www.instagram.com/p/DX33-r9EZ0n/",
-      "company": "Ctruh",
-      "amount_str": "$2.5M",
-      "pub_date": "2026-05-03T10:25:09Z",
-      "website": "https://www.ctruh.com",
-      "linkedin_url": "https://linkedin.com/company/ctruh",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "GalaxEye launches Mission Drishti, world's first OptoSAR satellite platform | Start Ups",
       "article_url": "https://www.business-standard.com/companies/start-ups/galaxeye-launches-mission-drishti-world-s-first-optosar-satellite-platform-126050300338_1.html",
       "company": "GalaxEye",
@@ -170,20 +184,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": "https://x.com/AuleSpace"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Graphenory secures funding for graphene-based optical device development",
-      "article_url": "https://www.graphene-info.com/graphenory-secures-funding-graphene-based-optical-device-development",
-      "company": "Graphenory",
-      "amount_str": "",
-      "pub_date": "2026-05-03T05:25:54Z",
-      "website": "https://pitchbook.com",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "Google Alerts",
@@ -285,7 +285,7 @@
     },
     {
       "source": "tech.eu",
-      "title": "Spiral Hydrogen raises \u20ac3.4M to build green hydrogen pilot in Rotterdam",
+      "title": "Spiral Hydrogen raises \u20ac2.7M to build green hydrogen pilot in Rotterdam",
       "article_url": "https://tech.eu/2026/04/30/spiral-hydrogen-raises-eur27m-to-build-green-hydrogen-pilot-in-rotterdam/",
       "company": "Spiral Hydrogen",
       "amount_str": "\u20ac3.4M",
@@ -338,48 +338,6 @@
       "founder_linkedin_url": "",
       "contact_email": "example@mysite.com",
       "twitter_url": "https://x.com/suricate"
-    },
-    {
-      "source": "tech.eu",
-      "title": "Cleo Labs secures \u20ac1.5M to scale AI-driven product compliance globally",
-      "article_url": "https://tech.eu/2026/04/29/cleo-labs-secures-eur15m-to-scale-ai-driven-product-compliance-globally/",
-      "company": "Cleo Labs",
-      "amount_str": "\u20ac1.5M",
-      "pub_date": "2026-04-29T10:00:00Z",
-      "website": "https://www.cleolabs.co/en",
-      "linkedin_url": "https://linkedin.com/company/cleolabs",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "contact@cleolabs.co",
-      "twitter_url": "https://x.com/cleolabs"
-    },
-    {
-      "source": "tech.eu",
-      "title": "Dex lands $5.3M to grow its AI-driven talent matching platform",
-      "article_url": "https://tech.eu/2026/04/29/dex-lands-53m-to-grow-its-ai-driven-talent-matching-platform/",
-      "company": "Dex",
-      "amount_str": "$5.3M",
-      "pub_date": "2026-04-29T08:45:00Z",
-      "website": "https://meetdex.ai",
-      "linkedin_url": "https://linkedin.com/company/dextechai",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "tech.eu",
-      "title": "All3 raises $25M to boost construction productivity with robotics and AI",
-      "article_url": "https://tech.eu/2026/04/29/all3-raises-25m-to-boost-construction-productivity-with-robotics-and-ai/",
-      "company": "All3",
-      "amount_str": "$25M",
-      "pub_date": "2026-04-29T08:00:00Z",
-      "website": "https://all3.com",
-      "linkedin_url": "https://linkedin.com/company/all3",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
     }
   ]
 }

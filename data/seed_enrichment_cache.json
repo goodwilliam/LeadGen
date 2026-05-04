@@ -53202,5 +53202,94 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://tech.eu/2026/05/04/a-cube-lands-eur4m-to-accelerate-global-expansion/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/05/04/mobility-signage-secures-eur18m-to-unify-public-transport-it/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/05/04/enviotech-raises-eur1m-pre-seed-for-smart-street-lighting/": {
+    "valid": true,
+    "company": "ENVIOTECH",
+    "amount_str": "\u20ac1M",
+    "website": "http://enviotech.de/en",
+    "linkedin_url": "https://linkedin.com/company/enviotech",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/tyler-williams-85501baa",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/05/04/european-tech-weekly-recap-more-than-65-tech-funding-deals-worth-over-eur22b/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/alit-investors-have-opportunity-to-lead-alight-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302760980.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/sowell-management-launches-advisor-partnership-program-providing-equity-in-the-firm-and-growth-capital-to-affiliated-advisors-302760773.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/medp-investors-have-opportunity-to-lead-medpace-holdings-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302760972.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/lu-investors-have-opportunity-to-lead-lufax-holding-ltd-securities-fraud-lawsuit-with-the-schall-law-firm-302760968.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/drvn-investors-have-opportunity-to-lead-driven-brands-holdings-inc-securities-fraud-lawsuit-with-the-schall-law-firm-302760978.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/hyperscale-data-to-launch-20-week-business-spotlight-series-to-highlight-the-scale-scope-and-value-of-its-operations-302761156.html": {
+    "valid": false
+  },
+  "https://www.reddit.com/r/StartUpIndia/comments/1t387rm/i_am_solving_this_problem_and_looking_for_pre_seed/": {
+    "valid": false
+  },
+  "https://www.reddit.com/r/IndianEntrepreneur/comments/1t3byb7/looking_for_feedback_from_founders_who_have/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/05/healthfab-raises-2-1m-in-series-a-funding.html": {
+    "valid": false
+  },
+  "https://www.techinasia.com/singapore-merchant-app-startup-cata-raises-53m": {
+    "valid": true,
+    "company": "Singapore merchant app startup Cata",
+    "amount_str": "$5.3m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://energynews.pro/en/spiral-hydrogen-raises-27m-for-green-hydrogen-pilot-in-rotterdam": {
+    "valid": false
+  },
+  "https://startupfeed.in/delhi-startup-seed-fund-200-crore-vc-policy/": {
+    "valid": false
+  },
+  "https://yourstory.com/herstory/2026/05/meet-6-institutions-supporting-women-led-startups": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.panewslab.com/en/articles/019df0bf-d8c2-710b-800b-9ad57df95ae4": {
+    "valid": false
+  },
+  "https://technode.global/2026/05/04/indonesia-investment-startup-recompound-introduces-performance-based-fee-model-for-retail-investors/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://t.me/technodeglobal",
+    "linkedin_url": "",
+    "founder_name": "said Toby Limanto",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
