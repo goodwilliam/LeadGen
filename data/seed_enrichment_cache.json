@@ -53030,5 +53030,121 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/bw-investors-have-opportunity-to-lead-babcock--wilcox-enterprises-inc-securities-fraud-lawsuit-302760509.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/aqst-deadline-aqst-investors-have-opportunity-to-lead-aquestive-therapeutics-inc-securities-fraud-lawsuit-302760513.html": {
+    "valid": false
+  },
+  "https://ceoworld.biz/2026/05/03/george-clooneys-next-billion-dollar-bet-inside-his-15-million-zero-alcohol-beer-play/": {
+    "valid": false
+  },
+  "https://impactalpha.com/argentinian-startup-alkemio-closes-pre-seed-round-to-localize-rare-earth-refining/": {
+    "valid": true,
+    "company": "Argentinian startup Alkemio",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.adgully.com/post/15057/rediffusion-unveils-narrative-a-storytelling-platform-for-the-streaming-age": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://theprpost.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://news.ventureintelligence.com/private-equity/ai-startup-consuma-raises-%241.3-m-led-by-equirus-innovatex-fund": {
+    "valid": true,
+    "company": "Consuma",
+    "amount_str": "$1.3 M",
+    "website": "https://consuma.ai",
+    "linkedin_url": "https://linkedin.com/company/consuma-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.tribuneindia.com/news/business/central-asias-vc-ecosystem-hits-record-usd-320m-in-2025-but-faces-a-critical-pipeline-capital-gap-report/amp": {
+    "valid": false
+  },
+  "https://femwealth.substack.com/p/dr-katie-king-and-dr-leonor-teles": {
+    "valid": true,
+    "company": "San Francisco-based startup",
+    "amount_str": "$1.9 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.brandinginasia.com/r-ga-publishes-book-chronicling-50-years-of-creativity/": {
+    "valid": false
+  },
+  "https://www.brandinginasia.com/cuckoo-singapore-names-lee-junho-as-global-brand-ambassador/": {
+    "valid": false
+  },
+  "https://www.brandinginasia.com/coca-cola-australia-signs-three-year-partnership-with-the-national-rugby-league/": {
+    "valid": false
+  },
+  "https://www.brandinginasia.com/entries-are-open-for-the-oppo-photography-awards-2026/": {
+    "valid": false
+  },
+  "http://www.msn.com/en-in/news/world/building-an-ipo-pipeline-is-our-priority/ar-AA22j8RY?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": false
+  },
+  "https://nordic9.com/news/jigsaw-create-raised-a-total-of-13-million-in-seed-and-pre-seed-funding": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://opentools.ai/news/21-european-startups-to-watch-beyond-mistral-and-lovable": {
+    "valid": false
+  },
+  "https://opentools.ai/news/y-combinators-ai-startup-blueprint-focus-on-tokens-over-headcount": {
+    "valid": false
+  },
+  "https://kr-asia.com/southeast-asias-deep-tech-startups-look-to-japan-for-growth": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://asia.nikkei.com/spotlight/asean-money/singapore-s-quiet-rise-in-the-global-deep-tech-race",
+    "linkedin_url": "https://linkedin.com/company/nikkeiasia",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/NikkeiAsia"
+  },
+  "https://blog.mean.ceo/startup-grants-austria-news-may-2026/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://mean.ceo",
+    "linkedin_url": "",
+    "founder_name": "Why are",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/meanceo"
+  },
+  "https://www.youtube.com/watch?v=DHVBjF5hAoE": {
+    "valid": false
+  },
+  "https://annuity.mampirbandung.com/how-to-choose-the-best-startup-funding-options-usa-based-on-your-business-model/": {
+    "valid": false
   }
 }
