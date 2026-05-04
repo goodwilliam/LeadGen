@@ -53371,5 +53371,229 @@
     "founder_linkedin_url": "",
     "contact_email": "support@shiprazor.com",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/05/04/pwc-google-zero-enterprise-ai-value-googlecloudnext/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/shareholder-alert-ademi-llp-investigates-whether-modiv-industrial-inc-is-obtaining-a-fair-price-for-public-shareholders-302761435.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/hashgraph-unveils-three-major-announcements-at-hederacon-in-miami-302761596.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/nasdaq-psix-class-action-notice-berger-montague-encourages-power-solutions-international-inc-nasdaq-psix-investors-to-inquire-about-a-securities-fraud-class-action-302761173.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/appleton-partners-selects-mili-as-its-ai-platform-for-advisor-workflows-302761563.html": {
+    "valid": false
+  },
+  "https://europe-intern-daily.synergize.co/article/94277": {
+    "valid": false
+  },
+  "https://www.facebook.com/UP18NEWS/posts/cleantech-startup-novorbisitus-raises-rs-1335-crore-seed-round-led-by-rainmatter/1632227642242608/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/05/cmblu-energy-raises-e50m-in-initial-close-of-series-c-valued-at-over-e1b.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/05/featherless-raises-20m-in-series-a-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/05/mobility-signage-raises-e1-8m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/05/torus-receives-35m-in-debt-financing.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/05/zapdos-labs-raises-500k-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/05/lakefusion-raises-7-5m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/05/oberland-biotech-raises-chf-2-5m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://ggba.swiss/en/dphi-space-runs-first-ai-language-model-aboard-an-orbiting-satellite/": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/qureka-secures-pre-seed-funding": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/formas-ai-raises-3-98m-pre-seed": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/nura-studios-secures-seed-funding": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/05/europe-to-strengthen-drone-sovereignty-as-intelic-launches-unmanned-systems-procurement-hub/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://api.whatsapp.com/send",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/whatsapp"
+  },
+  "https://www.finsmes.com/2026/05/anello-photonics-raises-additional-25m-in-series-b-2-funding.html": {
+    "valid": true,
+    "company": "Anello Photonics",
+    "amount_str": "$25M",
+    "website": "https://www.anellophotonics.com",
+    "linkedin_url": "https://linkedin.com/company/anello-photonics",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@anellophotonics.com",
+    "twitter_url": ""
+  },
+  "https://fuelcellsworks.com/2026/05/04/press-releases/jordan-approved-an-investment-agreement-for-the-construction-of-a-green-ammonia-facility-by-jordan-green-ammonia": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/financial-reflections_cambridge-based-healthtech-startup-auryx-activity-7457018227139870720-MFNg": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://indianstartupnews.com/funding/banza-raises-raises-1-million-to-help-people-build-and-own-their-personal-ai-twin-11798990": {
+    "valid": true,
+    "company": "Banza",
+    "amount_str": "$1 m",
+    "website": "https://www.eatbanza.com",
+    "linkedin_url": "https://linkedin.com/company/banza",
+    "founder_name": "said Aditya Vijaykumar",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/eatbanza"
+  },
+  "https://bebeez.eu/2026/05/04/finlands-thestorage-raises-e3-6-million-seed-to-commercialise-sand-based-energy-storage/": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/05/04/finnish-geopyora-closes-seed-round-to-scale-breakage-testing-technology/": {
+    "valid": true,
+    "company": "Geopy\u00f6r\u00e4",
+    "amount_str": "",
+    "website": "https://www.geopyora.com",
+    "linkedin_url": "https://linkedin.com/company/geopyora",
+    "founder_name": "of Geopy",
+    "founder_linkedin_url": "",
+    "contact_email": "info@geopyora.com",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://indianstartupnews.com/funding/exposome-based-skincare-brand-chosen-raises-5-million-to-boost-its-rd-capabilities-11798443": {
+    "valid": true,
+    "company": "CHOSEN",
+    "amount_str": "$5 m",
+    "website": "https://watch.thechosen.tv",
+    "linkedin_url": "https://linkedin.com/company/thechosen",
+    "founder_name": "skincare brand CHOSEN",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techinafrica.com/south-africas-shiprazor-raises-2-65m-to-fix-e-commerce-logistics-fragmentation/": {
+    "valid": true,
+    "company": "Africa's Shiprazor",
+    "amount_str": "$2.65M",
+    "website": "https://techparley.com",
+    "linkedin_url": "https://linkedin.com/company/techparley-africa",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/05/04/certifyde-announces-2m-seed-round-to-accelerate-ai-adoption-across-modern-workforces/": {
+    "valid": true,
+    "company": "Certifyde",
+    "amount_str": "$2M",
+    "website": "https://certifyde.com",
+    "linkedin_url": "https://linkedin.com/company/certifyde",
+    "founder_name": "of Honey",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://chargedevs.com/newswire/canadian-industrial-infrastructure-developer-bmi-invests-in-rock-tech-lithium/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "http://www.elantas.com/e-mobility",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "pole-position@drive.eu",
+    "twitter_url": ""
+  },
+  "https://www.youtube.com/watch?v=50L1fmYw3JA": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/flora-lands-230-million-in-funding": {
+    "valid": false
+  },
+  "https://www.facebook.com/Billionaires.Africa/posts/africas-angel-investors-deployed-about-44-million-in-2025-but-many-earlystage-st/1302766618616524/": {
+    "valid": false
+  },
+  "https://disruptafrica.com/2026/05/04/nigerian-cybersecurity-startup-cybervergent-launches-new-version-expands-into-kenya-ghana-sa/": {
+    "valid": true,
+    "company": "Nigerian cybersecurity startup Cybervergent",
+    "amount_str": "",
+    "website": "https://articles.connectnigeria.com",
+    "linkedin_url": "",
+    "founder_name": "said Ayomide Daniels",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/connectnigeria"
+  },
+  "https://www.instagram.com/p/DX6yCY9DcdD/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://m.dailyhunt.in/news/india/english/tycoon+world-epaper-dh4c6a646b987d48f5b87f17d40865f089/building+indias+deep+tech+startup+wave+top+5+platforms+enabling+funding+mentorship+and+scale-newsid-dh4c6a646b987d48f5b87f17d40865f089_081ccb40479511f19fc9b3d51ef32cab": {
+    "valid": false
+  },
+  "https://www.billionaires.africa/2026/05/04/africas-angel-investors-deployed-4-4-million-in-2025-but-a-pre-seed-funding-crisis-is-leaving-the-continents-earliest-stage-startups-behind/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.boniltd.com",
+    "linkedin_url": "https://linkedin.com/company/boniltd",
+    "founder_name": "said Mossadeck Bally",
+    "founder_linkedin_url": "",
+    "contact_email": "info@bonitsinc.com",
+    "twitter_url": "https://x.com/boniltd"
+  },
+  "https://bharatfast.com/english/start-up/banza-1m-ai-twin/32480/": {
+    "valid": true,
+    "company": "Banza",
+    "amount_str": "$1 M",
+    "website": "https://www.eatbanza.com",
+    "linkedin_url": "https://linkedin.com/company/banza",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/eatbanza"
+  },
+  "https://msmeafricaonline.com/call-for-applications-agdevco-agribusiness-financing-2026-multi-million-investment-for-african-smes/": {
+    "valid": false
   }
 }
