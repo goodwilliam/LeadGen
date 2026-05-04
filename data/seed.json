@@ -1,18 +1,32 @@
 {
-  "generated_at": "2026-05-04T10:08:45.317081Z",
-  "count": 24,
-  "enriched_count": 16,
+  "generated_at": "2026-05-04T13:27:19.652448Z",
+  "count": 23,
+  "enriched_count": 15,
   "articles": [
     {
       "source": "Google Alerts",
-      "title": "Singapore merchant app startup Cata raises $5.3m - Tech in Asia",
-      "article_url": "https://www.techinasia.com/singapore-merchant-app-startup-cata-raises-53m",
-      "company": "Singapore merchant app startup Cata",
-      "amount_str": "$5.3m",
-      "pub_date": "2026-05-04T08:20:38Z",
+      "title": "Zapdos Labs Raises $500K in Pre-Seed Funding",
+      "article_url": "https://x.com/audiumcp/status/2051240651862266105",
+      "company": "Zapdos Labs",
+      "amount_str": "$500K",
+      "pub_date": "2026-05-04T10:11:23Z",
+      "website": "https://finance.yahoo.com",
+      "linkedin_url": "https://linkedin.com/company/yahoo-finance",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/YahooFinance"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Singapore Startup Cata Raises $5.3M Seed Funding to Expand Globally",
+      "article_url": "https://www.asiabusinessoutlook.com/news/singapore-startup-cata-raises-53m-seed-funding-to-expand-globally-nwid-11852.html",
+      "company": "Singapore Startup Cata",
+      "amount_str": "$5.3M",
+      "pub_date": "2026-05-04T09:49:49Z",
       "website": "https://duck.ai",
       "linkedin_url": "",
-      "founder_name": "",
+      "founder_name": "Chafic Nassif",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
@@ -29,6 +43,20 @@
       "founder_name": "",
       "founder_linkedin_url": "https://linkedin.com/in/tyler-williams-85501baa",
       "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Shiprazor Raises $2.65M Seed to Cut E-Commerce Delivery Costs - Daba Finance",
+      "article_url": "https://dabafinance.com/en/news/shiprazor-raises-seed-round-to-fix-delivery-costs",
+      "company": "Shiprazor",
+      "amount_str": "$2.65M",
+      "pub_date": "2026-05-04T06:07:45Z",
+      "website": "https://shiprazor.com",
+      "linkedin_url": "https://linkedin.com/company/shiprazor",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "support@shiprazor.com",
       "twitter_url": ""
     },
     {
@@ -142,20 +170,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "GalaxEye launches Mission Drishti, world's first OptoSAR satellite platform | Start Ups",
-      "article_url": "https://www.business-standard.com/companies/start-ups/galaxeye-launches-mission-drishti-world-s-first-optosar-satellite-platform-126050300338_1.html",
-      "company": "GalaxEye",
-      "amount_str": "",
-      "pub_date": "2026-05-03T10:05:40Z",
-      "website": "https://galaxeye.space",
-      "linkedin_url": "https://linkedin.com/company/galaxeye",
-      "founder_name": "said Suyash Singh",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/i"
     },
     {
       "source": "Google Alerts",
@@ -310,34 +324,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
-    },
-    {
-      "source": "tech.eu",
-      "title": "Online Oceans raises \u00a34M to scale autonomous fleets for maritime security",
-      "article_url": "https://tech.eu/2026/04/30/online-oceans-raises-ps4m-to-scale-autonomous-fleets-for-maritime-security/",
-      "company": "Online Oceans",
-      "amount_str": "\u00a34M",
-      "pub_date": "2026-04-30T07:00:00Z",
-      "website": "https://onlineoceans.com",
-      "linkedin_url": "https://linkedin.com/company/online-oceans",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "hello@onlineoceans.com",
-      "twitter_url": ""
-    },
-    {
-      "source": "tech.eu",
-      "title": "ManaMind secures $1.5M to develop autonomous testing for gaming",
-      "article_url": "https://tech.eu/2026/04/30/manamind-secures-15m-to-develop-autonomous-testing-for-gaming/",
-      "company": "ManaMind",
-      "amount_str": "$1.5M",
-      "pub_date": "2026-04-30T06:30:00Z",
-      "website": "https://www.manamind.ai",
-      "linkedin_url": "https://linkedin.com/company/manamind",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "example@mysite.com",
-      "twitter_url": "https://x.com/suricate"
     }
   ]
 }

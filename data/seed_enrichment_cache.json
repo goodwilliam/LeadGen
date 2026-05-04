@@ -53291,5 +53291,85 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://tech.eu/2026/05/04/enterobiotix-secures-ps19m-to-support-ibs-microbiome-clinical-trial/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/05/04/nabu-raises-eur3m-to-scale-digital-customs-in-europe/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/gradient-mortgage-capital-expands-platform-to-support-scalable-dscr-and-sbcre-lending-302761025.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/minesto-ab-interim-management-statement-1-january--31-march-2026-302761364.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/roundtable-healthcare-partners-appoints-amardeep-kahlon-as-operating-partner-302761361.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/progressive-insurance-expands-uppayment-to-help-200-first-time-homebuyers-get-into-a-home-302761360.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/minesto-ab-interim-management-statement-1-january--31-march-2026-302761358.html": {
+    "valid": false
+  },
+  "https://europe-intern-daily.synergize.co/article/61980": {
+    "valid": false
+  },
+  "https://x.com/audiumcp/status/2051240651862266105": {
+    "valid": true,
+    "company": "Zapdos Labs",
+    "amount_str": "$500K",
+    "website": "https://finance.yahoo.com",
+    "linkedin_url": "https://linkedin.com/company/yahoo-finance",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/YahooFinance"
+  },
+  "https://www.linkedin.com/posts/startuprise-usa_lakefusion-funding-startupnews-activity-7457006940041404417-MtyU": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://startuprise.io/lakefusion-raises-7-5m-in-seed-funding-led-by-silverton-partners",
+    "linkedin_url": "https://linkedin.com/company/startuprise-europe",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@startuprise.co.uk",
+    "twitter_url": "https://x.com/startuprise_eu"
+  },
+  "https://www.businessdailyafrica.com/bd/markets/capital-markets/why-foreign-capital-dominates-local-startups-funding-5445858": {
+    "valid": false
+  },
+  "https://www.thenews.com.pk/latest/1401320-is-meta-building-humanoid-robot-to-rival-teslas-optimus": {
+    "valid": false
+  },
+  "https://technical.ly/entrepreneurship/reallist-connectors-2026-maryland/": {
+    "valid": false
+  },
+  "https://www.asiabusinessoutlook.com/news/singapore-startup-cata-raises-53m-seed-funding-to-expand-globally-nwid-11852.html": {
+    "valid": true,
+    "company": "Singapore Startup Cata",
+    "amount_str": "$5.3M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Chafic Nassif",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupvalley.news/uk/smart-city-startup-street-lighting-enviotech-funding/": {
+    "valid": false
+  },
+  "https://dabafinance.com/en/news/shiprazor-raises-seed-round-to-fix-delivery-costs": {
+    "valid": true,
+    "company": "Shiprazor",
+    "amount_str": "$2.65M",
+    "website": "https://shiprazor.com",
+    "linkedin_url": "https://linkedin.com/company/shiprazor",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@shiprazor.com",
+    "twitter_url": ""
   }
 }
