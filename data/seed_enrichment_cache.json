@@ -53595,5 +53595,249 @@
   },
   "https://msmeafricaonline.com/call-for-applications-agdevco-agribusiness-financing-2026-multi-million-investment-for-african-smes/": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/": {
+    "valid": false
+  },
+  "https://venturebeat.com/technology/microsoft-takes-agent-365-out-of-preview-as-shadow-ai-becomes-an-enterprise-threat": {
+    "valid": false
+  },
+  "https://venturebeat.com/data/the-rag-era-is-ending-for-agentic-ai-a-new-compilation-stage-knowledge-layer-is-what-comes-next": {
+    "valid": false
+  },
+  "https://betakit.com/biopharma-giant-sanofi-to-grow-toronto-presence-with-expanded-ai-centre/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/05/04/ai-chip-provider-cerebras-seeks-raise-3-5b-ipo-26-6b-valuation/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://d15shllkswkct0.cloudfront.net/wp-includes/wlwmanifest.xml",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/brookfield-a-the-nuclear-company-spolone-zakladaju-novu-spolonos-na-urychlenie-vyvoja-jadrovej-energie-v-usa-302761862.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-elauwit-connection-inc-investors-to-inquire-about-securities-class-action-investigation--elwt-302761678.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/nnn-reit-inc-publishes-2025-26-corporate-sustainability-report-302761841.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/cellenkos-announces-fda-clearance-of-investigational-new-drug-ind-application-for-phase-1b-2a-trial-of-ck0802-in-steroid-refractory-graft-versus-host-disease-gvhd-302761842.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/ibrx-investors-have-opportunity-to-lead-immunitybio-inc-securities-fraud-lawsuit-first-filed-by-the-rosen-law-firm-302761651.html": {
+    "valid": false
+  },
+  "https://thenextweb.com/news/smartness-raises-e47m-to-scale-ai-operations": {
+    "valid": false
+  },
+  "https://techfundingnews.com/ekiden-pitch-deck-2m-seed-20m-valuation-on-chain-derivatives-trading/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.family-day-htgf.de",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "events@htgf.de",
+    "twitter_url": "https://x.com/HTGF"
+  },
+  "https://www.indianstartuptimes.com/investment/19284/": {
+    "valid": true,
+    "company": "Banza",
+    "amount_str": "$1M",
+    "website": "https://www.eatbanza.com",
+    "linkedin_url": "https://linkedin.com/company/banza",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/eatbanza"
+  },
+  "https://femtechinsider.com/japan-based-flora-raises-1-5m-to-scale-womens-health-platform-across-consumer-app-corporate-wellbeing-and-data-driven-business-development/": {
+    "valid": true,
+    "company": "Japan-based Flora",
+    "amount_str": "$1.5M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://ibsintelligence.com/ibsi-news/seapoint-raises-e7-5m-seed-to-expand-ai-finance-platform/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/05/04/barocal-can-cool-your-food-and-drink-by-squeezing-a-hunk-of-plastic-crystals/": {
+    "valid": false
+  },
+  "https://www.techrepublic.com/article/uk-government-announces-plans-to-grow-national-ai-infrastructure/": {
+    "valid": true,
+    "company": "Government",
+    "amount_str": "",
+    "website": "https://2021-2025.state.gov",
+    "linkedin_url": "https://linkedin.com/company/uk-government",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/charleymoore",
+    "contact_email": "",
+    "twitter_url": "https://x.com/StateDept"
+  },
+  "https://launchbaseafrica.com/2026/05/04/ghana-founded-insurtech-pioneer-bima-to-be-acquired-in-119m-digital-health-roll-up/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://launchbaseafrica.gumroad.com",
+    "linkedin_url": "",
+    "founder_name": "Former Molten Ventures",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fortune.com/2026/05/04/ethereal-ventures-min-teo-interview-eigenlayer-dpi-rate-funds-early-stage-startups/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cookielaw.org/consent/906dc33b-1fc3-4b2c-a324-8bc0b7db9050/OtAutoBlock.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupfortune.com/nvidia-backs-deepinfras-107-million-series-b-and-the-investment-is-about-more-than-one-inference-startup/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/boston/news/2026/05/04/colin-angle-familiar-machines-magic-reveal.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Former iRobot",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/05/ekiden-raises-e1-7-million-at-e17-million-valuation-for-blockchain-based-trading-platform-out-of-portugal/": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/05/cambridge-spin-out-barocal-raises-e8-5-million-seed-round-for-refrigerant-free-heating-and-cooling-tech/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/05/04/ex-twitter-ceo-parag-agrawal-hits-2b-valuation-with-parallel-web-systems-series-b/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "Parag Agrawal Hits",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://agfundernews.com/terrablaster-aims-for-late-2026-launch-with-real-time-npk-soil-mapping-at-tractor-speed": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "http://browsehappy.com",
+    "linkedin_url": "",
+    "founder_name": "Jorge Heraud",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.achrnews.com/articles/166156-startup-touting-new-hvac-technology-raises-10-million": {
+    "valid": true,
+    "company": "Touting New HVAC Technology",
+    "amount_str": "$10 M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/featherless-ai-raises-20m-series-a": {
+    "valid": false
+  },
+  "https://www.axios.com/pro/all-deals/2026/05/04/pro-rata-premium-first-look-windward-panthalassa": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "and CEO of",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://innovation-village.com/shiprazor-raises-2-65m-to-fix-africas-broken-e-commerce-logistics-infrastructure/": {
+    "valid": true,
+    "company": "Shiprazor",
+    "amount_str": "$2.65m",
+    "website": "https://shiprazor.com",
+    "linkedin_url": "https://linkedin.com/company/shiprazor",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@shiprazor.com",
+    "twitter_url": ""
+  },
+  "https://blockonomi.com/shopify-backs-tetras-new-cad-stablecoin-cadd-launch/": {
+    "valid": false
+  },
+  "https://theaiworld.org/news/swiss-biotech-alp-bio-raises-19m-for-ai-drug-platform": {
+    "valid": false
+  },
+  "https://global-efuels.com/news/spiral-hydrogen-raises-e2-7-million-in-pre-seed-funding/": {
+    "valid": false
+  },
+  "https://x.com/TheSaaSNews/status/2051192553362641123": {
+    "valid": true,
+    "company": "Qureka",
+    "amount_str": "",
+    "website": "https://sdt.inc",
+    "linkedin_url": "https://linkedin.com/company/sdtinc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://ventureburn.com/barocal-raises-10m-solid-state-cooling/": {
+    "valid": false
+  },
+  "https://arcticstartup.com/geopyora-raises-seed-funding/?amp=1": {
+    "valid": true,
+    "company": "Geopy\u00f6r\u00e4",
+    "amount_str": "",
+    "website": "https://www.geopyora.com",
+    "linkedin_url": "https://linkedin.com/company/geopyora",
+    "founder_name": "of Geopy",
+    "founder_linkedin_url": "",
+    "contact_email": "info@geopyora.com",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://theheadandtale.com/ai-emerging-tech/banza-bags-pre-seed-funding-led-by-campus-fund/": {
+    "valid": true,
+    "company": "AI-driven data-sharing startup Banza",
+    "amount_str": "$1 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Rahul Chari",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
