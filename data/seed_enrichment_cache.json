@@ -53146,5 +53146,61 @@
   },
   "https://annuity.mampirbandung.com/how-to-choose-the-best-startup-funding-options-usa-based-on-your-business-model/": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/lee-cowie-appointed-ceo-of-accesso-as-company-accelerates-ai-strategy-302760548.html": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DX4jVmRFQn1/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://cyprus-mail.com/2026/05/04/cyprus-proptech-sector-is-gaining-serious-momentum-in-2026": {
+    "valid": false
+  },
+  "https://techfundingnews.com/mobility-signage-1-8m-htgf-2bx-public-transport-it/": {
+    "valid": false
+  },
+  "https://m.dailyhunt.in/news/india/english/entrackr+english-epaper-entrackr/risa+labs+raises+35+mn+in+seed+round+led+by+binny+bansal-newsid-n660809914": {
+    "valid": true,
+    "company": "Risa Labs",
+    "amount_str": "$3.5 M",
+    "website": "https://www.risalabs.ai",
+    "linkedin_url": "https://linkedin.com/company/risalabs",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "mail@risalabs.ai",
+    "twitter_url": ""
+  },
+  "https://nordic9.com/news/another-earth-raises-seed-funding-with-rockstart-wakeup-capital-inovexus-ventures": {
+    "valid": true,
+    "company": "Another Earth",
+    "amount_str": "",
+    "website": "https://another-earth.com",
+    "linkedin_url": "https://linkedin.com/company/anotherearth",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/enviotech-1m-pre-seed-jurgen-fitschen-smart-streetlights-europe/": {
+    "valid": false
+  },
+  "https://www.businessdailyafrica.com/bd/markets/capital-markets/why-local-capital-plays-second-fiddle-to-foreigners-dominate-startups-funding-5445858": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }

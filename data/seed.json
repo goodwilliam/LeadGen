@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-05-04T02:07:20.709414Z",
-  "count": 26,
-  "enriched_count": 18,
+  "generated_at": "2026-05-04T06:35:34.626993Z",
+  "count": 27,
+  "enriched_count": 19,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Risa Labs raises $3.5 Mn in seed round led by Binny Bansal | Dailyhunt",
+      "article_url": "https://m.dailyhunt.in/news/india/english/entrackr+english-epaper-entrackr/risa+labs+raises+35+mn+in+seed+round+led+by+binny+bansal-newsid-n660809914",
+      "company": "Risa Labs",
+      "amount_str": "$3.5 M",
+      "pub_date": "2026-05-04T00:21:42Z",
+      "website": "https://www.risalabs.ai",
+      "linkedin_url": "https://linkedin.com/company/risalabs",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "mail@risalabs.ai",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Argentinian startup Alkemio closes pre- seed round to localize rare earth refining",
@@ -30,6 +44,20 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": "https://x.com/skiomusic"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Another Earth raises seed funding with Rockstart, WakeUp Capital, Inovexus Ventures",
+      "article_url": "https://nordic9.com/news/another-earth-raises-seed-funding-with-rockstart-wakeup-capital-inovexus-ventures",
+      "company": "Another Earth",
+      "amount_str": "",
+      "pub_date": "2026-05-03T17:46:47Z",
+      "website": "https://another-earth.com",
+      "linkedin_url": "https://linkedin.com/company/anotherearth",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
     },
     {
       "source": "Google Alerts",
@@ -169,20 +197,6 @@
       "founder_name": "founder and",
       "founder_linkedin_url": "",
       "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Cleantech Startup NovorbisItus Raises Rs 13.35 Crore Seed Round Led by Rainmatter, with ...",
-      "article_url": "https://m.dailyhunt.in/news/india/english/the+wire+english-epaper-wireng/cleantech+startup+novorbisitus+raises+rs+1335+crore+seed+round+led+by+rainmatter+with+participation+from+rockstud+capital-newsid-n710764003",
-      "company": "NovorbisItus",
-      "amount_str": "",
-      "pub_date": "2026-05-03T02:52:44Z",
-      "website": "https://novorbisitus.com",
-      "linkedin_url": "https://linkedin.com/company/novorbis-itus",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "info@novorbisitus.com",
       "twitter_url": ""
     },
     {
