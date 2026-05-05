@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-05-05T02:07:00.004716Z",
-  "count": 19,
-  "enriched_count": 13,
+  "generated_at": "2026-05-05T06:11:45.978005Z",
+  "count": 18,
+  "enriched_count": 12,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Singapore-based ReN3 Raises $5M to Scale Agentic AI in Southeast Asia",
+      "article_url": "https://www.asiabusinessoutlook.com/news/singaporebased-ren3-raises-5m-to-scale-agentic-ai-in-southeast-asia-nwid-11854.html",
+      "company": "Singapore-based ReN3",
+      "amount_str": "$5M",
+      "pub_date": "2026-05-05T02:36:24Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "Chafic Nassif",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "SiliconAngle",
+      "title": "Deepinfra lands $107M in funding to build out its dedicated inference cloud for open-source models",
+      "article_url": "https://siliconangle.com/2026/05/04/deepinfra-lands-107m-funding-build-dedicated-inference-cloud-open-source-models/",
+      "company": "Deepinfra",
+      "amount_str": "$107M",
+      "pub_date": "2026-05-05T02:04:16Z",
+      "website": "https://deepinfra.com",
+      "linkedin_url": "https://linkedin.com/company/deep-infra",
+      "founder_name": "",
+      "founder_linkedin_url": "https://linkedin.com/in/yessenzhar",
+      "contact_email": "feedback@deepinfra.com",
+      "twitter_url": "https://x.com/DeepInfra"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Madeed closes $925K pre-seed to scale personalised preventive healthcare in KSA",
+      "article_url": "https://www.wamda.com/2026/05/madeed-closes-925k-pre-seed-scale-personalised-preventive-healthcare-ksa",
+      "company": "Madeed",
+      "amount_str": "$925K",
+      "pub_date": "2026-05-05T02:03:51Z",
+      "website": "https://madeedcare.com",
+      "linkedin_url": "https://linkedin.com/company/madeedhealth",
+      "founder_name": "select group of global",
+      "founder_linkedin_url": "",
+      "contact_email": "hani@madeed.com",
+      "twitter_url": "https://x.com/madeedcare"
+    },
     {
       "source": "Google Alerts",
       "title": "AI Startup Sierra Secures $950 Million in Series E, Valued at $15.8 Billion - Phemex",
@@ -14,20 +56,6 @@
       "linkedin_url": "https://linkedin.com/company/sierra",
       "founder_name": "",
       "founder_linkedin_url": "https://linkedin.com/in/sierra-tishgart-a33b9311",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "PR Newswire",
-      "title": "TeamLogic Announces Strategic Expansion into Company-Owned Operations to Bolster Innovation and Fuel Further Brand Growth",
-      "article_url": "https://www.prnewswire.com/news-releases/teamlogic-announces-strategic-expansion-into-company-owned-operations-to-bolster-innovation-and-fuel-further-brand-growth-302761937.html",
-      "company": "TeamLogic",
-      "amount_str": "",
-      "pub_date": "2026-05-04T23:57:00Z",
-      "website": "https://www.teamlogicit.com",
-      "linkedin_url": "https://linkedin.com/company/teamlogic-it",
-      "founder_name": "",
-      "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
     },
@@ -158,20 +186,6 @@
       "twitter_url": ""
     },
     {
-      "source": "Google Alerts",
-      "title": "Nigerian cybersecurity startup Cybervergent launches new version, expands into Kenya, Ghana, SA",
-      "article_url": "https://disruptafrica.com/2026/05/04/nigerian-cybersecurity-startup-cybervergent-launches-new-version-expands-into-kenya-ghana-sa/",
-      "company": "Nigerian cybersecurity startup Cybervergent",
-      "amount_str": "",
-      "pub_date": "2026-05-04T13:54:28Z",
-      "website": "https://articles.connectnigeria.com",
-      "linkedin_url": "",
-      "founder_name": "said Ayomide Daniels",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/connectnigeria"
-    },
-    {
       "source": "tech.eu",
       "title": "ENVIOTECH raises \u20ac1M pre-seed for smart street lighting",
       "article_url": "https://tech.eu/2026/05/04/enviotech-raises-eur1m-pre-seed-for-smart-street-lighting/",
@@ -214,20 +228,6 @@
       "twitter_url": ""
     },
     {
-      "source": "SiliconAngle",
-      "title": "Standard Intelligence raises $75M to develop efficient computer use models",
-      "article_url": "https://siliconangle.com/2026/04/30/standard-intelligence-raises-75m-develop-efficient-computer-use-models/",
-      "company": "Standard Intelligence",
-      "amount_str": "$75M",
-      "pub_date": "2026-05-01T00:56:01Z",
-      "website": "https://si.inc",
-      "linkedin_url": "https://linkedin.com/company/standardintelligence",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
       "source": "Crunchbase News",
       "title": "Swedish Legal Tech Startup Legora Lands Another $50M In Nvidia-Led Series D Extension",
       "article_url": "https://news.crunchbase.com/venture/ai-powered-legal-tech-startup-legora-seriesd-extension-nvidia/",
@@ -253,20 +253,6 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "tech.eu",
-      "title": "Spiral Hydrogen raises \u20ac2.7M to build green hydrogen pilot in Rotterdam",
-      "article_url": "https://tech.eu/2026/04/30/spiral-hydrogen-raises-eur27m-to-build-green-hydrogen-pilot-in-rotterdam/",
-      "company": "Spiral Hydrogen",
-      "amount_str": "\u20ac3.4M",
-      "pub_date": "2026-04-30T08:30:00Z",
-      "website": "http://spiralhydrogen.com",
-      "linkedin_url": "https://linkedin.com/company/spiral-hydrogen",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "info@spiralhydrogen.com",
       "twitter_url": ""
     }
   ]

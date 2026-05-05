@@ -53959,5 +53959,47 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://tech.eu/2026/05/05/detecht-lands-eur395k-to-grow-global-motorcycle-platform/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/05/05/ibm-charts-ai-operating-model-move-enterprises-beyond-experimentation/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/05/04/deepinfra-lands-107m-funding-build-dedicated-inference-cloud-open-source-models/": {
+    "valid": true,
+    "company": "Deepinfra",
+    "amount_str": "$107M",
+    "website": "https://deepinfra.com",
+    "linkedin_url": "https://linkedin.com/company/deep-infra",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/yessenzhar",
+    "contact_email": "feedback@deepinfra.com",
+    "twitter_url": "https://x.com/DeepInfra"
+  },
+  "https://www.asiabusinessoutlook.com/news/singaporebased-ren3-raises-5m-to-scale-agentic-ai-in-southeast-asia-nwid-11854.html": {
+    "valid": true,
+    "company": "Singapore-based ReN3",
+    "amount_str": "$5M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Chafic Nassif",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techinasia.com/news/vertex-ventures-backs-singapore-ai-startup-ren3": {
+    "valid": false
+  },
+  "https://www.wamda.com/2026/05/madeed-closes-925k-pre-seed-scale-personalised-preventive-healthcare-ksa": {
+    "valid": true,
+    "company": "Madeed",
+    "amount_str": "$925K",
+    "website": "https://madeedcare.com",
+    "linkedin_url": "https://linkedin.com/company/madeedhealth",
+    "founder_name": "select group of global",
+    "founder_linkedin_url": "",
+    "contact_email": "hani@madeed.com",
+    "twitter_url": "https://x.com/madeedcare"
   }
 }
