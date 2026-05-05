@@ -54667,5 +54667,177 @@
   },
   "https://msmeafricaonline.com/call-for-applications-women-in-tech-can-access-funding-mentorship-global-networks-standard-chartered-accelerator-2026-now-open/": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/ai/blitzy-funding-valuation-autonomous-software-development-vibe-coding-startups/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/05/05/nvidia-amd-back-100m-round-ai-tooling-startup-radixark/": {
+    "valid": false
+  },
+  "https://www.geekwire.com/2026/seattles-copilotkit-raises-27m-as-some-of-the-biggest-names-in-tech-adopt-its-ai-agent-protocol/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/robbins-llp-urges-zspc-stockholders-who-lose-money-investing-in-zspace-inc-to-contact-the-firm-for-information-about-leading-the-securities-class-action-302763129.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/cai-startet-das-nachste-kapitel-mit-einer-investition-von-jll-partners-302763259.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/alit-upcoming-deadline-faruqi--faruqi-llp-reminds-alight-alit-investors-of-securities-class-action-deadline-on-may-15-2026-302762327.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/corteva-delivers-strong-1q-2026-reaffirms-2026-outlook-on-track-for-4q-2026-separation-302763090.html": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/lon-forehand-5b30a0130_the-man-who-taught-machines-to-beat-us-at-activity-7457393109425872896-15Hh": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/rebel-fund_were-excited-to-support-corvera-yc-w26-activity-7457422230180802561-5FSP": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startlandnews.com/2026/05/resonus-mtc/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "Mitch and Julie Mabrey",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.biopharmadive.com/news/cytospire-gamma-delta-t-cell-engager-series-a/819234/": {
+    "valid": false
+  },
+  "https://www.calcalistech.com/ctechnews/article/hyswfhdcze": {
+    "valid": true,
+    "company": "Israeli startups",
+    "amount_str": "$1.25 b",
+    "website": "https://www.startups.co.il",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/startupscoil"
+  },
+  "https://entarabi.com/en/2026/05/former-andreessen-horowitz-partner-raises-1b-through-haun-ventures/": {
+    "valid": true,
+    "company": "Andreessen Horowitz Partner",
+    "amount_str": "$1B",
+    "website": "https://leadersperception.com",
+    "linkedin_url": "https://linkedin.com/company/leaders-perception",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/LeadersPMag"
+  },
+  "https://www.thesaasnews.com/news/elastics-bags-2m-pre-seed-round": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/corvera-raises-4-2m-seed-round": {
+    "valid": false
+  },
+  "https://www.youtube.com/watch?v=aqL5n2SF-Iw": {
+    "valid": false
+  },
+  "https://www.financemagnates.com/fintech/prediction-markets-are-becoming-algorithmic-trading-venues-as-ai-moves-in/": {
+    "valid": true,
+    "company": "Elastics",
+    "amount_str": "$2 m",
+    "website": "https://www.royalelastics.com",
+    "linkedin_url": "https://linkedin.com/company/elastics-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.reddit.com/r/hyderabadstartups/comments/1t4l0ru/i_help_indian_preseed_founders_create_pitch_decks/": {
+    "valid": false
+  },
+  "https://fuelcellsworks.com/2026/05/05/investors/newhydrogen-drives-toward-commercial-success": {
+    "valid": false
+  },
+  "https://x.com/TFNBreakingNews/status/2051573103273402481": {
+    "valid": false
+  },
+  "https://pulse2.com/astrada-raises-3-8-million-to-build-the-data-layer-for-autonomous-finance/amp/": {
+    "valid": true,
+    "company": "Astrada",
+    "amount_str": "$3.8 M",
+    "website": "https://astrada.co",
+    "linkedin_url": "https://linkedin.com/company/goastrada",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://pulse2.com/radixark-launches-with-100-million-in-seed-funding-to-democratize-frontier-ai-infrastructure/": {
+    "valid": false
+  },
+  "https://pulse2.com/astrada-raises-3-8-million-to-build-the-data-layer-for-autonomous-finance/": {
+    "valid": true,
+    "company": "Astrada",
+    "amount_str": "$3.8 M",
+    "website": "https://astrada.co",
+    "linkedin_url": "https://linkedin.com/company/goastrada",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://pulse2.com/lithosquare-raises-25-million-in-seed-funding-to-deploy-geology-ai-for-critical-metal-exploration/": {
+    "valid": true,
+    "company": "Lithosquare",
+    "amount_str": "$25 m",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/lithosquare",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/sanjose/news/2026/05/05/palo-alto-ai-infrastructure-radixark-seed-funding.html": {
+    "valid": true,
+    "company": "RadixArk",
+    "amount_str": "$100M",
+    "website": "https://www.radixark.ai",
+    "linkedin_url": "https://linkedin.com/company/radixark",
+    "founder_name": "expand\n\nRadixArk",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@radixark.ai",
+    "twitter_url": "https://x.com/radixark"
+  },
+  "https://www.mercomindia.com/solar-inverter-suppliers-leading-indias-market-in-2025": {
+    "valid": false
+  },
+  "https://hackernoon.com/new-ai-platform-maxed-announces-pre-seed-funding-round": {
+    "valid": true,
+    "company": "Maxed",
+    "amount_str": "",
+    "website": "https://www.maxed.life",
+    "linkedin_url": "https://linkedin.com/company/maxedlife",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@maxed.life",
+    "twitter_url": ""
   }
 }
