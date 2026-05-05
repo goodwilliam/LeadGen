@@ -54001,5 +54001,86 @@
     "founder_linkedin_url": "",
     "contact_email": "hani@madeed.com",
     "twitter_url": "https://x.com/madeedcare"
+  },
+  "https://venturebeat.com/technology/openai-turns-its-sold-out-gpt-5-5-party-into-a-monthlong-codex-giveaway-for-8-000-developers": {
+    "valid": false
+  },
+  "https://tech.eu/2026/05/05/backed-by-y-combinator-and-20-unicorn-founders-moritz-lands-9m/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/05/05/deeptech-startup-reduciner-secures-eur36m-to-convert-emissions-into-value/": {
+    "valid": true,
+    "company": "Reduciner",
+    "amount_str": "\u20ac3.6M",
+    "website": "https://www.reduciner.com",
+    "linkedin_url": "https://linkedin.com/company/reduciner",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/05/05/german-deeptech-eleqtron-lands-eur57m-series-a-funding/": {
+    "valid": true,
+    "company": "German deeptech eleQtron",
+    "amount_str": "\u20ac57M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/world-asthma-day-highlights-urgent-need-for-education-support-and-advocacy-to-improve-the-lives-of-people-with-asthma-302762389.html": {
+    "valid": false
+  },
+  "https://msmeafricaonline.com/call-for-applications-development-innovation-ventures-div-fund-2026-up-to-1-5-million-in-funding/": {
+    "valid": false
+  },
+  "https://technode.global/2026/05/05/singapores-ai-work-platform-firm-ren3-raises-5m-seed-round-led-by-vertex-ventures/": {
+    "valid": true,
+    "company": "Singapore's AI work platform firm ReN3",
+    "amount_str": "$5M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Lemuel Low",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://startupsmagazine.co.uk/agentic-supply-chain-platform-corvera-raises-4-2m-seed-round": {
+    "valid": true,
+    "company": "Agentic supply chain platform Corvera",
+    "amount_str": "$4.2M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "and CEO",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/eleqtron-57m-series-a-schwarz-digits-eic-trapped-ion-quantum-computers/": {
+    "valid": false
+  },
+  "https://theaiworld.org/news/banza-raises-1m-pre-seed-for-personal-ai-twin": {
+    "valid": true,
+    "company": "Banza",
+    "amount_str": "$1M",
+    "website": "https://www.eatbanza.com",
+    "linkedin_url": "https://linkedin.com/company/banza",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/eatbanza"
+  },
+  "https://www.eu-startups.com/2026/05/warsaw-based-elastics-raises-e1-7-million-to-build-ai-agents-for-prediction-markets/": {
+    "valid": false
   }
 }
