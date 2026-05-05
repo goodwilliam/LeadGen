@@ -54295,5 +54295,377 @@
   },
   "https://thequantuminsider.com/2026/05/04/harvard-researchers-quantum-computing-advancing-faster-than-expected/": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/": {
+    "valid": true,
+    "company": "CopilotKit",
+    "amount_str": "$27M",
+    "website": "https://www.copilotkit.ai",
+    "linkedin_url": "https://linkedin.com/company/copilotkit",
+    "founder_name": "According to the",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/CopilotKit"
+  },
+  "https://betakit.com/shopify-posts-strong-revenue-growth-but-stock-still-falls-on-slow-growth-forecast/": {
+    "valid": false
+  },
+  "https://betakit.com/the-math-is-not-mathing-how-ai-bubble-fears-are-changing-canadian-vcs-investment-approach/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/05/05/subquadratic-launches-29m-bring-12m-token-context-windows-ai/": {
+    "valid": false
+  },
+  "https://www.geekwire.com/2026/b-c-s-moment-energy-lands-40m-to-scale-ev-battery-repurposing-at-planned-texas-gigafactory/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/cai-ouvre-son-prochain-chapitre-grace-a-un-investissement-de-jll-partners-302763014.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-barclays-plc-investors-to-inquire-about-securities-class-action-investigation--bcs-302762888.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/stulz-usa-announces-new-manufacturing-and-innovation-facility-in-denton-texas-302763009.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/hidden-river-invests-in-nec--10th-investment-in-its-inaugural-fund-302763000.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/silgan-closures-invests-in-cleaner-energy-in-illinois-302762978.html": {
+    "valid": false
+  },
+  "https://www.mexc.com/news/1072301": {
+    "valid": true,
+    "company": "Elastics",
+    "amount_str": "$2M",
+    "website": "https://www.royalelastics.com",
+    "linkedin_url": "https://linkedin.com/company/elastics-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://retailtechinnovationhub.com/home/2026/5/5/agentic-supply-chains-specialist-corvera-lands-3-million-in-seed-funding-to-scale-its-platform": {
+    "valid": true,
+    "company": "Agentic supply chains specialist Corvera",
+    "amount_str": "\u00a33 m",
+    "website": "https://retailtechinnovationhub.com",
+    "linkedin_url": "https://linkedin.com/company/54088878",
+    "founder_name": "Chris Kong",
+    "founder_linkedin_url": "",
+    "contact_email": "scott.thompson@retailtechinnovationhub.com",
+    "twitter_url": "https://x.com/RTIH_RetailTech"
+  },
+  "https://tvpworld.com/93085516/romania-based-startup-eyou-launches-europe-focused-social-platform": {
+    "valid": true,
+    "company": "Europe",
+    "amount_str": "",
+    "website": "https://heartofeurope.tvp.pl",
+    "linkedin_url": "https://linkedin.com/company/who-europe",
+    "founder_name": "Jasseem Allybokus",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.wsj.com/tech/ai/ai-computing-is-a-memory-hog-an-nvidia-backed-startup-has-an-answer-383a5710": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Kamala Is the",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://hypepotamus.com/startup-news/refibuy-seed-round-agentic-commerce-optimization/": {
+    "valid": true,
+    "company": "ReFiBuy",
+    "amount_str": "$13.6M",
+    "website": "https://refibuy.ai",
+    "linkedin_url": "https://linkedin.com/company/refibuy",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/retailgentic"
+  },
+  "https://www.blocksandfiles.com/data-management/2026/05/05/sap-bags-dremio-and-prior-labs-in-enterprise-ai-data-push/5219227": {
+    "valid": true,
+    "company": "It",
+    "amount_str": "$410 m",
+    "website": "https://www.reddit.com/submit",
+    "linkedin_url": "",
+    "founder_name": "Philipp Herzig",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://dronelife.com/2026/05/05/waiv-robotics-debuts-maritime-vtol-landing-pad-with-7-5m-seed-round/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.bunny.net/css",
+    "linkedin_url": "",
+    "founder_name": "said Johnny Carni",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://grepbeat.com/2026/05/05/winston-salems-beakpoint-shines-a-light-on-cloud-spending-efficiency/": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/tampabay/news/2026/05/05/kforce-inno-roundup.html": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/05/05/amazon-bets-nobel-prize-based-dehumidification-can-cut-its-energy-use/": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/05/south-tyrols-profitize-raises-e1-4-million-to-scale-ai-powered-financial-planning-for-the-hospitality-sector/": {
+    "valid": false
+  },
+  "https://crypto.news/elastics-raises-2m-pre-seed-to-build-ai-os-for-prediction-markets/": {
+    "valid": true,
+    "company": "Elastics",
+    "amount_str": "$2M",
+    "website": "https://www.royalelastics.com",
+    "linkedin_url": "https://linkedin.com/company/elastics-ai",
+    "founder_name": "of oracle project RedStone",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://spacenews.com/extending-space-enabled-intelligence-below-the-ocean-surface/": {
+    "valid": false
+  },
+  "https://letsdatascience.com/news/radixark-raises-100m-seed-to-scale-inference-engine-e8f0f3b6": {
+    "valid": true,
+    "company": "RadixArk",
+    "amount_str": "$100M",
+    "website": "https://www.radixark.ai",
+    "linkedin_url": "https://linkedin.com/company/radixark",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@radixark.ai",
+    "twitter_url": "https://x.com/radixark"
+  },
+  "https://bebeez.eu/2026/05/05/waiv-robotics-emerges-from-stealth-with-e6-4-million-to-develop-autonomous-uav-landing-infrastructure/": {
+    "valid": false
+  },
+  "https://thenextweb.com/news/zyg-ironsource-founders-agentic-ecommerce-ai": {
+    "valid": true,
+    "company": "In eight weeks it",
+    "amount_str": "$118 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "The IronSource",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.varindia.com/news/pavestone-pours-in-5-million-in-deep-tech-startup-tsavorite": {
+    "valid": false
+  },
+  "https://techfundingnews.com/lithosquare-25m-world-fund-kindred-capital-mining/": {
+    "valid": true,
+    "company": "Lithosquare",
+    "amount_str": "$25M",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/lithosquare",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/zyg-60m-series-a-accel-ironsource-agentic-ecommerce/": {
+    "valid": false
+  },
+  "https://www.binance.com/en/square/post/319882155038545": {
+    "valid": false
+  },
+  "https://tech.eu/2026/05/05/getaround-europe-and-gomore-merge-to-create-europes-largest-peer-to-peer-carsharing-network/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fintech.global/2026/05/05/global-insurtech-funding-extends-decline-as-investment-falls-50-in-april/": {
+    "valid": false
+  },
+  "https://hackernoon.com/new-ai-platform-maxed-announces-pre-seeding-funding-round": {
+    "valid": true,
+    "company": "Maxed",
+    "amount_str": "",
+    "website": "https://www.maxed.life",
+    "linkedin_url": "https://linkedin.com/company/maxedlife",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@maxed.life",
+    "twitter_url": ""
+  },
+  "https://fuelcellsworks.com/2026/05/05/clean-energy/newhydrogen-drives-toward-commercial-success": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/05/moment-energy-raises-us40m-in-series-b-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/05/windward-bio-raises-165m-in-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/05/eleqtron-raises-e57m-in-series-a-funding.html": {
+    "valid": false
+  },
+  "https://www.coininsider.com/news/shopify-and-national-bank-of-canada-back-canadas-first-regulated-cad-stablecoin/": {
+    "valid": false
+  },
+  "https://www.reddit.com/r/growmybusiness/comments/1t4gnl8/has_anyone_successfully_landed_a_nondilutive/": {
+    "valid": false
+  },
+  "https://www.reddit.com/r/AppBusiness/comments/1t4gwoa/has_anyone_successfully_landed_a_nondilutive/": {
+    "valid": false
+  },
+  "https://theaiworld.org/news/elastics-raises-17m-for-ai-prediction-market-agents": {
+    "valid": true,
+    "company": "Elastics",
+    "amount_str": "\u20ac1.7M",
+    "website": "https://www.royalelastics.com",
+    "linkedin_url": "https://linkedin.com/company/elastics-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.venturelab.swiss/USD-38-million-for-Mosaic-SoC-to-bring-realtime-spatial-intelligence-to-consumer-devices": {
+    "valid": false
+  },
+  "https://uk.finance.yahoo.com/news/visibai-picks-future-2026-official-140000421.html": {
+    "valid": false
+  },
+  "https://www.binance.com/en/square/post/319881959281714": {
+    "valid": false
+  },
+  "https://www.ipoplatform.com/Funding-news/vobizai-raises-funding": {
+    "valid": false
+  },
+  "https://x.com/lukas_m_ziegler/status/2051572338433372543": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/Chirp-Regular.80fda27a.woff2",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.shu.edu/business/news/seton-hall-students-win-16k-at-pirates-pitch-2026.html": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/05/05/shapes-secures-8m-to-bring-ai-characters-into-human-group-conversations/": {
+    "valid": true,
+    "company": "Shapes",
+    "amount_str": "$8M",
+    "website": "https://shop.lesmills.com",
+    "linkedin_url": "https://linkedin.com/company/lmus",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/LesMillsUS"
+  },
+  "https://fortune.com/2026/05/05/moonpay-acquires-solana-100m-all-stock/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cookielaw.org/consent/906dc33b-1fc3-4b2c-a324-8bc0b7db9050/OtAutoBlock.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://alleywatch.com/2026/05/degen-mother-tech-ai-creative-app-prompt-free-ai-content-meme-generator-creator-economy-platform-kelsey-falter/": {
+    "valid": true,
+    "company": "MOTHER.Tech",
+    "amount_str": "$15M",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/maatru",
+    "founder_name": "Tech CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.globenewswire.com/news-release/2026/05/05/3287900/0/en/VisibAI-Picks-WE-Make-Future-2026-for-Official-Launch-as-AI-Search-Visibility-Becomes-Industry-s-Newest-Battleground.html": {
+    "valid": false
+  },
+  "https://m.economictimes.com/tech/startups/eternal-founder-deepinder-goyal-drops-100-temple-wearables-but-theres-a-catch/amp_articleshow/130830606.cms": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.ampproject.org",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.forbes.com/sites/elainepofeldt/2026/05/05/startup-wins-funding-from-chicago-ventures-for-a-platform-that-makes-it-easier-for-small-businesses-to-switch-banks/": {
+    "valid": true,
+    "company": "Startup",
+    "amount_str": "",
+    "website": "https://www.sitebuilderreport.com",
+    "linkedin_url": "https://linkedin.com/company/startup_5",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/wilschroter",
+    "contact_email": "",
+    "twitter_url": "https://x.com/SquarespaceHelp"
+  },
+  "https://techfundingnews.com/mother-tech-15m-seed-gv-lerer-hippeau-degen-ai-app/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/instaswitch-lands-4-7m-from-chicago-ventures-8-bit-capital-to-fix-inactive-business-bank-accounts-with-ai/": {
+    "valid": true,
+    "company": "InstaSwitch",
+    "amount_str": "$4.7M",
+    "website": "https://instaswitch.co",
+    "linkedin_url": "https://linkedin.com/company/instaswitch",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.calcalistech.com/ctechnews/article/bkbjddprbx": {
+    "valid": true,
+    "company": "CopilotKit",
+    "amount_str": "$27 m",
+    "website": "https://docs.copilotkit.ai",
+    "linkedin_url": "https://linkedin.com/company/copilotkit",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "http://www.esgtoday.com/barocal-raises-10-million-to-cut-data-center-cooling-refrigeration-emissions/": {
+    "valid": true,
+    "company": "Barocal",
+    "amount_str": "$10 M",
+    "website": "https://barocal.com",
+    "linkedin_url": "https://linkedin.com/company/barocal",
+    "founder_name": "Xavier Moya",
+    "founder_linkedin_url": "",
+    "contact_email": "info@barocal.com",
+    "twitter_url": ""
+  },
+  "https://www.biz2credit.com/startup-business-loans/startup-funding-ideas": {
+    "valid": false
+  },
+  "https://msmeafricaonline.com/call-for-applications-women-in-tech-can-access-funding-mentorship-global-networks-standard-chartered-accelerator-2026-now-open/": {
+    "valid": false
   }
 }
