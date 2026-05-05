@@ -53839,5 +53839,125 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/05/04/ai-agent-startup-sierra-valued-15b-new-950m-funding-round/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/05/04/palantir-beats-q1-expectations-raises-full-year-guidance-us-revenue-doubles/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/nktr-deadline-nktr-investors-have-opportunity-to-lead-nektar-therapeutics-securities-fraud-lawsuit-302761178.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/psix-investors-have-opportunity-to-lead-power-solutions-international-inc-securities-fraud-lawsuit-302761176.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-a-highly-regarded-law-firm-encourages-pinterest-inc-investors-to-secure-counsel-before-important-deadline-in-securities-class-action---pins-302760735.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/lu-upcoming-deadline-faruqi--faruqi-llp-reminds-lufax-lu-investors-of-securities-class-action-deadline-on-may-20-2026-302761681.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/chow-upcoming-deadline-faruqi--faruqi-llp-reminds-chowchow-cloud-chow-investors-of-securities-class-action-deadline-on-may-12-2026-302761561.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/mndy-deadline-mndy-investors-have-opportunity-to-lead-mondaycom-ltd-securities-fraud-lawsuit-302761960.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/cerberus-appoints-rahul-sangwan-as-head-of-india-302761970.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/teamlogic-announces-strategic-expansion-into-company-owned-operations-to-bolster-innovation-and-fuel-further-brand-growth-302761937.html": {
+    "valid": true,
+    "company": "TeamLogic",
+    "amount_str": "",
+    "website": "https://www.teamlogicit.com",
+    "linkedin_url": "https://linkedin.com/company/teamlogic-it",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.backscoop.com/newsletter-posts/singapores-formas-ai-raises-3-98-pre-seed": {
+    "valid": false
+  },
+  "https://www.macrumors.com/2026/05/04/apple-seeds-watchos-26-5-rc/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://mastodon.social/@macrumors",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "macrumors@mastodon.social",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/charlotte/news/2026/05/04/gbeta-cohort-peal-health-startups-investor-ready.html": {
+    "valid": false
+  },
+  "https://www.producthunt.com/p/general/the-new-pre-seed-harder-to-get-in-more-reward-if-you-do-with-julia-yu": {
+    "valid": false
+  },
+  "https://timesofindia.indiatimes.com/city/hyderabad/bits-startup-raises-rs-4-cr-eyes-faster-smarter-def-systems/articleshow/130810996.cms": {
+    "valid": true,
+    "company": "BITS startup",
+    "amount_str": "",
+    "website": "https://bits4startups.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "you@company.com",
+    "twitter_url": ""
+  },
+  "https://environmentenergyleader.com/stories/mosaic-soc-raises-38m-to-power-smaller-edge-devices,124968": {
+    "valid": true,
+    "company": "Mosaic SoC",
+    "amount_str": "$3.8m",
+    "website": "https://mosaicsoc.ch",
+    "linkedin_url": "https://linkedin.com/company/mosaic-soc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@mosaic-soc.com",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DX62DVnDIOJ/": {
+    "valid": false
+  },
+  "https://www.startuphub.ai/investment_rounds/mobility-signage-pre-seed-2026": {
+    "valid": false
+  },
+  "https://www.facebook.com/Billionaires.Africa/photos/africas-angel-investors-deployed-about-44-million-in-2025-but-many-earlystage-st/1302766338616552/": {
+    "valid": false
+  },
+  "https://phemex.com/news/article/ai-startup-sierra-secures-950-million-in-series-e-valued-at-158-billion-78664": {
+    "valid": true,
+    "company": "Sierra",
+    "amount_str": "$950 M",
+    "website": "https://www.sierra.com",
+    "linkedin_url": "https://linkedin.com/company/sierra",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/sierra-tishgart-a33b9311",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://lbbonline.com/news/three-are-one-on-the-house-social-out-of-home": {
+    "valid": false
+  },
+  "https://www.startupgrantsindia.com/i-dapt-hub-incubation-cohort-3-iit-bhu-varanasi": {
+    "valid": false
+  },
+  "https://www.facebook.com/ceovine/posts/aiot-startup-ubiqedge-has-raised-10-crore-in-a-seed-funding-round-led-by-piper-s/886801567706517/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "with participation from Atomberg",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
