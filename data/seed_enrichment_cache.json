@@ -54082,5 +54082,218 @@
   },
   "https://www.eu-startups.com/2026/05/warsaw-based-elastics-raises-e1-7-million-to-build-ai-agents-for-prediction-markets/": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/05/05/moment-energy-raises-40m-to-meet-infinite-demand-for-power-with-ev-batteries/": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/venture/global-startup-funding-april-2026-anthropic-jeff-bezos-project-prometheus-biggest-deals/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/05/05/quantware-secures-eur152m-for-large-scale-quantum-systems/": {
+    "valid": true,
+    "company": "QuantWare",
+    "amount_str": "\u20ac152M",
+    "website": "https://quantware.com",
+    "linkedin_url": "https://linkedin.com/company/quantware",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/05/05/elevenlabs-adds-blackrock-nvidia-and-jamie-foxx-to-550m-series-d/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/05/05/london-founded-corvera-raises-42m-to-bring-agentic-ai-to-cpg-supply-chains/": {
+    "valid": true,
+    "company": "London-founded Corvera",
+    "amount_str": "$4.2M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/05/05/elastics-secures-2m-pre-seed-to-build-ai-agents-for-prediction-markets/": {
+    "valid": true,
+    "company": "Elastics",
+    "amount_str": "$2M",
+    "website": "https://www.elastics.ai",
+    "linkedin_url": "https://linkedin.com/company/elastics-ai",
+    "founder_name": "including operators and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ElasticsAI"
+  },
+  "https://siliconangle.com/2026/05/05/quantum-chip-fab-quantware-raises-178m-become-intel/": {
+    "valid": true,
+    "company": "QuantWare",
+    "amount_str": "$178M",
+    "website": "https://quantware.com",
+    "linkedin_url": "https://linkedin.com/company/quantware",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/cwh-upcoming-deadline-faruqi--faruqi-llp-reminds-camping-world-holdings-cwh-investors-of-securities-class-action-deadline-on-may-11-2026-302761872.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/aldx-upcoming-deadline-faruqi--faruqi-llp-reminds-aldeyra-therapeutics-aldx-investors-of-securities-class-action-deadline-on-may-29-2026-302761847.html": {
+    "valid": false
+  },
+  "https://daily-job-portal.html-5.me/article/88652": {
+    "valid": false
+  },
+  "https://daily-job-portal.html-5.me/article/88629": {
+    "valid": false
+  },
+  "https://daily-job-portal.html-5.me/article/2805": {
+    "valid": false
+  },
+  "https://breaking-interview-daily.my-style.in/article/119829": {
+    "valid": false
+  },
+  "https://breaking-interview-daily.my-style.in/article/82150": {
+    "valid": false
+  },
+  "https://techfundingnews.com/manchesterstory-leads-6-5m-round-in-xcaliber-health-to-automate-healthcare-administration/": {
+    "valid": false
+  },
+  "https://fortune.com/2026/05/05/astrocade-raises-56-million-series-b-sequoia-video-games-platform-ali-amir-sadeghian/": {
+    "valid": true,
+    "company": "Sequoia-backed Astrocade",
+    "amount_str": "$56 m",
+    "website": "https://www.msn.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/05/waiv-robotics-emerges-from-stealth-with-e6-4-million-to-develop-autonomous-uav-landing-infrastructure/": {
+    "valid": false
+  },
+  "https://www.bloomberg.com/news/articles/2026-05-05/ironsource-founders-ai-startup-zyg-raises-at-500-million-value": {
+    "valid": true,
+    "company": "IronSource Founders' AI Startup Zyg",
+    "amount_str": "$500 M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.calcalistech.com/ctechnews/article/bkzm3rw0wl": {
+    "valid": true,
+    "company": "ZyG",
+    "amount_str": "$60 m",
+    "website": "https://www.zyg.com",
+    "linkedin_url": "https://linkedin.com/company/zyg-edge",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@zyg.com",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/triangle/news/2026/05/05/scot-wingo-refibuy-closes-13m-seed-funding.html": {
+    "valid": true,
+    "company": "Wingo's AI commerce startup",
+    "amount_str": "$14 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.newswire.com/news/refibuy-raises-13-6m-oversubscribed-seed-round-to-accelerate-agentic-commerce": {
+    "valid": true,
+    "company": "ReFiBuy",
+    "amount_str": "$13.6M",
+    "website": "https://refibuy.ai",
+    "linkedin_url": "https://linkedin.com/company/refibuy",
+    "founder_name": "said Scot Wingo",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/retailgentic"
+  },
+  "https://www.thesaasnews.com/news/videotutor-raises-11m-seed-round": {
+    "valid": false
+  },
+  "https://letsdatascience.com/news/moritz-raises-9-million-for-ai-native-law-firm-2d0b28eb": {
+    "valid": true,
+    "company": "Moritz",
+    "amount_str": "$9 m",
+    "website": "https://www.smoritz.it",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/moritzbartusch",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/tech-funding-news_frankfurt-startup-bags-1m-pre-seed-to-make-activity-7457338199103885312-aWY_": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/sierra-raises-950m-at-15b-valuation": {
+    "valid": false
+  },
+  "https://letsdatascience.com/news/jurisphereai-raises-22m-for-ai-lawyer-marketplace-d032d92e": {
+    "valid": true,
+    "company": "Jurisphere.ai",
+    "amount_str": "$2.2M",
+    "website": "https://duck.ai",
+    "linkedin_url": "https://linkedin.com/company/jurisphere-ai",
+    "founder_name": "DealStreetAsia also quotes",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theprimeshark.com/blog/private-funding-for-startup-business/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.tiktok.com/@primeshark.03",
+    "linkedin_url": "",
+    "founder_name": "Where Can",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bebeez.eu/2026/05/05/south-tyrols-profitize-raises-e1-4-million-to-scale-ai-powered-financial-planning-for-the-hospitality-sector/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/05/05/firestorm-labs-announces-82m-in-funding-to-deploy-ai-enabled-containerized-drone-factories-near-front-lines/": {
+    "valid": true,
+    "company": "Firestorm Labs",
+    "amount_str": "$82 m",
+    "website": "https://launchfirestorm.com",
+    "linkedin_url": "",
+    "founder_name": "Dan Magy",
+    "founder_linkedin_url": "https://linkedin.com/in/danmagy",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.businessinsider.com/moritz-ai-law-firm-seed-funding-y-combinator-2026-5": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://i.insider.com/69f8edacb3045b292f636861",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "0@s.efZ",
+    "twitter_url": ""
+  },
+  "https://thequantuminsider.com/2026/05/04/harvard-researchers-quantum-computing-advancing-faster-than-expected/": {
+    "valid": false
   }
 }
