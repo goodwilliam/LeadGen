@@ -54839,5 +54839,185 @@
     "founder_linkedin_url": "",
     "contact_email": "support@maxed.life",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/05/05/as-crypto-cools-a16zcrypto-raises-a-2-2b-fund/": {
+    "valid": false
+  },
+  "https://venturebeat.com/technology/miami-startup-subquadratic-claims-1-000x-ai-efficiency-gain-with-subq-model-researchers-demand-independent-proof": {
+    "valid": true,
+    "company": "It",
+    "amount_str": "$29 m",
+    "website": "https://www.warnerbros.com",
+    "linkedin_url": "https://linkedin.com/company/warner-bros--entertainment",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/ashutosh-kumar6",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Warnerbros"
+  },
+  "https://siliconangle.com/2026/05/05/elevenlabs-adds-high-profile-investors-annualized-revenue-tops-500m/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/05/05/blitzy-raises-200m-1-4b-valuation-deploy-thousands-coding-agents-parallel/": {
+    "valid": true,
+    "company": "Blitzy",
+    "amount_str": "$200M",
+    "website": "https://blitzy.com",
+    "linkedin_url": "https://linkedin.com/company/blitzyai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@blitzy.com",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/05/05/ai-data-center-operator-iren-acquire-mirantis-625m/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/05/05/digitalocean-raises-2026-2027-revenue-outlook-ai-driven-q1-beat/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/glob-investors-have-opportunity-to-lead-globant-sa-securities-fraud-lawsuit-302763407.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/mingmed-biotechnology-presenta-datos-positivos-de-qa102-oral-para-la-degeneracion-macular-asociada-a-la-edad-302763424.html": {
+    "valid": false
+  },
+  "https://techfundingnews.com/radixark-100m-seed-accel-spark-nvidia-sglang-ai-inference/": {
+    "valid": false
+  },
+  "https://www.techinasia.com/news/epic-angels-backs-enaxiom-18m-seed": {
+    "valid": false
+  },
+  "https://www.finextra.com/newsarticle/47700/visa-and-mastercard-join-seed-round-for-astrada": {
+    "valid": false
+  },
+  "https://blogs.worldbank.org/en/psd/it-outsourcing-hub-to-startup-ecosystem-romania-venture-capital-": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.law.com/legaltechnews/2026/05/05/mso-parlai-and-its-hybrid-law-firm-moritz-announce-9m-in-seed-funding/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Meet the Female",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.joplinglobe.com/region/national_business/astrada-raises-seed-round-to-build-the-data-layer-for-autonomous-finance/article_d9e10c0a-5f77-5967-b712-5fc55a0868ad.html": {
+    "valid": true,
+    "company": "Astrada",
+    "amount_str": "",
+    "website": "https://astrada.co",
+    "linkedin_url": "https://linkedin.com/company/goastrada",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.businesswire.com/news/home/20260505235880/en/Astrada-Raises-Seed-Round-to-Build-the-Data-Layer-for-Autonomous-Finance": {
+    "valid": true,
+    "company": "Astrada",
+    "amount_str": "",
+    "website": "https://astrada.co",
+    "linkedin_url": "https://linkedin.com/company/goastrada",
+    "founder_name": "said Salman Syed",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/geothermal-startup-fervo-energy-eyes-1-3b-ipo-after-462m-funding-to-deliver-24-7-clean-power/": {
+    "valid": false
+  },
+  "https://www.axios.com/pro/all-deals/2026/05/05/pro-rata-premium-first-look": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://wnhub.io/news/investment/item-50752": {
+    "valid": false
+  },
+  "https://www.datacenterdynamics.com/en/news/deep-green-taps-zendo-energy-for-manchester-data-center-renewable-energy-deal/": {
+    "valid": false
+  },
+  "https://theprimeshark.com/blog/start-up-seed-funding/": {
+    "valid": true,
+    "company": "How Founders in UAE &amp; Saudi",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/": {
+    "valid": false
+  },
+  "https://www.tradingview.com/news/financemagnates:74c57bd4a094b:0-prediction-markets-are-becoming-algorithmic-trading-venues-as-ai-moves-in/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.financemagnates.com",
+    "linkedin_url": "https://linkedin.com/company/financemagnates",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "u002F67b4ebafe06474207b5cce91688a63d7@o1102556.ingest.us.sentry.io",
+    "twitter_url": "https://x.com/financemagnates"
+  },
+  "https://startupmapafrica.com/funding/a16z-speedrun": {
+    "valid": false
+  },
+  "https://www.startuphub.ai/investment_rounds/naceai-seed-2026": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/IndianVCA/status/2051693779090862490": {
+    "valid": true,
+    "company": "Singapore startup Cata",
+    "amount_str": "$5.3 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://beamstart.com/news/singapores-ai-work-platform-firm-17779572197182": {
+    "valid": true,
+    "company": "Singapore AI Startup ReN3",
+    "amount_str": "$5M",
+    "website": "https://www.dealstreetasia.com",
+    "linkedin_url": "https://linkedin.com/company/dealstreetasia",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "writers@dealstreetasia.com",
+    "twitter_url": "https://x.com/DealStreetAsia"
   }
 }
