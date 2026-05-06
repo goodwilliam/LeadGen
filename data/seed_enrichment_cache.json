@@ -55119,5 +55119,219 @@
   },
   "https://www.agnirva.com/learn/what-is-seed-funding-(startups)%3F": {
     "valid": false
+  },
+  "https://tech.eu/2026/05/06/antwerp-startup-maurice-nora-raises-eur1m-to-address-rising-care-demand/": {
+    "valid": true,
+    "company": "Antwerp startup Maurice &amp; Nora",
+    "amount_str": "\u20ac1M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/05/06/renaissance-philanthropy-reshapes-science-funding-with-a-new-model-for-innovation/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://betakit.com/moment-energy-raises-40-million-usd-series-b-to-give-used-ev-batteries-new-life/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/netchex-and-washstacks-partner-to-bring-payroll-and-hr-software-for-car-wash-operators-302763550.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/clear-announces-first-quarter-2026-financial-results-302763304.html": {
+    "valid": false
+  },
+  "https://x.com/MunshiPremChnd/status/2051892561585877201": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/Chirp-Regular.80fda27a.woff2",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://igamingfuture.com/easywin-closes-second-seed-round-at-20m-valuation/": {
+    "valid": true,
+    "company": "EasyWin",
+    "amount_str": "$20M",
+    "website": "https://www.easywin.com",
+    "linkedin_url": "https://linkedin.com/company/easywin-inc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/davis-secures-5-5m-led-by-heartcore-balderton-to-bring-ai-into-real-estate-design-workflows/": {
+    "valid": true,
+    "company": "Davis",
+    "amount_str": "$5.5M",
+    "website": "https://www.jordandavisofficial.com",
+    "linkedin_url": "https://linkedin.com/company/davis",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/rob-davis-merck",
+    "contact_email": "info@umusic.com",
+    "twitter_url": "https://x.com/JordanCWDavis"
+  },
+  "https://bebeez.eu/2026/05/06/spains-humara-raises-e1-2-million-to-cut-waste-plant-design-cycles-from-months-to-days-with-ai-saas/": {
+    "valid": false
+  },
+  "https://www.startupdaily.net/topic/funding/data-centre-water-use-startup-swallows-2-5-million-seed-round/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://growth-summit.com.au",
+    "linkedin_url": "",
+    "founder_name": "Enaxiom engineer Michael with",
+    "founder_linkedin_url": "",
+    "contact_email": "events@smartcomedia.com.au",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/05/french-ai-real-estate-startup-davis-raises-e4-6-million-and-unveils-gaudi-1-for-automated-architectural-generation/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/05/4d-path-closes-funding.html": {
+    "valid": true,
+    "company": "4D Path",
+    "amount_str": "",
+    "website": "https://4dpath.com",
+    "linkedin_url": "https://linkedin.com/company/4d-path",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "partnerships@4dpath.com",
+    "twitter_url": "https://x.com/4DPath"
+  },
+  "https://www.finsmes.com/2026/05/davis-raises-5-5m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://businessnewsthisweek.com/business/ai-library-secures-pre-seed-funding-to-power-indias-first-outcome-based-ai-native-software-delivery-company/": {
+    "valid": true,
+    "company": "Library",
+    "amount_str": "",
+    "website": "https://www.loc.gov",
+    "linkedin_url": "https://linkedin.com/company/library-of-congress",
+    "founder_name": "said Arani Chaudhuri",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/librarycongress"
+  },
+  "https://www.moneycontrol.com/news/business/markets/mochatrade-raises-pre-seed-funding-from-y-combinator-pioneer-fund-13910317.html": {
+    "valid": true,
+    "company": "MochaTrade",
+    "amount_str": "",
+    "website": "https://www.mochatrade.com",
+    "linkedin_url": "https://linkedin.com/company/mochatrade",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/05/06/davis-secures-55m-to-accelerate-real-estate-design-workflows/": {
+    "valid": true,
+    "company": "Davis",
+    "amount_str": "$5.5M",
+    "website": "http://meetdavis.com",
+    "linkedin_url": "https://linkedin.com/company/davisai",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/rob-davis-merck",
+    "contact_email": "Contact@davis-os.com",
+    "twitter_url": ""
+  },
+  "https://www.panewslab.com/en/articles/019dfbb7-e58b-7220-851f-0401fd229775": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cloud.umami.is/script.js",
+    "linkedin_url": "",
+    "founder_name": "th that Ethereum",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.panewslab.com/en/articles/019dfae8-3ba7-721d-be42-53385a9ca72a": {
+    "valid": false
+  },
+  "https://www.indiasnews.net/news/279031600/banza-raises-usd-1-million-to-help-people-build-and-own-their-personal-ai-twin": {
+    "valid": false
+  },
+  "https://x.com/theheadandtale/status/2051563435515855156": {
+    "valid": true,
+    "company": "AI-driven data-sharing startup Banza",
+    "amount_str": "$1 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.latestly.com/agency-news/business-news-banza-raises-usd-1-million-to-help-people-build-and-own-their-personal-ai-twin-7417848.html": {
+    "valid": true,
+    "company": "Banza today announced it",
+    "amount_str": "$1 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "said Aditya Vijaykumar",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.greenqueen.com.hk/future-food-quick-bites-beyond-meat-taco-bell-crowdfunding-marigold-protein/": {
+    "valid": false
+  },
+  "https://www.electronicsforyou.biz/industry-buzz/bigendian-secures-6-million-in-a-pre-series-a-funding-round-led-by-ian-alpha-fund/": {
+    "valid": true,
+    "company": "BigEndian",
+    "amount_str": "$6 M",
+    "website": "https://bigendiansemi.com",
+    "linkedin_url": "https://linkedin.com/company/bigendiansemi",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/saikorian",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.indianstartuptimes.com/investment/mochatrade-raises-pre-seed-funding-from-y-combinator-to-build-perpetual-futures-trading/": {
+    "valid": true,
+    "company": "MochaTrade",
+    "amount_str": "",
+    "website": "https://mochatrade.com",
+    "linkedin_url": "https://linkedin.com/company/mochatrade",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://venturecapital.com/headlines/funding-events/altara-raises-7-million-seed-funding-for-ai-platform-bridging-data-gaps-in-physical-sciences-v1": {
+    "valid": true,
+    "company": "Altara",
+    "amount_str": "$7 M",
+    "website": "https://www.altara.co",
+    "linkedin_url": "https://linkedin.com/company/altara-technologies",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@altara.co",
+    "twitter_url": "https://x.com/altaratech"
+  },
+  "https://beamstart.com/news/indian-ai-startup-jurisphere-secures-1777974205613": {
+    "valid": true,
+    "company": "Jurisphere",
+    "amount_str": "$2.2M",
+    "website": "https://app.jurisphere.ai",
+    "linkedin_url": "https://linkedin.com/company/jurisphere-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
