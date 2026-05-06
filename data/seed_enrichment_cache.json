@@ -55422,5 +55422,420 @@
   },
   "https://www.facebook.com/Inc42/posts/inc42-exclusiverobotics-startup-general-autonomy-has-raised-about-32-cr-around-3/1539447337779383/": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/": {
+    "valid": false
+  },
+  "https://venturebeat.com/data/market-research-is-too-slow-for-the-ai-era-so-brox-built-60-000-identical-digital-twins-of-real-people-you-can-survey-instantly-repeatedly": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://dn0qt3r0xannq.cloudfront.net/venturebeat-ZUVdMvorYO/venturebeat-longform/prebid-load.js",
+    "linkedin_url": "",
+    "founder_name": "said Brox",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://venturebeat.com/technology/ai-agents-are-missing-all-the-discussions-your-team-is-having-sageox-has-an-answer-agentic-context-infrastructure": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://dn0qt3r0xannq.cloudfront.net/venturebeat-ZUVdMvorYO/venturebeat-longform/prebid-load.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/05/06/ai-consulting-startup-co-founded-by-deepmind-scientist-lands-22-75m-series-a/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/vmake-expands-image-enhancer-with-advanced-old-photo-restoration-features-ahead-of-mothers-day-302755246.html": {
+    "valid": false
+  },
+  "https://www.geekwire.com/2026/seattles-tin-can-launches-program-to-help-schools-and-neighborhoods-go-smartphone-free-together/": {
+    "valid": false
+  },
+  "https://www.agribusinessglobal.com/plant-health/biostimulants/uk-biostimulant-startup-sugarox-secures-2-5-million-investment-from-the-mosaic-company/": {
+    "valid": false
+  },
+  "https://dronelife.com/2026/05/06/sapient-perception-10k-drone-sensor/": {
+    "valid": false
+  },
+  "https://www.inc.com/brian-contreras/startup-landline-kids-tin-can-untechnologies-bulk/91341142": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Chet Kittleson",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/05/06/pennsylvania-sues-character-ai-after-chatbot-falsely-claimed-to-be-a-licensed-psychiatrist/": {
+    "valid": false
+  },
+  "https://uk.finance.yahoo.com/news/district-founded-three-snapchat-alumni-113847380.html": {
+    "valid": true,
+    "company": "District, founded by three Snapchat alumni",
+    "amount_str": "$14.7 m",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bakersfield.com/ap/news/humans-and-ai-agents-are-now-coworkers-but-not-yet-a-team-sageox-raises-15m/article_6099099c-ea3f-5789-a085-0c50c8e8ce1e.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://financialpost.com/pmn/business-pmn/viral-100-kids-landline-startup-tin-can-debuts-bulk-order-program": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://forms.gle/6M6VTS3mmHXGbFjM8",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fortune.com/2026/05/06/the-rise-of-the-silicon-valley-player-coach/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cookielaw.org/consent/906dc33b-1fc3-4b2c-a324-8bc0b7db9050/OtAutoBlock.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fortune.com/2026/05/06/district-snap-seed/": {
+    "valid": true,
+    "company": "District",
+    "amount_str": "$14.7 m",
+    "website": "https://bcad.org",
+    "linkedin_url": "https://linkedin.com/company/bexar-appraisal-district",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/rob-thornton-2687127",
+    "contact_email": "",
+    "twitter_url": "https://x.com/i"
+  },
+  "https://crypto.news/stockcoin-ai-raises-seed-round-from-amber-group-to-fuse-ai-stocks-and-crypto/": {
+    "valid": true,
+    "company": "Stockcoin.ai",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/05/06/qutwo-raises-e25-million-at-380-million-valuation-to-build-europe-focused-enterprise-ai-platform/": {
+    "valid": true,
+    "company": "QuTwo",
+    "amount_str": "\u20ac25 M",
+    "website": "https://qutwo.com",
+    "linkedin_url": "https://linkedin.com/company/qutwo",
+    "founder_name": "the former",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://wtaq.com/2026/05/06/french-startup-unveils-ai-model-for-robots-and-human-like-hand/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "http:\\/\\/www.facebook.com\\/sharer.php",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.businesswire.com/news/home/20260506467841/en/Humans-and-AI-Agents-Are-Now-Coworkers-But-Not-Yet-a-Team.-SageOx-Raises-%2415M-to-Fix-That.": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "said Marius Ciocirlan",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://ca.finance.yahoo.com/news/french-startup-unveils-ai-model-133453558.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https:&#x2F;&#x2F;ca.yahoo.com&#x2F;",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bebeez.eu/2026/05/06/swiss-startup-moonlight-ai-raises-e2-8-million-to-turn-routine-blood-and-cytology-imaging-into-genomic-insights/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/qutwo-25m-angel-round-peter-sarlin-silo-ai-quantum-ai/": {
+    "valid": false
+  },
+  "https://www.phocuswire.com/news/finance/journey-acquires-experiences-platform-epicurate": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://eu.36kr.com/en/p/3797644221635588": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://mp.weixin.qq.com/s",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://markets.businessinsider.com/news/stocks/spring-names-four-impact-ventures-to-watch-ahead-of-web-summit-vancouver-1036114348": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://htlbid.com/v3/marketsinsider.com/htlbid.css",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.einpresswire.com/article/910831142/jupid-raises-840k-to-give-every-small-business-its-own-ai-accountant": {
+    "valid": true,
+    "company": "Jupid",
+    "amount_str": "$840K",
+    "website": "https://jupid.com",
+    "linkedin_url": "https://linkedin.com/company/jupid",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/05/vastian-receives-strategic-growth-investment-from-bregal-sagemount-and-silversmith-capital-partners.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/05/jetty-raises-over-2m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://m.economictimes.com/markets/stocks/news/mochatrade-raises-funding-to-offer-global-access-to-us-perpetual-futures/articleshow/130860045.cms": {
+    "valid": true,
+    "company": "MochaTrade",
+    "amount_str": "",
+    "website": "https://www.mochatrade.com",
+    "linkedin_url": "https://linkedin.com/company/mochatrade",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://hackernoon.com/$131-million-confiscated-inside-cryptos-largest-law-enforcement-partnership": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/05/signadori-bio-raises-e11-1m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DYAAFmpDRnC/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/jetty-raises-over-2-million-to-build-infrastructure-for-reliable-agentic-ai-applications-302763239.html": {
+    "valid": true,
+    "company": "Jetty",
+    "amount_str": "$2 M",
+    "website": "https://jetty.org",
+    "linkedin_url": "https://linkedin.com/company/jetty",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/JettyProject"
+  },
+  "https://fintech.global/2026/05/06/elastics-raises-2m-pre-seed-for-ai-prediction-market-agents/": {
+    "valid": true,
+    "company": "Elastics",
+    "amount_str": "$2m",
+    "website": "https://www.elastics.ai",
+    "linkedin_url": "https://linkedin.com/company/elastics-ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ElasticsAI"
+  },
+  "https://www.linkedin.com/posts/amardeepsparmar_what-does-pre-seed-funding-actually-mean-activity-7457774852410724352-QRPe": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://lasvegassun.com/news/2026/may/06/trilinc-global-and-merivia-announce-strategic-part/": {
+    "valid": false
+  },
+  "https://www.tipranks.com/news/private-companies/davis-ai-raises-5-5-million-pre-seed-to-apply-ai-to-real-estate-development": {
+    "valid": true,
+    "company": "Davis AI",
+    "amount_str": "$5.5 M",
+    "website": "https://cedar.ucdavis.edu",
+    "linkedin_url": "https://linkedin.com/company/data-bot-box",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://entarabi.com/en/2026/05/khwarizmi-ventures-announces-first-close-of-fund-ii-to-back-the-next-generation-of-gcc-founders/": {
+    "valid": true,
+    "company": "Khwarizmi Ventures",
+    "amount_str": "",
+    "website": "https://www.khwarizmivc.com/contact",
+    "linkedin_url": "https://linkedin.com/company/khwarizmivc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/khwarizmivc"
+  },
+  "https://m.dailyhunt.in/news/india/english/yourstory-epaper-yourstory/startup+news+and+updates+daily+roundup+may+6+2026-newsid-n711244359": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wa.me",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.passionateinmarketing.com/mindspace-reit-raises-inr-500-crore-from-one-of-indias-leading-insurers-through-a-10-year-ncd-issuance/": {
+    "valid": false
+  },
+  "https://newsroom.haas.berkeley.edu/new-ai-entrepreneurship-course-is-a-hands-on-startup-accelerator-for-mba-founders/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.geekwire.com/2026/seattles-sageox-lands-15m-to-help-humans-and-ai-agents-work-in-lockstep/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/ethos-22-5m-series-a-andreessen-horowitz-general-catalyst-ai-talent/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/05/sageox-raises-15m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://nitipartners.com/seed-round-financing-using-yc-docs-in-nepal/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://technode.global/2026/05/06/singapores-brano-therapeutics-raises-6-8m-seed-funding-to-advance-heart-failure-treatments/": {
+    "valid": true,
+    "company": "Singapore's Brano Therapeutics",
+    "amount_str": "$6.8M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiworld.org/news/french-ai-startup-davis-raises-46m-launches-gaudi-1": {
+    "valid": false
+  },
+  "https://theaiworld.org/news/vobizai-raises-1m-seed-round-for-ai-voice-infrastructure": {
+    "valid": true,
+    "company": "Vobiz.ai",
+    "amount_str": "$1M",
+    "website": "http://Vobiz.ai",
+    "linkedin_url": "https://linkedin.com/company/vobizai",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/gsuman",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.vccircle.com/medvitalvobiz-ai-jobsupi-pinsec-bag-early-stage-funding": {
+    "valid": true,
+    "company": "MedVital, Vobiz.ai, JobsUPI, PinSec",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Alok Bansal",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.sdbj.com/technology/software/omnisync-partners-with-early-stage-venture-firm/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.cloudflare.com/5xx-error-landing",
+    "linkedin_url": "https://linkedin.com/company/cloudflare",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/cloudflare"
   }
 }
