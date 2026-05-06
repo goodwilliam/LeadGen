@@ -55333,5 +55333,94 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://news.crunchbase.com/startups/ai-is-rewriting-what-investors-should-look-for-in-early-startup-teams/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/05/06/opentrade-secures-17m-in-strategic-funding-to-scale-its-stablecoin-yield-infrastructure/": {
+    "valid": true,
+    "company": "OpenTrade",
+    "amount_str": "$17M",
+    "website": "https://www.opentrade.io",
+    "linkedin_url": "https://linkedin.com/company/opentrade-io",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/opentrade_io"
+  },
+  "https://siliconangle.com/2026/05/06/security-training-startup-herd-security-raises-3m-expand-ai-capabilities/": {
+    "valid": true,
+    "company": "Security training startup Herd Security",
+    "amount_str": "$3M",
+    "website": "https://www.herdsecurity.io",
+    "linkedin_url": "https://linkedin.com/company/herdsecurity",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/herdsecurity"
+  },
+  "https://siliconangle.com/2026/05/06/boost-security-acquires-secureiqx-korbit-adds-4m-new-funding/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/nuai-deadline-alert-faruqi--faruqi-llp-reminds-new-era-energy--digital-nuai-investors-of-securities-class-action-deadline-on-june-1-2026-302763796.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/mndy-deadline-alert-faruqi--faruqi-llp-reminds-mondaycom-mndy-investors-of-securities-class-action-deadline-on-may-11-2026-302763819.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/nel-asa-launches-next-generation-pressurized-alkaline-platform-redefining-simplicity-and-cost-efficiency-in-renewable-hydrogen-production-302764228.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/cigl-deadline-alert-faruqi--faruqi-llp-reminds-concorde-international-cigl-investors-of-securities-class-action-deadline-on-may-20-2026-302763795.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/atra-deadline-alert-faruqi--faruqi-llp-reminds-atara-biotherapeutics-atra-investors-of-securities-class-action-deadline-on-may-22-2026-302763785.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/nel-asa-launches-next-generation-pressurized-alkaline-platform-redefining-simplicity-and-cost-efficiency-in-renewable-hydrogen-production-302764220.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/wall-street-prep-names-bogdan-tudose-head-of-ai-and-data-science-302763477.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/wall-street-prep-names-bogdan-tudose-head-of-ai-and-data-science-302763450.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/corgi-launches-28-actively-managed-thematic-etfs-on-cboe-bzx-302763988.html": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DX_gShcD47c/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Magazine on Instagram",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.reddit.com/r/startups/comments/1t4gsg6/has_anyone_successfully_landed_a_nondilutive/": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DX9EMs7H0An/": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/grishinrobotics_subquadratic-has-raised-29m-in-seed-funding-activity-7457723091805327360-nEa7": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.youtube.com/shorts/8TMuCu3YGAk": {
+    "valid": false
+  },
+  "https://www.facebook.com/Inc42/posts/inc42-exclusiverobotics-startup-general-autonomy-has-raised-about-32-cr-around-3/1539447337779383/": {
+    "valid": false
   }
 }

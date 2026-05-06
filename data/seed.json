@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-05-06T10:14:50.699537Z",
-  "count": 27,
-  "enriched_count": 20,
+  "generated_at": "2026-05-06T13:49:38.943576Z",
+  "count": 26,
+  "enriched_count": 19,
   "articles": [
+    {
+      "source": "tech.eu",
+      "title": "OpenTrade secures $17M in strategic funding to scale its stablecoin yield infrastructure",
+      "article_url": "https://tech.eu/2026/05/06/opentrade-secures-17m-in-strategic-funding-to-scale-its-stablecoin-yield-infrastructure/",
+      "company": "OpenTrade",
+      "amount_str": "$17M",
+      "pub_date": "2026-05-06T13:00:00Z",
+      "website": "https://www.opentrade.io",
+      "linkedin_url": "https://linkedin.com/company/opentrade-io",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/opentrade_io"
+    },
     {
       "source": "Google Alerts",
       "title": "4D Path Closes Funding - FinSMEs",
@@ -257,20 +271,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Former Andreessen Horowitz Partner Raises $1B Through Haun Ventures - entARABI",
-      "article_url": "https://entarabi.com/en/2026/05/former-andreessen-horowitz-partner-raises-1b-through-haun-ventures/",
-      "company": "Andreessen Horowitz Partner",
-      "amount_str": "$1B",
-      "pub_date": "2026-05-05T18:37:26Z",
-      "website": "https://leadersperception.com",
-      "linkedin_url": "https://linkedin.com/company/leaders-perception",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/LeadersPMag"
-    },
-    {
-      "source": "Google Alerts",
       "title": "Astrada Raises Seed Round to Build the Data Layer for Autonomous Finance - The Joplin Globe",
       "article_url": "https://www.joplinglobe.com/region/national_business/astrada-raises-seed-round-to-build-the-data-layer-for-autonomous-finance/article_d9e10c0a-5f77-5967-b712-5fc55a0868ad.html",
       "company": "Astrada",
@@ -352,20 +352,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
-    },
-    {
-      "source": "SiliconAngle",
-      "title": "Deepinfra lands $107M in funding to build out its dedicated inference cloud for open-source models",
-      "article_url": "https://siliconangle.com/2026/05/04/deepinfra-lands-107m-funding-build-dedicated-inference-cloud-open-source-models/",
-      "company": "Deepinfra",
-      "amount_str": "$107M",
-      "pub_date": "2026-05-05T02:04:16Z",
-      "website": "https://deepinfra.com",
-      "linkedin_url": "https://linkedin.com/company/deep-infra",
-      "founder_name": "",
-      "founder_linkedin_url": "https://linkedin.com/in/yessenzhar",
-      "contact_email": "feedback@deepinfra.com",
-      "twitter_url": "https://x.com/DeepInfra"
     },
     {
       "source": "Crunchbase News",
