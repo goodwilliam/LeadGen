@@ -55019,5 +55019,105 @@
     "founder_linkedin_url": "",
     "contact_email": "writers@dealstreetasia.com",
     "twitter_url": "https://x.com/DealStreetAsia"
+  },
+  "https://evertiq.com/news/2026-05-06-mosaic-soc-raises-38m-to-advance-spatial-intelligence": {
+    "valid": true,
+    "company": "Mosaic SoC",
+    "amount_str": "$3.8M",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/mosaic-soc",
+    "founder_name": "seed round led by",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://impactalpha.com/climate-investors-team-with-peter-thiel-to-back-ocean-power-startup-panthalassa/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/05/06/radixark-launches-with-100m-in-seed-funding-led-by-accel-to-grow-sglang-and-democratize-frontier-ai-infrastructure/": {
+    "valid": true,
+    "company": "RadixArk",
+    "amount_str": "$100M",
+    "website": "https://www.radixark.ai",
+    "linkedin_url": "https://linkedin.com/company/radixark",
+    "founder_name": "of xAI",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@radixark.ai",
+    "twitter_url": "https://x.com/radixark"
+  },
+  "https://theaiinsider.tech/2026/05/06/elevenlabs-surpasses-500m-arr-as-blackrock-nvidia-and-celebrity-investors-join-500m-series-d/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techinasia.com/news/accel-leads-60m-round-for-israeli-ecommerce-ai-startup-zyg/amp/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/anita-pierobon-a0772588_exclusive-ai-powered-recruiting-startup-activity-7457500915990953984--SxV": {
+    "valid": true,
+    "company": "AI-powered recruiting startup Dex",
+    "amount_str": "$5.3 m",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://alleywatch.com/2026/05/the-alleywatch-startup-daily-funding-report-5-5-2026/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.alleywatch.com.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.panewslab.com/en/articles/019dfb16-38a1-740f-a35d-917e8b488748": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cloud.umami.is/script.js",
+    "linkedin_url": "",
+    "founder_name": "Multicoin Capital",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.trysignalbase.com/news/funding/decoli-cargo-raises-12m-in": {
+    "valid": true,
+    "company": "Decoli Cargo",
+    "amount_str": "$1.2M",
+    "website": "https://decolicargo.com.br",
+    "linkedin_url": "https://linkedin.com/company/decolicargo",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "email@exemplo.com",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://www.pressreader.com/uk/loughborough-echo/20260506/281681146493075": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/05/06/brighter-signals-raises-e1-6m-in-funding-for-smart-sensors/": {
+    "valid": false
+  },
+  "https://www.agnirva.com/learn/what-is-seed-funding-(startups)%3F": {
+    "valid": false
   }
 }
