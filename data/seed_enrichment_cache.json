@@ -57091,5 +57091,293 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/05/07/could-lovables-automatic-10-pay-raise-be-the-cure-for-toxic-cultures/": {
+    "valid": true,
+    "company": "Could Lovable\u2019s automatic 10% pay",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/05/07/jeff-bezos-rep-leaves-slate-autos-board/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://venturebeat.com/technology/meet-zaya1-8b-a-super-efficient-open-reasoning-model-trained-on-amd-instinct-mi300-gpus": {
+    "valid": false
+  },
+  "https://betakit.com/its-a-tough-market-for-liquidity-heres-where-companies-and-investors-are-turning/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/05/07/quantum-motion-raises-160m-build-faster-quantum-chips/": {
+    "valid": true,
+    "company": "Quantum Motion",
+    "amount_str": "$160M",
+    "website": "https://quantummotion.com/quantum-motion-raises-160-million-series-c-to-deliver-quantum-computings-transistor-moment",
+    "linkedin_url": "https://linkedin.com/company/quantum-motion-tech",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/viatris-to-present-at-the-bank-of-america-securities-2026-healthcare-conference-302764839.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/shareholder-alert-levi--korsinsky-llp-notifies-investors-of-an-investigation-into-kore-group-holdings-inc-kore-302766064.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/crusonia-wealth-advisors-announces-addition-of-wealth-advisor-connor-law-302766254.html": {
+    "valid": false
+  },
+  "https://puck.news/inside-the-ai-startups-worth-billions-before-launch/": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/portland/news/2026/05/07/epicurate-acquired-journey.html": {
+    "valid": false
+  },
+  "https://www.bwdisrupt.com/article/pronto-raises-additional-20-mn-in-series-b-valuation-jumps-2x-to-200-mn-within-a-month-605795": {
+    "valid": true,
+    "company": "Pronto",
+    "amount_str": "$20 M",
+    "website": "https://pronto.io",
+    "linkedin_url": "https://linkedin.com/company/withpronto",
+    "founder_name": "of Physical Intelligence",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/sweden-ballistics-bags-e30m-from-ex-army-chief-and-eqt-exec-to-boost-tnt-production-in-europe/": {
+    "valid": false
+  },
+  "https://en.ain.ua/2026/05/07/venture-q1/": {
+    "valid": true,
+    "company": "In 2025 Ukrainian tech companies",
+    "amount_str": "$498m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Predictions by Microsoft",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://letsdatascience.com/news/pit-raises-16m-to-deliver-ai-native-enterprise-operations-43c7fa8d": {
+    "valid": true,
+    "company": "Pit",
+    "amount_str": "$16M",
+    "website": "https://flypittsburgh.com",
+    "linkedin_url": "https://linkedin.com/company/pittsburghinternationalairport",
+    "founder_name": "the Pit",
+    "founder_linkedin_url": "https://linkedin.com/in/kaitlin-lee-garza",
+    "contact_email": "info@flypittsburgh.com",
+    "twitter_url": "https://x.com/assets"
+  },
+  "https://www.forbes.com/sites/iainmartin/2026/05/07/former-openai-researcher-to-raise-500-million-for-ai-science-startup/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.ketchjs.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://3dprintingindustry.com/news/euler-gives-metal-am-operators-free-real-time-build-visibility-251290/": {
+    "valid": false
+  },
+  "https://www.usatoday.com/press-release/story/32157/turkish-mobile-gaming-startup-mindtail-raises-2-million/": {
+    "valid": true,
+    "company": "TURKISH MOBILE GAMING STARTUP MINDTAIL",
+    "amount_str": "$2 M",
+    "website": "https://www.usatoday.com",
+    "linkedin_url": "https://linkedin.com/company/usa-today",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/usatoday"
+  },
+  "https://businessreviewlive.com/chinese-ai-startup-moonshot-ai-raises-2-billion-valuation-crosses-20-billion/": {
+    "valid": true,
+    "company": "Moonshot AI",
+    "amount_str": "$2 B",
+    "website": "https://www.moonshot.ai",
+    "linkedin_url": "https://linkedin.com/company/moon-shot-ai",
+    "founder_name": "Yang Zhilin",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/Kimi_Moonshot"
+  },
+  "https://hitconsultant.net/2026/05/06/xcaliber-health-seed-funding-agentic-os-healthcare/": {
+    "valid": true,
+    "company": "XCaliber Health",
+    "amount_str": "$6.5M",
+    "website": "https://www.xcaliberhealth.ai",
+    "linkedin_url": "https://linkedin.com/company/xcaliber-health",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/trushna-dave-3b572912",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.streetinsider.com/Press+Releases/TURKISH+MOBILE+GAMING+STARTUP+MINDTAIL+RAISES+%242+MILLION/26450278.html": {
+    "valid": true,
+    "company": "TURKISH MOBILE GAMING STARTUP MINDTAIL",
+    "amount_str": "$2 M",
+    "website": "https://www.usatoday.com",
+    "linkedin_url": "https://linkedin.com/company/usa-today",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/usatoday"
+  },
+  "https://www.insidephilanthropy.com/home/outsourcing-for-good-social-enterprise-connects-refugees-to-gig-work": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/entrepreneur-news-network_ai-library-raises-560k-pre-seed-to-scale-activity-7458191325478162432-cYCV": {
+    "valid": true,
+    "company": "Library",
+    "amount_str": "$560K",
+    "website": "https://www.loc.gov",
+    "linkedin_url": "https://linkedin.com/company/library-of-congress",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/peterarvai",
+    "contact_email": "",
+    "twitter_url": "https://x.com/librarycongress"
+  },
+  "https://www.finsmes.com/2026/05/opsmill-raises-14m-in-series-a-funding.html": {
+    "valid": false
+  },
+  "https://www.gamedeveloper.com/business/mobile-dev-mindtail-raises-2m-fund-for-ai-powered-games": {
+    "valid": false
+  },
+  "https://www.usatoday.com/press-release/story/32169/thatround-closes-pre-seed-funding-round-to-improve-startup-fundraising-in-the-uk/": {
+    "valid": true,
+    "company": "ThatRound",
+    "amount_str": "",
+    "website": "https://www.thatround.com/fundraising-services-for-startups",
+    "linkedin_url": "https://linkedin.com/company/thatround",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@thatround.com",
+    "twitter_url": ""
+  },
+  "https://www.trysignalbase.com/news/funding/thinkspace-ai-secures-5": {
+    "valid": true,
+    "company": "ThinkSpace AI",
+    "amount_str": "",
+    "website": "https://mythinkspace.ai",
+    "linkedin_url": "https://linkedin.com/company/mythinkspace-ai",
+    "founder_name": "Founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.trysignalbase.com/news/funding/newdle-secures-45m": {
+    "valid": true,
+    "company": "Newdle",
+    "amount_str": "$4.5M",
+    "website": "https://newdle.com",
+    "linkedin_url": "https://linkedin.com/company/newdlenews",
+    "founder_name": "Founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "careers@newdle.com",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/fintech-global_davis-raises-55m-pre-seed-for-ai-real-estate-activity-7458162352958468097-3MO1": {
+    "valid": true,
+    "company": "Davis",
+    "amount_str": "$5.5m",
+    "website": "https://www.jordandavisofficial.com",
+    "linkedin_url": "https://linkedin.com/company/davis",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/jim-davis-quest",
+    "contact_email": "info@umusic.com",
+    "twitter_url": "https://x.com/JordanCWDavis"
+  },
+  "https://x.com/TFNBreakingNews/status/2052381703633818001": {
+    "valid": false
+  },
+  "https://www.startupmag.co.uk/funding/asterix-health-2026-pre-seed-funding/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://agfundernews.com/agrifood-signals-corteva-names-seed-spinout-vori-bags-22m-for-ai-grocery-fmc-sells-india-biz": {
+    "valid": false
+  },
+  "https://www.genomeweb.com/business-news/tempus-ai-raise-350m-convertible-senior-notes-offering": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://crain-platform-genomeweb-prod.s3.amazonaws.com/app-icons/favicon.ico",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.360dx.com/cancer/roche-acquire-digital-pathology-firm-pathai-105b": {
+    "valid": false
+  },
+  "https://www.reddit.com/r/StartUpIndia/comments/1t6hhdz/who_thinks_govts_startup_india_seed_funding_is_a/": {
+    "valid": false
+  },
+  "https://msmeafricaonline.com/call-for-applications-win-up-to-e1000-funding-for-your-business-through-femmy-o-foundation-grant-2026/": {
+    "valid": false
+  },
+  "https://www.genomeweb.com/cancer/cancer-diagnostics-startup-imagenomix-raises-32m-seed-funding": {
+    "valid": true,
+    "company": "Cancer Diagnostics Startup Imagenomix",
+    "amount_str": "$3.2M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://wwd.com/sourcing-journal/sustainability/material-world-tydra-labs-microban-karl-mayer-guy-harvey-1238943854/": {
+    "valid": true,
+    "company": "'Feedstock Flexible' Canadian Startup",
+    "amount_str": "$1.2M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techinafrica.com/african-startups-are-raising-bigger-rounds-but-few-make-it-to-series-a/": {
+    "valid": false
+  },
+  "https://insnerds.com/news/ai-start-ups-capture-record-95-2-percent-of-insurtech-funding?hsLang=en": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn2.hubspot.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
