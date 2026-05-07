@@ -56482,5 +56482,137 @@
   },
   "https://x.com/PGATout/status/2052051191828304036": {
     "valid": false
+  },
+  "https://tech.eu/2026/05/07/investing-in-europe-private-equity-activity-2025-report-highlights-strong-fundraising-and-investment-performance/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/05/07/swebal-raises-eur30m-to-build-swedens-first-tnt-facility-and-strengthen-nato-ammunition-supply/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/05/07/belgian-ai-startup-tekst-raises-11-5-million-to-tackle-the-bottleneck-holding-back-enterprise-ai/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/05/07/one-time-treatment-with-lasting-effects-as-sedivention-advances-obesity-therapy-with-eur29m-funding/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/05/07/opsmill-secures-14m-to-tackle-the-data-challenges-limiting-enterprise-infrastructure-automation/": {
+    "valid": true,
+    "company": "OpsMill",
+    "amount_str": "$14M",
+    "website": "https://opsmill.com",
+    "linkedin_url": "https://linkedin.com/company/opsmill",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/05/07/codewords-raises-9m-to-bring-proactive-ai-agents-to-businesses/": {
+    "valid": true,
+    "company": "CodeWords",
+    "amount_str": "$9M",
+    "website": "http://codewords.ai",
+    "linkedin_url": "https://linkedin.com/company/codewordsai",
+    "founder_name": "of Miro",
+    "founder_linkedin_url": "",
+    "contact_email": "aymeric@codewords.ai",
+    "twitter_url": "https://x.com/codewordsai"
+  },
+  "https://www.prnewswire.com/news-releases/new-project-media-launches-ai-powered-market-intelligence-across-its-global-platform-302761226.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/haemonetics-corporation-announces-fourth-quarter-fiscal-2026-financial-results-available-on-investor-relations-website-302764893.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/bridgeport-financial-solutions-names-industry-veteran-clara-sierra-managing-director-302765008.html": {
+    "valid": false
+  },
+  "https://en.wowtale.net/2026/05/07/234025/": {
+    "valid": true,
+    "company": "KH Global Hanbang",
+    "amount_str": "$360K",
+    "website": "https://moneypin.biz",
+    "linkedin_url": "",
+    "founder_name": "All three",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.forbes.com/sites/melindaelmborg/2026/05/07/is-stockholm-the-worlds-hottest-startup-city-right-now/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.indianstartuptimes.com/investment/blunav-raises-1-million-seed-funding-led-by-piper-serica-to-modernise-airport-operations-technology/": {
+    "valid": true,
+    "company": "Blunav",
+    "amount_str": "$1 M",
+    "website": "https://blunav.in",
+    "linkedin_url": "https://linkedin.com/company/blunav",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/blunav_in"
+  },
+  "https://www.bizjournals.com/triangle/news/2026/05/06/keebler-health-series-a-round-health-care-tech.html": {
+    "valid": true,
+    "company": "Durham startup",
+    "amount_str": "$16M",
+    "website": "https://www.durhamstartups.co.uk",
+    "linkedin_url": "https://linkedin.com/company/business-durham",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "enquiries@businessdurham.co.uk",
+    "twitter_url": "https://x.com/_businessdurham"
+  },
+  "https://www.instagram.com/p/DYB3m_ACRhS/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Magazine on Instagram",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.tice.news/tice-trending/top-startup-news-today-indias-startup-pulse-is-getting-strongerbut-ai-is-quietly-rewriting-the-rules-11808086": {
+    "valid": false
+  },
+  "https://businessnewsthisweek.com/health/swasth-bharat-portal-launched-to-strengthen-indias-integrated-digital-health-system/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/05/saltbox-closes-series-c-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/05/boost-security-acquired-secureiqx-and-korbit-ai-raises-4m-in-additional-funding.html": {
+    "valid": false
+  },
+  "https://m.dailyhunt.in/news/india/english/tycoon+world-epaper-dh4c6a646b987d48f5b87f17d40865f089/mhyth+raises+5+cr+to+build+indias+next+luxury+innerwear+lifestyle+brand-newsid-dh4c6a646b987d48f5b87f17d40865f089_062d5ef0496411f1afff51d773d30e88": {
+    "valid": true,
+    "company": "MHYTH",
+    "amount_str": "",
+    "website": "https://mhyth.com",
+    "linkedin_url": "https://linkedin.com/company/mhyth",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@mhyth.com",
+    "twitter_url": ""
+  },
+  "https://dreamsunlimited.in/raise-vc-funding-with-or-without-traction/": {
+    "valid": false
   }
 }
