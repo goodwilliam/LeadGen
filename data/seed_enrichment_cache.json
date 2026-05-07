@@ -56614,5 +56614,176 @@
   },
   "https://dreamsunlimited.in/raise-vc-funding-with-or-without-traction/": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/": {
+    "valid": true,
+    "company": "China\u2019s Moonshot AI",
+    "amount_str": "$2B",
+    "website": "https://hellochinatech.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://news.crunchbase.com/fintech/amex-ventures-portfolio-strategy-agentic-ai-startups-kevin-tsang/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/05/07/meatly-raises-ps104m-to-build-europes-largest-cultivated-meat-bioreactor-facility-in-london/": {
+    "valid": true,
+    "company": "Meatly",
+    "amount_str": "\u00a310.4M",
+    "website": "https://meatly.pet",
+    "linkedin_url": "https://linkedin.com/company/good-dog-food",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/05/07/uk-quantum-outfit-quantum-motion-run-on-silicon-chips-raises-160m/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/05/07/ai-product-team-startup-pit-raises-16m-a16z-others-automate-enterprise-workflows/": {
+    "valid": true,
+    "company": "AI product team startup Pit",
+    "amount_str": "$16M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/choice-hotels-international-unveils-new-technologies-and-ai-powered-solutions-to-help-owners-capture-more-demand-and-operational-excellence-302763897.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/addepar-presente-adx-pour-lactivation-des-donnees-et-de-lia-a-grande-echelle-302765696.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investnext-launches-transact-a-purpose-built-business-account-for-raising-capital-302765690.html": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/berriche_thrilled-to-back-codewords-which-just-raised-activity-7458056115172540416-3_1x": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/quantumbasel_quantumbasel-is-proud-to-collaborate-with-activity-7457789245466865665-dFaK": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://lnkd.in/dH65mFAk",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://fortune.com/2026/05/07/exclusive-gusto-crosses-1-billion-12-month-trailing-revenue/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cookielaw.org/consent/906dc33b-1fc3-4b2c-a324-8bc0b7db9050/OtAutoBlock.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://impactalpha.com/impact-dealflow-in-latin-america-may-2026/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/europe-private-markets-147b-2025-north-american-buyouts/": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/xbow-raises-120-million-series-c": {
+    "valid": false
+  },
+  "https://www.technology.org/2026/05/07/genesis-ai-launches-foundation-model-capable-of-controlling-human-like-robotic-hands/": {
+    "valid": true,
+    "company": "Genesis AI",
+    "amount_str": "",
+    "website": "https://genesis-ai.ai",
+    "linkedin_url": "https://linkedin.com/company/genesisai22",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/genesisaiDXB"
+  },
+  "https://kr-asia.com/bytedance-explores-ai-monetization-for-doubao-with-paid-subscription-tiers": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.dreamstime.com/freerlaw_info",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://enterpriseai.economictimes.indiatimes.com/amp/news/industry/genesis-ai-launches-revolutionary-human-like-robotic-hand-and-ai-model/130882474": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://img.etb2bimg.com/files/cp/upload-1751380214-enterpriseai-square-logo.svg",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/modicus-prime-raises-4-5m-in-funding": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/05/fotonation-closes-pre-a-funding.html": {
+    "valid": false
+  },
+  "https://www.newswise.com/articles/more-efficient-communication-for-satellites-with-terahertz-radiation/?ad2f=1&aid=847652": {
+    "valid": false
+  },
+  "https://www.facebook.com/yourstorycom/posts/ai-library-has-raised-560k-in-a-pre-seed-funding-round-backed-by-prominent-inves/1452499743578662/": {
+    "valid": true,
+    "company": "Library",
+    "amount_str": "$560K",
+    "website": "https://www.loc.gov",
+    "linkedin_url": "https://linkedin.com/company/library-of-congress",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/librarycongress"
+  },
+  "https://www.linkedin.com/posts/yohann-merran_data-the-seed-funding-boom-is-concentrating-activity-7457745988485591040-KFlG": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/startuprise-usa_sageox-funding-startupnews-activity-7458019860665753600-nfiv": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://startuprise.io/sageox-raises-15m-in-seed-funding-led-by-canaan-partners",
+    "linkedin_url": "https://linkedin.com/company/startuprise-europe",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@startuprise.co.uk",
+    "twitter_url": "https://x.com/startuprise_eu"
+  },
+  "https://www.startupgrantsindia.com/hindi/nidhi-seed-support-program-at-vjti-tbi-foundation-141": {
+    "valid": false
+  },
+  "https://x.com/DisruptAfrica/status/2051953113087541484": {
+    "valid": false
   }
 }
