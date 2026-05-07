@@ -56320,5 +56320,167 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/05/07/infrahub-maker-opsmill-raises-14m-give-ai-agents-single-view-enterprise-infrastructure/": {
+    "valid": true,
+    "company": "\u2018Infrahub\u2019 maker OpsMill",
+    "amount_str": "$14M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://sifted.eu/articles/startup-raised-9m-workflow-automation-genius/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://bsky.app/profile/sifted.eu",
+    "linkedin_url": "",
+    "founder_name": "profile angels including ElevenLabs",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.business-standard.com/companies/start-ups/pronto-raises-20-million-in-series-b-round-as-valuation-doubles-from-march-126050700085_1.html": {
+    "valid": true,
+    "company": "Pronto",
+    "amount_str": "$20 m",
+    "website": "https://accounts.pronto.io",
+    "linkedin_url": "https://linkedin.com/company/pronto",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.vcstar.com/press-release/story/39919/former-disney-channel-star-and-ex-apple-engineer-raise-2-75m-to-make-snail-mail-the-next-social-network/": {
+    "valid": true,
+    "company": "Disney Channel Star and Ex-Apple Engineer",
+    "amount_str": "$2.75M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.kspost.biz/en-us/articles/2503": {
+    "valid": false
+  },
+  "https://techfundingnews.com/deepseek-nears-45b-valuation-from-chinas-big-fund-tencent-alibaba-report/": {
+    "valid": false
+  },
+  "https://impactalpha.com/sanlam-investments-exits-solar-company-wetility/": {
+    "valid": false
+  },
+  "https://healthcaretoday.com/article/qmatter-raises-1-2-million-in-venture-funding": {
+    "valid": false
+  },
+  "https://entrackr.com/snippets/ai-library-raises-pre-seed-funding-round-11805670": {
+    "valid": true,
+    "company": "Library",
+    "amount_str": "",
+    "website": "https://www.loc.gov",
+    "linkedin_url": "https://linkedin.com/company/library-of-congress",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/librarycongress"
+  },
+  "https://entrackr.com/snippets/jobsupi-raises-pre-seed-round-from-iima-ventures-and-others-11806024": {
+    "valid": true,
+    "company": "JobsUPI",
+    "amount_str": "$250K",
+    "website": "https://www.jobsupi.com",
+    "linkedin_url": "https://linkedin.com/company/jobsupi",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "information@jobsupi.com",
+    "twitter_url": ""
+  },
+  "https://ibsintelligence.com/ibsi-news/goldwise-unveils-goldwiseconnect-for-banks-and-fintech/": {
+    "valid": false
+  },
+  "https://www.indianstartuptimes.com/investment/gubbachhi-raises-%E2%82%B91-5-crore-pre-seed-round-led-by-d2c-insider-super-angels-to-scale-india-inspired-toy-brand/": {
+    "valid": true,
+    "company": "Gubbachhi",
+    "amount_str": "",
+    "website": "https://gubbachhi.com",
+    "linkedin_url": "https://linkedin.com/company/gubbachhi",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@gubbachhi.com",
+    "twitter_url": ""
+  },
+  "https://entrackr.com/snippets/mochatrade-raises-pre-seed-funding-from-y-combinator-pioneer-fund-11804894": {
+    "valid": false
+  },
+  "https://mediabrief.com/mochatrade-raises-pre-seed-funding-from-y-combinator-and-pioneer-fund/": {
+    "valid": true,
+    "company": "MochaTrade",
+    "amount_str": "",
+    "website": "https://www.mochatrade.com",
+    "linkedin_url": "https://linkedin.com/company/mochatrade",
+    "founder_name": "and media maverick",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.siliconrepublic.com/start-ups/enterprise-ireland-pumps-e33m-into-home-grown-start-ups-in-2025": {
+    "valid": false
+  },
+  "https://www.siliconrepublic.com/jobs-news/global-fintech-platform-currenxie-30-dublin-based-jobs-seekers": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://use.typekit.net",
+    "linkedin_url": "",
+    "founder_name": "Michael Lohan",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/AdobeFonts"
+  },
+  "https://privatecapitaljournal.com/jetty-secures-2m-pre-seed-funding/": {
+    "valid": false
+  },
+  "https://www.weex.com/news/detail/dialogue-velocity-eric-what-is-the-stablecoin-track-that-the-cfo-really-wants-725702": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://privatecapitaljournal.com/boost-security-announces-acquisitions-and-4m-new-funding/": {
+    "valid": true,
+    "company": "Boost Security",
+    "amount_str": "$4M",
+    "website": "https://docs.boostsecurity.io",
+    "linkedin_url": "https://linkedin.com/company/boost-security-group",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.trysignalbase.com/news/funding/jetty-secures-20m-in-pre": {
+    "valid": true,
+    "company": "The startup",
+    "amount_str": "$2.0M",
+    "website": "https://thestartupstory.co",
+    "linkedin_url": "https://linkedin.com/company/the-startup-pod",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://capital-riesgo.es/en/articles/darwin-biomed-raises-1-million-in-a-pre-seed-funding-round-led-by-easo-ventures-and-sodena-as-financial-investors-with-erreka-joining-as-an-industrial-partner/": {
+    "valid": false
+  },
+  "https://x.com/PGATout/status/2052051191828304036": {
+    "valid": false
   }
 }
