@@ -56785,5 +56785,311 @@
   },
   "https://x.com/DisruptAfrica/status/2051953113087541484": {
     "valid": false
+  },
+  "https://venturebeat.com/orchestration/why-ai-breaks-without-context-and-how-to-fix-it": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/fintech/fazeshift-accounts-receivable-ai-finance-ops-startup-funding/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/05/07/codewords-raises-9m-develop-ai-agents-automate-ask/": {
+    "valid": true,
+    "company": "CodeWords",
+    "amount_str": "$9M",
+    "website": "https://codewords.gg",
+    "linkedin_url": "https://linkedin.com/company/codewordsai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.geekwire.com/2026/report-boston-celtics-investors-set-to-bid-on-seahawks/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/aardvark-therapeutics-aard-faces-investor-scrutiny-amid-56-drop-on-clinical-pause-for-lead-drug-candidate-hagens-berman-302765880.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/hellonation-article-highlights-troys-housing-growth-cultural-restoration-and-lansingburgh-recreation-investment-302766026.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/addepar-stellt-adx-vor--fur-datenaktivierung-und-ki-in-groWem-maWstab-302766020.html": {
+    "valid": false
+  },
+  "https://sifted.eu/articles/a16z-leads-16m-seed-in-voi-cofounders-new-ai-startup-pit": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://bsky.app/profile/sifted.eu",
+    "linkedin_url": "",
+    "founder_name": "seed round in Voi",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://glassalmanac.com/7-smart-glasses-shifts-in-2026-that-surprise-investors-heres-why/": {
+    "valid": false
+  },
+  "https://startupfortune.com/genesis-ais-full-stack-robotics-bet-says-the-moat-is-not-the-model-its-owning-everything-around-it/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.cnbc.com/2026/05/07/family-office-dealmaking-april-healthcare-bets.html": {
+    "valid": false
+  },
+  "https://markets.businessinsider.com/news/stocks/turkish-mobile-gaming-startup-mindtail-raises-2-million-1036120743": {
+    "valid": true,
+    "company": "TURKISH MOBILE GAMING STARTUP MINDTAIL",
+    "amount_str": "$2 M",
+    "website": "https://www.usatoday.com",
+    "linkedin_url": "https://linkedin.com/company/usa-today",
+    "founder_name": "Founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/usatoday"
+  },
+  "https://mlq.ai/news/sap-commits-to-116-billion-investment-in-german-ai-startup-prior-labs/": {
+    "valid": false
+  },
+  "https://news.bettingstartups.com/p/xo-market-raises-6m-youtube-of-prediction-markets": {
+    "valid": true,
+    "company": "XO Market",
+    "amount_str": "$6M",
+    "website": "https://www.yogonet.com",
+    "linkedin_url": "https://linkedin.com/company/yogonet-gaming-news",
+    "founder_name": "Notable angels include ElevenLabs",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/YogonetLatam"
+  },
+  "https://letsdatascience.com/news/genesis-ai-unveils-gene-265-robotic-manipulation-system-5e0c4e40": {
+    "valid": false
+  },
+  "https://www.automate.org/industry-insights/robotics-raises-nyobolt-online-oceans-layn-all3-robotera": {
+    "valid": false
+  },
+  "https://www.facebook.com/semaformedia/posts/-exclusive-little-known-startup-intalus-raised-an-11-million-seed-round-to-expan/979269818225413/": {
+    "valid": true,
+    "company": "Intalus",
+    "amount_str": "$11 m",
+    "website": "https://intalustech.com",
+    "linkedin_url": "https://linkedin.com/company/intalusinc",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@intalustech.com",
+    "twitter_url": ""
+  },
+  "https://startupfortune.com/andreessen-horowitz-leads-16-million-into-stockholms-pit-proving-us-capital-is-still-europes-ai-price-setter/": {
+    "valid": false
+  },
+  "https://www.financialexpress.com/business/start-ups/from-milky-mist-to-healthfab-7-indian-startups-raise-over-rs-1000-crore-in-may-so-far/4234380/": {
+    "valid": true,
+    "company": "7 Indian startups",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://ground.news/article/pit-launches-with-usd-16-million-seed-round-from-a16z": {
+    "valid": true,
+    "company": "Pit",
+    "amount_str": "$16 m",
+    "website": "https://flypittsburgh.com",
+    "linkedin_url": "https://linkedin.com/company/pittsburghinternationalairport",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@flypittsburgh.com",
+    "twitter_url": "https://x.com/assets"
+  },
+  "https://techsavvy.media/en/startup-completes-series-a-round-will-strengthen-position-in-germany/": {
+    "valid": false
+  },
+  "https://letsdatascience.com/news/illoca-raises-13m-to-reinvent-architectural-design-c62df489": {
+    "valid": true,
+    "company": "Illoca",
+    "amount_str": "$13M",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/illoca",
+    "founder_name": "that the",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://ventureburn.com/illoca-raises-13m-to-reinvent-architectural-design/": {
+    "valid": true,
+    "company": "Illoca",
+    "amount_str": "$13M",
+    "website": "https://illoca.com",
+    "linkedin_url": "https://linkedin.com/company/illoca",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/chinyi",
+    "contact_email": "",
+    "twitter_url": "https://x.com/app_illoca"
+  },
+  "https://evertiq.com/news/2026-05-07-qubitcore-raises-96m-to-advance-ion-trap-quantum-computing": {
+    "valid": true,
+    "company": "Qubitcore",
+    "amount_str": "$9.6M",
+    "website": "https://qubitcore.net",
+    "linkedin_url": "https://linkedin.com/company/qubitcore",
+    "founder_name": "said Ryuta Watanuki",
+    "founder_linkedin_url": "",
+    "contact_email": "info@qubitcore.jp",
+    "twitter_url": "https://x.com/QubitcoreI13758"
+  },
+  "https://markets.businessinsider.com/news/stocks/thatround-closes-pre-seed-funding-round-to-improve-startup-fundraising-in-the-uk-1036121239": {
+    "valid": true,
+    "company": "ThatRound",
+    "amount_str": "",
+    "website": "https://www.thatround.com/fundraising-services-for-startups",
+    "linkedin_url": "https://linkedin.com/company/thatround",
+    "founder_name": "led by",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@thatround.com",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/05/lithosquare-raises-25m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/louisville/news/2026/05/07/easyr-dylan-stanke-job-postings-verification.html": {
+    "valid": false
+  },
+  "https://fintech.global/2026/05/07/davis-raises-5-5m-pre-seed-for-ai-real-estate-design/": {
+    "valid": true,
+    "company": "Davis",
+    "amount_str": "$5.5m",
+    "website": "https://www.jordandavisofficial.com",
+    "linkedin_url": "https://linkedin.com/company/davis",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/aimee-eubanks-davis",
+    "contact_email": "info@umusic.com",
+    "twitter_url": "https://x.com/JordanCWDavis"
+  },
+  "https://bebeez.eu/2026/05/07/german-quantum-startup-eleqtron-raises-e57m-in-series-a-funding-round/": {
+    "valid": false
+  },
+  "https://houston.innovationmap.com/persona-ai-brian-davis-manufacturing-2676854445.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy82NjY4Njc0NS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc5OTA3NzE3MX0.7G5rVnIMGSE7bk6mz66Q2Ezdqcs5cR-OKtViNHFQ1b8/img.jpg",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.outlookindia.com/amp/story/hub4business/from-walking-away-to-building-again-palash-kala-on-the-founder-decisions-that-defined-his-year": {
+    "valid": false
+  },
+  "https://x.com/audiumcp/status/2052314742048371137": {
+    "valid": true,
+    "company": "Library",
+    "amount_str": "",
+    "website": "https://www.loc.gov",
+    "linkedin_url": "https://linkedin.com/company/library-of-congress",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/librarycongress"
+  },
+  "https://www.admin.ch/en/newnsb/DKcpsboVuvixgbywNoLgu": {
+    "valid": false
+  },
+  "https://www.irishcentral.com/business/startups/enterprise-ireland-irish-startups-last-year.amp": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.irishheritagetree.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.vestbee.com/insights/articles/top-european-funding-rounds-closed-in-april-2026": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.ineffable.ai",
+    "linkedin_url": "https://linkedin.com/company/ineffable-intelligence",
+    "founder_name": "but from",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/IneffableLabs"
+  },
+  "https://globalindianalpha.com/mochatrade-raises-pre-seed-funding-from-y-combinator-pioneer-fund/": {
+    "valid": false
+  },
+  "https://www.indianstartuptimes.com/news/chiratae-ventures-commits-10-million-through-sonic-deeptech-program-backs-five-startups/": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/birmingham/news/2026/05/07/alabama-inno-2026-inno-fire-honorees.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.businessinsider.com/tiny-ai-startup-hired-private-chef-costs-productivity-2026-5": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://i.insider.com/69fb56c35edd94d1e7339c37",
+    "linkedin_url": "",
+    "founder_name": "Nathaneo Johnson",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.readthepeak.com/p/the-latest-retro-trend-landlines": {
+    "valid": false
+  },
+  "https://news.marketersmedia.com/thatround-closes-pre-seed-funding-round-to-improve-startup-fundraising-in-the-uk/89191055": {
+    "valid": true,
+    "company": "ThatRound",
+    "amount_str": "",
+    "website": "https://www.thatround.com/fundraising-services-for-startups",
+    "linkedin_url": "https://linkedin.com/company/thatround",
+    "founder_name": "led by",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@thatround.com",
+    "twitter_url": ""
+  },
+  "https://www.streetinsider.com/Press+Releases/ThatRound+closes+pre-seed+funding+round+to+improve+startup+fundraising+in+the+UK/26450545.html": {
+    "valid": false
+  },
+  "https://www.theinformation.com/newsletters/ai-agenda/musk-giving-xais-servers-anthropic-ai-video-app-developer-reka-acquires-video-generating-startup": {
+    "valid": false
+  },
+  "https://news.utoledo.edu/index.php/05_07_2026/utoledo-engineering-research-society-awards-first-seed-grants": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/05/jurisphere-raises-2-2m-in-funding.html": {
+    "valid": false
+  },
+  "https://m.economictimes.com/wealth/invest/the-gold-standard-how-a-bootstrapped-company-outlasted-every-funded-rival-in-indias-goldtech-boom/articleshow/130897691.cms": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://img.etimg.com/photo/104857408.cms",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
