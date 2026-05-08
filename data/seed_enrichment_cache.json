@@ -57765,5 +57765,232 @@
   },
   "https://techfundingnews.com/quantum-motion-160m-series-c-silicon-quantum-computers/": {
     "valid": false
+  },
+  "https://venturebeat.com/infrastructure/5-gpu-utilization-the-401-billion-ai-infrastructure-problem-enterprises-cant-keep-ignoring": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/sales-marketing/gtm-ai-startup-funding-netomi-hightouch/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/05/08/carcollect-secures-backing-from-main-capital-to-scale-automotive-remarketing-platform/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/05/08/europes-tech-funding-cools-in-april-as-investors-grow-more-selective/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/05/08/european-techeu-pulse-key-trends-and-investment-in-april-free-report/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/abou-dabi-ouvre-son-laboratoire-vivant-au-monde-entier-pour-accelerer-lavenir-de-la-sante-302766948.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/strategic-value-partners-announces-agreement-to-acquire-remaining-equity-interests-in-birdsboro-power-302766945.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/crown-affair-announces-series-c-investment-led-by-stride-consumer-partners-302766290.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/centersquare-investment-management-names-nevin-torres-as-a-senior-vice-president-in-capital-markets-302766340.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/stl-to-invest-up-to-100-million-in-the-us-to-strengthen-its-manufacturing-capacity-for-its-customers-302766910.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/policybazaar-expands-presence-in-gift-city-brings-strategic-investment-opportunity-for-nris-and-reinsurers-302766809.html": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DYEuc-3ifsW/": {
+    "valid": false
+  },
+  "https://www.wsj.com/pro/venture-capital/he-managed-finances-on-teslas-model-3-now-he-wants-to-break-chinas-grip-on-chip-making-materials-3255dcd4": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/05/08/blitzy-raises-200m-at-1-4b-valuation-to-accelerate-ai-driven-software-development-for-enterprises/": {
+    "valid": true,
+    "company": "Blitzy",
+    "amount_str": "$200M",
+    "website": "https://blitzy.com",
+    "linkedin_url": "https://linkedin.com/company/blitzyai",
+    "founder_name": "Brian Elliott",
+    "founder_linkedin_url": "https://linkedin.com/in/briancelliott",
+    "contact_email": "support@blitzy.com",
+    "twitter_url": ""
+  },
+  "https://evertiq.com/news/2026-05-08-sapient-perception-raises-2m-to-develop-10k-isr-sensor": {
+    "valid": true,
+    "company": "Sapient Perception",
+    "amount_str": "\u20ac2M",
+    "website": "https://www.sapientperception.ai",
+    "linkedin_url": "https://linkedin.com/company/sapientperception",
+    "founder_name": "Sapient Perception CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.tipranks.com/news/private-companies/ai-agent-infrastructure-startup-copilotkit-raises-27-million-backed-by-techstars": {
+    "valid": true,
+    "company": "Agent Infrastructure Startup CopilotKit",
+    "amount_str": "$27 M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://eu.36kr.com/en/p/3800064127671303": {
+    "valid": false
+  },
+  "https://www.techinasia.com/news/a16z-leads-16m-for-swedish-ai-startup-pit/amp/": {
+    "valid": false
+  },
+  "https://www.thailand-business-news.com/pr-news/thatround-closes-pre-seed-funding-round-to-improve-startup-fundraising-in-the-uk": {
+    "valid": true,
+    "company": "ThatRound",
+    "amount_str": "",
+    "website": "https://www.thatround.com",
+    "linkedin_url": "https://linkedin.com/company/thatround",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@thatround.com",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/techcrunch/posts/ai-startup-pit-is-led-by-the-cofounders-of-european-scooter-giant-voi-and-backed/1323359609657903/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/CeoVine/status/2052647038643499426/photo/1": {
+    "valid": false
+  },
+  "https://www.binance.com/en/square/post/320919212374706": {
+    "valid": false
+  },
+  "https://nordic9.com/news/21st-dev-raised-pre-seed-capital-funding": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-05-08/nordic-companies-help-europe-s-energy-grids-withstand-attacks": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techloy.com/week-19s-biggest-startup-funding-rounds-in-africa-and-the-middle-east-led-by-zyg-as-e-commerce-ai-and-fintech-drew-the-biggest-checks/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/thatround-closes-pre-seed-round": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/05/supersede-raises-5m-in-debt-funding.html": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/05/corvera-raises-4-2m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://launchbaseafrica.com/2026/05/08/african-startup-deal-tracker-newest-deals-22/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/05/robotera-raises-over-usd-200m-in-new-funding.html": {
+    "valid": false
+  },
+  "https://www.siliconrepublic.com/business/software-company-barespace-capital-embedded-finance-platform": {
+    "valid": true,
+    "company": "Barespace",
+    "amount_str": "",
+    "website": "https://barespace.io",
+    "linkedin_url": "https://linkedin.com/company/barespace",
+    "founder_name": "of Barespace",
+    "founder_linkedin_url": "https://linkedin.com/in/conormoules",
+    "contact_email": "support@barespace.io",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/05/m2-foundry-closes-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://x.com/stevelauda_/status/2052427074284253420": {
+    "valid": true,
+    "company": "Pitch deck that helping the client",
+    "amount_str": "$1m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.trysignalbase.com/news/funding/layn-raises-10m": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/05/08/uk-semiconductor-startup-quinas-technology-secures-investment-approval-from-malta-government-venture-capital/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/05/08/altara-announces-7m-to-deploy-ai-for-diagnosing-hardware-failures-in-batteries-and-semiconductors/": {
+    "valid": false
+  },
+  "https://www.innovationnewsnetwork.com/pfas-destruction-and-evtol-projects-win-first-ers-grants-from-university-of-toledo/69301/": {
+    "valid": false
+  },
+  "https://fintech.global/2026/05/08/pit-raises-16m-to-build-ai-enterprise-software/": {
+    "valid": true,
+    "company": "Pit",
+    "amount_str": "$16m",
+    "website": "https://pit.com",
+    "linkedin_url": "https://linkedin.com/company/pitdotcom",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "aleks@2x-02NCXOTc.webp",
+    "twitter_url": "https://x.com/pitdotcom"
+  },
+  "https://www.startuphub.ai/investment_rounds/quinas-technology-seed-2026": {
+    "valid": false
+  },
+  "http://en.people.cn/n3/2026/0508/c90000-20454018.html": {
+    "valid": false
+  },
+  "https://www.wits.ac.za/news/latest-news/research-news/2026/2026-05/david-fine-award-winner-develops-cold-chain-logistics-solution.html": {
+    "valid": false
   }
 }
