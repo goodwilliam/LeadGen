@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-05-08T05:52:57.748467Z",
-  "count": 26,
-  "enriched_count": 19,
+  "generated_at": "2026-05-08T09:08:46.526526Z",
+  "count": 28,
+  "enriched_count": 20,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "ReN3 raises $5M to help you work better - BackScoop",
+      "article_url": "https://www.backscoop.com/newsletter-posts/ren3-raises-5m-to-help-you-work-better",
+      "company": "ReN3",
+      "amount_str": "$5M",
+      "pub_date": "2026-05-08T04:04:23Z",
+      "website": "https://www.ren3.ai",
+      "linkedin_url": "https://linkedin.com/company/ren3ai",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Singapore's Brano Therapeutics raises $6.8M for new heart failure treatments - BackScoop",
+      "article_url": "https://www.backscoop.com/newsletter-posts/singapores-brano-therapeutics-raises-6-8m-for-better-heart-failure-treatments",
+      "company": "Singapore's Brano Therapeutics",
+      "amount_str": "$6.8M",
+      "pub_date": "2026-05-08T04:04:21Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Voi founders raise $16M from a16z for new AI startup Pit, aiming to automate enterprise back offices",

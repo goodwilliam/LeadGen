@@ -57720,5 +57720,50 @@
   },
   "https://retailtechinnovationhub.com/home/2026/5/7/otb-group-and-google-cloud-partner-on-ai-powered-personalised-shopping-experiences": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/computime-group-limited-establishes-ctgl-as-official-holding-company-identity-with-the-launch-of-ctglcom-302766787.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/adgm-gibt-zusage-der-man-group-zum-aufbau-einer-prasenz-in-abu-dhabi-bekannt-302766786.html": {
+    "valid": false
+  },
+  "https://www.heise.de/en/news/US-startup-Humble-Robotics-develops-autonomous-truck-without-semi-trailer-11286540.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.telepolis.de",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/telepolis_news"
+  },
+  "https://hoppiness.substack.com/p/globe-hopping-kiwi-brewer-leaves": {
+    "valid": false
+  },
+  "https://www.backscoop.com/newsletter-posts/ren3-raises-5m-to-help-you-work-better": {
+    "valid": true,
+    "company": "ReN3",
+    "amount_str": "$5M",
+    "website": "https://www.ren3.ai",
+    "linkedin_url": "https://linkedin.com/company/ren3ai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.backscoop.com/newsletter-posts/singapores-brano-therapeutics-raises-6-8m-for-better-heart-failure-treatments": {
+    "valid": true,
+    "company": "Singapore's Brano Therapeutics",
+    "amount_str": "$6.8M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/quantum-motion-160m-series-c-silicon-quantum-computers/": {
+    "valid": false
   }
 }
