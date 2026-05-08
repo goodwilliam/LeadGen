@@ -1,18 +1,32 @@
 {
-  "generated_at": "2026-05-08T02:18:26.825247Z",
-  "count": 25,
-  "enriched_count": 18,
+  "generated_at": "2026-05-08T05:52:57.748467Z",
+  "count": 26,
+  "enriched_count": 19,
   "articles": [
     {
       "source": "Google Alerts",
       "title": "Voi founders raise $16M from a16z for new AI startup Pit, aiming to automate enterprise back offices",
       "article_url": "https://www.mexc.com/news/1077364",
-      "company": "This post Voi founders",
+      "company": "Voi founders",
       "amount_str": "$16M",
       "pub_date": "2026-05-08T00:12:33Z",
       "website": "https://www.mexc.com",
       "linkedin_url": "",
       "founder_name": "founded by the",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "MochaTrade Raises Pre-Seed Funding From Y Combinator and Pioneer Fund | TechGraph",
+      "article_url": "https://techgraph.co/startup/mochatrade-raises-pre-seed-funding-from-y-combinator-pioneer-fund/",
+      "company": "MochaTrade",
+      "amount_str": "",
+      "pub_date": "2026-05-07T22:52:23Z",
+      "website": "https://www.mochatrade.com",
+      "linkedin_url": "https://linkedin.com/company/mochatrade",
+      "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
@@ -187,20 +201,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Newdle Secures $4.5M - Signalbase",
-      "article_url": "https://www.trysignalbase.com/news/funding/newdle-secures-45m",
-      "company": "Newdle",
-      "amount_str": "$4.5M",
-      "pub_date": "2026-05-07T17:10:56Z",
-      "website": "https://newdle.com",
-      "linkedin_url": "https://linkedin.com/company/newdlenews",
-      "founder_name": "Founder and",
-      "founder_linkedin_url": "",
-      "contact_email": "careers@newdle.com",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "ThinkSpace AI Secures $5. | Signalbase",
       "article_url": "https://www.trysignalbase.com/news/funding/thinkspace-ai-secures-5",
       "company": "ThinkSpace AI",
@@ -211,6 +211,20 @@
       "founder_name": "Founder and",
       "founder_linkedin_url": "",
       "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Newdle Secures $4.5M - Signalbase",
+      "article_url": "https://www.trysignalbase.com/news/funding/newdle-secures-45m",
+      "company": "Newdle",
+      "amount_str": "$4.5M",
+      "pub_date": "2026-05-07T17:10:56Z",
+      "website": "https://newdle.com",
+      "linkedin_url": "https://linkedin.com/company/newdlenews",
+      "founder_name": "Founder and",
+      "founder_linkedin_url": "",
+      "contact_email": "careers@newdle.com",
       "twitter_url": ""
     },
     {

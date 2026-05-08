@@ -57685,5 +57685,40 @@
   },
   "https://www.facebook.com/forbes.africa/posts/currentaffairsanalysts-say-the-decline-in-seed-funding-could-create-opportunitie/1377255021101805/": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/gold-novo-to-debut-luxury-layering-collections-at-jck-jewelry-show-2026-booth-20113-302765787.html": {
+    "valid": false
+  },
+  "https://fintecbuzz.com/astrada-raises-seed-round-to-build-the-data-layer-for-autonomous-finance/": {
+    "valid": false
+  },
+  "https://techgraph.co/startup/serhii-tokarev-spoke-about-the-generation-h-accelerator/": {
+    "valid": false
+  },
+  "https://techgraph.co/startup/mochatrade-raises-pre-seed-funding-from-y-combinator-pioneer-fund/": {
+    "valid": true,
+    "company": "MochaTrade",
+    "amount_str": "",
+    "website": "https://www.mochatrade.com",
+    "linkedin_url": "https://linkedin.com/company/mochatrade",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.mercomindia.com/global-corporate-funding-for-solar-surges-131-yoy-to-11-1-billion-in-q1-2026": {
+    "valid": false
+  },
+  "https://www.techinasia.com/news/lg-backed-robotics-startup-rlwrld-releases-ai-model/amp/": {
+    "valid": false
+  },
+  "https://beinsure.com/news/codewords-raises-e7-6-mn-in-seed-funding/": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/jurisphere-ai-raises-2-2-million-in-funding": {
+    "valid": false
+  },
+  "https://retailtechinnovationhub.com/home/2026/5/7/otb-group-and-google-cloud-partner-on-ai-powered-personalised-shopping-experiences": {
+    "valid": false
   }
 }
