@@ -57992,5 +57992,269 @@
   },
   "https://www.wits.ac.za/news/latest-news/research-news/2026/2026-05/david-fine-award-winner-develops-cold-chain-logistics-solution.html": {
     "valid": false
+  },
+  "https://tech.eu/2026/05/08/eleven-labs-expands-series-d-to-550m-deepl-to-axe-250-staff-and-key-trends-and-investments-in-april/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/05/08/front-ventures-raises-eur5m-to-back-defence-tech-innovation-in-ukraine/": {
+    "valid": false
+  },
+  "https://betakit.com/why-you-dont-need-a-phd-to-invest-in-deep-tech/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/aep-names-andy-gurgol-vice-president-of-investor-relations-302767110.html": {
+    "valid": false
+  },
+  "https://heatmap.news/climate-tech/nyobolt-skeleton-technologies": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://assets.rebelmouse.io",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://dot.la/la-startup-specialty-pediatric-care-2676870257.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://assets.rebelmouse.io",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/dishio-raises-2-5m-seed-round": {
+    "valid": false
+  },
+  "https://www.techloy.com/week-19s-biggest-startup-funding-rounds-in-latin-america-led-by-tohkn-with-big-bets-on-fintech-and-hrtech/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://pulse2.com/avendar-e2-2-million-seed-funding-raised-to-expand-ai-platform-for-fraud-and-crime-investigations/": {
+    "valid": false
+  },
+  "https://marketwise.com/investing/sam-altman-stocks/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/meatly-10-4m-series-a-cultivated-meat-europe-bioreactor-plant/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/05/08/deepseek-seeks-first-outside-funding-at-45b-valuation-as-china-backs-homegrown-ai-rival/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.varindia.com/news/opswat-prevention-first-revolution-in-cybersecurity": {
+    "valid": false
+  },
+  "https://x.com/ipventures_in/status/2052686026750284135": {
+    "valid": true,
+    "company": "Deep-tech startup Ctruh",
+    "amount_str": "$2.5 m",
+    "website": "https://india.entrepreneur.com",
+    "linkedin_url": "https://linkedin.com/company/entrepreneur-media-india",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/EntrepreneurIND"
+  },
+  "https://www.bizjournals.com/cincinnati/news/2026/05/08/fire-awards-vurvey-qca-ventures-lyceum-remote-vans.html": {
+    "valid": false
+  },
+  "https://www.panewslab.com/en/articles/019e069c-0d77-753f-95f2-6ffdeee4354a": {
+    "valid": false
+  },
+  "https://retailtechinnovationhub.com/home/2026/5/7/next-over-delivers-thierry-garnier-heads-to-ahold-delhaize-the-retail-technology-week-in-numbers": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://images.squarespace-cdn.com",
+    "linkedin_url": "",
+    "founder_name": "says Kuo Zhang",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.coindesk.com/business/2026/05/07/coinbax-wins-usd20-000-pitchfest-prize-at-consensus-miami-for-stablecoin-compliance": {
+    "valid": true,
+    "company": "Coinbax",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/coinbax",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eu-startups.com/2026/05/londons-kohort-raises-e6-million-series-a-to-build-ai-user-acquisition-agents-for-mobile-game-studios/": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/codewords-raises-9m-seed-round": {
+    "valid": false
+  },
+  "https://ffnews.com/newsarticle/funding/pit-launches-with-16-million-led-by-andreessen-horowitz-to-bring-ai-native-software-to-enterprise-operations/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/tencent-to-back-deepseek-in-4b-round-at-50b-valuation-marking-first-external-funding-report/": {
+    "valid": false
+  },
+  "https://voi.id/en/technology/574481": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.cloudflare.com/5xx-error-landing",
+    "linkedin_url": "https://linkedin.com/company/cloudflare",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/cloudflare"
+  },
+  "https://techfundingnews.com/ramp-in-talks-to-raise-750m-from-gic-iconiq-capital-at-over-40b-valuation-report/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.family-day-htgf.de",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "events@htgf.de",
+    "twitter_url": "https://x.com/HTGF"
+  },
+  "https://voi.id/en/lifestyle/574320": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/05/fazeshift-raises-17m-in-series-a-funding.html": {
+    "valid": true,
+    "company": "Fazeshift",
+    "amount_str": "$17M",
+    "website": "https://www.fazeshift.com",
+    "linkedin_url": "https://linkedin.com/company/fazeshift",
+    "founder_name": "Led by",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/fazeshifthq"
+  },
+  "https://voi.id/en/musik/574485": {
+    "valid": false
+  },
+  "https://voi.id/en/technology/574471": {
+    "valid": true,
+    "company": "Medtrip",
+    "amount_str": "",
+    "website": "https://medtrip.global",
+    "linkedin_url": "https://linkedin.com/company/medtrip",
+    "founder_name": "said Danang Firdaus",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.sky9capital.com/blog/blog-best-pre-seed-investors-funds-accelerators-2026/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "and gives",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.techloy.com/asias-biggest-startup-funding-in-week-19-led-by-pronto-ecofy-and-brano-therapeutics/": {
+    "valid": true,
+    "company": "Climate-focused NBFC Ecofy",
+    "amount_str": "$15 m",
+    "website": "https://techstory.in",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/kalshi-doubles-valuation-to-22b-with-1b-raise-as-coatue-bets-on-prediction-markets/": {
+    "valid": false
+  },
+  "https://news.utdallas.edu/campus-community/nsf-i-corps-program-2026/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://use.typekit.net/wde3gwf.css",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupmag.co.uk/funding/quinas-technology-2026-seed-funding/": {
+    "valid": false
+  },
+  "https://www.siliconrepublic.com/start-ups/software-company-barespace-capital-embedded-finance-platform": {
+    "valid": true,
+    "company": "Barespace",
+    "amount_str": "",
+    "website": "https://barespace.io",
+    "linkedin_url": "https://linkedin.com/company/barespace",
+    "founder_name": "Moules said",
+    "founder_linkedin_url": "",
+    "contact_email": "support@barespace.io",
+    "twitter_url": ""
+  },
+  "https://dehraflicks.com/product/money/seed-funding-icon-png/": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/05/uk-semiconductor-startup-quinas-technology-secures-investment-approval-from-malta-government-venture-capital/": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/startuprise-usa_parcelbio-biotech-funding-activity-7458455393883553792-KsK8": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://startuprise.io/parcelbio-raises-13m-in-seed-funding-led-by-breyer-capital",
+    "linkedin_url": "https://linkedin.com/company/startuprise-europe",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@startuprise.co.uk",
+    "twitter_url": "https://x.com/startuprise_eu"
+  },
+  "https://www.instagram.com/p/DYE0cG0mNq8/": {
+    "valid": true,
+    "company": "Legal AI startup Jurisphere",
+    "amount_str": "$2.2M",
+    "website": "https://www.outlookbusiness.com",
+    "linkedin_url": "https://linkedin.com/company/outlook-business",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/outlookbusiness"
+  },
+  "https://www.startupgrantsindia.com/ncpedp-mphasis-at-hub-seed-grant-2026": {
+    "valid": false
+  },
+  "https://www.jads.nl/news/jads-playground-startup-avendar-raises-e-2-2m-in-seed-funding/": {
+    "valid": true,
+    "company": "JADS Playground startup Avendar",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "said Marijn van Aerle",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
