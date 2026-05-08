@@ -58256,5 +58256,146 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/05/08/uber-partner-avride-is-under-investigation-for-self-driving-crashes/": {
+    "valid": false
+  },
+  "https://venturebeat.com/security/cisco-crowdstrike-rsac-2026-agent-identity-iam-gap-maturity-model": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/venture/biggest-funding-rounds-sierra-astrani-anagram-therapeutics/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/grocery-outlet-holding-corp-go-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302767265.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/hammes-celebrates-the-completion-of-boca-grande-health-clinic-in-boca-grande-florida-302767236.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/camping-world-holdings-inc-cwh-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302767266.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/atara-biotherapeutics-inc-atra-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302767250.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/medpace-holdings-inc-medp-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302767262.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/alight-inc-alit-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302767256.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/cigl-yoov-investors-have-opportunity-to-lead-concorde-international-group-ltd-securities-fraud-lawsuit-302767244.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/robbins-llp-urges-ses-stockholders-who-lost-money-investing-in-ses-ai-corporation-to-contact-the-firm-for-information-about-leading-the-class-action-302767241.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/power-solutions-international-inc-psix-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302767240.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/odd-deadline-odd-investors-have-opportunity-to-lead-oddity-tech-ltd-securities-fraud-lawsuit-302767232.html": {
+    "valid": false
+  },
+  "https://www.youtube.com/watch?v=lgFjYvVPjFw": {
+    "valid": false
+  },
+  "https://cryptonews.net/news/finance/32833782/": {
+    "valid": true,
+    "company": "Balcony",
+    "amount_str": "$12.7 m",
+    "website": "https://balconyparis.com",
+    "linkedin_url": "https://linkedin.com/company/balcony-technology",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/antonia-schulte-6b7a7336",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bebeez.eu/2026/05/08/londons-kohort-raises-e6-million-series-a-to-build-ai-user-acquisition-agents-for-mobile-game-studios/": {
+    "valid": false
+  },
+  "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/": {
+    "valid": false
+  },
+  "https://startupstorymedia.com/fintech-startup-freo-acquires-indialends/": {
+    "valid": false
+  },
+  "https://followict.news/en/african-startup-news-may-8-2026/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.efinance.com.eg",
+    "linkedin_url": "https://linkedin.com/company/e-finance",
+    "founder_name": "and led by",
+    "founder_linkedin_url": "",
+    "contact_email": "info@efinance.com.eg",
+    "twitter_url": ""
+  },
+  "https://techgraph.co/tech/how-sms-verification-infrastructure-is-evolving-in-modern-digital-platforms/": {
+    "valid": false
+  },
+  "https://www.dailysabah.com/business/tech/mindtail-debuts-with-2-million-in-seed-funding/amp": {
+    "valid": false
+  },
+  "https://www.facebook.com/startup.eu.official/posts/london-healthtech-asterix-health-raises-21-million-pre-seed-to-expand-remote-gp-/977159628339271/": {
+    "valid": false
+  },
+  "https://www.pr.com/press-release/965889": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/05/08/nace-ai-secures-21-5m-to-build-a-metamodel-that-autonomously-runs-enterprise-workflows-with-experts-providing-final-validation/": {
+    "valid": true,
+    "company": "Nace.AI",
+    "amount_str": "$21.5M",
+    "website": "https://nace.ai",
+    "linkedin_url": "https://linkedin.com/company/walden-catalyst-ventures",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "lottie-web@5.7.RYj5mmQQ.mjs",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/SingaporeBusinessReview/posts/seed-stage-deals-accounted-for-71-of-total-startup-funding-in-singapore-for-the-/1615515283913052/": {
+    "valid": false
+  },
+  "https://www.crainsdetroit.com/technology/cdb-birdstop-truck-parking-partnership-20260508/": {
+    "valid": true,
+    "company": "Detroit startup",
+    "amount_str": "",
+    "website": "http://startupdetroit.co",
+    "linkedin_url": "https://linkedin.com/company/detroit-startup-week",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/cincinnati/news/2026/05/08/brain-ca-technologies-fundraise-more-efficient-ai.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "expand\n\nSteve Brunker is",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://retailtechinnovationhub.com/home/2026/5/8/carrefour-deploys-qr-codes-powered-by-gs1-across-50-of-retail-giants-private-label-products": {
+    "valid": false
+  },
+  "https://techfundingnews.com/tessera-labs-60m-series-a-a16z-erp-sap-migration-ai/": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/newyork/news/2026/05/08/ai-creative-studio-mother-tech-raises-15-million.html": {
+    "valid": true,
+    "company": "AI creative studio Mother.tech",
+    "amount_str": "$15 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "NYC women",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupgrantsindia.com/providers/stpinext": {
+    "valid": false
   }
 }
