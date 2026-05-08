@@ -57379,5 +57379,311 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/05/07/ramp-in-talks-to-hit-40b-valuation-6-months-after-reaching-32b/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/": {
+    "valid": true,
+    "company": "Kodiak AI",
+    "amount_str": "$100M",
+    "website": "https://investors.kodiak.ai/news-releases/news-release-details/kodiak-ai-reports-first-quarter-2026-results-announces-100",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://venturebeat.com/technology/anthropic-introduces-dreaming-a-system-that-lets-ai-agents-learn-from-their-own-mistakes": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/05/07/ai-data-center-firm-irens-stock-soars-strikes-2-1b-deal-nvidia/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/05/07/coreweave-ups-spending-forecast-revenue-guidance-falls-short-stock-sinks/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/05/07/open-source-ai-developer-moonshot-ai-raises-2b-20b-valuation/": {
+    "valid": true,
+    "company": "Open-source AI developer Moonshot AI",
+    "amount_str": "$2B",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/05/07/block-raises-2026-outlook-first-quarter-earnings-beat-accelerating-gross-profit-growth/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/shareholder-alert-ademi-llp-investigates-claims-of-securities-fraud-against-zoetis-inc-302766333.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/shareholder-alert-ademi-llp-investigates-claims-of-securities-fraud-against-planet-fitness-inc-302766303.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/multi-investment-accelere-sa-strategie-de-diversification-grace-a-une-levee-de-fonds-de-480-millions-de-francs-suisses-302766455.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/multi-investment-intensiviert-seine-diversifizierungsstrategie-nach-einer-kapitalerhohung-in-hohe-von-480-millionen-chf-302766453.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/medp-investors-have-opportunity-to-lead-medpace-holdings-inc-securities-fraud-lawsuit-302766251.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/bluerock-private-real-estate-fund-announces-distribution-increase-for-may-2026-marking-third-distribution-increase-since-listing-302766408.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/chance-pharma-announces-nmpa-acceptance-of-new-drug-application-for-investigational-respiratory-drug-cxg87-302766379.html": {
+    "valid": false
+  },
+  "https://www.tipranks.com/news/private-companies/balcony-secures-12-7m-seed-to-scale-digital-rails-for-u-s-property-records": {
+    "valid": true,
+    "company": "Balcony",
+    "amount_str": "$12.7M",
+    "website": "https://balconyplus.com",
+    "linkedin_url": "https://linkedin.com/company/balcony-technology",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://refreshmiami.com/news/dishio-raises-2-5m-to-help-restaurants-turn-diners-into-loyal-customers/": {
+    "valid": true,
+    "company": "Dishio",
+    "amount_str": "$2.5M",
+    "website": "https://get.dish.io",
+    "linkedin_url": "https://linkedin.com/company/dishio",
+    "founder_name": "of MeetNative",
+    "founder_linkedin_url": "",
+    "contact_email": "brand-wheel-png@2x-768x769.webp",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/alexandre-pantalacci-8b302419a_my-friends-amine-and-mehdi-just-raised-55m-activity-7458124905214074880-EPwf": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/robinwaroquier_maurice-nora-just-raised-1m-pre-seed-activity-7458055152889970688-TXv0": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/shubhamperiwal_%F0%9D%91%BE%F0%9D%92%86-%F0%9D%92%8B%F0%9D%92%96%F0%9D%92%94%F0%9D%92%95-%F0%9D%92%93%F0%9D%92%82%F0%9D%92%8A%F0%9D%92%94%F0%9D%92%86%F0%9D%92%85-%F0%9D%91%BC%F0%9D%91%BA250%F0%9D%91%B2-%F0%9D%92%8A%F0%9D%92%8F-activity-7458053305093742592--fuZ": {
+    "valid": false
+  },
+  "https://www.mexc.com/news/1077364": {
+    "valid": true,
+    "company": "This post Voi founders",
+    "amount_str": "$16M",
+    "website": "https://www.mexc.com",
+    "linkedin_url": "",
+    "founder_name": "founded by the",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://intellectia.ai/news/crypto/voi-founders-raise-16m-for-ai-startup-pit-to-automate-back-offices": {
+    "valid": true,
+    "company": "Voi Founders",
+    "amount_str": "$16M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/05/07/gusto-hits-1b-revenue-a-figure-that-brings-it-closer-to-public-markets/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://blockster.com/pit-raises-16m-to-replace-enterprise-software-with-ai-built-systems": {
+    "valid": true,
+    "company": "Pit",
+    "amount_str": "$16M",
+    "website": "https://pit.com",
+    "linkedin_url": "https://linkedin.com/company/pitdotcom",
+    "founder_name": "Adam Jafer",
+    "founder_linkedin_url": "https://linkedin.com/in/adamjafer",
+    "contact_email": "aleks@2x-02NCXOTc.webp",
+    "twitter_url": "https://x.com/pitdotcom"
+  },
+  "https://techfundingnews.com/codewords-9m-seed-visionaries-ai-agents-workflow-automation/": {
+    "valid": false
+  },
+  "https://mezha.net/eng/bukvy/d698aef6_pit_raises_-16m/": {
+    "valid": true,
+    "company": "Pit",
+    "amount_str": "$16M",
+    "website": "https://flypittsburgh.com",
+    "linkedin_url": "https://linkedin.com/company/pittsburghinternationalairport",
+    "founder_name": "Fredrik Hjelm",
+    "founder_linkedin_url": "",
+    "contact_email": "info@flypittsburgh.com",
+    "twitter_url": "https://x.com/assets"
+  },
+  "https://european-biotechnology.com/latest-news/scarlet-raises-3-2-million-to-advance-lab-grown-red-blood-cell-therapies/": {
+    "valid": true,
+    "company": "Scarlet",
+    "amount_str": "\u00a33.2 m",
+    "website": "https://scarletrecords.com",
+    "linkedin_url": "https://linkedin.com/company/scarlet-comply",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://crypto.news/arthur-hayes-rejects-the-clarity-act-at-consensus/": {
+    "valid": false
+  },
+  "https://crypto.news/michael-saylor-breaks-strategy-never-sell-rule/": {
+    "valid": false
+  },
+  "https://crypto.news/wadoozie-is-taking-the-memecoin-on-a-48-state-road-trip-and-hiding-crypto-along-the-way/": {
+    "valid": false
+  },
+  "https://www.mexc.com/news/1074418": {
+    "valid": false
+  },
+  "https://ffnews.com/newsarticle/astrada-raises-seed-round-to-build-the-data-layer-for-autonomous-finance/": {
+    "valid": false
+  },
+  "https://www.chainbits.com/press-releases/btcc-exchange-and-afa-launch-a-trading-championship-with-a-million-usdt-prize-pool-and-a-messi-signed-jersey/": {
+    "valid": false
+  },
+  "https://blog.mean.ceo/startup-news-cheer-games-4-5m-pre-seed-round-2026/": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/iarani_ai-library-raises-560000-pre-seed-funding-activity-7458085559689846784-EFMf": {
+    "valid": true,
+    "company": "Library",
+    "amount_str": "",
+    "website": "https://www.loc.gov",
+    "linkedin_url": "https://linkedin.com/company/library-of-congress",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/peterarvai",
+    "contact_email": "",
+    "twitter_url": "https://x.com/librarycongress"
+  },
+  "https://www.thailand-business-news.com/pr-news/medit-establishes-global-orthodontic-business-division-anchored-by-strategic-acquisition-of-progressive-orthodontics": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.fairfield.edu/news/2026/may/two-student-ventures-win-startup-showcase.html": {
+    "valid": false
+  },
+  "https://beinsure.com/news/ai-startup-pit-raises-16-mn-seed-round-led-by-andreessen-horowitz/": {
+    "valid": true,
+    "company": "Pit",
+    "amount_str": "$16 m",
+    "website": "https://www.peachpitmusic.com",
+    "linkedin_url": "https://linkedin.com/company/armypit",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://beinsure.com/news/belgian-startup-tekst-raises-e11-5-mn-series-a/": {
+    "valid": false
+  },
+  "https://finance.yahoo.com/sectors/technology/articles/voi-founders-ai-startup-pit-210211077.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https:&#x2F;&#x2F;www.yahoo.com&#x2F;",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.cxodigitalpulse.com/french-startup-genesis-ai-unveils-advanced-robotics-model-and-human-like-robotic-hand/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-us/news/technology/robots-master-piano-and-cooking-with-genesis-ai-tech/vi-AA22Cws7": {
+    "valid": false
+  },
+  "https://www.genomeweb.com/business-news/quantum-si-q1-revenue-drops-69-percent-firm-preps-proteus-protein-sequencing-platform": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://crain-platform-genomeweb-prod.s3.amazonaws.com/app-icons/favicon.ico",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.precisionmedicineonline.com/business-news/new-mrna-therapeutics-company-parcelbio-launches-13m": {
+    "valid": true,
+    "company": "New mRNA Therapeutics Company ParcelBio",
+    "amount_str": "$13M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.brex.com/spend-trends/startup/seed-funding-for-startups": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.lr-in-prod.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/forbes.africa/posts/currentaffairsanalysts-say-the-decline-in-seed-funding-could-create-opportunitie/1377255021101805/": {
+    "valid": false
   }
 }
