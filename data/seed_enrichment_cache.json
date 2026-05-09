@@ -58570,5 +58570,79 @@
   },
   "https://www.analyticsinsight.net/amp/story/business/weekly-funding-roundup-sierra-raises-950-million-panthalassa-hits-140-million-radixark-funding-in-focus": {
     "valid": false
+  },
+  "https://en.clickpetroleoegas.com.br/while-refrigerators-and-air-conditioners-still-rely-on-gases-that-can-leak-a-cambridge-startup-raises-10-million-to-create-refrigeration-wit-asaf04/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://clickpetroleoegas.com.br/enquanto-geladeiras-e-ar-condicionados-ainda-dependem-de-gases-que-podem-vazar-startup-de-cambridge-levanta-us-10-milhoes-para-criar-refrigeracao-com-cristais-plasticos-que-esfriam-qu-asaf04",
+    "linkedin_url": "https://linkedin.com/company/cpgclickpetroleoegas",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contato@clickpetroleoegas.com.br",
+    "twitter_url": "https://x.com/clickpetroleoeg"
+  },
+  "https://techfundingnews.com/lime-files-for-ipo-uber-backed-e-bike-and-scooter-startup-eyes-nasdaq-debut/": {
+    "valid": false
+  },
+  "https://n24.com.tr/en/health/parcelbio-secures-13m-for-advanced-mrna-platform-190": {
+    "valid": true,
+    "company": "ParcelBio",
+    "amount_str": "$13M",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/parcelbio",
+    "founder_name": "Leadership and Vision\n\nBoth",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://letsdatascience.com/news/periodic-labs-seeks-500-million-science-funding-c123b746": {
+    "valid": false
+  },
+  "https://eu.36kr.com/en/p/3797202414820359": {
+    "valid": false
+  },
+  "https://e27.co/ecosystem-roundup-the-koinworks-case-and-what-it-means-for-indonesian-fintech-20260508/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://tally.so/r/n0bzEA",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@tally.so",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/vori-raises-22-million-in-series-b": {
+    "valid": false
+  },
+  "https://www.sky9capital.com/blog/blog-pre-seed-investors-ai-startups-2026/": {
+    "valid": false
+  },
+  "https://www.sky9capital.com/blog/blog-ai-grants-pre-seed-funding-programs-2026/": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/peterkappes_in-a-world-first-a-london-startup-just-proved-activity-7458626598771171328-HVdw": {
+    "valid": false
+  },
+  "https://techfundingnews.com/anthropic-nears-1t-valuation-as-claude-gains-ground-in-enterprise-race-with-openai/": {
+    "valid": false
+  },
+  "https://dailypioneer.com/news/slug-lite/pune-cleantech-startup-novorbis-itus-bags-rs-13-35-cr-seed-funding-from-rainmatter?year=2026": {
+    "valid": false
+  },
+  "https://beinsure.com/news/insurtech-corgi-raises-160mn-series-b/": {
+    "valid": true,
+    "company": "Corgi",
+    "amount_str": "$160 m",
+    "website": "https://corgiplanet.com",
+    "linkedin_url": "https://linkedin.com/company/usecorgi",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/nico-laqua-302b17233",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/StartupStoriesOfficial/photos/legal-ai-startup-jurisphere-raises-22m-led-by-info-edge-ventures-to-expand-globa/1552121933591026/": {
+    "valid": false
   }
 }

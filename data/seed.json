@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-05-09T02:10:06.021997Z",
-  "count": 18,
-  "enriched_count": 13,
+  "generated_at": "2026-05-09T06:11:56.016476Z",
+  "count": 19,
+  "enriched_count": 15,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "ParcelBio Secures $13M for Advanced mRNA Platform - N24",
+      "article_url": "https://n24.com.tr/en/health/parcelbio-secures-13m-for-advanced-mrna-platform-190",
+      "company": "ParcelBio",
+      "amount_str": "$13M",
+      "pub_date": "2026-05-09T02:51:07Z",
+      "website": "",
+      "linkedin_url": "https://linkedin.com/company/parcelbio",
+      "founder_name": "Leadership and Vision\n\nBoth",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Insurtech Corgi raises $160 mn Series B at $1.3 bn valuation - Beinsure",
+      "article_url": "https://beinsure.com/news/insurtech-corgi-raises-160mn-series-b/",
+      "company": "Corgi",
+      "amount_str": "$160 m",
+      "pub_date": "2026-05-09T01:13:24Z",
+      "website": "https://corgiplanet.com",
+      "linkedin_url": "https://linkedin.com/company/usecorgi",
+      "founder_name": "",
+      "founder_linkedin_url": "https://linkedin.com/in/nico-laqua-302b17233",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "HawkEye 360 bags $416M at $2.42B valuation in US IPO as space tech heats back up",
@@ -83,20 +111,6 @@
       "website": "http://startupdetroit.co",
       "linkedin_url": "https://linkedin.com/company/detroit-startup-week",
       "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "AI creative studio Mother.tech raises $15 million - New York Business Journal",
-      "article_url": "https://www.bizjournals.com/newyork/news/2026/05/08/ai-creative-studio-mother-tech-raises-15-million.html",
-      "company": "AI creative studio Mother.tech",
-      "amount_str": "$15 m",
-      "pub_date": "2026-05-08T16:59:02Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "NYC women",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
