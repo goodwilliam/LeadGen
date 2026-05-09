@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-05-08T20:53:43.728222Z",
-  "count": 20,
-  "enriched_count": 15,
+  "generated_at": "2026-05-09T02:10:06.021997Z",
+  "count": 18,
+  "enriched_count": 13,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "HawkEye 360 bags $416M at $2.42B valuation in US IPO as space tech heats back up",
+      "article_url": "https://techfundingnews.com/hawkeye-360-ipo-416m-2-4b-valuation-space-tech-defense/",
+      "company": "HawkEye 360",
+      "amount_str": "$416M",
+      "pub_date": "2026-05-08T23:26:33Z",
+      "website": "https://www.he360.com",
+      "linkedin_url": "https://linkedin.com/company/hawkeye-360",
+      "founder_name": "",
+      "founder_linkedin_url": "https://linkedin.com/in/john-serafini-950793a",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Real Estate Blockchain Startup Balcony Secures $12.7M in Seed Funding - Cryptonews.net",
@@ -14,6 +28,34 @@
       "linkedin_url": "https://linkedin.com/company/balcony-technology",
       "founder_name": "",
       "founder_linkedin_url": "https://linkedin.com/in/antonia-schulte-6b7a7336",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "M2 Foundry Closes Pre-Seed Funding",
+      "article_url": "https://x.com/audiumcp/status/2052739935543632341",
+      "company": "M2 Foundry",
+      "amount_str": "",
+      "pub_date": "2026-05-08T19:19:33Z",
+      "website": "https://www.m2foundry.com",
+      "linkedin_url": "https://linkedin.com/company/m2-foundry",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/suricate"
+    },
+    {
+      "source": "Google Alerts",
+      "title": "AI founders are turning healthcare fax queues into startup territory",
+      "article_url": "https://startupfortune.com/ai-founders-are-turning-healthcare-fax-queues-into-startup-territory/",
+      "company": "York startup",
+      "amount_str": "$12.5 m",
+      "pub_date": "2026-05-08T18:50:48Z",
+      "website": "https://www.nypl.org",
+      "linkedin_url": "https://linkedin.com/company/new-york-startup-lab",
+      "founder_name": "",
+      "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
     },
@@ -61,16 +103,16 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Software company Barespace launches embedded finance platform - Silicon Republic",
-      "article_url": "https://www.siliconrepublic.com/start-ups/software-company-barespace-capital-embedded-finance-platform",
-      "company": "Barespace",
-      "amount_str": "",
-      "pub_date": "2026-05-08T14:19:22Z",
-      "website": "https://barespace.io",
-      "linkedin_url": "https://linkedin.com/company/barespace",
-      "founder_name": "Moules said",
+      "title": "Anthropic's seed in 2021 was $7.3M. This is 150x. At founding. With nothing shipped. Meta ...",
+      "article_url": "https://x.com/TheGeorgePu/status/2052780408949854716",
+      "company": "Ineffable Intelligence just",
+      "amount_str": "$1.1B",
+      "pub_date": "2026-05-08T16:38:48Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
       "founder_linkedin_url": "",
-      "contact_email": "support@barespace.io",
+      "contact_email": "",
       "twitter_url": ""
     },
     {
@@ -97,34 +139,6 @@
       "website": "https://medtrip.global",
       "linkedin_url": "https://linkedin.com/company/medtrip",
       "founder_name": "said Danang Firdaus",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Deep-tech startup Ctruh raises $2.5 million in seed round led by IPV Read more : https://t.co ...",
-      "article_url": "https://x.com/ipventures_in/status/2052686026750284135",
-      "company": "Deep-tech startup Ctruh",
-      "amount_str": "$2.5 m",
-      "pub_date": "2026-05-08T12:00:29Z",
-      "website": "https://india.entrepreneur.com",
-      "linkedin_url": "https://linkedin.com/company/entrepreneur-media-india",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": "https://x.com/EntrepreneurIND"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Coinbax wins $20,000 PitchFest prize at Consensus Miami for stablecoin compliance",
-      "article_url": "https://www.coindesk.com/business/2026/05/07/coinbax-wins-usd20-000-pitchfest-prize-at-consensus-miami-for-stablecoin-compliance",
-      "company": "Coinbax",
-      "amount_str": "",
-      "pub_date": "2026-05-08T09:50:58Z",
-      "website": "",
-      "linkedin_url": "https://linkedin.com/company/coinbax",
-      "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
@@ -172,20 +186,6 @@
       "twitter_url": ""
     },
     {
-      "source": "TechCrunch",
-      "title": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%",
-      "article_url": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/",
-      "company": "Kodiak AI",
-      "amount_str": "$100M",
-      "pub_date": "2026-05-07T21:49:24Z",
-      "website": "https://investors.kodiak.ai/news-releases/news-release-details/kodiak-ai-reports-first-quarter-2026-results-announces-100",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
       "source": "SiliconAngle",
       "title": "Quantum Motion raises $160M to build faster quantum chips",
       "article_url": "https://siliconangle.com/2026/05/07/quantum-motion-raises-160m-build-faster-quantum-chips/",
@@ -197,20 +197,6 @@
       "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Dishio raises $2.5M to help restaurants turn diners into loyal customers - Refresh Miami",
-      "article_url": "https://refreshmiami.com/news/dishio-raises-2-5m-to-help-restaurants-turn-diners-into-loyal-customers/",
-      "company": "Dishio",
-      "amount_str": "$2.5M",
-      "pub_date": "2026-05-07T16:26:52Z",
-      "website": "https://get.dish.io",
-      "linkedin_url": "https://linkedin.com/company/dishio",
-      "founder_name": "of MeetNative",
-      "founder_linkedin_url": "",
-      "contact_email": "brand-wheel-png@2x-768x769.webp",
       "twitter_url": ""
     },
     {
@@ -268,20 +254,6 @@
       "founder_linkedin_url": "",
       "contact_email": "aymeric@codewords.ai",
       "twitter_url": "https://x.com/codewordsai"
-    },
-    {
-      "source": "SiliconAngle",
-      "title": "Corgi raises $160M at $1.3B valuation to expand AI-native insurance platform",
-      "article_url": "https://siliconangle.com/2026/05/06/corgi-raises-160m-1-3b-valuation-expand-ai-native-insurance-platform/",
-      "company": "Corgi",
-      "amount_str": "$160M",
-      "pub_date": "2026-05-06T23:16:49Z",
-      "website": "https://www.corgi.insure",
-      "linkedin_url": "https://linkedin.com/company/corgi-insurance",
-      "founder_name": "",
-      "founder_linkedin_url": "https://linkedin.com/in/nico-laqua-302b17233",
-      "contact_email": "hello@corgi.insure",
-      "twitter_url": "https://x.com/UseCorgi"
     }
   ]
 }
