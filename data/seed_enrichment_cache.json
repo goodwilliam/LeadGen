@@ -58871,5 +58871,72 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://www.msn.com/en-us/money/companies/turkish-mobile-gaming-startup-mindtail-raises-2-million/ar-AA22CO7C": {
+    "valid": true,
+    "company": "Turkish mobile gaming startup Mindtail",
+    "amount_str": "$2 m",
+    "website": "https://www.msn.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.tipranks.com/news/private-companies/pit-weekly-recap": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/05/08/snap-ends-400m-perplexity-ai-deal-as-ceo-spiegel-pivots-focus-to-intelligent-eyewear/": {
+    "valid": false
+  },
+  "https://quantumzeitgeist.com/frostbyte-scale-quantum-13m/": {
+    "valid": false
+  },
+  "https://quantumzeitgeist.com/graphene-electron-spin-electrons-maintain/": {
+    "valid": false
+  },
+  "https://x.com/pulse2news/status/2052948234231029820": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/Chirp-Regular.80fda27a.woff2",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://nordic9.com/news/flizpay-raised-1-million-pre-seed-funding-round-led-by-antler": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://entarabi.com/en/2026/05/kalshi-raises-1-billion-in-series-f-doubling-valuation-to-22-billion/": {
+    "valid": true,
+    "company": "Kalshi",
+    "amount_str": "$1 b",
+    "website": "https://kalshi.com",
+    "linkedin_url": "https://linkedin.com/company/kalshi",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/mansourtarek",
+    "contact_email": "support@kalshi.com",
+    "twitter_url": "https://x.com/Kalshi"
+  },
+  "https://beinsure.com/news/verisk-brings-insurance-analytics-into-claude-ai/": {
+    "valid": false
   }
 }

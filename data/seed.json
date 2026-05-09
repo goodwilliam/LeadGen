@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-05-09T16:46:16.811157Z",
-  "count": 13,
+  "generated_at": "2026-05-09T20:38:13.923870Z",
+  "count": 14,
   "enriched_count": 9,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Turkish mobile gaming startup Mindtail raises $2 million - MSN",
+      "article_url": "https://www.msn.com/en-us/money/companies/turkish-mobile-gaming-startup-mindtail-raises-2-million/ar-AA22CO7C",
+      "company": "Turkish mobile gaming startup Mindtail",
+      "amount_str": "$2 m",
+      "pub_date": "2026-05-09T17:42:15Z",
+      "website": "https://www.msn.com",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Tessera Labs Secures $60M in Funding Led by Andreessen Horowitz to Transform ERP ...",
@@ -16,6 +30,20 @@
       "founder_linkedin_url": "",
       "contact_email": "founders@tessera-labs.com",
       "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Kalshi Raises $1 Billion in Series F, Doubling Valuation to $22 Billion - \u0625\u0646\u062a \u0639\u0631\u0628\u064a | entARABI",
+      "article_url": "https://entarabi.com/en/2026/05/kalshi-raises-1-billion-in-series-f-doubling-valuation-to-22-billion/",
+      "company": "Kalshi",
+      "amount_str": "$1 b",
+      "pub_date": "2026-05-09T12:45:21Z",
+      "website": "https://kalshi.com",
+      "linkedin_url": "https://linkedin.com/company/kalshi",
+      "founder_name": "",
+      "founder_linkedin_url": "https://linkedin.com/in/mansourtarek",
+      "contact_email": "support@kalshi.com",
+      "twitter_url": "https://x.com/Kalshi"
     },
     {
       "source": "Google Alerts",
@@ -70,20 +98,6 @@
       "linkedin_url": "https://linkedin.com/company/hawkeye-360",
       "founder_name": "",
       "founder_linkedin_url": "https://linkedin.com/in/john-serafini-950793a",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Real Estate Blockchain Startup Balcony Secures $12.7M in Seed Funding - Cryptonews.net",
-      "article_url": "https://cryptonews.net/news/finance/32833782/",
-      "company": "Balcony",
-      "amount_str": "$12.7 m",
-      "pub_date": "2026-05-08T19:55:15Z",
-      "website": "https://balconyparis.com",
-      "linkedin_url": "https://linkedin.com/company/balcony-technology",
-      "founder_name": "",
-      "founder_linkedin_url": "https://linkedin.com/in/antonia-schulte-6b7a7336",
       "contact_email": "",
       "twitter_url": ""
     },
