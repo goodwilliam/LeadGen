@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-09T06:11:56.016476Z",
-  "count": 19,
-  "enriched_count": 15,
+  "generated_at": "2026-05-09T09:11:01.706081Z",
+  "count": 15,
+  "enriched_count": 12,
   "articles": [
     {
       "source": "Google Alerts",
@@ -89,34 +89,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Nace.AI Secures $21.5M to Build a Metamodel That Autonomously Runs Enterprise ...",
-      "article_url": "https://theaiinsider.tech/2026/05/08/nace-ai-secures-21-5m-to-build-a-metamodel-that-autonomously-runs-enterprise-workflows-with-experts-providing-final-validation/",
-      "company": "Nace.AI",
-      "amount_str": "$21.5M",
-      "pub_date": "2026-05-08T18:11:42Z",
-      "website": "https://nace.ai",
-      "linkedin_url": "https://linkedin.com/company/walden-catalyst-ventures",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "lottie-web@5.7.RYj5mmQQ.mjs",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Detroit startup launches AI drone monitoring of truck parking lots",
-      "article_url": "https://www.crainsdetroit.com/technology/cdb-birdstop-truck-parking-partnership-20260508/",
-      "company": "Detroit startup",
-      "amount_str": "",
-      "pub_date": "2026-05-08T18:03:37Z",
-      "website": "http://startupdetroit.co",
-      "linkedin_url": "https://linkedin.com/company/detroit-startup-week",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "Anthropic's seed in 2021 was $7.3M. This is 150x. At founding. With nothing shipped. Meta ...",
       "article_url": "https://x.com/TheGeorgePu/status/2052780408949854716",
       "company": "Ineffable Intelligence just",
@@ -153,34 +125,6 @@
       "website": "https://medtrip.global",
       "linkedin_url": "https://linkedin.com/company/medtrip",
       "founder_name": "said Danang Firdaus",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "ReN3 raises $5M to help you work better - BackScoop",
-      "article_url": "https://www.backscoop.com/newsletter-posts/ren3-raises-5m-to-help-you-work-better",
-      "company": "ReN3",
-      "amount_str": "$5M",
-      "pub_date": "2026-05-08T04:04:23Z",
-      "website": "https://www.ren3.ai",
-      "linkedin_url": "https://linkedin.com/company/ren3ai",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Singapore's Brano Therapeutics raises $6.8M for new heart failure treatments - BackScoop",
-      "article_url": "https://www.backscoop.com/newsletter-posts/singapores-brano-therapeutics-raises-6-8m-for-better-heart-failure-treatments",
-      "company": "Singapore's Brano Therapeutics",
-      "amount_str": "$6.8M",
-      "pub_date": "2026-05-08T04:04:21Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
