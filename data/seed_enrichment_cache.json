@@ -58659,5 +58659,98 @@
   },
   "https://iss.dashboard.health.gov.mw/bstretchu/ispotl/004325/1V248305L5/funded_the__entrepreneurs__guide__to-raising_your_first__round.pdf": {
     "valid": false
+  },
+  "https://theaiinsider.tech/2026/05/09/oracles-ai-driven-mass-layoff-of-30000-draws-backlash-over-severance-terms-and-forfeited-stock/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/05/09/ai-library-raises-pre-seed-funding-to-automate-enterprise-software-delivery-with-ai-agents/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/05/09/davis-closes-e4-6m-funding-round-to-deploy-proprietary-ai-model-for-architectural-design-under-regulatory-constraints/": {
+    "valid": false
+  },
+  "https://www.arabnews.pk/node/2642899/business-economy": {
+    "valid": true,
+    "company": "Some 17 startups collectively",
+    "amount_str": "$40.6 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.pressreader.com/turkey/daily-sabah/20260509/281603837089637": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://s.prcdn.co/res",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/pulse2news_new-north-ventures-leads-pre-seed-investment-activity-7458711938894565376-nKXo": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.romania-insider.com/fil-rouge-matei-dumitrescu-may-2026": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://pulse2.com/new-north-ventures-leads-pre-seed-investment-in-m2-foundry-to-expand-dual-use-technology-platform/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wp.me/pp5wj-1Cm5",
+    "linkedin_url": "https://linkedin.com/company/pulse2news",
+    "founder_name": "Scott Weller",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/pulse2news"
+  },
+  "https://sahyadristartups.com/spotlight/india-weekly-funding-tracker-indian-startups-raise-usd-126-million-between-may-1-and-may-7-2026/": {
+    "valid": false
+  },
+  "https://www.uktech.news/funding/uk-tech-funding-roundup-this-weeks-deals-from-quantum-motion-to-lunar-20260508": {
+    "valid": false
+  },
+  "https://mediabrief.com/orient-electric-posts-strong-q4-fy26/": {
+    "valid": false
+  },
+  "https://voi.id/en/ekonomi/574477": {
+    "valid": false
+  },
+  "https://voi.id/en/ekonomi/574479": {
+    "valid": false
+  },
+  "https://www.uktech.news/space-tech/seraphim-space-pulls-in-137m-from-c-share-sale-20260508": {
+    "valid": false
+  },
+  "https://startup.economictimes.indiatimes.com/news/funding-deals/blunav-secures-1-million-seed-funding-led-by-piper-serica/130946893": {
+    "valid": true,
+    "company": "Blunav",
+    "amount_str": "$1 M",
+    "website": "https://blunav.in",
+    "linkedin_url": "https://linkedin.com/company/blunav",
+    "founder_name": "Immediate watchpoints",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/blunav_in"
   }
 }
