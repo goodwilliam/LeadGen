@@ -58752,5 +58752,124 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": "https://x.com/blunav_in"
+  },
+  "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://venturebeat.com/infrastructure/intent-based-chaos-testing-is-designed-for-when-ai-behaves-confidently-and-wrongly": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/tcom-deadline-tcom-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-tripcom-group-limited-securities-fraud-lawsuit-first-filed-by-the-rosen-law-firm-302767290.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/cwh-deadline-cwh-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-camping-world-holdings-inc-securities-fraud-lawsuit-302767181.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/investor-deadline-alert-gemini-space-station-inc-gemi-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit-302767314.html": {
+    "valid": false
+  },
+  "https://techstory.in/weekly-startup-funding-news-indian-startups-raised-159-mn-this-week/": {
+    "valid": false
+  },
+  "https://dronexl.co/2026/05/09/waiv-robotics-vtol-landing-system/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/05/09/moonlight-ai-raises-3-3m-to-deploy-computer-vision-for-faster-cancer-diagnostics/": {
+    "valid": false
+  },
+  "https://technotrenz.com/news/frostbyte-secures-e1-3m/": {
+    "valid": false
+  },
+  "https://therecursive.com/cee-startup-tech-weekly-estonian-skeleton-technologies-secures-e33m-ahead-of-us-ipo/": {
+    "valid": false
+  },
+  "https://www.arabnews.com/node/2642899/amp": {
+    "valid": true,
+    "company": "Some 17 startups collectively",
+    "amount_str": "$40.6 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://amp.ibtimes.sg/khosla-backed-genesis-ais-gene-26-5-demo-shows-robotic-brain-capable-human-like-hand-movement-86234": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://data.ibtimes.sg",
+    "linkedin_url": "",
+    "founder_name": "said Genesis AI",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://observerid.com/kemendikdasmen-kejagung-unite-to-safeguard-smart-indonesia-program/": {
+    "valid": false
+  },
+  "https://investorlist.com/list/seed-and-pre-seed-investors?refInternal=Home_BestSellingLists": {
+    "valid": false
+  },
+  "https://primeprogressng.com/opportunities/apply-accelerator-2026-programme-for-digital-tech-startups/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/05/09/perplexity-launches-personal-computer-ai-agent-for-all-mac-users-to-rival-local-ai-assistants/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/05/09/tessera-labs-secures-60m-in-funding-led-by-andreessen-horowitz-to-transform-erp-modernization/": {
+    "valid": true,
+    "company": "Tessera Labs",
+    "amount_str": "$60M",
+    "website": "https://tessera-labs.com",
+    "linkedin_url": "https://linkedin.com/company/tesseralabsai",
+    "founder_name": "said Kabir Nagrecha",
+    "founder_linkedin_url": "",
+    "contact_email": "founders@tessera-labs.com",
+    "twitter_url": ""
+  },
+  "https://www.precisionmedicineonline.com/precision-oncology/brief-week-merck-opus-genetics-eli-lilly-orchard-therapeutics-vertex": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://crain-platform-precisiononcologynews-prod.s3.amazonaws.com/app-icons/favicon.ico",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://bitcoinworld.co.in/usd-inflation-pressures-stay-firm-wells-fargo/": {
+    "valid": false
+  },
+  "https://www.facebook.com/opportunitiesforyouth/photos/-fully-funded-cmu-africa-innovation-hub-business-incubation-program-20262027-up-/1413423640814985/": {
+    "valid": false
+  },
+  "https://en.travel2latam.com/news-106476-un-tourism-and-the-bahamas-are-promoting-sustainable-innovation-to-strengthen-resilient-tourism-in-the-caribbean.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
