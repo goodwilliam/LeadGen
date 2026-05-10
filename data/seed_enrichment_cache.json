@@ -59180,5 +59180,98 @@
   },
   "https://waya.media/averroes-ventures-targets-usd-50m-fund-to-focus-on-waste-to-value-startups/": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/zspc-investors-have-opportunity-to-lead-zspace-inc-securities-lawsuit-filed-by-the-rosen-law-firm-302767136.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-pennymac-financial-services-inc-investors-to-inquire-about-securities-class-action-investigation--pfsi-302767600.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/fsk-investors-have-opportunity-to-lead-fs-kkr-capital-corp-securities-fraud-lawsuit-302767601.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-immutep-ltd-investors-to-inquire-about-securities-class-action-investigation--immp-302767602.html": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/sports/mlb/mlb-insider-just-raised-yordan-alvarez-question-astros-fans-don-t-want-to-answer/ar-AA22NoVO": {
+    "valid": false
+  },
+  "https://medcitynews.com/2026/05/windward-bio-tslp-long-acting-antibody-immunology-asthma-copd-crossover/": {
+    "valid": true,
+    "company": "Windward Bio",
+    "amount_str": "$165M",
+    "website": "",
+    "linkedin_url": "https://linkedin.com/company/windward-bio-001",
+    "founder_name": "Luca Santarelli said in",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://cryptobriefing.com/digital-asset-holdings-2b-valuation-a16z/": {
+    "valid": true,
+    "company": "Asset Holdings",
+    "amount_str": "$2B",
+    "website": "https://en.wikipedia.org",
+    "linkedin_url": "https://linkedin.com/company/ck-asset-holdings",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://entarabi.com/en/2026/05/ninja-taps-global-banks-for-potential-1-billion-riyadh-ipo/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-895682": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://thesequence.substack.com/p/the-sequence-radar-857-last-week": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Liang Wenfeng",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://msmeafricaonline.com/wawu-africa-announces-%E2%82%A6250000-startup-grants-for-nigerian-smes/": {
+    "valid": false
+  },
+  "https://www.startupecosystem.ca/news/wispr-flow-expands-voice-ai-services-in-india-amidst-linguistic-challenges/": {
+    "valid": false
+  },
+  "https://observerid.com/from-ideas-to-stage-ruang-kreatif-seni-pertunjukan-2026-elevates-indonesias-performing-arts/": {
+    "valid": false
+  },
+  "https://www.startupecosystem.ca/news/lime-files-for-ipo-amidst-expanding-revenue-and-continued-losses/": {
+    "valid": false
   }
 }
