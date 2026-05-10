@@ -59096,5 +59096,89 @@
   },
   "https://www.msn.com/en-us/money/startup/jack-ma-foundation-s-philanthropic-initiative-africa-s-business-heroes-opens-applications-for-2026-edition/ar-AA1XTYzR?ocid=BingNewsVerp": {
     "valid": false
+  },
+  "https://www.startupdaily.net/topic/funding/buildpass-venture-debt-us-expansion/": {
+    "valid": false
+  },
+  "https://nairametrics.com/2026/05/09/meet-six-nigerian-startup-founders-who-closed-funding-rounds-in-april/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.exmarketplace.com/bidder/video/vcfg_c.css",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://nairametrics.com/2026/05/10/nigerian-startups-attract-4-million-across-six-deals-in-april-2026/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.exmarketplace.com/bidder/video/vcfg_c.css",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://technotrenz.com/news/stockholms-pit-raises-e13-6m/": {
+    "valid": false
+  },
+  "https://autonews.gasgoo.com/articles/news/seedsuniversity-team-develops-bionic-flapping-wing-robots-raises-tens-of-millions-of-yuan-2053356641771212800": {
+    "valid": true,
+    "company": "Seeds|University Team Develops Bionic Flapping-Wing Robots",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Among them",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.manufacturingtodayindia.com/genesis-ai-unveils-full-stack-robotics-platform-with-human-like-manipulation": {
+    "valid": false
+  },
+  "https://entarabi.com/en/2026/05/saudi-startup-gabster-raises-500k-in-pre-seed-funding-round/": {
+    "valid": true,
+    "company": "Saudi Startup Gabster",
+    "amount_str": "$500K",
+    "website": "https://entarabi.com",
+    "linkedin_url": "https://linkedin.com/company/entarabi",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@entarabi.com",
+    "twitter_url": "https://x.com/entarabicom"
+  },
+  "https://www.varindia.com/news/pnb-to-spend-rs-3400-crore-for-ai-cyber-security-push-amid-rising-cyber-frauds": {
+    "valid": false
+  },
+  "https://www.reddit.com/r/Investors/comments/1t8qtjc/looking_for_pre_seed_investors/": {
+    "valid": false
+  },
+  "https://thedisruptormag.com/turkish-mobile-gaming-startup-mindtail-raises-2-million-in-pre-seed-funding/": {
+    "valid": true,
+    "company": "Turkish mobile gaming startup Mindtail",
+    "amount_str": "$2 m",
+    "website": "https://www.usatoday.com",
+    "linkedin_url": "https://linkedin.com/company/usa-today",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/usatoday"
+  },
+  "https://phemex.com/news/article/ai-platform-pit-secures-16-million-in-funding-led-by-a16z-80358": {
+    "valid": true,
+    "company": "Pit has successfully",
+    "amount_str": "$16 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://waya.media/averroes-ventures-targets-usd-50m-fund-to-focus-on-waste-to-value-startups/": {
+    "valid": false
   }
 }

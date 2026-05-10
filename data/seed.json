@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-05-10T09:23:49.731931Z",
-  "count": 16,
-  "enriched_count": 12,
+  "generated_at": "2026-05-10T13:01:39.655167Z",
+  "count": 18,
+  "enriched_count": 14,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "AI Platform Pit Raises $16M Led by a16z | Phemex News",
+      "article_url": "https://phemex.com/news/article/ai-platform-pit-secures-16-million-in-funding-led-by-a16z-80358",
+      "company": "Pit has successfully",
+      "amount_str": "$16 m",
+      "pub_date": "2026-05-10T09:27:53Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Seeds|University Team Develops Bionic Flapping-Wing Robots, Raises Tens of Millions of Yuan",
+      "article_url": "https://autonews.gasgoo.com/articles/news/seedsuniversity-team-develops-bionic-flapping-wing-robots-raises-tens-of-millions-of-yuan-2053356641771212800",
+      "company": "Seeds|University Team Develops Bionic Flapping-Wing Robots",
+      "amount_str": "",
+      "pub_date": "2026-05-10T06:10:31Z",
+      "website": "https://duck.ai",
+      "linkedin_url": "",
+      "founder_name": "Among them",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Allison Stern's Mother Ventures Launches $10M Debut Fund - FemWealth",
@@ -16,6 +44,20 @@
       "founder_linkedin_url": "",
       "contact_email": "contact@beamstart.com",
       "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Saudi Startup Gabster Raises $500K in Pre-Seed Funding Round - \u0625\u0646\u062a \u0639\u0631\u0628\u064a - entARABI",
+      "article_url": "https://entarabi.com/en/2026/05/saudi-startup-gabster-raises-500k-in-pre-seed-funding-round/",
+      "company": "Saudi Startup Gabster",
+      "amount_str": "$500K",
+      "pub_date": "2026-05-10T02:27:14Z",
+      "website": "https://entarabi.com",
+      "linkedin_url": "https://linkedin.com/company/entarabi",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "info@entarabi.com",
+      "twitter_url": "https://x.com/entarabicom"
     },
     {
       "source": "Google Alerts",
@@ -75,6 +117,20 @@
     },
     {
       "source": "Google Alerts",
+      "title": "Turkish mobile gaming startup Mindtail raises $2 million in pre-seed funding",
+      "article_url": "https://thedisruptormag.com/turkish-mobile-gaming-startup-mindtail-raises-2-million-in-pre-seed-funding/",
+      "company": "Turkish mobile gaming startup Mindtail",
+      "amount_str": "$2 m",
+      "pub_date": "2026-05-09T22:25:00Z",
+      "website": "https://www.usatoday.com",
+      "linkedin_url": "https://linkedin.com/company/usa-today",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": "https://x.com/usatoday"
+    },
+    {
+      "source": "Google Alerts",
       "title": "Tessera Labs Secures $60M in Funding Led by Andreessen Horowitz to Transform ERP ...",
       "article_url": "https://theaiinsider.tech/2026/05/09/tessera-labs-secures-60m-in-funding-led-by-andreessen-horowitz-to-transform-erp-modernization/",
       "company": "Tessera Labs",
@@ -85,20 +141,6 @@
       "founder_name": "said Kabir Nagrecha",
       "founder_linkedin_url": "",
       "contact_email": "founders@tessera-labs.com",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Turkish mobile gaming startup Mindtail raises $2 million - MSN",
-      "article_url": "https://www.msn.com/en-us/money/companies/turkish-mobile-gaming-startup-mindtail-raises-2-million/ar-AA22CO7C",
-      "company": "Turkish mobile gaming startup Mindtail",
-      "amount_str": "$2 m",
-      "pub_date": "2026-05-09T17:42:15Z",
-      "website": "https://www.msn.com",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
       "twitter_url": ""
     },
     {
@@ -114,20 +156,6 @@
       "founder_linkedin_url": "https://linkedin.com/in/mansourtarek",
       "contact_email": "support@kalshi.com",
       "twitter_url": "https://x.com/Kalshi"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Startup Wrap: MENA startups raise $150m in April as investor activity recovers | Arab News",
-      "article_url": "https://www.arabnews.com/node/2642899/amp",
-      "company": "Some 17 startups collectively",
-      "amount_str": "$40.6 m",
-      "pub_date": "2026-05-09T08:54:57Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "Google Alerts",
