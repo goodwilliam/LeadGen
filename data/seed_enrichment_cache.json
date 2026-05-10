@@ -58938,5 +58938,73 @@
   },
   "https://beinsure.com/news/verisk-brings-insurance-analytics-into-claude-ai/": {
     "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/fsk-investors-have-opportunity-to-lead-graphic-packaging-holding-company-securities-fraud-lawsuit-302767360.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/mndy-deadline-mndy-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-mondaycom-ltd-securities-fraud-lawsuit-302767315.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/ibrx-investors-have-opportunity-to-lead-immunitybio-inc-securities-fraud-lawsuit-first-filed-by-the-rosen-law-firm-302767303.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/ses-investors-have-opportunity-to-lead-ses-ai-corporation-securities-fraud-lawsuit-filed-by-the-rosen-law-firm-302767090.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/nuai-investors-have-opportunity-to-lead-new-era-energy--digital-inc-securities-fraud-lawsuit-302767297.html": {
+    "valid": false
+  },
+  "https://www.bioworld.com/articles/730981-scarlet-raises-4m-to-take-manufactured-red-blood-cells-into-clinic": {
+    "valid": true,
+    "company": "Scarlet",
+    "amount_str": "$4M",
+    "website": "https://scarletrecords.com",
+    "linkedin_url": "https://linkedin.com/company/scarlet-comply",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/scarlet-fu-6740884",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "http://www.odaily.news/en/post/5210687": {
+    "valid": true,
+    "company": "It",
+    "amount_str": "$2 m",
+    "website": "https://app.saturn.credit",
+    "linkedin_url": "https://linkedin.com/company/dedicated-it",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/juan-navarro-28a4a46",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://app.dealroom.co/news/feed/medtrip-secures-pre-seed-from-hasan-vc-to-build-ai-tools-for-cross-border-medical-care": {
+    "valid": true,
+    "company": "Medtrip",
+    "amount_str": "",
+    "website": "https://medtrip.global",
+    "linkedin_url": "https://linkedin.com/company/medtrip",
+    "founder_name": "founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://completeaitraining.com/news/medtrip-secures-pre-seed-funding-from-hasanvc-to-build-ai/": {
+    "valid": true,
+    "company": "Medtrip",
+    "amount_str": "",
+    "website": "https://medtrip.global",
+    "linkedin_url": "https://linkedin.com/company/medtrip",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-in/news/insight/skyroot-becomes-india-s-first-space-tech-unicorn/gm-GM378C10A7?gemSnapshotKey=GM378C10A7-snapshot-33&uxmode=ruby": {
+    "valid": false
+  },
+  "https://www.msn.com/en-sg/news/other/seed-stage-deals-drive-70-9-of-singapore-startup-funding-in-april/ar-AA22HL2g?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": false
+  },
+  "https://startupfortune.com/tag/coral-seed-funding-2026/": {
+    "valid": false
   }
 }
