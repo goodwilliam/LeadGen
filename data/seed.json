@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-05-10T16:45:13.072654Z",
-  "count": 19,
-  "enriched_count": 16,
+  "generated_at": "2026-05-10T20:40:43.461059Z",
+  "count": 18,
+  "enriched_count": 15,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Barocal raises $10 million to rethink how the world keeps cool - Startup Fortune",
+      "article_url": "https://startupfortune.com/barocal-raises-10-million-to-rethink-how-the-world-keeps-cool/",
+      "company": "Barocal",
+      "amount_str": "$10 m",
+      "pub_date": "2026-05-10T16:54:20Z",
+      "website": "https://barocal.com",
+      "linkedin_url": "https://linkedin.com/company/barocal",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "info@barocal.com",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Windward Bio Secures $165M for Clinical Trials in Asthma, COPD &amp; More - MedCity News",
@@ -61,20 +75,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "Allison Stern's Mother Ventures Launches $10M Debut Fund - FemWealth",
-      "article_url": "https://femwealth.substack.com/p/allison-sterns-mother-ventures-launches",
-      "company": "Allison Stern's Mother Ventures",
-      "amount_str": "$10M",
-      "pub_date": "2026-05-10T05:01:23Z",
-      "website": "https://beamstart.com",
-      "linkedin_url": "https://linkedin.com/company/beamstart",
-      "founder_name": "Picture of",
-      "founder_linkedin_url": "",
-      "contact_email": "contact@beamstart.com",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "Saudi Startup Gabster Raises $500K in Pre-Seed Funding Round - \u0625\u0646\u062a \u0639\u0631\u0628\u064a - entARABI",
       "article_url": "https://entarabi.com/en/2026/05/saudi-startup-gabster-raises-500k-in-pre-seed-funding-round/",
       "company": "Saudi Startup Gabster",
@@ -125,20 +125,6 @@
       "website": "https://medtrip.global",
       "linkedin_url": "https://linkedin.com/company/medtrip",
       "founder_name": "founder and",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Figtree Pharmacy Wins Big Funding, Plans 25 New Stores - Bharat Fast",
-      "article_url": "https://bharatfast.com/english/start-up/figtree-pharmacy-funding-news/32580/",
-      "company": "Figtree Pharmacy",
-      "amount_str": "",
-      "pub_date": "2026-05-09T22:33:30Z",
-      "website": "https://figtreepharmacy.com",
-      "linkedin_url": "https://linkedin.com/company/figtreepharmacy",
-      "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""

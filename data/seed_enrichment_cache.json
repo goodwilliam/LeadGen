@@ -59273,5 +59273,48 @@
   },
   "https://www.startupecosystem.ca/news/lime-files-for-ipo-amidst-expanding-revenue-and-continued-losses/": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://venturebeat.com/security/ai-tool-poisoning-exposes-a-major-flaw-in-enterprise-agent-security": {
+    "valid": false
+  },
+  "https://startupfortune.com/barocal-raises-10-million-to-rethink-how-the-world-keeps-cool/": {
+    "valid": true,
+    "company": "Barocal",
+    "amount_str": "$10 m",
+    "website": "https://barocal.com",
+    "linkedin_url": "https://linkedin.com/company/barocal",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@barocal.com",
+    "twitter_url": ""
+  },
+  "https://observerid.com/eternal-dedication-to-indonesian-volleyball/": {
+    "valid": false
+  },
+  "https://observerid.com/strategic-partnership-between-siloam-hospitals-mampang-and-agewell-to-enhance-healthcare-services-and-quality-of-life-for-the-elderly/": {
+    "valid": false
+  },
+  "https://www.munich-startup.de/en/120432/munich-startup-recap-19-26/": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/money/smallbusiness/centre-to-plan-more-seed-funds-incubation-centres-startup-india-head/ar-AA1JkJaQ?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": false
+  },
+  "https://pipelineroad.com/news/tag/seed-funding": {
+    "valid": false
+  },
+  "https://www.msn.com/en-us/money/technologyinvesting/gv-leads-15m-round-for-ai-startup-mother-tech/ar-AA22DrGR?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
+    "valid": false
   }
 }
