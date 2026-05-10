@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-05-10T02:08:56.157208Z",
-  "count": 14,
-  "enriched_count": 10,
+  "generated_at": "2026-05-10T06:31:06.000712Z",
+  "count": 16,
+  "enriched_count": 12,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Allison Stern's Mother Ventures Launches $10M Debut Fund - FemWealth",
+      "article_url": "https://femwealth.substack.com/p/allison-sterns-mother-ventures-launches",
+      "company": "Allison Stern's Mother Ventures",
+      "amount_str": "$10M",
+      "pub_date": "2026-05-10T05:01:23Z",
+      "website": "https://beamstart.com",
+      "linkedin_url": "https://linkedin.com/company/beamstart",
+      "founder_name": "Picture of",
+      "founder_linkedin_url": "",
+      "contact_email": "contact@beamstart.com",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Rialo Testnet Launches; Elastics and Saturn Secure Funding | Phemex News",
+      "article_url": "https://phemex.com/news/article/rialo-testnet-launches-elastics-and-saturn-secure-seed-funding-80287",
+      "company": "Rialo Testnet",
+      "amount_str": "",
+      "pub_date": "2026-05-10T00:39:45Z",
+      "website": "https://nodes.guru",
+      "linkedin_url": "https://linkedin.com/company/nodes-guru",
+      "founder_name": "",
+      "founder_linkedin_url": "",
+      "contact_email": "support@nodes.guru",
+      "twitter_url": "https://x.com/NodesGuru"
+    },
     {
       "source": "Google Alerts",
       "title": "\u70ed\u95e8\u4ea4\u4e92\u5408\u96c6 | Rialo Demo \u7248\u6d4b\u8bd5\u7f51\u5df2\u4e0a\u7ebf\uff1b Elastics \u65e9\u671f\u767d\u540d\u5355\u7533\u8bf7\uff08 5 \u6708 10 \u65e5\uff09",
@@ -27,6 +55,20 @@
       "website": "https://medtrip.global",
       "linkedin_url": "https://linkedin.com/company/medtrip",
       "founder_name": "founder and",
+      "founder_linkedin_url": "",
+      "contact_email": "",
+      "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "Figtree Pharmacy Wins Big Funding, Plans 25 New Stores - Bharat Fast",
+      "article_url": "https://bharatfast.com/english/start-up/figtree-pharmacy-funding-news/32580/",
+      "company": "Figtree Pharmacy",
+      "amount_str": "",
+      "pub_date": "2026-05-09T22:33:30Z",
+      "website": "https://figtreepharmacy.com",
+      "linkedin_url": "https://linkedin.com/company/figtreepharmacy",
+      "founder_name": "",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""
@@ -83,20 +125,6 @@
       "website": "https://duck.ai",
       "linkedin_url": "",
       "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "ParcelBio Secures $13M for Advanced mRNA Platform - N24",
-      "article_url": "https://n24.com.tr/en/health/parcelbio-secures-13m-for-advanced-mrna-platform-190",
-      "company": "ParcelBio",
-      "amount_str": "$13M",
-      "pub_date": "2026-05-09T02:51:07Z",
-      "website": "",
-      "linkedin_url": "https://linkedin.com/company/parcelbio",
-      "founder_name": "Leadership and Vision\n\nBoth",
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": ""

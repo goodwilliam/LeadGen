@@ -59006,5 +59006,86 @@
   },
   "https://startupfortune.com/tag/coral-seed-funding-2026/": {
     "valid": false
+  },
+  "https://startupvalley.news/uk/quantware-quantum-computing-quantum-processors/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://www.tiktok.com/@startupvalley",
+    "linkedin_url": "",
+    "founder_name": "CEO and",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.independent.ie/business/irish/enterprise-ireland-unveils-best-in-class-new-21m-accelerator-programme-for-startups/a1186262464.html": {
+    "valid": false
+  },
+  "https://observerid.com/80-of-areas-free-of-malaria-indonesia-on-track-to-achieve-elimination-target-by-2030/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://phemex.com/news/article/rialo-testnet-launches-elastics-and-saturn-secure-seed-funding-80287": {
+    "valid": true,
+    "company": "Rialo Testnet",
+    "amount_str": "",
+    "website": "https://nodes.guru",
+    "linkedin_url": "https://linkedin.com/company/nodes-guru",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "support@nodes.guru",
+    "twitter_url": "https://x.com/NodesGuru"
+  },
+  "https://x.com/search?src=video&q=MetaoraPro+crypto+exchange.fzz&lang=ar": {
+    "valid": false
+  },
+  "https://femwealth.substack.com/p/allison-sterns-mother-ventures-launches": {
+    "valid": true,
+    "company": "Allison Stern's Mother Ventures",
+    "amount_str": "$10M",
+    "website": "https://beamstart.com",
+    "linkedin_url": "https://linkedin.com/company/beamstart",
+    "founder_name": "Picture of",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@beamstart.com",
+    "twitter_url": ""
+  },
+  "https://en.wowtale.net/2026/05/09/234037/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wowtale.net",
+    "linkedin_url": "",
+    "founder_name": "For global investors and",
+    "founder_linkedin_url": "",
+    "contact_email": "editor@wowtale.net",
+    "twitter_url": "https://x.com/mushman1970"
+  },
+  "https://msmeafricaonline.com/call-for-applications-global-entrepreneurship-network-gen-internship-program-2026-fully-remote-global-opportunity/": {
+    "valid": false
+  },
+  "https://bharatfast.com/english/start-up/figtree-pharmacy-funding-news/32580/": {
+    "valid": true,
+    "company": "Figtree Pharmacy",
+    "amount_str": "",
+    "website": "https://figtreepharmacy.com",
+    "linkedin_url": "https://linkedin.com/company/figtreepharmacy",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startup-this-week-may-04-may-09-11815849": {
+    "valid": false
+  },
+  "https://www2.fundsforngos.org/innovation/applications-open-for-ready-spark-charge-hackathon-philippines/": {
+    "valid": false
   }
 }
