@@ -59580,5 +59580,295 @@
   },
   "https://techfundingnews.com/tfn-native-teams-webinar-human-internet/": {
     "valid": false
+  },
+  "https://tech.eu/2026/05/11/algorithmiq-moves-global-hq-to-milan-and-raises-eur18m-in-italys-largest-quantum-vc-round/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "founder exits",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/05/11/grand-games-raises-70m-series-b-to-scale-hybrid-casual-mobile-games/": {
+    "valid": true,
+    "company": "Grand Games",
+    "amount_str": "$70M",
+    "website": "https://grand.gs",
+    "linkedin_url": "https://linkedin.com/company/grandgames",
+    "founder_name": "founder exits",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/05/11/april-2026s-top-10-european-tech-deals-you-need-to-know-about/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/05/11/the-week-ahead-in-ai-ai-layoffs-perplexity-launches-mac-ai-agent-jensen-huang-speaks-to-smu-grads-plus-funding-upcoming-earnings-ai-week-new-york/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/05/11/indian-construction-robotics-startup-flo-mobility-raises-2-5m-in-funding/": {
+    "valid": true,
+    "company": "Construction Robotics Startup Flo Mobility",
+    "amount_str": "$2.5M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://markets.businessinsider.com/news/currencies/lyrie-completes-2-million-preseed-round-to-build-the-security-layer-for-the-ai-agent-era-1036137223": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://htlbid.com/v3/marketsinsider.com/htlbid.css",
+    "linkedin_url": "",
+    "founder_name": "said Guy Sheetrit",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://finbold.com/lyrie-completes-2-million-preseed-round-to-build-the-security-layer-for-the-ai-agent-era/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "said Guy Sheetrit",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/05/11/venmos-biggest-makeover-in-years-comes-at-a-very-interesting-time/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/05/11/report-chinese-humanoid-robot-startup-vbot-raises-usd-73m-in-pre-a-funding/": {
+    "valid": true,
+    "company": "Humanoid Robot Startup Vbot",
+    "amount_str": "$73M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/05/11/pit-launches-with-16m-led-by-andreessen-horowitz-to-bring-ai-native-software-to-enterprise-operations/": {
+    "valid": true,
+    "company": "Pit",
+    "amount_str": "$16M",
+    "website": "https://pitinternationalairport.com",
+    "linkedin_url": "https://linkedin.com/company/armypit",
+    "founder_name": "the Pit",
+    "founder_linkedin_url": "https://linkedin.com/in/kaitlin-lee-garza",
+    "contact_email": "info@flypittsburgh.com",
+    "twitter_url": ""
+  },
+  "https://www.bitget.com/amp/news/detail/12560605406702": {
+    "valid": false
+  },
+  "https://techfundingnews.com/algorithmiq-18m-milan-hq-quantum-software-europe/": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/piaspace-raises-krw-3-5b-in-series-a": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/enter-raises-over-100m-at-1-2b-valuation": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/basata-raises-21-million-series-a": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/05/voltagrid-announces-1-billion-strategic-equity-investment-from-blackstone-and-halliburton.html": {
+    "valid": true,
+    "company": "VoltaGrid",
+    "amount_str": "$1 B",
+    "website": "https://voltagrid.com",
+    "linkedin_url": "https://linkedin.com/company/voltagrid",
+    "founder_name": "Nathan Ough",
+    "founder_linkedin_url": "https://linkedin.com/in/nathanough",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/05/ripple-raises-200m-debt-facility.html": {
+    "valid": false
+  },
+  "https://www.indianstartuptimes.com/investment/rebalance-leads-350k-pre-seed-round-for-women-focused-travel-brand-nori/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://stats.wp.com/e-202620.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.finsmes.com/2026/05/driive-closes-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://finance.yahoo.com/sectors/technology/articles/lyrie-completes-2-million-preseed-120500867.html": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https:&#x2F;&#x2F;www.yahoo.com&#x2F;",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://finance.yahoo.com/sectors/technology/articles/driive-raises-pre-seed-round-110200820.html": {
+    "valid": true,
+    "company": "Driive",
+    "amount_str": "",
+    "website": "https://www.godriive.com",
+    "linkedin_url": "https://linkedin.com/company/getdriive",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://share.prnewswire.com/toolkit/5a27accf-7f6b-4363-8c30-ff6c43a5298b?embedded=true&embedHeight=600&sliderEnabled=&showArrows=&iconsColor=%23000000&postBgColor=%23ffffff&postTextColor=%23000000&font=font-sans&textSize=text-base&buttonColor=%23000000&buttonTextColor=%23ffffff&previewCardCornerRadius=rounded-xl&shadow=shadow&cornerRadius=rounded-2xl&buttonUsePlatformColor=true": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "and CompanyCam",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.morningstar.com/news/pr-newswire/20260511la54373/driive-raises-pre-seed-round-to-build-the-ai-scheduling-platform-for-home-service-trades": {
+    "valid": true,
+    "company": "Driive",
+    "amount_str": "",
+    "website": "https://www.godriive.com",
+    "linkedin_url": "https://linkedin.com/company/getdriive",
+    "founder_name": "and CompanyCam",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/driive-raises-pre-seed-round-to-build-the-ai-scheduling-platform-for-home-service-trades-302766196.html": {
+    "valid": true,
+    "company": "Driive",
+    "amount_str": "",
+    "website": "https://getdriive.com",
+    "linkedin_url": "https://linkedin.com/company/getdriive",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.pocketgamer.biz/grand-games-raises-70m-series-b-to-scale-hybrid-casual-gaming/": {
+    "valid": true,
+    "company": "Grand Games",
+    "amount_str": "$70m",
+    "website": "https://grandgamesinc.com",
+    "linkedin_url": "https://linkedin.com/company/grandgames",
+    "founder_name": "and co",
+    "founder_linkedin_url": "",
+    "contact_email": "support@grandgamesinc.com",
+    "twitter_url": ""
+  },
+  "https://www.citybiz.co/article/844400/m2-foundry-raises-pre-seed-funding-from-new-north-ventures/": {
+    "valid": true,
+    "company": "M2 Foundry",
+    "amount_str": "",
+    "website": "https://www.m2foundry.com",
+    "linkedin_url": "https://linkedin.com/company/m2-foundry",
+    "founder_name": "based EnFi",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://quantumzeitgeist.com/qubits-useful-qunasys-hundreds-thousands/": {
+    "valid": false
+  },
+  "https://bloompakistan.com/pakistan-launches-major-ai-talent-drive-through-naai/": {
+    "valid": false
+  },
+  "https://www.bizjournals.com/bizwomen/news/latest-news/2026/05/bwi-rebokeh-startup-vision-blindness.html": {
+    "valid": true,
+    "company": "App maker ReBokeh",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/honeywell-backed-quantinuum-files-for-us-ipo-at-up-to-20b-valuation/": {
+    "valid": false
+  },
+  "https://www.techbusinessnews.com.au/news/goperfect-positions-itself-at-the-centre-of-ai-driven-outreach-as-businesses-accelerate-automation-shift/": {
+    "valid": false
+  },
+  "https://msmeafricaonline.com/call-for-applications-afcfta-startup-acceleration-program-2026-for-african-startups/": {
+    "valid": false
+  },
+  "https://fortune.com/2026/05/11/a16z-apple-alums-20m-ai-real-businesses/": {
+    "valid": true,
+    "company": "A16z and Apple alums",
+    "amount_str": "$20M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://msmeafricaonline.com/call-for-applications-yonbox-innovation-hub-2026-future-founders-program-for-business-owners-and-startups/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/05/11/codewords-raises-9m-to-deploy-proactive-ai-business-agent-cody-across-european-smes/": {
+    "valid": true,
+    "company": "CodeWords",
+    "amount_str": "$9M",
+    "website": "https://dkmgames.com",
+    "linkedin_url": "https://linkedin.com/company/codewordsai",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://streamlinefeed.co.ke/news/forbes-opens-nominations-for-2026-asia-100-to-watch-startup-list": {
+    "valid": false
+  },
+  "https://yourstory.com/2026/05/startup-news-and-updates-daily-roundup-may-11-2026": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
