@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-05-10T20:40:43.461059Z",
-  "count": 18,
-  "enriched_count": 15,
+  "generated_at": "2026-05-11T02:28:13.125405Z",
+  "count": 15,
+  "enriched_count": 12,
   "articles": [
+    {
+      "source": "Google Alerts",
+      "title": "Aqood raises $1M in seed funding | IAmsterdam startup map",
+      "article_url": "https://startupmap.iamsterdam.com/news/feed/aqood-raises-1m-in-seed-funding",
+      "company": "Contracts",
+      "amount_str": "$1 m",
+      "pub_date": "2026-05-10T20:23:11Z",
+      "website": "https://eva.virginia.gov",
+      "linkedin_url": "https://linkedin.com/company/evaconnect",
+      "founder_name": "Khaled Al",
+      "founder_linkedin_url": "https://linkedin.com/in/khaled-al-ali-a22418b3",
+      "contact_email": "",
+      "twitter_url": ""
+    },
     {
       "source": "Google Alerts",
       "title": "Barocal raises $10 million to rethink how the world keeps cool - Startup Fortune",
@@ -16,6 +30,20 @@
       "founder_linkedin_url": "",
       "contact_email": "info@barocal.com",
       "twitter_url": ""
+    },
+    {
+      "source": "Google Alerts",
+      "title": "AI Library raises pre-seed funding round https://t.co/j3iFORzC08",
+      "article_url": "https://x.com/IndianVCA/status/2053399739320730003",
+      "company": "Library",
+      "amount_str": "",
+      "pub_date": "2026-05-10T16:46:08Z",
+      "website": "https://www.loc.gov",
+      "linkedin_url": "https://linkedin.com/company/library-of-congress",
+      "founder_name": "",
+      "founder_linkedin_url": "https://linkedin.com/in/stacy-lieberman",
+      "contact_email": "",
+      "twitter_url": "https://x.com/librarycongress"
     },
     {
       "source": "Google Alerts",
@@ -103,34 +131,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "\u70ed\u95e8\u4ea4\u4e92\u5408\u96c6 | Rialo Demo \u7248\u6d4b\u8bd5\u7f51\u5df2\u4e0a\u7ebf\uff1b Elastics \u65e9\u671f\u767d\u540d\u5355\u7533\u8bf7\uff08 5 \u6708 10 \u65e5\uff09",
-      "article_url": "http://www.odaily.news/en/post/5210687",
-      "company": "It",
-      "amount_str": "$2 m",
-      "pub_date": "2026-05-10T00:18:09Z",
-      "website": "https://app.saturn.credit",
-      "linkedin_url": "https://linkedin.com/company/dedicated-it",
-      "founder_name": "",
-      "founder_linkedin_url": "https://linkedin.com/in/juan-navarro-28a4a46",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Medtrip secures pre-seed from Hasan.VC to build AI tools for cross-border medical care",
-      "article_url": "https://app.dealroom.co/news/feed/medtrip-secures-pre-seed-from-hasan-vc-to-build-ai-tools-for-cross-border-medical-care",
-      "company": "Medtrip",
-      "amount_str": "",
-      "pub_date": "2026-05-09T23:59:08Z",
-      "website": "https://medtrip.global",
-      "linkedin_url": "https://linkedin.com/company/medtrip",
-      "founder_name": "founder and",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "Turkish mobile gaming startup Mindtail raises $2 million in pre-seed funding",
       "article_url": "https://thedisruptormag.com/turkish-mobile-gaming-startup-mindtail-raises-2-million-in-pre-seed-funding/",
       "company": "Turkish mobile gaming startup Mindtail",
@@ -142,48 +142,6 @@
       "founder_linkedin_url": "",
       "contact_email": "",
       "twitter_url": "https://x.com/usatoday"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Tessera Labs Secures $60M in Funding Led by Andreessen Horowitz to Transform ERP ...",
-      "article_url": "https://theaiinsider.tech/2026/05/09/tessera-labs-secures-60m-in-funding-led-by-andreessen-horowitz-to-transform-erp-modernization/",
-      "company": "Tessera Labs",
-      "amount_str": "$60M",
-      "pub_date": "2026-05-09T20:40:56Z",
-      "website": "https://tessera-labs.com",
-      "linkedin_url": "https://linkedin.com/company/tesseralabsai",
-      "founder_name": "said Kabir Nagrecha",
-      "founder_linkedin_url": "",
-      "contact_email": "founders@tessera-labs.com",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Kalshi Raises $1 Billion in Series F, Doubling Valuation to $22 Billion - \u0625\u0646\u062a \u0639\u0631\u0628\u064a | entARABI",
-      "article_url": "https://entarabi.com/en/2026/05/kalshi-raises-1-billion-in-series-f-doubling-valuation-to-22-billion/",
-      "company": "Kalshi",
-      "amount_str": "$1 b",
-      "pub_date": "2026-05-09T12:45:21Z",
-      "website": "https://kalshi.com",
-      "linkedin_url": "https://linkedin.com/company/kalshi",
-      "founder_name": "",
-      "founder_linkedin_url": "https://linkedin.com/in/mansourtarek",
-      "contact_email": "support@kalshi.com",
-      "twitter_url": "https://x.com/Kalshi"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Scarlet raises $4M to take manufactured red blood cells into clinic | BioWorld",
-      "article_url": "https://www.bioworld.com/articles/730981-scarlet-raises-4m-to-take-manufactured-red-blood-cells-into-clinic",
-      "company": "Scarlet",
-      "amount_str": "$4M",
-      "pub_date": "2026-05-09T01:19:49Z",
-      "website": "https://scarletrecords.com",
-      "linkedin_url": "https://linkedin.com/company/scarlet-comply",
-      "founder_name": "",
-      "founder_linkedin_url": "https://linkedin.com/in/scarlet-fu-6740884",
-      "contact_email": "",
-      "twitter_url": ""
     },
     {
       "source": "SiliconAngle",

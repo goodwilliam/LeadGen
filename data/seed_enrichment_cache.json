@@ -59316,5 +59316,82 @@
   },
   "https://www.msn.com/en-us/money/technologyinvesting/gv-leads-15m-round-for-ai-startup-mother-tech/ar-AA22DrGR?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1": {
     "valid": false
+  },
+  "https://siliconangle.com/2026/05/10/report-ai-chipmaker-cerebras-increase-ipo-price-target-amid-surging-investor-demand/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/aditya-humad-steps-down-from-kic-ventures-to-focus-on-investment-strategy-and-capital-formation-at-kic-302767724.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/vitl-investors-have-opportunity-to-lead-vital-farms-inc-securities-fraud-lawsuit-filed-by-the-rosen-law-firm-302767373.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/upst-investors-have-opportunity-to-lead-upstart-holdings-inc-securities-fraud-lawsuit-302767371.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/stla-investors-have-opportunity-to-lead-stellantis-nv-securities-fraud-lawsuit-302767369.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/aldx-investors-have-opportunity-to-lead-aldeyra-therapeutics-inc-securities-fraud-lawsuit-filed-by-the-rosen-law-firm-302767364.html": {
+    "valid": false
+  },
+  "https://retailtechinnovationhub.com/home/2026/5/10/marc-lores-wonder-preps-2026-ipo-last-weeks-most-read-rtih-retail-technology-articles": {
+    "valid": false
+  },
+  "https://thesun.ng/nigerian-startups-seal-4m-deals-despite-global-funding-crunch/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://sbr.com.sg/information-technology/exclusive/ortcloud-plans-ai-infrastructure-rollout-after-22m-funding-round": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/05/enter-raises-100m-in-series-b-at-approx-1-2-billion.html": {
+    "valid": false
+  },
+  "https://x.com/IndianVCA/status/2053399739320730003": {
+    "valid": true,
+    "company": "Library",
+    "amount_str": "",
+    "website": "https://www.loc.gov",
+    "linkedin_url": "https://linkedin.com/company/library-of-congress",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/stacy-lieberman",
+    "contact_email": "",
+    "twitter_url": "https://x.com/librarycongress"
+  },
+  "https://www.thehindubusinessline.com/specials/emerging-entrepreneurs/cricketers-keeping-wickets-for-startup-founders/article70963326.ece": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://bl.thgim.com",
+    "linkedin_url": "https://linkedin.com/company/business-line-aka-the-hindu-business-line",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/businessline"
+  },
+  "https://startupmap.iamsterdam.com/news/feed/aqood-raises-1m-in-seed-funding": {
+    "valid": true,
+    "company": "Contracts",
+    "amount_str": "$1 m",
+    "website": "https://eva.virginia.gov",
+    "linkedin_url": "https://linkedin.com/company/evaconnect",
+    "founder_name": "Khaled Al",
+    "founder_linkedin_url": "https://linkedin.com/in/khaled-al-ali-a22418b3",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.pressreader.com/india/businessline-delhi-9wvw/20260511/281891599900313": {
+    "valid": false
+  },
+  "https://opportunitiesforeveryone.net/call-for-applications-carnegie-mellon-university-africa-2026-27-business-incubation-program-for-startups-50000-usd-in-seed-funding-awarded/": {
+    "valid": false
   }
 }
