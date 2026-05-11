@@ -60048,5 +60048,193 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://betakit.com/ontario-government-invests-5-million-into-life-sciences-and-healthtech-startups/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/05/11/openai-launches-professional-services-business-4b-investment/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/05/11/ai-choice-power-open-ecosystems-rhsummit/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/vitl-investors-should-contact-robbins-llp-before-may-26-2026-for-information-about-recovering-their-losses-against-vital-farms-inc-302768594.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/gemi-stockholders-should-contact-robbins-llp-prior-to-may-18-2026-for-information-about-recovering-their-losses-in-connection-with-the-companys-ipo-302768544.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/stellus-capital-investment-corporation-reports-results-for-its-first-fiscal-quarter-ended-march-31-2026-302768689.html": {
+    "valid": false
+  },
+  "https://www.morningstar.com/news/pr-newswire/20260511ny55732/boundary-labs-announces-2m-pre-seed-led-by-galaxy-ventures-to-launch-verifiable-institutional-stablecoin-usbd": {
+    "valid": true,
+    "company": "Boundary Labs",
+    "amount_str": "$2M",
+    "website": "https://boundarylabs.com",
+    "linkedin_url": "https://linkedin.com/company/boundary-stablecoins",
+    "founder_name": "said Matthew Mezger",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.cryptopolitan.com/boundary-labs-raises-2-million-for-usbd/": {
+    "valid": true,
+    "company": "Boundary Labs",
+    "amount_str": "$2 m",
+    "website": "https://boundarylabs.com",
+    "linkedin_url": "https://linkedin.com/company/boundary-stablecoins",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.mexc.com/news/1082966": {
+    "valid": false
+  },
+  "https://bitcoinworld.co.in/boundary-labs-institutional-stablecoin-usbd/": {
+    "valid": false
+  },
+  "https://coinness.com/en/news/1156937": {
+    "valid": true,
+    "company": "The company recently",
+    "amount_str": "$2 m",
+    "website": "https://quizlet.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/procurepro-secures-11-million-in-funding": {
+    "valid": false
+  },
+  "https://longevity.technology/news/scarlet-raises-4m-as-lab-grown-blood-matches-donor-cell-survival/": {
+    "valid": true,
+    "company": "Scarlet",
+    "amount_str": "$4m",
+    "website": "https://scarletrecords.com",
+    "linkedin_url": "https://linkedin.com/company/scarlet-comply",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/scarlet-fu-6740884",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.kucoin.com/news/flash/stablecoin-infrastructure-startup-boundary-labs-completes-2m-pre-seed-round-led-by-galaxy-ventures": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://assets.staticimg.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.msn.com/en-us/money/markets/boundary-labs-raises-2-million-to-build-verifiable-stablecoin-usbd-for-institutional-market/ar-AA22W1PL?ocid=finance-verthp-feeds": {
+    "valid": true,
+    "company": "Boundary Labs",
+    "amount_str": "$2 m",
+    "website": "https://boundarylabs.com",
+    "linkedin_url": "https://linkedin.com/company/boundary-stablecoins",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/deepmind-spinout-isomorphic-labs-eyes-over-2b-funding-from-thrive-and-alphabet/": {
+    "valid": false
+  },
+  "https://x.com/galaxyhq/status/2053888351258726510": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://abs.twimg.com/responsive-web/client-web/Chirp-Regular.80fda27a.woff2",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.trysignalbase.com/news/funding/nori-raises-350k-pre-seed": {
+    "valid": true,
+    "company": "Nori",
+    "amount_str": "$350K",
+    "website": "https://nori.com",
+    "linkedin_url": "https://linkedin.com/company/noricarbonremoval",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@nori.co",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/gabster-raises-500k-pre-seed": {
+    "valid": false
+  },
+  "https://www.fidelity.com/news/article/default/202605111245PR_NEWS_USPR_____NY55732": {
+    "valid": true,
+    "company": "Boundary Labs",
+    "amount_str": "$2M",
+    "website": "https://boundarylabs.com",
+    "linkedin_url": "https://linkedin.com/company/boundary-stablecoins",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.binance.com/it/square/post/322054628507890": {
+    "valid": false
+  },
+  "https://www.tmcnet.com/usubmit/-driive-raises-pre-seed-round-build-ai-scheduling-/2026/05/11/10379988.htm": {
+    "valid": true,
+    "company": "Driive",
+    "amount_str": "",
+    "website": "https://www.godriive.com",
+    "linkedin_url": "https://linkedin.com/company/getdriive",
+    "founder_name": "and CompanyCam",
+    "founder_linkedin_url": "",
+    "contact_email": "example@mysite.com",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://cryptonews.net/news/finance/32843950/": {
+    "valid": false
+  },
+  "https://www.castanet.net/news/Campus-Life/613731/Okanagan-College-welcomes-alum-Ashley-Ramsay-as-Director-of-Entrepreneurship": {
+    "valid": false
+  },
+  "https://techstory.in/karnataka-tech-startups-raise-868-million-in-q1-2026-amid-bigger-bets-and-fewer-deals/": {
+    "valid": true,
+    "company": "Porter also",
+    "amount_str": "$47 m",
+    "website": "https://www.timeout.com",
+    "linkedin_url": "",
+    "founder_name": "Campbell Wilson",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/TimeOutTravel"
+  },
+  "https://kaaj.ai/news-press": {
+    "valid": false
+  },
+  "https://www.kucoin.com/news/flash/stablecoin-firm-boundary-to-launch-verifiable-institutional-stablecoin-usbd": {
+    "valid": true,
+    "company": "Stablecoin Firm",
+    "amount_str": "",
+    "website": "https://www.coindesk.com",
+    "linkedin_url": "https://linkedin.com/company/coindesk",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@coindesk.com",
+    "twitter_url": "https://x.com/coindesk"
+  },
+  "https://www.msn.com/en-us/technology/artificial-intelligence/ai-defense-startup-breaker-raises-6-mln-in-seed-funding/ar-AA1WtZrQ?ocid=BingNewsVerp": {
+    "valid": true,
+    "company": "AI defense startup Breaker",
+    "amount_str": "$6 m",
+    "website": "https://www.msn.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
   }
 }
