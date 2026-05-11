@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-11T02:28:13.125405Z",
-  "count": 15,
-  "enriched_count": 12,
+  "generated_at": "2026-05-11T07:00:10.007340Z",
+  "count": 13,
+  "enriched_count": 11,
   "articles": [
     {
       "source": "Google Alerts",
@@ -75,20 +75,6 @@
     },
     {
       "source": "Google Alerts",
-      "title": "AI Platform Pit Raises $16M Led by a16z | Phemex News",
-      "article_url": "https://phemex.com/news/article/ai-platform-pit-secures-16-million-in-funding-led-by-a16z-80358",
-      "company": "Pit",
-      "amount_str": "$16 m",
-      "pub_date": "2026-05-10T09:27:53Z",
-      "website": "https://duck.ai",
-      "linkedin_url": "",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "",
-      "twitter_url": ""
-    },
-    {
-      "source": "Google Alerts",
       "title": "Seeds|University Team Develops Bionic Flapping-Wing Robots, Raises Tens of Millions of Yuan",
       "article_url": "https://autonews.gasgoo.com/articles/news/seedsuniversity-team-develops-bionic-flapping-wing-robots-raises-tens-of-millions-of-yuan-2053356641771212800",
       "company": "Seeds|University Team Develops Bionic Flapping-Wing Robots",
@@ -114,20 +100,6 @@
       "founder_linkedin_url": "",
       "contact_email": "info@entarabi.com",
       "twitter_url": "https://x.com/entarabicom"
-    },
-    {
-      "source": "Google Alerts",
-      "title": "Rialo Testnet Launches; Elastics and Saturn Secure Funding | Phemex News",
-      "article_url": "https://phemex.com/news/article/rialo-testnet-launches-elastics-and-saturn-secure-seed-funding-80287",
-      "company": "Rialo Testnet",
-      "amount_str": "",
-      "pub_date": "2026-05-10T00:39:45Z",
-      "website": "https://nodes.guru",
-      "linkedin_url": "https://linkedin.com/company/nodes-guru",
-      "founder_name": "",
-      "founder_linkedin_url": "",
-      "contact_email": "support@nodes.guru",
-      "twitter_url": "https://x.com/NodesGuru"
     },
     {
       "source": "Google Alerts",

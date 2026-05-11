@@ -59393,5 +59393,34 @@
   },
   "https://opportunitiesforeveryone.net/call-for-applications-carnegie-mellon-university-africa-2026-27-business-incubation-program-for-startups-50000-usd-in-seed-funding-awarded/": {
     "valid": false
+  },
+  "https://tech.eu/2026/05/11/nanostruct-raises-eur26m-seed-to-bring-same-day-pathogen-detection-to-the-food-industry/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-sportradar-group-ag-investors-to-inquire-about-securities-class-action-investigation--srad-302767758.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-barclays-plc-investors-to-inquire-about-securities-class-action-investigation--bcs-302767755.html": {
+    "valid": false
+  },
+  "https://www.startupdaily.net/topic/funding/procurepro-raises-11m-qic-ventures-bouygues-cap-table/": {
+    "valid": false
+  },
+  "https://fintechnews.sg/131334/vietnam/sobanhang-funding-pre-series-a/": {
+    "valid": false
+  },
+  "https://www.youtube.com/watch?v=FVo_qnaRnmc": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://i.ytimg.com/generate_204",
+    "linkedin_url": "",
+    "founder_name": "Business Growth",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.startupecosystem.ca/news/quebecs-digital-health-record-strategy-faces-challenges-and-uncertainty/": {
+    "valid": false
   }
 }
