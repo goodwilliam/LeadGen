@@ -59422,5 +59422,163 @@
   },
   "https://www.startupecosystem.ca/news/quebecs-digital-health-record-strategy-faces-challenges-and-uncertainty/": {
     "valid": false
+  },
+  "https://tech.eu/2026/05/11/eyeo-raises-eur40m-to-improve-imaging-and-sensor-performance/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/05/11/european-tech-weekly-recap-eur14b-in-deals-and-aprils-highlights/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/05/11/imaging-tech-startup-eyeo-raises-e40m-try-show-world-different-light/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/resideo-announces-filing-of-form-10-registration-statement-for-planned-spin-off-of-adi-global-distribution-302767965.html": {
+    "valid": false
+  },
+  "https://technotrenz.com/news/subquadratic-raises-29m/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/05/11/avendar-closes-e2-2m-funding-round-to-deploy-sovereign-ai-platform-for-crime-and-fraud-investigations-across-europe/": {
+    "valid": false
+  },
+  "https://www.startupdaily.net/topic/business/humankind-acquires-the-mintable-blackbird-portfolio-exit/": {
+    "valid": false
+  },
+  "https://launchbaseafrica.com/2026/05/11/africas-payment-plumbing-gets-a-2-million-boost-from-frances-dfi/": {
+    "valid": true,
+    "company": "Africa's Payment Plumbing",
+    "amount_str": "$2 M",
+    "website": "https://launchbaseafrica.gumroad.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://en.wowtale.net/2026/05/11/234041/": {
+    "valid": true,
+    "company": "Spark BioPharma",
+    "amount_str": "$22.8M",
+    "website": "http://sparkbiopharma.com",
+    "linkedin_url": "https://linkedin.com/company/spark-biopharma",
+    "founder_name": "said Seungbeom Park",
+    "founder_linkedin_url": "",
+    "contact_email": "sparkbio@sparkbio.co.kr",
+    "twitter_url": ""
+  },
+  "https://www.panewslab.com/en/articles/019e14fe-a658-76bd-b923-f0281e6de922": {
+    "valid": false
+  },
+  "https://www.varindia.com/news/lic-housing-finance-patches-authentication-flaw-that-exposed-pan-dob-of-more-than-500-000-customers": {
+    "valid": false
+  },
+  "https://siliconcanals.com/sc-a-contaminated-food-batches-reach-consumers-because-lab-results-take-days-a-german-sensor-startup-just-convinced-htgf-and-bayern-kapital-that-hours-is-the-new-compliance-baseline/": {
+    "valid": false
+  },
+  "https://indianstartupnews.com/funding/indian-startups-raised-over-180-million-from-may-04-to-may-09-2026-skyroot-aerospace-tops-the-list-11821762": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.ampproject.org/v0.js",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/top-european-agtech-startups-investor-picks-2026/": {
+    "valid": false
+  },
+  "https://www.reddit.com/r/AI_Agents/comments/1t9y6xo/looking_for_seed_funding/": {
+    "valid": false
+  },
+  "https://www.femina.in/celebs/indian/from-muse-to-mogul-meet-indias-new-era-of-celebrity-entrepreneurship-290079.html": {
+    "valid": false
+  },
+  "https://technotrenz.com/news/gabster-secures-500k/": {
+    "valid": false
+  },
+  "https://www.instagram.com/p/DYMYg-Qkg--/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.portstrategy.com/environment-and-sustainability/hydrogen-electrolyser-pilot-targets-scale-up/1509170.article": {
+    "valid": false
+  },
+  "https://mediabrief.com/upgrad-to-acquire-unacademy-in-all-stock-deal/": {
+    "valid": false
+  },
+  "https://www.prostir.ua/?jobs=vakansiya-eu4innovation-east-country-coordinator-for-ukraine-mw": {
+    "valid": false
+  },
+  "https://www.siliconrepublic.com/start-ups/europes-17bn-tech-quarter-ai-deep-tech-win-as-fintech-slides": {
+    "valid": true,
+    "company": "AI, deep tech",
+    "amount_str": "$17b",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "Josh Payne",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.insidermedia.com/news/scotland/administrators-appointed-to-holding-company-for-scottish-pharmacy-chain": {
+    "valid": false
+  },
+  "https://techfundingnews.com/re-fresh-global-urte-zahn-women-in-deeptech-venture-capital/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/05/sedivention-raises-e2-9m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.bizcommunity.com/article/happy-pay-and-ozow-partner-to-expand-zero-deposit-bnpl-across-local-merchants-403239a": {
+    "valid": false
+  },
+  "https://techfundingnews.com/eyeo-40m-series-a-image-sensors-innovation-industries/": {
+    "valid": false
+  },
+  "https://evertiq.com/news/2026-05-11-indian-startup-bigendian-semiconductors-raises-6-million": {
+    "valid": true,
+    "company": "BigEndian Semiconductors",
+    "amount_str": "$6 m",
+    "website": "https://bigendiansemi.com",
+    "linkedin_url": "https://linkedin.com/company/bigendiansemi",
+    "founder_name": "Sunil Kumar",
+    "founder_linkedin_url": "https://linkedin.com/in/saikorian",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://theaiinsider.tech/2026/05/11/nvidia-commits-over-40b-to-ai-equity-deals-in-2026-led-by-30b-openai-investment/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/nanostruct-2-6m-seed-htgf-auxxo-rapid-pathogen-detection-food-safety/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/05/11/district-raises-14-7m-in-seed-funding-to-unlock-the-next-generation-of-online-commerce/": {
+    "valid": true,
+    "company": "District",
+    "amount_str": "$14.7M",
+    "website": "https://bcad.org",
+    "linkedin_url": "https://linkedin.com/company/bexar-appraisal-district",
+    "founder_name": "former Depop",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/i"
+  },
+  "https://www.techjuice.pk/naai-launches-major-funding-talent-drive-to-accelerate-ai-push-in-pakistan/": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/05/wurzburg-based-nanostruct-raises-e2-6-million-to-detect-harmful-bacteria-in-food-within-hours/": {
+    "valid": false
+  },
+  "https://techfundingnews.com/tfn-native-teams-webinar-human-internet/": {
+    "valid": false
   }
 }
