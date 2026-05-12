@@ -60236,5 +60236,231 @@
     "founder_linkedin_url": "",
     "contact_email": "",
     "twitter_url": ""
+  },
+  "https://venturebeat.com/technology/thinking-machines-shows-off-preview-of-near-realtime-ai-voice-and-video-conversation-with-new-interaction-models": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://dn0qt3r0xannq.cloudfront.net/venturebeat-ZUVdMvorYO/venturebeat-longform/prebid-load.js",
+    "linkedin_url": "",
+    "founder_name": "John Schulman",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/05/11/german-defense-tech-startup-helsing-talks-1-2b-funding-round/": {
+    "valid": false
+  },
+  "https://siliconangle.com/2026/05/11/cowboy-space-raises-275m-build-orbital-ai-data-centers/": {
+    "valid": true,
+    "company": "Cowboy Space",
+    "amount_str": "$275M",
+    "website": "https://finance.yahoo.com",
+    "linkedin_url": "https://linkedin.com/company/yahoo-finance",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/bprafulkumar",
+    "contact_email": "",
+    "twitter_url": "https://x.com/YahooFinance"
+  },
+  "https://siliconangle.com/2026/05/11/50m-funding-frame-security-takes-aim-ai-powered-social-engineering/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-flow-cryptocurrency-investors-to-inquire-about-securities-class-action-investigation-302768754.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-trubridge-inc-investors-to-inquire-about-securities-class-action-investigation--tbrg-302768771.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/lu-deadline-lu-investors-have-opportunity-to-lead-lufax-holding-ltd-securities-fraud-lawsuit-first-filed-by-the-firm-302768768.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/privacy-alert-starr-insurance-inc-under-investigation-for-data-breach-of-records-302767700.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/privacy-alert-community-health-systems-inc-under-investigation-for-data-breach-of-patient-records-302767699.html": {
+    "valid": false
+  },
+  "https://www.backscoop.com/newsletter-posts/1m-for-amplicity-to-help-you-unlock-value-from-your-battery-assets": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://cdn.prod.website-files.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://strictlyvc.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/holmes-1-1m-pre-seed-syndicate-one-aikido-autonomous-qa/": {
+    "valid": false
+  },
+  "https://medial.app/news/procurepro-secures-dollar11-million-in-funding-or-the-saas-news-393ba5990b97d": {
+    "valid": true,
+    "company": "SuperKalam",
+    "amount_str": "$1.95 m",
+    "website": "https://superkalam.com",
+    "linkedin_url": "https://linkedin.com/company/superkalam",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "hello@superkalam.com",
+    "twitter_url": "https://x.com/superkalam_"
+  },
+  "https://www.startuphub.ai/ai-news/ai-news/2026/seed-drought-17b-ai-week-may-2026": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "stage bets made on",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.indianretailer.com/news/funding-alert-lavella-bags-seed-funding-expand-detergent-biz": {
+    "valid": true,
+    "company": "[Funding Alert] Lavella",
+    "amount_str": "",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "Eden Gebreloel",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.axios.com/pro/all-deals/2026/05/11/pro-rata-premium-first-look": {
+    "valid": true,
+    "company": "Canton's developer",
+    "amount_str": "$300M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://novobrief.com/the-top-five-ai-startups-in-barcelona-to-watch-through-2026/11804/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "and founded by",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://crypto-economy.com/galaxy-ventures-leads-2m-pre-seed-round-for-boundary-labs-to-launch-institutional-stablecoin-usbd/": {
+    "valid": false
+  },
+  "https://www.thebesttimes.com/financial/boundary-labs-announces-2m-pre-seed-led-by-galaxy-ventures-to-launch-verifiable-institutional-stablecoin/article_15d5e0e3-a638-5ec7-b87d-12173d9dbdbd.html": {
+    "valid": true,
+    "company": "Boundary Labs",
+    "amount_str": "$2M",
+    "website": "https://boundarylabs.com",
+    "linkedin_url": "https://linkedin.com/company/boundary-stablecoins",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://intellectia.ai/news/crypto/boundary-labs-to-launch-onchain-verifiable-stablecoin-usbd-for-institutions": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fonts.gstatic.com",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://modernconsensus.com/cryptocurrencies/boundary-to-launch-verifiable-stablecoin-for-institutions/": {
+    "valid": false
+  },
+  "https://x.com/audiumcp/status/2053841986361123115": {
+    "valid": true,
+    "company": "Driive",
+    "amount_str": "",
+    "website": "https://www.godriive.com",
+    "linkedin_url": "https://linkedin.com/company/getdriive",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "example@mysite.com",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://bharatfast.com/others/nori-350k-funding/32595/": {
+    "valid": true,
+    "company": "NORI Startup",
+    "amount_str": "$350K",
+    "website": "https://noristartup.com",
+    "linkedin_url": "",
+    "founder_name": "Vijay Shekhar Sharma",
+    "founder_linkedin_url": "",
+    "contact_email": "info@noristartup.com",
+    "twitter_url": ""
+  },
+  "https://www.facebook.com/pulse2news/posts/driive-raises-pre-seed-round-to-build-ai-scheduling-platform-for-home-service-tr/1659366052857084/": {
+    "valid": true,
+    "company": "Driive",
+    "amount_str": "",
+    "website": "https://getdriive.com",
+    "linkedin_url": "https://linkedin.com/company/getdriive",
+    "founder_name": "and Luke Hansen",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.mexc.com/news/1083212": {
+    "valid": true,
+    "company": "Boundary Labs",
+    "amount_str": "$2 m",
+    "website": "https://boundarylabs.com",
+    "linkedin_url": "https://linkedin.com/company/boundary-stablecoins",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.eweek.com/newsletter/daily-tech-insider/2026-05-11/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://cryptorank.io/news/feed/5220e-boundary-labs-institutional-stablecoin-usbd": {
+    "valid": false
+  },
+  "https://startupmapafrica.com/funding/cascador-scaleup-program": {
+    "valid": false
+  },
+  "https://shop.digicelgroup.com/dimproveu/vdevelopo/134254/38Z848U/funded-the__entrepreneurs-guide-to__raising-your-first_round.pdf": {
+    "valid": false
   }
 }
