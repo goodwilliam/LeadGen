@@ -60708,5 +60708,332 @@
   },
   "https://www.binance.com/en/square/post/322052093191650": {
     "valid": false
+  },
+  "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/": {
+    "valid": true,
+    "company": "Dessn",
+    "amount_str": "$6M",
+    "website": "https://www.dessn.ai",
+    "linkedin_url": "https://linkedin.com/company/dessn",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "gabriella@dessn.ai",
+    "twitter_url": "https://x.com/Dessn_ai"
+  },
+  "https://venturebeat.com/orchestration/is-your-enterprise-adaptive-to-ai": {
+    "valid": false
+  },
+  "https://news.crunchbase.com/venture/european-ai-funding-startups-recursive-ineffable-advanced-machine-intelligence/": {
+    "valid": false
+  },
+  "https://tech.eu/2026/05/12/paymentology-targets-new-growth-areas-with-175m-investment/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "of Paymentology",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://siliconangle.com/2026/05/12/honeycomb-introduces-agent-observability-features-keep-eye-production/": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/isomorphic-labs-secures-2-1-billion-funding-to-scale-its-ai-drug-design-engine-302769674.html": {
+    "valid": true,
+    "company": "Isomorphic Labs",
+    "amount_str": "$2.1 B",
+    "website": "https://www.isomorphiclabs.com",
+    "linkedin_url": "https://linkedin.com/company/isomorphic-labs",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "press@isomorphiclabs.com",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/pearl-diver-capital-introduces-investment-grade-clo-strategy-following-strong-performance-since-2024-302768964.html": {
+    "valid": false
+  },
+  "https://fortune.com/2026/05/12/greenboard-raises-15-5-million-series-a-to-keep-compliance-from-slowing-down-business/": {
+    "valid": true,
+    "company": "Greenboard",
+    "amount_str": "$15.5 m",
+    "website": "https://www.greenboard.com",
+    "linkedin_url": "https://linkedin.com/company/greenboard-compliance",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/former-meta-and-salesforce-leaders-raise-20m-from-accel-and-a16z-for-ai-workflow-startup/": {
+    "valid": true,
+    "company": "Meta and Salesforce leaders",
+    "amount_str": "$20M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.bizjournals.com/houston/news/2026/05/12/casimir-scout-quantum-power-chip.html": {
+    "valid": true,
+    "company": "Houston startup Casimir",
+    "amount_str": "$12M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.businessinsider.com/instacart-veterans-raise-8-5-million-automate-back-office-work-2026-5": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://i.insider.com/6a024a64ba7ef34b41f37315",
+    "linkedin_url": "",
+    "founder_name": "Champ AI",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.calcalistech.com/ctechnews/article/bycap9g1zg": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://newmedia.calcalist.co.il/ctech/testimonials/index.html",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "judith.hoffmann@calcalist.co.il",
+    "twitter_url": ""
+  },
+  "https://cyprus-mail.com/2026/05/12/kinisis-ventures-backs-chicago-based-firm-in-2-million-seed-round": {
+    "valid": false
+  },
+  "https://ventureburn.com/pillar-raises-e12m-to-modernise-construction-operations/": {
+    "valid": true,
+    "company": "Pillar",
+    "amount_str": "\u20ac12M",
+    "website": "https://pillar-us.com",
+    "linkedin_url": "https://linkedin.com/company/nippon-pillar-corporation-of-america",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/raja-khoury-80377a9",
+    "contact_email": "sales@pillar-us.com",
+    "twitter_url": ""
+  },
+  "https://www.axios.com/pro/climate-deals/2026/05/12/casimir-seed-round-energy-harvesting-chips": {
+    "valid": true,
+    "company": "Casimir",
+    "amount_str": "$12M",
+    "website": "https://www.jcasimir.com",
+    "linkedin_url": "https://linkedin.com/company/casimirinc",
+    "founder_name": "says founder and",
+    "founder_linkedin_url": "",
+    "contact_email": "info@mysite.com",
+    "twitter_url": "https://x.com/suricate"
+  },
+  "https://tech.eu/2026/05/12/very-difficult-for-us-competitors-in-europe-says-boss-of-healthtech-tandem-health/": {
+    "valid": false
+  },
+  "https://fortune.com/2026/05/12/exclusive-roadrunner-kleiner-founders/": {
+    "valid": true,
+    "company": "Roadrunner",
+    "amount_str": "$27 m",
+    "website": "https://www.roadrunnerrecords.com",
+    "linkedin_url": "https://linkedin.com/company/roadrunner-freight",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/grahamrihn",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.thesaasnews.com/news/fifth-dimension-secures-26m-series-a": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/dessn-lands-6m-funding-round": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/hakeem-health-bags-1-65-million-in-funding": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/pillar-raises-12m-in-seed-round": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/xcaliber-health-raises-6-5m-seed-round": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/05/12/robinhood-files-for-second-venture-fund-rvii-to-open-early-stage-ai-startup-investing-to-retail/": {
+    "valid": false
+  },
+  "https://theaiinsider.tech/2026/05/12/kohort-raises-7m-series-a-led-by-the-raine-group-launching-full-suite-of-ua-agents/": {
+    "valid": true,
+    "company": "Kohort",
+    "amount_str": "$7M",
+    "website": "https://getkohort.com",
+    "linkedin_url": "https://linkedin.com/company/kohort-io",
+    "founder_name": "with the",
+    "founder_linkedin_url": "",
+    "contact_email": "hi@getkohort.com",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/earlybird-and-base10-back-pillars-e12m-round-to-build-an-operating-system-for-construction/": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/05/index-ventures-backed-adfin-raises-e15-3-million-to-help-businesses-automate-revenue-collection-with-ai/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/05/rogue-raises-2-5m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://hypepotamus.com/startup-news/the-elephant-room-atlanta-music-startup/": {
+    "valid": false
+  },
+  "https://cryptobriefing.com/boundary-usbd-stablecoin-launch-2026/": {
+    "valid": true,
+    "company": "Boundary Labs",
+    "amount_str": "$2 m",
+    "website": "https://boundarylabs.com",
+    "linkedin_url": "https://linkedin.com/company/boundary-stablecoins",
+    "founder_name": "Matthew Mezger",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.indianretailer.com/news/magicdecor-appoints-abhijeet-dash-chief-marketing-officer": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/05/white-circle-raises-11m-in-seed-funding.html": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/05/12/belgiums-holmes-launches-with-e1-1-million-pre-seed-to-catch-software-bugs-before-they-reach-users/": {
+    "valid": false
+  },
+  "https://bebeez.eu/2026/05/12/quantum-computing-startup-frostbyte-raises-e1-3-million-for-cryogenic-cmos-tech/": {
+    "valid": false
+  },
+  "https://www.linkedin.com/posts/tech-funding-news_aikido-founders-back-11m-pre-seed-for-holmes-activity-7459867870559354880-ksZi": {
+    "valid": false
+  },
+  "https://www.tbsnews.net/economy/startup-investment-company-eyes-35m-funding-three-firms-four-months-1436961": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://tbsgraduates.net",
+    "linkedin_url": "https://linkedin.com/company/tbsgraduates",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.wamda.com/media/news?page=148": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://wamdacapital.com",
+    "linkedin_url": "https://linkedin.com/company/wamda-capital",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@wamdacapital.com",
+    "twitter_url": "https://x.com/WamdaCapital"
+  },
+  "https://intellectia.ai/news/crypto/boundary-labs-secures-2-million-preseed-funding-for-usbd-stablecoin": {
+    "valid": true,
+    "company": "Boundary Labs",
+    "amount_str": "$2 M",
+    "website": "https://boundarylabs.com",
+    "linkedin_url": "https://linkedin.com/company/boundary-stablecoins",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/TFNBreakingNews/status/2054102371530371089": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/05/tolemy-bio-raises-e1-4m-in-pre-seed-funding.html": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/lyrie-ai-raises-2m-pre-seed-round": {
+    "valid": false
+  },
+  "https://www.decypha.com/en/news/details/Gabster-closes--500K-pre-seed-round-to-develop-intelligent-business-solutions/21550308?TSID=&EDT=&L=EN": {
+    "valid": true,
+    "company": "Gabster",
+    "amount_str": "$500K",
+    "website": "https://www.gabster.ai",
+    "linkedin_url": "https://linkedin.com/company/gabster",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://x.com/EU_Startups/status/2054046139805233535": {
+    "valid": false
+  },
+  "https://msmeafricaonline.com/call-for-applications-carnegie-mellon-university-africa-innovation-hub-business-incubation-program-2026-2027-50000-usd-in-seed-funding/": {
+    "valid": false
+  },
+  "https://guardian.ng/news/navidyn-tuntunre-win-5000-at-innovate-pitch-and-grant-2026/": {
+    "valid": false
+  },
+  "https://fortune.com/2026/05/12/exclusive-white-circle-raises-11-million-to-stop-ai-models-from-going-rogue-in-the-workplace/": {
+    "valid": true,
+    "company": "White Circle",
+    "amount_str": "$11 m",
+    "website": "https://whitecircle.ai",
+    "linkedin_url": "https://linkedin.com/company/whitecircle",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/whitecircle"
+  },
+  "https://www.linkedin.com/posts/startuprise-usa_ciridae-os-startupnews-activity-7459928669558542337-IaRC": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://startuprise.io/ciridae-raises-20m-in-seed-funding-led-by-accel",
+    "linkedin_url": "https://linkedin.com/company/startuprise-europe",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "contact@startuprise.co.uk",
+    "twitter_url": "https://x.com/startuprise_eu"
+  },
+  "https://splash247.com/neptunezero-raises-e500000-to-scale-ai-driven-vessel-reporting-platform/": {
+    "valid": false
+  },
+  "https://www.vestbee.com/insights/articles/pillar-raises-12-m": {
+    "valid": true,
+    "company": "Pillar",
+    "amount_str": "\u20ac12M",
+    "website": "https://www.pillar.it/en-gb",
+    "linkedin_url": "https://linkedin.com/company/wearepillar",
+    "founder_name": "with participation from Italian",
+    "founder_linkedin_url": "",
+    "contact_email": "pillarsrl@legalmail.it",
+    "twitter_url": ""
+  },
+  "https://www.datacenterdynamics.com/en/news/quantum-computing-startup-frostbyte-raises-13-million-for-cryogenic-cmos-tech/": {
+    "valid": true,
+    "company": "Quantum computing startup FrostByte",
+    "amount_str": "\u20ac1.3 m",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.instagram.com/p/DYOolbtjUQ9/": {
+    "valid": false
+  },
+  "https://retailtechinnovationhub.com/home/2026/5/11/startup-carbontrac-targets-supermarkets-with-ai-tool-to-help-shoppers-cut-carbon-and-improve-their-health": {
+    "valid": false
+  },
+  "https://opportunitydesk.org/2026/05/12/afcfta-startup-acceleration-partnership-program-2026/": {
+    "valid": false
+  },
+  "https://www.finsmes.com/2026/05/pillar-raises-e12m-in-seed-funding.html": {
+    "valid": false
   }
 }
