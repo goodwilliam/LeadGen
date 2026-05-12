@@ -60462,5 +60462,251 @@
   },
   "https://shop.digicelgroup.com/dimproveu/vdevelopo/134254/38Z848U/funded-the__entrepreneurs-guide-to__raising-your-first_round.pdf": {
     "valid": false
+  },
+  "https://tech.eu/2026/05/12/ventory-closes-eur265m-funding-round-led-by-kbc-securities/": {
+    "valid": true,
+    "company": "Ventory",
+    "amount_str": "\u20ac2.65M",
+    "website": "https://www.ventory.io",
+    "linkedin_url": "https://linkedin.com/company/ventory",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@ventory.io",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/05/12/holmes-launches-with-eur11m-pre-seed-for-autonomous-software-testing/": {
+    "valid": true,
+    "company": "Holmes",
+    "amount_str": "",
+    "website": "https://useholmes.com",
+    "linkedin_url": "https://linkedin.com/company/holmes-us",
+    "founder_name": "with participation from Aikido",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/05/12/pillar-secures-eur12m-to-build-an-ai-powered-operating-system-for-construction/": {
+    "valid": true,
+    "company": "Pillar",
+    "amount_str": "\u20ac12M",
+    "website": "https://www.pillar.it",
+    "linkedin_url": "https://linkedin.com/company/wearepillar",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/raja-khoury-80377a9",
+    "contact_email": "pillarsrl@legalmail.it",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/05/12/dutch-healthtech-ditto-raises-eur76m-to-bring-ai-powered-patient-support-across-europe/": {
+    "valid": true,
+    "company": "Ditto",
+    "amount_str": "\u20ac7.6M",
+    "website": "https://www.dittocare.com",
+    "linkedin_url": "https://linkedin.com/company/dittocare",
+    "founder_name": "",
+    "founder_linkedin_url": "https://linkedin.com/in/adamfish24",
+    "contact_email": "info@ditto.care",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/05/12/white-circle-lands-11m-to-help-companies-secure-ai-systems/": {
+    "valid": true,
+    "company": "White Circle",
+    "amount_str": "$11M",
+    "website": "https://whitecircle.ai",
+    "linkedin_url": "https://linkedin.com/company/whitecircle",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/whitecircle"
+  },
+  "https://tech.eu/2026/05/12/tolemy-bio-lands-eur14m-to-power-ai-driven-cell-biology/": {
+    "valid": true,
+    "company": "Tolemy Bio",
+    "amount_str": "\u20ac1.4M",
+    "website": "https://tolemy.bio",
+    "linkedin_url": "https://linkedin.com/company/tolemy-bio",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "info@tolemy.bio",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/05/12/regulate-raises-eur14m-seed-to-bring-science-backed-breathwork-into-the-workplace/": {
+    "valid": true,
+    "company": "Regulate",
+    "amount_str": "\u20ac1.4M",
+    "website": "https://www.regulate.me",
+    "linkedin_url": "https://linkedin.com/company/regulateme",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "name@email.com",
+    "twitter_url": ""
+  },
+  "https://tech.eu/2026/05/12/with-18m-in-new-funding-adfin-expands-ai-powered-business-finance/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://securepubads.g.doubleclick.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.prnewswire.com/news-releases/trimble-technology-enables-first-centimeter-accurate-3d-model-of-disappearing-puncak-jaya-glaciers-302768915.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/infrastructure-capital-advisors-partners-with-nasdaq-to-launch-its-first-nasdaq-etf-infrastructure-capital-nasdaq-option-income-etf-qvol-302769129.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/cardinal-infrastructure-group-inc-announces-first-quarter-2026-results-and-raises-2026-outlook-302768908.html": {
+    "valid": false
+  },
+  "https://www.prnewswire.com/news-releases/psix-investor-alert-power-solutions-international-inc-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit-302768960.html": {
+    "valid": false
+  },
+  "https://techfundingnews.com/ai-product-design-dessn-connect-ventures/": {
+    "valid": true,
+    "company": "AI product design startup Dessn",
+    "amount_str": "$6M",
+    "website": "https://duck.ai",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/parker-fintech-chapter-7-bankruptcy-liquidation-y-combinator/": {
+    "valid": false
+  },
+  "https://coinmarketcap.com/academy/article/bounboundary-labs-raises-2m-institutional-stablecoin-usbd": {
+    "valid": true,
+    "company": "Boundary Labs",
+    "amount_str": "$2M",
+    "website": "https://boundarylabs.ai",
+    "linkedin_url": "https://linkedin.com/company/boundary-stablecoins",
+    "founder_name": "according to",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://eu.36kr.com/en/p/3805672617959173": {
+    "valid": true,
+    "company": "Doctoral Team",
+    "amount_str": "",
+    "website": "https://pmc.ncbi.nlm.nih.gov",
+    "linkedin_url": "https://linkedin.com/company/ncbinlm",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/ncbi"
+  },
+  "https://en.wowtale.net/2026/05/12/234046/": {
+    "valid": true,
+    "company": "MIDNIGHTWAVE",
+    "amount_str": "",
+    "website": "https://midnightwave.kr",
+    "linkedin_url": "https://linkedin.com/company/midnight-wave",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "help@imops.kr",
+    "twitter_url": ""
+  },
+  "https://en.incarabia.com/ksabased-siin-raises-us3-million-to-scale-live-commerce-across-the-gcc-853102.html": {
+    "valid": true,
+    "company": "KSA-Based Siin",
+    "amount_str": "$3 M",
+    "website": "https://mena.entrepreneur.com",
+    "linkedin_url": "https://linkedin.com/company/entrepreneur-me",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": "https://x.com/entmagazineme"
+  },
+  "https://www.analyticsinsight.net/tech-news/top-news-today-ai-eye-chip-holmes-funding-gmail-ai-crypto-bill": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://fea.assettype.com/quintype-ace/assets/story-92710e1988944b43ccdc.css",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://techfundingnews.com/pitch-deck-tolemy-bio-raises-e1-4m-from-norrsken-evolve-to-build-the-google-maps-for-cells/": {
+    "valid": false
+  },
+  "https://www.tradingview.com/news/financemagnates:026d737cc094b:0-twoway-raises-1-5m-pre-seed-round-to-process-broker-messages-across-european-banks/": {
+    "valid": false
+  },
+  "https://www.warrington-worldwide.co.uk/2026/05/12/north-west-businesses-benefit-from-share-of-275m-as-npif-ii-marks-second-anniversary/": {
+    "valid": false
+  },
+  "https://www.thesaasnews.com/news/driive-closes-pre-seed-round": {
+    "valid": false
+  },
+  "https://customerthink.com/two-founders-bet-that-documentation-is-the-missing-layer-in-the-ai-stack-happysupport-closes-pre-seed-investment/": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://happysupport.ai",
+    "linkedin_url": "https://linkedin.com/company/happysupport",
+    "founder_name": "with backing from sevDesk",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.linkedin.com/posts/eu-startups-menlo-media_belgiums-holmes-launches-with-11-million-activity-7459810968840200192-hfWe": {
+    "valid": false
+  },
+  "https://www.eu-startups.com/2026/05/belgiums-holmes-launches-with-e1-1-million-pre-seed-to-catch-software-bugs-before-they-reach-users/": {
+    "valid": false
+  },
+  "https://ground.news/article/lyrie-completes-2-million-preseed-round-to-build-the-security-layer-for-the-ai-agent-era_210d1f": {
+    "valid": true,
+    "company": "",
+    "amount_str": "",
+    "website": "https://groundnews.b-cdn.net",
+    "linkedin_url": "",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://phemex.com/news/article/boundary-labs-secures-2m-preseed-funding-for-verifiable-stablecoin-launch-80676": {
+    "valid": true,
+    "company": "Boundary Labs",
+    "amount_str": "$2M",
+    "website": "https://boundarylabs.ai",
+    "linkedin_url": "https://linkedin.com/company/boundary-stablecoins",
+    "founder_name": "",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://phemex.com/news/article/chainlink-active-addresses-surge-amid-defi-migration-80663": {
+    "valid": false
+  },
+  "https://observerid.com/wospac-barcelona-rep-office-indonesia-a-bridge-leading-them-to-greatness/": {
+    "valid": false
+  },
+  "https://www.binance.com/en/square/post/322189640793858": {
+    "valid": false
+  },
+  "https://www.panewslab.com/en/articles/019e199b-044e-7044-b35b-dbf1a30e25ff": {
+    "valid": false
+  },
+  "https://en.wowtale.net/2026/05/12/234049/": {
+    "valid": true,
+    "company": "ZiggsAI",
+    "amount_str": "",
+    "website": "https://www.ziggsai.com",
+    "linkedin_url": "",
+    "founder_name": "said Itay Gavish",
+    "founder_linkedin_url": "",
+    "contact_email": "",
+    "twitter_url": ""
+  },
+  "https://www.binance.com/en/square/post/322052093191650": {
+    "valid": false
   }
 }
